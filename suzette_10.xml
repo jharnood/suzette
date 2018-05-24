@@ -59,17 +59,7 @@
       </profileDesc>
    </teiHeader>
    <text>
-      <front>
-         <titlePage>
-            <titlePart type="main">SUZETTE</titlePart>
-            <titlePart type="sub">(LIVRE DE LA MAÎTRESSE)</titlePart>
-            <docAuthor>Marie Robert Halt</docAuthor>
-            <epigraph>
-               <ab>Je dédie ce livre aux institutrices de France.<lb />
-                  MARIE ROBERT HALT.</ab>
-            </epigraph>
-         </titlePage>
-      </front>
+      
       <body>
          <!-- n is for maitresse edition, corresp is for student edition -->
          
@@ -81,14 +71,14 @@
                   <head> 10. — Grosse affaire. (Élève, p. 25.) </head>
                   
                   <sp><speaker>Suzette</speaker><ab> — Ah ! ah ! tout va marcher comme il faut ! Papa m'a confié la maison, me voilà la maîtresse ! </ab></sp>
-                  <p> Dans un petit miroir, elle regarda la figure que faisait ce matin-là la maîtresse de la maison en robe d'indienne lilas à pois blancs, et on tablier de cotonnade <gloss> Indienne cotonnade. Étoffes de coton d'un prix peu élevé. </gloss> <!--There is an asterix after both indienne and cotonnade but only one definition, which word should it follow?--> frais déplié. Eh bien ! on n'était pas tout à fait mal dans ce nouveau rôle ! </p> <!--Is this last sentence dialogue?-->
-                  <p> Il n'y avait plus à cette heure qu'à faire sentir la main <gloss> Sentir la main. S'apercevoir qu'on est dirigé, guidé. </gloss> , d'abord, à la basse-cour qui, tant qu'on allait à l'école, ne se gênait pas pour vagabonder, ou se per- </p>
-                  
-                  <pb type="page" n="34"/>
-                  <fw type="header"> 34 SUZETTE. </fw>
-                  
-                  <p> dre ; et puis à MM. François et Charlot, plus indociles encore que la volaille. </p>
-                  <p> Quant à Jacques, il se conduisait tout seul, en aîné ; il travaillait bien avec M. Valon, qui le poussait vers la culture de la terre, et, convaincu qu'il n'y a pas de meilleure, de plus saine, de plus utile profession, le préparait avec ardeur à entrer à l'École d'agriculture <gloss> École d'agriculture. Établissement où l'on forme les jeunes gens à la culture intelligente. </gloss> . </p>
+                  <p> Dans un petit miroir, elle regarda la figure que faisait ce matin-là la maîtresse de la maison en robe d'indienne*<gloss> Indienne, cotonnade. Étoffes de coton d'un prix peu élevé. </gloss> lilas à pois blancs, et on tablier de cotonnade*<gloss> Indienne, cotonnade. Étoffes de coton d'un prix peu élevé. </gloss> frais déplié. <q type="thought"> Eh bien ! on n'était pas tout à fait mal dans ce nouveau rôle ! </q> </p> 
+                  <p> Il n'y avait plus à cette heure qu'à faire sentir la main*<gloss> Sentir la main. S'apercevoir qu'on est dirigé, guidé. </gloss> , d'abord, à la basse-cour qui, tant qu'on allait à l'école, ne se gênait pas pour vagabonder, ou se per- 
+                     
+                     <pb type="page" n="34"/>
+                     <fw type="header"> 34 SUZETTE. </fw>
+                     
+                     dre ; et puis à MM. François et Charlot, plus indociles encore que la volaille. </p>
+                  <p> Quant à Jacques, il se conduisait tout seul, en aîné ; il travaillait bien avec M. Valon, qui le poussait vers la culture de la terre, et, convaincu qu'il n'y a pas de meilleure, de plus saine, de plus utile profession, le préparait avec ardeur à entrer à l'École d'agriculture*<gloss> École d'agriculture. Établissement où l'on forme les jeunes gens à la culture intelligente. </gloss> . </p>
                   
                   <figure>
                      <caption> Dans un petit miroir, elle regarda la figure que faisait, ce matin-là, la maîtresse de la maison. </caption>
@@ -100,16 +90,22 @@
                      <caption> La basse-cour, bien dirigée, doit suffire à l'entretien du ménage. </caption>
                   </figure>
                   
-                  <p> De plus en plus François passait en contrebande <gloss> Contrebande. Faire entrer ou passer des marchandises sans payer les droits ; ici, agir en cachant ce qu'on fait. </gloss> son temps sur les arbres, ou dessous, à dresser des appeaux <gloss> Appeaux. Pièges tendus aux oiseaux. </gloss> , et Charlot consacrait le sien à admirer et à imiter les imaginations <gloss> Imaginations (des). Actes, projets bizarres contraires à ce qui est naturel. </gloss>  fraternelles. Avec cela, tous deux mettaient leurs vestes, leurs pantalons en loques. Pour le débarbouillage de leurs vilaines mains et de leurs joues de charbonniers, ils refusaient d'y entendre ; autant leur proposer une médecine. </p>
+                  <p> De plus en plus François passait en contrebande*<gloss> Contrebande. Faire entrer ou passer des marchandises sans payer les droits ; ici, agir en cachant ce qu'on fait. </gloss> son temps sur les arbres, ou dessous, à dresser des appeaux*<gloss> Appeaux. Pièges tendus aux oiseaux. </gloss> , et Charlot consacrait le sien à admirer et à imiter les imaginations*<gloss> Imaginations (des). Actes, projets bizarres contraires à ce qui est naturel. </gloss> fraternelles. Avec cela, tous deux mettaient leurs vestes, leurs pantalons en loques. Pour le débarbouillage de leurs vilaines mains et de leurs joues de charbonniers, ils refusaient d'y entendre ; autant leur proposer une médecine. </p>
                   
                   <pb type="page" n="35"/>
                   <fw type="header"> GROSSE AFFAIRE. 35 </fw>
                   
-                  <p> Justement, ce matin-là, le père et Jacques étant partis ensemble, les deux gamins se présentèrent, au saut du lit, avec les visages de la veille et de l'avant-veille, tatoués <gloss> Tatouer. Tracer des dessins sur la peau au moyen de piqûres. </gloss> des plis de l'oreiller, les cheveux en broussailles. </p>
+                  <p> Justement, ce matin-là, le père et Jacques étant partis ensemble, les deux gamins se présentèrent, au saut du lit, avec les visages de la veille et de l'avant-veille, tatoués*<gloss> Tatouer. Tracer des dessins sur la peau au moyen de piqûres. </gloss> des plis de l'oreiller, les cheveux en broussailles. </p>
                   <sp><speaker>Suzette</speaker><ab> — Oh ! mais, on va cette fois m'obéir, se laver, et à grande eau ! </ab></sp> <stage> dit Suzette avec une voix de commandement. </stage>
+                  
                   <p> François entonna : </p>
-                  <sp><speaker>François</speaker><ab> « C'est le roi Dagobert <lb/>
-                  « Qui a mis sa culotte à l'envers ! » </ab></sp>
+                  
+                  <sp><speaker>François</speaker> 
+                     <lg type="song">
+                        <l> « C'est le roi Dagobert </l>
+                        <l> « Qui a mis sa culotte à l'envers ! » </l>
+                     </lg></sp>
+                  
                   <sp><speaker>Suzette</speaker><ab> — C'est vous, c'est vous, Monsieur ! </ab></sp> <stage> reprit sévèrement la maîtresse de la maison. </stage> <sp><speaker>Suzette</speaker><ab> Le roi Dagobert était beaucoup plus soigneux que cela, et il n'allait pas à l'école sans se laver au moins le nez. Le vôtre est fort malpropre. A la cuvette, Monsieur François ! obéissez, et rondement ! </ab></sp>
                   
                   <figure>
@@ -118,17 +114,17 @@
                   
                   <p> Comme on venait de parler de nez, le « singe » posa sur le sien son pouce, et agita les quatre doigts pour marquer ce qu'il pensait de l'obéissance due à Suzette. </p>
                   <p> Et Charlot, fidèle à l’exemple, en fit autant. </p>
-                  <p> Sur quoi Suzette, de fort mauvaise humeur devant la rébellion <gloss> Rébellion. Résistance faite les armes à la main. </gloss> , leva la main. </p>
+                  <p> Sur quoi Suzette, de fort mauvaise humeur devant la rébellion*<gloss> Rébellion. Résistance faite les armes à la main. </gloss>, leva la main. </p>
                   <p> Mais François, la saisissant, la lui serra à la faire presque crier. </p>
                   <sp><speaker>François</speaker><ab> — Tout le monde est ici autant que toi, </ab></sp> <stage> dit-il ; </stage> <sp><speaker>François</speaker><ab> nous nous laverons quand il nous plaira, pas avant ! </ab></sp>
                   <sp><speaker>Charlot</speaker><ab> — Non ! pas avant ! </ab></sp> <stage> répéta Charlot sur le même ton. </stage>
                   <p> Et ils se sauvèrent. </p>
-                  <p> Restée seule, Suzette se mit à pleurer. Quel début dans la maîtrise ! Et comment s'y prendre pour obtenir </p>
-                  
-                  <pb type="page" n="36"/>
-                  <fw type="header"> 36 SUZETTE. </fw>
-                  
-                  <p> des gens leur débarbouillage ? Oh ! que bien faire est difficile ! </p>
+                  <p> Restée seule, Suzette se mit à pleurer. Quel début dans la maîtrise ! Et comment s'y prendre pour obtenir 
+                     
+                     <pb type="page" n="36"/>
+                     <fw type="header"> 36 SUZETTE. </fw>
+                     
+                     des gens leur débarbouillage ? Oh ! que bien faire est difficile ! </p>
                   
                   <div type="questionnaire">
                      <ab>
@@ -146,48 +142,43 @@
                      <div type="morale">
                         <head type="sujets"> Morale. </head> 
                         
-                        <ab type="question" n="1"> — Que pensez-vous des amusements de François ? </ab>
-                        <ab type="question" n="2"> — Pourquoi sa conduite n'est-elle pas exemplaire pour Charlot ? </ab>
-                        <ab type="question" n="3"> — Pourquoi n'est-elle pas celle d'un bon petit frère à l'égard de Suzette ? </ab>
-                        <ab type="question" n="4"> — Qu'auraient dû faire les deux jeunes garçons ? </ab>
-                  
-                        <ab type="answer" n="1"> Je pense que François ne pouvait choisir de pires amusements. D'abord, il négligeait l'école et il employait le meilleur de son temps à dénicher les oiseaux, plaisir imbécile et cruel ; puis il déchirait ses vêtements en grimpant aux arbres, ce qui constituait pour son père un surcroît de dépenses, et pour Suzette le motif d'un travail fatigant. </ab>
-                        <ab type="answer" n="2-3"> Sa conduite à l'égard de Charlot est très blâmable ; en qualité d'aîné, il était tenu de donner de bons exemples au pauvre petit orphelin, et, loin de là, il l'accoutumait à la paresse tout en l'excitant à la rébellion contre leur sœur. Cette façon d'agir était d'autant plus coupable que la jeune fille remplaçait la mère, qui n'était plus, dans la tenue du ménage, tâche bien lourde et bien méritoire pour cette enfant à peine adolescente. </ab>
-                        <ab type="answer" n="4"> Les deux jeunes garçons auraient dû tenir compte des ordres de Suzette ; peut-être leur commandait-elle d'un ton trop absolu, mais la bonté de l'intention la rendait excusable. La façon de répondre de François prouve combien la légèreté d'esprit gâte le cœur. </ab>
+                        <ab type="question"> — Que pensez-vous des amusements de François ? — Pourquoi sa conduite n'est-elle pas exemplaire pour Charlot ? — Pourquoi n'est-elle pas celle d'un bon petit frère à l'égard de Suzette ? — Qu'auraient dû faire les deux jeunes garçons ? </ab>
+                        
+                        <ab type="answer"> Je pense que François ne pouvait choisir de pires amusements. D'abord, il négligeait l'école et il employait le meilleur de son temps à dénicher les oiseaux, plaisir imbécile et cruel ; puis il déchirait ses vêtements en grimpant aux arbres, ce qui constituait pour son père un surcroît de dépenses, et pour Suzette le motif d'un travail fatigant. <lb/>
+                           Sa conduite à l'égard de Charlot est très blâmable ; en qualité d'aîné, il était tenu de donner de bons exemples au pauvre petit orphelin, et, loin de là, il l'accoutumait à la paresse tout en l'excitant à la rébellion contre leur sœur. Cette façon d'agir était d'autant plus coupable que la jeune fille remplaçait la mère, qui n'était plus, dans la tenue du ménage, tâche bien lourde et bien méritoire pour cette enfant à peine adolescente. <lb/>
+                           Les deux jeunes garçons auraient dû tenir compte des ordres de Suzette ; peut-être leur commandait-elle d'un ton trop absolu, mais la bonté de l'intention la rendait excusable. La façon de répondre de François prouve combien la légèreté d'esprit gâte le cœur. </ab>
                      </div>
-                       
+                     
                      <div type="EconDom">
                         <head type="sujets"> Économie domestique. </head> 
                         
-                        <ab type="question" n="1"> — Dites ce qu'est une basse-cour et quels animaux la peuplent. </ab>
-                        <ab type="question" n="2"> — Quelles petites constructions y voit-on ? Donnez quelques détails sur chacune. </ab>
-                        <ab type="question" n="3"> — Quel animal de basse-cour vous paraît le plus utile ? — Pourquoi ? </ab>
-                 
-                        <ab type="answer" n="1-2"> La basse-cour est un enclos attenant à une maison d'agriculteur ou compris dans les dépendances d'une ferme. On y entasse ordinairement les fumiers, et l'on en fait le séjour habituel des volailles, des lapins et des porcs. Tous ces animaux sont logés, soit à demeure, soit de nuit seulement, dans des constructions légères fermées ordinairement de treillages métalliques ; celles qu'on destine aux volailles sont munies de tout ce qu'il faut pour faciliter la ponte et l'éclosion des œufs. Les pigeons habitent un local élevé de 3 ou 4 mètres au-dessus du sol, auquel on donne fréquemment la forme d'une tour ; ils y pénètrent par une étroite ouverture qu'on forme à la nuit tombante. On remarque dans les colombiers nombre de petites cases pour nicher los pigeonneaux de chaque couple. </ab> 
-                        <ab type="answer" n="3"> Les animaux de basse-cour les plus utiles sont le porc et les lapins. Les porcs sont installés dans des loges dont l'entrée est au niveau du sol ; quant aux lapins, on les enferme dans des clapiers, petites cabanes étroites, fermées par une toile métallique et exposées au midi.</ab>
+                        <ab type="question"> — Dites ce qu'est une basse-cour et quels animaux la peuplent. — Quelles petites constructions y voit-on ? Donnez quelques détails sur chacune. — Quel animal de basse-cour vous paraît le plus utile ? — Pourquoi ? </ab>
+                        
+                        <ab type="answer"> La basse-cour est un enclos attenant à une maison d'agriculteur ou compris dans les dépendances d'une ferme. On y entasse ordinairement les fumiers, et l'on en fait le séjour habituel des volailles, des lapins et des porcs. Tous ces animaux sont logés, soit à demeure, soit de nuit seulement, dans des constructions légères fermées ordinairement de treillages métalliques ; celles qu'on destine aux volailles sont munies de tout ce qu'il faut pour faciliter la ponte et l'éclosion des œufs. Les pigeons habitent un local élevé de 3 ou 4 mètres au-dessus du sol, auquel on donne fréquemment la forme d'une tour ; ils y pénètrent par une étroite ouverture qu'on ferme à la nuit tombante. On remarque dans les colombiers nombre de petites cases pour nicher les pigeonneaux de chaque couple. <lb/> 
+                           Les animaux de basse-cour les plus utiles sont le porc et les lapins. Les porcs sont installés dans des loges dont l'entrée est au niveau du sol ; quant aux lapins, on les enferme dans des clapiers, petites cabanes étroites, fermées par une toile métallique et exposées au midi.</ab>
                      </div>
-                       
-                        <div type="civilite">
-                           <head type="sujets"> Civilité. </head> 
+                     
+                     <div type="civilite">
+                        <head type="sujets"> Civilité. </head> 
+                        
+                        <ab type="question"> — Quels gestes sont peu polis et peu convenables ? </ab>
+                        
+                        <ab type="answer"> La plupart des jeunes filles comprennent ce que prescrivent, au
                            
-                           <ab type="question" n="1"> — Quels gestes sont peu polis et peu convenables ? </ab>
+                           <pb type="page" n="37"/>
+                           <fw type="header"> LA PETITE HIRONDELLE. 37 </fw>
                            
-                           <ab type="answer" n="1"> La plupart dos jeunes filles comprennent ce que proscrivent, au
-                  
-                              <pb type="page" n="37"/>
-                              <fw type="header"> LA PETITE HIRONDELLE. 37 </fw>
-                  
-                  point de vue des gestes, la modestie et les convenances ; cependant il en est quelques-unes qui ne craignent pas de répondre comme François à un ordre et à une observation. D'autres agitent les bras, hochent la tête avec accompagnement de grimaces, mettent le poing sur la hanche, se tortillent sur leurs jambes, etc., etc. Combien elles sont ridicules quand elles s'oublient de la sorte, et combien elles donnent une idée peu favorable de leurs manières ! On ne saurait donc leur recommander trop instamment do conformer leur tenue à celle des dames bien élevées, si elles ne veulent pas qu'on les classe parmi les enfants grossières et effrontées. </ab>
-                        </div>
+                           point de vue des gestes, la modestie et les convenances ; cependant il en est quelques-unes qui ne craignent pas de répondre comme François à un ordre et à une observation. D'autres agitent les bras, hochent la tête avec accompagnement de grimaces, mettent le poing sur la hanche, se tortillent sur leurs jambes, etc., etc. Combien elles sont ridicules quand elles s'oublient de la sorte, et combien elles donnent une idée peu favorable de leurs manières ! On ne saurait donc leur recommander trop instamment de conformer leur tenue à celle des dames bien élevées, si elles ne veulent pas qu'on les classe parmi les enfants grossières et effrontées. </ab>
+                     </div>
                      
                      <div type="histoire">
                         <head type="sujets"> Histoire. </head> 
                         
-                        <ab type="question" n="1"> — Donnez quelques détails sur Dagobert et sur saint Éloi, son ministre. </ab>
-                   
-                        <ab type="answer" n="1"> Dagobert, roi des Francs, gouverna d'abord l'Austrasie au nom de son père Clotaire II. Il lui succéda en 631, et posséda de plus la Neustrie. Le reste de la Franco, connu sous le nom d'Aquitaine, ne lui advint qu'après la mort de son frère Charibert.
-                  Dagobert fut un roi magnifique : la splendeur de sa cour frappa à tel point les populations barbares, que le souvenir de son règne, est resté vivant dans la mémoire du peuple. Il eut une conduite peu exemplaire, et il crut obtenir le pardon de ses fautes par des dons considérables aux églises ; on lui doit la fondation de l'abbaye de Saint-Denis, où dorénavant furent inhumés les rois.
-                  Entouré d'habiles ministres, parmi lesquels nous citerons l'orfèvre saint Éloi (588-659), qui devint évêque de Noyon, Dagobert maintint son autorité sur les peuples tributaires. On lui reproche le massacre de dix mille Bulgares, qui avaient demandé et obtenu asile dans le royaume. Il mourut prématurément en 638, après un règne de dix ans. </ab>
+                        <ab type="question"> — Donnez quelques détails sur Dagobert et sur saint Éloi, son ministre. </ab>
+                        
+                        <ab type="answer"> Dagobert, roi des Francs, gouverna d'abord l'Austrasie au nom de son père Clotaire II. Il lui succéda en 631, et posséda de plus la Neustrie. Le reste de la France, connu sous le nom d'Aquitaine, ne lui advint qu'après la mort de son frère Charibert. <lb/>
+                           Dagobert fut un roi magnifique : la splendeur de sa cour frappa à tel point les populations barbares, que le souvenir de son règne, est resté vivant dans la mémoire du peuple. Il eut une conduite peu exemplaire, et il crut obtenir le pardon de ses fautes par des dons considérables aux églises ; on lui doit la fondation de l'abbaye de Saint-Denis, où dorénavant furent inhumés les rois. <lb/>
+                           Entouré d'habiles ministres, parmi lesquels nous citerons l'orfèvre saint Éloi (588-659), qui devint évêque de Noyon, Dagobert maintint son autorité sur les peuples tributaires. On lui reproche le massacre de dix mille Bulgares, qui avaient demandé et obtenu asile dans le royaume. Il mourut prématurément en 638, après un règne de dix ans. </ab>
                         
                      </div>
                   </div>
