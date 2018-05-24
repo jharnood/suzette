@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Suzette: a Digital Edition - Chapter 7</title>
+            <respStmt>
+               <persName>John Westbrook</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Annie Girton</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="JAKA1">Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>               
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>Bucknell University</distributor>
+            <pubPlace>
+               <address>
+                  <addrLine>One Dent Drive</addrLine>
+                  <addrLine>Lewisburg, PA 17837</addrLine>
+               </address>
+            </pubPlace>
+            <availability>
+               <licence>Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles. Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine – Couture</title>
+                  <author>Robert Halt</author>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <date>1889</date>
+                     <distributor>Libraire Classique Paul Delaplane</distributor>
+                     <pubPlace>Paris, France</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      
+      <profileDesc>
+         <langUsage>
+            <language ident="fra">French</language>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <titlePage>
+            <titlePart type="main">SUZETTE</titlePart>
+            <titlePart type="sub">(LIVRE DE LA MAÎTRESSE)</titlePart>
+            <docAuthor>Marie Robert Halt</docAuthor>
+            <epigraph>
+               <ab>Je dédie ce livre aux institutrices de France.<lb />
+                  MARIE ROBERT HALT.</ab>
+            </epigraph>
+         </titlePage>
+      </front>
+      <body>
+         <!-- n is for maitresse edition, corresp is for student edition -->
+         
+         <div type="chapter" n="7">
+            <div xml:lang="fr">
+               <div type="student">
+                  
+                  <pb type="page" n="22"/>
+                  <head> 7. — Le petit héroïsme. (Élève, p. 17.) </head>
+                  
+                  <p> L'héroïsme <gloss> Héroïsme. Disposition à faire des actions utiles et désintéressées. </gloss> est une des plus belles vertus de l'humanité. </p>
+                  <p> En 1472, Beauvais est assiégé par Charles le Téméraire <gloss> Charles le Téméraire. Duc de Bourgogne, ambitieux, cruel, qui vécut au XVe siècle. </gloss> ; à la tête des femmes, Jeanne Hachette arrache un étendard <gloss> Étendard. Pièce d'étoffe suspendus à une lance et qui sert à rallier les soldats. </gloss> bourguignon déjà planté sur le rempart et détermine la victoire. </p>
+                  <p> En 1870, en Lorraine, un régiment français, poursuivi, passe devant la ferme de Villedieu. Bientôt après </p> 
+                     
+                     <pb type="page" n="23"/>
+                     <fw type="header"> LE PETIT HÉROÏSME. 23 </fw>
+                  
+                  <p> arrivent les Prussiens : </p> <sp><speaker>Le capitaine</speaker><ab> — « Quelle route ont suivie les Français? »  </ab></sp> <stage> demande le capitaine à la jeune fermière, 
+                  <!--This dialogue is structured differently than the majority considering it has quotations; it is completely within a paragraph which creates an error; following the quotation would probably be a stage direction, but it contains a page break which can't be left open-->
+                   
+                  <figure>
+                     <caption> Jeanne Hachette arrache un étendard bourguignon… </caption>
+                  </figure>
+                  
+                  Suzanne Didier. </stage> <p> La compatriote de la grande Jeanne d'Arc refuse de répondre. </p> <sp><speaker>Le capitaine</speaker><ab> — « Parle ! ou tu vas mourir. » </ab></sp> <stage> — Elle se tait. Les fusils sont braqués sur elle ; elle se tait encore. </stage> <sp><speaker>Le capitaine</speaker><ab> <!--Is this le capitaine speaking?--> — « Feu ! » </ab></sp> <stage> — La noble fille tombe foudroyée. </stage>
+                  
+                     <pb type="page" n="24"/>
+                     <fw type="header"> 24 SUZETTE. </fw>
+                  
+                  <p> Ces deux femmes sont des héroïnes. Ce sont des héros aussi les citoyens qui, spontanément <gloss> Spontanément. Agir spontanément, c'est faire une chose sans que personne vous y excite. </gloss> , sans le moindre souci de récompense, se jettent à la tête d'un cheval emporté <gloss> Cheval emporté. Cheval furieux qui ne se soumet plus à l'action du frein. </gloss> , dans les flammes d'un incendie, ou à l'eau, pour sauver leur semblable. </p>
+                  <p> Mais, à côté de ces coups de force et de dévouement </p>
+                  
+                  <figure>
+                     <caption> Paf ! voilà un verre par terre, ou le balai qui s'allonge comme un balourd et accroche une pile d'assiettes. </caption>
+                  </figure>
+                  
+                  <p> qui emportent l'admiration, il est un autre héroïsme, celui-là tout petit, terre-à-terre, et pourtant admirable aussi. C'est la persévérance patiente dans la poursuite du devoir journalier, continu et effacé <gloss> Effacé. Dans ce sens : qui ne cherche pas à être vu, remarqué. </gloss> ; modeste plante qui ne fleurit pas toujours dans la volonté des jeunes filles. </p>
+                  <p> Il fait beau temps, un de ces bons soleils qui appellent au dehors ; c'est dimanche ou jeudi ; les petites amies jouent là-bas, chantent des rondes sur l'herbe : </p>
+                  
+                  <sp><speaker>Les Filles</speaker><ab> « Entrez dans la danse ! <lb/>
+                     « Voyez comme on danse. » </ab></sp>
+                  <!--These two lines are sung by les filles (Suzette and ?); it is not structured the same as the other dialogue - should it be tagged differntly?-->
+                  
+                  <p> Les frères sont sous bois ; Jacques cherche des pa- </p>
+                  
+                  <pb type="page" n="25"/>
+                  <fw type="header"> LE PETIT HÉROÏSME. 25 </fw>
+                  
+                  <p> pillons; Charlot court à ses côtés, et probablement monsieur François grimpe de branche en branche à la poursuite des oiseaux. </p>
+                     <p> Mais ici on balaye, on range, on frotte ; et parfois, à la moindre distraction des yeux ou des mains, paf ! voilà un verre par terre ou le balai qui s'allonge comme un balourd <gloss> Balourd. Qui est grossier et maladroit. </gloss> et accroche une pile d'assiettes. </p>
+                  
+                  <sp><speaker>Unclear</speaker><ab> — Ah ! il y a des jours où tout va de travers ! </ab></sp> 
+                  <!--Who says this?-->
+                  
+                     <div type="questionnaire">
+                        <ab>
+                           <hi rend="bold"> Questionnaire. </hi> — Racontez ce que vous savez de Jeanne Hachette ; — de Suzanne Didier. — Où se trouvent Beauvais, la Lorraine, Metz ? — Quels citoyens donnent également des exemples d'un courage héroïque ? — Quel héroïsme modeste est admirable
+                           <cb/>
+                           encore? — Que faisaient, un certain jeudi, les amies de Suzette ; — ses frères ? — Comment passait-elle, à son tour, cette même journée ? — Que pensez-vous d'elle? — Quel accident représente la gravure ?
+                        </ab>
+                     </div>
+               </div>
+               
+               <div type="teacher">
+                  <div type="exercice">
+                     <head type="exercice"> DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES. </head>
+                     
+                     <div type="morale">
+                        <head type="sujets"> Morale. </head> 
+                        
+                        <ab type="question" n="1"> — Montrez, en citant un exemple, que vous comprenez ce que c'est de sacrifier son plaisir à son devoir. </ab> 
+                  
+                        <ab type="answer" n="1"> Maman est occupée à un travail qu'elle ne peut abandonner un instant ; moi, je joue dans le jardin avec mes amies, et voici que j'entends mon frère crier dans son berceau. Je pourrais continuer à jouer, mais combien le pauvre petit se tourmenterait, et combien maman serait chagrine de ne pouvoir venir à son secours ! Alors je sacrifie mon plaisir à mon devoir, et, prenant le bébé dans mes bras, je m'efforce de soulager son mal et de l'égayer par mes sourires ou de douces paroles.
+                  Il en est de même lorsque, pour préparer mes leçons du lendemain, je refuse de prendre part à une partie de plaisir organisée par mes compagnes. </ab>
+                     </div>
+                     
+                     <div type="histoire">
+                        <head type="sujets"> Histoire. </head>
+                        
+                        <ab type="question" n="1"> — Quelle est votre patrie ? </ab> 
+                        <ab type="question" n="2"> — Pourquoi l'aimez-vous ? </ab> 
+                        <ab type="question" n="3"> — Que font les ennemis lorsque, pendant la guerre, ils entrent en France ? </ab> 
+                        <ab type="question" n="4"> — Qui défend la patrie ? </ab> 
+                        <ab type="question" n="5"> — Connaissez-vous des femmes qui ont exposé ou sacrifié leur vie pour la patrie ? </ab> 
+                      
+                        <ab type="answer" n="1-2"> Ma patrie est la France, cette belle et vaste contrée habitée par une nation honnête, laborieuse et vaillante. Je l'aime, parce que sur son sol habitent ceux qui sont l'objet de mes affections ; parce que c'est là que mes ancêtres ont vécu et que reposent leurs restes vénérés ; parce qu'il n'y a rien dans le monde de grand et de généreux auquel elle n'ait participé. C'est de plus un magnifique pays, fertile, pittoresque et situé de la manière la plus heureuse sur le continent européen. </ab>
+                        <ab type="answer" n="3">  Lorsque les ennemis envahissent la France, et nous avons connu cette honte en 1814, 1815, 1870, ils portent partout la dévastation et la ruine ; ils agissent en maîtres, maltraitent les gens, et tuent sans pitié ceux qui leur résistent. Il n'est pas de situation plus affreuse. </ab>
+                        <ab type="answer" n="4"> La défense de la patrie est confiée à l'armée; en cas d'invasion, tout homme valide devient soldat. </ab>
+                        <ab type="answer" n="5"> Souvent des femmes courageuses ont exposé et sacrifié leur vie pour la patrie ; parmi elles, je citerai l'héroïque Jeanne d'Arc, que les Anglais brûlèrent vive à Rouen ; les femmes de Beauvais, en 1472 ; celles de Marseille, en 1525. En 1871, une jeune receveuse des postes et des
+                    
+                           <fw type="sig"> SUZETTE (Maîtresse). 2 </fw>  
+                           
+                           <pb type="page" n="26"/>
+                           <fw type="header"> 26 SUZETTE. </fw>
+                  
+                  télégraphes, Mlle Dodu, intercepta au péril de sa vie les dépêches ennemies ; et à la même époque, combien de sœurs de charité tombèrent sous les balles allemandes en soignant les blessés, sur les champs de bataille ! </ab>
+                     </div>
+                     
+                     <div type="sciencesNat">
+                        <head type="sujets"> Sciences naturelles. </head>
+                        
+                        <ab type="question" n="1"> — Qu'est-ce qu'un bois ; une forêt ? </ab>  <!--2 questions or 1?-->
+                        <ab type="question" n="2"> — Qu'est-que l'on en retire ? </ab>
+                        <ab type="question" n="3"> — Que font les pauvres gens qui ne peuvent acheter du bois ? </ab>
+                        <ab type="question" n="4"> — A quoi sert le bois des grands arbres? </ab>
+                        
+                        <ab type="answer" n="1-2"> Un bois est un espace de terrain couvert d'arbres que l'on coupe à des époques fixes, soit pour les besoins du chauffage, soit pour en obtenir des pièces de charpente, des pieux, des cercles, etc.
+                  Une forêt est un bois qui couvre une grande superficie et où on laisse croître les grands arbres dont l'État et les particuliers ont besoin pour les constructions navales. Une foule d'animaux sauvages y habitent ; tels sont les cerfs et les biches, les chevreuils, les sangliers, les blaireaux, sans compter le gibier à poil et à plume. Dans les régions montagneuses, elles donnent asile aux loups, aux ours et à d'autres bêtes carnassières. Les plus belles forêts de France sont celles de Fontainebleau, de Compiègne, d'Orléans et celles qui couvrent les Landes ainsi que les pentes du Jura, des Vosges, du Morvan.</ab>
+                        <ab type="answer" n="3"> Au commencement de la saison rigoureuse, les pauvres gens auxquels leur position de fortune ne permet pas d'acheter du bois de chauffage, ramassent, dans les forêts, ou les bois les rameaux desséchés et les branches mortes ; ils en forment des fagots qu'ils transportent péniblement dans leurs habitations. </ab>
+                        <ab type="answer" n="4"> Le bois des grands arbres sert aux constructions navales, comme nous l'avons déjà dit ; on en tire encore des pièces de charpente : poutres, solives, planches ; on en confectionne des pilotis, des machines, des meubles, des outils et une foule d'objets d'un usage quotidien. </ab>
+                  
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
