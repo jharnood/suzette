@@ -59,17 +59,7 @@
       </profileDesc>
    </teiHeader>
    <text>
-      <front>
-         <titlePage>
-            <titlePart type="main">SUZETTE</titlePart>
-            <titlePart type="sub">(LIVRE DE LA MAÎTRESSE)</titlePart>
-            <docAuthor>Marie Robert Halt</docAuthor>
-            <epigraph>
-               <ab>Je dédie ce livre aux institutrices de France.<lb />
-                  MARIE ROBERT HALT.</ab>
-            </epigraph>
-         </titlePage>
-      </front>
+
       <body>
          <!-- n is for maitresse edition, corresp is for student edition -->
          
