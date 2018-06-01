@@ -49,6 +49,7 @@
                </monogr>
             </biblStruct>
          </sourceDesc>
+         
       </fileDesc>
       
       <profileDesc>
@@ -57,6 +58,40 @@
             <language ident="eng">English</language>
          </langUsage>
       </profileDesc>
+      <encodingDesc>
+         <charDecl>
+            <char>
+               <charName xml:id="suzette">Suzette</charName>
+            </char>
+            <char>
+               <charName xml:id="papa">Papa</charName>
+            </char>
+            <char>
+               <charName xml:id="jacques">Jacques</charName>            
+            </char>
+            <char>
+               <charName xml:id="francois">François</charName>
+            </char>
+            <char>
+               <charName xml:id="charlot">Charlot</charName>
+            </char>
+            <char>
+               <charName xml:id="m_valon">M. Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="mme_valon">Mme. Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="louis">Louis</charName>
+            </char>
+            <char>
+               <charName xml:id="pascal">Pascal</charName>
+            </char>
+            <char>
+               <charName xml:id="ludivine">Ludivine</charName>
+            </char>        
+         </charDecl>
+      </encodingDesc>
    </teiHeader>
    <text>
 

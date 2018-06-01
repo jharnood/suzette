@@ -50,6 +50,41 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <charDecl>
+            <char>
+               <charName xml:id="suzette">Suzette</charName>
+            </char>
+            <char>
+               <charName xml:id="papa">Papa</charName>
+            </char>
+            <char>
+               <charName xml:id="jacques">Jacques</charName>            
+            </char>
+            <char>
+               <charName xml:id="francois">François</charName>
+            </char>
+            <char>
+               <charName xml:id="charlot">Charlot</charName>
+            </char>
+            <char>
+               <charName xml:id="m_valon">M. Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="mme_valon">Mme. Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="louis">Louis</charName>
+            </char>
+            <char>
+               <charName xml:id="pascal">Pascal</charName>
+            </char>
+            <char>
+               <charName xml:id="ludivine">Ludivine</charName>
+            </char>        
+         </charDecl>
+      </encodingDesc>
+               
       
       <profileDesc>
          <langUsage>
@@ -70,7 +105,7 @@
                   <pb type="page" n="90"/>
                   <head>25. — Un peu de lumière. (Élève, p. 61.)</head>
          
-                  <p>> La journée commença mal : une poule des plus belles, une grise pailletée*<gloss>Pailleté. Plumage pailleté, celui qui présente des taches nombreuses de teintes variées.</gloss>, à toupet blanc, fut trouvée morte dans le poulailler ; <persName>François</persName>, dans son lit, avait toujours la fièvre. </p>
+                  <p>> La journée commença mal : une poule des plus belles, une grise pailletée*<gloss>Pailleté. Plumage pailleté, celui qui présente des taches nombreuses de teintes variées.</gloss>, à toupet blanc, fut trouvée morte dans le poulailler ; <persName ana="#francois">François</persName>, dans son lit, avait toujours la fièvre. </p>
                   <sp><speaker>Suzette</speaker><ab> Oh ! la chouette, la chouette ! l'oiseau de malheur !... Et il fallait attendre encore presque un jour entier avant de revoir <persName>la bohémienne</persName> ! Aurait-elle au moins commencé les conjurations ? </ab></sp> <stage> A ces pensées, <persName>Suzette</persName> se sentait défaillir*<gloss>Défaillir. Tomber en faiblesse.</gloss>. </stage> 
                   <p> Son <persName>père</persName> parti aux champs où le travail pressait, <persName>Charlot</persName> ronflant encore, et <persName>le patient</persName> allongé dans son lit, elle s'assit devant l'âtre, sans force pour l'ouvrage matinal, et demeura là toute brisée. Quelqu'un entra qui, d'une voix bien connue, lui demanda des nouvelles de <persName>François</persName>. </p>
                   
@@ -78,7 +113,7 @@
                      <caption> Coq et poule. </caption>
                   </figure>
                   
-                  <sp><speaker>Suzette</speaker><ab> — Ah ! <persName>Madame</persName> ! </ab></sp> <stage> s'écria <persName>Suzette</persName> en se levant pour se jeter tout en pleurs au cou de <persName>Mme Valon</persName>. </stage>
+                  <sp><speaker>Suzette</speaker><ab> — Ah ! <persName ana="#mme_valon">Madame</persName> ! </ab></sp> <stage> s'écria <persName>Suzette</persName> en se levant pour se jeter tout en pleurs au cou de <persName>Mme Valon</persName>. </stage>
                   <sp><speaker>Mme Valon</speaker><ab> — Eh bien ! qu'y a-t-il, <persName>mon enfant</persName> ? </ab></sp>
                   <sp><speaker>Suzette</speaker><ab> — <persName>François</persName> est malade, bien malade ! </ab></sp>
                   <sp><speaker>Mme Valon</speaker><ab> — Bien malade ?... de ce mal au nez dont on vient de me parler à l'instant ?... </ab></sp>
