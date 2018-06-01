@@ -97,101 +97,104 @@
       <body>
          <!-- n is for maitresse edition, corresp is for student edition -->
          
-         <div type="chapter" n="21">
+         <div type="chapter" n="111">
             <div xml:lang="fr">
                <div type="student">
                   
-                  <pb type="page" n="75"/>
-                  <head> 21. — Une lettre de Jacques. (Élève, p. 52.) </head>
+                  <pb type="page" n="391"/>
+                  <head> 111. — Notre amie l'abeille. (Élève, p. 238.) </head>
          
-               <div type="letter">
-            
-                  <head> (LA FEMME-ÉCOLE) </head> <!--Unsure how to tag this - seems to be a letter header-->
-         
-                  <opener>
-                  <salute> « Cher père, </salute>
-                  </opener>
-                  <p> « Sans le regret du village qui me tient toujours, je serais ici comme un poisson dans l'eau. </p>
-         
-                  <pb type="page" n="76"/>   
-                  <fw type="header"> 76 SUZETTE. </fw> 
-               
-                  <p> « Le Paraclet est charmant*<gloss>Charmant. Très agréable.</gloss>. L'école, bâtie sur le flanc d'une colline, domine une belle vallée où coulent l'Avre et la Moye. Un petit village de maisonnettes rouges et blanches, avec son clocher qui ressemble à celui de Fragicourt, c'est notre horizon. </p>
-                  <p> « Cent vingt hectares, voilà mon domaine maintenant. </p>
-                  <p> « Quel grand propriétaire je fais, n'est-ce pas ? Il est vrai que je partage avec de nombreux camarades. </p>
-                  <p> « Et le travail des champs marche ici avec celui de l'esprit ; l'histoire, la chimie*<gloss>Chimie. Science qui étudie ce qui peut changer l'état des corps et les applications utiles qui en résultent.</gloss>, la physique*<gloss>Physique. Science qui étudie les propriétés des corps matériels sans les décomposer, comme on le fait en chimie.</gloss>, l'horticulture, l'arboriculture, nous occupent une partie du jour. </p>
-                  <p> « Des professeurs et un laboratoire*<gloss>Laboratoire. Local disposé pour faire les expériences de physique et de chimie.</gloss> ! rien ne nous, manque. Aux vacances, vous verrez comme on taillera, greffera*<gloss>Greffer. Fixer, dans la fente d'une tige d'arbre, une petite branche que l'on coupe sur un arbre de meilleure espèce.</gloss> ! Et quels beaux fruits mangeront ceux qui les aiment, par exemple, une jeune fermière de ma connaissance qu'on appelle Suzette ! </p>
-                  <p> « La chimie agricole surtout me passionne. Quelle ressource pour l'agronome*<gloss>Agronome. Celui qui s'occupe de perfectionner l'agriculture.</gloss> ! La chimie vous analyse*<!--Analyse has an asterisk but no definitin in the lexique--> une plante, en montre un à un les éléments*<gloss>Éléments. Les parties, les substances dont un corps est composé.</gloss> : tant d'azote*<gloss>Azote. L'un des deux gaz qui forment l'air; il ne peut entretenir la combustion.</gloss>, tant de carbone*<gloss>Carbone. Corps qui, à l'état de pureté, est le diamant, et qui constitue la base du bois et du charbon.</gloss>, tant de soufre, d'oxygène*<gloss>Oxygène. Celui des deux gaz de l'air qui peut entretenir la combustion.</gloss>, d'hydrogène*<gloss>Hydrogène. Gaz 14 fois et demie plus léger que l'air.</gloss>, etc. ; et le cultivateur ayant appris tout cela, sait encore que les plantes puisent ces éléments pour la plus grande partie dans le sol par leurs racines et radicelles*<gloss>Radicelles. Petites ramifications d'une racine.</gloss>. Il lui devient alors aisé de donner, par des engrais appropriés, à chacune la nourriture qui lui convient, et de la rendre ainsi belle et vigoureuse. </p>
-                  <p> « A étudier et à bêcher tour à tour, je me porte comme un charme*<gloss>Charme. Parfaitement bien.</gloss>. Un professeur nous disait hier que les hommes devraient à peu près tous pouvoir partager ainsi leur journée entre le travail des mains et celui de l'esprit. Ils s'en porteraient mieux intellectuellement, et peut-être en viendront-ils là dans l'avenir. </p>
-                  <p> « J'ai fait ici la connaissance d'un homme que vous aimeriez beaucoup, cher père : c'est Olivier de Serres*<gloss>Olivier de Serres. Grand agronome contemporain de Henri IV.</gloss>. Sa pensée vit, encore, quoiqu'il soit mort depuis à peu près trois cents ans. On l'appelle le père de l'agriculture. Il créa l'agronomie, il aima les champs, et, par grand désir d'être utile aux hommes, écrivit des livres
-         
-                  <pb type="page" n="77"/>   
-                  <fw type="header"> UNE LETTRE DE JACQUES. 77 </fw> 
-         
-qui, après trois siècles, continuent de nous éclairer. </p>
-                  <p> « Le directeur du Paraclet est un brave. En 1870, sergent de mobiles*<gloss>Mobiles. Les mobiles étaient de jeunes soldats qui n'avaient pas été formés au service militaire.</gloss>, en pleine bataille, il retourna sur ses pas et se rejeta dans la mitraille pour aller reprendre le drapeau de la compagnie aux mains de celui qui le portait et qu'une balle venait de frapper. Il sauva le drapeau. C'est beau, cela, n'est-ce pas ? </p>
-                  <p> « On appelle pour une promenade agricole. Nous allons visiter une ferme importante des environs. </p>
-                  <closer>
-                  <salute> « Je vous quitte : je vous embrasse de tout mon cœur, cher papa, et toi, Suzette, et vous, François et Charlot. </salute>
-                  <signed> « JACQUES DUMAY. » </signed>
-                  </closer>
-               </div>
+                  <p> Le professeur marcha vers une ruche carrée semblable à un livre relié en bois, monté sur un pivot. </p>
+                  <p> On le suivit. Il ouvrit ce livre, et une exclamation de surprise sortit de toutes les bouches. C'était un merveilleux livre d'histoire naturelle à images vivantes. </p>
+                  <p> Emprisonné entre deux feuilles de verre, un gâteau d'alvéoles de cire montrait sa population, son remue-ménage, sa vie industrieuse et jolie. </p>
+                  <p> Le vieux monsieur donna des explications : </p>
                   
-                  <div type="questionnaire">
-                     <ab>
-                        <hi rend="bold"> Questionnaire. </hi> — Qu'adresseriez-vous à vos parents si vous étiez en pension depuis quelques jours ? — Donnez un aperçu de ce que contiendrait votre lettre ? — Comment la commenceriez-vous et l'achèveriez-vous ? — Que disait Jacques de la ferme-école du Paraclet ? — Quelle était l’étendue du domaine ? —
-                        <cb/>
-                        Quel était l'objet du travail de chaque jour ? — Quel résultat Jacques prévoyait-il pour la ferme de son père ? — Que disait un professeur de son école sur l'utilité du travail manuel ? — Qu'est-ce qu'Olivier de Serres ? — Quels détails Jacques donnait-il sur le directeur de l'école d'agriculture ?
-                     </ab>
-                  </div>
+                  <figure> 
+                     <caption> Gâteau suspendu verticalement dans la ruche avec ses entrées, moitié à droite, moitié à gauche. </caption>
+                  </figure>
+                  
+                  <sp><speaker>Le professeur</speaker><ab> Vers le milieu du gâteau était le couvain. C'est là que se trouvent les jeunes larves, récemment écloses des œufs pondus par la mère abeille, dont la tête, à gros yeux, émergeait*<!--No definition in the lexique--> en ce moment de son minuscule palais. <lb/>
+                     Des ouvrières aux longues ailes s'agitaient à l'entour, distribuant la pâtée et les soins aux larves, leurs petites sœurs, leurs futures compagnes de travail lorsqu'elles se seront transformées en nymphes<!--Definition for nymphes (Nymphe. Insecte au premier degré de ses différentes formes.) in lexique but no asterisk-->, puis en insectes ailés. <lb/>
+                     
+                     <figure> 
+                        <caption> Les <hi rend="italic">Ruche.</hi>
+                           <lb/>
+                           Vue extérieurement et intérieurement.
+                        </caption>
+                     </figure>
+                     
+                     D'autres ouvrières passaient, montaient vers le haut de la ruche ; et là, se penchant au-dessus de quelque alvéole, dégorgeaient le nectar qu'elles ve-
+         
+                     <pb type="page" n="392"/>   
+                     <fw type="header"> 392 SUZETTE. </fw>
+        
+naient de butiner sur les fleurs. Puis elles s'envolaient pour aller faire une provision nouvelle. <lb/>
+                     Déjà des files d'alvéoles bouchées d'un petit couvercle de cire, vrais petits pots de miel, montraient qu'on n'avait pas flâné dans la tribu, et que, dès à présent, on pouvait se rire de l'hiver et de la faim. <lb/>
+                     — Voilà l'abeille ! voilà notre admirable modèle de travail et d'économie, dit le maître apiculteur en refermant les volets de bois sur la ruche transparente. Écoutez maintenant : </ab></sp> <!--Was this whole section actually the professor speaking?-->
+                     
+                     <div type="questionnaire">
+                        <ab>
+                           <hi rend="bold"> Questionnaire. </hi> — De quel côté le professeur se dirigea-t-il ? — Que fit-il et que vit-on ? — Qu’y avait-il an milieu du gâteau ? — Donnez quelques détails sur le couvain. — Que faisaient autour du
+                           <cb/>
+                           couvain les abeilles ouvrières qui en avaient le soin ? — Quelle était l'occupation des autres abeilles ? — Que témoignaient les filles d'alvéoles ? — Quelle sage réflexion fit le professeur ?
+                        </ab>
+                     </div>
                </div>
                
                <div type="teacher">
                   <div type="exercice">
                      <head type="exercice"> DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES. </head>
                      
+                     <div type="morale">
+                        <head type="sujets"> Morale. </head> 
+                        
+                        <ab type="question"> — Quelle leçon nous donnent les abeilles en amassant des provisions pendant la saison des fleurs ? — Que font les pères de famille prévoyants ? — Où les petites économies doivent-elles être déposées ? — Expliquer ce qu'est une caisse d'épargne. — Quel avantage y a-t-il à ne pas conserver ses économies à la maison ? </ab>
+                        
+                        <ab type="answer"> En amassant des provisions pendant la saison des fleurs, les abeilles nous donnent une belle leçon de travail et de prévoyance que bien des gens devraient méditer, aujourd'hui que le cabaret a tant d'attraits pour les ouvriers, et la toilette pour leurs femmes et leurs filles. Combien en est-il qui chôment non seulement le dimanche, mais encore le lundi et parfois davantage ; combien en est-il qui veulent se vêtir aussi élégamment que les riches, tout en ne disposant que du produit d'une journée de travail ! <lb/>
+                        L'oisiveté n'est jamais bonne à rien ; celui qui l'épouse prend à sa charge cinq enfants qu'elle a déjà et qui ne la quittent point : le jeu, l'intempérance, la curiosité, l'indiscrétion et la médisance. Quant au goût exagéré de la toilette, il y a longtemps qu'un proverbe dit <term>qu'il éteint le feu de la cuisine</term>. <lb/>
+                        Travaillons donc, mais ne dépensons pas en entier le produit de nos labeurs. Imitons l'abeille : mettons chaque jour quelque chose de côté pour les besoins de l'avenir ; si faible que soit l'économie, elle fera somme à la fin de l'année. C'est ainsi qu'agissent les pères de famille <term>prévoyants</term>. <lb/>
+                        Ils déposent tous les mois le montant de leurs économies dans un établissement public, la caisse d'épargne, qui en conserve le dépôt et sert un intérêt de 3fr,75 p. 100 ; c'est-à-dire que celui qui, le 1er janvier, a placé 100 francs, possède un an après 103fr,75. Aucun placement n'est plus sûr. <lb/>
+                        Lorsqu'on a besoin de la totalité ou d'une partie de ses fonds, on adresse une demande au caissier de l'établissement, et, huit jours après, on touche la somme demandée. <lb/>
+                        Remarquons que si l'on eût conservé ses fonds à la maison, ils seraient restés improductifs ; en second lieu, les ayant sous la main,
+                           
+                     <pb type="page" n="393"/>   
+                     <fw type="header"> UN STIMULANT. 393 </fw>
+         
+on est souvent tenté d'en user ; enfin, à la caisse d'épargne, on ne craint ni les voleurs, ni les accidents imprévus. </ab>
+                     </div>
+                     
+                     <div type="calcul">
+                        <head type="sujets"> Calcul. </head> 
+                        
+                        <ab type="question"> — Quelle somme annuelle produisent 0 fr. 15 économisés pendant chacun des six jours de travail de la semaine ? </ab>
+                        
+                        <ab type="answer"> Économies réalisées pendant la semaine = 0 fr. 15 X 6 = … <lb/>
+                        Il y a 52 semaines dans l'année. <lb/>
+                        Les économies annuelles de l'ouvrier = … X 52 = … </ab>
+                     </div>
+                     
                      <div type="francais">
                         <head type="sujets"> Français. </head> 
                         
-                        <ab type="question"> — Écrire en marge d'une feuille de papier, et les uns au-dessous des autres, tous les verbes de l'alinéa commençant par Aux vacances… et ceux des deux suivants. — Indiquer à côté de chacun de ces verbes le mode et le temps auxquels ils sont employés. </ab>
+                        <ab type="question"> — Dites ce que c'est que : un professeur, un livre relié, des images vivantes, le remue-ménage, une larve, un apiculteur. — Qu'est-ce ente : éclore, se transformer, dégorger, butiner sur les fleurs ? </ab>
                         
-                        <ab type="answer">  MODÈLE. <!--Should this be futher tagged as some sort of category--> — <term>Verrez</term>, mode indic., temps futur. <lb/>
-                        <term>Taillera</term>, mode indic., temps futur.
-                        <!--Should this whole section be a model instead of answer?--> </ab>
-                     </div>
-                           
-                     <div type="sciencesNat">
-                        <head type="sujets"> Sciences naturelles. </head> 
-                        
-                        <ab type="question"> — Rappelez ce que nous enseignent : 1° la physique, — 2° la chimie, et donnez une idée de l'utilité de ces sciences. — Qu'est-ce qu'un gaz ? — Quels gaz composent l'air ; — l'eau ? — Quel corps solide forme la matière de, tous les végétaux ? — Dans quels combustibles naturels se trouve encore le carbone ? </ab>
-                        
-                        <ab type="answer"> <term>La physique</term> étudie les-propriétés des corps, telles que l'élasticité, la pesanteur, la divisibilité, ainsi que les phénomènes (1)<note type="foot">(1) On appelle phénomène toute chose qui vient à apparaître dans les corps, comme, par exemple, la formation de la vapeur, la dilatation de l'eau chauffée, l'apparition de l'arc-en-ciel, l'ascension d'un liquide dans un morceau de sucre dont la base seule est en contact avec ce liquide, l'écho, le grossissement des objets à travers les lunettes.</note> qui ne changent pas leur nature. <lb/>
-                        <term>La chimie</term> étudie les combinaisons des corps, comme celle de l'huile et de la soude qui donne le savon, et les phénomènes qui modifient leur nature, par exemple celui de la fermentation du vin nouveau dans les fûts. <lb/>
-                        <term>Un gaz</term> est un corps semblable à l'air que nous respirons. Les gaz
-         
-                  <pb type="page" n="78"/>   
-                  <fw type="header"> 78 SUZETTE. </fw>
-         
-                        sont élastiques, souvent invisibles, et les moins pesants de tous les, corps ; la plupart dégagent une odeur caractéristique. On connaît celle de l'acide sulfureux, gaz produit lorsque le soufre brûle et celle des gaz qui se dégagent des chairs en putréfaction. <lb/>
-                        <term>L'air</term> est composé de deux gaz ; l'oxygène et l'azote, tous deux inodores et invisibles. <lb/>
-                        <term>Le carbone</term> ou <term>charbon</term> est le corps solide qui forme les végétaux ; si on les soumet, en effet, à une forte chaleur dans un lieu clos, l'eau qu'ils contiennent s'évapore et il ne reste plus qu'une substance noirâtre : le charbon. </ab>
-                     </div>                        
-                     
-                     <div type="industrie">
-                        <head type="sujets"> Industrie. </head> 
-                        
-                        <ab type="question"> — Quels vases, quels appareils, quels instruments voit-on dans un laboratoire ? </ab>
-          
-                        <ab type="answer"> On remarque dans un laboratoire des fourneaux, des creusets, des fioles et des tubes de verre, des chalumeaux, des lampes à esprit-de-vin, des cornues, des appareils qui produisent de l'électricité. <lb/>
-                        Les <term>cornues</term> ressemblent à des poires creuses de verre et se prolongent en un tube allongé. </ab>
+                        <ab type="answer"> Un <term>professeur</term> est celui qui enseigne une science dans un établissement d'instruction public ou libre. <lb/>
+                        Un <term>livre relié</term> est celui dont on a cousu solidement les feuilles et auquel on a mis une couverture formée de deux feuilles de carton recouvertes extérieurement d'une peau tannée. <lb/>
+                        Des <term>images vivantes</term> sont des images qui représentent avec beaucoup de vérité les actes de la vie. <lb/>
+                        Un <term>remue-ménage</term> est un dérangement de plusieurs meubles, de plusieurs choses que l'on transporte d'un lieu à un autre. <lb/>
+                        Une <term>larve</term> est l'insecte dans l'état où il se trouve à la sortie de l'œuf, c'est-à-dire sous la forme d'un ver. <lb/>
+                        Un <term>apiculteur</term> (de <term>apis</term>, abeille) est celui qui fait profession d'élever des abeilles. <lb/>
+                        <note> (Les explications données page 300 permettront d'expliquer facilement la signification des mots proposés.) </note> </ab>
                      </div>
                      
-                     <div type="agriculture">
-                        <head type="sujets"> Agriculture. </head> 
+                     <div type="composition">
+                        <head type="sujets"> Composition. </head>
                         
-                        <ab type="question"> — Que nous apprennent l'horticulture et l'arboriculture ? </ab>
+                        <ab type="question"> — Pourquoi j'aime les abeilles. — Leur vie laborieuse, paisible ; leur sollicitude pour les larves ; services qu'elles rendent aux agriculteurs : produits dont nous leur sommes redevables. — Qu'est-ce qui ressemble à une ruche ? </ab>
                         
-                        <ab type="answer"> <term>L'horticulture</term>, branche de la science de l'agriculture, nous apprend quels soins il faut donner à un jardin (<term>hortus</term>, en latin) pour en obtenir de bons produits en abondance. <term>L'arboriculture</term> traite des arbres fruitiers et des moyens de les améliorer. </ab>
+                        <ab type="answer"> Quelles vaillantes petites bêtes ! A peine le soleil a-t-il séché la rosée qu'on les voit sortir par groupes de la ruche, s’élever dans les airs, puis prendre leur vol vers le calice des fleurs ; elles s'y plongent tout entières ; leur trompe mignonne pompe le nectar des étamines, tandis que leurs pattes se chargent du pollen qui deviendra de la cire. <lb/>
+                        La charge est complète après l'exploration de plusieurs autres fleurs ; alors elles retournent alourdies à la ruche, y pénètrent et déposent le fruit de leurs labeurs où le besoin s'en fait sentir. Puis elles repartent, sans avoir pris un moment de repos..... <lb/>
+                        <note> (On continuera de cette sorte.) </note> </ab>
                      </div>
                   </div>
                </div>
