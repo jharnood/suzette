@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Suzette: a Digital Edition - Chapter 112</title>
+            <respStmt>
+               <persName>John Westbrook</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Annie Girton</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="JAKA1">Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>               
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>Bucknell University</distributor>
+            <pubPlace>
+               <address>
+                  <addrLine>One Dent Drive</addrLine>
+                  <addrLine>Lewisburg, PA 17837</addrLine>
+               </address>
+            </pubPlace>
+            <availability>
+               <licence>Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles. Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine – Couture</title>
+                  <author>Robert Halt</author>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <date>1889</date>
+                     <distributor>Libraire Classique Paul Delaplane</distributor>
+                     <pubPlace>Paris, France</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      
+      <profileDesc>
+         <langUsage>
+            <language ident="fra">French</language>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+
+      <body>
+         <!-- n is for maitresse edition, corresp is for student edition -->
+         
+         <div type="chapter" n="21">
+            <div xml:lang="fr">
+               <div type="student">
+                  
+                  <pb type="page" n="75"/>
+                  <head> 21. — Une lettre de Jacques. (Élève, p. 52.) </head>
+         
+               <div type="letter">
+            
+                  <head> (LA FEMME-ÉCOLE) </head> <!--Unsure how to tag this - seems to be a letter header-->
+         
+                  <opener>
+                  <salute> « Cher père, </salute>
+                  </opener>
+                  <p> « Sans le regret du village qui me tient toujours, je serais ici comme un poisson dans l'eau. </p>
+         
+                  <pb type="page" n="76"/>   
+                  <fw type="header"> 76 SUZETTE. </fw> 
+               
+                  <p> « Le Paraclet est charmant*<gloss>Charmant. Très agréable.</gloss>. L'école, bâtie sur le flanc d'une colline, domine une belle vallée où coulent l'Avre et la Moye. Un petit village de maisonnettes rouges et blanches, avec son clocher qui ressemble à celui de Fragicourt, c'est notre horizon. </p>
+                  <p> « Cent vingt hectares, voilà mon domaine maintenant. </p>
+                  <p> « Quel grand propriétaire je fais, n'est-ce pas ? Il est vrai que je partage avec de nombreux camarades. </p>
+                  <p> « Et le travail des champs marche ici avec celui de l'esprit ; l'histoire, la chimie*<gloss>Chimie. Science qui étudie ce qui peut changer l'état des corps et les applications utiles qui en résultent.</gloss>, la physique*<gloss>Physique. Science qui étudie les propriétés des corps matériels sans les décomposer, comme on le fait en chimie.</gloss>, l'horticulture, l'arboriculture, nous occupent une partie du jour. </p>
+                  <p> « Des professeurs et un laboratoire*<gloss>Laboratoire. Local disposé pour faire les expériences de physique et de chimie.</gloss> ! rien ne nous, manque. Aux vacances, vous verrez comme on taillera, greffera*<gloss>Greffer. Fixer, dans la fente d'une tige d'arbre, une petite branche que l'on coupe sur un arbre de meilleure espèce.</gloss> ! Et quels beaux fruits mangeront ceux qui les aiment, par exemple, une jeune fermière de ma connaissance qu'on appelle Suzette ! </p>
+                  <p> « La chimie agricole surtout me passionne. Quelle ressource pour l'agronome*<gloss>Agronome. Celui qui s'occupe de perfectionner l'agriculture.</gloss> ! La chimie vous analyse*<!--Analyse has an asterisk but no definitin in the lexique--> une plante, en montre un à un les éléments*<gloss>Éléments. Les parties, les substances dont un corps est composé.</gloss> : tant d'azote*<gloss>Azote. L'un des deux gaz qui forment l'air; il ne peut entretenir la combustion.</gloss>, tant de carbone*<gloss>Carbone. Corps qui, à l'état de pureté, est le diamant, et qui constitue la base du bois et du charbon.</gloss>, tant de soufre, d'oxygène*<gloss>Oxygène. Celui des deux gaz de l'air qui peut entretenir la combustion.</gloss>, d'hydrogène*<gloss>Hydrogène. Gaz 14 fois et demie plus léger que l'air.</gloss>, etc. ; et le cultivateur ayant appris tout cela, sait encore que les plantes puisent ces éléments pour la plus grande partie dans le sol par leurs racines et radicelles*<gloss>Radicelles. Petites ramifications d'une racine.</gloss>. Il lui devient alors aisé de donner, par des engrais appropriés, à chacune la nourriture qui lui convient, et de la rendre ainsi belle et vigoureuse. </p>
+                  <p> « A étudier et à bêcher tour à tour, je me porte comme un charme*<gloss>Charme. Parfaitement bien.</gloss>. Un professeur nous disait hier que les hommes devraient à peu près tous pouvoir partager ainsi leur journée entre le travail des mains et celui de l'esprit. Ils s'en porteraient mieux intellectuellement, et peut-être en viendront-ils là dans l'avenir. </p>
+                  <p> « J'ai fait ici la connaissance d'un homme que vous aimeriez beaucoup, cher père : c'est Olivier de Serres*<gloss>Olivier de Serres. Grand agronome contemporain de Henri IV.</gloss>. Sa pensée vit, encore, quoiqu'il soit mort depuis à peu près trois cents ans. On l'appelle le père de l'agriculture. Il créa l'agronomie, il aima les champs, et, par grand désir d'être utile aux hommes, écrivit des livres
+         
+                  <pb type="page" n="77"/>   
+                  <fw type="header"> UNE LETTRE DE JACQUES. 77 </fw> 
+         
+qui, après trois siècles, continuent de nous éclairer. </p>
+                  <p> « Le directeur du Paraclet est un brave. En 1870, sergent de mobiles*<gloss>Mobiles. Les mobiles étaient de jeunes soldats qui n'avaient pas été formés au service militaire.</gloss>, en pleine bataille, il retourna sur ses pas et se rejeta dans la mitraille pour aller reprendre le drapeau de la compagnie aux mains de celui qui le portait et qu'une balle venait de frapper. Il sauva le drapeau. C'est beau, cela, n'est-ce pas ? </p>
+                  <p> « On appelle pour une promenade agricole. Nous allons visiter une ferme importante des environs. </p>
+                  <closer>
+                  <salute> « Je vous quitte : je vous embrasse de tout mon cœur, cher papa, et toi, Suzette, et vous, François et Charlot. </salute>
+                  <signed> « JACQUES DUMAY. » </signed>
+                  </closer>
+               </div>
+                  
+                  <div type="questionnaire">
+                     <ab>
+                        <hi rend="bold"> Questionnaire. </hi> — Qu'adresseriez-vous à vos parents si vous étiez en pension depuis quelques jours ? — Donnez un aperçu de ce que contiendrait votre lettre ? — Comment la commenceriez-vous et l'achèveriez-vous ? — Que disait Jacques de la ferme-école du Paraclet ? — Quelle était l’étendue du domaine ? —
+                        <cb/>
+                        Quel était l'objet du travail de chaque jour ? — Quel résultat Jacques prévoyait-il pour la ferme de son père ? — Que disait un professeur de son école sur l'utilité du travail manuel ? — Qu'est-ce qu'Olivier de Serres ? — Quels détails Jacques donnait-il sur le directeur de l'école d'agriculture ?
+                     </ab>
+                  </div>
+               </div>
+               
+               <div type="teacher">
+                  <div type="exercice">
+                     <head type="exercice"> DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES. </head>
+                     
+                     <div type="francais">
+                        <head type="sujets"> Français. </head> 
+                        
+                        <ab type="question"> — Écrire en marge d'une feuille de papier, et les uns au-dessous des autres, tous les verbes de l'alinéa commençant par Aux vacances… et ceux des deux suivants. — Indiquer à côté de chacun de ces verbes le mode et le temps auxquels ils sont employés. </ab>
+                        
+                        <ab type="answer">  MODÈLE. <!--Should this be futher tagged as some sort of category--> — <term>Verrez</term>, mode indic., temps futur. <lb/>
+                        <term>Taillera</term>, mode indic., temps futur.
+                        <!--Should this whole section be a model instead of answer?--> </ab>
+                     </div>
+                           
+                     <div type="sciencesNat">
+                        <head type="sujets"> Sciences naturelles. </head> 
+                        
+                        <ab type="question"> — Rappelez ce que nous enseignent : 1° la physique, — 2° la chimie, et donnez une idée de l'utilité de ces sciences. — Qu'est-ce qu'un gaz ? — Quels gaz composent l'air ; — l'eau ? — Quel corps solide forme la matière de, tous les végétaux ? — Dans quels combustibles naturels se trouve encore le carbone ? </ab>
+                        
+                        <ab type="answer"> <term>La physique</term> étudie les-propriétés des corps, telles que l'élasticité, la pesanteur, la divisibilité, ainsi que les phénomènes (1)<note type="foot">(1) On appelle phénomène toute chose qui vient à apparaître dans les corps, comme, par exemple, la formation de la vapeur, la dilatation de l'eau chauffée, l'apparition de l'arc-en-ciel, l'ascension d'un liquide dans un morceau de sucre dont la base seule est en contact avec ce liquide, l'écho, le grossissement des objets à travers les lunettes.</note> qui ne changent pas leur nature. <lb/>
+                        <term>La chimie</term> étudie les combinaisons des corps, comme celle de l'huile et de la soude qui donne le savon, et les phénomènes qui modifient leur nature, par exemple celui de la fermentation du vin nouveau dans les fûts. <lb/>
+                        <term>Un gaz</term> est un corps semblable à l'air que nous respirons. Les gaz
+         
+                  <pb type="page" n="78"/>   
+                  <fw type="header"> 78 SUZETTE. </fw>
+         
+                        sont élastiques, souvent invisibles, et les moins pesants de tous les, corps ; la plupart dégagent une odeur caractéristique. On connaît celle de l'acide sulfureux, gaz produit lorsque le soufre brûle et celle des gaz qui se dégagent des chairs en putréfaction. <lb/>
+                        <term>L'air</term> est composé de deux gaz ; l'oxygène et l'azote, tous deux inodores et invisibles. <lb/>
+                        <term>Le carbone</term> ou <term>charbon</term> est le corps solide qui forme les végétaux ; si on les soumet, en effet, à une forte chaleur dans un lieu clos, l'eau qu'ils contiennent s'évapore et il ne reste plus qu'une substance noirâtre : le charbon. </ab>
+                     </div>                        
+                     
+                     <div type="industrie">
+                        <head type="sujets"> Industrie. </head> 
+                        
+                        <ab type="question"> — Quels vases, quels appareils, quels instruments voit-on dans un laboratoire ? </ab>
+          
+                        <ab type="answer"> On remarque dans un laboratoire des fourneaux, des creusets, des fioles et des tubes de verre, des chalumeaux, des lampes à esprit-de-vin, des cornues, des appareils qui produisent de l'électricité. <lb/>
+                        Les <term>cornues</term> ressemblent à des poires creuses de verre et se prolongent en un tube allongé. </ab>
+                     </div>
+                     
+                     <div type="agriculture">
+                        <head type="sujets"> Agriculture. </head> 
+                        
+                        <ab type="question"> — Que nous apprennent l'horticulture et l'arboriculture ? </ab>
+                        
+                        <ab type="answer"> <term>L'horticulture</term>, branche de la science de l'agriculture, nous apprend quels soins il faut donner à un jardin (<term>hortus</term>, en latin) pour en obtenir de bons produits en abondance. <term>L'arboriculture</term> traite des arbres fruitiers et des moyens de les améliorer. </ab>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>

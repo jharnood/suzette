@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Suzette: a Digital Edition - Chapter 42</title>
+            <respStmt>
+               <persName>John Westbrook</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Annie Girton</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="JAKA1">Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>               
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>Bucknell University</distributor>
+            <pubPlace>
+               <address>
+                  <addrLine>One Dent Drive</addrLine>
+                  <addrLine>Lewisburg, PA 17837</addrLine>
+               </address>
+            </pubPlace>
+            <availability>
+               <licence>Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles. Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine – Couture</title>
+                  <author>Robert Halt</author>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <date>1889</date>
+                     <distributor>Libraire Classique Paul Delaplane</distributor>
+                     <pubPlace>Paris, France</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      
+      <profileDesc>
+         <langUsage>
+            <language ident="fra">French</language>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+
+      <body>
+         <!-- n is for maitresse edition, corresp is for student edition -->
+         
+         <div type="chapter" n="42">
+            <div xml:lang="fr">
+               <div type="student">
+                  
+                  <pb type="page" n="146"/>
+                  <head> 42. — Luttons ! (Élève, p. 93.) </head>
+                  
+                  <sp><speaker>Jacques</speaker><ab> — Diable ! </ab></sp> <stage> dit Jacques dès le premier regard, </stage> <sp><speaker>Jacques</speaker><ab> voilà la larve*<gloss>Larve. L'insecte dans l'état où il est à partir de sa sortie de l'œuf jusqu'à sa transformation.</gloss> du hanneton qui fait son entrée chez nous. </ab></sp>
+                  <p> D'un coup de bèche il enleva une des betteraves mortes et une pelletée de terre où s'étalait une grosse chenille blanc sale, à tête rousse, à pattes noires, une larve de hanneton, la plus terrible des ravageuses. </p>
+                  
+                  <figure> 
+                     <caption> <hi rend="italic">Le hanneton et sa larve.</hi>
+                        <lb/>
+                        Le hanneton est un des plus grands fléaux de nos vergers, de nos jardins maraîchers, de nos cultures en général. A l'état de larve (ver blanc), il vit sous terre et se nourrit des racines de toutes les plantes ; à l'état de hanneton, il vit dans les airs et ronge les feuilles des arbres. Il faut détruire impitoyablement les hannetons. </caption>
+                  </figure>
+                  
+                  <p> Quatre nouveaux coups de bêche en amenèrent deux autres. Jacques, ayant ensuite jeté les yeux aux environs, montra de la main un champ de betteraves confinant au sien et où les tristes feuilles penchées se voyaient en bon nombre. </p>
+                  <sp><speaker>Jacques</speaker><ab> — L'ennemi vient de là ! </ab></sp>
+                  <p> Suzette et Charlot regardèrent d'un air consterné*<gloss>Consterné. Dans un étonnement douloureux.</gloss>. </p>
+                  <sp><speaker>Jacques</speaker><ab> — Ah ! </ab></sp> <stage> reprit-il, </stage> <sp><speaker>Jacques</speaker><ab> quelle bataille que celle de la vie ! Il est vrai que sans les nécessités de l'éternelle lutte, nous passerions notre existence couchés sur le dos, sommeillant, indifférents à tout, sans force même pour chasser les mouches. </ab></sp>
+                  
+                     <pb type="page" n="147"/>   
+                     <fw type="header"> LUTTONS! 147 </fw>
+                  
+                  <sp><speaker>Suzette</speaker><ab> — Comment arrêter l'invasion*<gloss>Invasion. Entrée dans un pays pour le ravager, le piller.</gloss> de cet ennemi ? </ab></sp> <stage>dit Suzette.</stage>
+                  <sp><speaker>Jacques</speaker><ab> — Impossible de l'arrêter ; tout est perdu, ma chère. Il n'y a plus qu’à bêcher profondément, à mettre à l’air les larves pour les détruire, et à repiquer*<gloss>Repiquer. Déplanter et replanter ailleurs de jeunes plants.</gloss>, à la place des betteraves, quelque autre plante tardive. </ab></sp>
+                  <p> Peu de jours après, M. Florentin Lejoly se promenant par là, la canne à la main, le cigare aux lèvres, s'arrêta devant les Dumay, qu'il vit très occupés à un travail nouveau : </p>
+                  <sp><speaker>M. Lejoly</speaker><ab> — Eh ! eh ! que fait-on là ? </ab></sp>
+                  <sp><speaker>Papa</speaker><ab> — On repique des choux de Bruxelles, </ab></sp> <stage> répondit le père. </stage>
+                  <p> Le chou de Bruxelles, qui n'est pas du tout de Bruxelles, et qui ressemble à un petit chou de poupée, n'avait pas l'honneur d'être connu de M. Florentin Lejoly. </p>
+                  
+                  <figure> 
+                     <caption> <hi rend="italic">Chou de Bruxelles.</hi>
+                        <lb/>
+                        Plante potagère qui constitue un légume très délicat. </caption>
+                  </figure>
+                  
+                  <sp><speaker>M. Lejoly</speaker><ab> — Tiens ! dit-il, c'est original, planter des choux parmi les betteraves ; ça ne s'est pas encore vu à Fragicourt. </ab></sp>
+                  <sp><speaker>Papa</speaker><ab> — Oui, </ab></sp> <stage> dit M. Dumay assez sèchement, </stage> <sp><speaker>Papa</speaker><ab> c’est vrai qu’à Fragicourt, quand le ver blanc détruit une récolte, on se contente de se lamenter, et de laisser chômer*<gloss>Chômer. Rester sans produire.</gloss> la terre ; le destructeur a le dernier. Mais il y a des gens plus malins qui remplacent le perdu par du gagné. Et vous devriez bien être de ceux-là ! Regardez un peu vos betteraves, là à côté, toutes flétries. C'est d'elles qu'est venu le ravage des nôtres ! Riche comme vous l'êtes, vous devriez rougir d'une pareille incurie*<gloss>Incurie. Négligence persistante.</gloss> ! </ab></sp>
+                  <p> Tout enchanté qu'on reconnût sa richesse, M. Florentin Lejoly se mit à sourire ; </p>
+                  <sp><speaker>M. Lejoly</speaker><ab> — Vous entendez bien, </ab></sp> <stage> répondit-il, </stage> <sp><speaker>M. Lejoly</speaker><ab> qu'un homme comme moi n'a pas à s'occuper d'un champ de betteraves malade, et d'autant moins que je l'ai loué, ce champ. Adressez-vous à mon locataire. </ab></sp>
+                  <p>  Là-dessus, M. Florentin Lejoly envoya au ciel une bouffée de cigare, puis un bonjour à la compagnie et
+                  
+                     <pb type="page" n="148"/>   
+                     <fw type="header"> 148 SUZETTE. </fw>
+                  
+                  s'en alla en se dandinant, pendant que M. Dumay murmurait entre ses dents une vieille histoire : malgré lui, pour quelques centaines de francs de plus qu'il n'en offrait, sa sœur, Jeanne Dumay, mariée à un Parisien qui la menait, avait jadis vendu au père de Lejoly cette terre, bon morceau de l'héritage paternel, aujourd'hui terre de perdition*<gloss>Perdition. Qui cause du dégât.</gloss>. </p>
+                  <p> Pour cela, pour quelques autres raisons d'intérêt, on s'était brouillés. Et comme il y a loin de Fragicourt à Paris, où demeurait la sœur, la brouille durait encore. </p>
+                  <p> Jacques et Suzette se taisaient, sachant la peine de leur père à ces tristes souvenirs dont il ne parlait jamais qu'aux heures d'ennui. </p>
+                  
+                  <div type="questionnaire">
+                     <ab>
+                        <hi rend="bold"> Questionnaire. </hi> — Comment Jacques s'assura-t-il de la présence de la larve du hanneton ? — Qu'aperçut-il dans le champ voisin ? — Qu'en conclut-il et quelle réflexion lui suggéra ce malheur ? — Qu'y avait-il à faire alors ? — Qui passa près du champ des Dumay
+                        <cb/>
+                        quelques jours après, et qu'y vit-il ? — Qu'est-ce que le chou de Bruxelles ? — Reproduisez la réflexion désobligeante de Lejoly et la sage réponse de M. Dumay. — Que pensez-vous de Lejoly ? — Comment la pièce de terre était-elle arrivée en sa possession ?
+                     </ab>
+                  </div>
+               </div>
+               
+               <div type="teacher">
+                  <div type="exercice">
+                     <head type="exercice"> DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES. </head>
+                     
+                     <div type="morale">
+                        <head type="sujets"> Morale. </head> 
+                        
+                        <ab type="question"> — Quelles personnes ont des manières naturelles ? — A quoi reconnait-on qu'une jeune fille est prétentieuse ? — De quelles gens se moque-t-on le plus et toujours ? — Quelles qualités manquent aux personnes prétentieuses ? </ab>
+                        
+                        <ab type="answer"> On a des <term>manières naturelles</term> lorsque notre façon d'agir, de nous tenir, de parler est en parfaite harmonie avec les convenances d'abord, puis avec notre situation, notre âge, notre sexe. Ces manières, à la fois discrètes et mesurées, ont pour qualité première de n'attirer l'attention de personne : elles plaisent, elles sont agréables, mais avec une teinte de modestie qui leur donne un mérite de plus. <lb/>
+                        Une jeune fille <term>prétentieuse</term>, et Dieu sait si l'espèce en est rare, cherche à se distinguer des autres et à paraître au-dessus d'elles par une façon particulière de s'exprimer, de marcher, de porter la tête, qui traduit un orgueil niais avec l'imitation maladroite ou plutôt la caricature des manières en usage dans la haute société. Elle a l'air hardi, les lèvres pincées, la voix tranchante ou ridiculement mielleuse, des gestes forcés qui sont parfois extrêmement comiques et provoquent le sourire à bon droit. <lb/>
+                        On a toujours constaté que les personnes prétentieuses sont égoïstes, ignorantes et dépourvues de tact. </ab>
+                     </div>
+                     
+                     <div type="composition">
+                        <head type="sujets"> Composition. </head>
+                        
+                        <!--<term> — LE LAPIN. </term> -->
+                        <ab type="question"> — Décrire le lapin. — Où vit-il et comment se nourrit-il ? — Quelles ressources diverses tirons-nous de cet animal ? — Pourquoi, dans les campagnes, a-t-on intérêt à élever des lapins ? — Qu'entend-on par garenne ; par lapin de garenne ? <note type="reference"> (Voir le COURS DE COMPOSITION FRANÇAISE (Degré élémentaire et moyen) de E. LAPORTE, Partie du maître, page 126.) </note> </ab> 
+                        <!--The answer (reference directions) is not seperated from the question-->
+                     </div>
+                  
+                        <pb type="page" n="149"/>   
+                        <fw type="header"> LUTTONS ! 149 </fw>
+                  
+                     <div type="sciencesNat">
+                        <head type="sujets"> Sciences naturelles. </head>
+                        
+                        <!--<term> — LE HANNETON. </term> -->
+                        <ab type="question"> — Qu'est-ce que le hanneton ? — Sous quels états se montre-t-il successivement ? — A quelle époque de l'année apparait-il ? — Que doit-on faire alors ? — Sous quelle forme est-il le plus à redouter ? — Parler des ravages qu'il commet. — Décrire la betterave. — Diverses sortes de betteraves. — Usages de cette plante : les indiquer seulement. </ab>
+                        
+                        <ab type="answer"> <term>Le hanneton</term> est un insecte muni de fortes mandibules ou mâchoires et pourvu de deux paires d'ailes dont la supérieure forme une espèce de bouclier dur et corné qu'on désigne sous le nom d'<term>élytres</term>. <lb/>
+                        De l'œuf du hanneton naît une larve d'un gris blanchâtre qui reste trois ans dans la terre et y vit aux dépens des racines des plantes : c'est un des fléaux de l'agriculture. L'insecte parfait apparaît aux premiers jours du printemps et ronge les premières feuilles des arbres ; parfois, il est tellement multiplié qu'il cause de véritables désastres. Il faut le détruire sans pitié, et l'on recommande aux enfants des campagnes de lui faire, dans la saison, une chasse continuelle, car non seulement ils mettent fin à ses ravages, mais ils empêchent la multiplication de ces larves voraces qui causent tant de préjudice aux cultures printanières. <lb/>
+                        <!--<term> LA BETTERAVE. </term> --> — <term>La betterave</term> est une plante bisannuelle dont la racine volumineuse a une forme pivotante ; elle porte des feuilles d'un beau vert luisant. Lorsqu'on laisse cette plante monter à graine, sa tige atteint une hauteur d'un mètre et produit des fleurs vertes d'où naissent quantités de graines. <lb/>
+                        Il existe trois variétés de cette plante : la betterave potagère, que l'on cultive dans les jardins pour la manger en salade ; la betterave à sucre, et la betterave fourragère, qu'on donne en nourriture aux animaux à l'étable. </ab>
+                     </div>
+                     
+                     <div type="EconDom">
+                        <head type="sujets"> Économie domestique. </head>
+                        
+                        <ab type="question"> — Exposer la préparation d'un plat de pommes de terre à l'étuvée ; — des pommes de terre frites ; — d'une purée de pommes de terre ; — d'un ragoût de mouton aux pommes de terre. </ab>
+                           
+                        <ab type="answer"> <!--<term> POMMES DE TERRE A L’ÉTUVÉE OU A LA VAPEUR. </term> --> — Les pommes de terre étant lavées, on les dispose dans une marmite de fonte sur un lit de cendres, puis on pose le couvercle et on place le vase sur un feu modéré. On reconnaît que les pommes de terre sont cuites à point lorsqu'elles fendent ou que le doigt y enfonce. On les sert alors soit sur un plat, soit dans une corbeille, et on les mange saupoudrées de sol avec du beurre frais. <lb/>
+                        <!--<term> POMMES DE TERRE FRITES. </term> --> — Après avoir lavé et essuyé les pommes de terre, coupez-les en tranches d'un demi-centimètre d'épaisseur ; plongez-les dans de la friture bouillante, huile, beurre ou graisse, et laissez-y-les pendant deux ou trois minutes. Il ne restera plus qu'à les égoutter, à les saupoudrer de sel fin et à les servir immédiatement. <lb/>
+                        Si l'on veut que les pommes de terre frites soient soufflées, on les plonge une seconde fois dans la même friture bien chaude. <lb/>
+                        <!--<term> PURÈE DE POMMES DE TERRE. </term> --> — Pelez d'abord les pommes de terre que vous ferez cuire ensuite à la vapeur ; passez-les à la passoire ou au cylindre ; mettez-les dans une casserole avec du beurre frais, du poivre et du sel. Remuez et mouillez avec du lait ; faites bouillir un instant et servez. <lb/>
+                        <!--<term> RAGOÛT DE MOUTON AUX POMMES DE TERRE. </term> --> — Prenez un demi-kilogramme de collet de mouton coupé en morceaux ; jetez dans une casserole une cuiller à bouche de graisse ; chauffez, puis mettez les morceaux. Faites-les revenir ; ajoutez une cuillerée de farine, et après avoir fait roussir, versez un demi-litre d'eau. Ajoutez un bouquet de persil, trois oignons moyens, du sel, du poivre, et donnez deux heures
+                  
+                     <pb type="page" n="150"/>   
+                     <fw type="header"> 150 SUZETTE. </fw>
+                  
+                  de cuisson. Une demi-heure seulement avant de retirer la casserole, mettez-y les pommes de terre coupées en morceaux ; dégraissez et servez. </ab>
+                     </div>
+                     
+                     <div type="calcul">
+                        <head type="sujets"> Calcul. </head>
+                        
+                        <ab type="question"> — Calculer le prix de revient d'un ragoût de mouton aux pommes de terre pour cinq personnes : le père, la mère et trois jeunes enfants. 
+                  . . kilogr. . . de mouton à. . . . fr. le kilogr . .   . . . .
+                  . . kilogr. . . de pommes de terre à . . . . .fr . .   . . . .
+                  . . kilogr. . . de graisse à . . . fr. . . . . . . .   . . . . 
+                  . . . . . . . . de charbon, etc., etc. . . . . . . .   . . . .
+                                                            TOTAL. . .   . . . .
+                        <!--Does this formatting above need to be tagged in someway to retain the layout?-->
+                        </ab>
+               
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>
