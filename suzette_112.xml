@@ -58,40 +58,61 @@
             <language ident="eng">English</language>
          </langUsage>
       </profileDesc>
-      <encodingDesc>
-         <charDecl>
-            <char>
-               <charName xml:id="suzette">Suzette</charName>
-            </char>
-            <char>
-               <charName xml:id="papa">Papa</charName>
-            </char>
-            <char>
-               <charName xml:id="jacques">Jacques</charName>            
-            </char>
-            <char>
-               <charName xml:id="francois">François</charName>
-            </char>
-            <char>
-               <charName xml:id="charlot">Charlot</charName>
-            </char>
-            <char>
-               <charName xml:id="m_valon">M. Valon</charName>
-            </char>
-            <char>
-               <charName xml:id="mme_valon">Mme. Valon</charName>
-            </char>
-            <char>
-               <charName xml:id="louis">Louis</charName>
-            </char>
-            <char>
-               <charName xml:id="pascal">Pascal</charName>
-            </char>
-            <char>
-               <charName xml:id="ludivine">Ludivine</charName>
-            </char>        
-         </charDecl>
-      </encodingDesc>
+         <encodingDesc>
+            <charDecl>
+               <char>
+                  <charName xml:id="suzette">Suzette</charName>
+               </char>
+               <char>
+                  <charName xml:id="papa">Papa</charName>
+               </char>
+               <char>
+                  <charName xml:id="la_maman">La maman</charName>
+               </char>
+               <char>
+                  <charName xml:id="jacques">Jacques</charName>            
+               </char>
+               <char>
+                  <charName xml:id="francois">François</charName>
+               </char>
+               <char>
+                  <charName xml:id="charlot">Charlot</charName>
+               </char>
+               <char>
+                  <charName xml:id="mme_valon">Mme Valon</charName>
+               </char>
+               <char>
+                  <charName xml:id="m_valon">M. Valon</charName>
+               </char>
+               <char>
+                  <charName xml:id="mme_richard">Mme Richard</charName>
+               </char>
+               <char>
+                  <charName xml:id="louis">Louis</charName>
+               </char>
+               <char>
+                  <charName xml:id="pascal">Pascal</charName>
+               </char>
+               <char>
+                  <charName xml:id="marthe">Marthe</charName>
+               </char>
+               <char>
+                  <charName xml:id="sylvain">Sylvain</charName>
+               </char> 
+               <char>
+                  <charName xml:id="ludivine">Ludivine</charName>
+               </char> 
+               <char>
+                  <charName xml:id="m_lejoly">M. Lejoly</charName>
+               </char>
+               <char>
+                  <charName xml:id="le_professeur">Le professeur</charName>
+               </char>
+               <char>
+                  <charName xml:id="la_bohemienne">La bohémienne</charName>
+               </char>
+            </charDecl>
+         </encodingDesc>
    </teiHeader>
    <text>
 
