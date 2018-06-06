@@ -126,10 +126,10 @@
                   <head>26. — De l'eau! (Élève, p. 63.)</head>
          
          <p> <persName ana="#suzette">Suzette</persName>, toute secouée par cet entrain, courut à la cuisine. </p>
-         <sp><speaker>Suzette</speaker><ab> — <persName ana="#mme_valon">Madame</persName>, voilà de l'eau, </ab></sp> <stage> dit-elle, en rentrant tout essoufflée. </stage>
-         <sp><speaker>Mme Valon</speaker><ab> — Quelle est cette eau ? </ab></sp>
-         <sp><speaker>Suzette</speaker><ab> — De l'eau propre. </ab></sp>
-         <sp><speaker>Mme Valon</speaker><ab> — De l'eau propre ? ah ! vraiment ? Tu es bien sûre de sa propreté ? Ne sais-tu pas que cette eau propre peut être pleine d'impuretés, de bêtes malfaisantes : que la fièvre typhoïde*<gloss>Fièvre typhoïde. Maladie que caractérise une grande inflammation intérieure.</gloss>, le choléra*<gloss>Choléra. Maladie épidémique et le plus souvent mortelle, caractérisée par des vomissements et des crampes.</gloss>, bien d'autres maladies peuvent y attendre que nous les absorbions*<gloss>Absorber. Introduire dans le corps par les ouvertures du nez ou de la bouche.</gloss>, n'ayant pas su les détruire ? Songe, qu'en ce moment il s'agit de laver une plaie à vif*<gloss>Plaie à vif. Qui laisse voir la chair.</gloss>, qui n’a été que trop infectée*<gloss>Infecté. Communiquer une mauvaise odeur; gâter, corrompre.</gloss>. Va faire bouillir cette eau pour détruire tous les germes malsains qui s'y trouveraient. Pendant ce temps je cours prendre chez moi de l'acide phénique*<gloss>Acide phénique. Liquide désinfectant que l’on tire de la houille.</gloss>, un excellent caustique*<gloss>Caustique. Qui désorganise les chairs ou membranes comme une brûlure.</gloss> désinfectant qu'il faut toujours avoir dans son armoire. </ab></sp>
+         <sp><speaker>Suzette</speaker><ab> — <persName ana="#mme_valon">Madame</persName>, voilà de <name type="nature">l'eau</name>, </ab></sp> <stage> dit-elle, en rentrant tout essoufflée. </stage>
+         <sp><speaker>Mme Valon</speaker><ab> — Quelle est cette <name type="nature">eau</name> ? </ab></sp>
+         <sp><speaker>Suzette</speaker><ab> — De <name type="nature">l'eau propre</name>. </ab></sp>
+         <sp><speaker>Mme Valon</speaker><ab> — De <name type="health">l'eau propre</name> ? ah ! vraiment ? Tu es bien sûre de sa <name type="health">propreté</name> ? Ne sais-tu pas que cette <name type="health">eau propre</name> peut être pleine d'<name type="health">impuretés</name>, de <name type="health">bêtes malfaisantes</name> : que <name type="health">la fièvre typhoïde</name>*<gloss>Fièvre typhoïde. Maladie que caractérise une grande inflammation intérieure.</gloss>, <name type="health">le choléra</name>*<gloss>Choléra. Maladie épidémique et le plus souvent mortelle, caractérisée par des vomissements et des crampes.</gloss>, bien d'autres <name type="health">maladies</name> peuvent y attendre que nous les <name type="health">absorbions</name>*<gloss>Absorber. Introduire dans le corps par les ouvertures du nez ou de la bouche.</gloss>, n'ayant pas su les <name type="health">détruire</name> ? Songe, qu'en ce moment il s'agit de <name type="health">laver</name> <name type="health">une plaie à vif</name>*<gloss>Plaie à vif. Qui laisse voir la chair.</gloss>, qui n’a été que trop <name type="health">infectée</name>*<gloss>Infecté. Communiquer une mauvaise odeur; gâter, corrompre.</gloss>. Va faire <name type="health">bouillir</name> cette <name type="nature">eau</name> pour <name type="health">détruire</name> tous <name type="health">les germes</name> <name type="health">malsains</name> qui s'y trouveraient. Pendant ce temps je cours prendre chez moi de <name type="health">l'acide phénique</name>*<gloss>Acide phénique. Liquide désinfectant que l’on tire de la houille.</gloss>, un excellent <name type="health">caustique</name>*<gloss>Caustique. Qui désorganise les chairs ou membranes comme une brûlure.</gloss> <name type="health">désinfectant</name> qu'il faut toujours avoir dans son armoire. </ab></sp>
                   
                   <figure> 
                      <caption> <hi rend="italic">Goutte d'eau vue au microscope.</hi>
@@ -142,11 +142,11 @@
                   <pb type="page" n="94"/>   
                   <fw type="header"> 94 SUZETTE. </fw>
          
-         <p> Et désinfectons, désinfectons le pauvre nez ! </p>
+         <p> Et <name type="health">désinfectons</name>, <name type="health">désinfectons</name> le pauvre <name type="health">nez</name> ! </p>
          <p> <persName ana="#francois">François</persName> poussait des soupirs de soulagement : </p>
-         <sp><speaker>François</speaker><ab> — Ah ! </ab></sp> <stage> disait-il, </stage> <sp><speaker>François</speaker><ab> je ne m'exposerai plus à de pareils accidents ; je sais un moyen. </ab></sp>
+         <sp><speaker>François</speaker><ab> — Ah ! </ab></sp> <stage> disait-il, </stage> <sp><speaker>François</speaker><ab> je ne m'exposerai plus à de pareils <name type="health">accidents</name> ; je sais un moyen. </ab></sp>
          <sp><speaker>Suzette</speaker><ab> — Quel moyen, <persName ana="#francois">Monsieur</persName> ? </ab></sp> <!--Is this Suzette or Mme Valon-->
-         <sp><speaker>François</speaker><ab> — C'est d'employer du fil de fer, au lieu de ficelle, pour manœuvrer le cliquet. </ab></sp>
+         <sp><speaker>François</speaker><ab> — C'est d'employer du <name type="material">fil de fer</name>, au lieu de <name type="material">ficelle</name>, pour manœuvrer le cliquet. </ab></sp>
          <sp><speaker>Suzette</speaker><ab> — Encore le cliquet ! Voulez-vous bien vous rendormir tout de suite ! </ab></sp> <stage> lui dit <persName ana="#suzette">sa sœur</persName>. </stage>
                   
                   <div type="questionnaire">

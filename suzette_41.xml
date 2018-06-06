@@ -127,8 +127,8 @@
          
                   <!--No asterisk for lexique word - Veiller au grain. Faire attention à ce qui doit ou peut survenir.-->
          
-                  <p> Et les terres ? C'est maintenant qu'elles doivent rendre ce qu'emporta le feu ! c'est maintenant qu'il faut les ensemencer, les soigner, les pomponner de la herse et de la charrue ! </p>
-                  <p> <persName ana="#jacques">Jacques</persName> eut, par l'école d'agriculture, tous les renseignements qu'il fallut. Un de ses professeurs offrit même de lui prêter une petite somme d'argent. On y joignit tout ce qu'il en restait ici. On savait que c'était argent bien placé. Et si, par aventure*<gloss>Par aventure. Par extraordinaire.</gloss>, <persName ana="papa">le papa</persName>, encore timide, s'effrayait un peu des largesses de <persName ana="#jacques">son fils</persName> avec la terre : </p>
+                  <p> Et <name type="agriculture">les terres</name> ? C'est maintenant qu'elles doivent rendre ce qu'emporta <name type="nature">le feu</name> ! c'est maintenant qu'il faut les <name type="agriculture">ensemencer</name>, les <name type="agriculture">soigner</name>, les <name type="agriculture">pomponner</name> de <name type="agriculture">la herse</name> et de <name type="agriculture">la charrue</name> ! </p>
+                  <p> <persName ana="#jacques">Jacques</persName> eut, par <placeName><name type="agriculture">l'école d'agriculture</name></placeName>, tous les renseignements qu'il fallut. Un de ses professeurs offrit même de lui prêter une petite somme d'argent. On y joignit tout ce qu'il en restait ici. On savait que c'était argent bien placé. Et si, par aventure*<gloss>Par aventure. Par extraordinaire.</gloss>, <persName ana="papa">le papa</persName>, encore timide, s'effrayait un peu des largesses de <persName ana="#jacques">son fils</persName> avec <name type="agriculture">la terre</name> : </p>
                   
                   <figure> 
                      <caption> <hi rend="italic">Herse.</hi>
@@ -136,13 +136,13 @@
                         Les dents dont cet instrument d'agriculture est garni servent à arracher les racines, à rompre les mottes de terre et à en recouvrir les grains que l'on vient du semer. </caption>
                   </figure>
                   
-                  <sp><speaker>Jacques</speaker><ab> — <persName ana="papa">Papa</persName>, répondait-il, autrefois, on ne la gâtait pas tant, mais aussi elle ne donnait guère que du pain bis. Maintenant c'est du pain blanc qu'elle fournit ; et croyez-
+                  <sp><speaker>Jacques</speaker><ab> — <persName ana="papa">Papa</persName>, répondait-il, autrefois, on ne la gâtait pas tant, mais aussi elle ne donnait guère que du <name type="agriculture">pain bis</name>. Maintenant c'est du <name type="agriculture">pain blanc</name> qu'elle <name type="agriculture">fournit</name> ; et croyez-
                      
                      <pb type="page" n="143"/>   
                      <fw type="header"> VEILLONS AU GRAIN. 143 </fw>
          
-vous qu'elle le livre contre des pierres ? Oui, elle doit manger, et du bon, pour que nous-mêmes nous mangions du meilleur. </ab></sp>
-                  <p> A <persName ana="#francois">François</persName> et à <persName ana="charlot">Charlot</persName>, il dénonçait le chiendent, la camomille, l'ortie, le chardon, la fumeterre comme de terribles ennemis : </p>
+         vous qu'elle le livre contre <name type="nature">des pierres</name> ? Oui, elle doit <name type="health">manger</name>, et du bon, pour que nous-mêmes nous <name type="health">mangions</name> du meilleur. </ab></sp>
+                  <p> A <persName ana="#francois">François</persName> et à <persName ana="charlot">Charlot</persName>, il dénonçait <name type="agriculture">le chiendent</name>, <name type="agriculture">la camomille</name>, <name type="agriculture">l'ortie</name>, <name type="agriculture">le chardon</name>, <name type="agriculture">la fumeterre</name> comme de terribles ennemis : </p>
                   
                   <figure>
                      <caption> <hi rend="italic">Charrue.</hi> </caption>
@@ -162,19 +162,19 @@ vous qu'elle le livre contre des pierres ? Oui, elle doit manger, et du bon, pou
                            Une infusion de pétales de coquelicots donne une tisane calmante et adoucissante. </caption>
                      </figure>
                      
-nous, de les arracher, d'en faire deux parts ; la première sera composée de ce qui peut servir de nourriture au bétail, comme par exemple les coquelicots, les lacerons, dont les lapins se font de bons râbles*<gloss>Râble. Dos du lapin et du lièvre, des épaules à la queue.</gloss>. La seconde, vous l'amasserez, vous la laisserez pourrir au bout du champ pour l'y répandre ensuite en fumier. </ab></sp>
+                     nous, de les <name type="agriculture">arracher</name>, d'en faire deux parts ; la première sera composée de ce qui peut servir de <name type="agriculture">nourriture</name> au <name type="agriculture">bétail</name>, comme par exemple <name type="agriculture">les coquelicots</name>, <name type="agriculture">les lacerons</name>, dont <name type="nature">les lapins</name> se font de bons <name type="nature">râbles</name>*<gloss>Râble. Dos du lapin et du lièvre, des épaules à la queue.</gloss>. La seconde, vous l'amasserez, vous la laisserez <name type="agriculture">pourrir</name> au bout du <name type="agriculture">champ</name> pour l'y répandre ensuite <name type="agriculture">en fumier</name>. </ab></sp>
                      
                      <figure>
                         <caption> <hi rend="italic">Cabane à lapins.</hi> </caption>
                      </figure>       
                      
-                  <p> Ah ! s'il n'y avait que des plantes ennemies, bien visibles et facilement arrachables ! </p>
+                  <p> Ah ! s'il n'y avait que <name type="agriculture">des plantes ennemies</name>, bien visibles et facilement <name type="agriculture">arrachables</name> ! </p>
          
                      <pb type="page" n="144"/>   
                      <fw type="header"> 144 SUZETTE. </fw>
          
-                  <p> Mais un matin de jeudi que <persName ana="#charlot">Charlot</persName>, chargé de la chasse aux lacerons pour le déjeuner de messieurs les lapins, s'asseyait sur son sac, à peu près plein, pour casser une croûte, il fut frappé d'un spectacle nouveau : </p>
-                  <p> Un des champs paternels, un grand champ de betteraves, s'étendait à ses pieds. Les betteraves commençaient à prendre tournure. Les feuilles déjà grandes luisaient comme satin au soleil. C'était riant au possible. </p>
+                  <p> Mais un matin de jeudi que <persName ana="#charlot">Charlot</persName>, chargé de <name type="agriculture">la chasse</name> aux <name type="agriculture">lacerons</name> pour le déjeuner de messieurs <name type="nature">les lapins</name>, s'asseyait sur son sac, à peu près plein, pour casser une croûte, il fut frappé d'un spectacle nouveau : </p>
+                  <p> Un <name type="agriculture">des champs paternels</name>, un grand <name type="agriculture">champ</name> de <name type="agriculture">betteraves</name>, s'étendait à ses pieds. <name type="agriculture">Les betteraves</name> commençaient à <name type="agriculture">prendre tournure</name>. <name type="agriculture">Les feuilles</name> déjà grandes luisaient comme satin au <name type="nature">soleil</name>. C'était riant au possible. </p>
                      
                      <figure> 
                         <caption> <hi rend="italic">La betterave.</hi>
@@ -182,9 +182,9 @@ nous, de les arracher, d'en faire deux parts ; la première sera composée de 
                            Racine qui sert de nourriture aux bestiaux et dont l'industrie extrait du sucre et de l'alcool. </caption>
                      </figure>
                      
-                  <p> Mais sur près de deux rangées, et en outre çà et là, par places, elles ne brillaient pas du tout ; elles étaient fanées, comme mortes. </p>
-                  <p> Il s'approcha, les tâta ; tout vint sans effort, tige, collet et racine. La racine était creusée à l'intérieur. </p>
-                  <p> <persName ana="#charlot">Charlot</persName>, qui ne plaisantait pas avec sa surveillance, courut à cinq cents pas du champ, où <persName ana="#jacques">Jacques</persName>, en compagnie de <persName ana="#suzette">Suzette</persName>, était à planter des pommes de terre, et les amena tous deux. </p>
+                  <p> Mais sur près de deux <name type="agriculture">rangées</name>, et en outre çà et là, par places, elles ne brillaient pas du tout ; elles étaient <name type="agriculture">fanées</name>, comme <name type="health">mortes</name>. </p>
+                  <p> Il s'approcha, les tâta ; tout vint sans effort, <name type="agriculture">tige</name>, <name type="agriculture">collet</name> et <name type="agriculture">racine</name>. <name type="agriculture">La racine</name> était <name type="agriculture">creusée</name> à l'intérieur. </p>
+                  <p> <persName ana="#charlot">Charlot</persName>, qui ne plaisantait pas avec sa surveillance, courut à cinq cents pas du <name type="agriculture">champ</name>, où <persName ana="#jacques">Jacques</persName>, en compagnie de <persName ana="#suzette">Suzette</persName>, était à <name type="agriculture">planter</name> <name type="agriculture">des pommes de terre</name>, et les amena tous deux. </p>
                      
                      <div type="questionnaire">
                         <ab>
