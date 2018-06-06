@@ -128,7 +128,7 @@
                   <!--No asterisk for lexique word - Veiller au grain. Faire attention à ce qui doit ou peut survenir.-->
          
                   <p> Et les terres ? C'est maintenant qu'elles doivent rendre ce qu'emporta le feu ! c'est maintenant qu'il faut les ensemencer, les soigner, les pomponner de la herse et de la charrue ! </p>
-                  <p> Jacques eut, par l'école d'agriculture, tous les renseignements qu'il fallut. Un de ses professeurs offrit même de lui prêter une petite somme d'argent. On y joignit tout ce qu'il en restait ici. On savait que c'était argent bien placé. Et si, par aventure*<gloss>Par aventure. Par extraordinaire.</gloss>, le papa, encore timide, s effrayait un peu des largesses de son fils avec la terre : </p>
+                  <p> <persName ana="#jacques">Jacques</persName> eut, par l'école d'agriculture, tous les renseignements qu'il fallut. Un de ses professeurs offrit même de lui prêter une petite somme d'argent. On y joignit tout ce qu'il en restait ici. On savait que c'était argent bien placé. Et si, par aventure*<gloss>Par aventure. Par extraordinaire.</gloss>, <persName ana="papa">le papa</persName>, encore timide, s'effrayait un peu des largesses de <persName ana="#jacques">son fils</persName> avec la terre : </p>
                   
                   <figure> 
                      <caption> <hi rend="italic">Herse.</hi>
@@ -136,13 +136,13 @@
                         Les dents dont cet instrument d'agriculture est garni servent à arracher les racines, à rompre les mottes de terre et à en recouvrir les grains que l'on vient du semer. </caption>
                   </figure>
                   
-                  <sp><speaker>Jacques</speaker><ab> — Papa, répondait-il, autrefois, on ne la gâtait pas tant, mais aussi elle ne donnait guère que du pain bis. Maintenant c'est du pain blanc qu'elle fournit ; et croyez-
+                  <sp><speaker>Jacques</speaker><ab> — <persName ana="papa">Papa</persName>, répondait-il, autrefois, on ne la gâtait pas tant, mais aussi elle ne donnait guère que du pain bis. Maintenant c'est du pain blanc qu'elle fournit ; et croyez-
                      
                      <pb type="page" n="143"/>   
                      <fw type="header"> VEILLONS AU GRAIN. 143 </fw>
          
-Vous qu'elle le livre contre des pierres ? Oui, elle doit manger, et du bon, pour que nous-mêmes nous mangions du meilleur. </ab></sp>
-                  <p> A François et à Charlot, il dénonçait le chiendent, la camomille, l'ortie, le chardon, la fumeterre comme de terribles ennemis : </p>
+vous qu'elle le livre contre des pierres ? Oui, elle doit manger, et du bon, pour que nous-mêmes nous mangions du meilleur. </ab></sp>
+                  <p> A <persName ana="#francois">François</persName> et à <persName ana="charlot">Charlot</persName>, il dénonçait le chiendent, la camomille, l'ortie, le chardon, la fumeterre comme de terribles ennemis : </p>
                   
                   <figure>
                      <caption> <hi rend="italic">Charrue.</hi> </caption>
@@ -162,7 +162,7 @@ Vous qu'elle le livre contre des pierres ? Oui, elle doit manger, et du bon, pou
                            Une infusion de pétales de coquelicots donne une tisane calmante et adoucissante. </caption>
                      </figure>
                      
-                  nous, de les arracher, d'en faire deux parts ; la première sera composée de ce qui peut servir de nourriture au bétail, comme par exemple les coquelicots, les lacerons, dont les lapins se font de bons râbles*<gloss>Râble. Dos du lapin et du lièvre, des épaules à la queue.</gloss>. La seconde, vous l'amasserez, vous la laisserez pourrir au bout du champ pour l'y répandre ensuite en fumier. </ab></sp>
+nous, de les arracher, d'en faire deux parts ; la première sera composée de ce qui peut servir de nourriture au bétail, comme par exemple les coquelicots, les lacerons, dont les lapins se font de bons râbles*<gloss>Râble. Dos du lapin et du lièvre, des épaules à la queue.</gloss>. La seconde, vous l'amasserez, vous la laisserez pourrir au bout du champ pour l'y répandre ensuite en fumier. </ab></sp>
                      
                      <figure>
                         <caption> <hi rend="italic">Cabane à lapins.</hi> </caption>
@@ -173,7 +173,7 @@ Vous qu'elle le livre contre des pierres ? Oui, elle doit manger, et du bon, pou
                      <pb type="page" n="144"/>   
                      <fw type="header"> 144 SUZETTE. </fw>
          
-                  <p> Mais un matin de jeudi que Charlot, chargé de la chasse aux lacerons pour le déjeuner de messieurs les lapins, s'asseyait sur son sac, à peu près plein, pour casser une croûte, il fut frappé d'un spectacle nouveau : </p>
+                  <p> Mais un matin de jeudi que <persName ana="#charlot">Charlot</persName>, chargé de la chasse aux lacerons pour le déjeuner de messieurs les lapins, s'asseyait sur son sac, à peu près plein, pour casser une croûte, il fut frappé d'un spectacle nouveau : </p>
                   <p> Un des champs paternels, un grand champ de betteraves, s'étendait à ses pieds. Les betteraves commençaient à prendre tournure. Les feuilles déjà grandes luisaient comme satin au soleil. C'était riant au possible. </p>
                      
                      <figure> 
@@ -184,7 +184,7 @@ Vous qu'elle le livre contre des pierres ? Oui, elle doit manger, et du bon, pou
                      
                   <p> Mais sur près de deux rangées, et en outre çà et là, par places, elles ne brillaient pas du tout ; elles étaient fanées, comme mortes. </p>
                   <p> Il s'approcha, les tâta ; tout vint sans effort, tige, collet et racine. La racine était creusée à l'intérieur. </p>
-                  <p> Charlot, qui ne plaisantait pas avec sa surveillance, courut à cinq cents pas du champ, où Jacques, en compagnie de Suzette, était à planter des pommes de terre, et les amena tous deux. </p>
+                  <p> <persName ana="#charlot">Charlot</persName>, qui ne plaisantait pas avec sa surveillance, courut à cinq cents pas du champ, où <persName ana="#jacques">Jacques</persName>, en compagnie de <persName ana="#suzette">Suzette</persName>, était à planter des pommes de terre, et les amena tous deux. </p>
                      
                      <div type="questionnaire">
                         <ab>

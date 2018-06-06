@@ -126,11 +126,11 @@
                   <head> 110. — Le rucher. (Élève, p. 236.) </head>
          
                   <p> C'étaient une dizaine de minuscules*<gloss>Minuscule. Tout petit.</gloss> maisonnettes haut perchées, les unes de bois, semblables à des chalets<!--Definition for (Chalet. Maison de bois que l'on construit surtout dans les montagnes.) but no asterisk-->, les autres de paille, en forme de cloche. Elles formaient un cercle. </p>
-                  <sp><speaker>Pascal</speaker><ab> — Cela ressemble à un petit douar*<term>Douar. Village arabe forme de tentes.</term> arabe, </ab></sp> <stage> dit l'explorateur Pascal. </stage>
-                  <p> Des gens étaient rangés là, autour d'un vieux monsieur qui parlait. Ce monsieur, grand, maigre, portait un haut chapeau sur ses cheveux blancs, et un tablier bleu, à bavette, sur son vêtement noir. </p>
+                  <sp><speaker>Pascal</speaker><ab> — Cela ressemble à un petit douar*<term>Douar. Village arabe forme de tentes.</term> arabe, </ab></sp> <stage> dit <persName ana="#pascal">l'explorateur Pascal</persName>. </stage>
+                  <p> Des gens étaient rangés là, autour d'<persName ana="#le_professeur">un vieux monsieur</persName> qui parlait. <persName ana="#le_professeur">Ce monsieur</persName>, grand, maigre, portait un haut chapeau sur ses cheveux blancs, et un tablier bleu, à bavette, sur son vêtement noir. </p>
                   <p> Il s'interrompit pour inviter les arrivants à entrer. </p>
-                  <p> Sans doute, à cause du douar, Pascal entra le premier ; la famille suivit. </p>
-                  <p> Le monsieur les mit aussitôt au fait en leur disant : </p>
+                  <p> Sans doute, à cause du douar, <persName ana="#pascal">Pascal</persName> entra le premier ; la famille suivit. </p>
+                  <p> <persName ana="#le_professeur">Le monsieur</persName> les mit aussitôt au fait en leur disant : </p>
                   <sp><speaker>Le professeur</speaker><ab> — Il s'agit d'apiculture, de culture des abeilles. </ab></sp>
                   
                   <figure> 
@@ -149,21 +149,21 @@
                   
                   <p> Et montrant les maisonnettes : </p>
                   <sp><speaker>Le professeur</speaker><ab> — Vous voyez le rucher. J'étais en train de demander si, parmi les personnes qui m'écoutent, il y a un habitant, une habitante de la campagne. </ab></sp>
-                  <p> On ne répondit pas ; mais Pascal, Louis, Marthe regardèrent Suzette qui toussa, légèrement embarrassée. </p>
-                  <p> Le monsieur la regarda aussi, et Mme Richard, prenant la parole, dit que mademoiselle, sa nièce, était fermière à Fragicourt. </p>
-                  <sp><speaker>Mme Richard</speaker><ab> — Mademoiselle est fermière ! </ab></sp>
+                  <p> On ne répondit pas ; mais <persName ana="#pascal">Pascal</persName>, <persName ana="#louis">Louis</persName>, <persName ana="marthe">Marthe</persName> regardèrent <persName ana="#suzette">Suzette</persName> qui toussa, légèrement embarrassée. </p>
+                  <p> <persName ana="#le_professeur">Le monsieur</persName> la regarda aussi, et <persName ana="#mme_richard">Mme Richard</persName>, prenant la parole, dit que <persName ana="#suzette">mademoiselle</persName>, <persName ana="#suzette">sa nièce</persName>, était <persName ana="#suzette">fermière</persName> à Fragicourt. </p>
+                  <sp><speaker>Mme Richard</speaker><ab> — <persName ana="#suzette">Mademoiselle</persName> est <persName ana="#suzette">fermière</persName> ! </ab></sp>
          
                   <pb type="page" n="388"/>   
                   <fw type="header"> 388 SUZETTE. </fw>
          
-                  <sp><speaker>Suzette</speaker><ab> — Oui, Monsieur, </ab></sp> <stage> répondit Suzette. </stage>
+                  <sp><speaker>Suzette</speaker><ab> — Oui, <persName ana="#le_professeur">Monsieur</persName>, </ab></sp> <stage> répondit <persName ana="#suzette">Suzette</persName>. </stage>
                   <sp><speaker>Le professeur</speaker><ab> — A la bonne heure ! on va s'entendre... Vous élevez des abeilles ? </ab></sp>
-                  <sp><speaker>Suzette</speaker><ab> — Des abeilles ? non, Monsieur. </ab></sp>
+                  <sp><speaker>Suzette</speaker><ab> — Des abeilles ? non, <persName ana="#le_professeur">Monsieur</persName>. </ab></sp>
                   <sp><speaker>Le professeur</speaker><ab> — Comment non ? alors vous êtes une fermière millionnaire ? </ab></sp>
-                  <p> Il vit bien au rire de Suzette qu'elle avait encore moins de millions que d'abeilles. </p>
+                  <p> Il vit bien au rire de <persName ana="#suzette">Suzette</persName> qu'elle avait encore moins de millions que d'abeilles. </p>
                   <sp><speaker>Le professeur</speaker><ab> — Et dans votre village de Fragicourt, on agit sans doute comme vous, en fait d'apiculture ? </ab></sp>
-                  <sp><speaker>Suzette</speaker><ab> — Oui, Monsieur. </ab></sp>
-                  <sp><speaker>Le professeur</speaker><ab> — C'est cela ! c'est cela ! Et vous n'êtes probablement pas les derniers en France à vous plaindre de la dureté des temps et de la peine qu'on a à vivre ?... Eh bien ! Mademoiselle, </ab></sp> <stage> reprit-il, </stage> <sp><speaker>Le professeur</speaker><ab> si vous aviez mon âge, je me fâcherais tout rouge contre vous ! </ab></sp>
+                  <sp><speaker>Suzette</speaker><ab> — Oui, <persName ana="#le_professeur">Monsieur</persName>. </ab></sp>
+                  <sp><speaker>Le professeur</speaker><ab> — C'est cela ! c'est cela ! Et vous n'êtes probablement pas les derniers en France à vous plaindre de la dureté des temps et de la peine qu'on a à vivre ?... Eh bien ! <persName ana="#suzette">Mademoiselle</persName>, </ab></sp> <stage> reprit-il, </stage> <sp><speaker>Le professeur</speaker><ab> si vous aviez mon âge, je me fâcherais tout rouge contre vous ! </ab></sp>
                   
                   <figure> 
                      <caption> Les <hi rend="italic">Abeille butineuse.</hi>
@@ -183,10 +183,10 @@
                   </figure>
                   
                   <p> Il ajouta : </p>
-                  <sp><speaker>Le professeur</speaker><ab> — Quoique je ne vous fasse pas trop de compliments, vous plaît-il, Mademoiselle, d'écouter, de regarder un moment ? </ab></sp>
-                  <p> Toute cette brusquerie ne déplut pas à Mlle Suzette, qui, quoique un peu gênée, voyait bien d'où elle partait. </p>
+                  <sp><speaker>Le professeur</speaker><ab> — Quoique je ne vous fasse pas trop de compliments, vous plaît-il, <persName ana="#suzette">Mademoiselle</persName>, d'écouter, de regarder un moment ? </ab></sp>
+                  <p> Toute cette brusquerie ne déplut pas à <persName ana="#suzette">Mlle Suzette</persName>, qui, quoique un peu gênée, voyait bien d'où elle partait. </p>
                   <p> Elle répondit : </p>
-                  <sp><speaker>Suzette</speaker><ab> — Monsieur, j'écoute, et je regarde. </ab></sp>
+                  <sp><speaker>Suzette</speaker><ab> — <persName ana="#le_professeur">Monsieur</persName>, j'écoute, et je regarde. </ab></sp>
          
                   <pb type="page" n="389"/>   
                   <fw type="header"> LE RUCHER. 389 </fw>
