@@ -105,7 +105,7 @@
                   <charName xml:id="m_lejoly">M. Lejoly</charName>
                </char>
                <char>
-                  <charName xml:id="le_professeur">Le professeur</charName>
+                  <charName xml:id="l_apiculteur">L'apiculteur</charName>
                </char>
                <char>
                   <charName xml:id="la_bohemienne">La bohémienne</charName>
@@ -125,17 +125,17 @@
                   <pb type="page" n="391"/>
                   <head> 111. — Notre amie l'abeille. (Élève, p. 238.) </head>
          
-                  <p> <persName ana="#le_professeur">Le professeur</persName> marcha vers une ruche carrée semblable à un livre relié en bois, monté sur un pivot. </p>
+                  <p> <persName ana="#l'apiculteur">Le professeur</persName> marcha vers <name type="agriculture">une ruche</name> carrée semblable à un livre relié <name type="agriculture">en bois</name>, monté sur <name type="agriculture">un pivot</name>. </p>
                   <p> On le suivit. Il ouvrit ce livre, et une exclamation de surprise sortit de toutes les bouches. C'était un merveilleux livre d'histoire naturelle à images vivantes. </p>
-                  <p> Emprisonné entre deux feuilles de verre, un gâteau d'alvéoles de cire montrait sa population, son remue-ménage, sa vie industrieuse et jolie. </p>
-                  <p> <persName ana="#le_professeur">Le vieux monsieur</persName> donna des explications : </p>
+                  <p> <name type="agriculture">Emprisonné</name> entre deux <name type="agriculture">feuilles de verre</name>, un gâteau d'<name type="agriculture"><name type="agriculture">alvéoles</name> de cire</name> montrait sa <name type="agriculture">population</name>, son remue-ménage, sa vie <name type="agriculture">industrieuse</name> et jolie. </p>
+                  <p> <persName ana="#l'apiculteur">Le vieux monsieur</persName> donna des explications : </p>
                   
                   <figure> 
                      <caption> Gâteau suspendu verticalement dans la ruche avec ses entrées, moitié à droite, moitié à gauche. </caption>
                   </figure>
                   
-                  <sp><speaker>Le professeur</speaker><ab> Vers le milieu du gâteau était le couvain. C'est là que se trouvent les jeunes larves, récemment écloses des œufs pondus par la mère abeille, dont la tête, à gros yeux, émergeait*<!--No definition in the lexique--> en ce moment de son minuscule palais. <lb/>
-                  Des ouvrières aux longues ailes s'agitaient à l'entour, distribuant la pâtée et les soins aux larves, leurs petites sœurs, leurs futures compagnes de travail lorsqu'elles se seront transformées en nymphes<!--Definition for nymphes (Nymphe. Insecte au premier degré de ses différentes formes.) in lexique but no asterisk-->, puis en insectes ailés. <lb/>
+                  <sp><speaker>L'apiculteur</speaker><ab> Vers le milieu du <name type="agriculture">gâteau</name> était <name type="agriculture">le couvain</name>. C'est là que se trouvent les jeunes <name type="agriculture">larves</name>, récemment <name type="agriculture">écloses</name> <name type="agriculture">des œufs pondus par <name type="agriculture">la mère abeille</name></name>, dont <name type="agriculture">la tête</name>, à gros yeux, <name type="agriculture">émergeait</name>*<!--No definition in the lexique--> en ce moment de son minuscule palais. <lb/>
+                     <name type="agriculture">Des ouvrières aux longues ailes</name> s'agitaient à l'entour, <name type="agriculture">distribuant</name> <name type="agriculture">la pâtée</name> et <name type="agriculture">les soins</name> aux <name type="agriculture">larves</name>, leurs petites sœurs, leurs futures <name type="agriculture">compagnes de travail</name> lorsqu'elles se seront <name type="agriculture">transformées</name> en <name type="agriculture">nymphes</name><!--Definition for nymphes (Nymphe. Insecte au premier degré de ses différentes formes.) in lexique but no asterisk-->, puis en <name type="agriculture">insectes ailés</name>. <lb/>
                      
                      <figure> 
                         <caption> Les <hi rend="italic">Ruche.</hi>
@@ -144,14 +144,14 @@
                         </caption>
                      </figure>
                      
-                     D'autres ouvrières passaient, montaient vers le haut de la ruche ; et là, se penchant au-dessus de quelque alvéole, dégorgeaient le nectar qu'elles ve-
+                     D'autres <name type="agriculture">ouvrières</name> passaient, montaient vers le haut de <name type="agriculture">la ruche</name> ; et là, se penchant au-dessus de quelque <name type="agriculture">alvéole</name>, <name type="agriculture">dégorgeaient</name> <name type="agriculture">le nectar</name> qu'elles ve-
          
                      <pb type="page" n="392"/>   
                      <fw type="header"> 392 SUZETTE. </fw>
         
-naient de butiner sur les fleurs. Puis elles s'envolaient pour aller faire une provision nouvelle. <lb/>
-                     Déjà des files d'alvéoles bouchées d'un petit couvercle de cire, vrais petits pots de miel, montraient qu'on n'avait pas flâné dans la tribu, et que, dès à présent, on pouvait se rire de l'hiver et de la faim. <lb/>
-                     — Voilà l'abeille ! voilà notre admirable modèle de travail et d'économie, dit le maître apiculteur en refermant les volets de bois sur la ruche transparente. Écoutez maintenant : </ab></sp> <!--Was this whole section actually the professor speaking?-->
+        naient de <name type="agriculture">butiner</name> sur <name type="agriculture">les fleurs</name>. Puis elles <name type="agriculture">s'envolaient</name> pour aller <name type="agriculture">faire une provision</name> nouvelle. <lb/>
+                     Déjà <name type="agriculture">des files d'alvéoles</name> bouchées d'un petit <name type="agriculture">couvercle de cire</name>, vrais petits <name type="agriculture">pots de miel</name>, montraient qu'on n'avait pas flâné dans <name type="agriculture">la tribu</name>, et que, dès à présent, on pouvait se rire de <name type="nature">l'hiver</name> et de <name type="agriculture">la faim</name>. <lb/>
+                     — Voilà <name type="agriculture">l'abeille</name> ! voilà notre admirable <name type="agriculture">modèle de travail</name> et d'<name type="agriculture">économie</name>, dit le maître <name type="agriculture">apiculteur</name> en refermant les <name type="agriculture">volets de bois</name> sur <name type="agriculture">la ruche transparente</name>. Écoutez maintenant : </ab></sp> <!--Was this whole section actually the professor speaking?-->
                      
                      <div type="questionnaire">
                         <ab>

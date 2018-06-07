@@ -106,7 +106,7 @@
                   <charName xml:id="m_lejoly">M. Lejoly</charName>
                </char>
                <char>
-                  <charName xml:id="le_professeur">Le professeur</charName>
+                  <charName xml:id="l_apiculteur">L'apiculteur</charName>
                </char>
                <char>
                   <charName xml:id="la_bohemienne">La bohémienne</charName>
@@ -126,25 +126,25 @@
                   <pb type="page" n="393"/>
                   <head> 112. — Un stimulant. (Élève, p. 239.) </head>
 
-                  <p> En un court exposé, il fit l'historique du précieux insecte. Il montra l'homme d'autrefois à la chasse des ruches sauvages et de leurs rayons à travers les forêts. C'est ainsi que font encore aujourd'hui les nègres d'Afrique. Un fin petit oiseau, friand de miel, mais incapable de le cueillir par lui-même, les précède, leur indique les creux d'arbres où vivent les abeilles ; les nègres, dans leur langue l'appellent « l'indicateur ». Ils
+                  <p> En un court exposé, il fit l'historique du précieux <name type="nature">insecte</name>. Il montra <name type="history">l'homme d'autrefois</name> à <name type="history">la chasse des ruches sauvages</name> et de leurs <name type="history">rayons</name> à travers <name type="nature">les forêts</name>. C'est ainsi que font encore aujourd'hui <name type="geography"><name type="nature">les nègres</name> d'<placeName>Afrique</placeName></name>. Un fin petit <name type="nature">oiseau</name>, friand <name type="nature">de miel</name>, mais incapable de le <name type="nature">cueillir</name> par lui-même, les précède, leur indique <name type="nature">les creux d'arbres</name> où vivent <name type="nature">les abeilles</name> ; <name type="nature">les nègres</name>, dans leur langue l'appellent « <name type="nature">l'indicateur</name> ». Ils
          
                   <pb type="page" n="394"/>   
                   <fw type="header"> 394 SUZETTE. </fw>
          
-lui laissent un peu de miel en payement. L'homme primitif connaissait sans doute aussi ce petit fureteur ailé. </p>
-                  <p> Mais, une fois fixé sur le sol, où il fait pousser les moissons, les arbres, les fleurs, l'homme appelle l'abeille à une picorée facile. Et, en récompense, elle accepte d'habiter près de lui et de lui céder son superflu*<gloss>Le superflu. Ce qui n'est pas nécessaire à nos besoins.</gloss>. </p>
-                  <p> Et comment, à l'heure de progrès où nous sommes, ne pas songer à l'appeler de plus en plus, à la bien loger, à la traiter doucement, à lui procurer de vastes espaces fleuris, où elle puisse largement cueillir à son gré, exercer sa prodigieuse faculté de travail à notre avantage ? Ayons une apiculture savante et généreuse. Loin, loin, l'avarice comme l'ignorance ! </p>
+         lui laissent un peu de <name type="nature">miel</name> en payement. <name type="nature">L'homme primitif</name> connaissait sans doute aussi ce petit <name type="nature">fureteur ailé</name>. </p>
+                  <p> Mais, une fois fixé sur <name type="nature">le sol</name>, où il fait <name type="agriculture">pousser</name> <name type="agriculture">les moissons</name>, <name type="agriculture">les arbres</name>, <name type="agriculture">les fleurs</name>, <name type="nature">l'homme</name> appelle <name type="nature">l'abeille</name> à <name type="nature">une picorée</name> facile. Et, en récompense, elle accepte d'<name type="nature">habiter</name> près de lui et de lui céder son superflu*<gloss>Le superflu. Ce qui n'est pas nécessaire à nos besoins.</gloss>. </p>
+                  <p> Et comment, à <time>l'heure de progrès</time> où nous sommes, ne pas songer à l'appeler de plus en plus, à la bien loger, à la traiter doucement, à lui <name type="agriculture">procurer</name> de vastes <name type="agriculture">espaces fleuris</name>, où elle puisse largement <name type="agriculture">cueillir</name> à son gré, exercer sa prodigieuse <name type="agriculture">faculté de travail</name> à notre avantage ? Ayons <name type="agriculture">une apiculture</name> savante et généreuse. Loin, loin, l'avarice comme l'ignorance ! </p>
                   <!--Is any of the above dialogue?-->
-                  <p> Il cita le Canada*<gloss>Canada. Région de l'Amérique du N.</gloss>, où, avec de la science et de la méthode, une ruche donne de trente à cinquante kilos de miel. </p>
+                  <p> Il cita <placeName>le Canada</placeName>*<gloss>Canada. Région de l'Amérique du N.</gloss>, où, avec de la science et de la méthode, <name type="agriculture">une ruche</name> donne de trente à cinquante <name type="agriculture">kilos de miel</name>. </p>
                   <sp><speaker>Louis</speaker><ab> — Combien produit-elle chez nous ? </ab></sp> <stage> demanda <persName ana="#louis">Louis</persName>. </stage>
-                  <p> <persName ana="#le_professeur">Le vieux monsieur</persName> mit un doigt devant sa bouche, et baissant la voix : </p>
-                  <sp><speaker>Le professeur</speaker><ab> — Je n'ose vous dire en quel pays d'Europe l'apiculture est le plus négligée, le plus arriérée, le plus routinière, le moins rémunératrice... ni en quel autre elle est le plus pratiquée, savante et lucrative... non, en vérité, je n'ose pas vous le dire ! </ab></sp> <stage> — Son visage exprimait un sentiment douloureux : </stage> <sp><speaker>Le professeur</speaker><ab> — Sachez seulement que dans le premier une ruche donne à grand'peine de trois à quatre kilos. </ab></sp>
+                  <p> <persName ana="#l_apiculteur">Le vieux monsieur</persName> mit un doigt devant sa bouche, et baissant la voix : </p>
+                  <sp><speaker>L'apiculteur</speaker><ab> — Je n'ose vous dire en quel <placeName>pays d'<placeName>Europe</placeName></placeName> <name type="agriculture">l'apiculture</name> est le plus négligée, le plus arriérée, le plus routinière, le moins rémunératrice... ni en quel autre elle est le plus pratiquée, savante et lucrative... non, en vérité, je n'ose pas vous le dire ! </ab></sp> <stage> — Son visage exprimait un sentiment douloureux : </stage> <sp><speaker>L'apiculteur</speaker><ab> — Sachez seulement que dans le premier <name type="agriculture">une ruche</name> donne à grand'peine de trois à quatre kilos. </ab></sp>
                   <p> On se taisait ; on avait compris. </p>
-                  <sp><speaker>Le professeur</speaker><ab> — Et voilà pourquoi, </ab></sp> <stage> reprit-il, </stage> <sp><speaker>Le professeur</speaker><ab> j'ai parlé un peu brusquement à <persName ana="#suzette">cette jeune fermière</persName>. </ab></sp>
+                  <sp><speaker>L'apiculteur</speaker><ab> — Et voilà pourquoi, </ab></sp> <stage> reprit-il, </stage> <sp><speaker>L'apiculteur</speaker><ab> j'ai parlé un peu brusquement à <persName ana="#suzette">cette jeune <name type="agriculture">fermière</name></persName>. </ab></sp>
                   <p> Il regardait <persName ana="#suzette">Suzette</persName>. </p>
-                  <sp><speaker>Suzette</speaker><ab> — Vous avez bien fait, <persName ana="#le_professeur">Monsieur</persName>, </ab></sp> <stage> répondit-elle tout émue ; </stage> <sp><speaker>Suzette</speaker><ab> il y aura bientôt un rucher à Fragicourt ! </ab></sp>
-                  <p> <persName ana="#le_professeur">L'apiculteur</persName> lui tendit la main ; la leçon était finie. On se dispersa ; et <persName>nos cinq amis</persName> quittèrent le Jardin d'acclimatation en gens enchantés de n'y avoir pas perdu leur après-midi. </p>
-                  <p> C'était la dernière fête parisienne. Le lendemain, <persName ana="#suzette">Suzette</persName> retournait au village. </p> 
+                  <sp><speaker>Suzette</speaker><ab> — Vous avez bien fait, <persName ana="#l_apiculteur">Monsieur</persName>, </ab></sp> <stage> répondit-elle tout émue ; </stage> <sp><speaker>Suzette</speaker><ab> il y aura bientôt <name type="agriculture">un rucher</name> à <placeName>Fragicourt</placeName> ! </ab></sp>
+                  <p> <persName ana="#l_apiculteur"><name type="agriculture">L'apiculteur</name></persName> lui tendit la main ; la leçon était finie. On se dispersa ; et <persName>nos cinq amis</persName> quittèrent <placeName><name type="agriculture">le Jardin d'acclimatation</name></placeName> en gens enchantés de n'y avoir pas perdu leur après-midi. </p>
+                  <p> C'était la dernière fête parisienne. Le lendemain, <persName ana="#suzette">Suzette</persName> retournait au <placeName>village</placeName>. </p> 
          
                   <pb type="page" n="395"/>   
                   <fw type="header"> UN STIMULANT. 395 </fw>

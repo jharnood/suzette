@@ -105,7 +105,7 @@
                   <charName xml:id="m_lejoly">M. Lejoly</charName>
                </char>
                <char>
-                  <charName xml:id="le_professeur">Le professeur</charName>
+                  <charName xml:id="l_apiculteur">L'apiculteur</charName>
                </char>
                <char>
                   <charName xml:id="la_bohemienne">La bohémienne</charName>
@@ -125,13 +125,13 @@
                   <pb type="page" n="387"/>
                   <head> 110. — Le rucher. (Élève, p. 236.) </head>
          
-                  <p> C'étaient une dizaine de minuscules*<gloss>Minuscule. Tout petit.</gloss> maisonnettes haut perchées, les unes de bois, semblables à des chalets<!--Definition for (Chalet. Maison de bois que l'on construit surtout dans les montagnes.) but no asterisk-->, les autres de paille, en forme de cloche. Elles formaient un cercle. </p>
-                  <sp><speaker>Pascal</speaker><ab> — Cela ressemble à un petit douar*<term>Douar. Village arabe forme de tentes.</term> arabe, </ab></sp> <stage> dit <persName ana="#pascal">l'explorateur Pascal</persName>. </stage>
-                  <p> Des gens étaient rangés là, autour d'<persName ana="#le_professeur">un vieux monsieur</persName> qui parlait. <persName ana="#le_professeur">Ce monsieur</persName>, grand, maigre, portait un haut chapeau sur ses cheveux blancs, et un tablier bleu, à bavette, sur son vêtement noir. </p>
+                  <p> C'étaient une dizaine de minuscules*<gloss>Minuscule. Tout petit.</gloss> <name type="agriculture">maisonnettes</name> haut perchées, les unes <name type="agriculture">de bois</name>, semblables à des chalets<!--Definition for (Chalet. Maison de bois que l'on construit surtout dans les montagnes.) but no asterisk-->, les autres <name type="agriculture">de paille</name>, en forme de cloche. Elles formaient un cercle. </p>
+                  <sp><speaker>Pascal</speaker><ab> — Cela ressemble à un petit <name type="history">douar*<term>Douar. Village arabe forme de tentes.</term> arabe</name>, </ab></sp> <stage> dit <persName ana="#pascal">l'explorateur Pascal</persName>. </stage>
+                  <p> Des gens étaient rangés là, autour d'<persName ana="#l_apiculteur">un vieux monsieur</persName> qui parlait. <persName ana="#l_apiculteur">Ce monsieur</persName>, grand, maigre, portait <name type="agriculture">un haut chapeau</name> sur ses cheveux blancs, et <name type="agriculture">un tablier</name> bleu, à <name type="agriculture">bavette</name>, sur son vêtement noir. </p>
                   <p> Il s'interrompit pour inviter les arrivants à entrer. </p>
                   <p> Sans doute, à cause du douar, <persName ana="#pascal">Pascal</persName> entra le premier ; la famille suivit. </p>
-                  <p> <persName ana="#le_professeur">Le monsieur</persName> les mit aussitôt au fait en leur disant : </p>
-                  <sp><speaker>Le professeur</speaker><ab> — Il s'agit d'apiculture, de culture des abeilles. </ab></sp>
+                  <p> <persName ana="#l_apiculteur">Le monsieur</persName> les mit aussitôt au fait en leur disant : </p>
+                  <sp><speaker>L'apiculteur</speaker><ab> — Il s'agit d'<name type="agriculture">apiculture</name>, de <name type="agriculture">culture des abeilles</name>. </ab></sp>
                   
                   <figure> 
                      <caption> Les <hi rend="italic">Larve de l'abeille.</hi>
@@ -147,23 +147,23 @@
                      </caption>
                   </figure>
                   
-                  <p> Et montrant les maisonnettes : </p>
-                  <sp><speaker>Le professeur</speaker><ab> — Vous voyez le rucher. J'étais en train de demander si, parmi les personnes qui m'écoutent, il y a un habitant, une habitante de la campagne. </ab></sp>
+                  <p> Et montrant <name type="agriculture">les maisonnettes</name> : </p>
+                  <sp><speaker>L'apiculteur</speaker><ab> — Vous voyez <name type="agriculture">le rucher</name>. J'étais en train de demander si, parmi les personnes qui m'écoutent, il y a un habitant, une habitante de <placeName>la campagne</placeName>. </ab></sp>
                   <p> On ne répondit pas ; mais <persName ana="#pascal">Pascal</persName>, <persName ana="#louis">Louis</persName>, <persName ana="marthe">Marthe</persName> regardèrent <persName ana="#suzette">Suzette</persName> qui toussa, légèrement embarrassée. </p>
-                  <p> <persName ana="#le_professeur">Le monsieur</persName> la regarda aussi, et <persName ana="#mme_richard">Mme Richard</persName>, prenant la parole, dit que <persName ana="#suzette">mademoiselle</persName>, <persName ana="#suzette">sa nièce</persName>, était <persName ana="#suzette">fermière</persName> à Fragicourt. </p>
-                  <sp><speaker>Mme Richard</speaker><ab> — <persName ana="#suzette">Mademoiselle</persName> est <persName ana="#suzette">fermière</persName> ! </ab></sp>
+                  <p> <persName ana="#l_apiculteur">Le monsieur</persName> la regarda aussi, et <persName ana="#mme_richard">Mme Richard</persName>, prenant la parole, dit que <persName ana="#suzette">mademoiselle</persName>, <persName ana="#suzette">sa nièce</persName>, était <persName ana="#suzette"><name type="agriculture">fermière</name></persName> à <placeName>Fragicourt</placeName>. </p>
+                  <sp><speaker>Mme Richard</speaker><ab> — <persName ana="#suzette">Mademoiselle</persName> est <persName ana="#suzette"><name type="agriculture">fermière</name></persName> ! </ab></sp>
          
                   <pb type="page" n="388"/>   
                   <fw type="header"> 388 SUZETTE. </fw>
          
-                  <sp><speaker>Suzette</speaker><ab> — Oui, <persName ana="#le_professeur">Monsieur</persName>, </ab></sp> <stage> répondit <persName ana="#suzette">Suzette</persName>. </stage>
-                  <sp><speaker>Le professeur</speaker><ab> — A la bonne heure ! on va s'entendre... Vous élevez des abeilles ? </ab></sp>
-                  <sp><speaker>Suzette</speaker><ab> — Des abeilles ? non, <persName ana="#le_professeur">Monsieur</persName>. </ab></sp>
-                  <sp><speaker>Le professeur</speaker><ab> — Comment non ? alors vous êtes une fermière millionnaire ? </ab></sp>
-                  <p> Il vit bien au rire de <persName ana="#suzette">Suzette</persName> qu'elle avait encore moins de millions que d'abeilles. </p>
-                  <sp><speaker>Le professeur</speaker><ab> — Et dans votre village de Fragicourt, on agit sans doute comme vous, en fait d'apiculture ? </ab></sp>
-                  <sp><speaker>Suzette</speaker><ab> — Oui, <persName ana="#le_professeur">Monsieur</persName>. </ab></sp>
-                  <sp><speaker>Le professeur</speaker><ab> — C'est cela ! c'est cela ! Et vous n'êtes probablement pas les derniers en France à vous plaindre de la dureté des temps et de la peine qu'on a à vivre ?... Eh bien ! <persName ana="#suzette">Mademoiselle</persName>, </ab></sp> <stage> reprit-il, </stage> <sp><speaker>Le professeur</speaker><ab> si vous aviez mon âge, je me fâcherais tout rouge contre vous ! </ab></sp>
+                  <sp><speaker>Suzette</speaker><ab> — Oui, <persName ana="#l_apiculteur">Monsieur</persName>, </ab></sp> <stage> répondit <persName ana="#suzette">Suzette</persName>. </stage>
+                  <sp><speaker>L'apiculteur</speaker><ab> — A la bonne heure ! on va s'entendre... Vous <name type="agriculture">élevez</name> <name type="agriculture">des abeilles</name> ? </ab></sp>
+                  <sp><speaker>Suzette</speaker><ab> — <name type="agriculture">Des abeilles</name> ? non, <persName ana="#l_apiculteur">Monsieur</persName>. </ab></sp>
+                  <sp><speaker>L'apiculteur</speaker><ab> — Comment non ? alors vous êtes <name type="agriculture">une fermière</name> millionnaire ? </ab></sp>
+                  <p> Il vit bien au rire de <persName ana="#suzette">Suzette</persName> qu'elle avait encore moins de millions que d'<name type="agriculture">abeilles</name>. </p>
+                  <sp><speaker>L'apiculteur</speaker><ab> — Et dans votre <placeName>village de <placeName>Fragicourt</placeName></placeName>, on agit sans doute comme vous, en fait d'<name type="agriculture">apiculture</name> ? </ab></sp>
+                  <sp><speaker>Suzette</speaker><ab> — Oui, <persName ana="#l_apiculteur">Monsieur</persName>. </ab></sp>
+                  <sp><speaker>L'apiculteur</speaker><ab> — C'est cela ! c'est cela ! Et vous n'êtes probablement pas les derniers en <placeName>France</placeName> à vous plaindre de la dureté des temps et de la peine qu'on a à vivre ?... Eh bien ! <persName ana="#suzette">Mademoiselle</persName>, </ab></sp> <stage> reprit-il, </stage> <sp><speaker>L'apiculteur</speaker><ab> si vous aviez mon âge, je me fâcherais tout rouge contre vous ! </ab></sp>
                   
                   <figure> 
                      <caption> Les <hi rend="italic">Abeille butineuse.</hi>
@@ -173,7 +173,7 @@
                   </figure>
                   
                   <p> Il se fâchait, et comme il faut, mais c'était la très pardonnable fâcherie de la science contre l'ignorance : </p>
-                  <sp><speaker>Le professeur</speaker><ab> — Est-il donc possible qu'une fermière ne se soucie pas d'avoir au midi de sa ferme un bel et bourdonnant et lucratif*<gloss>Lucratif. Qui produit un bon revenu.</gloss> rucher  ! Y a-t-il de l’esprit à se priver d'une précieuse ressource en même temps que d'une très intéressante occupation ! </ab></sp>
+                  <sp><speaker>L'apiculteur</speaker><ab> — Est-il donc possible qu'<name type="agriculture">une fermière</name> ne se soucie pas d'avoir au midi de <name type="agriculture">sa ferme</name> un bel et bourdonnant et lucratif*<gloss>Lucratif. Qui produit un bon revenu.</gloss> <name type="agriculture">rucher</name>  ! Y a-t-il de l’esprit à se priver d'une précieuse <name type="agriculture">ressource</name> en même temps que d'une très intéressante occupation ! </ab></sp>
                   
                   <figure> 
                      <caption> Les <hi rend="italic">Pattes d'une abeille.</hi>
@@ -183,10 +183,10 @@
                   </figure>
                   
                   <p> Il ajouta : </p>
-                  <sp><speaker>Le professeur</speaker><ab> — Quoique je ne vous fasse pas trop de compliments, vous plaît-il, <persName ana="#suzette">Mademoiselle</persName>, d'écouter, de regarder un moment ? </ab></sp>
+                  <sp><speaker>L'apiculteur</speaker><ab> — Quoique je ne vous fasse pas trop de compliments, vous plaît-il, <persName ana="#suzette">Mademoiselle</persName>, d'écouter, de regarder un moment ? </ab></sp>
                   <p> Toute cette brusquerie ne déplut pas à <persName ana="#suzette">Mlle Suzette</persName>, qui, quoique un peu gênée, voyait bien d'où elle partait. </p>
                   <p> Elle répondit : </p>
-                  <sp><speaker>Suzette</speaker><ab> — <persName ana="#le_professeur">Monsieur</persName>, j'écoute, et je regarde. </ab></sp>
+                  <sp><speaker>Suzette</speaker><ab> — <persName ana="#l_apiculteur">Monsieur</persName>, j'écoute, et je regarde. </ab></sp>
          
                   <pb type="page" n="389"/>   
                   <fw type="header"> LE RUCHER. 389 </fw>

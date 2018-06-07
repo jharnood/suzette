@@ -105,7 +105,7 @@
                   <charName xml:id="m_lejoly">M. Lejoly</charName>
                </char>
                <char>
-                  <charName xml:id="le_professeur">Le professeur</charName>
+                  <charName xml:id="l_apiculteur">L'apiculteur</charName>
                </char>
                <char>
                   <charName xml:id="la_bohemienne">La bohémienne</charName>
@@ -126,8 +126,8 @@
                   <head> 83. — Triomphe du travail. (Élève, p. 174.) </head>
          
          
-                  <p> Là, un peuple de merveilleuses machines en tenue brillante, et qu'on eût dites heureuses de leur existence en ce monde ! </p>
-                  <p> C'étaient les couteaux, les marteaux, les scies, les pilons de nos jours ; voilà ce qu'était devenu le pauvre outillage des âges de pierre, de bronze et de fer ! Salut au génie et au labeur humains ! à l'effort des générations*<gloss>Génération. L'ensemble de tous les hommes du même âge.</gloss> qui, continué à travers tant de siècles de misère, de sang, de forte et douloureuse patience, avait enfin produit ces outils magnifiques de puissance et de précision ! </p>
+                  <p> Là, un peuple de merveilleuses <name type="industry">machines</name> en tenue brillante, et qu'on eût dites heureuses de leur existence en ce monde ! </p>
+                  <p> C'étaient <name type="industry">les couteaux</name>, <name type="industry">les marteaux</name>, <name type="industry">les scies</name>, les pilons <time>de nos jours</time> ; voilà ce qu'était devenu <name type="industry">le pauvre outillage</name> <name type="industry"><time>des âges de pierre, de bronze et de fer</time></name> ! Salut au génie et au <name type="history">labeur humains</name> ! à <name type="history">l'effort des générations</name>*<gloss>Génération. L'ensemble de tous les hommes du même âge.</gloss> qui, continué à travers tant <time>de siècles</time> de misère, de sang, de forte et douloureuse patience, avait enfin <name type="industry">produit</name> ces <name type="industry">outils magnifiques de puissance et de précision</name> ! </p>
     
                   <figure> 
                      <caption> Les <hi rend="italic">La grande industrie.</hi>
@@ -136,13 +136,13 @@
                      </caption>
                   </figure>
     
-                  <sp><speaker>Louis</speaker><ab> — Voyez-vous ceux-ci aux larges mâchoires pourvues de dents d'acier ? ce sont des peignes à peigner la laine, qui sort de là en filaments finement divisés. Et savez-vous que
+                  <sp><speaker>Louis</speaker><ab> — Voyez-vous ceux-ci aux larges <name type="industry">mâchoires</name> pourvues de <name type="industry">dents d'acier</name> ? ce sont <name type="industry">des peignes</name> à <name type="industry">peigner</name> <name type="industry">la laine</name>, qui <name type="industry">sort</name> de là en <name type="industry">filaments</name> finement divisés. Et savez-vous que
          
                      <pb type="page" n="287"/>   
                      <fw type="header"> TRIOMPHE DU TRAVAIL. 287 </fw>
          
-                  des mâchoires humaines faisaient jadis ce travail, que des ouvriers s'employaient à passer la laine entre leurs dents pour ôter les nœuds, ci s'empoisonnaient ainsi de poussière morbide*<gloss>Morbide. Qui cause des maladies.</gloss> ? </ab></sp>
-                  <p> Cette machine, à côté, est destinée à un moulin ; le montage des sacs de blé, la mouture, le blutage*<term>Blutage. Opération ayant pour objet de séparer la farine du son.</term>, l'ensachement, tout s'y fera mécaniquement. Et qui, jadis, avant cette invention, et celle des moulins à eau et à vent, était chargé de toute cette besogne ? — les femmes, avec leurs pauvres bras. On peut les voir encore à ce travail sous les tentes de l'Arabe. </p> <!--Is this paragraph actually still Louis speaking?-->
+         des <name type="history">mâchoires humaines</name> faisaient <time>jadis</time> ce <name type="industry">travail</name>, que <name type="industry">des ouvriers</name> s'employaient à passer <name type="industry">la laine</name> entre leurs dents pour <name type="industry">ôter les nœuds</name>, ci s'empoisonnaient ainsi de <name type="health">poussière morbide</name>*<gloss>Morbide. Qui cause <name type="health">des maladies</name>.</gloss> ? </ab></sp>
+                  <p> Cette <name type="industry">machine</name>, à côté, est destinée à <name type="industry">un moulin</name> ; <name type="industry">le montage</name> <name type="industry">des sacs de <name type="nature">blé</name></name>, <name type="industry">la mouture</name>, <name type="industry">le blutage</name>*<term>Blutage. Opération ayant pour objet de séparer la farine du son.</term>, <name type="industry">l'ensachement</name>, tout s'y fera <name type="industry">mécaniquement</name>. Et qui, <time>jadis</time>, <time>avant cette invention</time>, et celle <name type="industry">des moulins à <name type="nature">eau</name> et à <name type="nature">vent</name>, était chargé de toute cette besogne ? — les femmes, avec leurs pauvres bras. On peut les voir encore à ce <name type="industry">travail</name> sous <name type="history">les tentes de <placeName>l'Arabe</placeName></name>. </p> <!--Is this paragraph actually still Louis speaking?-->
                   <sp><speaker>Pascal</speaker><ab> — Parbleu ! </ab></sp> <stage> s'écria <persName ana="pascal">Pascal</persName> en regardant <persName ana="#suzette">Suzette</persName>, </stage> <sp><speaker>Pascal</speaker><ab> je vous l'avais bien dit. </ab></sp>
                   
                   <figure> 
@@ -153,7 +153,7 @@
                   </figure>
                   
                   <sp><speaker>Suzette</speaker><ab> — Oh ! je m'en souviens ! </ab></sp> <stage> répondit <persName ana="#suzette">Suzette</persName>. </stage>
-                  <p> On était maintenant devant une machine à vapeur, gros corps aux membres d'acier poli et de cuivre brillant comme de l’or. <!--Is the last sentence Louis speaking?--> <persName ana="louis">Louis</persName> s'arrêta. Il la connaissait ; il en avait mené l'exécution : </p>
+                  <p> On était maintenant devant <name type="industry">une machine à vapeur</name>, gros <name type="industry">corps</name> aux <name type="industry">membres</name> d'<name type="industry">acier</name> poli et de <name type="industry">cuivre</name> brillant comme de <name type="industry">l’or</name>. <!--Is the last sentence Louis speaking?--> <persName ana="louis">Louis</persName> s'arrêta. Il la connaissait ; il en avait mené <name type="industry">l'exécution</name> : </p>
                   
                   <figure> 
                      <caption> Les <hi rend="italic">Femme arabe blutant le blé.</hi>
@@ -162,12 +162,12 @@
                      </caption>
                   </figure>
                   
-                  <sp><speaker>Louis</speaker><ab> — C'est une belle et bonne chose, </ab></sp> <stage> dit-il avec la caresse des yeux: et le sourire heureux du travailleur devant son œuvre ; </stage> <!--Is this where his dialogue picks back up?--> <sp><speaker>Louis</speaker><ab> un navire l'attend. Elle le conduira à travers les mers jusqu'aux continents lointains, pour y porter nos
+                  <sp><speaker>Louis</speaker><ab> — C'est une belle et bonne chose, </ab></sp> <stage> dit-il avec la caresse des yeux: et le sourire heureux du <name type="industry">travailleur</name> devant <name type="industry">son œuvre</name> ; </stage> <!--Is this where his dialogue picks back up?--> <sp><speaker>Louis</speaker><ab> <name type="industry">un navire</name> l'attend. Elle le conduira à travers les mers jusqu'aux <placeName>continents lointains</placeName>, pour y porter nos
           
                      <pb type="page" n="288"/>   
                      <fw type="header"> 288 SUZETTE. </fw>
          
-         produits. Elle nous rapportera le coton de l'Amérique, le blé, les laines de l'Australie, la soie, le thé de la Chine, le café, les fruits, les épices des îles océaniennes, tout ce que notre sol européen ne produit pas ou ne nous donne qu'avec parcimonie*<gloss>Parcimonie. Epargne excessive.</gloss>. </ab></sp>
+                     <name type="industry">produits</name>. Elle nous rapportera <name type="industry">le coton de <placeName>l'Amérique</placeName></name>, <name type="industry">le blé</name>, <name type="industry">les laines de <placeName>l'Australie</placeName></name>, <name type="industry">la soie</name>, <name type="industry">le thé de <placeName>la Chine</placeName></name>, <name type="industry">le café</name>, <name type="industry">les fruits</name>, <name type="industry">les épices <placeName>des îles océaniennes</placeName></name>, tout ce que notre <placeName>sol européen</placeName> ne produit pas ou ne nous donne qu'avec parcimonie*<gloss>Parcimonie. Epargne excessive.</gloss>. </ab></sp>
                   
                   <div type="questionnaire">
                      <ab>
