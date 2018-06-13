@@ -119,7 +119,17 @@
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
                </place>
                <place>
-                  <placeName xml:id="la_france">La France</placeName>
+                  <placeName xml:id="la_france">la France</placeName>
+               </place>
+               <place> 
+                  <placeName xml:id="avre">l'Avre
+                     <geogFeat>River</geogFeat>
+                  </placeName> 
+               </place>
+               <place>
+                  <placeName xml:id="la_moye">la Moye
+                     <geogFeat>River</geogFeat>
+                  </placeName>
                </place>
             </listPlace>
          </settingDesc>
@@ -139,24 +149,24 @@
          
                <div type="letter">
             
-                  <head> <placeName>(LA FERME-ÉCOLE)</placeName> </head> <!--Unsure how to tag this - seems to be a letter header-->
+                  <head> (LA FERME-ÉCOLE) </head> <!--Unsure how to tag this - seems to be a letter header-->
          
                   <opener>
                      <salute> « Cher <persName ana="#papa">père,</persName> </salute>
                   </opener>
-                  <p> « Sans le regret du <placeName >village</placeName> qui me tient toujours, je serais ici comme un poisson dans l'eau. </p>
+                  <p> « Sans le regret du <placeName ana="#fragicourt">village</placeName> qui me tient toujours, je serais ici comme un poisson dans l'eau. </p>
          
                   <pb type="page" n="76"/>   
                   <fw type="header"> 76 SUZETTE. </fw> 
                
-                  <p> « <placeName>Le Paraclet</placeName> est charmant*<gloss>Charmant. Très agréable.</gloss>. <placeName>L'école</placeName>, bâtie sur le flanc d'une colline, domine une belle vallée où coulent <placeName>l'Avre</placeName> et <placeName>la Moye</placeName>. Un petit village de maisonnettes rouges et blanches, avec son clocher qui ressemble à celui de <placeName>Fragicourt</placeName>, c'est notre horizon. </p>
+                  <p> « Le Paraclet est charmant*<gloss>Charmant. Très agréable.</gloss>. L'école, bâtie sur le flanc d'une colline, domine une belle vallée où coulent <placeName ana="#avre">l'Avre</placeName> et <placeName ana="#la_moye">la Moye</placeName>. Un petit village de maisonnettes rouges et blanches, avec son clocher qui ressemble à celui de <placeName ana="#fragicourt">Fragicourt</placeName>, c'est notre horizon. </p>
                   <p> « Cent vingt hectares, voilà mon domaine maintenant. </p>
                   <p> « Quel grand propriétaire je fais, n'est-ce pas ? Il est vrai que je partage avec de nombreux camarades. </p>
                   <p> « Et <name type="agriculture">le travail des champs</name> marche ici avec celui de l'esprit ; l'histoire, <name type="discipline">la chimie</name>*<gloss>Chimie. Science qui étudie ce qui peut changer l'état des corps et les applications utiles qui en résultent.</gloss>, <name type="discipline">la physique</name>*<gloss>Physique. Science qui étudie les propriétés des corps matériels sans les décomposer, comme on le fait en chimie.</gloss>, <name type="discipline">l'horticulture</name>, <name type="discipline">l'arboriculture</name>, nous occupent une partie du jour. </p>
                   <p> « Des professeurs et un laboratoire*<gloss>Laboratoire. Local disposé pour faire les expériences de physique et de chimie.</gloss> ! rien ne nous, manque. Aux vacances, vous verrez comme on <name type="agriculture">taillera</name>, <name type="agriculture">greffera</name>*<gloss>Greffer. Fixer, dans la fente d'une tige d'arbre, une petite branche que l'on coupe sur un arbre de meilleure espèce.</gloss> ! Et quels beaux <name type="agriculture">fruits</name> mangeront ceux qui les aiment, par exemple, <persName ana="#suzette">une jeune <name type="agriculture">fermière</name></persName> de ma connaissance qu'on appelle <persName ana="#suzette">Suzette</persName> ! </p>
                   <p> « <name type="discipline">La chimie agricole</name> surtout me passionne. Quelle ressource pour <name type="agriculture">l'agronome</name>*<gloss>Agronome. Celui qui s'occupe de perfectionner l'agriculture.</gloss> ! <name type="discipline">La chimie</name> vous analyse*<!--Analyse has an asterisk but no definitin in the lexique--> <name type="nature">une plante</name>, en montre un à un <name type="nature">les éléments</name>*<gloss>Éléments. Les parties, les substances dont un corps est composé.</gloss> : tant d'<name type="nature">azote</name>*<gloss>Azote. L'un des deux gaz qui forment l'air; il ne peut entretenir la combustion.</gloss>, tant de <name type="nature">carbone</name>*<gloss>Carbone. Corps qui, à l'état de pureté, est le diamant, et qui constitue la base du bois et du charbon.</gloss>, tant de <name type="nature">soufre</name>, d'<name type="nature">oxygène</name>*<gloss>Oxygène. Celui des deux gaz de l'air qui peut entretenir la combustion.</gloss>, d'<name type="nature">hydrogène</name>*<gloss>Hydrogène. Gaz 14 fois et demie plus léger que l'air.</gloss>, etc. ; et <name type="agriculture">le cultivateur</name> ayant appris tout cela, sait encore que <name type="nature">les plantes</name> <name type="nature">puisent</name> ces <name type="nature">éléments</name> pour la plus grande partie dans <name type="nature">le sol</name> par leurs <name type="nature">racines</name> et <name type="nature">radicelles</name>*<gloss>Radicelles. Petites ramifications d'une racine.</gloss>. Il lui devient alors aisé de donner, par <name type="agriculture">des engrais</name> appropriés, à chacune <name type="nature">la nourriture</name> qui lui convient, et de la rendre ainsi belle et vigoureuse. </p>
                   <p> « A étudier et à <name type="agriculture">bêcher</name> tour à tour, je me porte comme un charme*<gloss>Charme. Parfaitement bien.</gloss>. Un professeur nous disait hier que les hommes devraient à peu près tous pouvoir partager ainsi leur journée entre <name type="agriculture">le travail des mains</name> et celui de l'esprit. Ils s'en porteraient mieux intellectuellement, et peut-être en viendront-ils là dans l'avenir. </p>
-                  <p> « J'ai fait ici la connaissance d'un homme que vous aimeriez beaucoup, <persName ana="#papa">cher père</persName> : c'est <persName><name type="agriculture">Olivier de Serres</name></persName>*<gloss>Olivier de Serres. Grand <name type="agriculture">agronome</name> contemporain de <persName>Henri IV</persName>.</gloss>. Sa pensée vit, encore, quoiqu'il soit mort depuis à peu près trois cents ans. On l'appelle <persName>le père de <name type="discipline">l'agriculture</name></persName>. Il créa <name type="discipline">l'agronomie</name>, il aima <name type="agriculture">les champs</name>, et, par grand désir d'être utile aux hommes, écrivit des livres
+                  <p> « J'ai fait ici la connaissance d'un homme que vous aimeriez beaucoup, <persName ana="#papa">cher père</persName> : c'est <persName><name type="agriculture">Olivier de Serres</name></persName>*<gloss>Olivier de Serres. Grand agronome contemporain de Henri IV.</gloss>. Sa pensée vit, encore, quoiqu'il soit mort depuis à peu près trois cents ans. On l'appelle <persName>le père de <name type="discipline">l'agriculture</name></persName>. Il créa <name type="discipline">l'agronomie</name>, il aima <name type="agriculture">les champs</name>, et, par grand désir d'être utile aux hommes, écrivit des livres
          
                   <pb type="page" n="77"/>   
                   <fw type="header"> UNE LETTRE DE JACQUES. 77 </fw> 
@@ -165,7 +175,7 @@ qui, après trois siècles, continuent de nous éclairer. </p>
                   <p> « Le directeur du Paraclet est un brave. En 1870, sergent de mobiles*<gloss>Mobiles. Les mobiles étaient de jeunes soldats qui n'avaient pas été formés au service militaire.</gloss>, en pleine bataille, il retourna sur ses pas et se rejeta dans la mitraille pour aller reprendre le drapeau de la compagnie aux mains de celui qui le portait et qu'une balle venait de frapper. Il sauva le drapeau. C'est beau, cela, n'est-ce pas ? </p>
                   <p> « On appelle pour <name type="agriculture">une promenade agricole</name>. Nous allons visiter <name type="agriculture">une ferme</name> importante des environs. </p>
                   <closer>
-                     <salute> « Je vous quitte : je vous embrasse de tout mon cœur, cher <persName ana="#papa">papa</persName>, et toi, <persName ana="#suzette">Suzette</persName>, et vous, <persName ana="#francois">François</persName> et <persName ana="#charlot">Charlot</persName>. </salute>
+                     <salute> « Je vous quitte : je vous embrasse de tout mon cœur, <persName ana="#papa">cher papa</persName>, et toi, <persName ana="#suzette">Suzette</persName>, et vous, <persName ana="#francois">François</persName> et <persName ana="#charlot">Charlot</persName>. </salute>
                      <signed> « <persName ana="#jacques">JACQUES DUMAY</persName>. » </signed>
                   </closer>
                </div>
