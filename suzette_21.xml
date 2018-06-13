@@ -57,6 +57,7 @@
             <language ident="eng">English</language>
          </langUsage>
       </profileDesc>
+
       <encodingDesc>
          <charDecl>
             <char>
@@ -111,6 +112,60 @@
                <charName xml:id="la_bohemienne">La bohémienne</charName>
             </char>
          </charDecl>
+         
+         <classDecl>
+            <taxonomy xml:id="sciences">
+               <category xml:id="scienceNat">
+                  <catDesc>Science Naturelles</catDesc>
+                  <category xml:id="mineraux">
+                     <catDesc>Minéraux</catDesc>
+                  </category>
+                  <category xml:id="vegetaux">
+                     <catDesc>Végétaux</catDesc>
+                     <category xml:id="arbreNoncultives">
+                        <catDesc>Arbres non cultivés</catDesc>
+                     </category>
+                     <category xml:id="arbreCultives">
+                        <catDesc>Arbres cultivés</catDesc>
+                     </category>
+                     <category xml:id="herbesPlantes">
+                        <catDesc>Herbes ou plantes sauvages</catDesc>
+                     </category>
+                     <category xml:id="arbustes">
+                        <catDesc>Arbustes cultivés</catDesc>
+                     </category>
+                     <category xml:id="cereales">
+                        <catDesc>Céréales</catDesc>
+                     </category>
+                     <category xml:id="legumeRacine">
+                        <catDesc>Legume, racine, etc.</catDesc>
+                     </category>
+                     <category xml:id="divers"><!-- Avoid tagging with Divers - if necessary, create another sub-category -->
+                        <catDesc>Divers</catDesc>
+                     </category>
+                  </category>
+                  <category xml:id="animaux">
+                     <catDesc>Animaux</catDesc>
+                     <category xml:id="homme">
+                        <catDesc>l'Homme</catDesc>
+                     </category>
+                     <category xml:id="animauxDomestiques">
+                        <catDesc>Animaux domestiques</catDesc>
+                     </category>
+                     <category xml:id="animauxSauvages">
+                        <catDesc>Animaux sauvages</catDesc>
+                     </category>
+                  </category>
+               </category>
+               <category xml:id="sciencesPhys">
+                  <catDesc>Sciences physiques</catDesc>
+                  <category xml:id="elements">
+                     <catDesc>Elements</catDesc>
+               </category>
+               </category>
+            </taxonomy>
+         </classDecl>
+
       </encodingDesc>
       <profileDesc>
          <settingDesc>
@@ -164,7 +219,7 @@
                   <p> « Quel grand propriétaire je fais, n'est-ce pas ? Il est vrai que je partage avec de nombreux camarades. </p>
                   <p> « Et <name type="agriculture">le travail des champs</name> marche ici avec celui de l'esprit ; l'histoire, <name type="discipline">la chimie</name>*<gloss>Chimie. Science qui étudie ce qui peut changer l'état des corps et les applications utiles qui en résultent.</gloss>, <name type="discipline">la physique</name>*<gloss>Physique. Science qui étudie les propriétés des corps matériels sans les décomposer, comme on le fait en chimie.</gloss>, <name type="discipline">l'horticulture</name>, <name type="discipline">l'arboriculture</name>, nous occupent une partie du jour. </p>
                   <p> « Des professeurs et un laboratoire*<gloss>Laboratoire. Local disposé pour faire les expériences de physique et de chimie.</gloss> ! rien ne nous, manque. Aux vacances, vous verrez comme on <name type="agriculture">taillera</name>, <name type="agriculture">greffera</name>*<gloss>Greffer. Fixer, dans la fente d'une tige d'arbre, une petite branche que l'on coupe sur un arbre de meilleure espèce.</gloss> ! Et quels beaux <name type="agriculture">fruits</name> mangeront ceux qui les aiment, par exemple, <persName ana="#suzette">une jeune <name type="agriculture">fermière</name></persName> de ma connaissance qu'on appelle <persName ana="#suzette">Suzette</persName> ! </p>
-                  <p> « <name type="discipline">La chimie agricole</name> surtout me passionne. Quelle ressource pour <name type="agriculture">l'agronome</name>*<gloss>Agronome. Celui qui s'occupe de perfectionner l'agriculture.</gloss> ! <name type="discipline">La chimie</name> vous analyse*<!--Analyse has an asterisk but no definitin in the lexique--> <name type="nature">une plante</name>, en montre un à un <name type="nature">les éléments</name>*<gloss>Éléments. Les parties, les substances dont un corps est composé.</gloss> : tant d'<name type="nature">azote</name>*<gloss>Azote. L'un des deux gaz qui forment l'air; il ne peut entretenir la combustion.</gloss>, tant de <name type="nature">carbone</name>*<gloss>Carbone. Corps qui, à l'état de pureté, est le diamant, et qui constitue la base du bois et du charbon.</gloss>, tant de <name type="nature">soufre</name>, d'<name type="nature">oxygène</name>*<gloss>Oxygène. Celui des deux gaz de l'air qui peut entretenir la combustion.</gloss>, d'<name type="nature">hydrogène</name>*<gloss>Hydrogène. Gaz 14 fois et demie plus léger que l'air.</gloss>, etc. ; et <name type="agriculture">le cultivateur</name> ayant appris tout cela, sait encore que <name type="nature">les plantes</name> <name type="nature">puisent</name> ces <name type="nature">éléments</name> pour la plus grande partie dans <name type="nature">le sol</name> par leurs <name type="nature">racines</name> et <name type="nature">radicelles</name>*<gloss>Radicelles. Petites ramifications d'une racine.</gloss>. Il lui devient alors aisé de donner, par <name type="agriculture">des engrais</name> appropriés, à chacune <name type="nature">la nourriture</name> qui lui convient, et de la rendre ainsi belle et vigoureuse. </p>
+                  <p> « <name type="discipline">La chimie agricole</name> surtout me passionne. Quelle ressource pour <name type="agriculture">l'agronome</name>*<gloss>Agronome. Celui qui s'occupe de perfectionner l'agriculture.</gloss> ! <name type="discipline">La chimie</name> vous analyse*<!--Analyse has an asterisk but no definitin in the lexique--> <name type="nature">une plante</name>, en montre un à un <name type="nature">les éléments</name>*<gloss>Éléments. Les parties, les substances dont un corps est composé.</gloss> : tant d'<name type="nature">azote</name>*<gloss>Azote. L'un des deux gaz qui forment l'air; il ne peut entretenir la combustion.</gloss>, tant de <name type="nature">carbone</name>*<gloss>Carbone. Corps qui, à l'état de pureté, est le diamant, et qui constitue la base du bois et du charbon.</gloss>, tant de <name type="nature">soufre</name>, <seg ana="#elements">d'oxygène*</seg><gloss>Oxygène. Celui des deux gaz de l'air qui peut entretenir la combustion.</gloss>, d'<name type="nature">hydrogène</name>*<gloss>Hydrogène. Gaz 14 fois et demie plus léger que l'air.</gloss>, etc. ; et <name type="agriculture">le cultivateur</name> ayant appris tout cela, sait encore que <name type="nature">les plantes</name> <name type="nature">puisent</name> ces <name type="nature">éléments</name> pour la plus grande partie dans <name type="nature">le sol</name> par leurs <name type="nature">racines</name> et <name type="nature">radicelles</name>*<gloss>Radicelles. Petites ramifications d'une racine.</gloss>. Il lui devient alors aisé de donner, par <name type="agriculture">des engrais</name> appropriés, à chacune <name type="nature">la nourriture</name> qui lui convient, et de la rendre ainsi belle et vigoureuse. </p>
                   <p> « A étudier et à <name type="agriculture">bêcher</name> tour à tour, je me porte comme un charme*<gloss>Charme. Parfaitement bien.</gloss>. Un professeur nous disait hier que les hommes devraient à peu près tous pouvoir partager ainsi leur journée entre <name type="agriculture">le travail des mains</name> et celui de l'esprit. Ils s'en porteraient mieux intellectuellement, et peut-être en viendront-ils là dans l'avenir. </p>
                   <p> « J'ai fait ici la connaissance d'un homme que vous aimeriez beaucoup, <persName ana="#papa">cher père</persName> : c'est <persName><name type="agriculture">Olivier de Serres</name></persName>*<gloss>Olivier de Serres. Grand agronome contemporain de Henri IV.</gloss>. Sa pensée vit, encore, quoiqu'il soit mort depuis à peu près trois cents ans. On l'appelle <persName>le père de <name type="discipline">l'agriculture</name></persName>. Il créa <name type="discipline">l'agronomie</name>, il aima <name type="agriculture">les champs</name>, et, par grand désir d'être utile aux hommes, écrivit des livres
          
