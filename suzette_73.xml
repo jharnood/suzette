@@ -50,71 +50,232 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      
       <profileDesc>
          <langUsage>
             <language ident="fra">French</language>
             <language ident="eng">English</language>
          </langUsage>
       </profileDesc>
-         <encodingDesc>
-            <charDecl>
-               <char>
-                  <charName xml:id="suzette">Suzette</charName>
-               </char>
-               <char>
-                  <charName xml:id="papa">Papa</charName>
-               </char>
-               <char>
-                  <charName xml:id="la_maman">La maman</charName>
-               </char>
-               <char>
-                  <charName xml:id="jacques">Jacques</charName>            
-               </char>
-               <char>
-                  <charName xml:id="francois">François</charName>
-               </char>
-               <char>
-                  <charName xml:id="charlot">Charlot</charName>
-               </char>
-               <char>
-                  <charName xml:id="mme_valon">Mme Valon</charName>
-               </char>
-               <char>
-                  <charName xml:id="m_valon">M. Valon</charName>
-               </char>
-               <char>
-                  <charName xml:id="mme_richard">Mme Richard</charName>
-               </char>
-               <char>
-                  <charName xml:id="louis">Louis</charName>
-               </char>
-               <char>
-                  <charName xml:id="pascal">Pascal</charName>
-               </char>
-               <char>
-                  <charName xml:id="marthe">Marthe</charName>
-               </char>
-               <char>
-                  <charName xml:id="sylvain">Sylvain</charName>
-               </char> 
-               <char>
-                  <charName xml:id="ludivine">Ludivine</charName>
-               </char> 
-               <char>
-                  <charName xml:id="m_lejoly">M. Lejoly</charName>
-               </char>
-               <char>
-                  <charName xml:id="l_apiculteur">L'apiculteur</charName>
-               </char>
-               <char>
-                  <charName xml:id="la_bohemienne">La bohémienne</charName>
-               </char>
-            </charDecl>
-         </encodingDesc>
+      <encodingDesc>
+         <charDecl>
+            <char>
+               <charName xml:id="suzette">Suzette</charName>
+            </char>
+            <char>
+               <charName xml:id="papa">Papa</charName>
+            </char>
+            <char>
+               <charName xml:id="la_maman">La maman</charName>
+            </char>
+            <char>
+               <charName xml:id="jacques">Jacques</charName>            
+            </char>
+            <char>
+               <charName xml:id="francois">François</charName>
+            </char>
+            <char>
+               <charName xml:id="charlot">Charlot</charName>
+            </char>
+            <char>
+               <charName xml:id="mme_valon">Mme Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="m_valon">M. Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="mme_richard">Mme Richard</charName>
+            </char>
+            <char>
+               <charName xml:id="louis">Louis</charName>
+            </char>
+            <char>
+               <charName xml:id="pascal">Pascal</charName>
+            </char>
+            <char>
+               <charName xml:id="marthe">Marthe</charName>
+            </char>
+            <char>
+               <charName xml:id="sylvain">Sylvain</charName>
+            </char> 
+            <char>
+               <charName xml:id="ludivine">Ludivine</charName>
+            </char> 
+            <char>
+               <charName xml:id="m_lejoly">M. Lejoly</charName>
+            </char>
+            <char>
+               <charName xml:id="l_apiculteur">L'apiculteur</charName>
+            </char>
+            <char>
+               <charName xml:id="la_bohemienne">La bohémienne</charName>
+            </char>
+         </charDecl>
+         
+         <classDecl>
+            <taxonomy xml:id="sciences">
+               <category xml:id="scienceNat">
+                  <catDesc>Science Naturelles</catDesc>
+                  <category xml:id="mineraux">
+                     <catDesc>Minéraux</catDesc>
+                  </category>
+                  <category xml:id="vegetaux">
+                     <catDesc>Végétaux</catDesc>
+                     <category xml:id="arbreNoncultives">
+                        <catDesc>Arbres non cultivés</catDesc>
+                     </category>
+                     <category xml:id="herbesPlantes">
+                        <catDesc>Herbes ou plantes sauvages</catDesc>
+                     </category>
+                     <category xml:id="arbreCultives">
+                        <catDesc>Arbres cultivés</catDesc>
+                     </category>
+                     <category xml:id="arbustes">
+                        <catDesc>Arbustes cultivés</catDesc>
+                     </category>
+                     <category xml:id="cereales">
+                        <catDesc>Céréales</catDesc>
+                     </category>
+                     <category xml:id="legumesRacines">
+                        <catDesc>Légumes, racines, etc.</catDesc>
+                     </category>
+                     <category xml:id="divers1"><!-- Avoid tagging with Divers - if necessary, create another sub-category -->
+                        <catDesc>Divers</catDesc>
+                     </category>  
+                  </category>
+                  <category xml:id="animaux">
+                     <catDesc>Animaux</catDesc>
+                     <category xml:id="homme">
+                        <catDesc>l'Homme</catDesc>
+                     </category>
+                     <category xml:id="animauxDomestiques">
+                        <catDesc>Animaux domestiques</catDesc>
+                     </category>
+                     <category xml:id="animauxSauvages">
+                        <catDesc>Animaux sauvages</catDesc>
+                     </category>
+                  </category>
+                  <!--<category xml:id="agriculture">
+                     <catDesc>Agriculture</catDesc>
+                  </category>-->
+               </category>
+               <category xml:id="sciencesPhys">
+                  <catDesc>Sciences physiques</catDesc>
+                  <!-- <category xml:id="elements">
+                     <catDesc>Elements</catDesc>-->
+                  <!--</category>-->
+               </category>
+               <category xml:id="industrie">
+                  <catDesc>Industrie</catDesc>
+                  <category xml:id="matieresObjets">
+                     <catDesc>Matières et objets fabriqués</catDesc>
+                  </category>
+                  <category xml:id="constructions">
+                     <catDesc>Constructions</catDesc>
+                  </category>
+                  <category xml:id="machinesAppareils">
+                     <catDesc>Machines, appareils, ustensiles, vases</catDesc>
+                  </category>
+                  <category xml:id="outils">
+                     <catDesc>Outils</catDesc>
+                  </category>
+                  <category xml:id="etoffesHabillement">
+                     <catDesc>Étoffes, habillement</catDesc>
+                  </category>
+                  <category xml:id="divers2">
+                     <catDesc>Divers</catDesc>
+                  </category>
+               </category>
+               <category xml:id="economieDomestique">
+                  <catDesc>Économie Domestique</catDesc>
+                  <category xml:id="alimentsCuisine">
+                     <catDesc>Aliments et cuisine</catDesc>
+                  </category>
+                  <category xml:id="vetements1">
+                     <catDesc>Vêtements</catDesc>
+                  </category>
+                  <category xml:id="basse-cour">
+                     <catDesc>Basse-cour</catDesc>
+                  </category>
+               </category>
+               <category xml:id="hygiene">
+                  <catDesc>Hygiène</catDesc>
+                  <category xml:id="corpsHabitations">
+                     <catDesc>Corps et habitations</catDesc>
+                  </category>
+                  <category xml:id="vetements2">
+                     <catDesc>Vêtements</catDesc>
+                  </category>
+                  <category xml:id="aliments">
+                     <catDesc>Aliments</catDesc>
+                  </category>
+                  <category xml:id="maladiesRemedes">
+                     <catDesc>Maladies,etc.; remèdes</catDesc>
+                  </category>
+               </category>
+               <!-- <category xml:id="geographie">
+                  <catDesc>Géographie</catDesc>
+                  <category xml:id="landFeatures">
+                     <catDesc>Land features</catDesc>
+                  </category>-->
+            </taxonomy>
+         </classDecl>
+         
+      </encodingDesc>
+      <profileDesc>
+         <settingDesc>
+            <listPlace>
+               <place>
+                  <placeName xml:id="l_amerique">l'Amérique</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_oceanien">l'Oceanian</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_europe">l'Europe</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_australie">l'Australie</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_france">la France</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_chine">la Chine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="etats_unis">les États-Unis</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_arabe">l'Arabe</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="fragicourt">Fragicourt</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="paris">Paris</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="bruxelles">Bruxelles</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="boston">Boston
+                  </placeName>
+               </place>
+               <place> 
+                  <placeName xml:id="l_avre">l'Avre
+                     <geogFeat>River</geogFeat>
+                  </placeName> 
+               </place>
+               <place>
+                  <placeName xml:id="la_moye">la Moye
+                     <geogFeat>River</geogFeat>
+                  </placeName>
+               </place>
+            </listPlace>
+         </settingDesc>
+      </profileDesc>
    </teiHeader>
    <text>
-
       <body>
          <!-- n is for maitresse edition, corresp is for student edition -->
          
@@ -125,22 +286,22 @@
                   <pb type="page" n="251"/>
                   <head>73. — La dépêche. (Élève, p. 154.)</head>
           
-                  <sp><speaker>François</speaker><ab> — Le bureau du <name type="technology">télégraphe</name> ! </ab></sp> <stage> cria <persName ana="francois">François</persName>, toujours en avant. </stage>
-                  <p> On entra ; on remit à l'employé <name type="technology">la dépêche</name> pour <persName ana="mme_richard">Mme Richard</persName>. A peine avait-on dépassé le seuil que <name type="technology">le manipulateur</name>*<gloss>Manipulateur. Appareil pour transmettre les dépêches télégraphiques.</gloss> commençait <name type="technology">sa batterie</name>*<gloss>Batterie. Succession de petits coups frappés sur un timbre ou sur une pièce différente de métal.</gloss> ; <name type="technology">la dépêche</name> partait. <name type="technology">Le manipulateur</name> se tut : elle était partie, arrivée ! </p>
+                  <sp><speaker>François</speaker><ab> — <seg ana="#machinesAppareils">Le bureau du télégraphe</seg> ! </ab></sp> <stage> cria <persName ana="francois">François</persName>, toujours en avant. </stage>
+                  <p> On entra ; on remit à l'employé <seg ana="#machinesAppareils">la dépêche</seg> pour <persName ana="mme_richard">Mme Richard</persName>. A peine avait-on dépassé le seuil que <seg ana="#machinesAppareils">le manipulateur</seg>*<gloss>Manipulateur. Appareil pour transmettre les dépêches télégraphiques.</gloss> commençait <seg ana="#machinesAppareils">sa batterie</seg>*<gloss>Batterie. Succession de petits coups frappés sur un timbre ou sur une pièce différente de métal.</gloss> ; <seg ana="#machinesAppareils">la dépêche</seg> partait. <seg ana="#machinesAppareils">Le manipulateur</seg> se tut : elle était partie, arrivée ! </p>
                   
                   <figure> 
                      <caption> <hi rend="italic">L'ancien télégraphe.</hi>
                         <lb/>
-                        — Nous sommes loin de ces <name type="technology">machines de bois</name> à longs <name type="technology">bras</name>, qui, de <name type="technology">clocher</name> en <name type="technology">clocher</name>, d'un bout de la <placeName>France</placeName> à l'autre, <name type="technology">s'envoyaient</name> des <name type="technology">signaux</name>. <name type="technology">Le télégraphe électrique</name> et, depuis peu, <name type="technology">le téléphone</name> sont d'admirables <name type="technology">découvertes</name> qui nous permettent d'<name type="technology">échanger</name> nos <name type="technology">idées</name> et même une conversation avec les habitants de toutes les parties du monde. </caption>
+                        — Nous sommes loin de ces machines de bois à longs bras, qui, de clocher en clocher, d'un bout de la France à l'autre, s'envoyaient des signaux. Le télégraphe électrique et, depuis peu, le téléphone sont d'admirables découvertes qui nous permettent d'échanger nos idées et même une conversation avec les habitants de toutes les parties du monde. </caption>
                   </figure>
                   
-                  <p> <time>Au siècle dernier</time>, dans <placeName>une ville d'<placeName>Amérique</placeName>, à <placeName>Boston</placeName></placeName>, un jour d'<name type="nature">orage</name>, <persName>un enfant</persName> joue au <name type="technology">cerf-volant</name> ; il a attaché <name type="technology">une clé</name> à <name type="technology">la queue</name> de ce <name type="technology">cerf-volant</name>, trop léger et qu'il faut alourdir. Une petite <name type="technology">étincelle</name> lumineuse <name type="technology">brille</name> tout à coup sur <name type="technology">la clé</name>, à la vive curiosité du <persName>garçon</persName>, très frappé de ce <name type="technology">phénomène</name>*<gloss>Phénomène. Tout ce qui apparait de nouveau dans <name type="nature">l'air</name>, dans <name type="nature">le ciel</name> ou sur <name type="nature">la terre</name>.</gloss>. </p>
+                  <p> <time>Au siècle dernier</time>, dans <placeName ana="#boston">une ville d'<placeName ana="#etats_unis">Amérique</placeName></placeName>, à <placeName ana="#boston">Boston</placeName>, un jour d'<seg ana="#sciencesPhys">orage</seg>, <persName>un enfant</persName> joue au cerf-volant ; il a attaché une clé à la queue de ce cerf-volant, trop léger et qu'il faut alourdir. Une petite <seg ana="#sciencesPhys">étincelle</seg> lumineuse <seg ana="#sciencesPhys">brille</seg> tout à coup sur la clé, à la vive curiosité du <persName>garçon</persName>, très frappé de ce <seg ana="#sciencesPhys">phénomène</seg>*<gloss>Phénomène. Tout ce qui apparait de nouveau dans l'air, dans le ciel ou sur la terre.</gloss>. </p>
          
                   <pb type="page" n="252"/>   
                   <fw type="header"> 252 SUZETTE. </fw>
          
-                  <p> <persName>L'enfant</persName> devint <persName><name type="technology">le grand Franklin</name></persName> ; la petite <name type="technology">étincelle</name> est devenue la grande <name type="technology">électricité</name>*<gloss>Electricité. Cause, force inconnue qui produit la foudre.</gloss> avec ses nombreuses <name type="technology">applications</name> qui ont déjà changé et changeront encore plus <name type="nature">la face de la terre</name>. </p>
-                  <p> <name type="technology">La foudre</name>, la terrible <name type="technology">force destructrice</name> devant laquelle <name type="history">les premiers hommes</name>, terrifiés, se prosternaient, l'homme d'aujourd'hui s'en empare, l'<name type="history">annihile</name>*<gloss>Annihiler. <name type="history">Réduire</name> à rien.</gloss> par <name type="technology">le paratonnerre</name> de <persName><name type="technology">Franklin</name></persName> ou <persName>la maîtrise</persName>, lui fait porter sa parole et ses commandements jusqu'au bout de l'uni- <lb/>
+                  <p> <persName>L'enfant</persName> devint <persName><seg ana="#industrie">le grand Franklin</seg></persName> ; la petite <seg ana="#sciencesPhys">étincelle</seg> est devenue la grande <seg ana="#sciencesPhys">électricité</seg>*<gloss>Electricité. Cause, force inconnue qui produit la foudre.</gloss> avec ses nombreuses <seg ana="#industrie">applications</seg> qui ont déjà changé et changeront encore plus la face de la terre. </p>
+                  <p> <seg ana="#sciencesPhys">La foudre</seg>, la terrible force destructrice devant laquelle <!--<name type="history">les premiers hommes</name>-->, terrifiés, se prosternaient, l'homme d'aujourd'hui s'en empare, l'annihile*<gloss>Annihiler. Réduire à rien.</gloss> par <seg ana="#machinesAppareils">le paratonnerre</seg> de <persName><seg ana="#industrie">Franklin</seg></persName> ou <persName>la maîtrise</persName>, lui fait porter sa parole et ses commandements jusqu'au bout de l'uni- <lb/>
                      
                      <figure> 
                         <caption> <hi rend="italic">Le paratonnerre.</hi>
@@ -153,8 +314,8 @@
                         </caption>
                      </figure>
                      
-                     vers, comme il s'en éclaire contre <name type="nature">la nuit</name> ; et quelles autres <name type="technology">merveilles</name> n'en tirera-t-il pas demain ! </p>
-                  <sp><speaker>Sylvain</speaker><ab> — Oui, </ab></sp> <stage> dit <persName ana="#sylvain">Sylvain</persName>, </stage> <sp><speaker>Sylvain</speaker><ab> nous sommes loin des <name type="nature">feux allumés</name> sur <name type="nature">les montagnes</name> pour <name type="technology">les communications</name> que les hommes avaient à se faire. Nous sommes loin aussi de ces <name type="technology">machines de bois à longs bras</name>, qui, de <name type="technology">clocher en clocher</name>, d'un bout à l'autre de <placeName>la France</placeName>, se faisaient des gestes dégingandés*<gloss>Dégingandé. Se dit d'une personne dont la contenance et la démarche sont mal assurées.</gloss>. </ab></sp>
+                     vers, comme il s'en éclaire contre la nuit ; et quelles autres merveilles n'en tirera-t-il pas demain ! </p>
+                  <sp><speaker>Sylvain</speaker><ab> — Oui, </ab></sp> <stage> dit <persName ana="#sylvain">Sylvain</persName>, </stage> <sp><speaker>Sylvain</speaker><ab> nous sommes loin des <seg ana="#industrie">feux allumés</seg> sur <!--<name type="nature">les montagnes</name>--> pour <seg ana="#machinesAppareils">les communications</seg> que les hommes avaient à se faire. Nous sommes loin aussi de ces <seg ana="#machinesAppareils">machines de bois à longs bras</seg>, qui, de clocher en clocher, d'un bout à l'autre de <placeName ana="#la_france">la France</placeName>, se faisaient des gestes dégingandés*<gloss>Dégingandé. Se dit d'une personne dont la contenance et la démarche sont mal assurées.</gloss>. </ab></sp>
                   <p> <persName ana="#pascal">M. Pascal</persName>, qui, malgré son petit désastre de la veille, n'engendrait pas la mélancolie et trouvait généralement
           
                      <pb type="page" n="253"/>   
@@ -164,10 +325,10 @@ dans son excellente mémoire quelque bonne chose à répondre, se mit à chanter
                   
                   <sp><speaker>Pascal</speaker> 
                      <lg type="song">
-                        <l> « Que fais-tu, mon vieux <name type="technology">télégraphe</name>, </l>
-                        <l> Au sommet de ton vieux <name type="technology">clocher</name>... </l>
+                        <l> « Que fais-tu, mon vieux <seg ana="#machinesAppareils">télégraphe</seg>, </l>
+                        <l> Au sommet de ton vieux <seg ana="#constructions">clocher</seg>... </l>
                         <l> Sérieux comme une épitaphe, </l>
-                        <l> Immobile comme <name type="nature">un rocher</name> ?... » </l>
+                        <l> Immobile comme <seg ana="#mineraux">un rocher</seg> ?... » </l>
                      </lg></sp>
                   <note type="citation"> (<name type="author">(G. NADAUD.)</name>.) <!--Correct reference format?--> </note>
           

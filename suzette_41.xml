@@ -50,7 +50,6 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      
       <profileDesc>
          <langUsage>
             <language ident="fra">French</language>
@@ -111,10 +110,172 @@
                <charName xml:id="la_bohemienne">La bohémienne</charName>
             </char>
          </charDecl>
+         
+         <classDecl>
+            <taxonomy xml:id="sciences">
+               <category xml:id="scienceNat">
+                  <catDesc>Science Naturelles</catDesc>
+                  <category xml:id="mineraux">
+                     <catDesc>Minéraux</catDesc>
+                  </category>
+                  <category xml:id="vegetaux">
+                     <catDesc>Végétaux</catDesc>
+                     <category xml:id="arbreNoncultives">
+                        <catDesc>Arbres non cultivés</catDesc>
+                     </category>
+                     <category xml:id="herbesPlantes">
+                        <catDesc>Herbes ou plantes sauvages</catDesc>
+                     </category>
+                     <category xml:id="arbreCultives">
+                        <catDesc>Arbres cultivés</catDesc>
+                     </category>
+                     <category xml:id="arbustes">
+                        <catDesc>Arbustes cultivés</catDesc>
+                     </category>
+                     <category xml:id="cereales">
+                        <catDesc>Céréales</catDesc>
+                     </category>
+                     <category xml:id="legumesRacines">
+                        <catDesc>Légumes, racines, etc.</catDesc>
+                     </category>
+                     <category xml:id="divers1"><!-- Avoid tagging with Divers - if necessary, create another sub-category -->
+                        <catDesc>Divers</catDesc>
+                     </category>  
+                  </category>
+                  <category xml:id="animaux">
+                     <catDesc>Animaux</catDesc>
+                     <category xml:id="homme">
+                        <catDesc>l'Homme</catDesc>
+                     </category>
+                     <category xml:id="animauxDomestiques">
+                        <catDesc>Animaux domestiques</catDesc>
+                     </category>
+                     <category xml:id="animauxSauvages">
+                        <catDesc>Animaux sauvages</catDesc>
+                     </category>
+                  </category>
+                  <!--<category xml:id="agriculture">
+                     <catDesc>Agriculture</catDesc>
+                  </category>-->
+               </category>
+               <category xml:id="sciencesPhys">
+                  <catDesc>Sciences physiques</catDesc>
+                  <!-- <category xml:id="elements">
+                     <catDesc>Elements</catDesc>-->
+                  <!--</category>-->
+               </category>
+               <category xml:id="industrie">
+                  <catDesc>Industrie</catDesc>
+                  <category xml:id="matieresObjets">
+                     <catDesc>Matières et objets fabriqués</catDesc>
+                  </category>
+                  <category xml:id="constructions">
+                     <catDesc>Constructions</catDesc>
+                  </category>
+                  <category xml:id="machinesAppareils">
+                     <catDesc>Machines, appareils, ustensiles, vases</catDesc>
+                  </category>
+                  <category xml:id="outils">
+                     <catDesc>Outils</catDesc>
+                  </category>
+                  <category xml:id="etoffesHabillement">
+                     <catDesc>Étoffes, habillement</catDesc>
+                  </category>
+                  <category xml:id="divers2">
+                     <catDesc>Divers</catDesc>
+                  </category>
+               </category>
+               <category xml:id="economieDomestique">
+                  <catDesc>Économie Domestique</catDesc>
+                  <category xml:id="alimentsCuisine">
+                     <catDesc>Aliments et cuisine</catDesc>
+                  </category>
+                  <category xml:id="vetements1">
+                     <catDesc>Vêtements</catDesc>
+                  </category>
+                  <category xml:id="basse-cour">
+                     <catDesc>Basse-cour</catDesc>
+                  </category>
+               </category>
+               <category xml:id="hygiene">
+                  <catDesc>Hygiène</catDesc>
+                  <category xml:id="corpsHabitations">
+                     <catDesc>Corps et habitations</catDesc>
+                  </category>
+                  <category xml:id="vetements2">
+                     <catDesc>Vêtements</catDesc>
+                  </category>
+                  <category xml:id="aliments">
+                     <catDesc>Aliments</catDesc>
+                  </category>
+                  <category xml:id="maladiesRemedes">
+                     <catDesc>Maladies,etc.; remèdes</catDesc>
+                  </category>
+               </category>
+               <!-- <category xml:id="geographie">
+                  <catDesc>Géographie</catDesc>
+                  <category xml:id="landFeatures">
+                     <catDesc>Land features</catDesc>
+                  </category>-->
+            </taxonomy>
+         </classDecl>
+         
       </encodingDesc>
+      <profileDesc>
+         <settingDesc>
+            <listPlace>
+               <place>
+                  <placeName xml:id="l_amerique">l'Amérique</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_oceanien">l'Oceanian</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_europe">l'Europe</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_australie">l'Australie</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_france">la France</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_chine">la Chine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="etats_unis">les États-Unis</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_arabe">l'Arabe</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="fragicourt">Fragicourt</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="paris">Paris</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="bruxelles">Bruxelles</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="boston">Boston
+                  </placeName>
+               </place>
+               <place> 
+                  <placeName xml:id="l_avre">l'Avre
+                     <geogFeat>River</geogFeat>
+                  </placeName> 
+               </place>
+               <place>
+                  <placeName xml:id="la_moye">la Moye
+                     <geogFeat>River</geogFeat>
+                  </placeName>
+               </place>
+            </listPlace>
+         </settingDesc>
+      </profileDesc>
    </teiHeader>
    <text>
-
       <body>
          <!-- n is for maitresse edition, corresp is for student edition -->
          
@@ -127,8 +288,8 @@
          
                   <!--No asterisk for lexique word - Veiller au grain. Faire attention à ce qui doit ou peut survenir.-->
          
-                  <p> Et <name type="agriculture">les terres</name> ? C'est maintenant qu'elles doivent rendre ce qu'emporta <name type="nature">le feu</name> ! c'est maintenant qu'il faut les <name type="agriculture">ensemencer</name>, les <name type="agriculture">soigner</name>, les <name type="agriculture">pomponner</name> de <name type="agriculture">la herse</name> et de <name type="agriculture">la charrue</name> ! </p>
-                  <p> <persName ana="#jacques">Jacques</persName> eut, par <placeName><name type="agriculture">l'école d'agriculture</name></placeName>, tous les renseignements qu'il fallut. Un de ses professeurs offrit même de lui prêter une petite somme d'argent. On y joignit tout ce qu'il en restait ici. On savait que c'était argent bien placé. Et si, par aventure*<gloss>Par aventure. Par extraordinaire.</gloss>, <persName ana="papa">le papa</persName>, encore timide, s'effrayait un peu des largesses de <persName ana="#jacques">son fils</persName> avec <name type="agriculture">la terre</name> : </p>
+                  <p> Et <seg ana="#scienceNat">les terres</seg> ? C'est maintenant qu'elles doivent rendre ce qu'emporta <seg ana="#industrie">le feu</seg> ! c'est maintenant qu'il faut les <seg ana="#scienceNat">ensemencer</seg>, les <seg ana="#scienceNat">soigner</seg>, les <seg ana="#scienceNat">pomponner</seg> de <seg ana="#scienceNat">la herse</seg> et de <seg ana="#scienceNat">la charrue</seg> ! </p>
+                  <p> <persName ana="#jacques">Jacques</persName> eut, par <seg ana="#scienceNat">l'école d'agriculture</seg>, tous les renseignements qu'il fallut. Un de ses professeurs offrit même de lui prêter une petite somme d'argent. On y joignit tout ce qu'il en restait ici. On savait que c'était argent bien placé. Et si, par aventure*<gloss>Par aventure. Par extraordinaire.</gloss>, <persName ana="papa">le papa</persName>, encore timide, s'effrayait un peu des largesses de <persName ana="#jacques">son fils</persName> avec <seg ana="#scienceNat">la terre</seg> : </p>
                   
                   <figure> 
                      <caption> <hi rend="italic">Herse.</hi>
@@ -136,13 +297,13 @@
                         Les dents dont cet instrument d'agriculture est garni servent à arracher les racines, à rompre les mottes de terre et à en recouvrir les grains que l'on vient du semer. </caption>
                   </figure>
                   
-                  <sp><speaker>Jacques</speaker><ab> — <persName ana="papa">Papa</persName>, répondait-il, autrefois, on ne la gâtait pas tant, mais aussi elle ne donnait guère que du <name type="agriculture">pain bis</name>. Maintenant c'est du <name type="agriculture">pain blanc</name> qu'elle <name type="agriculture">fournit</name> ; et croyez-
+                  <sp><speaker>Jacques</speaker><ab> — <persName ana="papa">Papa</persName>, répondait-il, autrefois, on ne la gâtait pas tant, mais aussi elle ne donnait guère que du <seg ana="#alimentsCuisine">pain bis</seg>. Maintenant c'est du <seg ana="#alimentsCuisine">pain blanc</seg> qu'elle <seg ana="#scienceNat">fournit</seg> ; et croyez-
                      
                      <pb type="page" n="143"/>   
                      <fw type="header"> VEILLONS AU GRAIN. 143 </fw>
          
-         vous qu'elle le livre contre <name type="nature">des pierres</name> ? Oui, elle doit <name type="health">manger</name>, et du bon, pour que nous-mêmes nous <name type="health">mangions</name> du meilleur. </ab></sp>
-                  <p> A <persName ana="#francois">François</persName> et à <persName ana="charlot">Charlot</persName>, il dénonçait <name type="agriculture">le chiendent</name>, <name type="agriculture">la camomille</name>, <name type="agriculture">l'ortie</name>, <name type="agriculture">le chardon</name>, <name type="agriculture">la fumeterre</name> comme de terribles ennemis : </p>
+         vous qu'elle le livre contre <seg ana="#mineraux">des pierres</seg> ? Oui, elle doit <seg ana="#aliments">manger</seg>, et du bon, pour que nous-mêmes nous mangions du meilleur. </ab></sp>
+                  <p> A <persName ana="#francois">François</persName> et à <persName ana="charlot">Charlot</persName>, il dénonçait <seg ana="#vegetaux">le chiendent</seg>, <seg ana="#vegetaux">la camomille</seg>, <seg ana="#vegetaux">l'ortie</seg>, <seg ana="#vegetaux">le chardon</seg>, <seg ana="#vegetaux">la fumeterre</seg> comme de terribles ennemis : </p>
                   
                   <figure>
                      <caption> <hi rend="italic">Charrue.</hi> </caption>
@@ -162,19 +323,19 @@
                            Une infusion de pétales de coquelicots donne une tisane calmante et adoucissante. </caption>
                      </figure>
                      
-                     nous, de les <name type="agriculture">arracher</name>, d'en faire deux parts ; la première sera composée de ce qui peut servir de <name type="agriculture">nourriture</name> au <name type="agriculture">bétail</name>, comme par exemple <name type="agriculture">les coquelicots</name>, <name type="agriculture">les lacerons</name>, dont <name type="nature">les lapins</name> se font de bons <name type="nature">râbles</name>*<gloss>Râble. Dos du lapin et du lièvre, des épaules à la queue.</gloss>. La seconde, vous l'amasserez, vous la laisserez <name type="agriculture">pourrir</name> au bout du <name type="agriculture">champ</name> pour l'y répandre ensuite <name type="agriculture">en fumier</name>. </ab></sp>
+                     nous, de les <seg ana="#scienceNat">arracher</seg>, d'en faire deux parts ; la première sera composée de ce qui peut servir de <seg ana="#basse-cour">nourriture au bétail</seg>, comme par exemple <seg ana="#vegetaux">les coquelicots</seg>, <seg ana="#vegetaux">les lacerons</seg>, dont <seg ana="#animauxDomestiques">les lapins</seg> se font de bons <seg ana="#animaux">râbles</seg>*<gloss>Râble. Dos du lapin et du lièvre, des épaules à la queue.</gloss>. La seconde, vous l'amasserez, vous la laisserez <seg ana="#scienceNat">pourrir</seg> au bout du <seg ana="#scienceNat">champ</seg> pour l'y répandre ensuite <seg ana="industrie">en fumier</seg>. </ab></sp>
                      
                      <figure>
                         <caption> <hi rend="italic">Cabane à lapins.</hi> </caption>
                      </figure>       
                      
-                  <p> Ah ! s'il n'y avait que <name type="agriculture">des plantes ennemies</name>, bien visibles et facilement <name type="agriculture">arrachables</name> ! </p>
+                  <p> Ah ! s'il n'y avait que <seg ana="#herbesPlantes">des plantes ennemies</seg>, bien visibles et facilement <seg ana="#vegetaux">arrachables</seg> ! </p>
          
                      <pb type="page" n="144"/>   
                      <fw type="header"> 144 SUZETTE. </fw>
          
-                  <p> Mais un matin de jeudi que <persName ana="#charlot">Charlot</persName>, chargé de <name type="agriculture">la chasse</name> aux <name type="agriculture">lacerons</name> pour le déjeuner de messieurs <name type="nature">les lapins</name>, s'asseyait sur son sac, à peu près plein, pour casser une croûte, il fut frappé d'un spectacle nouveau : </p>
-                  <p> Un <name type="agriculture">des champs paternels</name>, un grand <name type="agriculture">champ</name> de <name type="agriculture">betteraves</name>, s'étendait à ses pieds. <name type="agriculture">Les betteraves</name> commençaient à <name type="agriculture">prendre tournure</name>. <name type="agriculture">Les feuilles</name> déjà grandes luisaient comme satin au <name type="nature">soleil</name>. C'était riant au possible. </p>
+                  <p> Mais un matin de jeudi que <persName ana="#charlot">Charlot</persName>, chargé de <seg ana="#scienceNat">la chasse</seg> aux lacerons pour le déjeuner de messieurs <seg ana="#animauxDomestiques">les lapins</seg>, s'asseyait sur son sac, à peu près plein, pour casser une croûte, il fut frappé d'un spectacle nouveau : </p>
+                  <p> Un <seg ana="#scienceNat">des champs paternels</seg>, un grand <seg ana="#scienceNat">champ de betteraves</seg>, s'étendait à ses pieds. <seg ana="#legumesRacines">Les betteraves</seg> commençaient à <seg ana="#vegetaux">prendre tournure</seg>. <seg ana="#vegetaux">Les feuilles</seg> déjà grandes luisaient comme satin au <seg ana="#sciencesPhys">soleil</seg>. C'était riant au possible. </p>
                      
                      <figure> 
                         <caption> <hi rend="italic">La betterave.</hi>
@@ -182,9 +343,9 @@
                            Racine qui sert de nourriture aux bestiaux et dont l'industrie extrait du sucre et de l'alcool. </caption>
                      </figure>
                      
-                  <p> Mais sur près de deux <name type="agriculture">rangées</name>, et en outre çà et là, par places, elles ne brillaient pas du tout ; elles étaient <name type="agriculture">fanées</name>, comme <name type="health">mortes</name>. </p>
-                  <p> Il s'approcha, les tâta ; tout vint sans effort, <name type="agriculture">tige</name>, <name type="agriculture">collet</name> et <name type="agriculture">racine</name>. <name type="agriculture">La racine</name> était <name type="agriculture">creusée</name> à l'intérieur. </p>
-                  <p> <persName ana="#charlot">Charlot</persName>, qui ne plaisantait pas avec sa surveillance, courut à cinq cents pas du <name type="agriculture">champ</name>, où <persName ana="#jacques">Jacques</persName>, en compagnie de <persName ana="#suzette">Suzette</persName>, était à <name type="agriculture">planter</name> <name type="agriculture">des pommes de terre</name>, et les amena tous deux. </p>
+                  <p> Mais sur près de deux rangées, et en outre çà et là, par places, elles ne brillaient pas du tout ; elles étaient <seg ana="#vegetaux">fanées, comme mortes</seg>. </p>
+                  <p> Il s'approcha, les tâta ; tout vint sans effort, <seg ana="#vegetaux">tige</seg>, <seg ana="#vegetaux">collet</seg> et <seg ana="#vegetaux">racine</seg>. <seg ana="#vegetaux">La racine</seg> était <seg ana="#vegetaux">creusée</seg> à l'intérieur. </p>
+                  <p> <persName ana="#charlot">Charlot</persName>, qui ne plaisantait pas avec sa surveillance, courut à cinq cents pas du <seg ana="#scienceNat">champ</seg>, où <persName ana="#jacques">Jacques</persName>, en compagnie de <persName ana="#suzette">Suzette</persName>, était à <seg ana="#scienceNat">planter</seg> <seg ana="#legumesRacines">des pommes de terre</seg>, et les amena tous deux. </p>
                      
                      <div type="questionnaire">
                         <ab>

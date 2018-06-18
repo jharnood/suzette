@@ -50,7 +50,6 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      
       <profileDesc>
          <langUsage>
             <language ident="fra">French</language>
@@ -111,10 +110,172 @@
                <charName xml:id="la_bohemienne">La bohémienne</charName>
             </char>
          </charDecl>
+         
+         <classDecl>
+            <taxonomy xml:id="sciences">
+               <category xml:id="scienceNat">
+                  <catDesc>Science Naturelles</catDesc>
+                  <category xml:id="mineraux">
+                     <catDesc>Minéraux</catDesc>
+                  </category>
+                  <category xml:id="vegetaux">
+                     <catDesc>Végétaux</catDesc>
+                     <category xml:id="arbreNoncultives">
+                        <catDesc>Arbres non cultivés</catDesc>
+                     </category>
+                     <category xml:id="herbesPlantes">
+                        <catDesc>Herbes ou plantes sauvages</catDesc>
+                     </category>
+                     <category xml:id="arbreCultives">
+                        <catDesc>Arbres cultivés</catDesc>
+                     </category>
+                     <category xml:id="arbustes">
+                        <catDesc>Arbustes cultivés</catDesc>
+                     </category>
+                     <category xml:id="cereales">
+                        <catDesc>Céréales</catDesc>
+                     </category>
+                     <category xml:id="legumesRacines">
+                        <catDesc>Légumes, racines, etc.</catDesc>
+                     </category>
+                     <category xml:id="divers1"><!-- Avoid tagging with Divers - if necessary, create another sub-category -->
+                        <catDesc>Divers</catDesc>
+                     </category>  
+                  </category>
+                  <category xml:id="animaux">
+                     <catDesc>Animaux</catDesc>
+                     <category xml:id="homme">
+                        <catDesc>l'Homme</catDesc>
+                     </category>
+                     <category xml:id="animauxDomestiques">
+                        <catDesc>Animaux domestiques</catDesc>
+                     </category>
+                     <category xml:id="animauxSauvages">
+                        <catDesc>Animaux sauvages</catDesc>
+                     </category>
+                  </category>
+                  <!--<category xml:id="agriculture">
+                     <catDesc>Agriculture</catDesc>
+                  </category>-->
+               </category>
+               <category xml:id="sciencesPhys">
+                  <catDesc>Sciences physiques</catDesc>
+                  <!-- <category xml:id="elements">
+                     <catDesc>Elements</catDesc>-->
+                  <!--</category>-->
+               </category>
+               <category xml:id="industrie">
+                  <catDesc>Industrie</catDesc>
+                  <category xml:id="matieresObjets">
+                     <catDesc>Matières et objets fabriqués</catDesc>
+                  </category>
+                  <category xml:id="constructions">
+                     <catDesc>Constructions</catDesc>
+                  </category>
+                  <category xml:id="machinesAppareils">
+                     <catDesc>Machines, appareils, ustensiles, vases</catDesc>
+                  </category>
+                  <category xml:id="outils">
+                     <catDesc>Outils</catDesc>
+                  </category>
+                  <category xml:id="etoffesHabillement">
+                     <catDesc>Étoffes, habillement</catDesc>
+                  </category>
+                  <category xml:id="divers2">
+                     <catDesc>Divers</catDesc>
+                  </category>
+               </category>
+               <category xml:id="economieDomestique">
+                  <catDesc>Économie Domestique</catDesc>
+                  <category xml:id="alimentsCuisine">
+                     <catDesc>Aliments et cuisine</catDesc>
+                  </category>
+                  <category xml:id="vetements1">
+                     <catDesc>Vêtements</catDesc>
+                  </category>
+                  <category xml:id="basse-cour">
+                     <catDesc>Basse-cour</catDesc>
+                  </category>
+               </category>
+               <category xml:id="hygiene">
+                  <catDesc>Hygiène</catDesc>
+                  <category xml:id="corpsHabitations">
+                     <catDesc>Corps et habitations</catDesc>
+                  </category>
+                  <category xml:id="vetements2">
+                     <catDesc>Vêtements</catDesc>
+                  </category>
+                  <category xml:id="aliments">
+                     <catDesc>Aliments</catDesc>
+                  </category>
+                  <category xml:id="maladiesRemedes">
+                     <catDesc>Maladies,etc.; remèdes</catDesc>
+                  </category>
+               </category>
+               <!-- <category xml:id="geographie">
+                  <catDesc>Géographie</catDesc>
+                  <category xml:id="landFeatures">
+                     <catDesc>Land features</catDesc>
+                  </category>-->
+            </taxonomy>
+         </classDecl>
+         
       </encodingDesc>
+      <profileDesc>
+         <settingDesc>
+            <listPlace>
+               <place>
+                  <placeName xml:id="l_amerique">l'Amérique</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_oceanien">l'Oceanian</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_europe">l'Europe</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_australie">l'Australie</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_france">la France</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_chine">la Chine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="etats_unis">les États-Unis</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_arabe">l'Arabe</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="fragicourt">Fragicourt</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="paris">Paris</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="bruxelles">Bruxelles</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="boston">Boston
+                  </placeName>
+               </place>
+               <place> 
+                  <placeName xml:id="l_avre">l'Avre
+                     <geogFeat>River</geogFeat>
+                  </placeName> 
+               </place>
+               <place>
+                  <placeName xml:id="la_moye">la Moye
+                     <geogFeat>River</geogFeat>
+                  </placeName>
+               </place>
+            </listPlace>
+         </settingDesc>
+      </profileDesc>
    </teiHeader>
    <text>
-
       <body>
          <!-- n is for maitresse edition, corresp is for student edition -->
          
@@ -126,10 +287,10 @@
                   <head>26. — De l'eau! (Élève, p. 63.)</head>
          
          <p> <persName ana="#suzette">Suzette</persName>, toute secouée par cet entrain, courut à la cuisine. </p>
-         <sp><speaker>Suzette</speaker><ab> — <persName ana="#mme_valon">Madame</persName>, voilà de <name type="nature">l'eau</name>, </ab></sp> <stage> dit-elle, en rentrant tout essoufflée. </stage>
-         <sp><speaker>Mme Valon</speaker><ab> — Quelle est cette <name type="nature">eau</name> ? </ab></sp>
-         <sp><speaker>Suzette</speaker><ab> — De <name type="nature">l'eau propre</name>. </ab></sp>
-         <sp><speaker>Mme Valon</speaker><ab> — De <name type="health">l'eau propre</name> ? ah ! vraiment ? Tu es bien sûre de sa <name type="health">propreté</name> ? Ne sais-tu pas que cette <name type="health">eau propre</name> peut être pleine d'<name type="health">impuretés</name>, de <name type="health">bêtes malfaisantes</name> : que <name type="health">la fièvre typhoïde</name>*<gloss>Fièvre typhoïde. Maladie que caractérise une grande inflammation intérieure.</gloss>, <name type="health">le choléra</name>*<gloss>Choléra. Maladie épidémique et le plus souvent mortelle, caractérisée par des vomissements et des crampes.</gloss>, bien d'autres <name type="health">maladies</name> peuvent y attendre que nous les <name type="health">absorbions</name>*<gloss>Absorber. Introduire dans le corps par les ouvertures du nez ou de la bouche.</gloss>, n'ayant pas su les <name type="health">détruire</name> ? Songe, qu'en ce moment il s'agit de <name type="health">laver</name> <name type="health">une plaie à vif</name>*<gloss>Plaie à vif. Qui laisse voir la chair.</gloss>, qui n’a été que trop <name type="health">infectée</name>*<gloss>Infecté. Communiquer une mauvaise odeur; gâter, corrompre.</gloss>. Va faire <name type="health">bouillir</name> cette <name type="nature">eau</name> pour <name type="health">détruire</name> tous <name type="health">les germes</name> <name type="health">malsains</name> qui s'y trouveraient. Pendant ce temps je cours prendre chez moi de <name type="health">l'acide phénique</name>*<gloss>Acide phénique. Liquide désinfectant que l’on tire de la houille.</gloss>, un excellent <name type="health">caustique</name>*<gloss>Caustique. Qui désorganise les chairs ou membranes comme une brûlure.</gloss> <name type="health">désinfectant</name> qu'il faut toujours avoir dans son armoire. </ab></sp>
+         <sp><speaker>Suzette</speaker><ab> — <persName ana="#mme_valon">Madame</persName>, voilà de <seg ana="#mineraux">l'eau</seg>, </ab></sp> <stage> dit-elle, en rentrant tout essoufflée. </stage>
+                  <sp><speaker>Mme Valon</speaker><ab> — Quelle est cette <seg ana="#mineraux">eau</seg> ? </ab></sp>
+                  <sp><speaker>Suzette</speaker><ab> — De <seg ana="#sciencesPhys">l'eau propre</seg>. </ab></sp>
+                  <sp><speaker>Mme Valon</speaker><ab> — De <seg ana="#sciencesPhys">l'eau propre</seg> ? ah ! vraiment ? Tu es bien sûre de sa <seg ana="#hygiene">propreté</seg> ? Ne sais-tu pas que cette <seg ana="#sciencesPhys">eau propre</seg> peut être pleine d'<seg ana="#hygiene">impuretés</seg>, de <seg ana="#hygiene">bêtes malfaisantes</seg> : que <seg ana="#maladiesRemedes">la fièvre typhoïde</seg>*<gloss>Fièvre typhoïde. Maladie que caractérise une grande inflammation intérieure.</gloss>, <seg ana="#maladiesRemedes">le choléra</seg>*<gloss>Choléra. Maladie épidémique et le plus souvent mortelle, caractérisée par des vomissements et des crampes.</gloss>, bien d'autres <seg ana="#maladiesRemedes">maladies</seg> peuvent y attendre que nous les absorbions*<gloss>Absorber. Introduire dans le corps par les ouvertures du nez ou de la bouche.</gloss>, n'ayant pas su les détruire ? Songe, qu'en ce moment il s'agit de <seg ana="#corpsHabitations">laver</seg> <seg ana="#maladiesRemedes">une plaie à vif</seg>*<gloss>Plaie à vif. Qui laisse voir la chair.</gloss>, qui n’a été que trop <seg ana="#maladiesRemedes">infectée</seg>*<gloss>Infecté. Communiquer une mauvaise odeur; gâter, corrompre.</gloss>. Va faire <seg ana="#corpsHabitations">bouillir</seg> cette <seg ana="#mineraux">eau</seg> pour <seg ana="#maladiesRemedes">détruire</seg> tous <seg ana="#hygiene">les germes</seg> <seg ana="#hygiene">malsains</seg> qui s'y trouveraient. Pendant ce temps je cours prendre chez moi de <seg ana="#maladiesRemedes">l'acide phénique</seg>*<gloss>Acide phénique. Liquide désinfectant que l’on tire de la houille.</gloss>, un excellent <seg ana="#maladiesRemedes">caustique</seg>*<gloss>Caustique. Qui désorganise les chairs ou membranes comme une brûlure.</gloss> <seg ana="#maladiesRemedes">désinfectant</seg> qu'il faut toujours avoir dans son armoire. </ab></sp>
                   
                   <figure> 
                      <caption> <hi rend="italic">Goutte d'eau vue au microscope.</hi>
@@ -142,11 +303,11 @@
                   <pb type="page" n="94"/>   
                   <fw type="header"> 94 SUZETTE. </fw>
          
-         <p> Et <name type="health">désinfectons</name>, <name type="health">désinfectons</name> le pauvre <name type="health">nez</name> ! </p>
+                  <p> Et <seg ana="#maladiesRemedes">désinfectons</seg>,<seg ana="#maladiesRemedes">désinfectons</seg> le pauvre <seg ana="#homme">nez</seg> ! </p>
          <p> <persName ana="#francois">François</persName> poussait des soupirs de soulagement : </p>
-         <sp><speaker>François</speaker><ab> — Ah ! </ab></sp> <stage> disait-il, </stage> <sp><speaker>François</speaker><ab> je ne m'exposerai plus à de pareils <name type="health">accidents</name> ; je sais un moyen. </ab></sp>
+         <sp><speaker>François</speaker><ab> — Ah ! </ab></sp> <stage> disait-il, </stage> <sp><speaker>François</speaker><ab> je ne m'exposerai plus à de pareils <seg ana="#maladiesRemedes">accidents</seg> ; je sais un moyen. </ab></sp>
          <sp><speaker>Suzette</speaker><ab> — Quel moyen, <persName ana="#francois">Monsieur</persName> ? </ab></sp> <!--Is this Suzette or Mme Valon-->
-         <sp><speaker>François</speaker><ab> — C'est d'employer du <name type="material">fil de fer</name>, au lieu de <name type="material">ficelle</name>, pour manœuvrer le cliquet. </ab></sp>
+         <sp><speaker>François</speaker><ab> — C'est d'employer du <name type="material">fil de fer</name>, au lieu de <seg ana="#mineraux">ficelle</seg>, pour manœuvrer le cliquet. </ab></sp>
          <sp><speaker>Suzette</speaker><ab> — Encore le cliquet ! Voulez-vous bien vous rendormir tout de suite ! </ab></sp> <stage> lui dit <persName ana="#suzette">sa sœur</persName>. </stage>
                   
                   <div type="questionnaire">

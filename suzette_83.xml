@@ -50,71 +50,232 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      
       <profileDesc>
          <langUsage>
             <language ident="fra">French</language>
             <language ident="eng">English</language>
          </langUsage>
       </profileDesc>
-         <encodingDesc>
-            <charDecl>
-               <char>
-                  <charName xml:id="suzette">Suzette</charName>
-               </char>
-               <char>
-                  <charName xml:id="papa">Papa</charName>
-               </char>
-               <char>
-                  <charName xml:id="la_maman">La maman</charName>
-               </char>
-               <char>
-                  <charName xml:id="jacques">Jacques</charName>            
-               </char>
-               <char>
-                  <charName xml:id="francois">François</charName>
-               </char>
-               <char>
-                  <charName xml:id="charlot">Charlot</charName>
-               </char>
-               <char>
-                  <charName xml:id="mme_valon">Mme Valon</charName>
-               </char>
-               <char>
-                  <charName xml:id="m_valon">M. Valon</charName>
-               </char>
-               <char>
-                  <charName xml:id="mme_richard">Mme Richard</charName>
-               </char>
-               <char>
-                  <charName xml:id="louis">Louis</charName>
-               </char>
-               <char>
-                  <charName xml:id="pascal">Pascal</charName>
-               </char>
-               <char>
-                  <charName xml:id="marthe">Marthe</charName>
-               </char>
-               <char>
-                  <charName xml:id="sylvain">Sylvain</charName>
-               </char> 
-               <char>
-                  <charName xml:id="ludivine">Ludivine</charName>
-               </char> 
-               <char>
-                  <charName xml:id="m_lejoly">M. Lejoly</charName>
-               </char>
-               <char>
-                  <charName xml:id="l_apiculteur">L'apiculteur</charName>
-               </char>
-               <char>
-                  <charName xml:id="la_bohemienne">La bohémienne</charName>
-               </char>
-            </charDecl>
-         </encodingDesc>
+      <encodingDesc>
+         <charDecl>
+            <char>
+               <charName xml:id="suzette">Suzette</charName>
+            </char>
+            <char>
+               <charName xml:id="papa">Papa</charName>
+            </char>
+            <char>
+               <charName xml:id="la_maman">La maman</charName>
+            </char>
+            <char>
+               <charName xml:id="jacques">Jacques</charName>            
+            </char>
+            <char>
+               <charName xml:id="francois">François</charName>
+            </char>
+            <char>
+               <charName xml:id="charlot">Charlot</charName>
+            </char>
+            <char>
+               <charName xml:id="mme_valon">Mme Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="m_valon">M. Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="mme_richard">Mme Richard</charName>
+            </char>
+            <char>
+               <charName xml:id="louis">Louis</charName>
+            </char>
+            <char>
+               <charName xml:id="pascal">Pascal</charName>
+            </char>
+            <char>
+               <charName xml:id="marthe">Marthe</charName>
+            </char>
+            <char>
+               <charName xml:id="sylvain">Sylvain</charName>
+            </char> 
+            <char>
+               <charName xml:id="ludivine">Ludivine</charName>
+            </char> 
+            <char>
+               <charName xml:id="m_lejoly">M. Lejoly</charName>
+            </char>
+            <char>
+               <charName xml:id="l_apiculteur">L'apiculteur</charName>
+            </char>
+            <char>
+               <charName xml:id="la_bohemienne">La bohémienne</charName>
+            </char>
+         </charDecl>
+         
+         <classDecl>
+            <taxonomy xml:id="sciences">
+               <category xml:id="scienceNat">
+                  <catDesc>Science Naturelles</catDesc>
+                  <category xml:id="mineraux">
+                     <catDesc>Minéraux</catDesc>
+                  </category>
+                  <category xml:id="vegetaux">
+                     <catDesc>Végétaux</catDesc>
+                     <category xml:id="arbreNoncultives">
+                        <catDesc>Arbres non cultivés</catDesc>
+                     </category>
+                     <category xml:id="herbesPlantes">
+                        <catDesc>Herbes ou plantes sauvages</catDesc>
+                     </category>
+                     <category xml:id="arbreCultives">
+                        <catDesc>Arbres cultivés</catDesc>
+                     </category>
+                     <category xml:id="arbustes">
+                        <catDesc>Arbustes cultivés</catDesc>
+                     </category>
+                     <category xml:id="cereales">
+                        <catDesc>Céréales</catDesc>
+                     </category>
+                     <category xml:id="legumesRacines">
+                        <catDesc>Légumes, racines, etc.</catDesc>
+                     </category>
+                     <category xml:id="divers1"><!-- Avoid tagging with Divers - if necessary, create another sub-category -->
+                        <catDesc>Divers</catDesc>
+                     </category>  
+                  </category>
+                  <category xml:id="animaux">
+                     <catDesc>Animaux</catDesc>
+                     <category xml:id="homme">
+                        <catDesc>l'Homme</catDesc>
+                     </category>
+                     <category xml:id="animauxDomestiques">
+                        <catDesc>Animaux domestiques</catDesc>
+                     </category>
+                     <category xml:id="animauxSauvages">
+                        <catDesc>Animaux sauvages</catDesc>
+                     </category>
+                  </category>
+                  <!--<category xml:id="agriculture">
+                     <catDesc>Agriculture</catDesc>
+                  </category>-->
+               </category>
+               <category xml:id="sciencesPhys">
+                  <catDesc>Sciences physiques</catDesc>
+                  <!-- <category xml:id="elements">
+                     <catDesc>Elements</catDesc>-->
+                  <!--</category>-->
+               </category>
+               <category xml:id="industrie">
+                  <catDesc>Industrie</catDesc>
+                  <category xml:id="matieresObjets">
+                     <catDesc>Matières et objets fabriqués</catDesc>
+                  </category>
+                  <category xml:id="constructions">
+                     <catDesc>Constructions</catDesc>
+                  </category>
+                  <category xml:id="machinesAppareils">
+                     <catDesc>Machines, appareils, ustensiles, vases</catDesc>
+                  </category>
+                  <category xml:id="outils">
+                     <catDesc>Outils</catDesc>
+                  </category>
+                  <category xml:id="etoffesHabillement">
+                     <catDesc>Étoffes, habillement</catDesc>
+                  </category>
+                  <category xml:id="divers2">
+                     <catDesc>Divers</catDesc>
+                  </category>
+               </category>
+               <category xml:id="economieDomestique">
+                  <catDesc>Économie Domestique</catDesc>
+                  <category xml:id="alimentsCuisine">
+                     <catDesc>Aliments et cuisine</catDesc>
+                  </category>
+                  <category xml:id="vetements1">
+                     <catDesc>Vêtements</catDesc>
+                  </category>
+                  <category xml:id="basse-cour">
+                     <catDesc>Basse-cour</catDesc>
+                  </category>
+               </category>
+               <category xml:id="hygiene">
+                  <catDesc>Hygiène</catDesc>
+                  <category xml:id="corpsHabitations">
+                     <catDesc>Corps et habitations</catDesc>
+                  </category>
+                  <category xml:id="vetements2">
+                     <catDesc>Vêtements</catDesc>
+                  </category>
+                  <category xml:id="aliments">
+                     <catDesc>Aliments</catDesc>
+                  </category>
+                  <category xml:id="maladiesRemedes">
+                     <catDesc>Maladies,etc.; remèdes</catDesc>
+                  </category>
+               </category>
+               <!-- <category xml:id="geographie">
+                  <catDesc>Géographie</catDesc>
+                  <category xml:id="landFeatures">
+                     <catDesc>Land features</catDesc>
+                  </category>-->
+            </taxonomy>
+         </classDecl>
+         
+      </encodingDesc>
+      <profileDesc>
+         <settingDesc>
+            <listPlace>
+               <place>
+                  <placeName xml:id="l_amerique">l'Amérique</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_oceanien">l'Oceanian</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_europe">l'Europe</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_australie">l'Australie</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_france">la France</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_chine">la Chine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="etats_unis">les États-Unis</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_arabe">l'Arabe</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="fragicourt">Fragicourt</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="paris">Paris</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="bruxelles">Bruxelles</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="boston">Boston
+                  </placeName>
+               </place>
+               <place> 
+                  <placeName xml:id="l_avre">l'Avre
+                     <geogFeat>River</geogFeat>
+                  </placeName> 
+               </place>
+               <place>
+                  <placeName xml:id="la_moye">la Moye
+                     <geogFeat>River</geogFeat>
+                  </placeName>
+               </place>
+            </listPlace>
+         </settingDesc>
+      </profileDesc>
    </teiHeader>
    <text>
-
       <body>
          <!-- n is for maitresse edition, corresp is for student edition -->
          
@@ -126,8 +287,8 @@
                   <head> 83. — Triomphe du travail. (Élève, p. 174.) </head>
          
          
-                  <p> Là, un peuple de merveilleuses <name type="industry">machines</name> en tenue brillante, et qu'on eût dites heureuses de leur existence en ce monde ! </p>
-                  <p> C'étaient <name type="industry">les couteaux</name>, <name type="industry">les marteaux</name>, <name type="industry">les scies</name>, les pilons <time>de nos jours</time> ; voilà ce qu'était devenu <name type="industry">le pauvre outillage</name> <name type="industry"><time>des âges de pierre, de bronze et de fer</time></name> ! Salut au génie et au <name type="history">labeur humains</name> ! à <name type="history">l'effort des générations</name>*<gloss>Génération. L'ensemble de tous les hommes du même âge.</gloss> qui, continué à travers tant <time>de siècles</time> de misère, de sang, de forte et douloureuse patience, avait enfin <name type="industry">produit</name> ces <name type="industry">outils magnifiques de puissance et de précision</name> ! </p>
+                  <p> Là, un peuple de merveilleuses <seg ana="#machinesAppareils">machines</seg> en tenue brillante, et qu'on eût dites heureuses de leur existence en ce monde ! </p>
+                  <p> C'étaient <seg ana="#machinesAppareils">les couteaux</seg>, <seg ana="#machinesAppareils">les marteaux</seg>, <seg ana="#machinesAppareils">les scies</seg>, <seg ana="#machinesAppareils">les pilons</seg> <time>de nos jours</time> ; voilà ce qu'était devenu <seg ana="#machinesAppareils">le pauvre outillage</seg> <seg ana="#industrie"><time>des âges de <seg ana="#mineraux">pierre</seg>, de <seg ana="#mineraux">bronze</seg> et de <seg ana="#mineraux">fer</seg></time></seg> ! Salut au génie et au <!--<name type="history">labeur humains</name>--> ! à l'effort des générations*<gloss>Génération. L'ensemble de tous les hommes du même âge.</gloss> qui, continué à travers tant <time>de siècles</time> de misère, de sang, de forte et douloureuse patience, avait enfin <seg ana="#industrie">produit</seg> ces <seg ana="#machinesAppareils">outils magnifiques de puissance et de précision</seg> ! </p>
     
                   <figure> 
                      <caption> Les <hi rend="italic">La grande industrie.</hi>
@@ -136,13 +297,13 @@
                      </caption>
                   </figure>
     
-                  <sp><speaker>Louis</speaker><ab> — Voyez-vous ceux-ci aux larges <name type="industry">mâchoires</name> pourvues de <name type="industry">dents d'acier</name> ? ce sont <name type="industry">des peignes</name> à <name type="industry">peigner</name> <name type="industry">la laine</name>, qui <name type="industry">sort</name> de là en <name type="industry">filaments</name> finement divisés. Et savez-vous que
+                  <sp><speaker>Louis</speaker><ab> — Voyez-vous ceux-ci aux larges <seg ana="#machinesAppareils">mâchoires</seg> pourvues de <seg ana="#machinesAppareils">dents d'acier</seg> ? ce sont <seg ana="#machinesAppareils">des peignes</seg> à <seg ana="#machinesAppareils">peigner</seg> <seg ana="#etoffesHabillement">la laine</seg>, qui sort de là en <seg ana="#etoffesHabillement">filaments</seg> finement divisés. Et savez-vous que
          
                      <pb type="page" n="287"/>   
                      <fw type="header"> TRIOMPHE DU TRAVAIL. 287 </fw>
          
-         des <name type="history">mâchoires humaines</name> faisaient <time>jadis</time> ce <name type="industry">travail</name>, que <name type="industry">des ouvriers</name> s'employaient à passer <name type="industry">la laine</name> entre leurs dents pour <name type="industry">ôter les nœuds</name>, ci s'empoisonnaient ainsi de <name type="health">poussière morbide</name>*<gloss>Morbide. Qui cause <name type="health">des maladies</name>.</gloss> ? </ab></sp>
-                  <p> Cette <name type="industry">machine</name>, à côté, est destinée à <name type="industry">un moulin</name> ; <name type="industry">le montage</name> <name type="industry">des sacs de <name type="nature">blé</name></name>, <name type="industry">la mouture</name>, <name type="industry">le blutage</name>*<term>Blutage. Opération ayant pour objet de séparer la farine du son.</term>, <name type="industry">l'ensachement</name>, tout s'y fera <name type="industry">mécaniquement</name>. Et qui, <time>jadis</time>, <time>avant cette invention</time>, et celle <name type="industry">des moulins à <name type="nature">eau</name> et à <name type="nature">vent</name>, était chargé de toute cette besogne ? — les femmes, avec leurs pauvres bras. On peut les voir encore à ce <name type="industry">travail</name> sous <name type="history">les tentes de <placeName>l'Arabe</placeName></name>. </p> <!--Is this paragraph actually still Louis speaking?-->
+         des <seg ana="#homme">mâchoires humaines</seg> faisaient <time>jadis</time> ce travail, que des ouvriers s'employaient à passer <seg ana="#etoffesHabillement">la laine</seg> entre leurs dents pour <seg ana="#etoffesHabillement">ôter les nœuds</seg>, ci s'empoisonnaient ainsi de <seg ana="#maladiesRemedes">poussière morbide</seg>*<gloss>Morbide. Qui cause des maladies.</gloss> ? </ab></sp>
+                  <p> Cette <seg ana="#machinesAppareils">machine</seg>, à côté, est destinée à <seg ana="#constructions">un moulin</seg> ; <seg ana="#machinesAppareils">le montage</seg> <seg ana="#scienceNat">des sacs de <seg ana="#cereales">blé</seg></seg>, <seg ana="#machinesAppareils">la mouture</seg>, <seg ana="#machinesAppareils">le blutage</seg>*<term>Blutage. Opération ayant pour objet de séparer la farine du son.</term>, <seg ana="#machinesAppareils">l'ensachement</seg>, tout s'y fera <seg ana="#industrie">mécaniquement</seg>. Et qui, <time>jadis</time>, <time>avant cette <seg ana="#machinesAppareils">invention</time>, et celle <seg ana="constructions">des moulins à <seg ana="#minereaux">eau et à <seg ana="sciencesPhys">vent</seg></seg>, était chargé de toute cette besogne ? — les femmes, avec leurs pauvres bras. On peut les voir encore à ce travail sous <<!--name type="history">les tentes de <placeName ana="#l_arabe">l'Arabe</placeName></name>-->. </p> <!--Is this paragraph actually still Louis speaking?-->
                   <sp><speaker>Pascal</speaker><ab> — Parbleu ! </ab></sp> <stage> s'écria <persName ana="pascal">Pascal</persName> en regardant <persName ana="#suzette">Suzette</persName>, </stage> <sp><speaker>Pascal</speaker><ab> je vous l'avais bien dit. </ab></sp>
                   
                   <figure> 
@@ -153,7 +314,7 @@
                   </figure>
                   
                   <sp><speaker>Suzette</speaker><ab> — Oh ! je m'en souviens ! </ab></sp> <stage> répondit <persName ana="#suzette">Suzette</persName>. </stage>
-                  <p> On était maintenant devant <name type="industry">une machine à vapeur</name>, gros <name type="industry">corps</name> aux <name type="industry">membres</name> d'<name type="industry">acier</name> poli et de <name type="industry">cuivre</name> brillant comme de <name type="industry">l’or</name>. <!--Is the last sentence Louis speaking?--> <persName ana="louis">Louis</persName> s'arrêta. Il la connaissait ; il en avait mené <name type="industry">l'exécution</name> : </p>
+                  <p> On était maintenant devant <seg ana="#machinesAppareils">une machine à vapeur</seg>, gros <seg ana="machinesAppareils">corps</seg> aux <seg ana="machinesAppareils">membres</seg> d'<seg ana="sciencesPhys">acier</seg> poli et de <seg ana="mineraux">cuivre</seg> brillant comme de <seg ana="mineraux">l’or</name>. <!--Is the last sentence Louis speaking?--> <persName ana="louis">Louis</persName> s'arrêta. Il la connaissait ; il en avait mené l'exécution : </p>
                   
                   <figure> 
                      <caption> Les <hi rend="italic">Femme arabe blutant le blé.</hi>
@@ -162,12 +323,12 @@
                      </caption>
                   </figure>
                   
-                  <sp><speaker>Louis</speaker><ab> — C'est une belle et bonne chose, </ab></sp> <stage> dit-il avec la caresse des yeux: et le sourire heureux du <name type="industry">travailleur</name> devant <name type="industry">son œuvre</name> ; </stage> <!--Is this where his dialogue picks back up?--> <sp><speaker>Louis</speaker><ab> <name type="industry">un navire</name> l'attend. Elle le conduira à travers les mers jusqu'aux <placeName>continents lointains</placeName>, pour y porter nos
+                  <sp><speaker>Louis</speaker><ab> — C'est une belle et bonne chose, </ab></sp> <stage> dit-il avec la caresse des yeux: et le sourire heureux du <seg ana="#industrie">travailleur</seg> devant <seg ana="#industrie">son œuvre</seg> ; </stage> <!--Is this where his dialogue picks back up?--> <sp><speaker>Louis</speaker><ab> <seg ana="#machinesAppareils">un navire</seg> l'attend. Elle le conduira à travers les mers jusqu'aux continents lointains, pour y porter nos
           
                      <pb type="page" n="288"/>   
                      <fw type="header"> 288 SUZETTE. </fw>
          
-                     <name type="industry">produits</name>. Elle nous rapportera <name type="industry">le coton de <placeName>l'Amérique</placeName></name>, <name type="industry">le blé</name>, <name type="industry">les laines de <placeName>l'Australie</placeName></name>, <name type="industry">la soie</name>, <name type="industry">le thé de <placeName>la Chine</placeName></name>, <name type="industry">le café</name>, <name type="industry">les fruits</name>, <name type="industry">les épices <placeName>des îles océaniennes</placeName></name>, tout ce que notre <placeName>sol européen</placeName> ne produit pas ou ne nous donne qu'avec parcimonie*<gloss>Parcimonie. Epargne excessive.</gloss>. </ab></sp>
+                     <seg ana="#industrie">produits</seg>. Elle nous rapportera <seg ana="#arbreCultives">le coton de <placeName ana="#l_amerique">l'Amérique</placeName></seg>, <seg ana="#cereales">le blé</seg>, <seg ana="#etoffesHabillement">les laines de <placeName ana="l_australie">l'Australie</placeName></seg>, <seg ana="#etoffesHabillement">la soie</seg>, <seg ana="arbustes">le thé de <placeName>la Chine</placeName></seg>, <seg ana="#vegetaux">le café</seg>, <seg ana="#fruits">les fruits</seg>, <seg ana="#vegetaux">les épices <placeName ana="#l_oceanien">des îles océaniennes</placeName></seg>, tout ce que notre <placeName ana="#l_europe">sol européen</placeName> ne produit pas ou ne nous donne qu'avec parcimonie*<gloss>Parcimonie. Epargne excessive.</gloss>. </ab></sp>
                   
                   <div type="questionnaire">
                      <ab>

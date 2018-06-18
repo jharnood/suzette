@@ -57,7 +57,6 @@
             <language ident="eng">English</language>
          </langUsage>
       </profileDesc>
-
       <encodingDesc>
          <charDecl>
             <char>
@@ -125,11 +124,11 @@
                      <category xml:id="arbreNoncultives">
                         <catDesc>Arbres non cultivés</catDesc>
                      </category>
-                     <category xml:id="arbreCultives">
-                        <catDesc>Arbres cultivés</catDesc>
-                     </category>
                      <category xml:id="herbesPlantes">
                         <catDesc>Herbes ou plantes sauvages</catDesc>
+                     </category>
+                     <category xml:id="arbreCultives">
+                        <catDesc>Arbres cultivés</catDesc>
                      </category>
                      <category xml:id="arbustes">
                         <catDesc>Arbustes cultivés</catDesc>
@@ -137,12 +136,12 @@
                      <category xml:id="cereales">
                         <catDesc>Céréales</catDesc>
                      </category>
-                     <category xml:id="legumeRacine">
-                        <catDesc>Legume, racine, etc.</catDesc>
+                     <category xml:id="legumesRacines">
+                        <catDesc>Légumes, racines, etc.</catDesc>
                      </category>
-                     <category xml:id="divers"><!-- Avoid tagging with Divers - if necessary, create another sub-category -->
+                     <category xml:id="divers1"><!-- Avoid tagging with Divers - if necessary, create another sub-category -->
                         <catDesc>Divers</catDesc>
-                     </category>
+                     </category>  
                   </category>
                   <category xml:id="animaux">
                      <catDesc>Animaux</catDesc>
@@ -156,28 +155,115 @@
                         <catDesc>Animaux sauvages</catDesc>
                      </category>
                   </category>
+                  <!--<category xml:id="agriculture">
+                     <catDesc>Agriculture</catDesc>
+                  </category>-->
                </category>
                <category xml:id="sciencesPhys">
                   <catDesc>Sciences physiques</catDesc>
-                  <category xml:id="elements">
-                     <catDesc>Elements</catDesc>
+                  <!-- <category xml:id="elements">
+                     <catDesc>Elements</catDesc>-->
+                  <!--</category>-->
                </category>
+               <category xml:id="industrie">
+                  <catDesc>Industrie</catDesc>
+                  <category xml:id="matieresObjets">
+                     <catDesc>Matières et objets fabriqués</catDesc>
+                  </category>
+                  <category xml:id="constructions">
+                     <catDesc>Constructions</catDesc>
+                  </category>
+                  <category xml:id="machinesAppareils">
+                     <catDesc>Machines, appareils, ustensiles, vases</catDesc>
+                  </category>
+                  <category xml:id="outils">
+                     <catDesc>Outils</catDesc>
+                  </category>
+                  <category xml:id="etoffesHabillement">
+                     <catDesc>Étoffes, habillement</catDesc>
+                  </category>
+                  <category xml:id="divers2">
+                     <catDesc>Divers</catDesc>
+                  </category>
                </category>
+               <category xml:id="economieDomestique">
+                  <catDesc>Économie Domestique</catDesc>
+                  <category xml:id="alimentsCuisine">
+                     <catDesc>Aliments et cuisine</catDesc>
+                  </category>
+                  <category xml:id="vetements1">
+                     <catDesc>Vêtements</catDesc>
+                  </category>
+                  <category xml:id="basse-cour">
+                     <catDesc>Basse-cour</catDesc>
+                  </category>
+               </category>
+               <category xml:id="hygiene">
+                  <catDesc>Hygiène</catDesc>
+                  <category xml:id="corpsHabitations">
+                     <catDesc>Corps et habitations</catDesc>
+                  </category>
+                  <category xml:id="vetements2">
+                     <catDesc>Vêtements</catDesc>
+                  </category>
+                  <category xml:id="aliments">
+                     <catDesc>Aliments</catDesc>
+                  </category>
+                  <category xml:id="maladiesRemedes">
+                     <catDesc>Maladies,etc.; remèdes</catDesc>
+                  </category>
+               </category>
+               <!-- <category xml:id="geographie">
+                  <catDesc>Géographie</catDesc>
+                  <category xml:id="landFeatures">
+                     <catDesc>Land features</catDesc>
+                  </category>-->
             </taxonomy>
          </classDecl>
-
+         
       </encodingDesc>
       <profileDesc>
          <settingDesc>
             <listPlace>
                <place>
-                  <placeName xml:id="fragicourt">Fragicourt</placeName>
+                  <placeName xml:id="l_amerique">l'Amérique</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_oceanien">l'Oceanian</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_europe">l'Europe</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_australie">l'Australie</placeName>
                </place>
                <place>
                   <placeName xml:id="la_france">la France</placeName>
                </place>
+               <place>
+                  <placeName xml:id="la_chine">la Chine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="etats_unis">les États-Unis</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_arabe">l'Arabe</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="fragicourt">Fragicourt</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="paris">Paris</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="bruxelles">Bruxelles</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="boston">Boston
+                  </placeName>
+               </place>
                <place> 
-                  <placeName xml:id="avre">l'Avre
+                  <placeName xml:id="l_avre">l'Avre
                      <geogFeat>River</geogFeat>
                   </placeName> 
                </place>
@@ -191,7 +277,6 @@
       </profileDesc>
    </teiHeader>
    <text>
-
       <body>
          <!-- n is for maitresse edition, corresp is for student edition -->
          
@@ -214,21 +299,21 @@
                   <pb type="page" n="76"/>   
                   <fw type="header"> 76 SUZETTE. </fw> 
                
-                  <p> « Le Paraclet est charmant*<gloss>Charmant. Très agréable.</gloss>. L'école, bâtie sur le flanc d'une colline, domine une belle vallée où coulent <placeName ana="#avre">l'Avre</placeName> et <placeName ana="#la_moye">la Moye</placeName>. Un petit village de maisonnettes rouges et blanches, avec son clocher qui ressemble à celui de <placeName ana="#fragicourt">Fragicourt</placeName>, c'est notre horizon. </p>
+                  <p> « Le Paraclet est charmant*<gloss>Charmant. Très agréable.</gloss>. L'école, bâtie sur le flanc d'une colline, domine une belle vallée où coulent <placeName ana="#l_avre">l'Avre</placeName> et <placeName ana="#la_moye">la Moye</placeName>. Un petit village de maisonnettes rouges et blanches, avec son clocher qui ressemble à celui de <placeName ana="#fragicourt">Fragicourt</placeName>, c'est notre horizon. </p>
                   <p> « Cent vingt hectares, voilà mon domaine maintenant. </p>
                   <p> « Quel grand propriétaire je fais, n'est-ce pas ? Il est vrai que je partage avec de nombreux camarades. </p>
-                  <p> « Et <name type="agriculture">le travail des champs</name> marche ici avec celui de l'esprit ; l'histoire, <name type="discipline">la chimie</name>*<gloss>Chimie. Science qui étudie ce qui peut changer l'état des corps et les applications utiles qui en résultent.</gloss>, <name type="discipline">la physique</name>*<gloss>Physique. Science qui étudie les propriétés des corps matériels sans les décomposer, comme on le fait en chimie.</gloss>, <name type="discipline">l'horticulture</name>, <name type="discipline">l'arboriculture</name>, nous occupent une partie du jour. </p>
-                  <p> « Des professeurs et un laboratoire*<gloss>Laboratoire. Local disposé pour faire les expériences de physique et de chimie.</gloss> ! rien ne nous, manque. Aux vacances, vous verrez comme on <name type="agriculture">taillera</name>, <name type="agriculture">greffera</name>*<gloss>Greffer. Fixer, dans la fente d'une tige d'arbre, une petite branche que l'on coupe sur un arbre de meilleure espèce.</gloss> ! Et quels beaux <name type="agriculture">fruits</name> mangeront ceux qui les aiment, par exemple, <persName ana="#suzette">une jeune <name type="agriculture">fermière</name></persName> de ma connaissance qu'on appelle <persName ana="#suzette">Suzette</persName> ! </p>
-                  <p> « <name type="discipline">La chimie agricole</name> surtout me passionne. Quelle ressource pour <name type="agriculture">l'agronome</name>*<gloss>Agronome. Celui qui s'occupe de perfectionner l'agriculture.</gloss> ! <name type="discipline">La chimie</name> vous analyse*<!--Analyse has an asterisk but no definitin in the lexique--> <name type="nature">une plante</name>, en montre un à un <name type="nature">les éléments</name>*<gloss>Éléments. Les parties, les substances dont un corps est composé.</gloss> : tant d'<name type="nature">azote</name>*<gloss>Azote. L'un des deux gaz qui forment l'air; il ne peut entretenir la combustion.</gloss>, tant de <name type="nature">carbone</name>*<gloss>Carbone. Corps qui, à l'état de pureté, est le diamant, et qui constitue la base du bois et du charbon.</gloss>, tant de <name type="nature">soufre</name>, <seg ana="#elements">d'oxygène*</seg><gloss>Oxygène. Celui des deux gaz de l'air qui peut entretenir la combustion.</gloss>, d'<name type="nature">hydrogène</name>*<gloss>Hydrogène. Gaz 14 fois et demie plus léger que l'air.</gloss>, etc. ; et <name type="agriculture">le cultivateur</name> ayant appris tout cela, sait encore que <name type="nature">les plantes</name> <name type="nature">puisent</name> ces <name type="nature">éléments</name> pour la plus grande partie dans <name type="nature">le sol</name> par leurs <name type="nature">racines</name> et <name type="nature">radicelles</name>*<gloss>Radicelles. Petites ramifications d'une racine.</gloss>. Il lui devient alors aisé de donner, par <name type="agriculture">des engrais</name> appropriés, à chacune <name type="nature">la nourriture</name> qui lui convient, et de la rendre ainsi belle et vigoureuse. </p>
-                  <p> « A étudier et à <name type="agriculture">bêcher</name> tour à tour, je me porte comme un charme*<gloss>Charme. Parfaitement bien.</gloss>. Un professeur nous disait hier que les hommes devraient à peu près tous pouvoir partager ainsi leur journée entre <name type="agriculture">le travail des mains</name> et celui de l'esprit. Ils s'en porteraient mieux intellectuellement, et peut-être en viendront-ils là dans l'avenir. </p>
-                  <p> « J'ai fait ici la connaissance d'un homme que vous aimeriez beaucoup, <persName ana="#papa">cher père</persName> : c'est <persName><name type="agriculture">Olivier de Serres</name></persName>*<gloss>Olivier de Serres. Grand agronome contemporain de Henri IV.</gloss>. Sa pensée vit, encore, quoiqu'il soit mort depuis à peu près trois cents ans. On l'appelle <persName>le père de <name type="discipline">l'agriculture</name></persName>. Il créa <name type="discipline">l'agronomie</name>, il aima <name type="agriculture">les champs</name>, et, par grand désir d'être utile aux hommes, écrivit des livres
+                  <p> « Et <seg ana="#scienceNat">le travail des champs</seg> marche ici avec celui de l'esprit ; l'histoire, <seg ana="#sciencesPhys">la chimie</seg>*<gloss>Chimie. Science qui étudie ce qui peut changer l'état des corps et les applications utiles qui en résultent.</gloss>, <seg ana="#sciencesPhys">la physique</seg>*<gloss>Physique. Science qui étudie les propriétés des corps matériels sans les décomposer, comme on le fait en chimie.</gloss>, <seg ana="#scienceNat">l'horticulture</seg>, <seg ana="#scienceNat">l'arboriculture</seg>, nous occupent une partie du jour. </p>
+                  <p> « Des professeurs et <seg ana="#machinesAppareils">un laboratoire</seg>*<gloss>Laboratoire. Local disposé pour faire les expériences de physique et de chimie.</gloss> ! rien ne nous, manque. Aux vacances, vous verrez comme on <seg ana="#scienceNat">taillera</seg>, <seg ana="#scienceNat">greffera</seg>*<gloss>Greffer. Fixer, dans la fente d'une tige d'arbre, une petite branche que l'on coupe sur un arbre de meilleure espèce.</gloss> ! Et quels beaux <seg ana="#scienceNat">fruits</seg> mangeront ceux qui les aiment, par exemple, <persName ana="#suzette">une jeune <seg ana="#scienceNat">fermière</seg></persName> de ma connaissance qu'on appelle <persName ana="#suzette">Suzette</persName> ! </p>
+                  <p> « <seg ana="#sciencesPhys">La chimie agricole</seg> surtout me passionne. Quelle ressource pour <seg ana="#scienceNat">l'agronome</seg>*<gloss>Agronome. Celui qui s'occupe de perfectionner l'agriculture.</gloss> ! <seg ana="#sciencesPhys">La chimie</seg> vous analyse*<!--Analyse has an asterisk but no definitin in the lexique--> <seg ana="#herbesPlantes">une plante</seg>, en montre un à un <seg ana="#sciencesPhys">les éléments</seg>*<gloss>Éléments. Les parties, les substances dont un corps est composé.</gloss> : tant d'<seg ana="#sciencesPhys">azote</seg>*<gloss>Azote. L'un des deux gaz qui forment l'air; il ne peut entretenir la combustion.</gloss>, tant de <seg ana="#mineraux">carbone</seg>*<gloss>Carbone. Corps qui, à l'état de pureté, est le diamant, et qui constitue la base du bois et du charbon.</gloss>, tant de <seg ana="#mineraux">soufre</seg>, <seg ana="#sciencesPhys">d'oxygène*</seg><gloss>Oxygène. Celui des deux gaz de l'air qui peut entretenir la combustion.</gloss>, d'<seg ana="#sciencesPhys">hydrogène</seg>*<gloss>Hydrogène. Gaz 14 fois et demie plus léger que l'air.</gloss>, etc. ; et <seg ana="#scienceNat">le cultivateur</seg> ayant appris tout cela, sait encore que <seg ana="#scienceNat">les plantes</seg> <seg ana="#scienceNat">puisent</seg> ces <seg ana="#scienceNat">éléments</seg> pour la plus grande partie dans <seg ana="#mineraux">le sol</seg> par leurs <seg ana="#vegetaux">racines</seg> et \<seg ana="#vegetaux">radicelles</seg>*<gloss>Radicelles. Petites ramifications d'une racine.</gloss>. Il lui devient alors aisé de donner, par <seg ana="#vegetaux">des engrais</seg> appropriés, à chacune <seg ana="#alimentsCuisine">la nourriture</seg> qui lui convient, et de la rendre ainsi belle et vigoureuse. </p>
+                  <p> « A étudier et à <seg ana="#vegetaux">bêcher</seg> tour à tour, je me porte comme un charme*<gloss>Charme. Parfaitement bien.</gloss>. Un professeur nous disait hier que les hommes devraient à peu près tous pouvoir partager ainsi leur journée entre <seg ana="#vegetaux">le travail des mains</seg> et celui de l'esprit. Ils s'en porteraient mieux intellectuellement, et peut-être en viendront-ils là dans l'avenir. </p>
+                  <p> « J'ai fait ici la connaissance d'un homme que vous aimeriez beaucoup, <persName ana="#papa">cher père</persName> : c'est <persName><seg ana="#scienceNat">Olivier de Serres</seg></persName>*<gloss>Olivier de Serres. Grand agronome contemporain de Henri IV.</gloss>. Sa pensée vit, encore, quoiqu'il soit mort depuis à peu près trois cents ans. On l'appelle <persName>le père de <seg ana="#scienceNat">l'agriculture</seg></persName>. Il créa <seg ana="#scienceNat">l'agronomie</seg>, il aima <seg ana="#vegetaux">les champs</seg>, et, par grand désir d'être utile aux hommes, écrivit des livres
          
                   <pb type="page" n="77"/>   
                   <fw type="header"> UNE LETTRE DE JACQUES. 77 </fw> 
          
 qui, après trois siècles, continuent de nous éclairer. </p>
                   <p> « Le directeur du Paraclet est un brave. En 1870, sergent de mobiles*<gloss>Mobiles. Les mobiles étaient de jeunes soldats qui n'avaient pas été formés au service militaire.</gloss>, en pleine bataille, il retourna sur ses pas et se rejeta dans la mitraille pour aller reprendre le drapeau de la compagnie aux mains de celui qui le portait et qu'une balle venait de frapper. Il sauva le drapeau. C'est beau, cela, n'est-ce pas ? </p>
-                  <p> « On appelle pour <name type="agriculture">une promenade agricole</name>. Nous allons visiter <name type="agriculture">une ferme</name> importante des environs. </p>
+                  <p> « On appelle pour <seg ana="#scienceNat">une promenade agricole</seg>. Nous allons visiter <seg ana="#scienceNat">une ferme</seg> importante des environs. </p>
                   <closer>
                      <salute> « Je vous quitte : je vous embrasse de tout mon cœur, <persName ana="#papa">cher papa</persName>, et toi, <persName ana="#suzette">Suzette</persName>, et vous, <persName ana="#francois">François</persName> et <persName ana="#charlot">Charlot</persName>. </salute>
                      <signed> « <persName ana="#jacques">JACQUES DUMAY</persName>. » </signed>

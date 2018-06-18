@@ -50,7 +50,6 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      
       <profileDesc>
          <langUsage>
             <language ident="fra">French</language>
@@ -111,10 +110,172 @@
                <charName xml:id="la_bohemienne">La bohémienne</charName>
             </char>
          </charDecl>
+         
+         <classDecl>
+            <taxonomy xml:id="sciences">
+               <category xml:id="scienceNat">
+                  <catDesc>Science Naturelles</catDesc>
+                  <category xml:id="mineraux">
+                     <catDesc>Minéraux</catDesc>
+                  </category>
+                  <category xml:id="vegetaux">
+                     <catDesc>Végétaux</catDesc>
+                     <category xml:id="arbreNoncultives">
+                        <catDesc>Arbres non cultivés</catDesc>
+                     </category>
+                     <category xml:id="herbesPlantes">
+                        <catDesc>Herbes ou plantes sauvages</catDesc>
+                     </category>
+                     <category xml:id="arbreCultives">
+                        <catDesc>Arbres cultivés</catDesc>
+                     </category>
+                     <category xml:id="arbustes">
+                        <catDesc>Arbustes cultivés</catDesc>
+                     </category>
+                     <category xml:id="cereales">
+                        <catDesc>Céréales</catDesc>
+                     </category>
+                     <category xml:id="legumesRacines">
+                        <catDesc>Légumes, racines, etc.</catDesc>
+                     </category>
+                     <category xml:id="divers1"><!-- Avoid tagging with Divers - if necessary, create another sub-category -->
+                        <catDesc>Divers</catDesc>
+                     </category>  
+                  </category>
+                  <category xml:id="animaux">
+                     <catDesc>Animaux</catDesc>
+                     <category xml:id="homme">
+                        <catDesc>l'Homme</catDesc>
+                     </category>
+                     <category xml:id="animauxDomestiques">
+                        <catDesc>Animaux domestiques</catDesc>
+                     </category>
+                     <category xml:id="animauxSauvages">
+                        <catDesc>Animaux sauvages</catDesc>
+                     </category>
+                  </category>
+                  <!--<category xml:id="agriculture">
+                     <catDesc>Agriculture</catDesc>
+                  </category>-->
+               </category>
+               <category xml:id="sciencesPhys">
+                  <catDesc>Sciences physiques</catDesc>
+                  <!-- <category xml:id="elements">
+                     <catDesc>Elements</catDesc>-->
+                  <!--</category>-->
+               </category>
+               <category xml:id="industrie">
+                  <catDesc>Industrie</catDesc>
+                  <category xml:id="matieresObjets">
+                     <catDesc>Matières et objets fabriqués</catDesc>
+                  </category>
+                  <category xml:id="constructions">
+                     <catDesc>Constructions</catDesc>
+                  </category>
+                  <category xml:id="machinesAppareils">
+                     <catDesc>Machines, appareils, ustensiles, vases</catDesc>
+                  </category>
+                  <category xml:id="outils">
+                     <catDesc>Outils</catDesc>
+                  </category>
+                  <category xml:id="etoffesHabillement">
+                     <catDesc>Étoffes, habillement</catDesc>
+                  </category>
+                  <category xml:id="divers2">
+                     <catDesc>Divers</catDesc>
+                  </category>
+               </category>
+               <category xml:id="economieDomestique">
+                  <catDesc>Économie Domestique</catDesc>
+                  <category xml:id="alimentsCuisine">
+                     <catDesc>Aliments et cuisine</catDesc>
+                  </category>
+                  <category xml:id="vetements1">
+                     <catDesc>Vêtements</catDesc>
+                  </category>
+                  <category xml:id="basse-cour">
+                     <catDesc>Basse-cour</catDesc>
+                  </category>
+               </category>
+               <category xml:id="hygiene">
+                  <catDesc>Hygiène</catDesc>
+                  <category xml:id="corpsHabitations">
+                     <catDesc>Corps et habitations</catDesc>
+                  </category>
+                  <category xml:id="vetements2">
+                     <catDesc>Vêtements</catDesc>
+                  </category>
+                  <category xml:id="aliments">
+                     <catDesc>Aliments</catDesc>
+                  </category>
+                  <category xml:id="maladiesRemedes">
+                     <catDesc>Maladies,etc.; remèdes</catDesc>
+                  </category>
+               </category>
+               <!-- <category xml:id="geographie">
+                  <catDesc>Géographie</catDesc>
+                  <category xml:id="landFeatures">
+                     <catDesc>Land features</catDesc>
+                  </category>-->
+            </taxonomy>
+         </classDecl>
+         
       </encodingDesc>
+      <profileDesc>
+         <settingDesc>
+            <listPlace>
+               <place>
+                  <placeName xml:id="l_amerique">l'Amérique</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_oceanien">l'Oceanian</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_europe">l'Europe</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_australie">l'Australie</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_france">la France</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_chine">la Chine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="etats_unis">les États-Unis</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_arabe">l'Arabe</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="fragicourt">Fragicourt</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="paris">Paris</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="bruxelles">Bruxelles</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="boston">Boston
+                  </placeName>
+               </place>
+               <place> 
+                  <placeName xml:id="l_avre">l'Avre
+                     <geogFeat>River</geogFeat>
+                  </placeName> 
+               </place>
+               <place>
+                  <placeName xml:id="la_moye">la Moye
+                     <geogFeat>River</geogFeat>
+                  </placeName>
+               </place>
+            </listPlace>
+         </settingDesc>
+      </profileDesc>
    </teiHeader>
    <text>
-
       <body>
          <!-- n is for maitresse edition, corresp is for student edition -->
          
@@ -125,31 +286,31 @@
                   <pb type="page" n="116"/>
                   <head>33. — Au feu ! (Élève, p. 76.)</head>
          
-                  <p> Mais <name type="health">le sommeil</name> ne le continua pas. Il apporta à <persName ana="#suzette">Suzette</persName> un autre songe, affreux, épouvantable. Elle escaladait <name type="nature">une montagne</name> <name type="nature">à pic</name>*<gloss>A pic. Avec pointe escarpée.</gloss>, au-dessus d'<name type="nature">un abîme</name> ; la peur, <name type="health">le vertige</name>*<gloss>Vertige. Indisposition dans laquelle il semble que les choses tournent autour de vous.</gloss> lui <name type="health">coupaient <name type="health">la respiration</name></name>, elle <name type="health">suffoquait</name>*<gloss>Suffocation. État de celui qui ne peut plus respirer à cause d'une vapeur nuisible.</gloss>. Tout à coup <name type="nature">une pierre</name> énorme roulant d'en haut la renversa et la réveilla. </p>
+                  <p> Mais <seg ana="#corpsHabitations">le sommeil</seg> ne le continua pas. Il apporta à <persName ana="#suzette">Suzette</persName> un autre songe, affreux, épouvantable. Elle escaladait <!--<seg ana="#geographie">une montagne à pic</seg>-->*<gloss>A pic. Avec pointe escarpée.</gloss>, au-dessus d'<!--<seg ana="#geographie">un abîme</seg>--> ; la peur, <seg ana="#maladiesRemedes">le vertige</seg>*<gloss>Vertige. Indisposition dans laquelle il semble que les choses tournent autour de vous.</gloss> lui <seg ana="#maladiesRemedes">coupaient la respiration</seg>, elle <seg ana="#homme">suffoquait</seg>*<gloss>Suffocation. État de celui qui ne peut plus respirer à cause d'une vapeur nuisible.</gloss>. Tout à coup <seg ana="#mineraux">une pierre</seg> énorme roulant d'en haut la renversa et la réveilla. </p>
                   
                   <figure>
                      <caption> Hélas ! pourquoi M. Dumay n'avait-il pas assuré sa maison ? </caption>
                   </figure>
                   
-                  <p> Égarée, elle s'accouda sur son lit. Elle <name type="health">étouffait</name> réellement, non pas sous <name type="nature">une pierre</name>, mais sous <name type="nature">une âcre</name>*<gloss>Acre. Qui cause dans la bouche ou la gorge une sensation piquante et brûlante.</gloss> <name type="nature">fumée</name> qui emplissait la chambre. <name type="nature">Une flamme</name> lourde, rampante, léchait par en bas la porte de communication de la chambre et du fournil ; puis brusquement, s'élevant en <name type="nature">fusée de feu d'artifice</name>, elle lança <name type="nature">une gerbe d'étincelles</name> <name type="nature">crépitantes</name>*<gloss>Crépiter. Bruit causé par un corps qui brûle en pétillant.</gloss>. </p>
-                  <p> Aussitôt à <name type="nature">terre</name>, <persName ana="#suzette">Suzette</persName> avait déjà passé un jupon, jeté sur son dos une petite couverture, tout en essayant
+                  <p> Égarée, elle s'accouda sur son lit. Elle <seg ana="#homme">étouffait</seg> réellement, non pas sous <seg ana="#mineraux">une pierre</seg>, mais sous <seg ana="#industrie">une âcre*<gloss>Acre. Qui cause dans la bouche ou la gorge une sensation piquante et brûlante.</gloss> fumée</seg> qui emplissait la chambre. <seg ana="#industrie">Une flamme</seg> lourde, rampante, léchait par en bas la porte de communication de la chambre et du fournil ; puis brusquement, s'élevant en <seg ana="#industrie">fusée de feu d'artifice</seg>, elle lança <seg ana="#industrie">une gerbe d'étincelles crépitantes</seg>*<gloss>Crépiter. Bruit causé par un corps qui brûle en pétillant.</gloss>. </p>
+                  <p> Aussitôt à <seg ana="#scienceNat">terre</seg>, <persName ana="#suzette">Suzette</persName> avait déjà passé un jupon, jeté sur son dos une petite couverture, tout en essayant
          
                      <pb type="page" n="117"/>   
                      <fw type="header"> AU FEU ! 117 </fw>
          
-         de crier ; mais l'épouvante, <name type="health">la suffocation</name> retenaient <name type="health">sa voix</name> qui n'était qu'un murmure : </p>
-                  <sp><speaker>Suzette</speaker><ab> — <name type="nature">Au feu</name> ! <name type="nature">au feu</name> ! </ab></sp>
-                  <p> Enfin, se traînant hors de cette <name type="health">atmosphère asphyxiante</name>*<gloss>Asphyxie. Suspension de la vie causée par la respiration de certaines vapeurs ou par l'impossibilité de respirer.</gloss>, dans le corridor seulement elle put donner <name type="health">l'alarme</name>. <persName>La famille</persName> se leva et cria comme elle : </p>
-                  <sp><speaker>La famille</speaker><ab> — <name type="health">Au feu</name> ! <name type="health">au secours</name> ! </ab></sp>
-                  <p> Il fallut fuir aussitôt ; <name type="nature">la flamme</name> gagnait avec une furieuse rapidité ! </p>
-                  <sp><speaker>Papa</speaker><ab> — <persName ana="francois">Malheureux enfant</persName> ! </ab></sp> <stage> s'écria <persName ana="#papa">le père</persName> en poussant <persName ana="#francois">François</persName> devant lui ; </stage> <sp><speaker>Papa</speaker><ab> le feu a pris par le fournil ; c'est certainement toi <persName ana="#francois"><name type="nature">l’incendiaire</name></persName> ! </ab></sp>
-                  <p> Le village s'éveilla, accourut ; la cloche tinta pour appeler <persName>les villages voisins</persName>. <name type="health">Des pompes</name> ? on parlait, et même depuis longtemps, d'en avoir à <placeName>Fragicourt</placeName>. On en parla encore en ce moment. Mais ce ne sont pas les paroles qui <name type="nature">éteignent</name> <name type="nature">les incendies</name>. </p>
-                  <p> <name type="nature">Les flammes</name> se moquèrent à l'aise des quelques <name type="health">potées d'eau</name> qu'on leur jetait de ci, de là. Elles éclatèrent de partout, éclairant les visages consternés. </p>
-                  <p> Enfin <name type="health">la pompe</name> du chef-lieu de canton arriva et engagea la bataille. Plus d'une fois on la crut gagnée ; mais soudain <name type="nature">la flamme</name> abaissée se redressait victorieuse au bruit d'épouvantables effondrements : </p>
-                  <sp><speaker>Papa</speaker><ab> — Voilà la maîtresse*<gloss>Maîtresse poutre. La poutre qui supporte le plancher.</gloss> poutre qui <name type="nature">flambe</name> !... voilà le plafond qui s'écroule... Tout est perdu ! Sauvez la grange ! </ab></sp> <stage> criait <persName ana="#papa">M. Dumay</persName>, vacillant comme un homme ivre. </stage>
-                  <p> <name type="health">La pompe</name>, bien manœuvrée, <name type="health">inonda</name>, les murs de la grange, de l'écurie et parvint enfin à les préserver. </p>
-                  <p> De l'habitation, il restait les quatre murs ; du mobilier si tendrement soigné, quelques <name type="nature">débris fumant</name> sur <name type="nature">le sol inondé</name>. </p>
-                  <p> Là, fut le vieux buffet de <persName>famille</persName> ; là, furent les lits qui avaient vu partir <name type="health">les morts</name> et <name type="health">naître</name> <name type="health">les vivants</name> ! Adieu à toutes ces reliques ! adieu à tous ces amis ! Le buffet venait de l'aïeul, la table à manger du <persName>grand-père</persName> ; <persName ana="#la_maman">la pauvre maman</persName> avait choisi les chaises ! </p>
+         de crier ; mais l'épouvante, <seg ana="#maladiesRemedes">la suffocation</seg> retenaient <seg ana="#homme">sa voix</seg> qui n'était qu'un murmure : </p>
+                  <sp><speaker>Suzette</speaker><ab> — <seg ana="#maladiesRemedes">Au feu</seg> ! <seg ana="#industrie">au feu</seg> ! </ab></sp>
+                  <p> Enfin, se traînant hors de cette <seg ana="#maladiesRemedes">atmosphère asphyxiante</seg>*<gloss>Asphyxie. Suspension de la vie causée par la respiration de certaines vapeurs ou par l'impossibilité de respirer.</gloss>, dans le corridor seulement elle put donner l'alarme. <persName>La famille</persName> se leva et cria comme elle : </p>
+                  <sp><speaker>La famille</speaker><ab> — <seg ana="#maladiesRemedes">Au feu</seg> ! <seg ana="#maladiesRemedes">au secours</seg> ! </ab></sp>
+                  <p> Il fallut fuir aussitôt ; <seg ana="#industrie">la flamme</seg> gagnait avec une furieuse rapidité ! </p>
+                  <sp><speaker>Papa</speaker><ab> — <persName ana="francois">Malheureux enfant</persName> ! </ab></sp> <stage> s'écria <persName ana="#papa">le père</persName> en poussant <persName ana="#francois">François</persName> devant lui ; </stage> <sp><speaker>Papa</speaker><ab> le feu a pris par le fournil ; c'est certainement toi <persName ana="#francois"><seg ana="#industrie">l’incendiaire</seg></persName> ! </ab></sp>
+                  <p> Le village s'éveilla, accourut ; la cloche tinta pour appeler <persName>les villages voisins</persName>. <seg ana="#maladiesRemedes">Des pompes</seg> ? on parlait, et même depuis longtemps, d'en avoir à <placeName ana="#fragicourt">Fragicourt</placeName>. On en parla encore en ce moment. Mais ce ne sont pas les paroles qui <seg ana="#industrie">éteignent les incendies</seg>. </p>
+                  <p> <seg ana="#industrie">Les flammes</seg> se moquèrent à l'aise des quelques <seg ana="#maladiesRemedes">potées d'eau</seg> qu'on leur jetait de ci, de là. Elles éclatèrent de partout, éclairant les visages consternés. </p>
+                  <p> Enfin <seg ana="#maladiesRemedes">la pompe</seg> du chef-lieu de canton arriva et engagea la bataille. Plus d'une fois on la crut gagnée ; mais soudain <seg ana="#industrie">la flamme</seg> abaissée se redressait victorieuse au bruit d'épouvantables effondrements : </p>
+                  <sp><speaker>Papa</speaker><ab> — Voilà la maîtresse*<gloss>Maîtresse poutre. La poutre qui supporte le plancher.</gloss> poutre qui <seg ana="#industrie">flambe</seg> !... voilà le plafond qui s'écroule... Tout est perdu ! Sauvez la grange ! </ab></sp> <stage> criait <persName ana="#papa">M. Dumay</persName>, vacillant comme un homme ivre. </stage>
+                  <p> <seg ana="#maladiesRemedes">La pompe</seg>, bien manœuvrée, <seg ana="#maladiesRemedes">inonda</seg>, les murs de la grange, de l'écurie et parvint enfin à les préserver. </p>
+                  <p> De l'habitation, il restait les quatre murs ; du mobilier si tendrement soigné, quelques <seg ana="#industrie">débris fumant</seg> sur <seg ana="#maladiesRemedes">le sol inondé</seg>. </p>
+                  <p> Là, fut le vieux buffet de <persName>famille</persName> ; là, furent les lits qui avaient vu partir <seg ana="#homme">les morts</seg> et <seg ana="#homme">naître</seg> <seg ana="#homme">les vivants</seg> ! Adieu à toutes ces reliques ! adieu à tous ces amis ! Le buffet venait de l'aïeul, la table à manger du <persName>grand-père</persName> ; <persName ana="#la_maman">la pauvre maman</persName> avait choisi les chaises ! </p>
                   <p> Des lamentations*<gloss>Lamentation. Plainte accompagnée de gémissements, de marques de douleur.</gloss> accompagnaient ces souvenirs. C'était fini ! <lb/>
                      
                      <fw type="sig"> 7. </fw>

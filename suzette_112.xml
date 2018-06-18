@@ -51,71 +51,232 @@
          </sourceDesc>
          
       </fileDesc>
-      
       <profileDesc>
          <langUsage>
             <language ident="fra">French</language>
             <language ident="eng">English</language>
          </langUsage>
       </profileDesc>
-         <encodingDesc>
-            <charDecl>
-               <char>
-                  <charName xml:id="suzette">Suzette</charName>
-               </char>
-               <char>
-                  <charName xml:id="papa">Papa</charName>
-               </char>
-               <char>
-                  <charName xml:id="la_maman">La maman</charName>
-               </char>
-               <char>
-                  <charName xml:id="jacques">Jacques</charName>            
-               </char>
-               <char>
-                  <charName xml:id="francois">François</charName>
-               </char>
-               <char>
-                  <charName xml:id="charlot">Charlot</charName>
-               </char>
-               <char>
-                  <charName xml:id="mme_valon">Mme Valon</charName>
-               </char>
-               <char>
-                  <charName xml:id="m_valon">M. Valon</charName>
-               </char>
-               <char>
-                  <charName xml:id="mme_richard">Mme Richard</charName>
-               </char>
-               <char>
-                  <charName xml:id="louis">Louis</charName>
-               </char>
-               <char>
-                  <charName xml:id="pascal">Pascal</charName>
-               </char>
-               <char>
-                  <charName xml:id="marthe">Marthe</charName>
-               </char>
-               <char>
-                  <charName xml:id="sylvain">Sylvain</charName>
-               </char> 
-               <char>
-                  <charName xml:id="ludivine">Ludivine</charName>
-               </char> 
-               <char>
-                  <charName xml:id="m_lejoly">M. Lejoly</charName>
-               </char>
-               <char>
-                  <charName xml:id="l_apiculteur">L'apiculteur</charName>
-               </char>
-               <char>
-                  <charName xml:id="la_bohemienne">La bohémienne</charName>
-               </char>
-            </charDecl>
-         </encodingDesc>
+      <encodingDesc>
+         <charDecl>
+            <char>
+               <charName xml:id="suzette">Suzette</charName>
+            </char>
+            <char>
+               <charName xml:id="papa">Papa</charName>
+            </char>
+            <char>
+               <charName xml:id="la_maman">La maman</charName>
+            </char>
+            <char>
+               <charName xml:id="jacques">Jacques</charName>            
+            </char>
+            <char>
+               <charName xml:id="francois">François</charName>
+            </char>
+            <char>
+               <charName xml:id="charlot">Charlot</charName>
+            </char>
+            <char>
+               <charName xml:id="mme_valon">Mme Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="m_valon">M. Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="mme_richard">Mme Richard</charName>
+            </char>
+            <char>
+               <charName xml:id="louis">Louis</charName>
+            </char>
+            <char>
+               <charName xml:id="pascal">Pascal</charName>
+            </char>
+            <char>
+               <charName xml:id="marthe">Marthe</charName>
+            </char>
+            <char>
+               <charName xml:id="sylvain">Sylvain</charName>
+            </char> 
+            <char>
+               <charName xml:id="ludivine">Ludivine</charName>
+            </char> 
+            <char>
+               <charName xml:id="m_lejoly">M. Lejoly</charName>
+            </char>
+            <char>
+               <charName xml:id="l_apiculteur">L'apiculteur</charName>
+            </char>
+            <char>
+               <charName xml:id="la_bohemienne">La bohémienne</charName>
+            </char>
+         </charDecl>
+         
+         <classDecl>
+            <taxonomy xml:id="sciences">
+               <category xml:id="scienceNat">
+                  <catDesc>Science Naturelles</catDesc>
+                  <category xml:id="mineraux">
+                     <catDesc>Minéraux</catDesc>
+                  </category>
+                  <category xml:id="vegetaux">
+                     <catDesc>Végétaux</catDesc>
+                     <category xml:id="arbreNoncultives">
+                        <catDesc>Arbres non cultivés</catDesc>
+                     </category>
+                     <category xml:id="herbesPlantes">
+                        <catDesc>Herbes ou plantes sauvages</catDesc>
+                     </category>
+                     <category xml:id="arbreCultives">
+                        <catDesc>Arbres cultivés</catDesc>
+                     </category>
+                     <category xml:id="arbustes">
+                        <catDesc>Arbustes cultivés</catDesc>
+                     </category>
+                     <category xml:id="cereales">
+                        <catDesc>Céréales</catDesc>
+                     </category>
+                     <category xml:id="legumesRacines">
+                        <catDesc>Légumes, racines, etc.</catDesc>
+                     </category>
+                     <category xml:id="divers1"><!-- Avoid tagging with Divers - if necessary, create another sub-category -->
+                        <catDesc>Divers</catDesc>
+                     </category>  
+                  </category>
+                  <category xml:id="animaux">
+                     <catDesc>Animaux</catDesc>
+                     <category xml:id="homme">
+                        <catDesc>l'Homme</catDesc>
+                     </category>
+                     <category xml:id="animauxDomestiques">
+                        <catDesc>Animaux domestiques</catDesc>
+                     </category>
+                     <category xml:id="animauxSauvages">
+                        <catDesc>Animaux sauvages</catDesc>
+                     </category>
+                  </category>
+                  <!--<category xml:id="agriculture">
+                     <catDesc>Agriculture</catDesc>
+                  </category>-->
+               </category>
+               <category xml:id="sciencesPhys">
+                  <catDesc>Sciences physiques</catDesc>
+                  <!-- <category xml:id="elements">
+                     <catDesc>Elements</catDesc>-->
+                  <!--</category>-->
+               </category>
+               <category xml:id="industrie">
+                  <catDesc>Industrie</catDesc>
+                  <category xml:id="matieresObjets">
+                     <catDesc>Matières et objets fabriqués</catDesc>
+                  </category>
+                  <category xml:id="constructions">
+                     <catDesc>Constructions</catDesc>
+                  </category>
+                  <category xml:id="machinesAppareils">
+                     <catDesc>Machines, appareils, ustensiles, vases</catDesc>
+                  </category>
+                  <category xml:id="outils">
+                     <catDesc>Outils</catDesc>
+                  </category>
+                  <category xml:id="etoffesHabillement">
+                     <catDesc>Étoffes, habillement</catDesc>
+                  </category>
+                  <category xml:id="divers2">
+                     <catDesc>Divers</catDesc>
+                  </category>
+               </category>
+               <category xml:id="economieDomestique">
+                  <catDesc>Économie Domestique</catDesc>
+                  <category xml:id="alimentsCuisine">
+                     <catDesc>Aliments et cuisine</catDesc>
+                  </category>
+                  <category xml:id="vetements1">
+                     <catDesc>Vêtements</catDesc>
+                  </category>
+                  <category xml:id="basse-cour">
+                     <catDesc>Basse-cour</catDesc>
+                  </category>
+               </category>
+               <category xml:id="hygiene">
+                  <catDesc>Hygiène</catDesc>
+                  <category xml:id="corpsHabitations">
+                     <catDesc>Corps et habitations</catDesc>
+                  </category>
+                  <category xml:id="vetements2">
+                     <catDesc>Vêtements</catDesc>
+                  </category>
+                  <category xml:id="aliments">
+                     <catDesc>Aliments</catDesc>
+                  </category>
+                  <category xml:id="maladiesRemedes">
+                     <catDesc>Maladies,etc.; remèdes</catDesc>
+                  </category>
+               </category>
+               <!-- <category xml:id="geographie">
+                  <catDesc>Géographie</catDesc>
+                  <category xml:id="landFeatures">
+                     <catDesc>Land features</catDesc>
+                  </category>-->
+            </taxonomy>
+         </classDecl>
+         
+      </encodingDesc>
+      <profileDesc>
+         <settingDesc>
+            <listPlace>
+               <place>
+                  <placeName xml:id="l_amerique">l'Amérique</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_oceanien">l'Oceanian</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_europe">l'Europe</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_australie">l'Australie</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_france">la France</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_chine">la Chine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="etats_unis">les États-Unis</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_arabe">l'Arabe</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="fragicourt">Fragicourt</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="paris">Paris</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="bruxelles">Bruxelles</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="boston">Boston
+                  </placeName>
+               </place>
+               <place> 
+                  <placeName xml:id="l_avre">l'Avre
+                     <geogFeat>River</geogFeat>
+                  </placeName> 
+               </place>
+               <place>
+                  <placeName xml:id="la_moye">la Moye
+                     <geogFeat>River</geogFeat>
+                  </placeName>
+               </place>
+            </listPlace>
+         </settingDesc>
+      </profileDesc>
    </teiHeader>
    <text>
-
       <body>
          <!-- n is for maitresse edition, corresp is for student edition -->
          
