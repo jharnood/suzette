@@ -49,6 +49,7 @@
                </monogr>
             </biblStruct>
          </sourceDesc>
+         
       </fileDesc>
       <profileDesc>
          <langUsage>
@@ -113,56 +114,148 @@
          
          <classDecl>
             <taxonomy xml:id="sciences">
+               <category xml:id="composition">
+                  <catDesc>Composition</catDesc>
+                  <category xml:id="recits">
+                     <catDesc>Récits</catDesc>
+                  </category>
+                  <category xml:id="recitsHistoriques">
+                     <catDesc>Récits historiques</catDesc>
+                  </category>
+                  <category xml:id="descriptions">
+                     <catDesc>Descriptions</catDesc>
+                  </category>
+                  <category xml:id="sujetsMoraux">
+                     <catDesc>Sujets moraux ou d'imagination</catDesc>
+                  </category>
+                  <category xml:id="lettres">
+                     <catDesc>Lettres</catDesc>
+                  </category>
+               </category>
+               <category xml:id="histoire">
+                  <catDesc>Histoire</catDesc>
+                  <!--<category xml:id="histoireNaturelle">
+                     <catDesc>Histoire naturelle</catDesc>
+                  </category>
+                  <category xml:id="histoireTravail">
+                     <catDesc>Histoire du travail</catDesc>
+                  </category>-->
+               </category>
+               <category xml:id="geographie">
+                  <catDesc>Géographie</catDesc>
+                  <category xml:id="europe">
+                     <catDesc>Europe</catDesc>
+                  </category>
+                  <category xml:id="asie">
+                     <catDesc>Asie</catDesc>
+                  </category>
+                  <category xml:id="afrique">
+                     <catDesc>Afrique</catDesc>
+                  </category>
+                  <category xml:id="amerique">
+                     <catDesc>Amérique</catDesc>
+                  </category>
+                  <category xml:id="oceanie">
+                     <catDesc>Océanie</catDesc>
+                  </category>
+                  <category xml:id="france">
+                     <catDesc>France</catDesc>
+                  </category>
+                <!--  <category xml:id="topographie">
+                     <catDesc>Topographie</catDesc>
+                  </category>-->
+               </category>
                <category xml:id="scienceNat">
                   <catDesc>Science Naturelles</catDesc>
                   <category xml:id="mineraux">
                      <catDesc>Minéraux</catDesc>
                   </category>
-                  <category xml:id="vegetaux">
-                     <catDesc>Végétaux</catDesc>
-                     <category xml:id="arbreNoncultives">
-                        <catDesc>Arbres non cultivés</catDesc>
+                  <!--<category xml:id="botanique">
+                     <catDesc>Botanique</catDesc>-->
+                     <category xml:id="vegetaux">
+                        <catDesc>Végétaux</catDesc>
+                        <category xml:id="arbreNoncultives">
+                           <catDesc>Arbres non cultivés</catDesc>
+                        </category>
+                        <category xml:id="herbesPlantes">
+                           <catDesc>Herbes ou plantes sauvages</catDesc>
+                        </category>
+                        <category xml:id="arbreCultives">
+                           <catDesc>Arbres cultivés</catDesc>
+                        </category>
+                        <category xml:id="arbustes">
+                           <catDesc>Arbustes cultivés</catDesc>
+                        </category>
+                        <category xml:id="cereales">
+                           <catDesc>Céréales</catDesc>
+                        </category>
+                        <category xml:id="legumesRacines">
+                           <catDesc>Légumes, racines, etc.</catDesc>
+                        </category>
+                        <category xml:id="divers1"><!-- Avoid tagging with Divers - if necessary, create another sub-category -->
+                           <catDesc>Divers</catDesc>
+                        </category> 
                      </category>
-                     <category xml:id="herbesPlantes">
-                        <catDesc>Herbes ou plantes sauvages</catDesc>
+                     <!--<category xml:id="physiologieVegetale">
+                        <catDesc>Physiologie végétale</catDesc>
+                     </category>-->
+                  <!--</category>-->
+                 <!-- <category xml:id="zoologie">
+                     <catDesc>Zoologie</catDesc>-->
+                     <category xml:id="animaux">
+                        <catDesc>Animaux</catDesc>
+                        <category xml:id="homme">
+                           <catDesc>l'Homme</catDesc>
+                        </category>
+                        <category xml:id="animauxDomestiques">
+                           <catDesc>Animaux domestiques</catDesc>
+                        </category>
+                        <category xml:id="animauxSauvages">
+                           <catDesc>Animaux sauvages</catDesc>
+                        </category>
                      </category>
-                     <category xml:id="arbreCultives">
-                        <catDesc>Arbres cultivés</catDesc>
-                     </category>
-                     <category xml:id="arbustes">
-                        <catDesc>Arbustes cultivés</catDesc>
-                     </category>
-                     <category xml:id="cereales">
-                        <catDesc>Céréales</catDesc>
-                     </category>
-                     <category xml:id="legumesRacines">
-                        <catDesc>Légumes, racines, etc.</catDesc>
-                     </category>
-                     <category xml:id="divers1"><!-- Avoid tagging with Divers - if necessary, create another sub-category -->
-                        <catDesc>Divers</catDesc>
-                     </category>  
-                  </category>
-                  <category xml:id="animaux">
-                     <catDesc>Animaux</catDesc>
-                     <category xml:id="homme">
-                        <catDesc>l'Homme</catDesc>
-                     </category>
-                     <category xml:id="animauxDomestiques">
-                        <catDesc>Animaux domestiques</catDesc>
-                     </category>
-                     <category xml:id="animauxSauvages">
-                        <catDesc>Animaux sauvages</catDesc>
-                     </category>
-                  </category>
+                     <!--<category xml:id="physiologieAnimal">
+                        <catDesc>Physiologie animaux</catDesc>
+                     </category>-->
+                  <!--</category>-->
                   <!--<category xml:id="agriculture">
                      <catDesc>Agriculture</catDesc>
+                     <category xml:id="techniquesAgricoles">
+                        <catDesc>Techniques agricoles</catDesc>
+                     </category>
+                     <category xml:id="produits">
+                        <catDesc>Produits</catDesc>
+                     </category>
+                     <category xml:id="outilsMachines">
+                        <catDesc>Outils et machines</catDesc>
+                     </category>
+                     <category xml:id="recolte">
+                        <catDesc>Récolte</catDesc>
+                     </category>
+                     <category xml:id="elevageBetail">
+                        <catDesc>Élevage de bétail</catDesc>
+                     </category>
+                     <category xml:id="terrainAgricole">
+                        <catDesc>Terrain agricole</catDesc>
+                     </category>
+                     <category xml:id="apiculture">
+                        <catDesc>Apiculture</catDesc>
+                     </category>
                   </category>-->
                </category>
                <category xml:id="sciencesPhys">
                   <catDesc>Sciences physiques</catDesc>
-                  <!-- <category xml:id="elements">
-                     <catDesc>Elements</catDesc>-->
-                  <!--</category>-->
+                  <!--<category xml:id="elements">
+                     <catDesc>Éléments</catDesc>-\->
+                     <category xml:id="feu">
+                        <catDesc>Feu</catDesc>
+                     </category>
+                     <!-\-Could add categories for earth/wind/air-\->
+                  </category>
+                  <category xml:id="meterologie">
+                     <catDesc>Métérologie</catDesc>-\->
+                  </category>-->
+                  <!--Category for night/day cycles, seasons?-->
                </category>
                <category xml:id="industrie">
                   <catDesc>Industrie</catDesc>
@@ -175,6 +268,7 @@
                   <category xml:id="machinesAppareils">
                      <catDesc>Machines, appareils, ustensiles, vases</catDesc>
                   </category>
+                  <!--Can outils go under machinesAppareils-->
                   <category xml:id="outils">
                      <catDesc>Outils</catDesc>
                   </category>
@@ -187,6 +281,9 @@
                </category>
                <category xml:id="economieDomestique">
                   <catDesc>Économie Domestique</catDesc>
+                  <!--<category xml:id="tachesMenageres">
+                     <catDesc>Tâches ménagères</catDesc>
+                  </category>-->
                   <category xml:id="alimentsCuisine">
                      <catDesc>Aliments et cuisine</catDesc>
                   </category>
@@ -196,6 +293,7 @@
                   <category xml:id="basse-cour">
                      <catDesc>Basse-cour</catDesc>
                   </category>
+                  <!--Could basse-cour be combined with scienceNat/agriculture under elevageBetail?--> 
                </category>
                <category xml:id="hygiene">
                   <catDesc>Hygiène</catDesc>
@@ -212,11 +310,6 @@
                      <catDesc>Maladies,etc.; remèdes</catDesc>
                   </category>
                </category>
-               <!-- <category xml:id="geographie">
-                  <catDesc>Géographie</catDesc>
-                  <category xml:id="landFeatures">
-                     <catDesc>Land features</catDesc>
-                  </category>-->
             </taxonomy>
          </classDecl>
          
@@ -234,6 +327,9 @@
                   <placeName xml:id="l_europe">l'Europe</placeName>
                </place>
                <place>
+                  <placeName xml:id="l_afrique">l'Afrique</placeName>
+               </place>
+               <place>
                   <placeName xml:id="l_australie">l'Australie</placeName>
                </place>
                <place>
@@ -247,6 +343,9 @@
                </place>
                <place>
                   <placeName xml:id="l_arabe">l'Arabe</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
@@ -302,7 +401,7 @@
                      <pb type="page" n="143"/>   
                      <fw type="header"> VEILLONS AU GRAIN. 143 </fw>
          
-         vous qu'elle le livre contre <seg ana="#mineraux">des pierres</seg> ? Oui, elle doit <seg ana="#aliments">manger</seg>, et du bon, pour que nous-mêmes nous mangions du meilleur. </ab></sp>
+         vous qu'elle le livre contre <seg ana="#mineraux">des pierres</seg> ? Oui, elle doit manger, et du bon, pour que nous-mêmes nous mangions du meilleur. </ab></sp>
                   <p> A <persName ana="#francois">François</persName> et à <persName ana="charlot">Charlot</persName>, il dénonçait <seg ana="#vegetaux">le chiendent</seg>, <seg ana="#vegetaux">la camomille</seg>, <seg ana="#vegetaux">l'ortie</seg>, <seg ana="#vegetaux">le chardon</seg>, <seg ana="#vegetaux">la fumeterre</seg> comme de terribles ennemis : </p>
                   
                   <figure>
@@ -329,12 +428,12 @@
                         <caption> <hi rend="italic">Cabane à lapins.</hi> </caption>
                      </figure>       
                      
-                  <p> Ah ! s'il n'y avait que <seg ana="#herbesPlantes">des plantes ennemies</seg>, bien visibles et facilement <seg ana="#vegetaux">arrachables</seg> ! </p>
+                  <p> Ah ! s'il n'y avait que <seg ana="#vegetaux">des plantes ennemies</seg>, bien visibles et facilement <seg ana="#vegetaux">arrachables</seg> ! </p>
          
                      <pb type="page" n="144"/>   
                      <fw type="header"> 144 SUZETTE. </fw>
          
-                  <p> Mais un matin de jeudi que <persName ana="#charlot">Charlot</persName>, chargé de <seg ana="#scienceNat">la chasse</seg> aux lacerons pour le déjeuner de messieurs <seg ana="#animauxDomestiques">les lapins</seg>, s'asseyait sur son sac, à peu près plein, pour casser une croûte, il fut frappé d'un spectacle nouveau : </p>
+                  <p> Mais un matin de jeudi que <persName ana="#charlot">Charlot</persName>, chargé de <seg ana="#scienceNat">la chasse</seg> aux <seg ana="#vegetaux">lacerons</seg> pour le déjeuner de messieurs <seg ana="#animauxDomestiques">les lapins</seg>, s'asseyait sur son sac, à peu près plein, pour casser une croûte, il fut frappé d'un spectacle nouveau : </p>
                   <p> Un <seg ana="#scienceNat">des champs paternels</seg>, un grand <seg ana="#scienceNat">champ de betteraves</seg>, s'étendait à ses pieds. <seg ana="#legumesRacines">Les betteraves</seg> commençaient à <seg ana="#vegetaux">prendre tournure</seg>. <seg ana="#vegetaux">Les feuilles</seg> déjà grandes luisaient comme satin au <seg ana="#sciencesPhys">soleil</seg>. C'était riant au possible. </p>
                      
                      <figure> 

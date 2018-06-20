@@ -114,56 +114,148 @@
          
          <classDecl>
             <taxonomy xml:id="sciences">
+               <category xml:id="composition">
+                  <catDesc>Composition</catDesc>
+                  <category xml:id="recits">
+                     <catDesc>Récits</catDesc>
+                  </category>
+                  <category xml:id="recitsHistoriques">
+                     <catDesc>Récits historiques</catDesc>
+                  </category>
+                  <category xml:id="descriptions">
+                     <catDesc>Descriptions</catDesc>
+                  </category>
+                  <category xml:id="sujetsMoraux">
+                     <catDesc>Sujets moraux ou d'imagination</catDesc>
+                  </category>
+                  <category xml:id="lettres">
+                     <catDesc>Lettres</catDesc>
+                  </category>
+               </category>
+               <category xml:id="histoire">
+                  <catDesc>Histoire</catDesc>
+                  <!--<category xml:id="histoireNaturelle">
+                     <catDesc>Histoire naturelle</catDesc>
+                  </category>
+                  <category xml:id="histoireTravail">
+                     <catDesc>Histoire du travail</catDesc>
+                  </category>-->
+               </category>
+               <category xml:id="geographie">
+                  <catDesc>Géographie</catDesc>
+                  <category xml:id="europe">
+                     <catDesc>Europe</catDesc>
+                  </category>
+                  <category xml:id="asie">
+                     <catDesc>Asie</catDesc>
+                  </category>
+                  <category xml:id="afrique">
+                     <catDesc>Afrique</catDesc>
+                  </category>
+                  <category xml:id="amerique">
+                     <catDesc>Amérique</catDesc>
+                  </category>
+                  <category xml:id="oceanie">
+                     <catDesc>Océanie</catDesc>
+                  </category>
+                  <category xml:id="france">
+                     <catDesc>France</catDesc>
+                  </category>
+                <!--  <category xml:id="topographie">
+                     <catDesc>Topographie</catDesc>
+                  </category>-->
+               </category>
                <category xml:id="scienceNat">
                   <catDesc>Science Naturelles</catDesc>
                   <category xml:id="mineraux">
                      <catDesc>Minéraux</catDesc>
                   </category>
-                  <category xml:id="vegetaux">
-                     <catDesc>Végétaux</catDesc>
-                     <category xml:id="arbreNoncultives">
-                        <catDesc>Arbres non cultivés</catDesc>
+                  <!--<category xml:id="botanique">
+                     <catDesc>Botanique</catDesc>-->
+                     <category xml:id="vegetaux">
+                        <catDesc>Végétaux</catDesc>
+                        <category xml:id="arbreNoncultives">
+                           <catDesc>Arbres non cultivés</catDesc>
+                        </category>
+                        <category xml:id="herbesPlantes">
+                           <catDesc>Herbes ou plantes sauvages</catDesc>
+                        </category>
+                        <category xml:id="arbreCultives">
+                           <catDesc>Arbres cultivés</catDesc>
+                        </category>
+                        <category xml:id="arbustes">
+                           <catDesc>Arbustes cultivés</catDesc>
+                        </category>
+                        <category xml:id="cereales">
+                           <catDesc>Céréales</catDesc>
+                        </category>
+                        <category xml:id="legumesRacines">
+                           <catDesc>Légumes, racines, etc.</catDesc>
+                        </category>
+                        <category xml:id="divers1"><!-- Avoid tagging with Divers - if necessary, create another sub-category -->
+                           <catDesc>Divers</catDesc>
+                        </category> 
                      </category>
-                     <category xml:id="herbesPlantes">
-                        <catDesc>Herbes ou plantes sauvages</catDesc>
+                     <!--<category xml:id="physiologieVegetale">
+                        <catDesc>Physiologie végétale</catDesc>
+                     </category>-->
+                  <!--</category>-->
+                 <!-- <category xml:id="zoologie">
+                     <catDesc>Zoologie</catDesc>-->
+                     <category xml:id="animaux">
+                        <catDesc>Animaux</catDesc>
+                        <category xml:id="homme">
+                           <catDesc>l'Homme</catDesc>
+                        </category>
+                        <category xml:id="animauxDomestiques">
+                           <catDesc>Animaux domestiques</catDesc>
+                        </category>
+                        <category xml:id="animauxSauvages">
+                           <catDesc>Animaux sauvages</catDesc>
+                        </category>
                      </category>
-                     <category xml:id="arbreCultives">
-                        <catDesc>Arbres cultivés</catDesc>
-                     </category>
-                     <category xml:id="arbustes">
-                        <catDesc>Arbustes cultivés</catDesc>
-                     </category>
-                     <category xml:id="cereales">
-                        <catDesc>Céréales</catDesc>
-                     </category>
-                     <category xml:id="legumesRacines">
-                        <catDesc>Légumes, racines, etc.</catDesc>
-                     </category>
-                     <category xml:id="divers1"><!-- Avoid tagging with Divers - if necessary, create another sub-category -->
-                        <catDesc>Divers</catDesc>
-                     </category>  
-                  </category>
-                  <category xml:id="animaux">
-                     <catDesc>Animaux</catDesc>
-                     <category xml:id="homme">
-                        <catDesc>l'Homme</catDesc>
-                     </category>
-                     <category xml:id="animauxDomestiques">
-                        <catDesc>Animaux domestiques</catDesc>
-                     </category>
-                     <category xml:id="animauxSauvages">
-                        <catDesc>Animaux sauvages</catDesc>
-                     </category>
-                  </category>
+                     <!--<category xml:id="physiologieAnimal">
+                        <catDesc>Physiologie animaux</catDesc>
+                     </category>-->
+                  <!--</category>-->
                   <!--<category xml:id="agriculture">
                      <catDesc>Agriculture</catDesc>
+                     <category xml:id="techniquesAgricoles">
+                        <catDesc>Techniques agricoles</catDesc>
+                     </category>
+                     <category xml:id="produits">
+                        <catDesc>Produits</catDesc>
+                     </category>
+                     <category xml:id="outilsMachines">
+                        <catDesc>Outils et machines</catDesc>
+                     </category>
+                     <category xml:id="recolte">
+                        <catDesc>Récolte</catDesc>
+                     </category>
+                     <category xml:id="elevageBetail">
+                        <catDesc>Élevage de bétail</catDesc>
+                     </category>
+                     <category xml:id="terrainAgricole">
+                        <catDesc>Terrain agricole</catDesc>
+                     </category>
+                     <category xml:id="apiculture">
+                        <catDesc>Apiculture</catDesc>
+                     </category>
                   </category>-->
                </category>
                <category xml:id="sciencesPhys">
                   <catDesc>Sciences physiques</catDesc>
-                  <!-- <category xml:id="elements">
-                     <catDesc>Elements</catDesc>-->
-                  <!--</category>-->
+                  <!--<category xml:id="elements">
+                     <catDesc>Éléments</catDesc>-\->
+                     <category xml:id="feu">
+                        <catDesc>Feu</catDesc>
+                     </category>
+                     <!-\-Could add categories for earth/wind/air-\->
+                  </category>
+                  <category xml:id="meterologie">
+                     <catDesc>Métérologie</catDesc>-\->
+                  </category>-->
+                  <!--Category for night/day cycles, seasons?-->
                </category>
                <category xml:id="industrie">
                   <catDesc>Industrie</catDesc>
@@ -176,6 +268,7 @@
                   <category xml:id="machinesAppareils">
                      <catDesc>Machines, appareils, ustensiles, vases</catDesc>
                   </category>
+                  <!--Can outils go under machinesAppareils-->
                   <category xml:id="outils">
                      <catDesc>Outils</catDesc>
                   </category>
@@ -188,6 +281,9 @@
                </category>
                <category xml:id="economieDomestique">
                   <catDesc>Économie Domestique</catDesc>
+                  <!--<category xml:id="tachesMenageres">
+                     <catDesc>Tâches ménagères</catDesc>
+                  </category>-->
                   <category xml:id="alimentsCuisine">
                      <catDesc>Aliments et cuisine</catDesc>
                   </category>
@@ -197,6 +293,7 @@
                   <category xml:id="basse-cour">
                      <catDesc>Basse-cour</catDesc>
                   </category>
+                  <!--Could basse-cour be combined with scienceNat/agriculture under elevageBetail?--> 
                </category>
                <category xml:id="hygiene">
                   <catDesc>Hygiène</catDesc>
@@ -235,6 +332,9 @@
                   <placeName xml:id="l_europe">l'Europe</placeName>
                </place>
                <place>
+                  <placeName xml:id="l_afrique">l'Afrique</placeName>
+               </place>
+               <place>
                   <placeName xml:id="l_australie">l'Australie</placeName>
                </place>
                <place>
@@ -248,6 +348,9 @@
                </place>
                <place>
                   <placeName xml:id="l_arabe">l'Arabe</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
@@ -287,25 +390,25 @@
                   <pb type="page" n="393"/>
                   <head> 112. — Un stimulant. (Élève, p. 239.) </head>
 
-                  <p> En un court exposé, il fit l'historique du précieux <name type="nature">insecte</name>. Il montra <name type="history">l'homme d'autrefois</name> à <name type="history">la chasse des ruches sauvages</name> et de leurs <name type="history">rayons</name> à travers <name type="nature">les forêts</name>. C'est ainsi que font encore aujourd'hui <name type="geography"><name type="nature">les nègres</name> d'<placeName>Afrique</placeName></name>. Un fin petit <name type="nature">oiseau</name>, friand <name type="nature">de miel</name>, mais incapable de le <name type="nature">cueillir</name> par lui-même, les précède, leur indique <name type="nature">les creux d'arbres</name> où vivent <name type="nature">les abeilles</name> ; <name type="nature">les nègres</name>, dans leur langue l'appellent « <name type="nature">l'indicateur</name> ». Ils
+                  <p> En un court exposé, il fit l'historique du précieux <seg ana="#animauxSauvages">insecte</seg>. Il montra <!--<seg ana="#homme">l'homme d'autrefois</seg>--> à <seg ana="#scienceNat">la chasse des ruches sauvages</seg> et de leurs rayons à travers <seg ana="#arbreNoncultives">les forêts</seg>. C'est ainsi que font encore aujourd'hui les nègres d'<placeName ana="#l_afrique">Afrique</placeName>. Un fin petit <seg ana="#animauxSauvages">oiseau</seg>, friand de <!--<seg ana="#alimentsCuisine">miel</seg>-->, mais incapable de le <seg ana="#scienceNat">cueillir</seg> par lui-même, les précède, leur indique <seg ana="#vegetaux">les creux d'arbres</seg> où vivent <seg ana="#animauxSauvages">les abeilles</seg> ; les nègres, dans leur langue l'appellent « l'indicateur ». Ils
          
                   <pb type="page" n="394"/>   
                   <fw type="header"> 394 SUZETTE. </fw>
          
-         lui laissent un peu de <name type="nature">miel</name> en payement. <name type="nature">L'homme primitif</name> connaissait sans doute aussi ce petit <name type="nature">fureteur ailé</name>. </p>
-                  <p> Mais, une fois fixé sur <name type="nature">le sol</name>, où il fait <name type="agriculture">pousser</name> <name type="agriculture">les moissons</name>, <name type="agriculture">les arbres</name>, <name type="agriculture">les fleurs</name>, <name type="nature">l'homme</name> appelle <name type="nature">l'abeille</name> à <name type="nature">une picorée</name> facile. Et, en récompense, elle accepte d'<name type="nature">habiter</name> près de lui et de lui céder son superflu*<gloss>Le superflu. Ce qui n'est pas nécessaire à nos besoins.</gloss>. </p>
-                  <p> Et comment, à <time>l'heure de progrès</time> où nous sommes, ne pas songer à l'appeler de plus en plus, à la bien loger, à la traiter doucement, à lui <name type="agriculture">procurer</name> de vastes <name type="agriculture">espaces fleuris</name>, où elle puisse largement <name type="agriculture">cueillir</name> à son gré, exercer sa prodigieuse <name type="agriculture">faculté de travail</name> à notre avantage ? Ayons <name type="agriculture">une apiculture</name> savante et généreuse. Loin, loin, l'avarice comme l'ignorance ! </p>
+         lui laissent un peu de <!--<seg ana="#alimentsCuisine">miel</seg>--> en payement. <!--<seg ana="#homme">L'homme primitif</seg>--> connaissait sans doute aussi ce petit <seg ana="#animaux">fureteur ailé</seg>. </p>
+                  <p> Mais, une fois fixé sur <seg ana="#mineraux">le sol</seg>, où il fait <seg ana="#scienceNat">pousser</seg> <seg ana="#vegetaux">les moissons</seg>, <seg ana="#vegetaux">les arbres</seg>, <seg ana="#vegetaux">les fleurs</seg>, <seg ana="#homme">l'homme</seg> appelle <seg ana="#animauxSauvages">l'abeille</seg> à <seg ana="#animaux">une picorée</seg> facile. Et, en récompense, elle accepte d'<seg ana="#animaux">habiter</seg> près de lui et de lui céder son superflu*<gloss>Le superflu. Ce qui n'est pas nécessaire à nos besoins.</gloss>. </p>
+                  <p> Et comment, à <time>l'heure de progrès</time> où nous sommes, ne pas songer à l'appeler de plus en plus, à la bien loger, à la traiter doucement, à lui procurer de vastes <seg ana="#vegetaux">espaces fleuris</seg>, où elle puisse largement <seg ana="#scienceNat">cueillir</seg> à son gré, exercer sa prodigieuse faculté de travail à notre avantage ? Ayons <seg ana="#scienceNat">une apiculture</seg> savante et généreuse. Loin, loin, l'avarice comme l'ignorance ! </p>
                   <!--Is any of the above dialogue?-->
-                  <p> Il cita <placeName>le Canada</placeName>*<gloss>Canada. Région de l'Amérique du N.</gloss>, où, avec de la science et de la méthode, <name type="agriculture">une ruche</name> donne de trente à cinquante <name type="agriculture">kilos de miel</name>. </p>
+                  <p> Il cita <placeName ana="#la_canada">le Canada</placeName>*<gloss>Canada. Région de l'Amérique du N.</gloss>, où, avec de la science et de la méthode, <seg ana="#basse-cour">une ruche</seg> donne de trente à cinquante <seg ana="#matieresObjets">kilos de miel</seg>. </p>
                   <sp><speaker>Louis</speaker><ab> — Combien produit-elle chez nous ? </ab></sp> <stage> demanda <persName ana="#louis">Louis</persName>. </stage>
                   <p> <persName ana="#l_apiculteur">Le vieux monsieur</persName> mit un doigt devant sa bouche, et baissant la voix : </p>
-                  <sp><speaker>L'apiculteur</speaker><ab> — Je n'ose vous dire en quel <placeName>pays d'<placeName>Europe</placeName></placeName> <name type="agriculture">l'apiculture</name> est le plus négligée, le plus arriérée, le plus routinière, le moins rémunératrice... ni en quel autre elle est le plus pratiquée, savante et lucrative... non, en vérité, je n'ose pas vous le dire ! </ab></sp> <stage> — Son visage exprimait un sentiment douloureux : </stage> <sp><speaker>L'apiculteur</speaker><ab> — Sachez seulement que dans le premier <name type="agriculture">une ruche</name> donne à grand'peine de trois à quatre kilos. </ab></sp>
+                  <sp><speaker>L'apiculteur</speaker><ab> — Je n'ose vous dire en quel pays d'<placeName ana="#l_europe">Europe</placeName> <seg ana="#scienceNat">l'apiculture</seg> est le plus négligée, le plus arriérée, le plus routinière, le moins rémunératrice... ni en quel autre elle est le plus pratiquée, savante et lucrative... non, en vérité, je n'ose pas vous le dire ! </ab></sp> <stage> — Son visage exprimait un sentiment douloureux : </stage> <sp><speaker>L'apiculteur</speaker><ab> — Sachez seulement que dans le premier <seg ana="#basse-cour">une ruche</seg> donne à grand'peine de trois à quatre kilos. </ab></sp>
                   <p> On se taisait ; on avait compris. </p>
-                  <sp><speaker>L'apiculteur</speaker><ab> — Et voilà pourquoi, </ab></sp> <stage> reprit-il, </stage> <sp><speaker>L'apiculteur</speaker><ab> j'ai parlé un peu brusquement à <persName ana="#suzette">cette jeune <name type="agriculture">fermière</name></persName>. </ab></sp>
+                  <sp><speaker>L'apiculteur</speaker><ab> — Et voilà pourquoi, </ab></sp> <stage> reprit-il, </stage> <sp><speaker>L'apiculteur</speaker><ab> j'ai parlé un peu brusquement à <persName ana="#suzette">cette jeune <seg ana="#scienceNat">fermière</seg></persName>. </ab></sp>
                   <p> Il regardait <persName ana="#suzette">Suzette</persName>. </p>
-                  <sp><speaker>Suzette</speaker><ab> — Vous avez bien fait, <persName ana="#l_apiculteur">Monsieur</persName>, </ab></sp> <stage> répondit-elle tout émue ; </stage> <sp><speaker>Suzette</speaker><ab> il y aura bientôt <name type="agriculture">un rucher</name> à <placeName>Fragicourt</placeName> ! </ab></sp>
-                  <p> <persName ana="#l_apiculteur"><name type="agriculture">L'apiculteur</name></persName> lui tendit la main ; la leçon était finie. On se dispersa ; et <persName>nos cinq amis</persName> quittèrent <placeName><name type="agriculture">le Jardin d'acclimatation</name></placeName> en gens enchantés de n'y avoir pas perdu leur après-midi. </p>
-                  <p> C'était la dernière fête parisienne. Le lendemain, <persName ana="#suzette">Suzette</persName> retournait au <placeName>village</placeName>. </p> 
+                  <sp><speaker>Suzette</speaker><ab> — Vous avez bien fait, <persName ana="#l_apiculteur">Monsieur</persName>, </ab></sp> <stage> répondit-elle tout émue ; </stage> <sp><speaker>Suzette</speaker><ab> il y aura bientôt <seg ana="#basse-cour">un rucher</seg> à <placeName ana="#fragicourt">Fragicourt</placeName> ! </ab></sp>
+                  <p> <persName ana="#l_apiculteur"><seg ana="#scienceNat">L'apiculteur</seg></persName> lui tendit la main ; la leçon était finie. On se dispersa ; et <persName>nos cinq amis</persName> quittèrent <seg ana="#scienceNat">le Jardin d'acclimatation</seg> en gens enchantés de n'y avoir pas perdu leur après-midi. </p>
+                  <p> C'était la dernière fête parisienne. Le lendemain, <persName ana="#suzette">Suzette</persName> retournait au <placeName ana="#fragicourt">village</placeName>. </p> 
          
                   <pb type="page" n="395"/>   
                   <fw type="header"> UN STIMULANT. 395 </fw>

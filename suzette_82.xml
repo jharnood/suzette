@@ -49,6 +49,7 @@
                </monogr>
             </biblStruct>
          </sourceDesc>
+         
       </fileDesc>
       <profileDesc>
          <langUsage>
@@ -113,56 +114,148 @@
          
          <classDecl>
             <taxonomy xml:id="sciences">
+               <category xml:id="composition">
+                  <catDesc>Composition</catDesc>
+                  <category xml:id="recits">
+                     <catDesc>Récits</catDesc>
+                  </category>
+                  <category xml:id="recitsHistoriques">
+                     <catDesc>Récits historiques</catDesc>
+                  </category>
+                  <category xml:id="descriptions">
+                     <catDesc>Descriptions</catDesc>
+                  </category>
+                  <category xml:id="sujetsMoraux">
+                     <catDesc>Sujets moraux ou d'imagination</catDesc>
+                  </category>
+                  <category xml:id="lettres">
+                     <catDesc>Lettres</catDesc>
+                  </category>
+               </category>
+               <category xml:id="histoire">
+                  <catDesc>Histoire</catDesc>
+                  <!--<category xml:id="histoireNaturelle">
+                     <catDesc>Histoire naturelle</catDesc>
+                  </category>
+                  <category xml:id="histoireTravail">
+                     <catDesc>Histoire du travail</catDesc>
+                  </category>-->
+               </category>
+               <category xml:id="geographie">
+                  <catDesc>Géographie</catDesc>
+                  <category xml:id="europe">
+                     <catDesc>Europe</catDesc>
+                  </category>
+                  <category xml:id="asie">
+                     <catDesc>Asie</catDesc>
+                  </category>
+                  <category xml:id="afrique">
+                     <catDesc>Afrique</catDesc>
+                  </category>
+                  <category xml:id="amerique">
+                     <catDesc>Amérique</catDesc>
+                  </category>
+                  <category xml:id="oceanie">
+                     <catDesc>Océanie</catDesc>
+                  </category>
+                  <category xml:id="france">
+                     <catDesc>France</catDesc>
+                  </category>
+                <!--  <category xml:id="topographie">
+                     <catDesc>Topographie</catDesc>
+                  </category>-->
+               </category>
                <category xml:id="scienceNat">
                   <catDesc>Science Naturelles</catDesc>
                   <category xml:id="mineraux">
                      <catDesc>Minéraux</catDesc>
                   </category>
-                  <category xml:id="vegetaux">
-                     <catDesc>Végétaux</catDesc>
-                     <category xml:id="arbreNoncultives">
-                        <catDesc>Arbres non cultivés</catDesc>
+                  <!--<category xml:id="botanique">
+                     <catDesc>Botanique</catDesc>-->
+                     <category xml:id="vegetaux">
+                        <catDesc>Végétaux</catDesc>
+                        <category xml:id="arbreNoncultives">
+                           <catDesc>Arbres non cultivés</catDesc>
+                        </category>
+                        <category xml:id="herbesPlantes">
+                           <catDesc>Herbes ou plantes sauvages</catDesc>
+                        </category>
+                        <category xml:id="arbreCultives">
+                           <catDesc>Arbres cultivés</catDesc>
+                        </category>
+                        <category xml:id="arbustes">
+                           <catDesc>Arbustes cultivés</catDesc>
+                        </category>
+                        <category xml:id="cereales">
+                           <catDesc>Céréales</catDesc>
+                        </category>
+                        <category xml:id="legumesRacines">
+                           <catDesc>Légumes, racines, etc.</catDesc>
+                        </category>
+                        <category xml:id="divers1"><!-- Avoid tagging with Divers - if necessary, create another sub-category -->
+                           <catDesc>Divers</catDesc>
+                        </category> 
                      </category>
-                     <category xml:id="herbesPlantes">
-                        <catDesc>Herbes ou plantes sauvages</catDesc>
+                     <!--<category xml:id="physiologieVegetale">
+                        <catDesc>Physiologie végétale</catDesc>
+                     </category>-->
+                  <!--</category>-->
+                 <!-- <category xml:id="zoologie">
+                     <catDesc>Zoologie</catDesc>-->
+                     <category xml:id="animaux">
+                        <catDesc>Animaux</catDesc>
+                        <category xml:id="homme">
+                           <catDesc>l'Homme</catDesc>
+                        </category>
+                        <category xml:id="animauxDomestiques">
+                           <catDesc>Animaux domestiques</catDesc>
+                        </category>
+                        <category xml:id="animauxSauvages">
+                           <catDesc>Animaux sauvages</catDesc>
+                        </category>
                      </category>
-                     <category xml:id="arbreCultives">
-                        <catDesc>Arbres cultivés</catDesc>
-                     </category>
-                     <category xml:id="arbustes">
-                        <catDesc>Arbustes cultivés</catDesc>
-                     </category>
-                     <category xml:id="cereales">
-                        <catDesc>Céréales</catDesc>
-                     </category>
-                     <category xml:id="legumesRacines">
-                        <catDesc>Légumes, racines, etc.</catDesc>
-                     </category>
-                     <category xml:id="divers1"><!-- Avoid tagging with Divers - if necessary, create another sub-category -->
-                        <catDesc>Divers</catDesc>
-                     </category>  
-                  </category>
-                  <category xml:id="animaux">
-                     <catDesc>Animaux</catDesc>
-                     <category xml:id="homme">
-                        <catDesc>l'Homme</catDesc>
-                     </category>
-                     <category xml:id="animauxDomestiques">
-                        <catDesc>Animaux domestiques</catDesc>
-                     </category>
-                     <category xml:id="animauxSauvages">
-                        <catDesc>Animaux sauvages</catDesc>
-                     </category>
-                  </category>
+                     <!--<category xml:id="physiologieAnimal">
+                        <catDesc>Physiologie animaux</catDesc>
+                     </category>-->
+                  <!--</category>-->
                   <!--<category xml:id="agriculture">
                      <catDesc>Agriculture</catDesc>
+                     <category xml:id="techniquesAgricoles">
+                        <catDesc>Techniques agricoles</catDesc>
+                     </category>
+                     <category xml:id="produits">
+                        <catDesc>Produits</catDesc>
+                     </category>
+                     <category xml:id="outilsMachines">
+                        <catDesc>Outils et machines</catDesc>
+                     </category>
+                     <category xml:id="recolte">
+                        <catDesc>Récolte</catDesc>
+                     </category>
+                     <category xml:id="elevageBetail">
+                        <catDesc>Élevage de bétail</catDesc>
+                     </category>
+                     <category xml:id="terrainAgricole">
+                        <catDesc>Terrain agricole</catDesc>
+                     </category>
+                     <category xml:id="apiculture">
+                        <catDesc>Apiculture</catDesc>
+                     </category>
                   </category>-->
                </category>
                <category xml:id="sciencesPhys">
                   <catDesc>Sciences physiques</catDesc>
-                  <!-- <category xml:id="elements">
-                     <catDesc>Elements</catDesc>-->
-                  <!--</category>-->
+                  <!--<category xml:id="elements">
+                     <catDesc>Éléments</catDesc>-\->
+                     <category xml:id="feu">
+                        <catDesc>Feu</catDesc>
+                     </category>
+                     <!-\-Could add categories for earth/wind/air-\->
+                  </category>
+                  <category xml:id="meterologie">
+                     <catDesc>Métérologie</catDesc>-\->
+                  </category>-->
+                  <!--Category for night/day cycles, seasons?-->
                </category>
                <category xml:id="industrie">
                   <catDesc>Industrie</catDesc>
@@ -175,6 +268,7 @@
                   <category xml:id="machinesAppareils">
                      <catDesc>Machines, appareils, ustensiles, vases</catDesc>
                   </category>
+                  <!--Can outils go under machinesAppareils-->
                   <category xml:id="outils">
                      <catDesc>Outils</catDesc>
                   </category>
@@ -187,6 +281,9 @@
                </category>
                <category xml:id="economieDomestique">
                   <catDesc>Économie Domestique</catDesc>
+                  <!--<category xml:id="tachesMenageres">
+                     <catDesc>Tâches ménagères</catDesc>
+                  </category>-->
                   <category xml:id="alimentsCuisine">
                      <catDesc>Aliments et cuisine</catDesc>
                   </category>
@@ -196,6 +293,7 @@
                   <category xml:id="basse-cour">
                      <catDesc>Basse-cour</catDesc>
                   </category>
+                  <!--Could basse-cour be combined with scienceNat/agriculture under elevageBetail?--> 
                </category>
                <category xml:id="hygiene">
                   <catDesc>Hygiène</catDesc>
@@ -212,11 +310,6 @@
                      <catDesc>Maladies,etc.; remèdes</catDesc>
                   </category>
                </category>
-               <!-- <category xml:id="geographie">
-                  <catDesc>Géographie</catDesc>
-                  <category xml:id="landFeatures">
-                     <catDesc>Land features</catDesc>
-                  </category>-->
             </taxonomy>
          </classDecl>
          
@@ -234,6 +327,9 @@
                   <placeName xml:id="l_europe">l'Europe</placeName>
                </place>
                <place>
+                  <placeName xml:id="l_afrique">l'Afrique</placeName>
+               </place>
+               <place>
                   <placeName xml:id="l_australie">l'Australie</placeName>
                </place>
                <place>
@@ -247,6 +343,9 @@
                </place>
                <place>
                   <placeName xml:id="l_arabe">l'Arabe</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
@@ -286,7 +385,7 @@
                   <pb type="page" n="283"/>
                   <head>82. — Pierre, bronze, fer. (Élève, p. 172.)</head>
           
-                  <p> Là, dans <seg ana="#matieresObjets">des vitrines</seg>, se voyaient <seg ana="#machinesAppareils">des couteaux</seg>, <seg ana="#machinesAppareils">des haches de silex</seg>*<gloss>Silex. Pierre très dure, à demi transparente, qui donne du feu sous le briquet.</gloss> ; plus loin, <seg ana="#machinesAppareils">des hameçons</seg>, <seg ana="#machinesAppareils">des épingles</seg>, <seg ana="#machinesAppareils">des ornements en <seg ana="#matieresObjets">bronze</seg></seg>, et plus loin encore, les mêmes objets, mais en <seg ana="#mineraux">fer</seg>, <seg ana="#machinesAppareils">un outillage</seg> perfectionné de <seg ana="#machinesAppareils">couteaux</seg>, de <seg ana="#machinesAppareils">scies</seg>, de <seg ana="#machinesAppareils">marteaux</seg>, et surtout de <seg ana="#machinesAppareils">haches</seg>, <seg ana="#machinesAppareils">massues</seg>, <seg ana="#machinesAppareils">épées</seg>, <seg ana="#machinesAppareils">javelots</seg>. </p>
+                  <p> Là, dans <seg ana="#matieresObjets">des vitrines</seg>, se voyaient <seg ana="#machinesAppareils">des couteaux</seg>, <seg ana="#machinesAppareils">des haches de <seg ana="#mineraux">silex</seg></seg>*<gloss>Silex. Pierre très dure, à demi transparente, qui donne du feu sous le briquet.</gloss> ; plus loin, <seg ana="#machinesAppareils">des hameçons</seg>, <seg ana="#machinesAppareils">des épingles</seg>, <seg ana="#machinesAppareils">des ornements en <seg ana="#matieresObjets">bronze</seg></seg>, et plus loin encore, les mêmes objets, mais en <seg ana="#mineraux">fer</seg>, <seg ana="#machinesAppareils">un outillage</seg> perfectionné de <seg ana="#machinesAppareils">couteaux</seg>, de <seg ana="#machinesAppareils">scies</seg>, de <seg ana="#machinesAppareils">marteaux</seg>, et surtout de <seg ana="#machinesAppareils">haches</seg>, <seg ana="#machinesAppareils">massues</seg>, <seg ana="#machinesAppareils">épées</seg>, <seg ana="#machinesAppareils">javelots</seg>. </p>
                   
                   <figure>
                      <caption> Outils et instruments de l’âge de pierre. </caption>
@@ -296,16 +395,16 @@
                      <caption> Outils et instruments de l'âge de bronze. </caption>
                   </figure>
                   
-                  <p> Ces grossiers <seg ana="#machinesAppareils">outils de <seg ana="#mineraux">silex</seg></seg> étaient les premières <seg ana="#machinesAppareils">inventions</seg> de <!--<seg ana="#homme">l’homme</seg>--> pour remplacer <!--<name type="history">le travail de ses ongles et de ses dents</name>-->, qu’il usait auparavant et cassait sur <seg ana="#matieresObjets">la matière</seg> dure à vaincre. </p>
-                  <p> <time>Après des siècles</time>, il conquit <seg ana="#matieresObjets">le bronze</seg>, et puis <seg ana="#mineraux">le fer</seg>. Mais alors ce furent surtout <seg ana="#machinesAppareils">des armes</seg> qu'il fabriqua, et non seulement contre <!--<name type="history">la bête féroce</name>-->, mais aussi contre son semblable. </p>
-                  <p> Depuis, l’humanité a développé dans son cœur et son intelligence les grandes idées de bonté, de solidarité*<gloss>Solidarité. La responsabilité mutuelle qui s'établit entre plusieurs personnes.</gloss>. Et elle n'en continue pas moins de <seg ana="#industrie">fabriquer</seg> de ces <name type="industry">armes</name> par lesquelles on se détruit. Les vieilles rancunes, les méfiances, les haines de race*<gloss>Haine de race. Haine qui se perpétue entre un peuple et un autre.</gloss>, les superstitions la tiennent encore, hélas ! et l’affolent. </p>
-                  <sp><speaker>Louis</speaker><ab> — Il y a là-bas, </ab></sp> <stage> dit <persName ana="#louis">Louis</persName>, </stage> <sp><speaker>Louis</speaker><ab> <seg ana="#machinesAppareils">un canon</seg> prodigieux, le premier du monde en force de destruction, et que bien des gens admirent. </ab></sp>
+                  <p> Ces grossiers <seg ana="#machinesAppareils">outils de <seg ana="#mineraux">silex</seg></seg> étaient les premières <seg ana="#machinesAppareils">inventions</seg> de <!--<seg ana="#homme">l’homme</seg>--> pour remplacer <!--<seg ana="#industrie">le travail de ses ongles et de ses dents</seg>-->, qu’il usait auparavant et cassait sur <seg ana="#matieresObjets">la matière dure à vaincre</seg>. </p>
+                  <p> <time>Après des siècles</time>, il conquit <seg ana="#matieresObjets">le bronze</seg>, et puis <seg ana="#mineraux">le fer</seg>. Mais alors ce furent surtout <seg ana="#machinesAppareils">des armes</seg> qu'il fabriqua, et non seulement contre <!--<seg ana="animaux">la bête féroce</seg>-->, mais aussi contre son semblable. </p>
+                  <p> Depuis, l’humanité a développé dans son cœur et son intelligence les grandes idées de bonté, de solidarité*<gloss>Solidarité. La responsabilité mutuelle qui s'établit entre plusieurs personnes.</gloss>. Et elle n'en continue pas moins de <seg ana="#industrie">fabriquer</seg> de ces <seg ana="#machinesAppareils">armes</seg> par lesquelles on se détruit. Les vieilles rancunes, les méfiances, les haines de race*<gloss>Haine de race. Haine qui se perpétue entre un peuple et un autre.</gloss>, les superstitions la tiennent encore, hélas ! et l’affolent. </p>
+                  <sp><speaker>Louis</speaker><ab> — Il y a là-bas, </ab></sp> <stage> dit <persName ana="#louis">Louis</persName>, </stage> <sp><speaker>Louis</speaker><ab> <seg ana="#machinesAppareils">un canon</seg> prodigieux, le premier du monde en <seg ana="#machinesAppareils">force de destruction</seg>, et que bien des gens admirent. </ab></sp>
                   <p> Cependant, à côté <seg ana="#machinesAppareils">des historiques engins*<gloss>Engin. Machine dont on se sert à la guerre.</gloss> de mort</seg>,
           
                      <pb type="page" n="284"/>   
                      <fw type="header"> 284 SUZETTE. </fw>
         
-        apparaissaient des recherches plus douces : <seg ana="#machinesAppareils">des agrafes</seg>, <seg ana="#machinesAppareils">des boucles</seg>, <seg ana="#machinesAppareils">des ornements</seg>. Un peu plus loin, les essais des premières <seg ana="#machinesAppareils">poteries d'<seg ana="#mineraux">argile</seg></seg>, assez mal tournées. Mais, peu à peu, venaient s'y ajouter <seg ana="#etoffesHabillement">des ébauches de décoration</seg>, un souci de la couleur et de la forme, enfin atteintes en <placeName ana="#la_france">France</placeName>, <time>au seizième siècle</time>, dans un glorieux <seg ana="#machinesAppareils">vase de faïence</seg> émaillée de <seg ana="#machinesAppareils"><persName>Bernard Palissy</persName></seg>. </p>
+        apparaissaient des recherches plus douces : <seg ana="#machinesAppareils">des agrafes</seg>, <seg ana="#machinesAppareils">des boucles</seg>, <seg ana="#machinesAppareils">des ornements</seg>. Un peu plus loin, les essais des premières <seg ana="#machinesAppareils">poteries d'<seg ana="#mineraux">argile</seg></seg>, assez mal tournées. Mais, peu à peu, venaient s'y ajouter <seg ana="#etoffesHabillement">des ébauches de décoration</seg>, un souci de la couleur et de la forme, enfin atteintes en <placeName ana="#la_france">France</placeName>, <time>au seizième siècle</time>, dans un glorieux <seg ana="#machinesAppareils">vase de faïence</seg> émaillée de <seg ana="#machinesAppareils"><!--<persName>Bernard Palissy</persName>--></seg>. </p>
                   
                   <figure> 
                      <caption> Les <hi rend="italic">L'art céramique.</hi>
@@ -314,7 +413,7 @@
                      </caption>
                   </figure>
                   
-                  <sp><speaker>Jacques</speaker><ab> A la sortie de cette galerie, on descendit ; on traversa <seg ana="#scienceNat">le jardin</seg> pour aller directement à celle <seg ana="#machinesAppareils">des machines</seg>, la suite, </ab></sp> <stage> dit <persName ana="#jacques">Jacques</persName>, </stage> <sp><speaker>Jacques</speaker><ab> de « <!--<name type="industry">l'histoire du travail</name>--> ». </ab></sp> <!--Is this actually dialogue said by Jacques; no "-" to indicate dialogue and he also is not otherwise present in the chapters surrounding this?-->
+                  <sp><speaker>Jacques</speaker><ab> A la sortie de cette galerie, on descendit ; on traversa <seg ana="#scienceNat">le jardin</seg> pour aller directement à celle <seg ana="#machinesAppareils">des machines</seg>, la suite, </ab></sp> <stage> dit <persName ana="#jacques">Jacques</persName>, </stage> <sp><speaker>Jacques</speaker><ab> de « <!--<seg ana="#industrie">l'histoire du travail</seg>--> ». </ab></sp> <!--Is this actually dialogue said by Jacques; no "-" to indicate dialogue and he also is not otherwise present in the chapters surrounding this?-->
                   
                   <div type="questionnaire">
                      <ab>

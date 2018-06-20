@@ -49,8 +49,8 @@
                </monogr>
             </biblStruct>
          </sourceDesc>
+         
       </fileDesc>
-      
       <profileDesc>
          <langUsage>
             <language ident="fra">French</language>
@@ -114,56 +114,148 @@
          
          <classDecl>
             <taxonomy xml:id="sciences">
+               <category xml:id="composition">
+                  <catDesc>Composition</catDesc>
+                  <category xml:id="recits">
+                     <catDesc>Récits</catDesc>
+                  </category>
+                  <category xml:id="recitsHistoriques">
+                     <catDesc>Récits historiques</catDesc>
+                  </category>
+                  <category xml:id="descriptions">
+                     <catDesc>Descriptions</catDesc>
+                  </category>
+                  <category xml:id="sujetsMoraux">
+                     <catDesc>Sujets moraux ou d'imagination</catDesc>
+                  </category>
+                  <category xml:id="lettres">
+                     <catDesc>Lettres</catDesc>
+                  </category>
+               </category>
+               <category xml:id="histoire">
+                  <catDesc>Histoire</catDesc>
+                  <!--<category xml:id="histoireNaturelle">
+                     <catDesc>Histoire naturelle</catDesc>
+                  </category>
+                  <category xml:id="histoireTravail">
+                     <catDesc>Histoire du travail</catDesc>
+                  </category>-->
+               </category>
+               <category xml:id="geographie">
+                  <catDesc>Géographie</catDesc>
+                  <category xml:id="europe">
+                     <catDesc>Europe</catDesc>
+                  </category>
+                  <category xml:id="asie">
+                     <catDesc>Asie</catDesc>
+                  </category>
+                  <category xml:id="afrique">
+                     <catDesc>Afrique</catDesc>
+                  </category>
+                  <category xml:id="amerique">
+                     <catDesc>Amérique</catDesc>
+                  </category>
+                  <category xml:id="oceanie">
+                     <catDesc>Océanie</catDesc>
+                  </category>
+                  <category xml:id="france">
+                     <catDesc>France</catDesc>
+                  </category>
+                <!--  <category xml:id="topographie">
+                     <catDesc>Topographie</catDesc>
+                  </category>-->
+               </category>
                <category xml:id="scienceNat">
                   <catDesc>Science Naturelles</catDesc>
                   <category xml:id="mineraux">
                      <catDesc>Minéraux</catDesc>
                   </category>
-                  <category xml:id="vegetaux">
-                     <catDesc>Végétaux</catDesc>
-                     <category xml:id="arbreNoncultives">
-                        <catDesc>Arbres non cultivés</catDesc>
+                  <!--<category xml:id="botanique">
+                     <catDesc>Botanique</catDesc>-->
+                     <category xml:id="vegetaux">
+                        <catDesc>Végétaux</catDesc>
+                        <category xml:id="arbreNoncultives">
+                           <catDesc>Arbres non cultivés</catDesc>
+                        </category>
+                        <category xml:id="herbesPlantes">
+                           <catDesc>Herbes ou plantes sauvages</catDesc>
+                        </category>
+                        <category xml:id="arbreCultives">
+                           <catDesc>Arbres cultivés</catDesc>
+                        </category>
+                        <category xml:id="arbustes">
+                           <catDesc>Arbustes cultivés</catDesc>
+                        </category>
+                        <category xml:id="cereales">
+                           <catDesc>Céréales</catDesc>
+                        </category>
+                        <category xml:id="legumesRacines">
+                           <catDesc>Légumes, racines, etc.</catDesc>
+                        </category>
+                        <category xml:id="divers1"><!-- Avoid tagging with Divers - if necessary, create another sub-category -->
+                           <catDesc>Divers</catDesc>
+                        </category> 
                      </category>
-                     <category xml:id="herbesPlantes">
-                        <catDesc>Herbes ou plantes sauvages</catDesc>
+                     <!--<category xml:id="physiologieVegetale">
+                        <catDesc>Physiologie végétale</catDesc>
+                     </category>-->
+                  <!--</category>-->
+                 <!-- <category xml:id="zoologie">
+                     <catDesc>Zoologie</catDesc>-->
+                     <category xml:id="animaux">
+                        <catDesc>Animaux</catDesc>
+                        <category xml:id="homme">
+                           <catDesc>l'Homme</catDesc>
+                        </category>
+                        <category xml:id="animauxDomestiques">
+                           <catDesc>Animaux domestiques</catDesc>
+                        </category>
+                        <category xml:id="animauxSauvages">
+                           <catDesc>Animaux sauvages</catDesc>
+                        </category>
                      </category>
-                     <category xml:id="arbreCultives">
-                        <catDesc>Arbres cultivés</catDesc>
-                     </category>
-                     <category xml:id="arbustes">
-                        <catDesc>Arbustes cultivés</catDesc>
-                     </category>
-                     <category xml:id="cereales">
-                        <catDesc>Céréales</catDesc>
-                     </category>
-                     <category xml:id="legumesRacines">
-                        <catDesc>Légumes, racines, etc.</catDesc>
-                     </category>
-                     <category xml:id="divers1"><!-- Avoid tagging with Divers - if necessary, create another sub-category -->
-                        <catDesc>Divers</catDesc>
-                     </category>  
-                  </category>
-                  <category xml:id="animaux">
-                     <catDesc>Animaux</catDesc>
-                     <category xml:id="homme">
-                        <catDesc>l'Homme</catDesc>
-                     </category>
-                     <category xml:id="animauxDomestiques">
-                        <catDesc>Animaux domestiques</catDesc>
-                     </category>
-                     <category xml:id="animauxSauvages">
-                        <catDesc>Animaux sauvages</catDesc>
-                     </category>
-                  </category>
+                     <!--<category xml:id="physiologieAnimal">
+                        <catDesc>Physiologie animaux</catDesc>
+                     </category>-->
+                  <!--</category>-->
                   <!--<category xml:id="agriculture">
                      <catDesc>Agriculture</catDesc>
+                     <category xml:id="techniquesAgricoles">
+                        <catDesc>Techniques agricoles</catDesc>
+                     </category>
+                     <category xml:id="produits">
+                        <catDesc>Produits</catDesc>
+                     </category>
+                     <category xml:id="outilsMachines">
+                        <catDesc>Outils et machines</catDesc>
+                     </category>
+                     <category xml:id="recolte">
+                        <catDesc>Récolte</catDesc>
+                     </category>
+                     <category xml:id="elevageBetail">
+                        <catDesc>Élevage de bétail</catDesc>
+                     </category>
+                     <category xml:id="terrainAgricole">
+                        <catDesc>Terrain agricole</catDesc>
+                     </category>
+                     <category xml:id="apiculture">
+                        <catDesc>Apiculture</catDesc>
+                     </category>
                   </category>-->
                </category>
                <category xml:id="sciencesPhys">
                   <catDesc>Sciences physiques</catDesc>
-                  <!-- <category xml:id="elements">
-                     <catDesc>Elements</catDesc>-->
-                  <!--</category>-->
+                  <!--<category xml:id="elements">
+                     <catDesc>Éléments</catDesc>-\->
+                     <category xml:id="feu">
+                        <catDesc>Feu</catDesc>
+                     </category>
+                     <!-\-Could add categories for earth/wind/air-\->
+                  </category>
+                  <category xml:id="meterologie">
+                     <catDesc>Métérologie</catDesc>-\->
+                  </category>-->
+                  <!--Category for night/day cycles, seasons?-->
                </category>
                <category xml:id="industrie">
                   <catDesc>Industrie</catDesc>
@@ -176,6 +268,7 @@
                   <category xml:id="machinesAppareils">
                      <catDesc>Machines, appareils, ustensiles, vases</catDesc>
                   </category>
+                  <!--Can outils go under machinesAppareils-->
                   <category xml:id="outils">
                      <catDesc>Outils</catDesc>
                   </category>
@@ -188,6 +281,9 @@
                </category>
                <category xml:id="economieDomestique">
                   <catDesc>Économie Domestique</catDesc>
+                  <!--<category xml:id="tachesMenageres">
+                     <catDesc>Tâches ménagères</catDesc>
+                  </category>-->
                   <category xml:id="alimentsCuisine">
                      <catDesc>Aliments et cuisine</catDesc>
                   </category>
@@ -197,6 +293,7 @@
                   <category xml:id="basse-cour">
                      <catDesc>Basse-cour</catDesc>
                   </category>
+                  <!--Could basse-cour be combined with scienceNat/agriculture under elevageBetail?--> 
                </category>
                <category xml:id="hygiene">
                   <catDesc>Hygiène</catDesc>
@@ -213,11 +310,6 @@
                      <catDesc>Maladies,etc.; remèdes</catDesc>
                   </category>
                </category>
-               <!-- <category xml:id="geographie">
-                  <catDesc>Géographie</catDesc>
-                  <category xml:id="landFeatures">
-                     <catDesc>Land features</catDesc>
-                  </category>-->
             </taxonomy>
          </classDecl>
          
@@ -235,6 +327,9 @@
                   <placeName xml:id="l_europe">l'Europe</placeName>
                </place>
                <place>
+                  <placeName xml:id="l_afrique">l'Afrique</placeName>
+               </place>
+               <place>
                   <placeName xml:id="l_australie">l'Australie</placeName>
                </place>
                <place>
@@ -248,6 +343,9 @@
                </place>
                <place>
                   <placeName xml:id="l_arabe">l'Arabe</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
@@ -303,10 +401,10 @@
                   <p> « Cent vingt hectares, voilà mon domaine maintenant. </p>
                   <p> « Quel grand propriétaire je fais, n'est-ce pas ? Il est vrai que je partage avec de nombreux camarades. </p>
                   <p> « Et <seg ana="#scienceNat">le travail des champs</seg> marche ici avec celui de l'esprit ; l'histoire, <seg ana="#sciencesPhys">la chimie</seg>*<gloss>Chimie. Science qui étudie ce qui peut changer l'état des corps et les applications utiles qui en résultent.</gloss>, <seg ana="#sciencesPhys">la physique</seg>*<gloss>Physique. Science qui étudie les propriétés des corps matériels sans les décomposer, comme on le fait en chimie.</gloss>, <seg ana="#scienceNat">l'horticulture</seg>, <seg ana="#scienceNat">l'arboriculture</seg>, nous occupent une partie du jour. </p>
-                  <p> « Des professeurs et <seg ana="#machinesAppareils">un laboratoire</seg>*<gloss>Laboratoire. Local disposé pour faire les expériences de physique et de chimie.</gloss> ! rien ne nous, manque. Aux vacances, vous verrez comme on <seg ana="#scienceNat">taillera</seg>, <seg ana="#scienceNat">greffera</seg>*<gloss>Greffer. Fixer, dans la fente d'une tige d'arbre, une petite branche que l'on coupe sur un arbre de meilleure espèce.</gloss> ! Et quels beaux <seg ana="#scienceNat">fruits</seg> mangeront ceux qui les aiment, par exemple, <persName ana="#suzette">une jeune <seg ana="#scienceNat">fermière</seg></persName> de ma connaissance qu'on appelle <persName ana="#suzette">Suzette</persName> ! </p>
-                  <p> « <seg ana="#sciencesPhys">La chimie agricole</seg> surtout me passionne. Quelle ressource pour <seg ana="#scienceNat">l'agronome</seg>*<gloss>Agronome. Celui qui s'occupe de perfectionner l'agriculture.</gloss> ! <seg ana="#sciencesPhys">La chimie</seg> vous analyse*<!--Analyse has an asterisk but no definitin in the lexique--> <seg ana="#herbesPlantes">une plante</seg>, en montre un à un <seg ana="#sciencesPhys">les éléments</seg>*<gloss>Éléments. Les parties, les substances dont un corps est composé.</gloss> : tant d'<seg ana="#sciencesPhys">azote</seg>*<gloss>Azote. L'un des deux gaz qui forment l'air; il ne peut entretenir la combustion.</gloss>, tant de <seg ana="#mineraux">carbone</seg>*<gloss>Carbone. Corps qui, à l'état de pureté, est le diamant, et qui constitue la base du bois et du charbon.</gloss>, tant de <seg ana="#mineraux">soufre</seg>, <seg ana="#sciencesPhys">d'oxygène*</seg><gloss>Oxygène. Celui des deux gaz de l'air qui peut entretenir la combustion.</gloss>, d'<seg ana="#sciencesPhys">hydrogène</seg>*<gloss>Hydrogène. Gaz 14 fois et demie plus léger que l'air.</gloss>, etc. ; et <seg ana="#scienceNat">le cultivateur</seg> ayant appris tout cela, sait encore que <seg ana="#scienceNat">les plantes</seg> <seg ana="#scienceNat">puisent</seg> ces <seg ana="#scienceNat">éléments</seg> pour la plus grande partie dans <seg ana="#mineraux">le sol</seg> par leurs <seg ana="#vegetaux">racines</seg> et \<seg ana="#vegetaux">radicelles</seg>*<gloss>Radicelles. Petites ramifications d'une racine.</gloss>. Il lui devient alors aisé de donner, par <seg ana="#vegetaux">des engrais</seg> appropriés, à chacune <seg ana="#alimentsCuisine">la nourriture</seg> qui lui convient, et de la rendre ainsi belle et vigoureuse. </p>
-                  <p> « A étudier et à <seg ana="#vegetaux">bêcher</seg> tour à tour, je me porte comme un charme*<gloss>Charme. Parfaitement bien.</gloss>. Un professeur nous disait hier que les hommes devraient à peu près tous pouvoir partager ainsi leur journée entre <seg ana="#vegetaux">le travail des mains</seg> et celui de l'esprit. Ils s'en porteraient mieux intellectuellement, et peut-être en viendront-ils là dans l'avenir. </p>
-                  <p> « J'ai fait ici la connaissance d'un homme que vous aimeriez beaucoup, <persName ana="#papa">cher père</persName> : c'est <persName><seg ana="#scienceNat">Olivier de Serres</seg></persName>*<gloss>Olivier de Serres. Grand agronome contemporain de Henri IV.</gloss>. Sa pensée vit, encore, quoiqu'il soit mort depuis à peu près trois cents ans. On l'appelle <persName>le père de <seg ana="#scienceNat">l'agriculture</seg></persName>. Il créa <seg ana="#scienceNat">l'agronomie</seg>, il aima <seg ana="#vegetaux">les champs</seg>, et, par grand désir d'être utile aux hommes, écrivit des livres
+                  <p> « Des professeurs et <seg ana="#machinesAppareils">un laboratoire</seg>*<gloss>Laboratoire. Local disposé pour faire les expériences de physique et de chimie.</gloss> ! rien ne nous, manque. Aux vacances, vous verrez comme on <seg ana="#scienceNat">taillera</seg>, <seg ana="#scienceNat">greffera</seg>*<gloss>Greffer. Fixer, dans la fente d'une tige d'arbre, une petite branche que l'on coupe sur un arbre de meilleure espèce.</gloss> ! Et quels beaux <seg ana="#vegetaux">fruits</seg> mangeront ceux qui les aiment, par exemple, <persName ana="#suzette">une jeune <seg ana="#scienceNat">fermière</seg></persName> de ma connaissance qu'on appelle <persName ana="#suzette">Suzette</persName> ! </p>
+                  <p> « <seg ana="#sciencesPhys">La chimie agricole</seg> surtout me passionne. Quelle ressource pour <seg ana="#scienceNat">l'agronome</seg>*<gloss>Agronome. Celui qui s'occupe de perfectionner l'agriculture.</gloss> ! <seg ana="#sciencesPhys">La chimie</seg> vous analyse*<!--Analyse has an asterisk but no definitin in the lexique--> <seg ana="#vegetaux">une plante</seg>, en montre un à un <seg ana="#sciencesPhys">les éléments</seg>*<gloss>Éléments. Les parties, les substances dont un corps est composé.</gloss> : tant d'<seg ana="#sciencesPhys">azote</seg>*<gloss>Azote. L'un des deux gaz qui forment l'air; il ne peut entretenir la combustion.</gloss>, tant de <seg ana="#mineraux">carbone</seg>*<gloss>Carbone. Corps qui, à l'état de pureté, est le diamant, et qui constitue la base du bois et du charbon.</gloss>, tant de <seg ana="#mineraux">soufre</seg>, <seg ana="#sciencesPhys">d'oxygène</seg>*<gloss>Oxygène. Celui des deux gaz de l'air qui peut entretenir la combustion.</gloss>, d'<seg ana="#sciencesPhys">hydrogène</seg>*<gloss>Hydrogène. Gaz 14 fois et demie plus léger que l'air.</gloss>, etc. ; et <seg ana="#scienceNat">le cultivateur</seg> ayant appris tout cela, sait encore que <seg ana="#vegetaux">les plantes</seg> <seg ana="#scienceNat">puisent</seg> ces <seg ana="#sciencesPhys">éléments</seg> pour la plus grande partie dans <seg ana="#mineraux">le sol</seg> par leurs <seg ana="#vegetaux">racines</seg> et \<seg ana="#vegetaux">radicelles</seg>*<gloss>Radicelles. Petites ramifications d'une racine.</gloss>. Il lui devient alors aisé de donner, par <seg ana="#scienceNat">des engrais</seg> appropriés, à chacune <seg ana="#alimentsCuisine">la nourriture</seg> qui lui convient, et de la rendre ainsi belle et vigoureuse. </p>
+                  <p> « A étudier et à <seg ana="#scienceNat">bêcher</seg> tour à tour, je me porte comme un charme*<gloss>Charme. Parfaitement bien.</gloss>. Un professeur nous disait hier que les hommes devraient à peu près tous pouvoir partager ainsi leur journée entre <seg ana="#scienceNat">le travail des mains</seg> et celui de l'esprit. Ils s'en porteraient mieux intellectuellement, et peut-être en viendront-ils là dans l'avenir. </p>
+                  <p> « J'ai fait ici la connaissance d'un homme que vous aimeriez beaucoup, <persName ana="#papa">cher père</persName> : c'est <!--<persName>--><seg ana="#scienceNat">Olivier de Serres</seg><!--</persName>-->*<gloss>Olivier de Serres. Grand agronome contemporain de Henri IV.</gloss>. Sa pensée vit, encore, quoiqu'il soit mort depuis à peu près trois cents ans. On l'appelle <!--<persName>le père de --><seg ana="#scienceNat">l'agriculture</seg><!--</persName>-->. Il créa <seg ana="#scienceNat">l'agronomie</seg>, il aima <seg ana="#sciencesNat">les champs</seg>, et, par grand désir d'être utile aux hommes, écrivit des livres
          
                   <pb type="page" n="77"/>   
                   <fw type="header"> UNE LETTRE DE JACQUES. 77 </fw> 

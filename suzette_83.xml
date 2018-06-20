@@ -49,6 +49,7 @@
                </monogr>
             </biblStruct>
          </sourceDesc>
+         
       </fileDesc>
       <profileDesc>
          <langUsage>
@@ -113,56 +114,148 @@
          
          <classDecl>
             <taxonomy xml:id="sciences">
+               <category xml:id="composition">
+                  <catDesc>Composition</catDesc>
+                  <category xml:id="recits">
+                     <catDesc>Récits</catDesc>
+                  </category>
+                  <category xml:id="recitsHistoriques">
+                     <catDesc>Récits historiques</catDesc>
+                  </category>
+                  <category xml:id="descriptions">
+                     <catDesc>Descriptions</catDesc>
+                  </category>
+                  <category xml:id="sujetsMoraux">
+                     <catDesc>Sujets moraux ou d'imagination</catDesc>
+                  </category>
+                  <category xml:id="lettres">
+                     <catDesc>Lettres</catDesc>
+                  </category>
+               </category>
+               <category xml:id="histoire">
+                  <catDesc>Histoire</catDesc>
+                  <!--<category xml:id="histoireNaturelle">
+                     <catDesc>Histoire naturelle</catDesc>
+                  </category>
+                  <category xml:id="histoireTravail">
+                     <catDesc>Histoire du travail</catDesc>
+                  </category>-->
+               </category>
+               <category xml:id="geographie">
+                  <catDesc>Géographie</catDesc>
+                  <category xml:id="europe">
+                     <catDesc>Europe</catDesc>
+                  </category>
+                  <category xml:id="asie">
+                     <catDesc>Asie</catDesc>
+                  </category>
+                  <category xml:id="afrique">
+                     <catDesc>Afrique</catDesc>
+                  </category>
+                  <category xml:id="amerique">
+                     <catDesc>Amérique</catDesc>
+                  </category>
+                  <category xml:id="oceanie">
+                     <catDesc>Océanie</catDesc>
+                  </category>
+                  <category xml:id="france">
+                     <catDesc>France</catDesc>
+                  </category>
+                <!--  <category xml:id="topographie">
+                     <catDesc>Topographie</catDesc>
+                  </category>-->
+               </category>
                <category xml:id="scienceNat">
                   <catDesc>Science Naturelles</catDesc>
                   <category xml:id="mineraux">
                      <catDesc>Minéraux</catDesc>
                   </category>
-                  <category xml:id="vegetaux">
-                     <catDesc>Végétaux</catDesc>
-                     <category xml:id="arbreNoncultives">
-                        <catDesc>Arbres non cultivés</catDesc>
+                  <!--<category xml:id="botanique">
+                     <catDesc>Botanique</catDesc>-->
+                     <category xml:id="vegetaux">
+                        <catDesc>Végétaux</catDesc>
+                        <category xml:id="arbreNoncultives">
+                           <catDesc>Arbres non cultivés</catDesc>
+                        </category>
+                        <category xml:id="herbesPlantes">
+                           <catDesc>Herbes ou plantes sauvages</catDesc>
+                        </category>
+                        <category xml:id="arbreCultives">
+                           <catDesc>Arbres cultivés</catDesc>
+                        </category>
+                        <category xml:id="arbustes">
+                           <catDesc>Arbustes cultivés</catDesc>
+                        </category>
+                        <category xml:id="cereales">
+                           <catDesc>Céréales</catDesc>
+                        </category>
+                        <category xml:id="legumesRacines">
+                           <catDesc>Légumes, racines, etc.</catDesc>
+                        </category>
+                        <category xml:id="divers1"><!-- Avoid tagging with Divers - if necessary, create another sub-category -->
+                           <catDesc>Divers</catDesc>
+                        </category> 
                      </category>
-                     <category xml:id="herbesPlantes">
-                        <catDesc>Herbes ou plantes sauvages</catDesc>
+                     <!--<category xml:id="physiologieVegetale">
+                        <catDesc>Physiologie végétale</catDesc>
+                     </category>-->
+                  <!--</category>-->
+                 <!-- <category xml:id="zoologie">
+                     <catDesc>Zoologie</catDesc>-->
+                     <category xml:id="animaux">
+                        <catDesc>Animaux</catDesc>
+                        <category xml:id="homme">
+                           <catDesc>l'Homme</catDesc>
+                        </category>
+                        <category xml:id="animauxDomestiques">
+                           <catDesc>Animaux domestiques</catDesc>
+                        </category>
+                        <category xml:id="animauxSauvages">
+                           <catDesc>Animaux sauvages</catDesc>
+                        </category>
                      </category>
-                     <category xml:id="arbreCultives">
-                        <catDesc>Arbres cultivés</catDesc>
-                     </category>
-                     <category xml:id="arbustes">
-                        <catDesc>Arbustes cultivés</catDesc>
-                     </category>
-                     <category xml:id="cereales">
-                        <catDesc>Céréales</catDesc>
-                     </category>
-                     <category xml:id="legumesRacines">
-                        <catDesc>Légumes, racines, etc.</catDesc>
-                     </category>
-                     <category xml:id="divers1"><!-- Avoid tagging with Divers - if necessary, create another sub-category -->
-                        <catDesc>Divers</catDesc>
-                     </category>  
-                  </category>
-                  <category xml:id="animaux">
-                     <catDesc>Animaux</catDesc>
-                     <category xml:id="homme">
-                        <catDesc>l'Homme</catDesc>
-                     </category>
-                     <category xml:id="animauxDomestiques">
-                        <catDesc>Animaux domestiques</catDesc>
-                     </category>
-                     <category xml:id="animauxSauvages">
-                        <catDesc>Animaux sauvages</catDesc>
-                     </category>
-                  </category>
+                     <!--<category xml:id="physiologieAnimal">
+                        <catDesc>Physiologie animaux</catDesc>
+                     </category>-->
+                  <!--</category>-->
                   <!--<category xml:id="agriculture">
                      <catDesc>Agriculture</catDesc>
+                     <category xml:id="techniquesAgricoles">
+                        <catDesc>Techniques agricoles</catDesc>
+                     </category>
+                     <category xml:id="produits">
+                        <catDesc>Produits</catDesc>
+                     </category>
+                     <category xml:id="outilsMachines">
+                        <catDesc>Outils et machines</catDesc>
+                     </category>
+                     <category xml:id="recolte">
+                        <catDesc>Récolte</catDesc>
+                     </category>
+                     <category xml:id="elevageBetail">
+                        <catDesc>Élevage de bétail</catDesc>
+                     </category>
+                     <category xml:id="terrainAgricole">
+                        <catDesc>Terrain agricole</catDesc>
+                     </category>
+                     <category xml:id="apiculture">
+                        <catDesc>Apiculture</catDesc>
+                     </category>
                   </category>-->
                </category>
                <category xml:id="sciencesPhys">
                   <catDesc>Sciences physiques</catDesc>
-                  <!-- <category xml:id="elements">
-                     <catDesc>Elements</catDesc>-->
-                  <!--</category>-->
+                  <!--<category xml:id="elements">
+                     <catDesc>Éléments</catDesc>-\->
+                     <category xml:id="feu">
+                        <catDesc>Feu</catDesc>
+                     </category>
+                     <!-\-Could add categories for earth/wind/air-\->
+                  </category>
+                  <category xml:id="meterologie">
+                     <catDesc>Métérologie</catDesc>-\->
+                  </category>-->
+                  <!--Category for night/day cycles, seasons?-->
                </category>
                <category xml:id="industrie">
                   <catDesc>Industrie</catDesc>
@@ -175,6 +268,7 @@
                   <category xml:id="machinesAppareils">
                      <catDesc>Machines, appareils, ustensiles, vases</catDesc>
                   </category>
+                  <!--Can outils go under machinesAppareils-->
                   <category xml:id="outils">
                      <catDesc>Outils</catDesc>
                   </category>
@@ -187,6 +281,9 @@
                </category>
                <category xml:id="economieDomestique">
                   <catDesc>Économie Domestique</catDesc>
+                  <!--<category xml:id="tachesMenageres">
+                     <catDesc>Tâches ménagères</catDesc>
+                  </category>-->
                   <category xml:id="alimentsCuisine">
                      <catDesc>Aliments et cuisine</catDesc>
                   </category>
@@ -196,6 +293,7 @@
                   <category xml:id="basse-cour">
                      <catDesc>Basse-cour</catDesc>
                   </category>
+                  <!--Could basse-cour be combined with scienceNat/agriculture under elevageBetail?--> 
                </category>
                <category xml:id="hygiene">
                   <catDesc>Hygiène</catDesc>
@@ -212,11 +310,6 @@
                      <catDesc>Maladies,etc.; remèdes</catDesc>
                   </category>
                </category>
-               <!-- <category xml:id="geographie">
-                  <catDesc>Géographie</catDesc>
-                  <category xml:id="landFeatures">
-                     <catDesc>Land features</catDesc>
-                  </category>-->
             </taxonomy>
          </classDecl>
          
@@ -234,6 +327,9 @@
                   <placeName xml:id="l_europe">l'Europe</placeName>
                </place>
                <place>
+                  <placeName xml:id="l_afrique">l'Afrique</placeName>
+               </place>
+               <place>
                   <placeName xml:id="l_australie">l'Australie</placeName>
                </place>
                <place>
@@ -247,6 +343,9 @@
                </place>
                <place>
                   <placeName xml:id="l_arabe">l'Arabe</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
@@ -288,7 +387,7 @@
          
          
                   <p> Là, un peuple de merveilleuses <seg ana="#machinesAppareils">machines</seg> en tenue brillante, et qu'on eût dites heureuses de leur existence en ce monde ! </p>
-                  <p> C'étaient <seg ana="#machinesAppareils">les couteaux</seg>, <seg ana="#machinesAppareils">les marteaux</seg>, <seg ana="#machinesAppareils">les scies</seg>, <seg ana="#machinesAppareils">les pilons</seg> <time>de nos jours</time> ; voilà ce qu'était devenu <seg ana="#machinesAppareils">le pauvre outillage</seg> <seg ana="#industrie"><time>des âges de <seg ana="#mineraux">pierre</seg>, de <seg ana="#mineraux">bronze</seg> et de <seg ana="#mineraux">fer</seg></time></seg> ! Salut au génie et au <!--<name type="history">labeur humains</name>--> ! à l'effort des générations*<gloss>Génération. L'ensemble de tous les hommes du même âge.</gloss> qui, continué à travers tant <time>de siècles</time> de misère, de sang, de forte et douloureuse patience, avait enfin <seg ana="#industrie">produit</seg> ces <seg ana="#machinesAppareils">outils magnifiques de puissance et de précision</seg> ! </p>
+                  <p> C'étaient <seg ana="#machinesAppareils">les couteaux</seg>, <seg ana="#machinesAppareils">les marteaux</seg>, <seg ana="#machinesAppareils">les scies</seg>, <seg ana="#machinesAppareils">les pilons</seg> <time>de nos jours</time> ; voilà ce qu'était devenu <seg ana="#machinesAppareils">le pauvre outillage</seg> <seg ana="#industrie"><time>des âges de <seg ana="#mineraux">pierre</seg>, de <seg ana="#mineraux">bronze</seg> et de <seg ana="#mineraux">fer</seg></time></seg> ! Salut au génie et au <!--<seg ana="#industrie">labeur humains</seg>--> ! à l'effort des générations*<gloss>Génération. L'ensemble de tous les hommes du même âge.</gloss> qui, continué à travers tant <time>de siècles</time> de misère, de sang, de forte et douloureuse patience, avait enfin <seg ana="#industrie">produit</seg> ces <seg ana="#machinesAppareils">outils magnifiques de puissance et de précision</seg> ! </p>
     
                   <figure> 
                      <caption> Les <hi rend="italic">La grande industrie.</hi>
@@ -297,13 +396,13 @@
                      </caption>
                   </figure>
     
-                  <sp><speaker>Louis</speaker><ab> — Voyez-vous ceux-ci aux larges <seg ana="#machinesAppareils">mâchoires</seg> pourvues de <seg ana="#machinesAppareils">dents d'acier</seg> ? ce sont <seg ana="#machinesAppareils">des peignes</seg> à <seg ana="#machinesAppareils">peigner</seg> <seg ana="#etoffesHabillement">la laine</seg>, qui sort de là en <seg ana="#etoffesHabillement">filaments</seg> finement divisés. Et savez-vous que
+                  <sp><speaker>Louis</speaker><ab> — Voyez-vous ceux-ci aux larges <seg ana="#machinesAppareils">mâchoires</seg> pourvues de <seg ana="#machinesAppareils">dents d'<seg ana="#matieresObjets">acier</seg></seg> ? ce sont <seg ana="#machinesAppareils">des peignes</seg> à <seg ana="#machinesAppareils">peigner</seg> <seg ana="#etoffesHabillement">la laine</seg>, qui sort de là en <seg ana="#etoffesHabillement">filaments</seg> finement divisés. Et savez-vous que
          
                      <pb type="page" n="287"/>   
                      <fw type="header"> TRIOMPHE DU TRAVAIL. 287 </fw>
          
-         des <seg ana="#homme">mâchoires humaines</seg> faisaient <time>jadis</time> ce travail, que des ouvriers s'employaient à passer <seg ana="#etoffesHabillement">la laine</seg> entre leurs dents pour <seg ana="#etoffesHabillement">ôter les nœuds</seg>, ci s'empoisonnaient ainsi de <seg ana="#maladiesRemedes">poussière morbide</seg>*<gloss>Morbide. Qui cause des maladies.</gloss> ? </ab></sp>
-                  <p> Cette <seg ana="#machinesAppareils">machine</seg>, à côté, est destinée à <seg ana="#constructions">un moulin</seg> ; <seg ana="#machinesAppareils">le montage</seg> <seg ana="#scienceNat">des sacs de <seg ana="#cereales">blé</seg></seg>, <seg ana="#machinesAppareils">la mouture</seg>, <seg ana="#machinesAppareils">le blutage</seg>*<term>Blutage. Opération ayant pour objet de séparer la farine du son.</term>, <seg ana="#machinesAppareils">l'ensachement</seg>, tout s'y fera <seg ana="#industrie">mécaniquement</seg>. Et qui,<!-- <!-\-<time>jadis</time>, <time>avant cette <seg ana="#machinesAppareils">invention</seg></time>-->, et celle <seg ana="constructions">des moulins à <seg ana="#minereaux">eau</seg> et à <seg ana="sciencesPhys">vent</seg></seg>, était chargé de toute cette besogne ? — les femmes, avec leurs pauvres bras. On peut les voir encore à ce travail sous <!--name type="history">les tentes de <placeName ana="#l_arabe">l'Arabe</placeName></name>-->. </p> <!--Is this paragraph actually still Louis speaking?-->
+         des <seg ana="#homme">mâchoires humaines</seg> faisaient <time>jadis</time> ce travail, que <seg ana="#industrie">des ouvriers</seg> s'employaient à passer <seg ana="#etoffesHabillement">la laine</seg> entre leurs <seg ana="#homme">dents</seg> pour <seg ana="#etoffesHabillement">ôter les nœuds</seg>, ci <seg ana="#maladiesRemedes">s'empoisonnaient</seg> ainsi de <seg ana="#maladiesRemedes">poussière morbide</seg>*<gloss>Morbide. Qui cause des maladies.</gloss> ? </ab></sp>
+                  <p> Cette <seg ana="#machinesAppareils">machine</seg>, à côté, est destinée à <seg ana="#constructions">un moulin</seg> ; <seg ana="#machinesAppareils">le montage</seg> <seg ana="#scienceNat">des sacs de <seg ana="#cereales">blé</seg></seg>, <seg ana="#machinesAppareils">la mouture</seg>, <seg ana="#machinesAppareils">le blutage</seg>*<term>Blutage. Opération ayant pour objet de séparer la farine du son.</term>, <seg ana="#machinesAppareils">l'ensachement</seg>, tout s'y fera <seg ana="#industrie">mécaniquement</seg>. Et qui,<!-- <!-\-<time>jadis</time>, <time>avant cette <seg ana="#machinesAppareils">invention</seg></time>-->, et celle <seg ana="constructions">des moulins à <seg ana="#minereaux">eau</seg> et à <seg ana="sciencesPhys">vent</seg></seg>, était chargé de toute cette besogne ? — les femmes, avec leurs pauvres bras. On peut les voir encore à ce travail sous name type="history">les tentes de <placeName ana="#l_arabe">l'Arabe</placeName>. </p> <!--Is this paragraph actually still Louis speaking?-->
                   <sp><speaker>Pascal</speaker><ab> — Parbleu ! </ab></sp> <stage> s'écria <persName ana="pascal">Pascal</persName> en regardant <persName ana="#suzette">Suzette</persName>, </stage> <sp><speaker>Pascal</speaker><ab> je vous l'avais bien dit. </ab></sp>
                   
                   <figure> 
@@ -314,7 +413,7 @@
                   </figure>
                   
                   <sp><speaker>Suzette</speaker><ab> — Oh ! je m'en souviens ! </ab></sp> <stage> répondit <persName ana="#suzette">Suzette</persName>. </stage>
-                  <p> On était maintenant devant <seg ana="#machinesAppareils">une machine à vapeur</seg>, gros <seg ana="machinesAppareils">corps</seg> aux <seg ana="machinesAppareils">membres</seg> d'<seg ana="sciencesPhys">acier</seg> poli et de <seg ana="mineraux">cuivre</seg> brillant comme de <seg ana="mineraux">l’or</name>. <!--Is the last sentence Louis speaking?--> <persName ana="louis">Louis</persName> s'arrêta. Il la connaissait ; il en avait mené l'exécution : </p>
+                  <p> On était maintenant devant <seg ana="#machinesAppareils">une machine à <seg ana="#sciencesPhys">vapeur</seg></seg>, gros <seg ana="#machinesAppareils">corps</seg> aux <seg ana="#machinesAppareils">membres</seg> d'<seg ana="#matieresObjets">acier</seg> poli et de <seg ana="#mineraux">cuivre</seg> brillant comme de <seg ana="mineraux">l’or</seg>. <!--Is the last sentence Louis speaking?--> <persName ana="louis">Louis</persName> s'arrêta. Il la connaissait ; il en avait mené l'exécution : </p>
                   
                   <figure> 
                      <caption> Les <hi rend="italic">Femme arabe blutant le blé.</hi>
@@ -328,7 +427,7 @@
                      <pb type="page" n="288"/>   
                      <fw type="header"> 288 SUZETTE. </fw>
          
-                     <seg ana="#industrie">produits</seg>. Elle nous rapportera <seg ana="#arbreCultives">le coton de <placeName ana="#l_amerique">l'Amérique</placeName></seg>, <seg ana="#cereales">le blé</seg>, <seg ana="#etoffesHabillement">les laines de <placeName ana="l_australie">l'Australie</placeName></seg>, <seg ana="#etoffesHabillement">la soie</seg>, <seg ana="arbustes">le thé de <placeName>la Chine</placeName></seg>, <seg ana="#vegetaux">le café</seg>, <seg ana="#fruits">les fruits</seg>, <seg ana="#vegetaux">les épices <placeName ana="#l_oceanien">des îles océaniennes</placeName></seg>, tout ce que notre <placeName ana="#l_europe">sol européen</placeName> ne produit pas ou ne nous donne qu'avec parcimonie*<gloss>Parcimonie. Epargne excessive.</gloss>. </ab></sp>
+                     <seg ana="#industrie">produits</seg>. Elle nous rapportera <seg ana="#arbreCultives">le coton de <placeName ana="#l_amerique">l'Amérique</placeName></seg>, <seg ana="#cereales">le blé</seg>, <seg ana="#etoffesHabillement">les laines de <placeName ana="l_australie">l'Australie</placeName></seg>, <seg ana="#etoffesHabillement">la soie</seg>, <seg ana="arbustes">le thé de <placeName ana="#la_chine">la Chine</placeName></seg>, <seg ana="#vegetaux">le café</seg>, <seg ana="#fruits">les fruits</seg>, <seg ana="#vegetaux">les épices <placeName ana="#l_oceanien">des îles océaniennes</placeName></seg>, tout ce que notre <placeName ana="#l_europe">sol européen</placeName> ne produit pas ou ne nous donne qu'avec parcimonie*<gloss>Parcimonie. Epargne excessive.</gloss>. </ab></sp>
                   
                   <div type="questionnaire">
                      <ab>
