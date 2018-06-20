@@ -49,7 +49,6 @@
                </monogr>
             </biblStruct>
          </sourceDesc>
-         
       </fileDesc>
       <profileDesc>
          <langUsage>
@@ -111,7 +110,6 @@
                <charName xml:id="la_bohemienne">La bohémienne</charName>
             </char>
          </charDecl>
-         
          <classDecl>
             <taxonomy xml:id="sciences">
                <category xml:id="composition">
@@ -167,8 +165,11 @@
                </category>
                <category xml:id="scienceNat">
                   <catDesc>Science Naturelles</catDesc>
-                  <category xml:id="mineraux">
-                     <catDesc>Minéraux</catDesc>
+                  <!--<category xml:id="geologie">
+                     <catDesc>Géologie</catDesc>
+                  </category>-->
+                     <category xml:id="mineraux">
+                        <catDesc>Minéraux</catDesc>
                   </category>
                   <!--<category xml:id="botanique">
                      <catDesc>Botanique</catDesc>-->
@@ -206,7 +207,7 @@
                         <catDesc>Animaux</catDesc>
                         <category xml:id="homme">
                            <catDesc>l'Homme</catDesc>
-                        </category>
+                        </category> <!--Homme wouldn't go under zoologie.. could we seperate it or rename this category?-->
                         <category xml:id="animauxDomestiques">
                            <catDesc>Animaux domestiques</catDesc>
                         </category>
@@ -310,14 +311,8 @@
                      <catDesc>Maladies,etc.; remèdes</catDesc>
                   </category>
                </category>
-               <!-- <category xml:id="geographie">
-                  <catDesc>Géographie</catDesc>
-                  <category xml:id="landFeatures">
-                     <catDesc>Land features</catDesc>
-                  </category>-->
             </taxonomy>
          </classDecl>
-         
       </encodingDesc>
       <profileDesc>
          <settingDesc>
