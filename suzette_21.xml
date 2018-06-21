@@ -173,8 +173,9 @@
                   </category>
                   <!--<category xml:id="botanique">
                      <catDesc>Botanique</catDesc>-->
-                     <category xml:id="vegetaux">
-                        <catDesc>Végétaux</catDesc>
+                     <category xml:id="vegetaux" sameAs="plants">
+                        <catDesc xml:lang="fr">Végétaux</catDesc>
+                        <catDesc xml:lang="en">Plants</catDesc>
                         <category xml:id="arbreNoncultives">
                            <catDesc>Arbres non cultivés</catDesc>
                         </category>

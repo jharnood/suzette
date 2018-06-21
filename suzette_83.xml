@@ -138,6 +138,7 @@
                   <category xml:id="histoireTravail">
                      <catDesc>Histoire du travail</catDesc>
                   </category>-->
+                  
                </category>
                <category xml:id="geographie">
                   <catDesc>Géographie</catDesc>
@@ -357,8 +358,7 @@
                   <placeName xml:id="bruxelles">Bruxelles</placeName>
                </place>
                <place>
-                  <placeName xml:id="boston">Boston
-                  </placeName>
+                  <placeName xml:id="boston">Boston</placeName>
                </place>
                <place> 
                   <placeName xml:id="l_avre">l'Avre
@@ -369,6 +369,11 @@
                   <placeName xml:id="la_moye">la Moye
                      <geogFeat>River</geogFeat>
                   </placeName>
+               </place>
+               <place>
+                  <geogName>
+                     <geogFeat xml:id="mountain">mountain</geogFeat>
+                  </geogName>
                </place>
             </listPlace>
          </settingDesc>
@@ -402,7 +407,7 @@
                      <fw type="header"> TRIOMPHE DU TRAVAIL. 287 </fw>
          
          des <seg ana="#homme">mâchoires humaines</seg> faisaient <time>jadis</time> ce travail, que <seg ana="#industrie">des ouvriers</seg> s'employaient à passer <seg ana="#etoffesHabillement">la laine</seg> entre leurs <seg ana="#homme">dents</seg> pour <seg ana="#etoffesHabillement">ôter les nœuds</seg>, ci <seg ana="#maladiesRemedes">s'empoisonnaient</seg> ainsi de <seg ana="#maladiesRemedes">poussière morbide</seg>*<gloss>Morbide. Qui cause des maladies.</gloss> ? </ab></sp>
-                  <p> Cette <seg ana="#machinesAppareils">machine</seg>, à côté, est destinée à <seg ana="#constructions">un moulin</seg> ; <seg ana="#machinesAppareils">le montage</seg> <seg ana="#scienceNat">des sacs de <seg ana="#cereales">blé</seg></seg>, <seg ana="#machinesAppareils">la mouture</seg>, <seg ana="#machinesAppareils">le blutage</seg>*<term>Blutage. Opération ayant pour objet de séparer la farine du son.</term>, <seg ana="#machinesAppareils">l'ensachement</seg>, tout s'y fera <seg ana="#industrie">mécaniquement</seg>. Et qui,<!-- <!-\-<time>jadis</time>, <time>avant cette <seg ana="#machinesAppareils">invention</seg></time>-->, et celle <seg ana="constructions">des moulins à <seg ana="#minereaux">eau</seg> et à <seg ana="sciencesPhys">vent</seg></seg>, était chargé de toute cette besogne ? — les femmes, avec leurs pauvres bras. On peut les voir encore à ce travail sous name type="history">les tentes de <placeName ana="#l_arabe">l'Arabe</placeName>. </p> <!--Is this paragraph actually still Louis speaking?-->
+                  <p> Cette <seg ana="#machinesAppareils">machine</seg>, à côté, est destinée à <seg ana="#constructions">un moulin</seg> ; <seg ana="#machinesAppareils">le montage</seg> <seg ana="#scienceNat">des sacs de <seg ana="#cereales">blé</seg></seg>, <seg ana="#machinesAppareils">la mouture</seg>, <seg ana="#machinesAppareils">le blutage</seg>*<gloss>Blutage. Opération ayant pour objet de séparer la farine du son.</gloss>, <seg ana="#machinesAppareils">l'ensachement</seg>, tout s'y fera <seg ana="#industrie">mécaniquement</seg>. Et qui,<!-- <!-\-<time>jadis</time>, <time>avant cette <seg ana="#machinesAppareils">invention</seg></time>-->, et celle <seg ana="constructions">des moulins à <seg ana="#minereaux">eau</seg> et à <seg ana="sciencesPhys">vent</seg></seg>, était chargé de toute cette besogne ? — les femmes, avec leurs pauvres bras. On peut les voir encore à ce travail sous les tentes de <placeName ana="#l_arabe">l'Arabe</placeName>. </p> <!--Is this paragraph actually still Louis speaking?-->
                   <sp><speaker>Pascal</speaker><ab> — Parbleu ! </ab></sp> <stage> s'écria <persName ana="pascal">Pascal</persName> en regardant <persName ana="#suzette">Suzette</persName>, </stage> <sp><speaker>Pascal</speaker><ab> je vous l'avais bien dit. </ab></sp>
                   
                   <figure> 
@@ -448,7 +453,7 @@
                         <!--<term> — LE FER. </term>-->
                         <ab type="question"> — Ce qu'il est, ses propriétés, ses usages. — Origine du fer. — Le minerai ; le haut fourneau ; la coulée de la fonte ; le meulage. — Comment la fonte devient du fer. — Prix de la tonne de fer. </ab>
                         
-                        <ab type="answer"> Le <term>fer</term> est un métal d'un gris bleuâtre pesant 7 fois 78 plus que l'eau et doué d'un certain éclat. Susceptible de s'étirer en fils ténus et dei s'étendre en lames très minces, il est tenace et sonore. Peu de métaux sont aussi difficiles à fondre ; il se ramollit toutefois à une température bien inférieure à celle du point où il entre en fusion ; alors on peut le pétrir sous le marteau et le souder sur lui-même. A l'air libre, il se couvre d'un oxyde rouge connu sous le nom de <term>rouille</term> ; à la chaleur rouge, il se forme à sa surface des écailles d'oxyde noir. <lb/>
+                        <ab type="answer"> Le <seg corresp="#mineraux">fer</seg> est un métal d'un gris bleuâtre pesant 7 fois 78 plus que l'eau et doué d'un certain éclat. Susceptible de s'étirer en fils ténus et dei s'étendre en lames très minces, il est tenace et sonore. Peu de métaux sont aussi difficiles à fondre ; il se ramollit toutefois à une température bien inférieure à celle du point où il entre en fusion ; alors on peut le pétrir sous le marteau et le souder sur lui-même. A l'air libre, il se couvre d'un oxyde rouge connu sous le nom de <term>rouille</term> ; à la chaleur rouge, il se forme à sa surface des écailles d'oxyde noir. <lb/>
                         Le fer sert à la fabrication de la plupart des outils, des instruments, des armes. Il se substitue actuellement au bois et à la pierre dans la construction des maisons, des ponts, des navires, etc. <lb/>
                         Le fer se trouve à la surface et au sein de la terre en minerais contenant du métal pur ou mélangé à diverses substances, telles que le carbone, la silice, le phosphore. A l'état natif, il en existe des mines considérables. Le minerai de fer forme, à l'ile d'Elbe, en Suède, aux États-Unis, de véritables Collines. <lb/>
                         <!--<term> PRÉPARATION DE LA FONTE ET DU FER. </term>--> — Après avoir trié, concassé et lavé le minerai, on le traite dans de grandes et solides constructions, nommées <term>hauts fourneaux</term>, qui consistent en deux cônes tronqués réunis par leurs grandes bases. On y verse d'abord du charbon de terre qu'on enflamme, puis alternativement une couche de minerai et une couche de charbon ; dès que la houille, introduite en premier lieu, a développé une haute température, le metal fond, et comme il est la plus pesante des substances introduites dans le haut fourneau, il se tombe au fond de cet appareil, tandis que les impuretés ou scories surnagent à la surface. <lb/>
