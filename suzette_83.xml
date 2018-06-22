@@ -50,7 +50,7 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <profileDesc>
+     <profileDesc>
          <langUsage>
             <language ident="fra">French</language>
             <language ident="eng">English</language>
@@ -111,9 +111,52 @@
             </char>
          </charDecl>
          <classDecl>
-            <taxonomy xml:id="sciences">
+            <taxonomy xml:id="classification">
+               <category xml:id="morale">
+                  <catDesc>Morale</catDesc>
+                  <category xml:id="enfantFamille">
+                     <catDesc>L'enfant dans la famille</catDesc>
+                  </category>
+                  <category xml:id="devoirsFreresSoeurs">
+                     <catDesc>Devoirs des frères et sœurs</catDesc>
+                  </category>
+                  <category xml:id="devoirsServiteurs">
+                     <catDesc>Devoirs envers les serviteurs</catDesc>
+                  </category>
+                  <category xml:id="enfantEcole">
+                     <catDesc>L'enfant dans l'école</catDesc>
+                  </category>
+                  <category xml:id="patrie">
+                     <catDesc>La patrie</catDesc>
+                  </category>
+                  <category xml:id="devoirsSoiMeme">
+                     <catDesc>Devoirs envers soi-même</catDesc>
+                  </category>
+                  <category xml:id="biensExterieurs">
+                     <catDesc>Les biens extérieurs</catDesc>
+                  </category>
+                  <category xml:id="ame">
+                     <catDesc>L'âme</catDesc>
+                  </category>
+                  <category xml:id="devoirsSemblables">
+                     <catDesc>Devoirs envers nos semblables</catDesc>
+                  </category>
+                  <category xml:id="devoirsDieu">
+                     <catDesc>Devoirs envers Dieu</catDesc>
+                  </category>
+               </category>
+               <category xml:id="instructionCivique">
+                  <catDesc>Instruction civique</catDesc>
+               </category>
+               <category xml:id="civilite">
+                  <catDesc>Civilité</catDesc>
+               </category>
+               <category xml:id="francais">
+                  <catDesc>Français</catDesc>
+               </category>
                <category xml:id="composition">
                   <catDesc>Composition</catDesc>
+                  <!--In the book Composition is followed by an (1); should that be included?-->
                   <category xml:id="recits">
                      <catDesc>Récits</catDesc>
                   </category>
@@ -138,7 +181,6 @@
                   <category xml:id="histoireTravail">
                      <catDesc>Histoire du travail</catDesc>
                   </category>-->
-                  
                </category>
                <category xml:id="geographie">
                   <catDesc>Géographie</catDesc>
@@ -171,11 +213,13 @@
                   </category>-->
                      <category xml:id="mineraux">
                         <catDesc>Minéraux</catDesc>
-                  </category>
+                     </category>
+                     <!--In the book Minéraux is followed by ",etc."; should that be included?-->
                   <!--<category xml:id="botanique">
                      <catDesc>Botanique</catDesc>-->
                      <category xml:id="vegetaux">
                         <catDesc>Végétaux</catDesc>
+                        <!--All of the sub-categories following this are numbered; should that be included?-->
                         <category xml:id="arbreNoncultives">
                            <catDesc>Arbres non cultivés</catDesc>
                         </category>
@@ -206,6 +250,7 @@
                      <catDesc>Zoologie</catDesc>-->
                      <category xml:id="animaux">
                         <catDesc>Animaux</catDesc>
+                        <!--All of the sub-categories following this are numbered; should that be included?-->
                         <category xml:id="homme">
                            <catDesc>l'Homme</catDesc>
                         </category> <!--Homme wouldn't go under zoologie.. could we seperate it or rename this category?-->
@@ -246,7 +291,7 @@
                   </category>-->
                </category>
                <category xml:id="sciencesPhys">
-                  <catDesc>Sciences physiques</catDesc>
+                  <catDesc>Notions relatives aux sciences physiques</catDesc>
                   <!--<category xml:id="elements">
                      <catDesc>Éléments</catDesc>-\->
                      <category xml:id="feu">
@@ -309,7 +354,7 @@
                      <catDesc>Aliments</catDesc>
                   </category>
                   <category xml:id="maladiesRemedes">
-                     <catDesc>Maladies,etc.; remèdes</catDesc>
+                     <catDesc>Maladies, etc. ; remèdes</catDesc>
                   </category>
                </category>
             </taxonomy>
@@ -358,7 +403,8 @@
                   <placeName xml:id="bruxelles">Bruxelles</placeName>
                </place>
                <place>
-                  <placeName xml:id="boston">Boston</placeName>
+                  <placeName xml:id="boston">Boston
+                  </placeName>
                </place>
                <place> 
                   <placeName xml:id="l_avre">l'Avre
@@ -369,11 +415,6 @@
                   <placeName xml:id="la_moye">la Moye
                      <geogFeat>River</geogFeat>
                   </placeName>
-               </place>
-               <place>
-                  <geogName>
-                     <geogFeat xml:id="mountain">mountain</geogFeat>
-                  </geogName>
                </place>
             </listPlace>
          </settingDesc>

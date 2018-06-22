@@ -111,9 +111,52 @@
             </char>
          </charDecl>
          <classDecl>
-            <taxonomy xml:id="sciences">
+            <taxonomy xml:id="classification">
+               <category xml:id="morale">
+                  <catDesc>Morale</catDesc>
+                  <category xml:id="enfantFamille">
+                     <catDesc>L'enfant dans la famille</catDesc>
+                  </category>
+                  <category xml:id="devoirsFreresSoeurs">
+                     <catDesc>Devoirs des frères et sœurs</catDesc>
+                  </category>
+                  <category xml:id="devoirsServiteurs">
+                     <catDesc>Devoirs envers les serviteurs</catDesc>
+                  </category>
+                  <category xml:id="enfantEcole">
+                     <catDesc>L'enfant dans l'école</catDesc>
+                  </category>
+                  <category xml:id="patrie">
+                     <catDesc>La patrie</catDesc>
+                  </category>
+                  <category xml:id="devoirsSoiMeme">
+                     <catDesc>Devoirs envers soi-même</catDesc>
+                  </category>
+                  <category xml:id="biensExterieurs">
+                     <catDesc>Les biens extérieurs</catDesc>
+                  </category>
+                  <category xml:id="ame">
+                     <catDesc>L'âme</catDesc>
+                  </category>
+                  <category xml:id="devoirsSemblables">
+                     <catDesc>Devoirs envers nos semblables</catDesc>
+                  </category>
+                  <category xml:id="devoirsDieu">
+                     <catDesc>Devoirs envers Dieu</catDesc>
+                  </category>
+               </category>
+               <category xml:id="instructionCivique">
+                  <catDesc>Instruction civique</catDesc>
+               </category>
+               <category xml:id="civilite">
+                  <catDesc>Civilité</catDesc>
+               </category>
+               <category xml:id="francais">
+                  <catDesc>Français</catDesc>
+               </category>
                <category xml:id="composition">
                   <catDesc>Composition</catDesc>
+                  <!--In the book Composition is followed by an (1); should that be included?-->
                   <category xml:id="recits">
                      <catDesc>Récits</catDesc>
                   </category>
@@ -170,12 +213,13 @@
                   </category>-->
                      <category xml:id="mineraux">
                         <catDesc>Minéraux</catDesc>
-                  </category>
+                     </category>
+                     <!--In the book Minéraux is followed by ",etc."; should that be included?-->
                   <!--<category xml:id="botanique">
                      <catDesc>Botanique</catDesc>-->
-                     <category xml:id="vegetaux" sameAs="plants">
-                        <catDesc xml:lang="fr">Végétaux</catDesc>
-                        <catDesc xml:lang="en">Plants</catDesc>
+                     <category xml:id="vegetaux">
+                        <catDesc>Végétaux</catDesc>
+                        <!--All of the sub-categories following this are numbered; should that be included?-->
                         <category xml:id="arbreNoncultives">
                            <catDesc>Arbres non cultivés</catDesc>
                         </category>
@@ -206,6 +250,7 @@
                      <catDesc>Zoologie</catDesc>-->
                      <category xml:id="animaux">
                         <catDesc>Animaux</catDesc>
+                        <!--All of the sub-categories following this are numbered; should that be included?-->
                         <category xml:id="homme">
                            <catDesc>l'Homme</catDesc>
                         </category> <!--Homme wouldn't go under zoologie.. could we seperate it or rename this category?-->
@@ -246,7 +291,7 @@
                   </category>-->
                </category>
                <category xml:id="sciencesPhys">
-                  <catDesc>Sciences physiques</catDesc>
+                  <catDesc>Notions relatives aux sciences physiques</catDesc>
                   <!--<category xml:id="elements">
                      <catDesc>Éléments</catDesc>-\->
                      <category xml:id="feu">
@@ -309,7 +354,7 @@
                      <catDesc>Aliments</catDesc>
                   </category>
                   <category xml:id="maladiesRemedes">
-                     <catDesc>Maladies,etc.; remèdes</catDesc>
+                     <catDesc>Maladies, etc. ; remèdes</catDesc>
                   </category>
                </category>
             </taxonomy>
@@ -437,8 +482,8 @@ qui, après trois siècles, continuent de nous éclairer. </p>
                         
                         <ab type="question"> — Écrire en marge d'une feuille de papier, et les uns au-dessous des autres, tous les verbes de l'alinéa commençant par Aux vacances… et ceux des deux suivants. — Indiquer à côté de chacun de ces verbes le mode et le temps auxquels ils sont employés. </ab>
                         
-                        <ab type="answer">  MODÈLE. <!--Should this be futher tagged as some sort of category--> — <term>Verrez</term>, mode indic., temps futur. <lb/>
-                        <term>Taillera</term>, mode indic., temps futur.
+                        <ab type="answer">  MODÈLE. <!--Should this be futher tagged as some sort of category--> — <!--<seg corresp="#francais">-->Verrez<!--</seg>-->, mode indic., temps futur. <lb/>
+                        <!--<seg corresp="#francais">-->Taillera<!--</seg>-->, mode indic., temps futur.
                         <!--Should this whole section be a model instead of answer?--> </ab>
                      </div>
                            
@@ -447,16 +492,16 @@ qui, après trois siècles, continuent de nous éclairer. </p>
                         
                         <ab type="question"> — Rappelez ce que nous enseignent : 1° la physique, — 2° la chimie, et donnez une idée de l'utilité de ces sciences. — Qu'est-ce qu'un gaz ? — Quels gaz composent l'air ; — l'eau ? — Quel corps solide forme la matière de, tous les végétaux ? — Dans quels combustibles naturels se trouve encore le carbone ? </ab>
                         
-                        <ab type="answer"> <term>La physique</term> étudie les-propriétés des corps, telles que l'élasticité, la pesanteur, la divisibilité, ainsi que les phénomènes (1)<note type="foot">(1) On appelle phénomène toute chose qui vient à apparaître dans les corps, comme, par exemple, la formation de la vapeur, la dilatation de l'eau chauffée, l'apparition de l'arc-en-ciel, l'ascension d'un liquide dans un morceau de sucre dont la base seule est en contact avec ce liquide, l'écho, le grossissement des objets à travers les lunettes.</note> qui ne changent pas leur nature. <lb/>
-                        <term>La chimie</term> étudie les combinaisons des corps, comme celle de l'huile et de la soude qui donne le savon, et les phénomènes qui modifient leur nature, par exemple celui de la fermentation du vin nouveau dans les fûts. <lb/>
-                        <term>Un gaz</term> est un corps semblable à l'air que nous respirons. Les gaz
+                        <ab type="answer"> <seg corresp="#sciencesPhys">La physique</seg> étudie les-propriétés des corps, telles que l'élasticité, la pesanteur, la divisibilité, ainsi que les phénomènes (1)<note type="foot">(1) On appelle phénomène toute chose qui vient à apparaître dans les corps, comme, par exemple, la formation de la vapeur, la dilatation de l'eau chauffée, l'apparition de l'arc-en-ciel, l'ascension d'un liquide dans un morceau de sucre dont la base seule est en contact avec ce liquide, l'écho, le grossissement des objets à travers les lunettes.</note> qui ne changent pas leur nature. <lb/>
+                        <seg corresp="#sciencesPhys">La chimie</seg> étudie les combinaisons des corps, comme celle de l'huile et de la soude qui donne le savon, et les phénomènes qui modifient leur nature, par exemple celui de la fermentation du vin nouveau dans les fûts. <lb/>
+                        <!--<seg corresp="#sciencesPhys">-->Un gaz<!--</seg>--> est un corps semblable à l'air que nous respirons. Les gaz
          
                   <pb type="page" n="78"/>   
                   <fw type="header"> 78 SUZETTE. </fw>
          
                         sont élastiques, souvent invisibles, et les moins pesants de tous les, corps ; la plupart dégagent une odeur caractéristique. On connaît celle de l'acide sulfureux, gaz produit lorsque le soufre brûle et celle des gaz qui se dégagent des chairs en putréfaction. <lb/>
-                        <term>L'air</term> est composé de deux gaz ; l'oxygène et l'azote, tous deux inodores et invisibles. <lb/>
-                        <term>Le carbone</term> ou <term>charbon</term> est le corps solide qui forme les végétaux ; si on les soumet, en effet, à une forte chaleur dans un lieu clos, l'eau qu'ils contiennent s'évapore et il ne reste plus qu'une substance noirâtre : le charbon. </ab>
+                        <seg ana="#sciencesPhys">L'air</seg> est composé de deux gaz ; l'oxygène et l'azote, tous deux inodores et invisibles. <lb/>
+                        <seg ana="#mineraux">Le carbone</seg> ou <term>charbon</term> est le corps solide qui forme les végétaux ; si on les soumet, en effet, à une forte chaleur dans un lieu clos, l'eau qu'ils contiennent s'évapore et il ne reste plus qu'une substance noirâtre : le charbon. </ab>
                      </div>                        
                      
                      <div type="industrie">
@@ -465,7 +510,7 @@ qui, après trois siècles, continuent de nous éclairer. </p>
                         <ab type="question"> — Quels vases, quels appareils, quels instruments voit-on dans un laboratoire ? </ab>
           
                         <ab type="answer"> On remarque dans un laboratoire des fourneaux, des creusets, des fioles et des tubes de verre, des chalumeaux, des lampes à esprit-de-vin, des cornues, des appareils qui produisent de l'électricité. <lb/>
-                        Les <term>cornues</term> ressemblent à des poires creuses de verre et se prolongent en un tube allongé. </ab>
+                        Les <!--<seg corresp="#machinesAppareils">-->cornues<!--</seg>--> ressemblent à des poires creuses de verre et se prolongent en un tube allongé. </ab>
                      </div>
                      
                      <div type="agriculture">
@@ -473,7 +518,7 @@ qui, après trois siècles, continuent de nous éclairer. </p>
                         
                         <ab type="question"> — Que nous apprennent l'horticulture et l'arboriculture ? </ab>
                         
-                        <ab type="answer"> <term>L'horticulture</term>, branche de la science de l'agriculture, nous apprend quels soins il faut donner à un jardin (<term>hortus</term>, en latin) pour en obtenir de bons produits en abondance. <term>L'arboriculture</term> traite des arbres fruitiers et des moyens de les améliorer. </ab>
+                        <ab type="answer"> <!--<seg corresp="#scienceNat">-->L'horticulture<!--</seg>-->, branche de la science de l'agriculture, nous apprend quels soins il faut donner à un jardin (<!--<seg corresp="#vegetaux">-->hortus<!--</seg>-->, en latin) pour en obtenir de bons produits en abondance. <!--<seg corresp="#scienceNat">-->L'arboriculture<!--</seg>--> traite des arbres fruitiers et des moyens de les améliorer. </ab>
                      </div>
                   </div>
                </div>

@@ -111,9 +111,52 @@
             </char>
          </charDecl>
          <classDecl>
-            <taxonomy xml:id="sciences">
+            <taxonomy xml:id="classification">
+               <category xml:id="morale">
+                  <catDesc>Morale</catDesc>
+                  <category xml:id="enfantFamille">
+                     <catDesc>L'enfant dans la famille</catDesc>
+                  </category>
+                  <category xml:id="devoirsFreresSoeurs">
+                     <catDesc>Devoirs des frères et sœurs</catDesc>
+                  </category>
+                  <category xml:id="devoirsServiteurs">
+                     <catDesc>Devoirs envers les serviteurs</catDesc>
+                  </category>
+                  <category xml:id="enfantEcole">
+                     <catDesc>L'enfant dans l'école</catDesc>
+                  </category>
+                  <category xml:id="patrie">
+                     <catDesc>La patrie</catDesc>
+                  </category>
+                  <category xml:id="devoirsSoiMeme">
+                     <catDesc>Devoirs envers soi-même</catDesc>
+                  </category>
+                  <category xml:id="biensExterieurs">
+                     <catDesc>Les biens extérieurs</catDesc>
+                  </category>
+                  <category xml:id="ame">
+                     <catDesc>L'âme</catDesc>
+                  </category>
+                  <category xml:id="devoirsSemblables">
+                     <catDesc>Devoirs envers nos semblables</catDesc>
+                  </category>
+                  <category xml:id="devoirsDieu">
+                     <catDesc>Devoirs envers Dieu</catDesc>
+                  </category>
+               </category>
+               <category xml:id="instructionCivique">
+                  <catDesc>Instruction civique</catDesc>
+               </category>
+               <category xml:id="civilite">
+                  <catDesc>Civilité</catDesc>
+               </category>
+               <category xml:id="francais">
+                  <catDesc>Français</catDesc>
+               </category>
                <category xml:id="composition">
                   <catDesc>Composition</catDesc>
+                  <!--In the book Composition is followed by an (1); should that be included?-->
                   <category xml:id="recits">
                      <catDesc>Récits</catDesc>
                   </category>
@@ -170,11 +213,13 @@
                   </category>-->
                      <category xml:id="mineraux">
                         <catDesc>Minéraux</catDesc>
-                  </category>
+                     </category>
+                     <!--In the book Minéraux is followed by ",etc."; should that be included?-->
                   <!--<category xml:id="botanique">
                      <catDesc>Botanique</catDesc>-->
                      <category xml:id="vegetaux">
                         <catDesc>Végétaux</catDesc>
+                        <!--All of the sub-categories following this are numbered; should that be included?-->
                         <category xml:id="arbreNoncultives">
                            <catDesc>Arbres non cultivés</catDesc>
                         </category>
@@ -205,6 +250,7 @@
                      <catDesc>Zoologie</catDesc>-->
                      <category xml:id="animaux">
                         <catDesc>Animaux</catDesc>
+                        <!--All of the sub-categories following this are numbered; should that be included?-->
                         <category xml:id="homme">
                            <catDesc>l'Homme</catDesc>
                         </category> <!--Homme wouldn't go under zoologie.. could we seperate it or rename this category?-->
@@ -245,7 +291,7 @@
                   </category>-->
                </category>
                <category xml:id="sciencesPhys">
-                  <catDesc>Sciences physiques</catDesc>
+                  <catDesc>Notions relatives aux sciences physiques</catDesc>
                   <!--<category xml:id="elements">
                      <catDesc>Éléments</catDesc>-\->
                      <category xml:id="feu">
@@ -308,7 +354,7 @@
                      <catDesc>Aliments</catDesc>
                   </category>
                   <category xml:id="maladiesRemedes">
-                     <catDesc>Maladies,etc.; remèdes</catDesc>
+                     <catDesc>Maladies, etc. ; remèdes</catDesc>
                   </category>
                </category>
             </taxonomy>
@@ -433,7 +479,7 @@ mède</seg>, qui est un secret*<gloss>Secret. Moyen connu de peu de personnes.</
                         
                         <ab type="question"> — Comment conserve-t-on les œufs? — Comment prépare-t-on les œufs à la coque, sur le plat, en omelette, à la matelote, puis les œufs à la neige, la salade aux œufs? </ab>
                   
-                        <ab type="answer"> Lorsqu'on désire <term>conserver des œufs</term> frais pendant toute l'année, on les recouvre d'un vernis, d'une couche de cire ou d'un corps gras qui empêche l'accès de l'air par les pores de la coquille. On conseille encore de placer les œufs par couches dans un vase, et d'y verser de l'eau de chaux contenant en excès un peu de chaux en poudre, de manière qu'ils soient couverts de 0m, 15 à 0m, 18 de liquide. <lb/>
+                        <ab type="answer"> Lorsqu'on désire <seg corresp="#alimentsCuisine">conserver des œufs</seg> frais pendant toute l'année, on les recouvre d'un vernis, d'une couche de cire ou d'un corps gras qui empêche l'accès de l'air par les pores de la coquille. On conseille encore de placer les œufs par couches dans un vase, et d'y verser de l'eau de chaux contenant en excès un peu de chaux en poudre, de manière qu'ils soient couverts de 0m, 15 à 0m, 18 de liquide. <lb/>
                         Les œufs se conservent assez longtemps lorsqu'ils sont placés dans du sablo sec, de la cendre, du son, de la sciure de bois, du poussier de charbon, en un mot, dans tout ce qui peut empêcher l'introduction de l'air à l'intérieur de la coque. <lb/>
                         <!--<term> ŒUFS A LA COQUE. </term>--> — On choisit des œufs frais, et on les plonge dans l'eau bouillante où ils séjourneront trois minutes. <lb/>
                            
@@ -453,14 +499,14 @@ mède</seg>, qui est un secret*<gloss>Secret. Moyen connu de peu de personnes.</
                         <ab type="question"> — Comment reconnait-on qu'un enfant a la fièvre (le pouls) ? — Premiers soins à donner à un enfant qui parait malade. — Tenue d'une chambre de malade : faut-il clore le lit avec des rideaux ? — Faut-il fermer toujours les fenêtres ? — Faut-il amonceler couvertures et édredons sur le lit du malade ? — Pourquoi ? — Qu'est-ce qu'un cataplasme ? — Comment le prépare-t-on à la graine de lin ? — Effets du laudanum ; précautions à prendre avec ce médicament. </ab>
                         
                         <ab type="answer"> On reconnaît qu'un enfant a la fièvre lorsque le pouls, au lieu de 75 à 80 pulsations à la minute, en bat 90 à 100 ; lorsque le malade éprouve de légers frissons, de la lassitude et une pesanteur dans la tête. Il faut alors le coucher en évitant de surcharger le lit de couvertures, soumettre le patient à la diète et lui donner des boissons rafraîchissantes en attendant l'arrivée du médecin. <lb/>
-                        La <term>tenue d'une chambre de malade</term> exige une extrême propreté et comporte le fréquent renouvellement de l'air, soit par la cheminée, soit par les fenêtres dans la saison chaude. Il s'exhale, en effet, des poumons et de la peau des malades, certaines émanations animales à odeur fétide qui altèrent l'air en s'y décomposant, et rien n'est plus propre à compromettre la guérison. <lb/>
+                        La <!--<seg corresp="#maladiesRemedes">-->tenue d'une chambre de malade<!--</seg>--> exige une extrême propreté et comporte le fréquent renouvellement de l'air, soit par la cheminée, soit par les fenêtres dans la saison chaude. Il s'exhale, en effet, des poumons et de la peau des malades, certaines émanations animales à odeur fétide qui altèrent l'air en s'y décomposant, et rien n'est plus propre à compromettre la guérison. <lb/>
          
                            <pb type="page" n="93"/>   
                            <fw type="header"> DE L'EAU !	93 </fw>
          
-                        C'est pour ce motif qu'il faut se garder de <term>clore le lit</term> avec des rideaux et de l'installer dans une alcôve. L'accumulation des couvertures et des édredons provoque des sueurs qui affaiblissent l malade. <lb/>
-                        <term>Un cataplasme</term> est une matière molle et gluante (telle que la mie de pain, la farine de lin, délayées et cuites à l'eau) qu'on étend sur un linge très fin et qu'on applique aux endroits du corps indiqués par le médecin. <lb/>
-                        <term>Le laudanum</term> a pour effet d'engourdir les douleurs provenant de l'irritation des nerfs par suite d'inflammation, comme il arrive pour les maux de dents, les crampes et douleurs d'estomac ou d'intestins. A dose un peu considérable, c'est un poison ; d'où il suit que ce médicament ne devra jamais rester à portée de la main des enfants. </ab>
+         C'est pour ce motif qu'il faut se garder de <!--<seg corresp="#maladiesRemedes">-->clore le lit<!--</seg>--> avec des rideaux et de l'installer dans une alcôve. L'accumulation des couvertures et des édredons provoque des sueurs qui affaiblissent l malade. <lb/>
+                        <seg corresp="#maladiesRemedes">Un cataplasme</seg> est une matière molle et gluante (telle que la mie de pain, la farine de lin, délayées et cuites à l'eau) qu'on étend sur un linge très fin et qu'on applique aux endroits du corps indiqués par le médecin. <lb/>
+                        <seg corresp="#maladiesRemedes">Le laudanum</seg> a pour effet d'engourdir les douleurs provenant de l'irritation des nerfs par suite d'inflammation, comme il arrive pour les maux de dents, les crampes et douleurs d'estomac ou d'intestins. A dose un peu considérable, c'est un poison ; d'où il suit que ce médicament ne devra jamais rester à portée de la main des enfants. </ab>
                      </div>
                   </div>
                </div>
