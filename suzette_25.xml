@@ -50,7 +50,7 @@
             </biblStruct>
          </sourceDesc>
        </fileDesc>
-       <profileDesc>
+             <profileDesc>
          <langUsage>
             <language ident="fra">French</language>
             <language ident="eng">English</language>
@@ -108,6 +108,12 @@
             </char>
             <char>
                <charName xml:id="la_bohemienne">La bohémienne</charName>
+            </char>
+            <char>
+               <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="les_dumay">La Famille Dumay</charName>
             </char>
          </charDecl>
          <classDecl>
@@ -481,16 +487,16 @@ mède</seg>, qui est un secret*<gloss>Secret. Moyen connu de peu de personnes.</
                   
                         <ab type="answer"> Lorsqu'on désire <seg corresp="#alimentsCuisine">conserver des œufs</seg> frais pendant toute l'année, on les recouvre d'un vernis, d'une couche de cire ou d'un corps gras qui empêche l'accès de l'air par les pores de la coquille. On conseille encore de placer les œufs par couches dans un vase, et d'y verser de l'eau de chaux contenant en excès un peu de chaux en poudre, de manière qu'ils soient couverts de 0m, 15 à 0m, 18 de liquide. <lb/>
                         Les œufs se conservent assez longtemps lorsqu'ils sont placés dans du sablo sec, de la cendre, du son, de la sciure de bois, du poussier de charbon, en un mot, dans tout ce qui peut empêcher l'introduction de l'air à l'intérieur de la coque. <lb/>
-                        <!--<term> ŒUFS A LA COQUE. </term>--> — On choisit des œufs frais, et on les plonge dans l'eau bouillante où ils séjourneront trois minutes. <lb/>
+                           <!--<seg corresp="#alimentsCuisine"> ŒUFS A LA COQUE. </seg>--> — On choisit des œufs frais, et on les plonge dans l'eau bouillante où ils séjourneront trois minutes. <lb/>
                            
                            <pb type="page" n="92"/>   
                            <fw type="header"> 92 SUZETTE. </fw>
         
-                        <!--<term> ŒUFS SUR LE PLAT. </term>--> — Mettez fondre dans un plat de faïence, de porcelaine ou de cuivre, autant de fois 45 grammes de beurre que vous vous proposez de faire cuire d'œufs. Lorsqu'il commence à bouillonner, cassez les œufs en vous gardant de rompre les jaunes, ce qui arriverait si on les faisait tomber de haut ; saupoudrez de sel et de poivre, et retirez lorsque le blanc commence à prendre. Quelquefois on pose sur le plat un couvercle chargé de braise ou de charbons ardents. <lb/>
-                        <!--<term> OMELETTE. </term>--> — Dans un vase de terre, cassez les œufs, saupoudrez de sel et de poivre et battez-les pendant deux ou trois minutes avec un peu de persil ou d'oseille hachée. Mettez sur le feu une poêle où vous ferez fondre du beurre à raison de six ou sept grammes par œuf ; lorsque le beurre devient clair et pétille sur les bords, versez les œufs et agitez-les doucement avec une fourchette, puis remuez la poêle de l'autre main. Lorsque le mélange a acquis quelque consistance, repliez l'omelette en deux après que vous l'avez retirée du fourneau ; placez-la ensuite quelques instants sur le feu, étendez-la sur un plat et servez immédiatement. <lb/>
-                        <!--<term> ŒUFS EN MATELOTE. </term>--> — Dans une sauce au vin bouillante où l'on n'a pas ménagé le beurre, cassez des œufs frais et retirez le tout au bout de trois minutes ; versez dans un plat et servez. <lb/>
-                        <!--<term> ŒUFS A LA NEIGE. </term>--> — Prenez un demi-litre de lait, deux cuillerées à bouche de fleurs d'oranger, 60 grammes de sucre ; mettez le tout dans une casserole et faites bouillir. Prenez six œufs ; séparez les jaunes des blancs, battez les blancs en neige bien ferme dans un lieu frais, et saupoudrez de sucre mêlé de vanille en poudre ou de fleurs d'oranger. Quand le lait a bouilli, mettez dedans vos œufs en neige par cuillerées : retournez-les avec une écumoire pour faire cuire de tous les côtés ; quand ils sont bien cuits, retirez-les et dressez-les sur le plat que vous devez servir. Faites lier le lait sur le feu avec des jaunes d'œufs délayés dans une cuillerée de lait ; versez sur les œufs à la neige ; laissez refroidir et sucrez. <note type="citation"> (<title>Cuisine des campagnes</title>, par <name type="author">Audot</name>.) </note> <lb/>
-                        <!--<term> SALADE AUX ŒUFS. </term>--> — Faites cuire des œufs durs à raison d'un par convive ; coupez-les en tranches sur la salade ; assaisonnez à l'huile et au vinaigre ; tournez et faites passer ensuite le saladier à la ronde. </ab>
+                           <!--<seg corresp="#alimentsCuisine"> ŒUFS SUR LE PLAT. </seg>--> — Mettez fondre dans un plat de faïence, de porcelaine ou de cuivre, autant de fois 45 grammes de beurre que vous vous proposez de faire cuire d'œufs. Lorsqu'il commence à bouillonner, cassez les œufs en vous gardant de rompre les jaunes, ce qui arriverait si on les faisait tomber de haut ; saupoudrez de sel et de poivre, et retirez lorsque le blanc commence à prendre. Quelquefois on pose sur le plat un couvercle chargé de braise ou de charbons ardents. <lb/>
+                           <!--<seg corresp="#alimentsCuisine"> OMELETTE. </seg>--> — Dans un vase de terre, cassez les œufs, saupoudrez de sel et de poivre et battez-les pendant deux ou trois minutes avec un peu de persil ou d'oseille hachée. Mettez sur le feu une poêle où vous ferez fondre du beurre à raison de six ou sept grammes par œuf ; lorsque le beurre devient clair et pétille sur les bords, versez les œufs et agitez-les doucement avec une fourchette, puis remuez la poêle de l'autre main. Lorsque le mélange a acquis quelque consistance, repliez l'omelette en deux après que vous l'avez retirée du fourneau ; placez-la ensuite quelques instants sur le feu, étendez-la sur un plat et servez immédiatement. <lb/>
+                           <!--<seg corresp="#alimentsCuisine"> ŒUFS EN MATELOTE. </seg>--> — Dans une sauce au vin bouillante où l'on n'a pas ménagé le beurre, cassez des œufs frais et retirez le tout au bout de trois minutes ; versez dans un plat et servez. <lb/>
+                           <!--<seg corresp="#alimentsCuisine"> ŒUFS A LA NEIGE. </seg>--> — Prenez un demi-litre de lait, deux cuillerées à bouche de fleurs d'oranger, 60 grammes de sucre ; mettez le tout dans une casserole et faites bouillir. Prenez six œufs ; séparez les jaunes des blancs, battez les blancs en neige bien ferme dans un lieu frais, et saupoudrez de sucre mêlé de vanille en poudre ou de fleurs d'oranger. Quand le lait a bouilli, mettez dedans vos œufs en neige par cuillerées : retournez-les avec une écumoire pour faire cuire de tous les côtés ; quand ils sont bien cuits, retirez-les et dressez-les sur le plat que vous devez servir. Faites lier le lait sur le feu avec des jaunes d'œufs délayés dans une cuillerée de lait ; versez sur les œufs à la neige ; laissez refroidir et sucrez. <note type="citation"> (<title>Cuisine des campagnes</title>, par <name type="author">Audot</name>.) </note> <lb/>
+                           <!--<seg corresp="#alimentsCuisine"> SALADE AUX ŒUFS. </seg>--> — Faites cuire des œufs durs à raison d'un par convive ; coupez-les en tranches sur la salade ; assaisonnez à l'huile et au vinaigre ; tournez et faites passer ensuite le saladier à la ronde. </ab>
                      </div>
                      
                      <div type="hygiene">

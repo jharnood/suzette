@@ -50,7 +50,7 @@
             </biblStruct>
          </sourceDesc>
      </fileDesc>
-    <profileDesc>
+          <profileDesc>
          <langUsage>
             <language ident="fra">French</language>
             <language ident="eng">English</language>
@@ -108,6 +108,12 @@
             </char>
             <char>
                <charName xml:id="la_bohemienne">La bohémienne</charName>
+            </char>
+            <char>
+               <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="les_dumay">La Famille Dumay</charName>
             </char>
          </charDecl>
          <classDecl>
@@ -516,12 +522,12 @@ On préserve les édifices de la chute de la foudre en fixant un paratonnerr
                            
                         <ab type="answer"> <note> (Voir, page 155, Livre de l'élève, la légende du dessin d'un paratonnerre.) </note> <!--Should this be a reference note?--> </ab>
                            
-                        <!--<term> LE TÉLÉGRAPHE ÉLECTRIQUE. </term>--> 
+                        <!--<seg corresp="#machinesAppareils"> LE TÉLÉGRAPHE ÉLECTRIQUE. </seg>--> 
                         <ab type="question"> — Que voit-on dans un bureau télégraphique et quel est l'objet de ces appareils ? — D'où provient le fluide électrique (qu'on y emploie) ? — Comment le transmet-on de bureau à bureau ? — Que savez-vous de la vitesse de ce fluide ? — Que fait-il agir au bureau d'arrivée ? </ab>
                            
-                        <ab type="answer"> Dans un bureau télégraphique, on voit, sur une table, un instrument nommé <term>récepteur</term>, dans lequel l'électricité fait agir un poinçon qui sert à écrire les signaux sur une longue bande de fort papier enroulée autour d'un tambour, et qui vient s'engager entre deux rouleaux de cuivre. <lb/>
-                        A côté est un autre appareil, <term>le manipulateur</term>, composé d'une petite planchette de bois servant de support à un levier de métal, qui est mobile par son milieu et frappe un bouton lorsque, au moyen de touches, on le met en communication avec les fils qui transmettent l’électricité de bureau à bureau. <lb/>
-                        Le fluide électrique qui circule dans les fils, provient d'appareils appelés <term>piles</term>, où il se développe au contact d'acides avec des feuilles de zinc et de cuivre. <lb/>
+                        <ab type="answer"> Dans un bureau télégraphique, on voit, sur une table, un instrument nommé <term type="telegraphe">récepteur</term>, dans lequel l'électricité fait agir un poinçon qui sert à écrire les signaux sur une longue bande de fort papier enroulée autour d'un tambour, et qui vient s'engager entre deux rouleaux de cuivre. <lb/>
+                        A côté est un autre appareil, <term type="telegraphe">le manipulateur</>, composé d'une petite planchette de bois servant de support à un levier de métal, qui est mobile par son milieu et frappe un bouton lorsque, au moyen de touches, on le met en communication avec les fils qui transmettent l’électricité de bureau à bureau. <lb/>
+                        Le fluide électrique qui circule dans les fils, provient d'appareils appelés <term type="telegraphe">piles</term>, où il se développe au contact d'acides avec des feuilles de zinc et de cuivre. <lb/>
                         On le transmet de bureau à bureau au moyen de fils de fer soutenus, de distance en distance, par des poteaux. Il se meut avec une vitesse telle qu'il lui faut moins d'une seconde pour effectuer le tour de la terre, et, lorsqu'il arrive au bureau, il actionne le levier qui fait marquer au poinçon les signes convenus sur la bande de papier dont il a été précédemment question. </ab>
                      </div>
                     

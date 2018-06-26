@@ -50,7 +50,7 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <profileDesc>
+            <profileDesc>
          <langUsage>
             <language ident="fra">French</language>
             <language ident="eng">English</language>
@@ -108,6 +108,12 @@
             </char>
             <char>
                <charName xml:id="la_bohemienne">La bohémienne</charName>
+            </char>
+            <char>
+               <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="les_dumay">La Famille Dumay</charName>
             </char>
          </charDecl>
          <classDecl>
@@ -509,8 +515,8 @@
                            <fw type="header"> LA CLEF DU TRÉSOR. 29 </fw>
                            
                            partie, tandis que le reste contracterait un goût détestable ; il ne faut donc jamais le perdre de vue, ce qu'oublie plus d'une petite fille à qui la maman a donné commission de veiller au fourneau. <lb/>
-                           On rend <term>mangeable</term> un mets brûlé en le plaçant dans un autre vase après avoir enlevé du morceau la viande détériorée ; on fait cuire ce qui reste sur un feu doux, en ayant soin de le couvrir de nouveaux aromates et de mettre soit du beurre frais, soit quelques tranches de lard au fond de la casserole. <lb/>
-                           Les <term>aromates</term> ou <term>condiments</term> communiquent à la viande quelque chose de l'odeur forte et agréable qui leur est particulière, et en rendent la digestion plus prompte et plus facile. Tels sont : l'ail, la ciboule, l'oignon, l'échalote, le laurier, le poireau, les câpres, les capucines, le persil, le cerfeuil, l'anis, l'estragon, le thym, le serpolet. Sur la même ligne, nous mettrons les <term>épices</term>, c'est-à-dire le poivre, le piment, la vanille, la cannelle, le girofle, la muscade. La plupart viennent de la Malaisie. <lb/>
+                           On rend <seg corresp="#alimentsCuisine">mangeable</seg> un mets brûlé en le plaçant dans un autre vase après avoir enlevé du morceau la viande détériorée ; on fait cuire ce qui reste sur un feu doux, en ayant soin de le couvrir de nouveaux aromates et de mettre soit du beurre frais, soit quelques tranches de lard au fond de la casserole. <lb/>
+                           Les <seg corresp="#alimentsCuisine">aromates</seg> ou <term>condiments</term> communiquent à la viande quelque chose de l'odeur forte et agréable qui leur est particulière, et en rendent la digestion plus prompte et plus facile. Tels sont : l'ail, la ciboule, l'oignon, l'échalote, le laurier, le poireau, les câpres, les capucines, le persil, le cerfeuil, l'anis, l'estragon, le thym, le serpolet. Sur la même ligne, nous mettrons les <seg corresp="#alimentsCuisine">épices</seg>, c'est-à-dire le poivre, le piment, la vanille, la cannelle, le girofle, la muscade. La plupart viennent de la Malaisie. <lb/>
                            On se procure les aromates ou condiments ainsi que les épices, soit en les cultivant dans son jardin, soit en les achetant chez les épiciers. <lb/>
                            Les cuisinières mettent du thym et du laurier dans les ragoûts et sur les viandes qu'on fait cuire dans leur jus. </ab>
                      </div>
@@ -520,11 +526,11 @@
                         
                         <ab type="question"> — Qu'est-ce que le palais ? — A quoi nous sert le nez qui est l'organe de l'odorat ? — Qu'est-ce qu’un papillon ? — Nommez-en quelques espèces. — D'où naissent-ils ? — Citez un papillon très utile. </ab>
                         
-                        <ab type="answer"> <term>Le palais</term> est la partie supérieure de l'intérieur de la bouche ; on le regarde comme le siège du goût. <lb/>
-                           <term>Le nez</term> est l'organe de l'odorat ; par lui nous avons la sensation des odeurs. Il forme saillie sur la face de l'homme, et les deux trous ou narines qui se trouvent à sa base donnent passage à l'air, lorsque ce gaz pénètre dans l'intérieur de la poitrine ou en est expulsé. Intérieurement, le nez est tapissé d'une membrane sécrétant continuellement une humeur particulière qui maintient à l'organe toute sa sensibilité. <lb/>
-                           <term>Le papillon</term> est un insecte dont la bouche en forme de trompe a une conformation telle que l'animal peut aspirer le suc des fleurs ; ses deux paires d'ailes sont membraneuses et souvent ornées des plus riches couleurs. <lb/>
-                           Le papillon provient d'un œuf qui bientôt donne naissance à une larve ou chenille. La chenille, à son tour, change d'état et se transforme en <term>nymphe</term> ou <term>chrysalide</term> après avoir filé un cocon où elle repose privée de mouvement jusqu'à l'instant où, une nouvelle métamorphose s'étant produite, on en voit sortir un papillon qui prend immédiatement son essor dans les airs. <lb/>
-                           Les papillons se divisent en un très grand nombre d'espèces ; nous indiquerons le <term>Vulcain</term>, à bandes de feu ; le <term>Paon de jour</term>, avec quatre superbes yeux d'un bleu violet ; la <term>Belle-Dame</term>, les <term>Piérides</term>, papillons blancs funestes aux choux, navets, radis, etc. ; le <term>Sphinx</term>, très nuisible aux abeilles, dont il mange le miel. Parmi les papillons utiles, nous citerons le <term>bombyx</term> du ver à soie, dont la chenille tisse un cocon formé par un fil brillant et solide, la soie, avec lequel on confectionne de superbes étoffes. </ab>
+                        <ab type="answer"> <seg corresp="#homme">Le palais</seg> est la partie supérieure de l'intérieur de la bouche ; on le regarde comme le siège du goût. <lb/>
+                           <seg corresp="#homme">Le nez</seg> est l'organe de l'odorat ; par lui nous avons la sensation des odeurs. Il forme saillie sur la face de l'homme, et les deux trous ou narines qui se trouvent à sa base donnent passage à l'air, lorsque ce gaz pénètre dans l'intérieur de la poitrine ou en est expulsé. Intérieurement, le nez est tapissé d'une membrane sécrétant continuellement une humeur particulière qui maintient à l'organe toute sa sensibilité. <lb/>
+                           <seg corresp="#animauxSauvages">Le papillon</seg> est un insecte dont la bouche en forme de trompe a une conformation telle que l'animal peut aspirer le suc des fleurs ; ses deux paires d'ailes sont membraneuses et souvent ornées des plus riches couleurs. <lb/>
+                           Le papillon provient d'un œuf qui bientôt donne naissance à une larve ou chenille. La chenille, à son tour, change d'état et se transforme en <term type="papillon">nymphe</term> ou <term type="papillon">chrysalide</term> après avoir filé un cocon où elle repose privée de mouvement jusqu'à l'instant où, une nouvelle métamorphose s'étant produite, on en voit sortir un papillon qui prend immédiatement son essor dans les airs. <lb/>
+                           Les papillons se divisent en un très grand nombre d'espèces ; nous indiquerons le <term type="papillon">Vulcain</term>, à bandes de feu ; le <term type="papillon">Paon de jour</term>, avec quatre superbes yeux d'un bleu violet ; la <term type="papillon">Belle-Dame</term>, les <term type="papillon">Piérides</term>, papillons blancs funestes aux choux, navets, radis, etc. ; le <term type="papillon">Sphinx</term>, très nuisible aux abeilles, dont il mange le miel. Parmi les papillons utiles, nous citerons le <term type="papillon">bombyx</term> du ver à soie, dont la chenille tisse un cocon formé par un fil brillant et solide, la soie, avec lequel on confectionne de superbes étoffes. </ab>
                         
                      </div>
                   </div>

@@ -50,7 +50,7 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <profileDesc>
+            <profileDesc>
          <langUsage>
             <language ident="fra">French</language>
             <language ident="eng">English</language>
@@ -108,6 +108,12 @@
             </char>
             <char>
                <charName xml:id="la_bohemienne">La bohémienne</charName>
+            </char>
+            <char>
+               <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="les_dumay">La Famille Dumay</charName>
             </char>
          </charDecl>
          <classDecl>
@@ -485,7 +491,7 @@
                         <ab type="question"> — Que prouvait l'aspect de la chambre où la famille était réunie ? — Qu'est-ce qu'avoir de la propreté, de l'ordre et du soin ? — Quel est l'enfant du fermier qui est le plus à plaindre, et pourquoi ? </ab>
                         
                         <ab type="answer"> L'aspect de la chambre où la famille était réunie, prouvait que personne n'avait eu jusqu'alors la pensée de la nettoyer. En effet, le sol était couvert de débris que les enfants auraient pu enlever s'ils eussent été plus soigneux, comme le font d'ailleurs la plupart de ceux dont les parents sont retenus longtemps au dehors par leurs travaux quotidiens. <lb/>
-                           <term>Avoir de la propreté</term>, c'est ne laisser aucune tache, aucune souillure sur son corps, sur ses vêtements et dans la maison que l'on habite : nulle qualité ne dispose mieux les autres en notre faveur. — <term>Avoir de l'ordre</term>, c'est réserver une place à chaque chose et placer toujours cette chose à sa place. Dans une chambre, par exemple, les chaises seront rangées le long des murs ; la vaisselle s’alignera sur les rayons du dressoir ; les vêtements seront suspendus, l'un à côté de l'autre, dans la garde-robe ; enfin, le linge reposera sur les tablettes de l'armoire. — <term>Avoir du soin</term>, c'est apporter beaucoup d'attention et d'application à ce qu'on fait. Une jeune fille soigneuse n'oubliera pas de recoudre un bouton, de nouer un lacet, de surveiller le lait qu'elle met bouillir, de ponctuer ses devoirs, etc. <lb/>
+                           <seg corresp="#devoirsSoiMeme">Avoir de la propreté</seg>, c'est ne laisser aucune tache, aucune souillure sur son corps, sur ses vêtements et dans la maison que l'on habite : nulle qualité ne dispose mieux les autres en notre faveur. — <seg corresp="#devoirsSoiMeme">Avoir de l'ordre</seg>, c'est réserver une place à chaque chose et placer toujours cette chose à sa place. Dans une chambre, par exemple, les chaises seront rangées le long des murs ; la vaisselle s’alignera sur les rayons du dressoir ; les vêtements seront suspendus, l'un à côté de l'autre, dans la garde-robe ; enfin, le linge reposera sur les tablettes de l'armoire. — <!--<term>-->Avoir du soin<!--</term>-->, c'est apporter beaucoup d'attention et d'application à ce qu'on fait. Une jeune fille soigneuse n'oubliera pas de recoudre un bouton, de nouer un lacet, de surveiller le lait qu'elle met bouillir, de ponctuer ses devoirs, etc. <lb/>
                            
                            <pb type="page" n="4"/>
                            <fw type="header"> 4 SUZETTE. </fw>
@@ -498,9 +504,9 @@
                         
                         <ab type="question"> — Comment appelle-t-on les animaux qui vivent à la maison ? — Quels services rend le chien ? — Quels services rend le chat ? — Quelles sont les principales qualités du chien ? — Quels sont les défauts du chat ? — Nommez les principales espèces de chiens et leurs aptitudes. </ab>
                         
-                        <ab type="answer"> Les animaux qui vivent à la maison et nous rendent des services, sont appelés <term>animaux domestiques</term> : tels sont le chien, le chat, l'âne, le cheval, le bœuf et la vache, la brebis, la chèvre. <lb/>
-                           <term>Le chien</term> met au service de l'homme son courage, sa force, ses talents. Il garde les troupeaux et veille à la sûreté du logis ; il seconde son maître dans la poursuite du gibier et des bêtes dangereuses ou féroces ; enfin, il n'hésite pas à exposer sa vie pour sauver celle des personnes qu'il aime. <lb/>
-                           <term>Le chat</term> débarrasse la maison des souris et des rats, animaux malfaisants qui mangent les grains et les provisions mises en réserve, rongent le linge, les papiers et dévastent nos jardins. <lb/>
+                        <ab type="answer"> Les animaux qui vivent à la maison et nous rendent des services, sont appelés <seg corresp="#animauxDomestique">animaux domestiques</seg> : tels sont le chien, le chat, l'âne, le cheval, le bœuf et la vache, la brebis, la chèvre. <lb/>
+                           <seg corresp="#animauxDomestique">Le chien</seg> met au service de l'homme son courage, sa force, ses talents. Il garde les troupeaux et veille à la sûreté du logis ; il seconde son maître dans la poursuite du gibier et des bêtes dangereuses ou féroces ; enfin, il n'hésite pas à exposer sa vie pour sauver celle des personnes qu'il aime. <lb/>
+                           <seg corresp="#animauxDomestique">Le chat</seg> débarrasse la maison des souris et des rats, animaux malfaisants qui mangent les grains et les provisions mises en réserve, rongent le linge, les papiers et dévastent nos jardins. <lb/>
                            Le chien est affectueux pour son maître et les personnes de la maison ; il est tout zèle, tout ardeur, tout obéissance, plus sensible au souvenir des bienfaits qu'à celui des outrages. Il ne se rebute pas par les mauvais traitements ; il les subit, les oublie ; il n'oppose que la plainte à la main qui le frappe et la désarme par sa patience. <lb/>
                            Le chat ne paraît jamais complètement apprivoisé ; il est rusé, vindicatif ; il aime à vivre de rapine, et, en général, s'attache moins aux personnes qu'aux lieux où il fut élevé. <lb/>
                            Les principales espèces de chiens sont : le chien de berger, qui dirige et surveille les troupeaux ; le chien de garde, qui veille à la sûreté des habitations ; les épagneuls, les bassets, les lévriers, dressés pour la chasse ; les caniches, remarquables par leur intelligence ; les terreneuve et les chiens du Saint-Bernard, qui se dévouent pour l'homme ; enfin, les chiens d'agrément. </ab>

@@ -50,7 +50,7 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <profileDesc>
+            <profileDesc>
          <langUsage>
             <language ident="fra">French</language>
             <language ident="eng">English</language>
@@ -108,6 +108,12 @@
             </char>
             <char>
                <charName xml:id="la_bohemienne">La bohémienne</charName>
+            </char>
+            <char>
+               <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="les_dumay">La Famille Dumay</charName>
             </char>
          </charDecl>
          <classDecl>
@@ -518,12 +524,12 @@
                         <ab type="answer"> Travailler isolément, c'est commencer seul et achever seul une tâche quelconque. Un homme qui voudrait faire, sans aide aucune, une maison d'habitation, un outil, travaillerait isolément. La fermière qui fait son pain, allume son four, y met le pain, l'y laisse cuire, le retire, est dans le même cas. <lb/>
                         Un travail demande beaucoup plus de temps, lorsqu'il est long et compliqué, si la même personne l'exécute ; il est encore bien plus dispendieux. Aussi y a-t-il longtemps que les hommes se sont associés afin que chacun, exécutant toujours la même tâche, puisse la faire mieux, plus vite et à meilleur compte. Qu'en serait-il, par exemple, si chaque père et mère de famille étaient tenus de bâtir leur maison, de confectionner leurs meubles, leurs outils, les étoffes des vêtements, les chaussures, etc., etc ? ils n'auraient pas un instant pour cultiver le champ et le jardin qui doivent produire la nourriture nécessaire. <lb/>
                         Qui pourrait d'ailleurs se passer entièrement de l'aide et du secours d'autrui ? Nous en avons besoin dans l'enfance ; nous en avons besoin en tout et toujours. Représentez-vous un homme seul, sans relations avec ses semblables, n'en recevant rien, ne leur rendant rien : ce serait le sauvage au milieu des bois ; ce serait bien moins que le sauvage, car le sauvage vit en famille, en société ; ce serait bien moins que l'animal qui a sa femelle et ses petits dont il prend soin, et qui s'associe souvent encore, soit pour la défense réciproque, soit pour un travail commun, avec des individus de même espèce. <lb/>
-                        A côté de cette association générale qui constitue ce que nous appelons les sociétés humaines ou simplement la société, il existe des associations particulières entre un certain nombre de personnes ; leur objet est de pourvoir aux nécessités qui résultent de l'incapacité de travail, de la maladie, de la vieillesse pour chacun des membres successivement. On les dénomme <term>sociétés de secours mutuels</term>. <lb/>
-                        Elles se constituent en choisissant parmi les membres un président, un bureau, un caissier, un secrétaire. Le bureau, à la tête duquel est le président, vérifie les comptes du caissier auquel tous les membres versent chaque année une somme fixe appelée <term>cotisation</term> ; il examine ensuite les demandes de secours et détermine le montant de la somme à allouer à chacun des solliciteurs. Le secrétaire prend note de toutes les décisions du bureau. <lb/>
+                        A côté de cette association générale qui constitue ce que nous appelons les sociétés humaines ou simplement la société, il existe des associations particulières entre un certain nombre de personnes ; leur objet est de pourvoir aux nécessités qui résultent de l'incapacité de travail, de la maladie, de la vieillesse pour chacun des membres successivement. On les dénomme <!--<seg corresp="#devoirsSemblables">sociétés de secours mutuels</seg>-->. <lb/>
+                        Elles se constituent en choisissant parmi les membres un président, un bureau, un caissier, un secrétaire. Le bureau, à la tête duquel est le président, vérifie les comptes du caissier auquel tous les membres versent chaque année une somme fixe appelée <!--<seg corresp="#devoirsSemblables">cotisation</seg>--> ; il examine ensuite les demandes de secours et détermine le montant de la somme à allouer à chacun des solliciteurs. Le secrétaire prend note de toutes les décisions du bureau. <lb/>
                         Ainsi, chaque membre de l'association est assuré d'avoir toujours le nécessaire ; pour lui d'abord, puis pour les siens, s'il tombe malade ou s'il lui devient impossible de travailler, enfin s'il meurt sans laisser de ressources. <lb/>
                         Parmi ces associations dont l'État surveille les opérations, il y a : <lb/>
-                        La <term>société d'assurance</term> contre les accidents, qui garantit à chaque membre une pension de 300 francs dès qu'il sera incapable de travailler ; <lb/>
-                        La <term>Caisse des retraites</term>, institution dont l'objet est de procurer aux
+                        La <!--<seg corresp="#devoirsSemblables">société d'assurance</seg>--> contre les accidents, qui garantit à chaque membre une pension de 300 francs dès qu'il sera incapable de travailler ; <lb/>
+                        La <!--<seg corresp="#devoirsSemblables">Caisse des retraites</seg>-->, institution dont l'objet est de procurer aux
                            
                   <fw type="sig"> 22. </fw>
          
@@ -548,10 +554,10 @@ plus pauvres, par le versement annuel d'une faible somme, une existence assurée
                         
                         <ab type="question"> — Décrire l'abeille sous ses différents états. — Décrire un rayon de miel. — Forme des alvéoles. </ab>
                         
-                        <ab type="answer"> L'<term>abeille ouvrière</term> est un petit insecte d'une couleur brun roux, ayant deux paires d'ailes et trois paires de pattes dont les postérieures sont garnies de palettes et de brosses pour récolter le pollen des fleurs, dont elle composera son miel. Sa bouche est munie d'une trompe qu'elle applique contre les pétales ; elle en aspire le suc, rentre sa trompe dans sa bouche et dépose son butin dans un conduit d'où il passe dans l'estomac. Un aiguillon lui sert d'arme pour se défendre. <lb/>
-                        La <term>femelle</term> ou <term>reine</term> est une abeille plus grosse que les autres, dont l'unique fonction est de pondre les œufs d'où naîtront les petites larves qui, convenablement nourries, arriveront à l'état d'abeilles parfaites. <lb/>
-                        Les <term>faux bourdons</term> sont les abeilles mâles ; ils ne vont pas à la recherche du miel ; aussi, dès la ponte des œufs de la reine, ils sont mis à mort. Leur nombre est à peine le dixième de celui des ouvrières. <lb/>
-                        Une ruche compte de 15,000 à 30,000 individus. Les abeilles déposent le miel qu'elles produisent dans de petites constructions de cire, à six faces latérales, appelées <term>alvéoles</term> ; la régularité de ce travail est vraiment extraordinaire. C'est encore dans les alvéoles qu'elles placent les œufs et que grossissent les larves. Leur réunion forme un gâteau. </ab>
+                        <ab type="answer"> L'<term type="abeille">abeille ouvrière</term> est un petit insecte d'une couleur brun roux, ayant deux paires d'ailes et trois paires de pattes dont les postérieures sont garnies de palettes et de brosses pour récolter le pollen des fleurs, dont elle composera son miel. Sa bouche est munie d'une trompe qu'elle applique contre les pétales ; elle en aspire le suc, rentre sa trompe dans sa bouche et dépose son butin dans un conduit d'où il passe dans l'estomac. Un aiguillon lui sert d'arme pour se défendre. <lb/>
+                        La <term type="abeille">femelle</term> ou <term type="abeille">reine</term> est une abeille plus grosse que les autres, dont l'unique fonction est de pondre les œufs d'où naîtront les petites larves qui, convenablement nourries, arriveront à l'état d'abeilles parfaites. <lb/>
+                        Les <term type="abeille">faux bourdons</term> sont les abeilles mâles ; ils ne vont pas à la recherche du miel ; aussi, dès la ponte des œufs de la reine, ils sont mis à mort. Leur nombre est à peine le dixième de celui des ouvrières. <lb/>
+                        Une ruche compte de 15,000 à 30,000 individus. Les abeilles déposent le miel qu'elles produisent dans de petites constructions de cire, à six faces latérales, appelées <term type="abeille">alvéoles</term> ; la régularité de ce travail est vraiment extraordinaire. C'est encore dans les alvéoles qu'elles placent les œufs et que grossissent les larves. Leur réunion forme un gâteau. </ab>
                      </div>
                      
                      <div type="hygiene">

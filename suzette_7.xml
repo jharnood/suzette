@@ -50,7 +50,7 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <profileDesc>
+           <profileDesc>
          <langUsage>
             <language ident="fra">French</language>
             <language ident="eng">English</language>
@@ -108,6 +108,12 @@
             </char>
             <char>
                <charName xml:id="la_bohemienne">La bohémienne</charName>
+            </char>
+            <char>
+               <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="les_dumay">La Famille Dumay</charName>
             </char>
          </charDecl>
          <classDecl>
@@ -525,8 +531,8 @@
                         
                         <ab type="question"> — Qu'est-ce qu'un bois ; une forêt ? — Qu'est-que l'on en retire ? — Que font les pauvres gens qui ne peuvent acheter du bois ? — A quoi sert le bois des grands arbres? </ab>
                         
-                        <ab type="answer"> <term>Un bois</term> est un espace de terrain couvert d'arbres que l'on coupe à des époques fixes, soit pour les besoins du chauffage, soit pour en obtenir des pièces de charpente, des pieux, des cercles, etc. <lb/>
-                           <term>Une forêt</term> est un bois qui couvre une grande superficie et où on laisse croître les grands arbres dont l'État et les particuliers ont besoin pour les constructions navales. Une foule d'animaux sauvages y habitent ; tels sont les cerfs et les biches, les chevreuils, les sangliers, les blaireaux, sans compter le gibier à poil et à plume. Dans les régions montagneuses, elles donnent asile aux loups, aux ours et à d'autres bêtes carnassières. Les plus belles forêts de France sont celles de Fontainebleau, de Compiègne, d'Orléans et celles qui couvrent les Landes ainsi que les pentes du Jura, des Vosges, du Morvan. <lb/>
+                        <ab type="answer"> <seg corresp="#arbreNoncultives">Un bois</seg> est un espace de terrain couvert d'arbres que l'on coupe à des époques fixes, soit pour les besoins du chauffage, soit pour en obtenir des pièces de charpente, des pieux, des cercles, etc. <lb/>
+                           <seg corresp="#arbreNoncultives">Une forêt</seg> est un bois qui couvre une grande superficie et où on laisse croître les grands arbres dont l'État et les particuliers ont besoin pour les constructions navales. Une foule d'animaux sauvages y habitent ; tels sont les cerfs et les biches, les chevreuils, les sangliers, les blaireaux, sans compter le gibier à poil et à plume. Dans les régions montagneuses, elles donnent asile aux loups, aux ours et à d'autres bêtes carnassières. Les plus belles forêts de France sont celles de Fontainebleau, de Compiègne, d'Orléans et celles qui couvrent les Landes ainsi que les pentes du Jura, des Vosges, du Morvan. <lb/>
                            Au commencement de la saison rigoureuse, les pauvres gens auxquels leur position de fortune ne permet pas d'acheter du bois de chauffage, ramassent, dans les forêts, ou les bois les rameaux desséchés et les branches mortes ; ils en forment des fagots qu'ils transportent péniblement dans leurs habitations. <lb/>
                            Le bois des grands arbres sert aux constructions navales, comme nous l'avons déjà dit ; on en tire encore des pièces de charpente : poutres, solives, planches ; on en confectionne des pilotis, des machines, des meubles, des outils et une foule d'objets d'un usage quotidien. </ab>
                         

@@ -50,7 +50,7 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <profileDesc>
+           <profileDesc>
          <langUsage>
             <language ident="fra">French</language>
             <language ident="eng">English</language>
@@ -108,6 +108,12 @@
             </char>
             <char>
                <charName xml:id="la_bohemienne">La bohémienne</charName>
+            </char>
+            <char>
+               <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="les_dumay">La Famille Dumay</charName>
             </char>
          </charDecl>
          <classDecl>
@@ -510,7 +516,7 @@
                         
                         <ab type="question"> — Quelles plantes inutiles croissent naturellement dans les champs ? —Quelles sont celles qui sont les plus communes dans le canton ? — Décrivez chacune d'elles. — Parlez du préjudice qu'elles causent par leur multiplication. — Quels sont les moyens de les détruire ? </ab>
                         
-                        <ab type="answer"> Les <term>plantes inutiles</term> qui croissent naturellement dans les champs sont : le chiendent, l'ortie, le chardon, la camomille, la moutarde sauvage, la mercuriale, l'ivraie, la fumeterre, etc. <lb/>
+                        <ab type="answer"> Les <seg corresp="#herbesPlantes">plantes inutiles</seg> qui croissent naturellement dans les champs sont : le chiendent, l'ortie, le chardon, la camomille, la moutarde sauvage, la mercuriale, l'ivraie, la fumeterre, etc. <lb/>
                         Dans notre canton, on remarque... <lb/>
                         <note> (Ici se place la description de chaque plante dont il faudra présenter aux élèves <term>une image exacte</term> ou mieux <term>un spécimen</term> cueilli le jour
           
@@ -519,18 +525,18 @@
          
 même ou tiré de l'herbier du musée scolaire. Viendra ensuite l'indication des moyens les plus efficaces pour les détruire.) </note> </ab>
                         
-                        <!--<term> LA POMME DE TERRE. </term>-->
+                        <!--LA POMME DE TERRE.-->
                         <ab type="question"> — Décrire la plante. — Parler de la manière de la cultiver, des terrains qu'elle affectionne, des principales espèces de cette plante. — Raconter comment Parmentier la fit adopter comme plante alimentaire. </ab>
                         <ab type="answer"> On classe le végétal qui produit la pomme de terre parmi les plantes herbacées. Sa tige atteint une hauteur de 0m,40 à 0m,60 ; elle porte des feuilles cotonneuses en dessous et d'un vert foncé à la partie supérieure. Les fleurs, réunies en touffes, sont blanches, violettes ou roses, et les fruits forment des baies sphériques verdâtres, grosses comme des noix au minimum. <lb/>
                         Au pied de la plante et dans l'intérieur du sol, apparaissent des renflements de la tige souterraine, sous la forme de tubercules pleins de fécule qui fournissent un aliment précieux. <lb/>
-                        <term>On cultive la pomme de terre</term> de préférence dans les terrains calcaires ou sablonneux. Aux premiers jours d'avril, on creuse des trous dans un champ préalablement fumé et labouré, et l'on jette dans chacun une petite pomme de terre ou un fragment d'un gros tubercule muni d'un œilleton. La plante croît et fleurit ; on bine le terrain plusieurs fois ; enfin on butte les pieds et, finalement, quand, au mois de septembre, les tiges fanent, on arrache les pommes de terre. <lb/>
-                        <term>Les principales espèces de pommes de terre</term> sont : <lb/>
-                        La pomme de terre <term>marjolin</term>, peu productive, mais très précoce ; <lb/>
-                        La jaune longue de <term>Hollande</term> ou <term>quarantaine</term>, un peu plus tardive, mais d'un meilleur rapport ; <lb/>
-                        La pomme de terre <term>saucisse</term> ou <term>Canada</term>, rouge, plate et d'excellente qualité ; <lb/>
-                        La pomme de terre <term>Chardin</term>, grosse, jaune, avec des yeux profonds ; <lb/>
-                        La pomme de terre <term>Champien</term>, blanche, ronde, dont les tubercules sont d'excellente qualité. <lb/>
-                        <term>La pomme de terre</term>, importée en Angleterre en 1568, passa de là en Hollande et en France ; mais elle ne fut cultivée dans notre pays que comme un fruit rare et précieux. Ce fut à la suite de la grande famine de 1771 que, l'académie de Besançon ayant proposé pour sujet de concours « la recherche de substances pouvant atténuer les calamités de la disette », Parmentier (natif de Montdidier) <!--Is this some form of reference?--> se mit à étudier la pomme de terre. En 1779, il prouva qu'elle renferme tous les principes d'un aliment substantiel et sain. Sa démonstration cependant ne convainquit personne et rencontra les plus étranges préjugés. Il ne perdit pas courage, acheta près de Versailles la concession d'un vaste terrain sablonneux et y planta des pommes de terre. Peu à peu, grâce à la protection éclairée de Louis XVI, on apprécia le précieux tubercule, on en mangea sur les tables des riches, et bientôt la culture s'en étendit rapidement. </ab>
+                        <term type="pommeDeTerre">On cultive la pomme de terre</term> de préférence dans les terrains calcaires ou sablonneux. Aux premiers jours d'avril, on creuse des trous dans un champ préalablement fumé et labouré, et l'on jette dans chacun une petite pomme de terre ou un fragment d'un gros tubercule muni d'un œilleton. La plante croît et fleurit ; on bine le terrain plusieurs fois ; enfin on butte les pieds et, finalement, quand, au mois de septembre, les tiges fanent, on arrache les pommes de terre. <lb/>
+                        <term type="pommeDeTerre">Les principales espèces de pommes de terre</term> sont : <lb/>
+                        La pomme de terre <term type="pommeDeTerre">marjolin</term>, peu productive, mais très précoce ; <lb/>
+                        La jaune longue de <term type="pommeDeTerre">Hollande</term> ou <term type="pommeDeTerre">quarantaine</term>, un peu plus tardive, mais d'un meilleur rapport ; <lb/>
+                        La pomme de terre <term type="pommeDeTerre">saucisse</term> ou <term type="pommeDeTerre">Canada</term>, rouge, plate et d'excellente qualité ; <lb/>
+                        La pomme de terre <term type="pommeDeTerre">Chardin</term>, grosse, jaune, avec des yeux profonds ; <lb/>
+                        La pomme de terre <term type="pommeDeTerre">Champien</term>, blanche, ronde, dont les tubercules sont d'excellente qualité. <lb/>
+                        <seg corresp="#legumesRacines">La pomme de terre</seg>, importée en Angleterre en 1568, passa de là en Hollande et en France ; mais elle ne fut cultivée dans notre pays que comme un fruit rare et précieux. Ce fut à la suite de la grande famine de 1771 que, l'académie de Besançon ayant proposé pour sujet de concours « la recherche de substances pouvant atténuer les calamités de la disette », Parmentier (natif de Montdidier) <!--Is this some form of reference?--> se mit à étudier la pomme de terre. En 1779, il prouva qu'elle renferme tous les principes d'un aliment substantiel et sain. Sa démonstration cependant ne convainquit personne et rencontra les plus étranges préjugés. Il ne perdit pas courage, acheta près de Versailles la concession d'un vaste terrain sablonneux et y planta des pommes de terre. Peu à peu, grâce à la protection éclairée de Louis XVI, on apprécia le précieux tubercule, on en mangea sur les tables des riches, et bientôt la culture s'en étendit rapidement. </ab>
                      </div>
                      
                      <div type="EconDom">

@@ -50,7 +50,7 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-       <profileDesc>
+            <profileDesc>
          <langUsage>
             <language ident="fra">French</language>
             <language ident="eng">English</language>
@@ -108,6 +108,12 @@
             </char>
             <char>
                <charName xml:id="la_bohemienne">La bohémienne</charName>
+            </char>
+            <char>
+               <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="les_dumay">La Famille Dumay</charName>
             </char>
          </charDecl>
          <classDecl>
@@ -482,8 +488,8 @@ qui, après trois siècles, continuent de nous éclairer. </p>
                         
                         <ab type="question"> — Écrire en marge d'une feuille de papier, et les uns au-dessous des autres, tous les verbes de l'alinéa commençant par Aux vacances… et ceux des deux suivants. — Indiquer à côté de chacun de ces verbes le mode et le temps auxquels ils sont employés. </ab>
                         
-                        <ab type="answer">  MODÈLE. <!--Should this be futher tagged as some sort of category--> — <!--<seg corresp="#francais">-->Verrez<!--</seg>-->, mode indic., temps futur. <lb/>
-                        <!--<seg corresp="#francais">-->Taillera<!--</seg>-->, mode indic., temps futur.
+                        <ab type="answer">  MODÈLE. <!--Should this be futher tagged as some sort of category--> — <seg corresp="#francais">Verrez</seg>, mode indic., temps futur. <lb/>
+                        <seg corresp="#francais">Taillera</seg>, mode indic., temps futur.
                         <!--Should this whole section be a model instead of answer?--> </ab>
                      </div>
                            
@@ -494,14 +500,14 @@ qui, après trois siècles, continuent de nous éclairer. </p>
                         
                         <ab type="answer"> <seg corresp="#sciencesPhys">La physique</seg> étudie les-propriétés des corps, telles que l'élasticité, la pesanteur, la divisibilité, ainsi que les phénomènes (1)<note type="foot">(1) On appelle phénomène toute chose qui vient à apparaître dans les corps, comme, par exemple, la formation de la vapeur, la dilatation de l'eau chauffée, l'apparition de l'arc-en-ciel, l'ascension d'un liquide dans un morceau de sucre dont la base seule est en contact avec ce liquide, l'écho, le grossissement des objets à travers les lunettes.</note> qui ne changent pas leur nature. <lb/>
                         <seg corresp="#sciencesPhys">La chimie</seg> étudie les combinaisons des corps, comme celle de l'huile et de la soude qui donne le savon, et les phénomènes qui modifient leur nature, par exemple celui de la fermentation du vin nouveau dans les fûts. <lb/>
-                        <!--<seg corresp="#sciencesPhys">-->Un gaz<!--</seg>--> est un corps semblable à l'air que nous respirons. Les gaz
+                           <!--<seg ana="#sciencesPhys">-->Un gaz<!--</seg>--> est un corps semblable à l'air que nous respirons. Les gaz
          
                   <pb type="page" n="78"/>   
                   <fw type="header"> 78 SUZETTE. </fw>
          
                         sont élastiques, souvent invisibles, et les moins pesants de tous les, corps ; la plupart dégagent une odeur caractéristique. On connaît celle de l'acide sulfureux, gaz produit lorsque le soufre brûle et celle des gaz qui se dégagent des chairs en putréfaction. <lb/>
                         <seg ana="#sciencesPhys">L'air</seg> est composé de deux gaz ; l'oxygène et l'azote, tous deux inodores et invisibles. <lb/>
-                        <seg ana="#mineraux">Le carbone</seg> ou <term>charbon</term> est le corps solide qui forme les végétaux ; si on les soumet, en effet, à une forte chaleur dans un lieu clos, l'eau qu'ils contiennent s'évapore et il ne reste plus qu'une substance noirâtre : le charbon. </ab>
+                           <seg ana="#mineraux">Le carbone</seg> ou <seg ana="#mineraux">charbon</seg> est le corps solide qui forme les végétaux ; si on les soumet, en effet, à une forte chaleur dans un lieu clos, l'eau qu'ils contiennent s'évapore et il ne reste plus qu'une substance noirâtre : le charbon. </ab>
                      </div>                        
                      
                      <div type="industrie">
@@ -510,7 +516,7 @@ qui, après trois siècles, continuent de nous éclairer. </p>
                         <ab type="question"> — Quels vases, quels appareils, quels instruments voit-on dans un laboratoire ? </ab>
           
                         <ab type="answer"> On remarque dans un laboratoire des fourneaux, des creusets, des fioles et des tubes de verre, des chalumeaux, des lampes à esprit-de-vin, des cornues, des appareils qui produisent de l'électricité. <lb/>
-                        Les <!--<seg corresp="#machinesAppareils">-->cornues<!--</seg>--> ressemblent à des poires creuses de verre et se prolongent en un tube allongé. </ab>
+                        Les <term>cornues</term> ressemblent à des poires creuses de verre et se prolongent en un tube allongé. </ab>
                      </div>
                      
                      <div type="agriculture">
@@ -518,7 +524,7 @@ qui, après trois siècles, continuent de nous éclairer. </p>
                         
                         <ab type="question"> — Que nous apprennent l'horticulture et l'arboriculture ? </ab>
                         
-                        <ab type="answer"> <!--<seg corresp="#scienceNat">-->L'horticulture<!--</seg>-->, branche de la science de l'agriculture, nous apprend quels soins il faut donner à un jardin (<!--<seg corresp="#vegetaux">-->hortus<!--</seg>-->, en latin) pour en obtenir de bons produits en abondance. <!--<seg corresp="#scienceNat">-->L'arboriculture<!--</seg>--> traite des arbres fruitiers et des moyens de les améliorer. </ab>
+                        <ab type="answer"> <term>L'horticulture</term>, branche de la science de l'agriculture, nous apprend quels soins il faut donner à un jardin (<term>hortus</term>, en latin) pour en obtenir de bons produits en abondance. <term>L'arboriculture</term> traite des arbres fruitiers et des moyens de les améliorer. </ab>
                      </div>
                   </div>
                </div>
