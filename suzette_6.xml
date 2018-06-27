@@ -50,7 +50,7 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <profileDesc>
+           <profileDesc>
          <langUsage>
             <language ident="fra">French</language>
             <language ident="eng">English</language>
@@ -108,6 +108,12 @@
             </char>
             <char>
                <charName xml:id="la_bohemienne">La bohémienne</charName>
+            </char>
+            <char>
+               <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="les_dumay">La Famille Dumay</charName>
             </char>
          </charDecl>
          <classDecl>
@@ -506,8 +512,8 @@
                            <fw type="header"> 22 SUZETTE. </fw>
                            
                            2° On lave les vitres avec de l'eau contenant un vingtième d'eau-de-vie, et on les frotte ensuite avec un linge propre jusqu'à ce qu'elles soient bien claires. <lb/>
-                           Le <term>lavage de la vaisselle</term> suppose qu'à l'avance on a fait chauffer de l'eau à une température voisine de l'ébullition et que, si les pièces à nettoyer sont très grasses, on a jeté dans le liquide quelques cristaux. Alors on plonge les assiettes et les plats dans ce liquide, et on les y frotte séparément avec un chiffon de vieux linge fixé à l'extrémité d'un petit bâton. Il ne reste plus qu'à les retirer, à les faire égoutter et à les essuyer avec un torchon bien propre. <lb/>
-                           Pour rendre les <term>meubles nets et luisants</term>, s'ils sont recouverts d'un placage et vernis, on les frotte avec des chiffons de vieux linge de coton. Les meubles de bois ciré sont brossés d'abord, puis frottés comme il vient d’être dit, avec une peau souple. </ab>
+                           Le <seg corresp="#economieDomestique">lavage de la vaisselle</seg> suppose qu'à l'avance on a fait chauffer de l'eau à une température voisine de l'ébullition et que, si les pièces à nettoyer sont très grasses, on a jeté dans le liquide quelques cristaux. Alors on plonge les assiettes et les plats dans ce liquide, et on les y frotte séparément avec un chiffon de vieux linge fixé à l'extrémité d'un petit bâton. Il ne reste plus qu'à les retirer, à les faire égoutter et à les essuyer avec un torchon bien propre. <lb/>
+                           Pour rendre les <seg corresp="#economieDomestique">meubles nets et luisants</seg>, s'ils sont recouverts d'un placage et vernis, on les frotte avec des chiffons de vieux linge de coton. Les meubles de bois ciré sont brossés d'abord, puis frottés comme il vient d’être dit, avec une peau souple. </ab>
                      </div>
                      
                      <div type="civilite">

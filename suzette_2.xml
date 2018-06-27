@@ -50,7 +50,7 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <profileDesc>
+            <profileDesc>
          <langUsage>
             <language ident="fra">French</language>
             <language ident="eng">English</language>
@@ -108,6 +108,12 @@
             </char>
             <char>
                <charName xml:id="la_bohemienne">La bohémienne</charName>
+            </char>
+            <char>
+               <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="les_dumay">La Famille Dumay</charName>
             </char>
          </charDecl>
          <classDecl>
@@ -512,10 +518,10 @@
                      <div type="sciencesNat">
                         <head type="sujets"> Sciences naturelles. </head>
                         
-                        <!--<term> — LE PÉTROLE. </term> -->
+                        <!-- — LE PÉTROLE. -->
                         <ab type="question"> — Ce qu'il est. — D'où on le tire. — Où sont les principales sources ou dépôts souterrains de cette huile. — Ce à quoi sert le pétrole. — Ce qu'il coûte le litre. — Ses dangers. </ab>
                         
-                        <ab type="answer"> <!--<term>Le pétrole</term>--> est une huile minérale qui brûle avec une belle lumière blanche. Il est le produit de la décomposition lente de plantes marines dans l'intérieur de la terre où, autrefois, elles se sont accumulées. Le liquide bitumineux qui en est résulté, s'est amassé en lacs ou a formé des ruisseaux entre les couches argileuses et les roches du sol. Si, au moyen d'une sonde, on fore un trou jusqu'à ces couches, le pétrole jaillit, mêlé à un gaz semblable à celui de l'éclairage ; dans le cas contraire, on l'extrait à l'aide d’une pompe soutenue par une charpente formée de quatre montants reliés par de solides traverses. <note> (Voir la gravure.) </note> <lb/>
+                        <ab type="answer"> <!--<seg corresp="#mineraux">Le pétrole</seg>--> est une huile minérale qui brûle avec une belle lumière blanche. Il est le produit de la décomposition lente de plantes marines dans l'intérieur de la terre où, autrefois, elles se sont accumulées. Le liquide bitumineux qui en est résulté, s'est amassé en lacs ou a formé des ruisseaux entre les couches argileuses et les roches du sol. Si, au moyen d'une sonde, on fore un trou jusqu'à ces couches, le pétrole jaillit, mêlé à un gaz semblable à celui de l'éclairage ; dans le cas contraire, on l'extrait à l'aide d’une pompe soutenue par une charpente formée de quatre montants reliés par de solides traverses. <note> (Voir la gravure.) </note> <lb/>
                            Les principaux puits et sources de pétrole se trouvent aux États Unis, dans les vallées des monts Alleghany. On en trouve, en Europe, dans la Valachie et sur les bords de la mer Caspienne. <lb/>
                            Le pétrole sert à l'alimentation des lampes au lieu et place des huiles végétales ; il donne une lumière brillante et de moitié moins coûteuse que les autres (0 fr. 45 le litre). <lb/>
                            
@@ -524,10 +530,10 @@
                            
                            Les vapeurs qu'il dégage continuellement sont très inflammables, et si l'on ne prend de grandes précautions, la flamme se communique au liquide et il se produit une terrible explosion.</ab>
                         
-                        <!--<term> — LE GRILLON. </term>-->
+                        <!-- — LE GRILLON. -->
                         <ab type="question"> — Ce qu'il est. — Le décrire. — Où il se réfugie. </ab>
                         
-                        <ab type="answer"> <!--<term>Le grillon</term>--> est un insecte de couleur noirâtre muni d’une double paire d'ailes et de longues antennes. Il recherche les lieux chauds et obscurs et y fait entendre, à la chute du jour, un bruit particulier dû au frottement des ailes supérieures ou élytres. On a cru longtemps que la présence du grillon portait bonheur à la maison. </ab>
+                        <ab type="answer"> <!--<seg corresp="#animauxSauvages">Le grillon</seg>--> est un insecte de couleur noirâtre muni d’une double paire d'ailes et de longues antennes. Il recherche les lieux chauds et obscurs et y fait entendre, à la chute du jour, un bruit particulier dû au frottement des ailes supérieures ou élytres. On a cru longtemps que la présence du grillon portait bonheur à la maison. </ab>
                      </div>
                      
                      <div type="EconDom">              

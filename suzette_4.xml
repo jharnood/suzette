@@ -50,7 +50,7 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <profileDesc>
+        <profileDesc>
          <langUsage>
             <language ident="fra">French</language>
             <language ident="eng">English</language>
@@ -108,6 +108,12 @@
             </char>
             <char>
                <charName xml:id="la_bohemienne">La bohémienne</charName>
+            </char>
+            <char>
+               <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="les_dumay">La Famille Dumay</charName>
             </char>
          </charDecl>
          <classDecl>
@@ -505,10 +511,10 @@
                         
                         <ab type="question"> — Quels grands astres nous éclairent ? — Quelle différence y a-t-il entre la lumière du soleil et celle de la lune ? — Autour de quel astre tourne la terre ? — Autour de quel astre tourne la lune ? — Sous quelles formes nous apparaît ce dernier astre ? — Que voit-on à sa surface ? </ab>
                         
-                        <ab type="answer"> Outre les innombrables étoiles qui brillent au ciel, deux grands astres nous éclairent : le soleil qui produit le jour, la lune qui diminue l'obscurité des nuits. <term>Le soleil</term> est une étoile énorme située à 150 millions de kilomètres de la terre ; son diamètre dépasse 1,430,000 kilomètres et son volume est égal à quatorze cent mille fois celui de notre globe. Il tourne sur lui-même en 25 jours et demi, et s'avance dans les espaces célestes vers un centre inconnu avec une vitesse de 250 millions de kilomètres par an. Le soleil forme une masse enflammée qui donne à la terre la lumière et la chaleur. <lb/>
+                        <ab type="answer"> Outre les innombrables étoiles qui brillent au ciel, deux grands astres nous éclairent : le soleil qui produit le jour, la lune qui diminue l'obscurité des nuits. <seg corresp="#france">Le soleil</seg> est une étoile énorme située à 150 millions de kilomètres de la terre ; son diamètre dépasse 1,430,000 kilomètres et son volume est égal à quatorze cent mille fois celui de notre globe. Il tourne sur lui-même en 25 jours et demi, et s'avance dans les espaces célestes vers un centre inconnu avec une vitesse de 250 millions de kilomètres par an. Le soleil forme une masse enflammée qui donne à la terre la lumière et la chaleur. <lb/>
                            La lumière du soleil vient de cet astre lui-même ; celle de la lune n'en est que le reflet ; elle est 800,000 fois plus faible. <lb/>
                            <term>La terre</term>, qui mesure 40,000 kilomètres de circonférence et qui est 49 fois plus grosse que la lune, tourne autour du soleil dans l'espace d'une année, soit 365 jours ; la lune, de son côté, tourne autour de la terre en 29 jours et demi. <lb/>
-                           <term>La lune</term> nous apparaît sous des formes différentes ou <term>phases</term>, selon la position qu'elle occupe par rapport au soleil et à la terre. D'abord c'est un croissant lumineux ; puis brille dans le ciel le quart de l'astre ; on dit alors qu'on est au <term>premier quartier</term>. Sept jours après, on aperçoit la face tout entière de la lune ; c'est la <term>pleine lune</term>. Après le même intervalle, on n'en voit plus que le quart ou le <term>dernier quartier</term> ; enfin, l'astre cesse d'être visible ; il y a alors <term>nouvelle lune</term>. <lb/>
+                           <seg corresp="#france">La lune</> nous apparaît sous des formes différentes ou <term type="lune">phases</term>, selon la position qu'elle occupe par rapport au soleil et à la terre. D'abord c'est un croissant lumineux ; puis brille dans le ciel le quart de l'astre ; on dit alors qu'on est au <term type="lune">premier quartier</term>. Sept jours après, on aperçoit la face tout entière de la lune ; c'est la <term type="lune">pleine lune</term>. Après le même intervalle, on n'en voit plus que le quart ou le <term type="lune">dernier quartier</term> ; enfin, l'astre cesse d'être visible ; il y a alors <term type="lune">nouvelle lune</term>. <lb/>
                            Sur la surface de la lune on distingue, à l'aide de fortes lunettes, de très hautes montagnes, des cratères de volcans éteints, des plaines immenses qui paraissent avoir été le lit d'anciennes mers. </ab>
                      </div>
                      
@@ -517,7 +523,7 @@
                         
                         <ab type="question"> — Comment étaient les premiers habitants de notre France ?  — De quoi vivaient-ils ? — Où habitaient-ils ? — Comment étaient ces abris ? — De quoi étaient formés leurs vêtements ? </ab>
                         
-                        <ab type="answer"> Les premiers hommes qui habitèrent sur le sol de notre France, y apparurent à une époque prodigieusement éloignée dite <term>âge quaternaire</term>, et en même temps que d'énormes animaux, aujourd'hui disparus, tels que le mammouth, le rhinocéros, l'ours des cavernes (1) <note type="foot"> (1) Les musées d'histoire naturelle de Paris et des grandes villes renferment des squelettes de ces animaux. Le mammouth était un éléphant gigantesque à longs poils ; on en a trouvé de congelés en Sibérie. </note>. <lb/>
+                        <ab type="answer"> Les premiers hommes qui habitèrent sur le sol de notre France, y apparurent à une époque prodigieusement éloignée dite <!--<seg corresp="#histoire">-->âge quaternaire<!--</seg>-->, et en même temps que d'énormes animaux, aujourd'hui disparus, tels que le mammouth, le rhinocéros, l'ours des cavernes (1) <note type="foot"> (1) Les musées d'histoire naturelle de Paris et des grandes villes renferment des squelettes de ces animaux. Le mammouth était un éléphant gigantesque à longs poils ; on en a trouvé de congelés en Sibérie. </note>. <lb/>
                            C'étaient des sauvages ; armés de silex taillés et grossièrement emmanchés, ils chassaient, à travers les marécages et les forêts, les animaux dont ils faisaient leur nourriture ; ils vivaient encore de poissons et des âpres fruits qu'ils recueillaient sur les arbres. <lb/>
                            Ils habitèrent d'abord sous les arbres, puis s'établirent à l'abri de 
                            
@@ -533,10 +539,10 @@
                         
                         <ab type="question"> — Qu'est-ce que l'églantier ? — Décrire sa tige, sa feuille, sa fleur. — Où croit-il et à quoi l'emploie-t-on ? — Décrivez les feuilles et les fruits du houx. — Usage des plus belles tiges de cet arbuste. </ab>
                         
-                        <ab type="answer"> <term>L'églantier</term>, ou rosier sauvage, est un arbuste des régions tempérées. <lb/>
+                        <ab type="answer"> <seg corresp="#arbreNoncultives">L'églantier</seg>, ou rosier sauvage, est un arbuste des régions tempérées. <lb/>
                            Sa tige, munie de fortes épines et remplie d'une moelle blanchâtre, s'élève à deux ou trois mètres. Elle porte des rameaux garnis de feuilles dentelées, à l'extrémité desquels apparaissent, au printemps, de nombreux bourgeons qui s'épanouissent en jolies fleurs aux pétales roses, garnies intérieurement d'étamines jaune d'or qui exhalent un doux parfum. <lb/>
                            L'églantier croit naturellement le long des haies et dans les bois ; on l'emploie comme sujet, dans les jardins, pour greffer les diverses variétés de roses. <lb/>
-                           <term>Le houx</term> est un arbrisseau toujours vert dont les feuilles luisantes et coriaces sont garnies de piquants sur leur pourtour. Il porte de petits fruits réunis en grappes d'un très beau rouge. <lb/>
+                           <seg corresp="#arbreNoncultives">Le houx</seg> est un arbrisseau toujours vert dont les feuilles luisantes et coriaces sont garnies de piquants sur leur pourtour. Il porte de petits fruits réunis en grappes d'un très beau rouge. <lb/>
                            Les plus belles tiges de houx sont employées à faire des manches de fouets ou des cannes, parce que le bois de cet arbuste est à la fois élastique et résistant. </ab>
                         
                      </div>

@@ -50,7 +50,7 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <profileDesc>
+            <profileDesc>
          <langUsage>
             <language ident="fra">French</language>
             <language ident="eng">English</language>
@@ -108,6 +108,12 @@
             </char>
             <char>
                <charName xml:id="la_bohemienne">La bohémienne</charName>
+            </char>
+            <char>
+               <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="les_dumay">La Famille Dumay</charName>
             </char>
          </charDecl>
          <classDecl>
@@ -493,8 +499,8 @@
                         <ab type="question"> — Qu'est-ce que respirer ? — Par quoi respire-t-on ? — Quelles sont les différentes parties de l'appareil respiratoire ? — Quelle action l'air a-t-il sur le sang amené aux poumons par les veines ? — Quels conduits distribuent le sang régénéré dans tous les organes du corps ? — Fonctions du cœur. </ab>
                         
                         <ab type="answer"> Respirer, c'est introduire de l'air dans la cavité de la poitrine par la bouche ou le nez et la trachée-artère ; ainsi l'on rend au sang les propriétés qu'il avait perdues en circulant dans le corps. <lb/>
-                        Outre les organes que nous venons de citer, l'appareil respiratoire comprend les <term>bronches</term>, formant deux canaux qui naissent à la base de la trachée-artère, et les <term>poumons</term>, grosses masses charnues disposées à droite et à gauche de la poitrine, dans lesquelles les bronches se ramifient en une multitude de petits conduits dont la fonction est d'introduire l'air dans toutes les parties des poumons. <lb/>
-                           L'air, en pénétrant dans ce dernier organe, y purifie le sang veineux chargé de carbone (1)<note type="foot"> (1) Le carbone ou charbon est l'élément dont le bois et la chair sont formés en presque totalité, ce qui explique comment, en circulant dans le corps, le sang est chargé de cette matière. </note> ; il se produit une sorte de combustion lente à laquelle il faut attribuer la cause de la chaleur naturelle de notre corps. Le sang, ainsi régénéré et chargé d'oxygène, se rend au cœur, qui le refoule violemment dans les <term>artères</term>, d'où il est dirigé dans les membres et les diverses parties du corps. Les veines, qui prennent naissance aux extrémités, des ramifications des artères, le ramènent au point de départ en passant par les poumons. </ab>
+                        Outre les organes que nous venons de citer, l'appareil respiratoire comprend les <term type="respiration">bronches</term>, formant deux canaux qui naissent à la base de la trachée-artère, et les <term type="respiration">poumons</>, grosses masses charnues disposées à droite et à gauche de la poitrine, dans lesquelles les bronches se ramifient en une multitude de petits conduits dont la fonction est d'introduire l'air dans toutes les parties des poumons. <lb/>
+                        L'air, en pénétrant dans ce dernier organe, y purifie le sang veineux chargé de carbone (1)<note type="foot"> (1) Le carbone ou charbon est l'élément dont le bois et la chair sont formés en presque totalité, ce qui explique comment, en circulant dans le corps, le sang est chargé de cette matière. </note> ; il se produit une sorte de combustion lente à laquelle il faut attribuer la cause de la chaleur naturelle de notre corps. Le sang, ainsi régénéré et chargé d'oxygène, se rend au cœur, qui le refoule violemment dans les <term type="respiration">artères</term>, d'où il est dirigé dans les membres et les diverses parties du corps. Les veines, qui prennent naissance aux extrémités, des ramifications des artères, le ramènent au point de départ en passant par les poumons. </ab>
                      </div>
                         
                         <div type="industrie">
@@ -503,12 +509,12 @@
                            <!--<term> — LE FEU. </term> -->
                            <ab type="question"> — Ce qui le produit. — Ce qui l'entretient. — Quels combustibles servent à cet objet ? — Services que rend le feu pour les divers besoins de l'homme. </ab>
                            
-                           <ab type="answer"> <term>Le feu</term> est le résultat de la combinaison rapide d'un gaz appelé oxygène avec un corps, tel que le carbone, le soufre. Il se produit alors de la flamme, des vapeurs, avec un dégagement considérable de chaleur. <lb/>
+                           <ab type="answer"> <seg corresp="#industrie">Le feu</seg> est le résultat de la combinaison rapide d'un gaz appelé oxygène avec un corps, tel que le carbone, le soufre. Il se produit alors de la flamme, des vapeurs, avec un dégagement considérable de chaleur. <lb/>
          
                               <pb type="page" n="119"/>   
                               <fw type="header"> AU FEU ! 119 </fw>
          
-                           On entretient le feu avec des substances appelées <term>combustibles</term>, et dans cette catégorie nous citerons le bois, la houille, la tourbe, les résines, les huiles, les graisses, les essences, l'alcool, le gaz hydrogène, etc. <lb/>
+                           On entretient le feu avec des substances appelées <term type="feu">combustibles</term>, et dans cette catégorie nous citerons le bois, la houille, la tourbe, les résines, les huiles, les graisses, les essences, l'alcool, le gaz hydrogène, etc. <lb/>
                            Le feu rend d'immenses services. Il donne aux aliments la saveur et les qualités digestives qui les rendent plus agréables au goût et plus nourrissants ; il nous permet de combattre les rigueurs de l'hiver ; il assouplit et amollit les métaux de manière qu'on les travaille avec facilité. Le feu transforme l'eau en vapeur et nous dote ainsi d'une force bien plus puissante que l'air et l’eau sous le même volume. La flamme qu’il développe éclaire nos appartements, nos ateliers, nos rues, pendant les longues nuits d'hiver ; il détruit enfin les substances dont la décomposition à l'air libre serait une cause d'infection. </ab>
                         </div>
                            
@@ -519,18 +525,18 @@
                         
                         <ab type="answer"> Si le feu présente de grands avantages, on n'en use point toujours sans danger, et si l'on ne prend pas toutes sortes de précautions pour éviter qu'il ne s'étende, il peut causer des accidents terribles et des dommages considérables. <lb/>
                         Les petites filles, dont les vêtements sont amples et flottants, se garderont d'approcher des poêles et des foyers allumés ; elles ne manieront pas sans attention les chandelles, les bougies, les lampes à pétrole ou essence, et les tiendront à distance des rideaux. Qu'elles ne jouent jamais avec les allumettes ! <lb/>
-                        Les <term>brûlures légères</term> sont traitées par l'eau froide. Celles qui produisent des ampoules, n'ont de gravité que si elles s'étendent sur une surface considérable. Quand la peau est atteinte ou détruite, le mal est grave. <lb/>
+                        Les <term type="feu">brûlures légères</term> sont traitées par l'eau froide. Celles qui produisent des ampoules, n'ont de gravité que si elles s'étendent sur une surface considérable. Quand la peau est atteinte ou détruite, le mal est grave. <lb/>
                         Voici le traitement que l'on conseille pour les brûlures : <lb/>
                         Baigner la plaie dans de l'eau froide qu'on renouvellera fréquemment, ou laisser tomber dessus un filet d'eau sur la partie atteinte. On peut encore y appliquer des linges humides, qu'on remplacera par d'autres dès que le retour de la douleur annoncera qu'ils sont échauffés. <lb/>
                         Une fois la douleur passée, on panse la brûlure avec des compresses de ouate et des décoctions de racine de guimauve ou de fleurs de sureau. On pique les ampoules pour faire écouler le liquide qu'elles renferment, et l'on applique sur la partie malade des feuilles de papier brouillard ou du linge troué derrière lequel sera de la charpie. Papier et linge seront enduits, soit de cérat, soit de beurre frais. Si l'épiderme est profondément atteint, appelez sans retard le médecin, et, en attendant son arrivée, plongez le membre dans l'eau froide ou versez dessus un filet d'eau. <lb/>
-                        On <term>éteint un feu de cheminée</term> ou l'on en diminue la violence en fermant l'ouverture du foyer, soit au moyen de paille humide, soit en plaçant en avant une couverture mouillée. Sur un feu de pétrole ou d'essence, on jette du sable ou de la terre. <lb/>
+                        On <term type="feu">éteint un feu de cheminée</term> ou l'on en diminue la violence en fermant l'ouverture du foyer, soit au moyen de paille humide, soit en plaçant en avant une couverture mouillée. Sur un feu de pétrole ou d'essence, on jette du sable ou de la terre. <lb/>
                         Lorsque les vêtements d'une personne sont enflammés, il faut la coucher sur le sol et l'y rouler en attendant qu'on ait apporté une
          
                            <pb type="page" n="120"/>   
                            <fw type="header"> 120 SUZETTE. </fw>
         
 couverture, mouillée ou non, pour l'envelopper. On intercepte ainsi l'accès de l'air qui seul permet la combustion. <lb/>
-                        Une personne est <term>asphyxiée</term> lorsqu'elle a perdu connaissance par suite de la suspension de l'acte de la respiration. Les noyés meurent par asphyxie comme les personnes qui pénètrent dans une atmosphère formée d'acide carbonique. Ce dernier gaz se dégage des cuves et des tonneaux où fermente le vin ; il se trouve encore dans les puits abandonnés et les cavités souterraines où l'air pénètre difficilement. <lb/>
+                        Une personne est <seg corresp="#maladiesRemedes">asphyxiée</seg> lorsqu'elle a perdu connaissance par suite de la suspension de l'acte de la respiration. Les noyés meurent par asphyxie comme les personnes qui pénètrent dans une atmosphère formée d'acide carbonique. Ce dernier gaz se dégage des cuves et des tonneaux où fermente le vin ; il se trouve encore dans les puits abandonnés et les cavités souterraines où l'air pénètre difficilement. <lb/>
                         On <term>secourt les asphyxiés</term> en les transportant au grand air et en cherchant, par des frictions et le mouvement lent des bras, à ranimer la sensibilité ainsi que le jeu des organes respiratoires. </ab>
                      </div>
                   </div>

@@ -110,7 +110,7 @@
                <charName xml:id="la_bohemienne">La bohémienne</charName>
             </char>
             <char>
-               <charName xml:id="m_cartier">M. Cariter</charName>
+               <charName  xml:id="m_cartier">M. Cartier</charName>
             </char>
             <char>
                <charName xml:id="les_dumay">La Famille Dumay</charName>
@@ -432,6 +432,7 @@
          <!-- n is for maitresse edition, corresp is for student edition -->
          <div type="chapter" n="114">
             <div xml:lang="fr">
+
                <div type="student">   
                   <pb type="page" n="400"/>
          <head>114. — Un cadeau. (Élève, p. 243.)</head>
@@ -476,6 +477,52 @@
                      vain ? Que dit-il à M. Dumay, puis à Suzette ? — Que vit-on dans la cour ? — Comment fut-il remercié ? — Quo lui offrit-on ? — Quel changement s'était fait en Sylvain ? — Quelle réflexion fit M. Dumay au sujet de Sylvain quand ce dernier fut parti ?
                   </ab>
                </div>
+               <div type="student">
+                  
+                  <pb type="page" n="400"/>
+                  <head> 114. — Un cadeau. (Élève, p. 243.) </head>
+              
+                  <p> <time>Le surlendemain</time>, <time>à la fin du jour</time>, <persName ana="#papa">M. Dumay</persName>, rentré des champs, les pieds dans de bons et spacieux sabots qu'il appelait ses pantoufles, regardait paternellement <persName ana="#suzette">Suzette</persName>. </p>
+                  <p> En robe claire et tablier à carreaux, elle vaquait au
+            
+                     <pb type="page" n="401"/>   
+                     <fw type="header"> UN CADEAU. 401 </fw>
+                     
+                     ménage, qui, en <time>ces quarante-huit heures</time>, avait repris toute sa gentillesse passée. Elle vint ensuite s'asseoir près de la fenêtre, devant un panier de belles <seg ana="#legumesRacines">laitues</seg>, bien pommées, et d’une fraîcheur à vous mettre l'eau à la bouche. Elle commençait <seg ana="#alimentsCuisine">l'épluchage</seg>, quand le gros loquet de la porte s'ébranla. </p>
+                  
+                  <figure> 
+                     <caption> <hi rend="italic"><seg ana="#legumesRacines">Laitue</seg>. — <seg ana="#legumesRacines">Romaine</seg>. — <seg ana="#legumesRacines">Chicorée</seg>.</hi>
+                        <lb/>
+                        <seg ana="#legumesRacines">Les salades</seg> sont des <seg ana="#legumesRacines">plantes</seg> crues que l'on mange assaisonnées avec de <seg ana="#alimentsCuisine">l'huile</seg>, du <seg ana="#alimentsCuisine">vinaigre</seg>, du <seg ana="#alimentsCuisine">poivre</seg>, du <seg ana="#alimentsCuisine">sel</seg> et quelquefois de <seg ana="#alimentsCuisine">la moutarde</seg>. Pour en relever le goût, on y ajoute souvent de <seg ana="#alimentsCuisine">l'ail</seg>, de <seg ana="#alimentsCuisine">la ciboule</seg>, du <seg ana="#alimentsCuisine">cerfeuil</seg>, de <seg ana="#alimentsCuisine">la civette</seg>, de <seg ana="#alimentsCuisine">la pimprenelle</seg>, de <seg ana="#alimentsCuisine">l'estragon</seg>, dont la réunion forme ce qu'on appelle de <seg ana="#alimentsCuisine">la fourniture</seg>. Chaque saison apporte sa <seg ana="#legumesRacines">salade</seg> particulière. En épluchant <seg ana="#legumesRacines">la salade</seg>, ayez bien soin d'examiner s'il n'y reste pas de <seg ana="#animauxSauvages">limaçons</seg> ou d'<seg ana="#animauxSauvages">insectes</seg>. <seg ana="#legumesRacines"><seg ana="#alimentsCuisine">Les salades</seg></seg> sont en général rafraîchissantes.
+                     </caption>
+                  </figure>
+                  
+                  <sp><speaker>Suzette</speaker><ab> — Bon ! </ab></sp> <stage> dit-elle, sans même pencher la tête pour regarder au dehors, </stage> <sp><speaker>Suzette</speaker><ab> voilà <persName ana="#francais"><persName ana="#charlot">nos écoliers</persName></persName> ! et probablement avec les dents longues, comme à l'habitude. </ab></sp>
+                  <p> Mais ce fut <persName ana="#sylvain">Sylvain</persName> qui entra, guêtré de toile bleue, tout embourbé de <seg ana="#mineraux">l'argile</seg> des labours, par lesquels il avait pris pour abréger les deux lieues de chemin qui séparaient la ferme de <persName ana="#m_cartier">son patron</persName> de celle <persName ana="#les_dumay">des Dumay</persName>. </p>
+                  <sp><speaker>Sylvain</speaker><ab> — Bonsoir, <persName ana="#papa">Monsieur</persName> ! bonsoir, <persName ana="#suzette">Mademoiselle</persName> ! </ab></sp>
+                  <p> Sa voix tremblait d'une joie contenue. </p>
+                  <sp><speaker>Papa</speaker><ab> — Qu'y a-t-il, <persName ana="#sylvain">mon ami</persName> ? </ab></sp> <stage> demanda <persName ana="#papa">le père</persName>. </stage>
+                  <sp><speaker>Sylvain</speaker><ab> — J'ai pensé aux <seg ana="#animauxSauvages">abeilles</seg>, </ab></sp> <stage> répondit-il, </stage> <sp><speaker>Sylvain</speaker><ab> je vous apporte <seg ana="#constructions">une ruche</seg> avec son essaim*<!--There is an asterisk in the book but no definition in the lexique-->. </ab></sp>
+                  <sp><speaker>Suzette</speaker><ab> — Avec son <seg ana="#animauxSauvages">essaim</seg> ! </ab></sp> <stage> s'écria <persName ana="#suzette">Suzette</persName>. </stage>
+                  <sp><speaker>Sylvain</speaker><ab> — <persName ana="#m_cartier">Mon patron</persName> me l'a donné ; moi, j'ai fait <seg ana="#constructions">la ruche</seg>, en <seg ana="#cereales">paille de seigle</seg> bien tressée, solide et légère. Elle est là dans la cour. Voulez-vous la voir ? </ab></sp>
+                  <p> On courut à la cour ; on vit <seg ana="#constructions">la ruche</seg> soigneusement enveloppée d'une toile, et on alla aussitôt la mettre en place dans le jardin. </p>
+            
+                  <pb type="page" n="402"/>   
+                  <fw type="header"> 402 SUZETTE. </fw>
+                  
+                  <sp><speaker>Suzette</speaker><ab> — Ah ! <persName ana="#sylvain">monsieur Sylvain</persName>, que je vous remercie ! </ab></sp> <stage> dit <persName ana="#suzette">Suzette</persName>. </stage> <sp><speaker>Suzette</speaker><ab> Voilà la seule chose qui put me faire plaisir ; vous l'avez deviné. </ab></sp>
+                  <p> Elle lui tendit la main. Il semblait encore plus heureux qu'elle et montrait la vérité du vieux dicton*<gloss>Dicton. Sentence passée en proverbe.</gloss> : <name type="dicton">« Plus doux est donner que recevoir. »</name> On le retint à souper. Après le repas d'<seg ana="#alimentsCuisine">œufs à la coque</seg> et de fraîches <seg ana="#alimentsCuisine">laitues</seg>, on alla <persName ana="#les_dumay">en famille</persName> faire un bout de conduite à <persName ana="#sylvain">l'ami Sylvain</persName>. </p>
+                  <p> <persName ana="#sylvain">Le garçon</persName>, maintenant bien traité, estimé pour son travail, avait perdu sa physionomie un peu dure d'autrefois. A cette heure, sa parole, toute sa personne respiraient la paix d'un cœur adouci. </p>
+                  <p> En revenant avec <persName ana="#les_dumay">les siens</persName> après <time>un quart d'heure</time> de route, <persName ana="#papa">M. Dumay</persName> dit : </p>
+                  <sp><speaker>Papa</speaker><ab> — Le voilà hors d'affaire, content de son sort. Je ne suis pas fâché que <persName ana="#pascal">monsieur mon neveu</persName>, <persName ana="#pascal">l'explorateur</persName>, nous ait procuré l'occasion de nous montrer les amis de <persName ana="#sylvain">ce pauvre enfant</persName>. Un peu de <seg ana="#devoirsSemblables">bonté</seg> envers les déshérités, il n'en faut pas plus, souvent, pour faire des heureux et de braves gens. </ab></sp>
+            
+                  <div type="questionnaire">
+                     <ab>
+                        <hi rend="bold"> Questionnaire. </hi> — Comment était M. Dumav le surlendemain et que faisait-il ? — A quoi s'était occupée Suzette depuis quarante-huit heures et quel travail la tenait auprès de la fenêtre ? — Que dit-elle quand on frappa à la porte ? — Qui arrivait ? — Comment était Syl-
+                        <cb/>
+                        vain ? Que dit-il à M. Dumay, puis à Suzette ? — Que vit-on dans la cour ? — Comment fut-il remercié ? — Quo lui offrit-on ? — Quel changement s'était fait en Sylvain ? — Quelle réflexion fit M. Dumay au sujet de Sylvain quand ce dernier fut parti ?
+                     </ab>
+                  </div>
                </div>
                
                <div type="teacher">
@@ -485,6 +532,7 @@
                      <div type="morale">
                         <head type="sujets"> Morale. </head> 
                         
+
                         <ab type="question"> — Quand peut-on dire qu'une jeune fille est bonne ? — Exemples. — La bonté empêche-t-elle qu'on blâme ce qui est mal ? — Pourquoi celle qui ne s'élève pas contre le mal n'est-elle pas vraiment bonne ? — Pourquoi la mire qui ne reprend pas les défauts de ses enfants n'est-elle pas une bonne mère ? — Comment peut-on être bonne et, en même temps, sévère à l'égard de ce qui est contraire au devoir ? — Exemples.</ab>
                         
                         <ab type="answer"><seg corresp="#devoirsSemblables">La bonté</seg>, qui est la plus grande vertu de la femme, consiste à satisfaire et à soulager les besoins des autres avant même qu'ils aient été exprimés ; elle va au secours de la pensée qui n'ose se produire, lit dans les regards baissés, entend le soupir qu'on étouffe, comprend et saisit le désir à peine formé. Elle n'oublie personne, ne manque à rien. Le mot qui va blesser, s'arrête sur les levres de la jeune fille vraiment bonne ; elle réprime dans son cœur tout sentiment capable d'affliger autrui. (Sur ces données, les élèves trouveront elles-mêmes des exemples qu'elles emprunteront à la vie de l'école et de la famille.)<lb/>
@@ -515,11 +563,12 @@
                            
                            <!-- LAITUE. --><!--<ab type="recette">-->— Enlevez les feuilles vertes extérieures et les plus grosses côtes ; fendez les plus grandes feuilles dans le sens de la longueur et coupez-les en deux ou trois morceaux ; lavez à plusieurs eaux et égouttez en vous servant d'un panier à claire-voie, dit vulgairement panier à salade. Assaisonnez ensuite de sel, de poivre, d'huile et de vinaigre (ce dernier condiment, dans la proportion du tiers de l'huile) ; retournez jusqu'à ce que toutes les feuilles soient imbibées, enfin présentez aux convives le saladier.<!--</ab>--><lb/>
                            <!-- CHICORÉE. --> <!--<ab type="recette">-->— La salade de chicorée, celles de cresson et de pissenlits se préparent de la même manière, sauf en ce qui concerne les feuilles. On ajoute à celle de chicorée des croûtes de pain frottées d'ail qui en relèvent le goût.<!--</ab>--></ab></div>
+                       
+                     </div>
                   </div>
                </div>
             </div>
          </div>
-         
       </body>
   </text>
 </TEI>

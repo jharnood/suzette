@@ -50,7 +50,7 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <profileDesc>
+           <profileDesc>
          <langUsage>
             <language ident="fra">French</language>
             <language ident="eng">English</language>
@@ -108,6 +108,12 @@
             </char>
             <char>
                <charName xml:id="la_bohemienne">La bohémienne</charName>
+            </char>
+            <char>
+               <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="les_dumay">La Famille Dumay</charName>
             </char>
          </charDecl>
          <classDecl>
@@ -470,7 +476,7 @@
                      <div type="morale">
                         <head type="sujets"> Morale. </head> 
                         
-                        <!--<term> — L'AVARICE. </term>-->
+                        <!--<seg corresp="#biensExterieurs"> — L'AVARICE. </seg>-->
                         <ab type="question"> — Comment doit-on régler sa dépense ? — Comment appelle-t-on celui qui conserve son argent sans jamais l'employer ? — Cette façon d'agir ne cause-t-elle pas un préjudice à tout le monde ? — Que sont les avares à l'égard des gens qui sont dans le besoin ? — Que sont-ils pour eux-mêmes ? — Que pensez-vous des avares ? </ab>
                         
                         <ab type="answer"> Chacun doit régler sa dépense selon ses revenus ; de même que le pauvre ne saurait agir raisonnablement en voulant se nourrir, se loger et s'habiller comme les gens aisés ou riches, de même ces derniers ne peuvent, sans être blâmables, adopter le train de vie des gens peu favorisés de la fortune. <lb/>
@@ -484,11 +490,11 @@
                         
                         <ab type="question"> — Donnez la définition de : un exposé, un insecte friand, un fureteur, une apiculture savante, une apiculture arriérée, une culture lucrative. </ab>
                         
-                        <ab type="answer"> On entend par <term>exposé</term> le récit d'un ou de plusieurs faits et des circonstances qui les ont accompagnés. <lb/>
-                        Un <term>insecte friand</term> est un insecte qui aime à manger des choses fines et délicates et qui s'y connaît. <lb/>
-                        Un <term>fureteur</term> est celui qui s'enquiert de tout, qui cherche à tout savoir, soit par curiosité, soit pour son profit. <lb/>
-                        Une <term>apiculture arriérée</term> est celle qui se pratique selon les procédés défectueux de la vieille routine, taudis qu'une <term>apiculture savante</term> s'inspire de toutes les améliorations dont on est redevable à la science et à l'expérience. <lb/>
-                        Une <term>culture lucrative</term> est une culture qui apporte du gain à celui qui la met en œuvre. </ab>
+                        <ab type="answer"> On entend par <seg corresp="#francais">exposé</seg> le récit d'un ou de plusieurs faits et des circonstances qui les ont accompagnés. <lb/>
+                        Un <seg corresp="#francais">insecte friand</seg> est un insecte qui aime à manger des choses fines et délicates et qui s'y connaît. <lb/>
+                        Un <seg corresp="#francais">fureteur</seg> est celui qui s'enquiert de tout, qui cherche à tout savoir, soit par curiosité, soit pour son profit. <lb/>
+                        Une <seg corresp="#francais">apiculture arriérée</seg> est celle qui se pratique selon les procédés défectueux de la vieille routine, taudis qu'une <seg corresp="#francais">apiculture savante</seg> s'inspire de toutes les améliorations dont on est redevable à la science et à l'expérience. <lb/>
+                        Une <seg corresp="#francais">culture lucrative</seg> est une culture qui apporte du gain à celui qui la met en œuvre. </ab>
                      </div>
                      
                      <div type="calcul">

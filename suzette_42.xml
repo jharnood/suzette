@@ -109,6 +109,12 @@
             <char>
                <charName xml:id="la_bohemienne">La bohémienne</charName>
             </char>
+            <char>
+               <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="les_dumay">La Famille Dumay</charName>
+            </char>
          </charDecl>
          <classDecl>
             <taxonomy xml:id="classification">
@@ -492,8 +498,8 @@
                         
                         <ab type="question"> — Quelles personnes ont des manières naturelles ? — A quoi reconnait-on qu'une jeune fille est prétentieuse ? — De quelles gens se moque-t-on le plus et toujours ? — Quelles qualités manquent aux personnes prétentieuses ? </ab>
                         
-                        <ab type="answer"> On a des <term>manières naturelles</term> lorsque notre façon d'agir, de nous tenir, de parler est en parfaite harmonie avec les convenances d'abord, puis avec notre situation, notre âge, notre sexe. Ces manières, à la fois discrètes et mesurées, ont pour qualité première de n'attirer l'attention de personne : elles plaisent, elles sont agréables, mais avec une teinte de modestie qui leur donne un mérite de plus. <lb/>
-                        Une jeune fille <term>prétentieuse</term>, et Dieu sait si l'espèce en est rare, cherche à se distinguer des autres et à paraître au-dessus d'elles par une façon particulière de s'exprimer, de marcher, de porter la tête, qui traduit un orgueil niais avec l'imitation maladroite ou plutôt la caricature des manières en usage dans la haute société. Elle a l'air hardi, les lèvres pincées, la voix tranchante ou ridiculement mielleuse, des gestes forcés qui sont parfois extrêmement comiques et provoquent le sourire à bon droit. <lb/>
+                        <ab type="answer"> On a des <seg corresp="#ame">manières naturelles</seg> lorsque notre façon d'agir, de nous tenir, de parler est en parfaite harmonie avec les convenances d'abord, puis avec notre situation, notre âge, notre sexe. Ces manières, à la fois discrètes et mesurées, ont pour qualité première de n'attirer l'attention de personne : elles plaisent, elles sont agréables, mais avec une teinte de modestie qui leur donne un mérite de plus. <lb/>
+                           Une jeune fille <seg corresp="#ame">prétentieuse</seg>, et Dieu sait si l'espèce en est rare, cherche à se distinguer des autres et à paraître au-dessus d'elles par une façon particulière de s'exprimer, de marcher, de porter la tête, qui traduit un orgueil niais avec l'imitation maladroite ou plutôt la caricature des manières en usage dans la haute société. Elle a l'air hardi, les lèvres pincées, la voix tranchante ou ridiculement mielleuse, des gestes forcés qui sont parfois extrêmement comiques et provoquent le sourire à bon droit. <lb/>
                         On a toujours constaté que les personnes prétentieuses sont égoïstes, ignorantes et dépourvues de tact. </ab>
                      </div>
                      
@@ -514,9 +520,9 @@
                         <!--<term> — LE HANNETON. </term> -->
                         <ab type="question"> — Qu'est-ce que le hanneton ? — Sous quels états se montre-t-il successivement ? — A quelle époque de l'année apparait-il ? — Que doit-on faire alors ? — Sous quelle forme est-il le plus à redouter ? — Parler des ravages qu'il commet. — Décrire la betterave. — Diverses sortes de betteraves. — Usages de cette plante : les indiquer seulement. </ab>
                         
-                        <ab type="answer"> <term>Le hanneton</term> est un insecte muni de fortes mandibules ou mâchoires et pourvu de deux paires d'ailes dont la supérieure forme une espèce de bouclier dur et corné qu'on désigne sous le nom d'<term>élytres</term>. <lb/>
+                        <ab type="answer"> <seg corresp="#animauxSauvages">Le hanneton</seg> est un insecte muni de fortes mandibules ou mâchoires et pourvu de deux paires d'ailes dont la supérieure forme une espèce de bouclier dur et corné qu'on désigne sous le nom d'<term type="hanneton">élytres</term>. <lb/>
                         De l'œuf du hanneton naît une larve d'un gris blanchâtre qui reste trois ans dans la terre et y vit aux dépens des racines des plantes : c'est un des fléaux de l'agriculture. L'insecte parfait apparaît aux premiers jours du printemps et ronge les premières feuilles des arbres ; parfois, il est tellement multiplié qu'il cause de véritables désastres. Il faut le détruire sans pitié, et l'on recommande aux enfants des campagnes de lui faire, dans la saison, une chasse continuelle, car non seulement ils mettent fin à ses ravages, mais ils empêchent la multiplication de ces larves voraces qui causent tant de préjudice aux cultures printanières. <lb/>
-                        <!--<term> LA BETTERAVE. </term> --> — <term>La betterave</term> est une plante bisannuelle dont la racine volumineuse a une forme pivotante ; elle porte des feuilles d'un beau vert luisant. Lorsqu'on laisse cette plante monter à graine, sa tige atteint une hauteur d'un mètre et produit des fleurs vertes d'où naissent quantités de graines. <lb/>
+                        <!--LA BETTERAVE.--> — <seg corresp="#legumesRacines">La betterave</seg> est une plante bisannuelle dont la racine volumineuse a une forme pivotante ; elle porte des feuilles d'un beau vert luisant. Lorsqu'on laisse cette plante monter à graine, sa tige atteint une hauteur d'un mètre et produit des fleurs vertes d'où naissent quantités de graines. <lb/>
                         Il existe trois variétés de cette plante : la betterave potagère, que l'on cultive dans les jardins pour la manger en salade ; la betterave à sucre, et la betterave fourragère, qu'on donne en nourriture aux animaux à l'étable. </ab>
                      </div>
                      
@@ -525,11 +531,11 @@
                         
                         <ab type="question"> — Exposer la préparation d'un plat de pommes de terre à l'étuvée ; — des pommes de terre frites ; — d'une purée de pommes de terre ; — d'un ragoût de mouton aux pommes de terre. </ab>
                            
-                        <ab type="answer"> <!--<term> POMMES DE TERRE A L’ÉTUVÉE OU A LA VAPEUR. </term> --> — Les pommes de terre étant lavées, on les dispose dans une marmite de fonte sur un lit de cendres, puis on pose le couvercle et on place le vase sur un feu modéré. On reconnaît que les pommes de terre sont cuites à point lorsqu'elles fendent ou que le doigt y enfonce. On les sert alors soit sur un plat, soit dans une corbeille, et on les mange saupoudrées de sol avec du beurre frais. <lb/>
-                        <!--<term> POMMES DE TERRE FRITES. </term> --> — Après avoir lavé et essuyé les pommes de terre, coupez-les en tranches d'un demi-centimètre d'épaisseur ; plongez-les dans de la friture bouillante, huile, beurre ou graisse, et laissez-y-les pendant deux ou trois minutes. Il ne restera plus qu'à les égoutter, à les saupoudrer de sel fin et à les servir immédiatement. <lb/>
+                        <ab type="answer"> <!--<seg corresp="#alimentsCuisine"> POMMES DE TERRE A L’ÉTUVÉE OU A LA VAPEUR. </seg> --> — Les pommes de terre étant lavées, on les dispose dans une marmite de fonte sur un lit de cendres, puis on pose le couvercle et on place le vase sur un feu modéré. On reconnaît que les pommes de terre sont cuites à point lorsqu'elles fendent ou que le doigt y enfonce. On les sert alors soit sur un plat, soit dans une corbeille, et on les mange saupoudrées de sol avec du beurre frais. <lb/>
+                        <!--<seg corresp="#alimentsCuisine"> POMMES DE TERRE FRITES. </seg> --> — Après avoir lavé et essuyé les pommes de terre, coupez-les en tranches d'un demi-centimètre d'épaisseur ; plongez-les dans de la friture bouillante, huile, beurre ou graisse, et laissez-y-les pendant deux ou trois minutes. Il ne restera plus qu'à les égoutter, à les saupoudrer de sel fin et à les servir immédiatement. <lb/>
                         Si l'on veut que les pommes de terre frites soient soufflées, on les plonge une seconde fois dans la même friture bien chaude. <lb/>
-                        <!--<term> PURÈE DE POMMES DE TERRE. </term> --> — Pelez d'abord les pommes de terre que vous ferez cuire ensuite à la vapeur ; passez-les à la passoire ou au cylindre ; mettez-les dans une casserole avec du beurre frais, du poivre et du sel. Remuez et mouillez avec du lait ; faites bouillir un instant et servez. <lb/>
-                        <!--<term> RAGOÛT DE MOUTON AUX POMMES DE TERRE. </term> --> — Prenez un demi-kilogramme de collet de mouton coupé en morceaux ; jetez dans une casserole une cuiller à bouche de graisse ; chauffez, puis mettez les morceaux. Faites-les revenir ; ajoutez une cuillerée de farine, et après avoir fait roussir, versez un demi-litre d'eau. Ajoutez un bouquet de persil, trois oignons moyens, du sel, du poivre, et donnez deux heures
+                        <!--<seg corresp="#alimentsCuisine"> PURÈE DE POMMES DE TERRE. </seg> --> — Pelez d'abord les pommes de terre que vous ferez cuire ensuite à la vapeur ; passez-les à la passoire ou au cylindre ; mettez-les dans une casserole avec du beurre frais, du poivre et du sel. Remuez et mouillez avec du lait ; faites bouillir un instant et servez. <lb/>
+                        <!--<seg corresp="#alimentsCuisine"> RAGOÛT DE MOUTON AUX POMMES DE TERRE. </seg> --> — Prenez un demi-kilogramme de collet de mouton coupé en morceaux ; jetez dans une casserole une cuiller à bouche de graisse ; chauffez, puis mettez les morceaux. Faites-les revenir ; ajoutez une cuillerée de farine, et après avoir fait roussir, versez un demi-litre d'eau. Ajoutez un bouquet de persil, trois oignons moyens, du sel, du poivre, et donnez deux heures
                   
                      <pb type="page" n="150"/>   
                      <fw type="header"> 150 SUZETTE. </fw>

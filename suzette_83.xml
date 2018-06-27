@@ -50,7 +50,7 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-     <profileDesc>
+           <profileDesc>
          <langUsage>
             <language ident="fra">French</language>
             <language ident="eng">English</language>
@@ -108,6 +108,12 @@
             </char>
             <char>
                <charName xml:id="la_bohemienne">La bohémienne</charName>
+            </char>
+            <char>
+               <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="les_dumay">La Famille Dumay</charName>
             </char>
          </charDecl>
          <classDecl>
@@ -494,19 +500,19 @@
                         <!--<term> — LE FER. </term>-->
                         <ab type="question"> — Ce qu'il est, ses propriétés, ses usages. — Origine du fer. — Le minerai ; le haut fourneau ; la coulée de la fonte ; le meulage. — Comment la fonte devient du fer. — Prix de la tonne de fer. </ab>
                         
-                        <ab type="answer"> Le <seg corresp="#mineraux">fer</seg> est un métal d'un gris bleuâtre pesant 7 fois 78 plus que l'eau et doué d'un certain éclat. Susceptible de s'étirer en fils ténus et dei s'étendre en lames très minces, il est tenace et sonore. Peu de métaux sont aussi difficiles à fondre ; il se ramollit toutefois à une température bien inférieure à celle du point où il entre en fusion ; alors on peut le pétrir sous le marteau et le souder sur lui-même. A l'air libre, il se couvre d'un oxyde rouge connu sous le nom de <term>rouille</term> ; à la chaleur rouge, il se forme à sa surface des écailles d'oxyde noir. <lb/>
+                        <ab type="answer"> Le <seg corresp="#mineraux">fer</seg> est un métal d'un gris bleuâtre pesant 7 fois 78 plus que l'eau et doué d'un certain éclat. Susceptible de s'étirer en fils ténus et dei s'étendre en lames très minces, il est tenace et sonore. Peu de métaux sont aussi difficiles à fondre ; il se ramollit toutefois à une température bien inférieure à celle du point où il entre en fusion ; alors on peut le pétrir sous le marteau et le souder sur lui-même. A l'air libre, il se couvre d'un oxyde rouge connu sous le nom de <term type="fer">rouille</term> ; à la chaleur rouge, il se forme à sa surface des écailles d'oxyde noir. <lb/>
                         Le fer sert à la fabrication de la plupart des outils, des instruments, des armes. Il se substitue actuellement au bois et à la pierre dans la construction des maisons, des ponts, des navires, etc. <lb/>
                         Le fer se trouve à la surface et au sein de la terre en minerais contenant du métal pur ou mélangé à diverses substances, telles que le carbone, la silice, le phosphore. A l'état natif, il en existe des mines considérables. Le minerai de fer forme, à l'ile d'Elbe, en Suède, aux États-Unis, de véritables Collines. <lb/>
-                        <!--<term> PRÉPARATION DE LA FONTE ET DU FER. </term>--> — Après avoir trié, concassé et lavé le minerai, on le traite dans de grandes et solides constructions, nommées <term>hauts fourneaux</term>, qui consistent en deux cônes tronqués réunis par leurs grandes bases. On y verse d'abord du charbon de terre qu'on enflamme, puis alternativement une couche de minerai et une couche de charbon ; dès que la houille, introduite en premier lieu, a développé une haute température, le metal fond, et comme il est la plus pesante des substances introduites dans le haut fourneau, il se tombe au fond de cet appareil, tandis que les impuretés ou scories surnagent à la surface. <lb/>
-                        En cet etat, le fer prend le nom de <term>fonte</term>. <lb/>
-                        Non loin du haut fourneau, on a établi des <term>moules</term> destinés à la fabrication de divers objets : plaques, tuyaux, poêles ; on ouvre avec une barre de fer un trou, ferme avec de l'argile, pratiqué à la base de l'énorme construction ; par cette ouverture, le métal coule, liquide comme de l'eau, et se rend dans les moules. <lb/>
-                        Pour <term>fabriquer le fer</term>, on soumet la fonte à une haute température au contact de l'air, ce qui détruit les matières terreuses et le charbon
+                        <!--<term type="fer"> PRÉPARATION DE LA FONTE ET DU FER. </term>--> — Après avoir trié, concassé et lavé le minerai, on le traite dans de grandes et solides constructions, nommées <term type="fer">hauts fourneaux</>, qui consistent en deux cônes tronqués réunis par leurs grandes bases. On y verse d'abord du charbon de terre qu'on enflamme, puis alternativement une couche de minerai et une couche de charbon ; dès que la houille, introduite en premier lieu, a développé une haute température, le metal fond, et comme il est la plus pesante des substances introduites dans le haut fourneau, il se tombe au fond de cet appareil, tandis que les impuretés ou scories surnagent à la surface. <lb/>
+                        En cet etat, le fer prend le nom de <term type="fer">fonte</term>. <lb/>
+                        Non loin du haut fourneau, on a établi des <term type="fer">moules</term> destinés à la fabrication de divers objets : plaques, tuyaux, poêles ; on ouvre avec une barre de fer un trou, ferme avec de l'argile, pratiqué à la base de l'énorme construction ; par cette ouverture, le métal coule, liquide comme de l'eau, et se rend dans les moules. <lb/>
+                        Pour <term type="fer">fabriquer le fer</term>, on soumet la fonte à une haute température au contact de l'air, ce qui détruit les matières terreuses et le charbon
          
                      <pb type="page" n="289"/>   
                      <fw type="header"> TRIOMPHE DU TRAVAIL. 289 </fw>
          
 restant dans le métal. On fait ensuite passer les masses de foute rougie sous un énorme marteau qui, les frappant avec violence, leur donne plus de consistance tout en chassant, sous la forme d'étincelles, les impuretés qu'elles renferment encore. <lb/>
-                        La <term>tonne de fer</term>, ou les 1,000 kilogrammes, vaut de 140 à 200 francs. </ab>
+                        La <term type="fer">tonne de fer</term>, ou les 1,000 kilogrammes, vaut de 140 à 200 francs. </ab>
                      </div>
                      
                      <div type="industrie">
@@ -514,10 +520,10 @@ restant dans le métal. On fait ensuite passer les masses de foute rougie sous u
                         
                         <ab type="question"> — Qu'est-ce, qu'un marteau-pilon ? — Donner une idée de la construction, de la forme de cet appareil. — Ce qui le met en mouvement. — Services qu'on en lire. </ab>
                         
-                        <ab type="answer"> Le <term>marteau-pilon</term> est une lourde masse de métal pesant de 6,000 à 8,000 kilogrammes ; soulevé par la vapeur, il retombe de tout son poids sur la pièce de fer à travailler. <lb/>
+                        <ab type="answer"> Le <seg corresp="#machinesAppareils">marteau-pilon</seg> est une lourde masse de métal pesant de 6,000 à 8,000 kilogrammes ; soulevé par la vapeur, il retombe de tout son poids sur la pièce de fer à travailler. <lb/>
                         Un énorme et massif bâti de fonte, solidement appuyé sur de larges et épaisses fondations, supporte des montants entre lesquels glisse et remonte le gigantesque marteau. Au-dessous est un bloc d'acier qui remplit le rôle d'enclume. En ouvrant ou en fermant les orifices de la vapeur dans le cylindre qui surmonte le massif juste au-dessus du marteau, en soulevé ce dernier dans la mesure désirable, lentement ou rapidement, pour le laisser ensuite retomber sur la masse métallique que l'on se propose de travailler. <note type="reference"> (Voir la Partie du maître du COURS DE COMPOSITION FRANÇAISE (Degré supérieur), par E. LAPORTE, pages 217 et 218.) </note> </ab>
                         
-                        <!--<term> LA LAINE. </term>-->
+                        <!--<seg corresp="#etoffesHabillement"> LA LAINE. </term>-->
                         <ab type="question"> — Dans quel état elle arrive aux peignes. — Ce que font les peignes. — Les décrire. — Emploi de la laine peignée. — Que fait-on de la laine filée ? </ab>
                         
                         <ab type="answer"> La laine des moutons, lavée et blanchie à la vapeur du soufre, arrive en masses informes aux peignes, qui ont pour objet d'étirer les fils et de les réunir dans le sens de la longueur. Ce sont des tambours d'un à deux mètres de diamètre, munis sur leur surface extérieure d'une multitude de petites aiguilles d'acier ; ils sont mis en mouvement et tournent en sens inverse. On jette des poignées de laine sur ces tambours, qui les entraînent dans leur mouvement de rotation, et donnent ainsi aux fils la disposition demandée. Ces fils se réunissent à la base du dernier tambour en boudins de laine qu'on porte à la filature. Dans cette usine, ils sont attachés chacun aux fils d'une broche, et la machine, avançant, reculant, faisant tourner des bobines, donne à la laine la forme de fils minces qui s'enroulent autour de fuseaux égaux. Cette laine filée sert à la fabrication de tissus variés : drap, flanelle, mérinos, objets de bonneterie, etc. </ab>
