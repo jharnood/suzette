@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Suzette: a Digital Edition - Chapter 114</title>
+            <title type="main">Suzette: a Digital Edition - Chapter 106</title>
             <respStmt>
                <persName>John Westbrook</persName>
                <orgName>Bucknell University</orgName>
@@ -50,7 +50,7 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <profileDesc>
+           <profileDesc>
          <langUsage>
             <language ident="fra">French</language>
             <language ident="eng">English</language>
@@ -115,7 +115,6 @@
             <char>
                <charName xml:id="les_dumay">La Famille Dumay</charName>
             </char>
-           
          </charDecl>
          <classDecl>
             <taxonomy xml:id="classification">
@@ -430,52 +429,48 @@
    <text>
       <body>
          <!-- n is for maitresse edition, corresp is for student edition -->
-         <div type="chapter" n="114">
+         
+         <div type="chapter" n="106">
             <div xml:lang="fr">
-
-               <div type="student">   
-                  <pb type="page" n="400"/>
-                  <head> 114. — Un cadeau. (Élève, p. 243.) </head>
-              
-                  <p> <time>Le surlendemain</time>, <time>à la fin du jour</time>, <persName ana="#papa">M. Dumay</persName>, rentré des champs, les pieds dans de bons et spacieux sabots qu'il appelait ses pantoufles, regardait paternellement <persName ana="#suzette">Suzette</persName>. </p>
-                  <p> En robe claire et tablier à carreaux, elle vaquait au
-            
-                  <pb type="page" n="401"/>   
-                  <fw type="header"> UN CADEAU. 401 </fw>
-                     
-                     ménage, qui, en <time>ces quarante-huit heures</time>, avait repris toute sa gentillesse passée. Elle vint ensuite s'asseoir près de la fenêtre, devant un panier de belles <seg ana="#legumesRacines">laitues</seg>, bien pommées, et d’une fraîcheur à vous mettre l'eau à la bouche. Elle commençait <seg ana="#alimentsCuisine">l'épluchage</seg>, quand le gros loquet de la porte s'ébranla. </p>
+               <div type="student">
                   
-                  <figure> 
-                     <caption> <hi rend="italic"><seg ana="#legumesRacines">Laitue</seg>. — <seg ana="#legumesRacines">Romaine</seg>. — <seg ana="#legumesRacines">Chicorée</seg>.</hi>
-                        <lb/>
-                        <seg ana="#legumesRacines">Les salades</seg> sont des <seg ana="#legumesRacines">plantes</seg> crues que l'on mange assaisonnées avec de <seg ana="#alimentsCuisine">l'huile</seg>, du <seg ana="#alimentsCuisine">vinaigre</seg>, du <seg ana="#alimentsCuisine">poivre</seg>, du <seg ana="#alimentsCuisine">sel</seg> et quelquefois de <seg ana="#alimentsCuisine">la moutarde</seg>. Pour en relever le goût, on y ajoute souvent de <seg ana="#alimentsCuisine">l'ail</seg>, de <seg ana="#alimentsCuisine">la ciboule</seg>, du <seg ana="#alimentsCuisine">cerfeuil</seg>, de <seg ana="#alimentsCuisine">la civette</seg>, de <seg ana="#alimentsCuisine">la pimprenelle</seg>, de <seg ana="#alimentsCuisine">l'estragon</seg>, dont la réunion forme ce qu'on appelle de <seg ana="#alimentsCuisine">la fourniture</seg>. Chaque saison apporte sa <seg ana="#legumesRacines">salade</seg> particulière. En épluchant <seg ana="#legumesRacines">la salade</seg>, ayez bien soin d'examiner s'il n'y reste pas de <seg ana="#animauxSauvages">limaçons</seg> ou d'<seg ana="#animauxSauvages">insectes</seg>. <seg ana="#legumesRacines"><seg ana="#alimentsCuisine">Les salades</seg></seg> sont en général rafraîchissantes.
-                     </caption>
+                  <pb type="page" n="372"/>
+                  <head> 106. — Au Jardin d'acclimatation*<!--No defintin in lexique; not sure what the asterisk is for-->. (Élève, p. 227.) </head>
+                  
+                  <!--Definition for "Faune. L'ensemble des animaux d'une grande contrée." in the lexique but not indicated in the book-->
+                  
+                  <p> Nouvelle fête ! On traversa une riante partie du bois de Boulogne*<gloss>Bois de Boulogne. Grand parc et lieu de promenade à l’O. de Paris.</gloss> ; on coupa la file des équipages*<gloss>Equipage. Voiture de maitre.</gloss> ; on coudoya de beaux messieurs, de belles dames, et l’on arriva au Jardin d'acclimatation. </p>
+                  <p> Là, d'abord, beaucoup de petit monde en jupes et culottes courtes ; petites filles, petits garçons. Ils se promenaient à dos d'éléphant, de chameau, de dromadaire et semblaient des points perdus sur leurs énormes montures. Celles-ci s'avançaient sous les arbres en flânant, l'air bonasse, avec des regards aux passants pour les inviter à leur offrir les gâteaux et les petits pains dont on les régale tout le jour. </p>
+                  
+                  <pb type="page" n="373"/>   
+                  <fw type="header"> AU JARDIN D’ACCLIMATATION. 373 </fw>
+                  
+                  <p> D'autres enfants allaient sur de mignons poneys*<gloss>Poney. Petit cheval à long poil.</gloss> des Shetland*<gloss>Shetland. Ils au N. de l’Ecosse.</gloss> ou sur des hémiones*<gloss>Hémione. Quadrupède du genre cheval qui vit en Asie.</gloss>. </p>
+                  
+                  <figure>
+                     <caption> Ils se promenaient à dos d'éléphant, de chameau, de dromadaire. </caption>
                   </figure>
                   
-                  <sp><speaker>Suzette</speaker><ab> — Bon ! </ab></sp> <stage> dit-elle, sans même pencher la tête pour regarder au dehors, </stage> <sp><speaker>Suzette</speaker><ab> voilà <persName ana="#francais"><persName ana="#charlot">nos écoliers</persName></persName> ! et probablement avec les dents longues, comme à l'habitude. </ab></sp>
-                  <p> Mais ce fut <persName ana="#sylvain">Sylvain</persName> qui entra, guêtré de toile bleue, tout embourbé de <seg ana="#mineraux">l'argile</seg> des labours, par lesquels il avait pris pour abréger les deux lieues de chemin qui séparaient la ferme de <persName ana="#m_cartier">son patron</persName> de celle <persName ana="#les_dumay">des Dumay</persName>. </p>
-                  <sp><speaker>Sylvain</speaker><ab> — Bonsoir, <persName ana="#papa">Monsieur</persName> ! bonsoir, <persName ana="#suzette">Mademoiselle</persName> ! </ab></sp>
-                  <p> Sa voix tremblait d'une joie contenue. </p>
-                  <sp><speaker>Papa</speaker><ab> — Qu'y a-t-il, <persName ana="#sylvain">mon ami</persName> ? </ab></sp> <stage> demanda <persName ana="#papa">le père</persName>. </stage>
-                  <sp><speaker>Sylvain</speaker><ab> — J'ai pensé aux <seg ana="#animauxSauvages">abeilles</seg>, </ab></sp> <stage> répondit-il, </stage> <sp><speaker>Sylvain</speaker><ab> je vous apporte <seg ana="#constructions">une ruche</seg> avec son essaim*<!--There is an asterisk in the book but no definition in the lexique-->. </ab></sp>
-                  <sp><speaker>Suzette</speaker><ab> — Avec son <seg ana="#animauxSauvages">essaim</seg> ! </ab></sp> <stage> s'écria <persName ana="#suzette">Suzette</persName>. </stage>
-                  <sp><speaker>Sylvain</speaker><ab> — <persName ana="#m_cartier">Mon patron</persName> me l'a donné ; moi, j'ai fait <seg ana="#constructions">la ruche</seg>, en <seg ana="#cereales">paille de seigle</seg> bien tressée, solide et légère. Elle est là dans la cour. Voulez-vous la voir ? </ab></sp>
-                  <p> On courut à la cour ; on vit <seg ana="#constructions">la ruche</seg> soigneusement enveloppée d'une toile, et on alla aussitôt la mettre en place dans le jardin. </p>
-            
-                  <pb type="page" n="402"/>   
-                  <fw type="header"> 402 SUZETTE. </fw>
+                  <p> Dans une allée sablée, une demoiselle d'au moins quatre ans, à très gentil minois, toute mignonne, trônait dans une petite voiture attelée d'une autruche. Elle était là gentiment assise, regardant la foule de ses yeux bleus, profonds et doux. On eût dit la fée Urgande, la jolie fée des vieux contes, essayant un nouvel équipage ; car la chanson, très précise sur celui dont elle se servait, dit que, <lb/>
+                     
+                  <note type="citation">   
+                  Dans une conque de saphir <lb/>
+                  De huit papillons attelée, <lb/>
+                  Elle passait comme un zéphir… <lb/>
+                  <note type="author">(BÉRANGER.)</note> </note> </p>
                   
-                  <sp><speaker>Suzette</speaker><ab> — Ah ! <persName ana="#sylvain">monsieur Sylvain</persName>, que je vous remercie ! </ab></sp> <stage> dit <persName ana="#suzette">Suzette</persName>. </stage> <sp><speaker>Suzette</speaker><ab> Voilà la seule chose qui put me faire plaisir ; vous l'avez deviné. </ab></sp>
-                  <p> Elle lui tendit la main. Il semblait encore plus heureux qu'elle et montrait la vérité du vieux dicton*<gloss>Dicton. Sentence passée en proverbe.</gloss> : <name type="dicton">« Plus doux est donner que recevoir. »</name> On le retint à souper. Après le repas d'<seg ana="#alimentsCuisine">œufs à la coque</seg> et de fraîches <seg ana="#alimentsCuisine">laitues</seg>, on alla <persName ana="#les_dumay">en famille</persName> faire un bout de conduite à <persName ana="#sylvain">l'ami Sylvain</persName>. </p>
-                  <p> <persName ana="#sylvain">Le garçon</persName>, maintenant bien traité, estimé pour son travail, avait perdu sa physionomie un peu dure d'autrefois. A cette heure, sa parole, toute sa personne respiraient la paix d'un cœur adouci. </p>
-                  <p> En revenant avec <persName ana="#les_dumay">les siens</persName> après <time>un quart d'heure</time> de route, <persName ana="#papa">M. Dumay</persName> dit : </p>
-                  <sp><speaker>Papa</speaker><ab> — Le voilà hors d'affaire, content de son sort. Je ne suis pas fâché que <persName ana="#pascal">monsieur mon neveu</persName>, <persName ana="#pascal">l'explorateur</persName>, nous ait procuré l'occasion de nous montrer les amis de <persName ana="#sylvain">ce pauvre enfant</persName>. Un peu de <seg ana="#devoirsSemblables">bonté</seg> envers les déshérités, il n'en faut pas plus, souvent, pour faire des heureux et de braves gens. </ab></sp>
-            
+                  <p> Mais ce n'était pas seulement pour cette promenade d'aimables gamins et gamines, et encore moins pour les acclimater sur le dos des éléphants, des chameaux ou des poneys des îles d'Écosse qu'avait été créé ce Jardin d'acclimatation. </p>
+                  <p> Suzette en connaissait déjà, par Louis et par Pascal, le but scientifique : enrichir notre faune d'espèces étrangères, d'animaux utiles ; puis améliorer nos propres races par la sélection et la culture. </p>
+                  <p> La tante Richard se souvenait de sa paysannerie et de ses premières occupations dans la ferme paternelle de Fragicourt. Et elle achemina son monde vers la basse-cour. </p>
+                  
+                  <pb type="page" n="374"/>   
+                  <fw type="header"> 374 SUZETTE. </fw>
+                  
                   <div type="questionnaire">
                      <ab>
-                        <hi rend="bold"> Questionnaire. </hi> — Comment était M. Dumav le surlendemain et que faisait-il ? — A quoi s'était occupée Suzette depuis quarante-huit heures et quel travail la tenait auprès de la fenêtre ? — Que dit-elle quand on frappa à la porte ? — Qui arrivait ? — Comment était Syl-
+                        <hi rend="bold"> Questionnaire. </hi> — Quel chemin suivit-on pour se rendre au Jardin d'acclimatation ? — Quels animaux montaient les enfants ? — Détails sur les éléphants. — Qui vit-on, dans une allée sablée, trai-
                         <cb/>
-                        vain ? Que dit-il à M. Dumay, puis à Suzette ? — Que vit-on dans la cour ? — Comment fut-il remercié ? — Quo lui offrit-on ? — Quel changement s'était fait en Sylvain ? — Quelle réflexion fit M. Dumay au sujet de Sylvain quand ce dernier fut parti ?
+                        née par l'autruche du Jardin ? — Quel effet produisait cette jeune enfant ? — Quel est l'objet du Jardin d'acclimatation ? — De quoi se souvenait la tante Richard et où conduisit-elle sa nièce ?
                      </ab>
                   </div>
                </div>
@@ -484,45 +479,47 @@
                   <div type="exercice">
                      <head type="exercice"> DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES. </head>
                      
-                     <div type="morale">
-                        <head type="sujets"> Morale. </head> 
+                     <div type="histoireNaturelle">
+                        <head type="sujets"> Histoire naturelle. </head> 
                         
-
-                        <ab type="question"> — Quand peut-on dire qu'une jeune fille est bonne ? — Exemples. — La bonté empêche-t-elle qu'on blâme ce qui est mal ? — Pourquoi celle qui ne s'élève pas contre le mal n'est-elle pas vraiment bonne ? — Pourquoi la mire qui ne reprend pas les défauts de ses enfants n'est-elle pas une bonne mère ? — Comment peut-on être bonne et, en même temps, sévère à l'égard de ce qui est contraire au devoir ? — Exemples.</ab>
+                        <ab type="question"> — Que savez-vous de l'éléphant — (origine, taille, aspect, qualités, défauts ; services qu'il rend) ? — des poneys ? — de l'autruche ? </ab>
                         
-                        <ab type="answer"><seg corresp="#devoirsSemblables">La bonté</seg>, qui est la plus grande vertu de la femme, consiste à satisfaire et à soulager les besoins des autres avant même qu'ils aient été exprimés ; elle va au secours de la pensée qui n'ose se produire, lit dans les regards baissés, entend le soupir qu'on étouffe, comprend et saisit le désir à peine formé. Elle n'oublie personne, ne manque à rien. Le mot qui va blesser, s'arrête sur les levres de la jeune fille vraiment bonne ; elle réprime dans son cœur tout sentiment capable d'affliger autrui. (Sur ces données, les élèves trouveront elles-mêmes des exemples qu'elles emprunteront à la vie de l'école et de la famille.)<lb/>
-     
-                           <pb type="page" n="402"/>
-                           <fw type="header"> UN CADEAU. 403 </fw>   
-             
-            La bonté n'est pas <term>faiblesse</term> ; la bonté n'est ni tendresse ni obligeance banales, ni parti pris de trouver tout bien et d'être indifférent à tout ; la bonté n'est pas non plus indulgence aveugle et sensibilité au service du premier venu. Céder à tous, c'est ne rendre justice à la raison de personne ; aimer et obliger tout le monde, c'est n aimer, c'est n'obliger personne. Trouver tout bien, c'est couvrir toutes les fautes de la même indulgence ; c'est traiter le mal à l'égal du bien ; c'est n'avoir la notion juste ni de l'un ni de l'autre. <lb/>
-            Une mère <term>qui ne reprend pas</term> les défauts de ses enfants, les encouragé à mal faire et les expose à contracter des habitudes qui, plus tard, seront des vices. Quand la plante est jeune, c'est là, dit-on, qu'il la faut redresser. Une mère peut reprendre ses enfants sans cesser d'être bonne, si elle le fait avec modération et réflexion, avec justice et indulgence, si elle est prompte à saisir l'éclair du repentir et à se servir de cette disposition pour que le châtiment soit accepté et subi avec résignation, comme une réparation nécessaire. Qu'elle ne sourie jamais à une action maligne, à un sentiment égoïste, à un mensonge ingénieux de l'enfant, mais qu'elle témoigne froidement et sur-le-champ lé mécontentement qu'elle éprouve : l'enfant, qui la regarde comme sa conscience visible, retombera bien plus rarement dans pareilles fautes.</ab></div>
-                     
-                     <div type="histoireNaturelle"><!-- Should this be sciences naturelles? The classification lists Salade chapter 114 under Sciences naturelles Légumes -->
-                        <head type="sujets"> Histoire naturelle. </head>  
+                        <ab type="answer"> L'<term>éléphant</term> est le plus grand des animaux terrestres ; ses proportions sont lourdes, son corps épais, sa démarche pesante, mais sa physionomie est imposante et noble. Il a une tête énorme avec deux immenses et minces oreilles que l'animal fait remuer et claquer à plaisir ; l'œil est petit et la bouche est armée de dents énormes dont deux font saillie et peuvent atteindre 2m,50 de longueur ; on les désigne sous le nom de <term>défenses</term>. <lb/>
+                        La <term>trompe</term> de l'éléphant est le nez prolongé d'une façon démesurée en forme de tube, et qui se termine par les ouvertures des narines. Elle est à la fois l'organe de l'odorat, un membre pour saisir et une arme redoutable ; elle accomplit toutes les fonctions de la main, à ce point qu'avec son aide l'éléphant peut ramasser à terre une pièce de monnaie et déboucher une bouteille. Si on l'attaque, il en saisit son ennemi, l'enlace, le presse, le brise, le lance en l'air ou le jette à terre pour le fouler sous ses larges pieds. La trompe lui sert encore à porter les aliments à sa bouche et à soulever de lourds fardeaux ; il la remplit d'eau quand il veut boire et laisse tomber ce liquide dans sa gorge. <lb/>
+                        Les éléphants vivent dans les contrées les plus chaudes de l'Asie et de l'Afrique et, à l'état sauvage, ils se tiennent par troupes plus ou moins nombreuses dans les forêts et les lieux marécageux ; leur nourriture consiste en herbes, en racines et en graines. Leur marche est rapide ; ils peuvent faire jusqu'à 100 kilomètres par jour et nagent aussi très bien. <lb/>
+                        L'éléphant est doué d'une grande intelligence ; on l'a domestiqué et il rend les plus grands services pour le transport des hommes et des marchandises. Son caractère est doux ; il est reconnaissant ; mais sa susceptibilité est extrême et il sait se venger de ceux qui le taquinent ou le maltraitent. <lb/>
+                        Les <term>poneys</term> sont une race étrangère de chevaux, originaire des îles Shetland ; ce sont de véritables miniatures ; il en est qui atteignent à peine à la hauteur des chiens de Terre-Neuve. Malgré leur petite taille, ils sont robustes et résistent parfaitement à la fatigue. <lb/>
+                        L'<term>autruche</term>, que l'on trouve seulement en Afrique et en Arabie, est le plus gros des oiseaux connus ; sa tête peut atteindre jusqu'à 2m,50 de hauteur. Cet animal ne peut voler, mais il court très vite sur de longues et fortes pattes armées d'ongles redoutables, surtout lorsque le vent gonfle les larges et belles plumes d eses ailes. <lb/>
+                        L'autruche pond ses œufs dans le sable où la chaleur solaire concourt à mener à bien leur éclosion. On recherche les plumes de la queue et des ailes de cet animal, et on lui fait, pour cette raison, une chasse active. Cependant on a essayé de le domestiquer, et déjà en Algérie et dans la colonie du Cap, son élevage donne un revenu considérable. </ab>
                         
-                        <ab type="question">— Quelles plantes sont employées pour préparer les salades ? — Décrivez les laitues diverses, la chicorée, le cresson, le pis enlit. — Ajoutez quelques détails sur la culture des laitues et de la chicorée.</ab>
-                        
-                        <ab type="answer">Les plantes employées pour les salades sont : la <term type="salade">laitue</term>, dont il y a plusieurs variétés telles que la <term type="salade">laitue frisée</term> et la <term type="salade">romaine</term> ; la <term type="salade">chicorée</term>, le <term type="salade">cresson</term>, le <term type="salade">pissenlit</term>, le <term type="salade">céleri</term>.<lb/>
-                           La <term type="salade">laitue ordinaire</term> porte des feuilles larges, vertes ou brunes, qui se réunissent en une sorte de boule lorsque la plante acquiert son complet développement ; la <term type="salade">laitue romaine</term> a des feuilles allongées, raides, et forme des touffes d'où l'on tire souvent la matière de plusieurs salades.<lb/>
-                           La <term type="salade">chicorée</term> est remarquable par ses feuilles extrêmement découpées que l'on réunit en faisceau, comme celles de la laitue, pour les faire blanchir et les rendre ainsi plus tendres à manger.<lb/>
-                           Le <term type="salade">cresson</term> présente des tiges herbacées de faible consistance qui portent des feuilles vert foncé, de forme arrondie et de saveur forte. 0n mange les unes et les autres.<lb/>
-                           Le <term type="salade">pissenlit</term> ordinaire croît naturellement dans les prairies ; c'est une plante de petite dimension du pied de laquelle sortent des feuilles très allongées, de saveur amère ; on arrache les pieds au printemps, dans la première période de leur croissance, et on les mange ainsi en salade.<lb/>
-            Les laitues et les chicorées sont semées sur couche et sous châssis dès que les froids les plus rigoureux ont pris fin ; on les repique dans des plates-bandes bien fumées et on peut les récolter dès la fin de mai, ou de juin, s'il s'agit de la chicorée. Si l'on veut obtenir des laitues au mois d'avril, ou repique des pieds pris également sur couche au mois d'octobre. On a soin de les planter à l'exposition du midi, le long d'un mur, par exemple.</ab></div>
-                  
-                     <div type="econDom">
-                        <head type="sujets"> Économie domestique. </head>  
-                        
-                        <ab type="question">— Qu'est-ce qu'une salade ? — Comment prépareriez-vous une salade à la laitue, à la chicorée, au cresson, aux pissenlits ? — Prix du pied de chacune de ces salades au dernier marché. (Il n'est pas question du cresson ni des pissenlits)</ab>
-                        
-                        <ab type="answer">Une salade est un mets composé de certaines herbes ou de certains légumes assaisonnés avec du sel, du vinaigre et de l'huile, quelquefois avec du poivre et de la moutarde.<lb/>
-            
-                           <pb type="page" n="404"/>
-                           <fw type="header">  404 SUZETTE. </fw>
+                        <!--PIERRES PRÉCIEUSES.-->
+                        <ab type="question"> — Qu'entend-on par pierres précieuses ? — Pourquoi les recherche-t-on ? — Nommez-en quelques-unes et dites
                            
-                           <!-- LAITUE. --><!--<ab type="recette">-->— Enlevez les feuilles vertes extérieures et les plus grosses côtes ; fendez les plus grandes feuilles dans le sens de la longueur et coupez-les en deux ou trois morceaux ; lavez à plusieurs eaux et égouttez en vous servant d'un panier à claire-voie, dit vulgairement panier à salade. Assaisonnez ensuite de sel, de poivre, d'huile et de vinaigre (ce dernier condiment, dans la proportion du tiers de l'huile) ; retournez jusqu'à ce que toutes les feuilles soient imbibées, enfin présentez aux convives le saladier.<!--</ab>--><lb/>
-                           <!-- CHICORÉE. --> <!--<ab type="recette">-->— La salade de chicorée, celles de cresson et de pissenlits se préparent de la même manière, sauf en ce qui concerne les feuilles. On ajoute à celle de chicorée des croûtes de pain frottées d'ail qui en relèvent le goût.<!--</ab>--></ab></div>
-                       
+                  <pb type="page" n="375"/>   
+                  <fw type="header"> LA BASSE-COUR. 375 </fw>
+                  
+                        ce qui les distingue. — Où trouve-t-on les diamants ? — Connaissez-vous quelques diamants célèbres ? </ab>
+                        
+                        <ab type="answer"> On entend par <term>pierres précieuses</term> des pierres d'une dureté et d'un brillant extraordinaires, qualités auxquelles se joignent des couleurs éclatantes, sauf chez les diamants. Elles sont recherchées pour leur éclat et leur rareté. Plus communes et moins coûteuses, elles rendraient de grands services dans l'industrie ; mais jusqu'ici on ne les emploie que dans la confection des parures. <lb/>
+                  Les principales pierres précieuses sont : les diamants, les rubis, les émeraudes, les saphirs, les topazes, les améthystes. On entend par <term>pierres fines</term> celles qui approchent des pierres précieuses pour la dureté et le brillant : telles sont les agates, les onyx, les cornalines. <lb/>
+                  Les diamants sont limpides comme du cristal et jettent mille feux quand ils sont taillés ; les rubis ont une couleur rouge ; les émeraudes sont vertes ; les saphirs, bleus ; les topazes, jaunes ; les améthystes, violettes. <lb/>
+                  On trouve le diamant dans l’Hindoustan, l'Afrique méridionale et le Brésil. Il se présente sous la forme de cristaux très brillants, limpides et transparents ; mais, souvent, ils sont recouverts d'une gangue plus ou moins épaisse. On a remarqué qu'ils accompagnent une sorte de terrain sablonneux et ferrugineux. <lb/>
+                  Parmi les diamants les plus célèbres, il faut citer : le <term>Régent</term>, qui pèse 31 grammes ; il appartient à la France et on estime sa valeur à 8 millions ; — le <term>Koh-i-Noor</term>, ou <term>Montagne de lumière</term>, qui est la propriété de la reine d'Angleterre et a été payé 6 millions ; — le plus beau diamant de la couronne de Russie pèse près de 40 grammes. </ab>
+                        
+                        <ab type="question"> Qu'appelle-t-on faune, flore d'un pays ? </ab>
+                        
+                        <ab type="answer"> On appelle <term>faune</term> d'un pays l'ensemble des animaux qui habitent ce pays, et <term>flore</term> l'ensemble des plantes qui y croissent. </ab>
+                     </div>
+                     
+                     <div type="EconDom">
+                        <head type="sujets"> Économie domestique. </head> 
+                        
+                        <ab type="question"> — Qu'entend-on par climat ; — par acclimater en France une plante, un animal ? — Citez des plantes et des animaux acclimatés en Europe. — Que peut-on retirer d'avantageux d'une visite au Jardin d'acclimatation ? </ab>
+                  
+                        <ab type="answer"> On entend par <term>climat</term> la région, le pays, principalement en égard à la température de l'air ; on désigne encore, par ce mot, la température particulière à une contrée. <lb/>
+                        <term>Acclimater</term> une plante, un animal en France, c'est accoutumer cette plante et cet animal à la température et à l'influence de notre pays. <lb/>
+                        Depuis quelques siècles, on a acclimaté en Europe le maïs, le tabac, la pomme de terre, le dahlia, le dindon, qui viennent d'Amérique ; la pintade, que nous avons apportée d'Afrique ; le sorgho, la patate, originaires de la Chine, sans compter une multitude de fleurs et d'arbustes. <lb/>
+                        Visiter le Jardin d'acclimatation présente certains avantages, dont le principal est de faire voir et connaître les animaux et les végétaux étrangers qu'on essaye d'introduire dans notre pays ; on s'y familiarise encore avec les meilleurs procédés d'élevage pour certaines races de volailles, de chiens, de bestiaux qu'il y aurait intérêt à élever simultanément avec les nôtres dans les fermes et autres exploitations agricoles. </ab> 
                      </div>
                   </div>
                </div>

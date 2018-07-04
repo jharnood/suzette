@@ -7,7 +7,7 @@
       <fileDesc>
          <titleStmt>
             <title type="main">Suzette: a Digital Edition - Chapter 107</title>
-            <respStmt>
+           <respStmt>
                <persName>John Westbrook</persName>
                <orgName>Bucknell University</orgName>
                <resp>Editor</resp>
@@ -48,9 +48,9 @@
                   </imprint>
                </monogr>
             </biblStruct>
-         </sourceDesc>         
+         </sourceDesc>
       </fileDesc>
-      <profileDesc>
+           <profileDesc>
          <langUsage>
             <language ident="fra">French</language>
             <language ident="eng">English</language>
@@ -109,12 +109,60 @@
             <char>
                <charName xml:id="la_bohemienne">La bohémienne</charName>
             </char>
+            <char>
+               <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="les_dumay">La Famille Dumay</charName>
+            </char>
          </charDecl>
-         
          <classDecl>
-            <taxonomy xml:id="sciences">
+            <taxonomy xml:id="classification">
+               <category xml:id="morale">
+                  <catDesc>Morale</catDesc>
+                  <category xml:id="enfantFamille">
+                     <catDesc>L'enfant dans la famille</catDesc>
+                  </category>
+                  <category xml:id="devoirsFreresSoeurs">
+                     <catDesc>Devoirs des frères et sœurs</catDesc>
+                  </category>
+                  <category xml:id="devoirsServiteurs">
+                     <catDesc>Devoirs envers les serviteurs</catDesc>
+                  </category>
+                  <category xml:id="enfantEcole">
+                     <catDesc>L'enfant dans l'école</catDesc>
+                  </category>
+                  <category xml:id="patrie">
+                     <catDesc>La patrie</catDesc>
+                  </category>
+                  <category xml:id="devoirsSoiMeme">
+                     <catDesc>Devoirs envers soi-même</catDesc>
+                  </category>
+                  <category xml:id="biensExterieurs">
+                     <catDesc>Les biens extérieurs</catDesc>
+                  </category>
+                  <category xml:id="ame">
+                     <catDesc>L'âme</catDesc>
+                  </category>
+                  <category xml:id="devoirsSemblables">
+                     <catDesc>Devoirs envers nos semblables</catDesc>
+                  </category>
+                  <category xml:id="devoirsDieu">
+                     <catDesc>Devoirs envers Dieu</catDesc>
+                  </category>
+               </category>
+               <category xml:id="instructionCivique">
+                  <catDesc>Instruction civique</catDesc>
+               </category>
+               <category xml:id="civilite">
+                  <catDesc>Civilité</catDesc>
+               </category>
+               <category xml:id="francais">
+                  <catDesc>Français</catDesc>
+               </category>
                <category xml:id="composition">
                   <catDesc>Composition</catDesc>
+                  <!--In the book Composition is followed by an (1); should that be included?-->
                   <category xml:id="recits">
                      <catDesc>Récits</catDesc>
                   </category>
@@ -166,16 +214,18 @@
                </category>
                <category xml:id="scienceNat">
                   <catDesc>Science Naturelles</catDesc>
-                  <category xml:id="geologie">
+                  <!--<category xml:id="geologie">
                      <catDesc>Géologie</catDesc>
-                  </category>
+                  </category>-->
                      <category xml:id="mineraux">
                         <catDesc>Minéraux</catDesc>
-                  </category>
+                     </category>
+                     <!--In the book Minéraux is followed by ",etc."; should that be included?-->
                   <!--<category xml:id="botanique">
                      <catDesc>Botanique</catDesc>-->
                      <category xml:id="vegetaux">
                         <catDesc>Végétaux</catDesc>
+                        <!--All of the sub-categories following this are numbered; should that be included?-->
                         <category xml:id="arbreNoncultives">
                            <catDesc>Arbres non cultivés</catDesc>
                         </category>
@@ -206,6 +256,7 @@
                      <catDesc>Zoologie</catDesc>-->
                      <category xml:id="animaux">
                         <catDesc>Animaux</catDesc>
+                        <!--All of the sub-categories following this are numbered; should that be included?-->
                         <category xml:id="homme">
                            <catDesc>l'Homme</catDesc>
                         </category> <!--Homme wouldn't go under zoologie.. could we seperate it or rename this category?-->
@@ -246,7 +297,7 @@
                   </category>-->
                </category>
                <category xml:id="sciencesPhys">
-                  <catDesc>Sciences physiques</catDesc>
+                  <catDesc>Notions relatives aux sciences physiques</catDesc>
                   <!--<category xml:id="elements">
                      <catDesc>Éléments</catDesc>-\->
                      <category xml:id="feu">
@@ -309,17 +360,11 @@
                      <catDesc>Aliments</catDesc>
                   </category>
                   <category xml:id="maladiesRemedes">
-                     <catDesc>Maladies,etc.; remèdes</catDesc>
+                     <catDesc>Maladies, etc. ; remèdes</catDesc>
                   </category>
                </category>
-               <!-- <category xml:id="geographie">
-                  <catDesc>Géographie</catDesc>
-                  <category xml:id="landFeatures">
-                     <catDesc>Land features</catDesc>
-                  </category>-->
             </taxonomy>
          </classDecl>
-         
       </encodingDesc>
       <profileDesc>
          <settingDesc>
@@ -467,7 +512,7 @@
                         
                         <ab type="question"> Comment sert-on un poulet rôti ? — Comment le découpe-t-on ? — Quels sont les morceaux les plus délicats ? — A qui devra-t-on les offrir ? </ab>
                         
-                        <ab type="answer"> On sert le poulet rôti sur un plat garni préalablement d'un lit de cresson. Pour le découper, on enlève successivement les quatre membres en commençant par la cuisse et l'aile d'un même côté, puis les sot-l'y-laisse (1) <!--Need to add footnote from chapter 108--> et les blancs. On rompt ensuite le croupion et l'on coupe horizontalement la carcasse. On divise chaque cuisse en deux, chaque aile en trois morceaux ; la carcasse et le croupion doivent en faire six bien distincts. On dispose chaque morceau dans le plat de manière qu'on puisse les voir tous, et l'on fait circuler. Tout cela doit être mené le plus lestement possible, afin d'empêcher le refroidissement de la pièce. <lb/> 
+                        <ab type="answer"> On sert le poulet rôti sur un plat garni préalablement d'un lit de cresson. Pour le découper, on enlève successivement les quatre membres en commençant par la cuisse et l'aile d'un même côté, puis les sot-l'y-laisse (1)<note type="foot">(1) Le sot-l'y-laisse est un morceau placé sous la cuisse, à la naissance de l'aile, dont la chair est très délicate, quoique moins blanche.</note> et les blancs. On rompt ensuite le croupion et l'on coupe horizontalement la carcasse. On divise chaque cuisse en deux, chaque aile en trois morceaux ; la carcasse et le croupion doivent en faire six bien distincts. On dispose chaque morceau dans le plat de manière qu'on puisse les voir tous, et l'on fait circuler. Tout cela doit être mené le plus lestement possible, afin d'empêcher le refroidissement de la pièce. <lb/> 
                         Les morceaux les plus délicats sont l'aile et le blanc ; on devra les offrir aux dames, en commençant par les plus âgées. </ab>
          
                      </div>

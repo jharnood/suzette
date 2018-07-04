@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Suzette: a Digital Edition - Chapter 114</title>
+            <title type="main">Suzette: a Digital Edition - Chapter 109</title>
             <respStmt>
                <persName>John Westbrook</persName>
                <orgName>Bucknell University</orgName>
@@ -50,7 +50,7 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <profileDesc>
+           <profileDesc>
          <langUsage>
             <language ident="fra">French</language>
             <language ident="eng">English</language>
@@ -115,7 +115,6 @@
             <char>
                <charName xml:id="les_dumay">La Famille Dumay</charName>
             </char>
-           
          </charDecl>
          <classDecl>
             <taxonomy xml:id="classification">
@@ -430,99 +429,134 @@
    <text>
       <body>
          <!-- n is for maitresse edition, corresp is for student edition -->
-         <div type="chapter" n="114">
+         
+         <div type="chapter" n="109">
             <div xml:lang="fr">
-
-               <div type="student">   
-                  <pb type="page" n="400"/>
-                  <head> 114. — Un cadeau. (Élève, p. 243.) </head>
-              
-                  <p> <time>Le surlendemain</time>, <time>à la fin du jour</time>, <persName ana="#papa">M. Dumay</persName>, rentré des champs, les pieds dans de bons et spacieux sabots qu'il appelait ses pantoufles, regardait paternellement <persName ana="#suzette">Suzette</persName>. </p>
-                  <p> En robe claire et tablier à carreaux, elle vaquait au
-            
-                  <pb type="page" n="401"/>   
-                  <fw type="header"> UN CADEAU. 401 </fw>
+               <div type="student">
+                  
+                  <pb type="page" n="382"/>
+                  <head> 109. — La vacherie. (Élève, p. 233) </head>
+         
+                  <p> Tout en admirant ces superbes volailles, la petite caravane se trouva devant la vacherie. Le bâtiment était en forme de chalet ; le long des murs blancs, deux rangées de vaches choisies, normandes, flamandes, bretonnes, hollandaises, luisantes de santé. </p>
+                  <p> Un foin frais et fleuri remplissait les râteliers. Elles mangeaient : quelques-unes, tout en ruminant*<gloss>Ruminer. Faire revenir de l'estomac des mets avalés pour les mâcher.</gloss>, tournaient vers les visiteurs leur tête nonchalante, aux gros yeux pleins de vague songerie. </p>
+                  <p> Elles étaient là dans l'air oxygéné*<gloss>Oxygéné. Qui contient beaucoup d'oxygène.</gloss> des bois, soignées en princesses et donnaient un lait aussi pur, aussi délicat que pouvait l'être celui de Trianon*<gloss>Trianon. Petit château dans l'enceinte du parc de Versailles.</gloss> dont la reine Marie-Antoinette et les dames de sa cour, déguisées en fermières, faisaient, de leurs propres mains, leur fromage à la crème et leur beurre. </p>
+                  <p> Aussi le lait du Jardin d'acclimatation est-il réservé aux Parisiens qui peuvent le payer un franc le litre. On le leur apporte, ou ils viennent le boire, là, dans des tasses fines. </p>
+                  <p> Parmi les buveurs, nos amis reconnurent quelques jolis cavaliers de l'éléphant, des chameaux et des poneys. </p>
+                  <p> La petite fée Urgande, descendue de son équipage mené par l'autruche, avait le nez dans sa tasse ; elle le leva pour respirer ; de ses yeux doux elle regarda la compagnie, et répondit au sourire que Suzette lui adressait, par un autre, tout blanc de lait. </p>
+                  <sp><speaker>Mme Richard</speaker><ab> — Ah ! </ab></sp> <stage> dit la tante Richard, </stage> <sp><speaker>Mme Richard</speaker><ab> si tous les enfants de Paris pouvaient boire à pareil bol ! Mais que de pauvres bébés, dans cette grande ville, y végètent*<gloss>Végéter. Vivre misérablement.</gloss>, y meurent par le lait inondé d'eau ou falsifié*<gloss>Falsifié. Qui a été altéré par le mélange de substances étrangères.</gloss> qu'on leur sert ! </ab></sp>
+                  <p> Une grosse et blonde dame en blanc bonnet, qui venait d'entrer, se mit aussitôt de la conversation : </p>
+                  <sp><speaker>La Flamande</speaker><ab> — Madame, </ab></sp> <stage> dit-elle, </stage> <sp><speaker>La Flamande</speaker><ab> c'est dans mon pays, en Belgique, ou même en Hollande qu'il faut aller pour boire du lait, savez-vous ? Là, il y a des vacheries auprès desquelles celle-ci n'est que de la Saint-Jean*<gloss>De la Saint-Jean. Peu de chose; quelque chose d’inferieur.</gloss>, savez-vous ? </ab></sp>
+         
+                  <pb type="page" n="383"/>   
+                  <fw type="header"> LA VACHERIE. 383 </fw>
+         
+                  <p> Et elle fit un tableau flamand de ces vacheries constamment lavées du haut en bas, des épaisses litières plus vite nettoyées que salies. <!--Is this actually where the dialogue starts?--> <sp><speaker>La Flamande</speaker><ab> Le sol y est en pente, avec une rigole au bas, pour l'écoulement du purin*<gloss>Purin. Liquide qui s'écoule de la litière ou du fumier.</gloss>, et <lb/>
                      
-                     ménage, qui, en <time>ces quarante-huit heures</time>, avait repris toute sa gentillesse passée. Elle vint ensuite s'asseoir près de la fenêtre, devant un panier de belles <seg ana="#legumesRacines">laitues</seg>, bien pommées, et d’une fraîcheur à vous mettre l'eau à la bouche. Elle commençait <seg ana="#alimentsCuisine">l'épluchage</seg>, quand le gros loquet de la porte s'ébranla. </p>
+                     <figure>
+                        <caption> Il faut les voir, le matin, sur de petites voitures, trainées par de gros chiens. </caption>
+                     </figure>  
+                     
+                     <figure> 
+                        <caption> <hi rend="italic">Canards, oies et dindons.</hi>
+                           <lb/>
+                           Ces trois animaux de basse-cour nous sont d'une grande utilité. — La chair du canard domestique (1) est de bonne qualité ; on peut la conserver en la salant ou en la faisant mariner. Avec celle des canetons on confectionne des pâtés d'Amiens et les foies servent à faire les terrines de Nérac et de Toulouse. — L'oie (2) est le mots de prédilection des petits ménages dans les fêtes de famille pendant l'hiver ; sa chair est délicate et sa graisse très utile pour bien des préparations culinaires. Avec la plume des oies en garnit les coussins, les oreillers et l'on fait des plumes pour écrire. — Le dindon (3) est un gros oiseau dont la chair est très estimée et préférée à celle du canard et de l'oie.
+                        </caption>
+                     </figure>
+                     
+                  les vaches, quand elles se couchent, n'ont pas même la permission de traîner leur queue à terre ; on la relève en l'attachant. Des étables ! ce sont des salons, savez-vous ? J’ai été servante, moi, dans une ferme hollandaise. Il fallait voir la laiterie ! blanche comme neige, ventilée, mais sans fenêtres, fraîche ! Et la vaisselle 
                   
-                  <figure> 
-                     <caption> <hi rend="italic"><seg ana="#legumesRacines">Laitue</seg>. — <seg ana="#legumesRacines">Romaine</seg>. — <seg ana="#legumesRacines">Chicorée</seg>.</hi>
-                        <lb/>
-                        <seg ana="#legumesRacines">Les salades</seg> sont des <seg ana="#legumesRacines">plantes</seg> crues que l'on mange assaisonnées avec de <seg ana="#alimentsCuisine">l'huile</seg>, du <seg ana="#alimentsCuisine">vinaigre</seg>, du <seg ana="#alimentsCuisine">poivre</seg>, du <seg ana="#alimentsCuisine">sel</seg> et quelquefois de <seg ana="#alimentsCuisine">la moutarde</seg>. Pour en relever le goût, on y ajoute souvent de <seg ana="#alimentsCuisine">l'ail</seg>, de <seg ana="#alimentsCuisine">la ciboule</seg>, du <seg ana="#alimentsCuisine">cerfeuil</seg>, de <seg ana="#alimentsCuisine">la civette</seg>, de <seg ana="#alimentsCuisine">la pimprenelle</seg>, de <seg ana="#alimentsCuisine">l'estragon</seg>, dont la réunion forme ce qu'on appelle de <seg ana="#alimentsCuisine">la fourniture</seg>. Chaque saison apporte sa <seg ana="#legumesRacines">salade</seg> particulière. En épluchant <seg ana="#legumesRacines">la salade</seg>, ayez bien soin d'examiner s'il n'y reste pas de <seg ana="#animauxSauvages">limaçons</seg> ou d'<seg ana="#animauxSauvages">insectes</seg>. <seg ana="#legumesRacines"><seg ana="#alimentsCuisine">Les salades</seg></seg> sont en général rafraîchissantes.
-                     </caption>
-                  </figure>
-                  
-                  <sp><speaker>Suzette</speaker><ab> — Bon ! </ab></sp> <stage> dit-elle, sans même pencher la tête pour regarder au dehors, </stage> <sp><speaker>Suzette</speaker><ab> voilà <persName ana="#francais"><persName ana="#charlot">nos écoliers</persName></persName> ! et probablement avec les dents longues, comme à l'habitude. </ab></sp>
-                  <p> Mais ce fut <persName ana="#sylvain">Sylvain</persName> qui entra, guêtré de toile bleue, tout embourbé de <seg ana="#mineraux">l'argile</seg> des labours, par lesquels il avait pris pour abréger les deux lieues de chemin qui séparaient la ferme de <persName ana="#m_cartier">son patron</persName> de celle <persName ana="#les_dumay">des Dumay</persName>. </p>
-                  <sp><speaker>Sylvain</speaker><ab> — Bonsoir, <persName ana="#papa">Monsieur</persName> ! bonsoir, <persName ana="#suzette">Mademoiselle</persName> ! </ab></sp>
-                  <p> Sa voix tremblait d'une joie contenue. </p>
-                  <sp><speaker>Papa</speaker><ab> — Qu'y a-t-il, <persName ana="#sylvain">mon ami</persName> ? </ab></sp> <stage> demanda <persName ana="#papa">le père</persName>. </stage>
-                  <sp><speaker>Sylvain</speaker><ab> — J'ai pensé aux <seg ana="#animauxSauvages">abeilles</seg>, </ab></sp> <stage> répondit-il, </stage> <sp><speaker>Sylvain</speaker><ab> je vous apporte <seg ana="#constructions">une ruche</seg> avec son essaim*<!--There is an asterisk in the book but no definition in the lexique-->. </ab></sp>
-                  <sp><speaker>Suzette</speaker><ab> — Avec son <seg ana="#animauxSauvages">essaim</seg> ! </ab></sp> <stage> s'écria <persName ana="#suzette">Suzette</persName>. </stage>
-                  <sp><speaker>Sylvain</speaker><ab> — <persName ana="#m_cartier">Mon patron</persName> me l'a donné ; moi, j'ai fait <seg ana="#constructions">la ruche</seg>, en <seg ana="#cereales">paille de seigle</seg> bien tressée, solide et légère. Elle est là dans la cour. Voulez-vous la voir ? </ab></sp>
-                  <p> On courut à la cour ; on vit <seg ana="#constructions">la ruche</seg> soigneusement enveloppée d'une toile, et on alla aussitôt la mettre en place dans le jardin. </p>
-            
-                  <pb type="page" n="402"/>   
-                  <fw type="header"> 402 SUZETTE. </fw>
-                  
-                  <sp><speaker>Suzette</speaker><ab> — Ah ! <persName ana="#sylvain">monsieur Sylvain</persName>, que je vous remercie ! </ab></sp> <stage> dit <persName ana="#suzette">Suzette</persName>. </stage> <sp><speaker>Suzette</speaker><ab> Voilà la seule chose qui put me faire plaisir ; vous l'avez deviné. </ab></sp>
-                  <p> Elle lui tendit la main. Il semblait encore plus heureux qu'elle et montrait la vérité du vieux dicton*<gloss>Dicton. Sentence passée en proverbe.</gloss> : <name type="dicton">« Plus doux est donner que recevoir. »</name> On le retint à souper. Après le repas d'<seg ana="#alimentsCuisine">œufs à la coque</seg> et de fraîches <seg ana="#alimentsCuisine">laitues</seg>, on alla <persName ana="#les_dumay">en famille</persName> faire un bout de conduite à <persName ana="#sylvain">l'ami Sylvain</persName>. </p>
-                  <p> <persName ana="#sylvain">Le garçon</persName>, maintenant bien traité, estimé pour son travail, avait perdu sa physionomie un peu dure d'autrefois. A cette heure, sa parole, toute sa personne respiraient la paix d'un cœur adouci. </p>
-                  <p> En revenant avec <persName ana="#les_dumay">les siens</persName> après <time>un quart d'heure</time> de route, <persName ana="#papa">M. Dumay</persName> dit : </p>
-                  <sp><speaker>Papa</speaker><ab> — Le voilà hors d'affaire, content de son sort. Je ne suis pas fâché que <persName ana="#pascal">monsieur mon neveu</persName>, <persName ana="#pascal">l'explorateur</persName>, nous ait procuré l'occasion de nous montrer les amis de <persName ana="#sylvain">ce pauvre enfant</persName>. Un peu de <seg ana="#devoirsSemblables">bonté</seg> envers les déshérités, il n'en faut pas plus, souvent, pour faire des heureux et de braves gens. </ab></sp>
-            
-                  <div type="questionnaire">
-                     <ab>
-                        <hi rend="bold"> Questionnaire. </hi> — Comment était M. Dumav le surlendemain et que faisait-il ? — A quoi s'était occupée Suzette depuis quarante-huit heures et quel travail la tenait auprès de la fenêtre ? — Que dit-elle quand on frappa à la porte ? — Qui arrivait ? — Comment était Syl-
-                        <cb/>
-                        vain ? Que dit-il à M. Dumay, puis à Suzette ? — Que vit-on dans la cour ? — Comment fut-il remercié ? — Quo lui offrit-on ? — Quel changement s'était fait en Sylvain ? — Quelle réflexion fit M. Dumay au sujet de Sylvain quand ce dernier fut parti ?
-                     </ab>
-                  </div>
+                  <pb type="page" n="384"/>   
+                  <fw type="header"> 384 SUZETTE. </fw>
+                 
+                  pour le lait, comme tout cela était rincé ! Mais aussi quelle crème ! quel beurre ! quel fromage ! Et à Bruxelles, il faut voir, le matin, dans les rues, les grandes boîtes à lait de cuivre poli, brillant comme or. Les laitières les promènent de porte en porte. Et c'est ça des laitières et du lait, savez-vous ? </ab></sp>
+                  <p> En parlant ainsi, la Flamande, heureuse de faire valoir son pays, accompagna un moment nos amis, et les quitta au détour d'un bout de rivière. </p>
+                  <p> Là, des canards bons enfants s'exerçaient à la culbute, au plongeon, et autres amusettes de la natation ; on apercevait, à travers les branches fleuries d'un cytise, un spectacle devant lequel Mme Richard arrêta sa troupe. </p>
+                     
+                     <div type="questionnaire">
+                        <ab>
+                           <hi rend="bold"> Questionnaire. </hi> — Donnez une idée du bâtiment affecté à la vacherie. — Qu'est-ce qui remplissait les râteliers et que faisaient les vaches ? — Quelle sorte de lait donnaient-elles, et pourquoi ? — A qui est réservé le lait du Jardin d'acclimatation ? — Qui reconnut-on parmi les buveurs ? — Que direz-vous de la petite fille que l'on compara à la fée
+                           <cb/>
+                           Urgande ? — Quel souhait forma la tante Richard ? — Quelle personne vint à entrer ? — Que se mit-elle à dire ? — Que raconta-t-elle des vacheries de Belgique et de Hollande ? — Que voit-on le matin dans les rues de Bruxelles ? — Que voyait-on, de la vacherie, à l'autre bout de la rivière ?
+                        </ab>
+                     </div>
                </div>
                
                <div type="teacher">
                   <div type="exercice">
                      <head type="exercice"> DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES. </head>
                      
-                     <div type="morale">
-                        <head type="sujets"> Morale. </head> 
+                     <div type="sciencesNat">
+                        <head type="sujets"> Sciences naturelles. </head> 
                         
-
-                        <ab type="question"> — Quand peut-on dire qu'une jeune fille est bonne ? — Exemples. — La bonté empêche-t-elle qu'on blâme ce qui est mal ? — Pourquoi celle qui ne s'élève pas contre le mal n'est-elle pas vraiment bonne ? — Pourquoi la mire qui ne reprend pas les défauts de ses enfants n'est-elle pas une bonne mère ? — Comment peut-on être bonne et, en même temps, sévère à l'égard de ce qui est contraire au devoir ? — Exemples.</ab>
+                        <!--— L'AIR.-->
+                        <ab type="question"> — Qu'est-ce que l'air ? — Quels gaz entrent dans sa composition ? — Propriétés de chacun d'eux. — Qu'est-ce que l'atmosphère ? — Son épaisseur ; phénomènes qui s'y passent. </ab>
                         
-                        <ab type="answer"><seg corresp="#devoirsSemblables">La bonté</seg>, qui est la plus grande vertu de la femme, consiste à satisfaire et à soulager les besoins des autres avant même qu'ils aient été exprimés ; elle va au secours de la pensée qui n'ose se produire, lit dans les regards baissés, entend le soupir qu'on étouffe, comprend et saisit le désir à peine formé. Elle n'oublie personne, ne manque à rien. Le mot qui va blesser, s'arrête sur les levres de la jeune fille vraiment bonne ; elle réprime dans son cœur tout sentiment capable d'affliger autrui. (Sur ces données, les élèves trouveront elles-mêmes des exemples qu'elles emprunteront à la vie de l'école et de la famille.)<lb/>
-     
-                           <pb type="page" n="402"/>
-                           <fw type="header"> UN CADEAU. 403 </fw>   
-             
-            La bonté n'est pas <term>faiblesse</term> ; la bonté n'est ni tendresse ni obligeance banales, ni parti pris de trouver tout bien et d'être indifférent à tout ; la bonté n'est pas non plus indulgence aveugle et sensibilité au service du premier venu. Céder à tous, c'est ne rendre justice à la raison de personne ; aimer et obliger tout le monde, c'est n aimer, c'est n'obliger personne. Trouver tout bien, c'est couvrir toutes les fautes de la même indulgence ; c'est traiter le mal à l'égal du bien ; c'est n'avoir la notion juste ni de l'un ni de l'autre. <lb/>
-            Une mère <term>qui ne reprend pas</term> les défauts de ses enfants, les encouragé à mal faire et les expose à contracter des habitudes qui, plus tard, seront des vices. Quand la plante est jeune, c'est là, dit-on, qu'il la faut redresser. Une mère peut reprendre ses enfants sans cesser d'être bonne, si elle le fait avec modération et réflexion, avec justice et indulgence, si elle est prompte à saisir l'éclair du repentir et à se servir de cette disposition pour que le châtiment soit accepté et subi avec résignation, comme une réparation nécessaire. Qu'elle ne sourie jamais à une action maligne, à un sentiment égoïste, à un mensonge ingénieux de l'enfant, mais qu'elle témoigne froidement et sur-le-champ lé mécontentement qu'elle éprouve : l'enfant, qui la regarde comme sa conscience visible, retombera bien plus rarement dans pareilles fautes.</ab></div>
+                        <ab type="answer"> L'air est un mélange de deux gaz : l'oxygène pour 21 parties sur 100, en volume, et l'azote pour 79. Il forme autour de la terre une couche dont on évalue l'épaisseur à 50 ou 60 kilomètres ; au delà est un air extrêmement raréfié, et à 100 kilomètres de hauteur il n'y a plus que le vide absolu. <lb/>
+                        Un litre d'air pèse 1 gramme 3 dixièmes, soit un l kilog. 300 par mètre cube, à la surface du sol. <lb/>
+                        L'<term>oxygène</term> est un gaz incolore, sans saveur et sans odeur ; il se combine avec tous les corps en dégageant de la chaleur et parfois de la lumière ; seul il peut entretenir la, vie, et c'est grâce à sa présence dans l'air et dans l'eau que les animaux terrestres et les poissons y conservent l'existence ; mais il est dangereux de le respirer pur pendant longtemps. <lb/>
+                        L'<term>azote</term> est un gaz également incolore, sans saveur ni odeur ; il est impropre à entretenir la combustion ; une lumière plongée dans un flacon rempli de ce gaz s’éteint immédiatement. Il tempère l'activité de l'oxygène, et se combine à une foule de corps. <lb/>
+                        L'atmosphère contient en outre de la vapeur d'eau et quelques dix-millièmes d'un gaz formé d’oxygène et de charbon : l'<term>acide carbonique</term>. Les animaux en exhalent pendant l'acte de la respiration, de même
+         
+                  <pb type="page" n="385"/>   
+                  <fw type="header"> LA VACHERIE. 385 </fw>
+         
+                        que les plantes durant la nuit, et certains végétaux en fermentation. Comme il est impropre à la vie, on comprend qu'il soit malsain de ne pas renouveler fréquemment l'air des lieux fermés où se réunissent plusieurs personnes ou plusieurs animaux. C'est pour ce motif que l'on ne conserve pas sans danger des plantes et des fleurs dans une chambre à coucher. </ab>
+                        
+                        <!--LA VACHE.--> 
+                        <ab type="question"> — Que savez-vous de la vache, du veau et du bœuf ? — Produits et services dont nous leur sommes redevables. — Usages de la peau, des os, des cornes, des tendons, du sang de ces animaux. </ab>
+                        
+                        <ab type="answer"> La <term>vache</term> est le plus précieux peut-être de nos animaux domestiques ; elle nous donne à la fois son lait, sa chair et son travail, lequel, dans certaines contrées, n'est pas sans importance. <lb/>
+                        Le <term>bœuf</term> est, après le cheval, le plus utile auxiliaire de l'homme ; il tire la charrue et traîne les chariots ; engraissé, il fournit une chair succulente et fortifiante. <lb/>
+                        Le <term>veau</term> et la <term>génisse</term> sont les petits de la vache ; un certain nombre d'entre eux sont destinés à la boucherie ; ils donnent une viande délicate et de facile digestion. <lb/>
+                        Ces animaux appartiennent à l'ordre des ruminants, c'est-à-dire que la nourriture exclusivement végétale dont ils s'accommodent passe d'abord dans un premier estomac, revient à la bouche pour être mâchée de nouveau, redescend dans un second estomac, puis se rend dans un troisième et, enfin, dans un quatrième. <lb/>
+                        Les services que le bœuf, la vache et leurs petits rendent à l'homme se prolongent au delà de leur existence : on met à profit toutes leurs dépouilles. Avec leur peau, on fait un cuir excellent ; avec leurs cornes, on confectionne mille petits objets utiles : des boîtes, des peignes, des manches de couteau, des vitres de lanternes. Les os du bœuf remplacent l'ivoire et se vendent à bas prix ; s'ils sont frais, ou en fait de la gélatine, et, s'ils sont secs, du noir animal ; les tendons donnent un fil très fin employé par les selliers ; les pieds fournissent une huile précieuse ; le sang est employé dans la fabrication du bleu de Prusse et de la graisse on tire un suif excellent. <lb/>
+                        On estime qu'il y a en France douze millions de têtes de l'espèce bovine. </ab>
+                     </div>
                      
-                     <div type="histoireNaturelle"><!-- Should this be sciences naturelles? The classification lists Salade chapter 114 under Sciences naturelles Légumes -->
-                        <head type="sujets"> Histoire naturelle. </head>  
+                     <div type="agriculture">
+                        <head type="sujets"> Agriculture. </head> 
                         
-                        <ab type="question">— Quelles plantes sont employées pour préparer les salades ? — Décrivez les laitues diverses, la chicorée, le cresson, le pis enlit. — Ajoutez quelques détails sur la culture des laitues et de la chicorée.</ab>
+                        <ab type="question"> — Qu'est-ce qu'une prairie ? — Qu'entend-on par prairies naturelles et par prairies artificielles ? — Quels terrains leur conviennent ? — Décrire la récolte du fourrage. </ab>
                         
-                        <ab type="answer">Les plantes employées pour les salades sont : la <term type="salade">laitue</term>, dont il y a plusieurs variétés telles que la <term type="salade">laitue frisée</term> et la <term type="salade">romaine</term> ; la <term type="salade">chicorée</term>, le <term type="salade">cresson</term>, le <term type="salade">pissenlit</term>, le <term type="salade">céleri</term>.<lb/>
-                           La <term type="salade">laitue ordinaire</term> porte des feuilles larges, vertes ou brunes, qui se réunissent en une sorte de boule lorsque la plante acquiert son complet développement ; la <term type="salade">laitue romaine</term> a des feuilles allongées, raides, et forme des touffes d'où l'on tire souvent la matière de plusieurs salades.<lb/>
-                           La <term type="salade">chicorée</term> est remarquable par ses feuilles extrêmement découpées que l'on réunit en faisceau, comme celles de la laitue, pour les faire blanchir et les rendre ainsi plus tendres à manger.<lb/>
-                           Le <term type="salade">cresson</term> présente des tiges herbacées de faible consistance qui portent des feuilles vert foncé, de forme arrondie et de saveur forte. 0n mange les unes et les autres.<lb/>
-                           Le <term type="salade">pissenlit</term> ordinaire croît naturellement dans les prairies ; c'est une plante de petite dimension du pied de laquelle sortent des feuilles très allongées, de saveur amère ; on arrache les pieds au printemps, dans la première période de leur croissance, et on les mange ainsi en salade.<lb/>
-            Les laitues et les chicorées sont semées sur couche et sous châssis dès que les froids les plus rigoureux ont pris fin ; on les repique dans des plates-bandes bien fumées et on peut les récolter dès la fin de mai, ou de juin, s'il s'agit de la chicorée. Si l'on veut obtenir des laitues au mois d'avril, ou repique des pieds pris également sur couche au mois d'octobre. On a soin de les planter à l'exposition du midi, le long d'un mur, par exemple.</ab></div>
-                  
-                     <div type="econDom">
-                        <head type="sujets"> Économie domestique. </head>  
+                        <ab type="answer"> Une <term>prairie</term> est un terrain qui produit de l'herbe, du foin ou d'autres plantes servant aux mêmes usages que les deux premières. <lb/>
+                        Il y a deux espèces de prairies : <lb/>
+                        1° Les <term>prairies artificielles</term>, terres labourables sur lesquelles on a semé, pour quelques années, différentes espèces d'herbes propres à la nourriture des animaux domestique, telles que le trèfle, la luzerne, la minette, le sainfoin. <lb/>
+                        2° Les <term>prairies naturelles</term>, terrains sur lesquels le foin vient naturellement ou a été semé en vue de produire pendant plusieurs années. <lb/>
+                        Les terrains qui conviennent aux prairies naturelles doivent être frais et profonds ; il en est de même pour la luzerne. Le trèfle, la minette, le sainfoin réussissent dans les terres maigres et même pierreuses ; ce sont des plantes précieuses lorsque le sol n'est pas arrosé par des fontaines ou des ruisseaux et ne peut, par conséquent, se prêter à l'établissement de prairies naturelles et à la culture de la luzerne. <lb/>
+                        Les prairies de toutes sortes sont fauchées quand elles sont en fleur ;
                         
-                        <ab type="question">— Qu'est-ce qu'une salade ? — Comment prépareriez-vous une salade à la laitue, à la chicorée, au cresson, aux pissenlits ? — Prix du pied de chacune de ces salades au dernier marché. (Il n'est pas question du cresson ni des pissenlits)</ab>
+                           <fw type="sig"> SUZETTE (Maîtresse). 22 </fw>
+         
+                  <pb type="page" n="386"/>   
+                  <fw type="header"> 386 SUZETTE. </fw>
+         
+                        on étend l'herbe sur le terrain ; on la retourne pour qu'elle sèche bien également, et on la rentre ensuite dans les granges, à moins qu'on ne l'entasse dans les champs, en masses coniques connues sous le nom de <term>meules</term>. </ab>
+                     </div>
+                     
+                     <div type="histoire">
+                        <head type="sujets"> Histoire. </head> 
                         
-                        <ab type="answer">Une salade est un mets composé de certaines herbes ou de certains légumes assaisonnés avec du sel, du vinaigre et de l'huile, quelquefois avec du poivre et de la moutarde.<lb/>
-            
-                           <pb type="page" n="404"/>
-                           <fw type="header">  404 SUZETTE. </fw>
-                           
-                           <!-- LAITUE. --><!--<ab type="recette">-->— Enlevez les feuilles vertes extérieures et les plus grosses côtes ; fendez les plus grandes feuilles dans le sens de la longueur et coupez-les en deux ou trois morceaux ; lavez à plusieurs eaux et égouttez en vous servant d'un panier à claire-voie, dit vulgairement panier à salade. Assaisonnez ensuite de sel, de poivre, d'huile et de vinaigre (ce dernier condiment, dans la proportion du tiers de l'huile) ; retournez jusqu'à ce que toutes les feuilles soient imbibées, enfin présentez aux convives le saladier.<!--</ab>--><lb/>
-                           <!-- CHICORÉE. --> <!--<ab type="recette">-->— La salade de chicorée, celles de cresson et de pissenlits se préparent de la même manière, sauf en ce qui concerne les feuilles. On ajoute à celle de chicorée des croûtes de pain frottées d'ail qui en relèvent le goût.<!--</ab>--></ab></div>
-                       
+                        <ab type="question"> — Racontez ce que vous savez de la reine Marie-Antoinette, du palais de Versailles et de Trianon. </ab>
+                        
+                        <ab type="answer"> <term>Marie-Antoinette d'Autriche</term>, reine de France, naquit à Vienne en 1755 et fut guillotinée le 16 octobre 1793. Elle épousa en 1770 le Dauphin de France, qui fut depuis le roi Louis XVI ; à peine ce dernier était-il sur le trône, que la légèreté et la hauteur de Marie-Antoinette augmentèrent les embarras de la royauté et du gouvernement ; elle fut en butte à l'inimitié d'une partie de la cour, et, comme elle s'opposait à toutes les reformes, l'opinion publique se tourna contre elle. Sa conduite fut plus qu'imprudente au début de la révolution et, aux journées des 5 et 6 octobre 1789, elle n'échappa que par miracle aux poignards des assassins. Emprisonnée au Temple avec son mari et ses enfants après le 10 août 1792, elle y souffrit tous les outrages, tous les tourments, comme reine, comme épouse et comme mère ; sa captivité fut un véritable martyre. Traduite devant le tribunal révolutionnaire et condamnée à mort après avoir entendu formuler contre elle les plus lâches et les plus infâmes accusations, elle marcha au supplice avec beaucoup de fermeté et mourut en pardonnant à ses ennemis. <lb/>
+                        Le <term>palais de Versailles</term> est un immense édifice, de 450 mètres de façade sur les jardins, qui fut construit sous le règne de Louis XIV. Les architectes Levau et Hardouin Mansart, le peintre Lebrun, le jardinier Le Nôtre le construisirent ou l'ornèrent ; la dépense a été estimée à un milliard de la monnaie de l'époque. <lb/>
+                        Le grand roi y habita de 1672 jusqu'à sa mort ; Louis XV et Louis XVI y fixèrent leur résidence, et ce dernier jusqu'à ce que le peuple de Paris le ramenât aux Tuileries, en octobre 1789. Sous le règne de Louis-Philippe, ce magnifique édifice fut converti en un musée des gloires nationales de la France (1837). <lb/>
+                        Le palais du <term>Grand Trianon</term>, bâti sous Louis XIV vers 1676, et celui du <term>Petit Trianon</term>, créé par Louis XV, sont de beaux édifices contigus au jardin du palais de Versailles. Marie-Antoinette aimait beaucoup à résider au Petit Trianon. </ab>
+                     </div> 
+                     
+                     <div type="EconDom">
+                        <head type="sujets"> Économie domestique. </head> 
+                        
+                        <ab type="question"> — Usages du lait de vache ; — comment on le conserve. — Détails sur une laiterie. — Quels produits sont fabriqués avec le lait de vache, celui des chèvres et des brebis. — Détails sur le beurre et le fromage. <note type="reference"> (Voir, pour ce dernier point, la leçon 29.) </note> </ab>
+                        
+                        <ab type="answer"> Le <term>lait</term> est à la fois un aliment solide et une boisson, une source d'albumine et de graisse, de sucre et de sel : c'est l'aliment des aliments, à la fois très nourrissant et digestif. On l'emploie pur ; il entre dans la confection des <term>soupes</term>, des <term>potages</term>, de divers <term>ragoûts</term>, de la plupart des <term>crèmes</term> et des <term>pâtisseries</term>, sans en excepter celle du <term>beurre</term> et du <term>fromage</term>. <lb/>
+                        En été, on ne peut conserver le lait que dans des vases très propres, en le faisant bouillir et en le tenant dans un lieu frais. Un peu de bicarbonate de soude produit, dit-on, le même effet ; mais ce procédé n'est pas hygiénique. <lb/>
+                        Une <term>laiterie</term> est une pièce demi-souterraine ordinairement, exposée au nord, munie d'une seule fenêtre pour que la lumière n'y arrive qu'en petite quantité. Les murs en doivent être épais ; intérieurement,
+         
+                  <pb type="page" n="387"/>   
+                  <fw type="header"> LE RUCHER. 387 </fw>
+         
+                        ils sont garnis de tablettes de pierre ou de bois dur sur lesquelles on pose les vases de lait ; le pavé, formé de larges dalles, a besoin d'être fréquemment lavé à l'eau fraîche. </ab>
                      </div>
                   </div>
                </div>
