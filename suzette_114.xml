@@ -56,8 +56,11 @@
             <language ident="eng">English</language>
          </langUsage>
       </profileDesc>
-      <encodingDesc>
+          <encodingDesc>
          <charDecl>
+            <char>
+               <charName xml:id="les_dumay">La Famille Dumay</charName>
+            </char>
             <char>
                <charName xml:id="suzette">Suzette</charName>
             </char>
@@ -77,12 +80,6 @@
                <charName xml:id="charlot">Charlot</charName>
             </char>
             <char>
-               <charName xml:id="mme_valon">Mme Valon</charName>
-            </char>
-            <char>
-               <charName xml:id="m_valon">M. Valon</charName>
-            </char>
-            <char>
                <charName xml:id="mme_richard">Mme Richard</charName>
             </char>
             <char>
@@ -98,10 +95,19 @@
                <charName xml:id="sylvain">Sylvain</charName>
             </char> 
             <char>
+               <charName xml:id="mme_valon">Mme Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="m_valon">M. Valon</charName>
+            </char>
+            <char>
                <charName xml:id="ludivine">Ludivine</charName>
             </char> 
             <char>
                <charName xml:id="m_lejoly">M. Lejoly</charName>
+            </char>
+            <char>
+               <charName  xml:id="m_cartier">M. Cartier</charName>
             </char>
             <char>
                <charName xml:id="l_apiculteur">L'apiculteur</charName>
@@ -110,12 +116,8 @@
                <charName xml:id="la_bohemienne">La bohémienne</charName>
             </char>
             <char>
-               <charName  xml:id="m_cartier">M. Cartier</charName>
+               <charName xml:id="la_flamande">La Flamande</charName>
             </char>
-            <char>
-               <charName xml:id="les_dumay">La Famille Dumay</charName>
-            </char>
-           
          </charDecl>
          <classDecl>
             <taxonomy xml:id="classification">
@@ -401,17 +403,37 @@
                   <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
+                  <placeName xml:id="ilesEcosse">Îles d'Écosse</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_belgique">la Belgique</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_hollande">la Hollande</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="amienois">Amiénois</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="nerac">Nérac</placeName>
+               </place>
+               <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
                </place>
                <place>
                   <placeName xml:id="paris">Paris</placeName>
                </place>
                <place>
+                  <placeName xml:id="toulouse">Toulouse</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="boulogne">Boulogne</placeName>
+               </place>
+               <place>
                   <placeName xml:id="bruxelles">Bruxelles</placeName>
                </place>
                <place>
-                  <placeName xml:id="boston">Boston
-                  </placeName>
+                  <placeName xml:id="boston">Boston</placeName>
                </place>
                <place> 
                   <placeName xml:id="l_avre">l'Avre
@@ -423,6 +445,10 @@
                      <geogFeat>River</geogFeat>
                   </placeName>
                </place>
+               <place>
+                  <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation
+                  </placeName>
+               </place>
             </listPlace>
          </settingDesc>
       </profileDesc>
@@ -430,6 +456,7 @@
    <text>
       <body>
          <!-- n is for maitresse edition, corresp is for student edition -->
+         
          <div type="chapter" n="114">
             <div xml:lang="fr">
 
@@ -443,7 +470,7 @@
                   <pb type="page" n="401"/>   
                   <fw type="header"> UN CADEAU. 401 </fw>
                      
-                     ménage, qui, en <time>ces quarante-huit heures</time>, avait repris toute sa gentillesse passée. Elle vint ensuite s'asseoir près de la fenêtre, devant un panier de belles <seg ana="#legumesRacines">laitues</seg>, bien pommées, et d’une fraîcheur à vous mettre l'eau à la bouche. Elle commençait <seg ana="#alimentsCuisine">l'épluchage</seg>, quand le gros loquet de la porte s'ébranla. </p>
+                  ménage, qui, en <time>ces quarante-huit heures</time>, avait repris toute sa gentillesse passée. Elle vint ensuite s'asseoir près de la fenêtre, devant un panier de belles <seg ana="#legumesRacines">laitues</seg>, bien pommées, et d’une fraîcheur à vous mettre l'eau à la bouche. Elle commençait <seg ana="#alimentsCuisine">l'épluchage</seg>, quand le gros loquet de la porte s'ébranla. </p>
                   
                   <figure> 
                      <caption> <hi rend="italic"><seg ana="#legumesRacines">Laitue</seg>. — <seg ana="#legumesRacines">Romaine</seg>. — <seg ana="#legumesRacines">Chicorée</seg>.</hi>
@@ -486,38 +513,43 @@
                      
                      <div type="morale">
                         <head type="sujets"> Morale. </head> 
-                        
 
                         <ab type="question"> — Quand peut-on dire qu'une jeune fille est bonne ? — Exemples. — La bonté empêche-t-elle qu'on blâme ce qui est mal ? — Pourquoi celle qui ne s'élève pas contre le mal n'est-elle pas vraiment bonne ? — Pourquoi la mire qui ne reprend pas les défauts de ses enfants n'est-elle pas une bonne mère ? — Comment peut-on être bonne et, en même temps, sévère à l'égard de ce qui est contraire au devoir ? — Exemples.</ab>
                         
                         <ab type="answer"><seg corresp="#devoirsSemblables">La bonté</seg>, qui est la plus grande vertu de la femme, consiste à satisfaire et à soulager les besoins des autres avant même qu'ils aient été exprimés ; elle va au secours de la pensée qui n'ose se produire, lit dans les regards baissés, entend le soupir qu'on étouffe, comprend et saisit le désir à peine formé. Elle n'oublie personne, ne manque à rien. Le mot qui va blesser, s'arrête sur les levres de la jeune fille vraiment bonne ; elle réprime dans son cœur tout sentiment capable d'affliger autrui. (Sur ces données, les élèves trouveront elles-mêmes des exemples qu'elles emprunteront à la vie de l'école et de la famille.)<lb/>
      
-                           <pb type="page" n="402"/>
-                           <fw type="header"> UN CADEAU. 403 </fw>   
+                  <pb type="page" n="402"/>
+                  <fw type="header"> UN CADEAU. 403 </fw>   
              
-            La bonté n'est pas <term>faiblesse</term> ; la bonté n'est ni tendresse ni obligeance banales, ni parti pris de trouver tout bien et d'être indifférent à tout ; la bonté n'est pas non plus indulgence aveugle et sensibilité au service du premier venu. Céder à tous, c'est ne rendre justice à la raison de personne ; aimer et obliger tout le monde, c'est n aimer, c'est n'obliger personne. Trouver tout bien, c'est couvrir toutes les fautes de la même indulgence ; c'est traiter le mal à l'égal du bien ; c'est n'avoir la notion juste ni de l'un ni de l'autre. <lb/>
-            Une mère <term>qui ne reprend pas</term> les défauts de ses enfants, les encouragé à mal faire et les expose à contracter des habitudes qui, plus tard, seront des vices. Quand la plante est jeune, c'est là, dit-on, qu'il la faut redresser. Une mère peut reprendre ses enfants sans cesser d'être bonne, si elle le fait avec modération et réflexion, avec justice et indulgence, si elle est prompte à saisir l'éclair du repentir et à se servir de cette disposition pour que le châtiment soit accepté et subi avec résignation, comme une réparation nécessaire. Qu'elle ne sourie jamais à une action maligne, à un sentiment égoïste, à un mensonge ingénieux de l'enfant, mais qu'elle témoigne froidement et sur-le-champ lé mécontentement qu'elle éprouve : l'enfant, qui la regarde comme sa conscience visible, retombera bien plus rarement dans pareilles fautes.</ab></div>
+                        La bonté n'est pas <term>faiblesse</term> ; la bonté n'est ni tendresse ni obligeance banales, ni parti pris de trouver tout bien et d'être indifférent à tout ; la bonté n'est pas non plus indulgence aveugle et sensibilité au service du premier venu. Céder à tous, c'est ne rendre justice à la raison de personne ; aimer et obliger tout le monde, c'est n aimer, c'est n'obliger personne. Trouver tout bien, c'est couvrir toutes les fautes de la même indulgence ; c'est traiter le mal à l'égal du bien ; c'est n'avoir la notion juste ni de l'un ni de l'autre. <lb/>
+                        Une mère <term>qui ne reprend pas</term> les défauts de ses enfants, les encouragé à mal faire et les expose à contracter des habitudes qui, plus tard, seront des vices. Quand la plante est jeune, c'est là, dit-on, qu'il la faut redresser. Une mère peut reprendre ses enfants sans cesser d'être bonne, si elle le fait avec modération et réflexion, avec justice et indulgence, si elle est prompte à saisir l'éclair du repentir et à se servir de cette disposition pour que le châtiment soit accepté et subi avec résignation, comme une réparation nécessaire. Qu'elle ne sourie jamais à une action maligne, à un sentiment égoïste, à un mensonge ingénieux de l'enfant, mais qu'elle témoigne froidement et sur-le-champ lé mécontentement qu'elle éprouve : l'enfant, qui la regarde comme sa conscience visible, retombera bien plus rarement dans pareilles fautes.</ab></div>
                      
                      <div type="histoireNaturelle"><!-- Should this be sciences naturelles? The classification lists Salade chapter 114 under Sciences naturelles Légumes -->
                         <head type="sujets"> Histoire naturelle. </head>  
+                        
                         <ab type="question">— Quelles plantes sont employées pour préparer les salades ? — Décrivez les laitues diverses, la chicorée, le cresson, le pis enlit. — Ajoutez quelques détails sur la culture des laitues et de la chicorée.</ab>
+                        
                         <ab type="answer">Les plantes employées pour les salades sont : la <term type="salade">laitue</term>, dont il y a plusieurs variétés telles que la <term type="salade">laitue frisée</term> et la <term type="salade">romaine</term> ; la <term type="salade">chicorée</term>, le <term type="salade">cresson</term>, le <term type="salade">pissenlit</term>, le <term type="salade">céleri</term>.<lb/>
-                           La <term type="salade">laitue ordinaire</term> porte des feuilles larges, vertes ou brunes, qui se réunissent en une sorte de boule lorsque la plante acquiert son complet développement ; la <term type="salade">laitue romaine</term> a des feuilles allongées, raides, et forme des touffes d'où l'on tire souvent la matière de plusieurs salades.<lb/>
-                           La <term type="salade">chicorée</term> est remarquable par ses feuilles extrêmement découpées que l'on réunit en faisceau, comme celles de la laitue, pour les faire blanchir et les rendre ainsi plus tendres à manger.<lb/>
-                           Le <term type="salade">cresson</term> présente des tiges herbacées de faible consistance qui portent des feuilles vert foncé, de forme arrondie et de saveur forte. 0n mange les unes et les autres.<lb/>
-                           Le <term type="salade">pissenlit</term> ordinaire croît naturellement dans les prairies ; c'est une plante de petite dimension du pied de laquelle sortent des feuilles très allongées, de saveur amère ; on arrache les pieds au printemps, dans la première période de leur croissance, et on les mange ainsi en salade.<lb/>
-            Les laitues et les chicorées sont semées sur couche et sous châssis dès que les froids les plus rigoureux ont pris fin ; on les repique dans des plates-bandes bien fumées et on peut les récolter dès la fin de mai, ou de juin, s'il s'agit de la chicorée. Si l'on veut obtenir des laitues au mois d'avril, ou repique des pieds pris également sur couche au mois d'octobre. On a soin de les planter à l'exposition du midi, le long d'un mur, par exemple.</ab></div>
+                        La <term type="salade">laitue ordinaire</term> porte des feuilles larges, vertes ou brunes, qui se réunissent en une sorte de boule lorsque la plante acquiert son complet développement ; la <term type="salade">laitue romaine</term> a des feuilles allongées, raides, et forme des touffes d'où l'on tire souvent la matière de plusieurs salades.<lb/>
+                        La <term type="salade">chicorée</term> est remarquable par ses feuilles extrêmement découpées que l'on réunit en faisceau, comme celles de la laitue, pour les faire blanchir et les rendre ainsi plus tendres à manger.<lb/>
+                        Le <term type="salade">cresson</term> présente des tiges herbacées de faible consistance qui portent des feuilles vert foncé, de forme arrondie et de saveur forte. 0n mange les unes et les autres.<lb/>
+                        Le <term type="salade">pissenlit</term> ordinaire croît naturellement dans les prairies ; c'est une plante de petite dimension du pied de laquelle sortent des feuilles très allongées, de saveur amère ; on arrache les pieds au printemps, dans la première période de leur croissance, et on les mange ainsi en salade.<lb/>
+                        Les laitues et les chicorées sont semées sur couche et sous châssis dès que les froids les plus rigoureux ont pris fin ; on les repique dans des plates-bandes bien fumées et on peut les récolter dès la fin de mai, ou de juin, s'il s'agit de la chicorée. Si l'on veut obtenir des laitues au mois d'avril, ou repique des pieds pris également sur couche au mois d'octobre. On a soin de les planter à l'exposition du midi, le long d'un mur, par exemple.</ab></div>
                   
                      <div type="econDom">
                         <head type="sujets"> Économie domestique. </head>  
+                        
                         <ab type="question">— Qu'est-ce qu'une salade ? — Comment prépareriez-vous une salade à la laitue, à la chicorée, au cresson, aux pissenlits ? — Prix du pied de chacune de ces salades au dernier marché. (Il n'est pas question du cresson ni des pissenlits)</ab>
+                        
                         <ab type="answer">Une salade est un mets composé de certaines herbes ou de certains légumes assaisonnés avec du sel, du vinaigre et de l'huile, quelquefois avec du poivre et de la moutarde.<lb/>
             
-                           <pb type="page" n="404"/>
-                           <fw type="header">  404 SUZETTE. </fw>
+                  <pb type="page" n="404"/>
+                  <fw type="header">  404 SUZETTE. </fw>
                            
-                           <!-- LAITUE. --><!--<ab type="recette">-->— Enlevez les feuilles vertes extérieures et les plus grosses côtes ; fendez les plus grandes feuilles dans le sens de la longueur et coupez-les en deux ou trois morceaux ; lavez à plusieurs eaux et égouttez en vous servant d'un panier à claire-voie, dit vulgairement panier à salade. Assaisonnez ensuite de sel, de poivre, d'huile et de vinaigre (ce dernier condiment, dans la proportion du tiers de l'huile) ; retournez jusqu'à ce que toutes les feuilles soient imbibées, enfin présentez aux convives le saladier.<!--</ab>--><lb/>
-                           <!-- CHICORÉE. --> <!--<ab type="recette">-->— La salade de chicorée, celles de cresson et de pissenlits se préparent de la même manière, sauf en ce qui concerne les feuilles. On ajoute à celle de chicorée des croûtes de pain frottées d'ail qui en relèvent le goût.<!--</ab>--></ab></div>
+                        <!-- LAITUE. -->
+                        <!--<ab type="recette">-->— Enlevez les feuilles vertes extérieures et les plus grosses côtes ; fendez les plus grandes feuilles dans le sens de la longueur et coupez-les en deux ou trois morceaux ; lavez à plusieurs eaux et égouttez en vous servant d'un panier à claire-voie, dit vulgairement panier à salade. Assaisonnez ensuite de sel, de poivre, d'huile et de vinaigre (ce dernier condiment, dans la proportion du tiers de l'huile) ; retournez jusqu'à ce que toutes les feuilles soient imbibées, enfin présentez aux convives le saladier.<!--</ab>--><lb/>
+                        <!-- CHICORÉE. --> 
+                        <!--<ab type="recette">-->— La salade de chicorée, celles de cresson et de pissenlits se préparent de la même manière, sauf en ce qui concerne les feuilles. On ajoute à celle de chicorée des croûtes de pain frottées d'ail qui en relèvent le goût.<!--</ab>--></ab></div>
                        
                      </div>
                   </div>

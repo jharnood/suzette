@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Suzette: a Digital Edition - Chapter 5</title>
+            <title type="main">Suzette: a Digital Edition - Chapter 109</title>
             <respStmt>
                <persName>John Westbrook</persName>
                <orgName>Bucknell University</orgName>
@@ -50,13 +50,13 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-            <profileDesc>
+           <profileDesc>
          <langUsage>
             <language ident="fra">French</language>
             <language ident="eng">English</language>
          </langUsage>
       </profileDesc>
-          <encodingDesc>
+      <encodingDesc>
          <charDecl>
             <char>
                <charName xml:id="les_dumay">La Famille Dumay</charName>
@@ -457,51 +457,55 @@
       <body>
          <!-- n is for maitresse edition, corresp is for student edition -->
          
-         <div type="chapter" n="5">
+         <div type="chapter" n="109">
             <div xml:lang="fr">
                <div type="student">
                   
-                  <pb type="page" n="15"/>
-                  <head> 5. — Le bon chemin. (Élève, p. 13.) </head>
-                  
-                  <p> La classe s'acheva ; les enfants sortirent. Mme Valon arrêta Suzette, qui s'en allait aussi, mais lentement et l'œil songeur*<gloss> Œil songeur. Manière de regarder d'une personne préoccupée. </gloss> : </p>
-                  <sp><speaker>Mme Valon</speaker><ab> — A quoi pensons-nous, Suzette ? </ab></sp>
-                  <sp><speaker>Suzette</speaker><ab> — A cette femme des premiers temps, Madame. </ab></sp>
-                  <sp><speaker>Mme Valon</speaker><ab> — Ah ! tu as compris : je savais bien que tu comprendrais. Viens ! </ab></sp>
-                  <p> Elle la fit entrer dans la salle à manger. Qu'elle était propre, jolie et animée, cette salle à manger ! </p>
-                  <p> Deux jolis bébés y jouaient sous les yeux souriants de leur grand’mère, Mme Liénard. Placés en ce moment devant la fenêtre encadrée de clématite, ils semblaient couronnés de feuillage, comme le petit enfant de la lecture. Le buffet, les chaises brillaient, le carreau était 
-                     
-                     <pb type="page" n="16"/>
-                     <fw type="header"> 16 SUZETTE. </fw>
-                     
-                     rouge, éclatant de netteté*<gloss> Netteté. Qualité de ce qui est sans souillure. </gloss>. Une appétissante odeur de bonne cuisine sortait de droite. M. Valon, le mari, dont la classe venait aussi de finir, entra, sourit à la bonne grâce des choses et des gens réunis là. C'était certai- <lb/>
+                  <pb type="page" n="382"/>
+                  <head> 109. — La vacherie. (Élève, p. 233) </head>
+         
+                  <p> Tout en admirant ces superbes <seg ana="#animauxDomestiques">volailles</seg>, la petite caravane se trouva devant <seg ana="#basse-cour">la vacherie</seg>. Le bâtiment était en forme de chalet ; le long des murs blancs, deux rangées de <seg ana="#animauxDomestiques">vaches</seg> choisies, <seg ana="#animauxDomestiques">normandes</seg>, <seg ana="#animauxDomestiques">flamandes</seg>, <seg ana="#animauxDomestiques">bretonnes</seg>, <seg ana="#animauxDomestiques">hollandaises</seg>, luisantes de santé. </p>
+                  <p> Un foin frais et fleuri remplissait <seg ana="#basse-cour">les râteliers</seg>. Elles mangeaient : quelques-unes, tout en ruminant*<gloss>Ruminer. Faire revenir de l'estomac des mets avalés pour les mâcher.</gloss>, tournaient vers les visiteurs leur tête nonchalante, aux gros yeux pleins de vague songerie. </p>
+                  <p> Elles étaient là dans <seg ana="#sciencesPhys">l'air oxygéné</seg>*<gloss>Oxygéné. Qui contient beaucoup d'oxygène.</gloss> des <seg ana="#vegetaux">bois</seg>, soignées en princesses et donnaient <seg ana="#alimentsCuisine">un lait</seg> aussi pur, aussi délicat que pouvait l'être celui de <placeName>Trianon</placeName>*<gloss>Trianon. Petit château dans l'enceinte du parc de Versailles.</gloss> dont <persName>la reine Marie-Antoinette</persName> et les dames de sa cour, déguisées en fermières, faisaient, de leurs propres mains, leur <seg ana="#alimentsCuisine">fromage à la crème</seg> et leur <seg ana="#alimentsCuisine">beurre</seg>. </p>
+                  <p> Aussi <seg ana="#alimentsCuisine">le lait</seg> du <seg ana="#scienceNat"><placeName ana="jardinAcclimatation">Jardin d'acclimatation</placeName></seg> est-il réservé aux Parisiens qui peuvent le payer un franc le litre. On le leur apporte, ou ils viennent le boire, là, dans des tasses fines. </p>
+                  <p> Parmi les buveurs, nos amis reconnurent quelques jolis cavaliers de <seg ana="#animauxSauvages">l'éléphant</seg>, des <seg ana="#animauxSauvages">chameaux</seg> et des <seg ana="#animauxDomestiques">poneys. </p>
+                  <p> <persName>La petite fée Urgande</persName>, descendue de son équipage mené par <seg ana="#animauxSauvages">l'autruche</seg>, avait le nez dans sa tasse ; elle le leva pour respirer ; de ses yeux doux elle regarda la compagnie, et répondit au sourire que <persName ana="#suzette">Suzette</persName> lui adressait, par un autre, tout blanc de lait. </p>
+                  <sp><speaker>Mme Richard</speaker><ab> — Ah ! </ab></sp> <stage> dit <persName ana="#mme_richard">la tante Richard</persName>, </stage> <sp><speaker>Mme Richard</speaker><ab> si tous les enfants de <placeName ana="#paris">Paris</placeName> pouvaient boire à pareil bol ! Mais que de pauvres bébés, dans cette grande ville, y végètent*<gloss>Végéter. Vivre misérablement.</gloss>, y meurent par <seg ana="#alimentsCuisine">le lait inondé d'eau ou falsifié</seg>*<gloss>Falsifié. Qui a été altéré par le mélange de substances étrangères.</gloss> qu'on leur sert ! </ab></sp>
+                  <p> <persName ana="#la_flamande">Une grosse et blonde dame</persName> en blanc bonnet, qui venait d'entrer, se mit aussitôt de la conversation : </p>
+                  <sp><speaker>La Flamande</speaker><ab> — <persName ana="#mme_richard">Madame</persName>, </ab></sp> <stage> dit-elle, </stage> <sp><speaker>La Flamande</speaker><ab> c'est dans mon pays, en <placeName ana="#la_belgique">Belgique</placeName>, ou même en <placeName ana="#la_hollande">Hollande</placeName> qu'il faut aller pour boire du <seg ana="#alimentsCuisine">lait</seg>, savez-vous ? Là, il y a des <seg ana="#basse-cour">vacheries</seg> auprès desquelles celle-ci n'est que de la Saint-Jean*<gloss>De la Saint-Jean. Peu de chose; quelque chose d’inferieur.</gloss>, savez-vous ? </ab></sp>
+         
+                  <pb type="page" n="383"/>   
+                  <fw type="header"> LA VACHERIE. 383 </fw>
+         
+                  <p> Et elle fit un tableau flamand de ces <seg ana="#basse-cour">vacheries</seg> constamment lavées du haut en bas, des épaisses litières plus vite nettoyées que salies. <!--Is this actually where the dialogue starts?--> <sp><speaker>La Flamande</speaker><ab> Le sol y est en pente, avec une rigole au bas, pour l'écoulement du purin*<gloss>Purin. Liquide qui s'écoule de la litière ou du fumier.</gloss>, et <lb/>
                      
                      <figure>
-                        <caption> Les deux enfants de Mme Valon, sous les yeux souriants de leur grand'mère. </caption>
+                        <caption> Il faut les voir, le matin, sur de petites voitures, trainées par de gros <seg ana="#animauxDomestiques">chiens</seg>. </caption>
+                     </figure>  
+                     
+                     <figure> 
+                        <caption> <hi rend="italic"><seg ana="#animauxDomestiques">Canards</seg>, <seg ana="#animauxDomestiques">oies</seg> et <seg ana="#animauxDomestiques">dindons</seg>.</hi>
+                           <lb/>
+                           Ces trois <seg ana="#animaux">animaux</seg> de <seg ana="#basse-cour">basse-cour</seg> nous sont d'une grande utilité. — La chair du <seg ana="#animauxDomestiques">canard domestique</seg> (1) est de bonne qualité ; on peut la conserver en la salant ou en la faisant mariner. Avec celle des <seg ana="#animauxDomestiques">canetons</seg> on confectionne des <seg ana="#alimentsCuisine">pâtés d'<placeName ana="#amienois">Amiens</placeName></seg> et <seg ana="#alimentsCuisine">les foies</seg> servent à faire <seg ana="#alimentsCuisine">les terrines de <placeName ana="#nerac">Nérac</placeName> et de <placeName ana="#toulouse">Toulouse</placeName></seg>. — <seg ana="#animauxDomestiques">L'oie</seg> (2) est le mots de prédilection des petits ménages dans les fêtes de famille pendant l'hiver ; sa chair est délicate et sa graisse très utile pour bien des préparations culinaires. Avec <seg ana="#animauxDomestiques">la plume des oies</seg> en garnit les coussins, les oreillers et l'on fait des plumes pour écrire. — <seg ana="#animauxDomestiques">Le dindon</seg> (3) est un gros <seg ana="#animauxDomestiques">oiseau</seg> dont la chair est très estimée et préférée à celle du <seg ana="#animauxDomestiques">canard</seg> et de <seg ana="#animauxDomestiques">l'oie</seg>.
+                        </caption>
                      </figure>
                      
-                     nement le sourire de l'homme des vieux temps à l'aspect de sa caverne fleurie ! </p>
-                  <p> Suzette soupira. </p>
-                  <sp><speaker>Mme Valon</speaker><ab> — Parle, mon enfant, </ab></sp> <stage> lui dit Mme Valon en l’emmenant dans sa chambre. </stage>
-                  <sp><speaker>Suzette</speaker><ab> — Oh ! Madame... chez nous... tout traîne en désordre ; il n'y a que des toiles d'araignées et de la poussière... </ab></sp>
-                  <sp><speaker>Mme Valon</speaker><ab> — Oui, chère enfant ; en passant hier, j'ai vu, par la fenêtre ouverte, de grandes bottes pleines de boue se prélassant*<gloss> Prélasser (se). Marcher avec un air de gravité orgueilleuse. </gloss> près de la soupière au milieu d'épluchures, d'escarbilles*<gloss> Escarbilles. Morceaux de charbon de terre de petite dimension. </gloss>, de brins de paille, sans compter des toiles d'araignées à prendre toutes les mouches du 
-                     
-                     <pb type="page" n="17"/>
-                     <fw type="header"> LE BON CHEMIN. 17 </fw>
-                     
-                     pays. C'est un peu pour cela que j'ai fait tout à l'heure cette lecture ; je te savais des oreilles et du cœur. Je savais également, par ce qu'on m'en a dit, l'ordre, la propreté, la gentillesse de ta pauvre maman. </ab></sp>
-                  <p> Suzette se mit à pleurer : </p>
-                  <sp><speaker>Suzette</speaker><ab> — Oui, Madame, je me rappelle bien maman... Mais papa, par bonté, me trouvant encore trop jeune, ne veut pas que je me fatigue trop. Et voilà pourquoi, </ab></sp> <stage> — ajouta-t-elle en souriant à travers ses larmes, </stage> <sp><speaker>Suzette</speaker><ab> — voilà pourquoi je ne me fatigue pas du tout, laissant les épluchures à terre et les araignées au plafond. Il est plus commode de laisser aller les choses que de les gouverner*<gloss> Gouverner. Donner la direction. </gloss>. Mais certainement, Madame, je vais me mettre au ménage, car j'ai bien compris que c'est à moi à embellir notre maison, à la rendre riante, agréable, comme faisait la femme de la caverne, et comme faisait ma mère. </ab></sp>
-                  <p> Elle disait si juste, la petite Suzette ; son visage exprimait une si bonne, si tendre résolution*<gloss> Résolution. Disposition à faire une chose malgré les obstacles. </gloss> que Mme Valon l'embrassa pour toute réponse. </p>
-                  <p> Heureux les bons petits esprits qui ont du cœur ! heureuse la famille où ils sont nés ! </p>
+                     <seg ana="#animauxDomestiques">les vaches</seg>, quand elles se couchent, n'ont pas même la permission de traîner leur queue à terre ; on la relève en l'attachant. Des <seg ana="#basse-cour">étables</seg> ! ce sont des salons, savez-vous ? J’ai été servante, moi, dans <seg ana="#scienceNat">une ferme</seg> hollandaise. Il fallait voir <seg ana="#basse-cour">la laiterie</seg> ! blanche comme neige, ventilée, mais sans fenêtres, fraîche ! Et la vaisselle 
                   
-                  <div type="questionnaire">
-                     <ab>
-                        <hi rend="bold"> Questionnaire. </hi> — Comment Suzette quittait-elle l'école ? — Que lui demanda Mme Valon ; que répondit l'enfant ? — Que voyait-on dans la salle à manger ? — Quelle odeur la parfumait ? — Pourquoi M. Valon souriait-il en entrant dans cette pièce ? — Pourquoi Su-
-                        <cb/>
-                        zette soupirait-elle ? — Quelle remarque lui dit doucement madame l'institutrice ? — Pourquoi cette dernière avait-elle choisi le sujet de la lecture ? — Que lui répondit la petite fille ? — Quelle bonne résolution prit Suzette ? — Quels esprits, quelle famille sont heureux ?
-                     </ab>
-                  </div>
+                  <pb type="page" n="384"/>   
+                  <fw type="header"> 384 SUZETTE. </fw>
+                 
+                 pour <seg ana="#alimentsCuisine">le lait</seg>, comme tout cela était rincé ! Mais aussi quelle <seg ana="#alimentsCuisine">crème</seg> ! quel <seg ana="#alimentsCuisine">beurre</seg> ! quel <seg ana="#alimentsCuisine">fromage</seg> ! Et à <placeName ana="#bruxelles">Bruxelles</placeName>, il faut voir, le matin, dans les rues, les grandes boîtes à <seg ana="#alimentsCuisine">lait</seg> de <seg ana="#mineraux">cuivre</seg> poli, brillant comme or. <seg ana="#basse-cour">Les laitières</seg> les promènent de porte en porte. Et c'est ça des <seg ana="#basse-cour">laitières</seg> et du <seg ana="#alimentsCuisine">lait</seg>, savez-vous ? </ab></sp>
+                  <p> En parlant ainsi, <persName ana="#la_flamande">la Flamande</persName>, heureuse de faire valoir son pays, accompagna un moment nos amis, et les quitta au détour d'un bout de rivière. </p>
+                  <p> Là, des <seg ana="#animauxDomestiques">canards</seg> bons enfants s'exerçaient à la culbute, au plongeon, et autres amusettes de la natation ; on apercevait, à travers les branches fleuries d'un cytise, un spectacle devant lequel <persName ana="#mme_richard">Mme Richard</persName> arrêta sa troupe. </p>
+                     
+                     <div type="questionnaire">
+                        <ab>
+                           <hi rend="bold"> Questionnaire. </hi> — Donnez une idée du bâtiment affecté à la vacherie. — Qu'est-ce qui remplissait les râteliers et que faisaient les vaches ? — Quelle sorte de lait donnaient-elles, et pourquoi ? — A qui est réservé le lait du Jardin d'acclimatation ? — Qui reconnut-on parmi les buveurs ? — Que direz-vous de la petite fille que l'on compara à la fée
+                           <cb/>
+                           Urgande ? — Quel souhait forma la tante Richard ? — Quelle personne vint à entrer ? — Que se mit-elle à dire ? — Que raconta-t-elle des vacheries de Belgique et de Hollande ? — Que voit-on le matin dans les rues de Bruxelles ? — Que voyait-on, de la vacherie, à l'autre bout de la rivière ?
+                        </ab>
+                     </div>
                </div>
                
                <div type="teacher">
@@ -511,50 +515,80 @@
                      <div type="sciencesNat">
                         <head type="sujets"> Sciences naturelles. </head> 
                         
-                        <ab type="question"> — Que vous a-t-on raconté des loups ? — Savez-vous une fable où il est parlé de cet animal ? — Que vous rappelez-vous des ours, des chacals, des lynx ? </ab> 
-                        <note type="editorial"> PLACEHOLDER FOR REFERENCE TO CHAPTER 4 </note>
+                        <!--<seg corresp="#sciencesPhys">— L'AIR.</seg>-->
+                        <ab type="question"> — Qu'est-ce que l'air ? — Quels gaz entrent dans sa composition ? — Propriétés de chacun d'eux. — Qu'est-ce que l'atmosphère ? — Son épaisseur ; phénomènes qui s'y passent. </ab>
                         
-                        <ab type="answer"> <!--<seg corresp="#animauxSauvages">LES LOUPS</seg>-->.  — Parmi les animaux carnassiers de nos régions, le loup est le plus redoutable. De tout temps, il a été le fléau des campagnes et la terreur des bergers ; il ressemble au chien, mais sa constitution est plus vigoureuse ; il peut, dit-on, parcourir jusqu'à 160 kilomètres dans une nuit. Lorsqu'il est tourmenté par la faim, il sort, dès le crépuscule, des bois où il s'est réfugié pendant le jour, puis se met à rôder autour des habitations ; il pénètre même dans les villages et s'efforce de briser les clôtures des bergeries. Quand la chasse de la nuit a été infructueuse, il se jette en plein jour sur les troupeaux, et se défend avec rage contre les hommes et les chiens qui ont le courage de le poursuivre. <lb/>
-                           Dans les contrées septentrionales, alors que des neiges abondantes
-                           
-                           <pb type="page" n="18"/>
-                           <fw type="header"> 18 SUZETTE. </fw>
-                           
-                           couvrent le sol, les loups affamés se réunissent par bandes, et malheur aux créatures humaines qu'ils rencontrent ! Parfois ils s'acharnent à la poursuite des traîneaux, et si les chevaux, excédés de fatigue, viennent à s'abattre, les loups se jettent sur eux et les mettent en pièces comme les malheureux voyageurs. <lb/>
-                           Ce terrible animal n'est cependant pas insensible aux bons traitements. On a connu des loups qui, élevés dans les habitations, se sont montrés aussi doux, aussi caressants et aussi fidèles que des chiens. <lb/>
-                           <seg corresp="#animauxSauvages">L’ours</seg> est un quadrupède carnassier très velu, de haute taille, à pattes larges et munies d'ongles recourbés ; sa force est très grande et il montre beaucoup d'intelligence. Il se nourrit, de préférence, avec des racines et des fruits, et l'on a remarqué qu'il recherche le miel. On ne le trouve plus en France que dans les Alpes et les Pyrénées. L'ours blanc des régions glaciales est connu pour sa vigueur et sa férocité. <lb/>
-                           <seg corresp="#animauxSauvages">Les chacals</seg>, qu'on rencontre seulement dans le nord de l'Afrique, la Syrie et l'Asie centrale, sont des animaux au poil fauve et de la taille d'un chien ordinaire. Ils rôdent la nuit autour des lieux habités et font leur nourriture des cadavres abandonnés ou des débris de cuisine. <lb/>
-                           <seg corresp="#animauxSauvages">Le lynx</seg> est un gros chat sauvage remarquable par le pinceau de poils qui termine ses oreilles ; il a un pelage roux tacheté de brun. On le trouve encore dans les Pyrénées, dans l'Italie méridionale, en Afrique. Il se réfugie sur les arbres les plus élevés et il commet des dégâts considérables parmi les troupeaux et le gibier des campagnes. On dit que le lynx a la vue extrêmement perçante. </ab>
+                        <ab type="answer"> L'air est un mélange de deux gaz : l'oxygène pour 21 parties sur 100, en volume, et l'azote pour 79. Il forme autour de la terre une couche dont on évalue l'épaisseur à 50 ou 60 kilomètres ; au delà est un air extrêmement raréfié, et à 100 kilomètres de hauteur il n'y a plus que le vide absolu. <lb/>
+                        Un litre d'air pèse 1 gramme 3 dixièmes, soit un l kilog. 300 par mètre cube, à la surface du sol. <lb/>
+                        L'<term type="compositionAir">oxygène</term> est un gaz incolore, sans saveur et sans odeur ; il se combine avec tous les corps en dégageant de la chaleur et parfois de la lumière ; seul il peut entretenir la, vie, et c'est grâce à sa présence dans l'air et dans l'eau que les animaux terrestres et les poissons y conservent l'existence ; mais il est dangereux de le respirer pur pendant longtemps. <lb/>
+                        L'<term type="compositionAir">azote</term> est un gaz également incolore, sans saveur ni odeur ; il est impropre à entretenir la combustion ; une lumière plongée dans un flacon rempli de ce gaz s’éteint immédiatement. Il tempère l'activité de l'oxygène, et se combine à une foule de corps. <lb/>
+                        L'atmosphère contient en outre de la vapeur d'eau et quelques dix-millièmes d'un gaz formé d’oxygène et de charbon : l'<term type="compositionAir">acide carbonique</term>. Les animaux en exhalent pendant l'acte de la respiration, de même
+         
+                  <pb type="page" n="385"/>   
+                  <fw type="header"> LA VACHERIE. 385 </fw>
+         
+                        que les plantes durant la nuit, et certains végétaux en fermentation. Comme il est impropre à la vie, on comprend qu'il soit malsain de ne pas renouveler fréquemment l'air des lieux fermés où se réunissent plusieurs personnes ou plusieurs animaux. C'est pour ce motif que l'on ne conserve pas sans danger des plantes et des fleurs dans une chambre à coucher. </ab>
+                        
+                        <!--LA VACHE.--> 
+                        <ab type="question"> — Que savez-vous de la vache, du veau et du bœuf ? — Produits et services dont nous leur sommes redevables. — Usages de la peau, des os, des cornes, des tendons, du sang de ces animaux. </ab>
+                        
+                        <ab type="answer"> La <seg corresp="#animauxDomestiques">vache</seg> est le plus précieux peut-être de nos animaux domestiques ; elle nous donne à la fois son lait, sa chair et son travail, lequel, dans certaines contrées, n'est pas sans importance. <lb/>
+                        Le <seg corresp="#animauxDomestiques">bœuf</seg> est, après le cheval, le plus utile auxiliaire de l'homme ; il tire la charrue et traîne les chariots ; engraissé, il fournit une chair succulente et fortifiante. <lb/>
+                        Le <term type="vache">veau</term> et la <term type="vache">génisse</term> sont les petits de la vache ; un certain nombre d'entre eux sont destinés à la boucherie ; ils donnent une viande délicate et de facile digestion. <lb/>
+                        Ces animaux appartiennent à l'ordre des ruminants, c'est-à-dire que la nourriture exclusivement végétale dont ils s'accommodent passe d'abord dans un premier estomac, revient à la bouche pour être mâchée de nouveau, redescend dans un second estomac, puis se rend dans un troisième et, enfin, dans un quatrième. <lb/>
+                        Les services que le bœuf, la vache et leurs petits rendent à l'homme se prolongent au delà de leur existence : on met à profit toutes leurs dépouilles. Avec leur peau, on fait un cuir excellent ; avec leurs cornes, on confectionne mille petits objets utiles : des boîtes, des peignes, des manches de couteau, des vitres de lanternes. Les os du bœuf remplacent l'ivoire et se vendent à bas prix ; s'ils sont frais, ou en fait de la gélatine, et, s'ils sont secs, du noir animal ; les tendons donnent un fil très fin employé par les selliers ; les pieds fournissent une huile précieuse ; le sang est employé dans la fabrication du bleu de Prusse et de la graisse on tire un suif excellent. <lb/>
+                        On estime qu'il y a en France douze millions de têtes de l'espèce bovine. </ab>
                      </div>
                      
-                     <div type="composition">
-                        <head type="sujets"> Composition. </head> 
+                     <div type="agriculture">
+                        <head type="sujets"> Agriculture. </head> 
                         
-                        <ab type="question"> — Décrire la chambre où vous couchez, en prenant pour modèle la description de la salle à manger de Mme Valon. </ab> 
+                        <ab type="question"> — Qu'est-ce qu'une prairie ? — Qu'entend-on par prairies naturelles et par prairies artificielles ? — Quels terrains leur conviennent ? — Décrire la récolte du fourrage. </ab>
                         
-                        <ab type="answer"> <note type="reference"> (Voir, page 223, la Partie du Maître du COURS DE COMPOSITION FRANÇAISE (degré élémentaire et moyen), par E. LAPORTE.) </note> </ab> <!--Look for a reference source tag-->
+                        <ab type="answer"> Une <seg corresp="#divers1">prairie</seg> est un terrain qui produit de l'herbe, du foin ou d'autres plantes servant aux mêmes usages que les deux premières. <lb/>
+                        Il y a deux espèces de prairies : <lb/>
+                        1° Les <seg corresp="#divers1">prairies artificielles</seg>, terres labourables sur lesquelles on a semé, pour quelques années, différentes espèces d'herbes propres à la nourriture des animaux domestique, telles que le trèfle, la luzerne, la minette, le sainfoin. <lb/>
+                        2° Les <seg corresp="#divers1">prairies naturelles</term>, terrains sur lesquels le foin vient naturellement ou a été semé en vue de produire pendant plusieurs années. <lb/>
+                        Les terrains qui conviennent aux prairies naturelles doivent être frais et profonds ; il en est de même pour la luzerne. Le trèfle, la minette, le sainfoin réussissent dans les terres maigres et même pierreuses ; ce sont des plantes précieuses lorsque le sol n'est pas arrosé par des fontaines ou des ruisseaux et ne peut, par conséquent, se prêter à l'établissement de prairies naturelles et à la culture de la luzerne. <lb/>
+                        Les prairies de toutes sortes sont fauchées quand elles sont en fleur ;
+                        
+                           <fw type="sig"> SUZETTE (Maîtresse). 22 </fw>
+         
+                  <pb type="page" n="386"/>   
+                  <fw type="header"> 386 SUZETTE. </fw>
+         
+                        on étend l'herbe sur le terrain ; on la retourne pour qu'elle sèche bien également, et on la rentre ensuite dans les granges, à moins qu'on ne l'entasse dans les champs, en masses coniques connues sous le nom de <term type="prairies">meules</term>. </ab>
                      </div>
+                     
+                     <div type="histoire">
+                        <head type="sujets"> Histoire. </head> 
+                        
+                        <ab type="question"> — Racontez ce que vous savez de la reine Marie-Antoinette, du palais de Versailles et de Trianon. </ab>
+                        
+                        <ab type="answer"> <seg corresp="#histoire">Marie-Antoinette d'Autriche</seg>, reine de France, naquit à Vienne en 1755 et fut guillotinée le 16 octobre 1793. Elle épousa en 1770 le Dauphin de France, qui fut depuis le roi Louis XVI ; à peine ce dernier était-il sur le trône, que la légèreté et la hauteur de Marie-Antoinette augmentèrent les embarras de la royauté et du gouvernement ; elle fut en butte à l'inimitié d'une partie de la cour, et, comme elle s'opposait à toutes les reformes, l'opinion publique se tourna contre elle. Sa conduite fut plus qu'imprudente au début de la révolution et, aux journées des 5 et 6 octobre 1789, elle n'échappa que par miracle aux poignards des assassins. Emprisonnée au Temple avec son mari et ses enfants après le 10 août 1792, elle y souffrit tous les outrages, tous les tourments, comme reine, comme épouse et comme mère ; sa captivité fut un véritable martyre. Traduite devant le tribunal révolutionnaire et condamnée à mort après avoir entendu formuler contre elle les plus lâches et les plus infâmes accusations, elle marcha au supplice avec beaucoup de fermeté et mourut en pardonnant à ses ennemis. <lb/>
+                        Le <term type="marieAntoinette">palais de Versailles</term> est un immense édifice, de 450 mètres de façade sur les jardins, qui fut construit sous le règne de Louis XIV. Les architectes Levau et Hardouin Mansart, le peintre Lebrun, le jardinier Le Nôtre le construisirent ou l'ornèrent ; la dépense a été estimée à un milliard de la monnaie de l'époque. <lb/>
+                        Le grand roi y habita de 1672 jusqu'à sa mort ; Louis XV et Louis XVI y fixèrent leur résidence, et ce dernier jusqu'à ce que le peuple de Paris le ramenât aux Tuileries, en octobre 1789. Sous le règne de Louis-Philippe, ce magnifique édifice fut converti en un musée des gloires nationales de la France (1837). <lb/>
+                        Le palais du <term type="marieAntoinette">Grand Trianon</term>, bâti sous Louis XIV vers 1676, et celui du <term type="marieAntoinette">Petit Trianon</term>, créé par Louis XV, sont de beaux édifices contigus au jardin du palais de Versailles. Marie-Antoinette aimait beaucoup à résider au Petit Trianon. </ab>
+                     </div> 
                      
                      <div type="EconDom">
                         <head type="sujets"> Économie domestique. </head> 
                         
-                        <ab type="question"> — Comment, faut-il tenir une chambre, et notamment une cuisine ? (Entrer dans quelques détails.) — Quel aspect présente une pièce mal tenue ? </ab>
+                        <ab type="question"> — Usages du lait de vache ; — comment on le conserve. — Détails sur une laiterie. — Quels produits sont fabriqués avec le lait de vache, celui des chèvres et des brebis. — Détails sur le beurre et le fromage. <note type="reference"> (Voir, pour ce dernier point, la leçon 29.) </note> </ab>
                         
-                        <ab type="answer"> Dans quelque situation qu'on se trouve et quelle que soit la profession qu'on exerce, on peut toujours tenir avec ordre et propreté les chambres où l'on habite. Chaque matin, avant de commencer son travail professionnel, on procède à un nettoyage général ; on dispose ensuite les feux et l'on range les meubles et les sièges à leur place habituelle dans toutes les pièces. <lb/>
-                           La tenue de la <!--<seg corresp="#economieDomestique">-->cuisine<!--</seg>--> exige des soins particuliers afin que rien ne puisse souiller les mets qu'on y prépare. La maîtresse de maison ou la bonne devra nettoyer chaque jour les fourneaux et les frotter à la mine de plomb. La vaisselle, les ustensiles, lavés à l'eau tiède et essuyés, auront une place particulière à l'abri de la poussière et à portée de la main. Les débris des aliments et des légumes séjourneront le moins possible dans cette pièce en raison de l'odeur désagréable qui s'en dégage. L'intérieur des placards et des meubles sera, au moins chaque semaine, épousseté et lavé ; en les frottera extérieurement, en même temps que les bancs, les planches et les sièges, de façon qu'ils présentent ce brillant, cette netteté qui charment le regard. Enfin, on dissimulera les linges et éponges en usage pour la vaisselle et l'évier. <lb/>
-                           Une <!--<seg corresp="#economieDomestique">-->pièce mal tenue<!--</seg>--> présente un spectacle révoltant et exhale une odeur nauséabonde. Qui n'a vu, dans les villes, les chambres d'ouvriers négligents et, dans les campagnes, celles des ménagères paresseuses ? Murs, carrelage ou parquet, boiseries, sont souillés de taches noirâtres et graisseuses ; une crasse immonde salit les vitres que voilent des
-                           
-                           <pb type="page" n="19"/>
-                           <fw type="header"> MONSIEUR FRANÇOIS EST UN HOMME!	19 </fw>
-                           
-                           toiles d'araignées ; le foyer présente un amas de cendres et de débris entouré de vases ébréchés et malpropres. Tables, chaises, meubles couverts de poussière ne montrent aucune symétrie dans leur disposition : tels on les a laissés la veille, tels on les retrouve le lendemain. Et l'intérieur des placards, des tiroirs, des armoires ? quel désordre, quelle odeur fétide frappent les regards et l'odorat ! <lb/>
-                           Disons-le bien haut : une telle habitation n'est pas digne d'êtres civilisés ni de gens qui se respectent. </ab>
-                        
+                        <ab type="answer"> Le <seg corresp="#alimentsCuisine">lait</seg> est à la fois un aliment solide et une boisson, une source d'albumine et de graisse, de sucre et de sel : c'est l'aliment des aliments, à la fois très nourrissant et digestif. On l'emploie pur ; il entre dans la confection des <term type="lait">soupes</term>, des <term type="lait">potages</term>, de divers <term type="lait">ragoûts</term>, de la plupart des <term type="lait">crèmes</term> et des <term type="lait">pâtisseries</term>, sans en excepter celle du <term type="lait">beurre</term> et du <term type="lait">fromage</term>. <lb/>
+                        En été, on ne peut conserver le lait que dans des vases très propres, en le faisant bouillir et en le tenant dans un lieu frais. Un peu de bicarbonate de soude produit, dit-on, le même effet ; mais ce procédé n'est pas hygiénique. <lb/>
+                        Une <term type="lait">laiterie</term> est une pièce demi-souterraine ordinairement, exposée au nord, munie d'une seule fenêtre pour que la lumière n'y arrive qu'en petite quantité. Les murs en doivent être épais ; intérieurement,
+         
+                  <pb type="page" n="387"/>   
+                  <fw type="header"> LE RUCHER. 387 </fw>
+         
+                        ils sont garnis de tablettes de pierre ou de bois dur sur lesquelles on pose les vases de lait ; le pavé, formé de larges dalles, a besoin d'être fréquemment lavé à l'eau fraîche. </ab>
                      </div>
                   </div>
                </div>
             </div>
          </div>
       </body>
-   </text>
+  </text>
 </TEI>
