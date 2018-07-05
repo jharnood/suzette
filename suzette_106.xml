@@ -56,8 +56,11 @@
             <language ident="eng">English</language>
          </langUsage>
       </profileDesc>
-      <encodingDesc>
+          <encodingDesc>
          <charDecl>
+            <char>
+               <charName xml:id="les_dumay">La Famille Dumay</charName>
+            </char>
             <char>
                <charName xml:id="suzette">Suzette</charName>
             </char>
@@ -77,12 +80,6 @@
                <charName xml:id="charlot">Charlot</charName>
             </char>
             <char>
-               <charName xml:id="mme_valon">Mme Valon</charName>
-            </char>
-            <char>
-               <charName xml:id="m_valon">M. Valon</charName>
-            </char>
-            <char>
                <charName xml:id="mme_richard">Mme Richard</charName>
             </char>
             <char>
@@ -98,10 +95,19 @@
                <charName xml:id="sylvain">Sylvain</charName>
             </char> 
             <char>
+               <charName xml:id="mme_valon">Mme Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="m_valon">M. Valon</charName>
+            </char>
+            <char>
                <charName xml:id="ludivine">Ludivine</charName>
             </char> 
             <char>
                <charName xml:id="m_lejoly">M. Lejoly</charName>
+            </char>
+            <char>
+               <charName  xml:id="m_cartier">M. Cartier</charName>
             </char>
             <char>
                <charName xml:id="l_apiculteur">L'apiculteur</charName>
@@ -110,10 +116,7 @@
                <charName xml:id="la_bohemienne">La bohémienne</charName>
             </char>
             <char>
-               <charName  xml:id="m_cartier">M. Cartier</charName>
-            </char>
-            <char>
-               <charName xml:id="les_dumay">La Famille Dumay</charName>
+               <charName xml:id="la_flamande">La Flamande</charName>
             </char>
          </charDecl>
          <classDecl>
@@ -400,17 +403,37 @@
                   <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
+                  <placeName xml:id="ilesEcosse">Îles d'Écosse</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_belgique">la Belgique</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_hollande">la Hollande</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="amienois">Amiénois</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="nerac">Nérac</placeName>
+               </place>
+               <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
                </place>
                <place>
                   <placeName xml:id="paris">Paris</placeName>
                </place>
                <place>
+                  <placeName xml:id="toulouse">Toulouse</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="boulogne">Boulogne</placeName>
+               </place>
+               <place>
                   <placeName xml:id="bruxelles">Bruxelles</placeName>
                </place>
                <place>
-                  <placeName xml:id="boston">Boston
-                  </placeName>
+                  <placeName xml:id="boston">Boston</placeName>
                </place>
                <place> 
                   <placeName xml:id="l_avre">l'Avre
@@ -420,6 +443,10 @@
                <place>
                   <placeName xml:id="la_moye">la Moye
                      <geogFeat>River</geogFeat>
+                  </placeName>
+               </place>
+               <place>
+                  <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation
                   </placeName>
                </place>
             </listPlace>
@@ -435,33 +462,33 @@
                <div type="student">
                   
                   <pb type="page" n="372"/>
-                  <head> 106. — Au Jardin d'acclimatation*<!--No defintin in lexique; not sure what the asterisk is for-->. (Élève, p. 227.) </head>
+                  <head> 106. — Au Jardin d'acclimatation*<!--No defintion in lexique; not sure what the asterisk is for-->. (Élève, p. 227.) </head>
                   
                   <!--Definition for "Faune. L'ensemble des animaux d'une grande contrée." in the lexique but not indicated in the book-->
                   
-                  <p> Nouvelle fête ! On traversa une riante partie du bois de Boulogne*<gloss>Bois de Boulogne. Grand parc et lieu de promenade à l’O. de Paris.</gloss> ; on coupa la file des équipages*<gloss>Equipage. Voiture de maitre.</gloss> ; on coudoya de beaux messieurs, de belles dames, et l’on arriva au Jardin d'acclimatation. </p>
-                  <p> Là, d'abord, beaucoup de petit monde en jupes et culottes courtes ; petites filles, petits garçons. Ils se promenaient à dos d'éléphant, de chameau, de dromadaire et semblaient des points perdus sur leurs énormes montures. Celles-ci s'avançaient sous les arbres en flânant, l'air bonasse, avec des regards aux passants pour les inviter à leur offrir les gâteaux et les petits pains dont on les régale tout le jour. </p>
+                  <p> Nouvelle fête ! On traversa une riante partie du bois de <placeName ana="#boulogne">Boulogne</placeName>*<gloss>Bois de Boulogne. Grand parc et lieu de promenade à l’O. de Paris.</gloss> ; on coupa la file des équipages*<gloss>Equipage. Voiture de maitre.</gloss> ; on coudoya de beaux messieurs, de belles dames, et l’on arriva au <seg ana="#basse-cour"><placeName ana="#jardinAcclimatation">Jardin d'acclimatation</placeName></seg>. </p>
+                  <p> Là, d'abord, beaucoup de petit monde en jupes et culottes courtes ; petites filles, petits garçons. Ils se promenaient à dos d'<seg ana="#animauxSauvages">éléphant</seg>, de <seg ana="#animauxSauvages">chameau</seg>, de <seg ana="#animauxSauvages">dromadaire</seg> et semblaient des points perdus sur leurs énormes montures. Celles-ci s'avançaient sous <seg ana="#vegetaux">les arbres</seg> en flânant, l'air bonasse, avec des regards aux passants pour les inviter à leur offrir les gâteaux et les petits pains dont on les régale tout le jour. </p>
                   
                   <pb type="page" n="373"/>   
                   <fw type="header"> AU JARDIN D’ACCLIMATATION. 373 </fw>
                   
-                  <p> D'autres enfants allaient sur de mignons poneys*<gloss>Poney. Petit cheval à long poil.</gloss> des Shetland*<gloss>Shetland. Ils au N. de l’Ecosse.</gloss> ou sur des hémiones*<gloss>Hémione. Quadrupède du genre cheval qui vit en Asie.</gloss>. </p>
+                  <p> D'autres enfants allaient sur de mignons <seg ana="#animauxDomestiques">poneys</seg>*<gloss>Poney. Petit cheval à long poil.</gloss> des <seg ana="#animauxDomestiques">Shetland</seg>*<gloss>Shetland. Ils au N. de l’Ecosse.</gloss> ou sur des <seg ana="#animauxDomestiques">hémiones</seg>*<gloss>Hémione. Quadrupède du genre cheval qui vit en Asie.</gloss>. </p>
                   
                   <figure>
-                     <caption> Ils se promenaient à dos d'éléphant, de chameau, de dromadaire. </caption>
+                     <caption> Ils se promenaient à dos d'<seg ana="#animauxSauvages">éléphant</seg>, de <seg ana="#animauxSauvages">chameau</seg>, de <seg ana="#animauxSauvages">dromadaire</seg>. </caption>
                   </figure>
                   
-                  <p> Dans une allée sablée, une demoiselle d'au moins quatre ans, à très gentil minois, toute mignonne, trônait dans une petite voiture attelée d'une autruche. Elle était là gentiment assise, regardant la foule de ses yeux bleus, profonds et doux. On eût dit la fée Urgande, la jolie fée des vieux contes, essayant un nouvel équipage ; car la chanson, très précise sur celui dont elle se servait, dit que, <lb/>
+                  <p> Dans une allée sablée, une demoiselle d'au moins quatre ans, à très gentil minois, toute mignonne, trônait dans une petite voiture attelée d'<seg ana="#animauxSauvages">une autruche</seg>. Elle était là gentiment assise, regardant la foule de ses yeux bleus, profonds et doux. On eût dit <persName>la fée Urgande</persName>, la jolie fée des vieux contes, essayant un nouvel équipage ; car la chanson, très précise sur celui dont elle se servait, dit que, <lb/>
                      
                   <note type="citation">   
                   Dans une conque de saphir <lb/>
-                  De huit papillons attelée, <lb/>
+                  De huit <seg ana="#animauxSauvages">papillons</seg> attelée, <lb/>
                   Elle passait comme un zéphir… <lb/>
                   <note type="author">(BÉRANGER.)</note> </note> </p>
                   
-                  <p> Mais ce n'était pas seulement pour cette promenade d'aimables gamins et gamines, et encore moins pour les acclimater sur le dos des éléphants, des chameaux ou des poneys des îles d'Écosse qu'avait été créé ce Jardin d'acclimatation. </p>
-                  <p> Suzette en connaissait déjà, par Louis et par Pascal, le but scientifique : enrichir notre faune d'espèces étrangères, d'animaux utiles ; puis améliorer nos propres races par la sélection et la culture. </p>
-                  <p> La tante Richard se souvenait de sa paysannerie et de ses premières occupations dans la ferme paternelle de Fragicourt. Et elle achemina son monde vers la basse-cour. </p>
+                  <p> Mais ce n'était pas seulement pour cette promenade d'aimables gamins et gamines, et encore moins pour les acclimater sur le dos des <seg ana="#animauxSauvages">éléphants</seg>, des <seg ana="#animauxSauvages">chameaux</seg> ou des <seg ana="#animauxDomestiques">poneys</seg> des <placeName ana="#ilesEcosse">îles d'Écosse</placeName> qu'avait été créé ce <seg ana="#basse-cour"><placeName ana="#jardinAcclimatation">Jardin d'acclimatation</placeName></seg>. </p>
+                  <p> <persName ana="#suzette">Suzette</persName> en connaissait déjà, par <persName ana="#louis">Louis</persName> et par <persName ana="#pascal">Pascal</persName>, le but scientifique : enrichir notre <seg ana="#vegetaux">faune</seg> d'<seg ana="#vegetaux">espèces étrangères</seg>, d'<seg ana="#basse-cour">animaux utiles</seg> ; puis améliorer nos propres <seg ana="#animaux">races</seg> par <seg ana="#basse-cour">la sélection et la culture</seg>. </p>
+                  <p> <persName ana="#mme_richard">La tante Richard</persName> se souvenait de sa paysannerie et de ses premières occupations dans <seg ana="#scienceNat">la ferme</seg> paternelle de <placeName ana="#fragicourt">Fragicourt</placeName>. Et elle achemina son monde vers <seg ana="#basse-cour">la basse-cour</seg>. </p>
                   
                   <pb type="page" n="374"/>   
                   <fw type="header"> 374 SUZETTE. </fw>
@@ -484,12 +511,12 @@
                         
                         <ab type="question"> — Que savez-vous de l'éléphant — (origine, taille, aspect, qualités, défauts ; services qu'il rend) ? — des poneys ? — de l'autruche ? </ab>
                         
-                        <ab type="answer"> L'<term>éléphant</term> est le plus grand des animaux terrestres ; ses proportions sont lourdes, son corps épais, sa démarche pesante, mais sa physionomie est imposante et noble. Il a une tête énorme avec deux immenses et minces oreilles que l'animal fait remuer et claquer à plaisir ; l'œil est petit et la bouche est armée de dents énormes dont deux font saillie et peuvent atteindre 2m,50 de longueur ; on les désigne sous le nom de <term>défenses</term>. <lb/>
-                        La <term>trompe</term> de l'éléphant est le nez prolongé d'une façon démesurée en forme de tube, et qui se termine par les ouvertures des narines. Elle est à la fois l'organe de l'odorat, un membre pour saisir et une arme redoutable ; elle accomplit toutes les fonctions de la main, à ce point qu'avec son aide l'éléphant peut ramasser à terre une pièce de monnaie et déboucher une bouteille. Si on l'attaque, il en saisit son ennemi, l'enlace, le presse, le brise, le lance en l'air ou le jette à terre pour le fouler sous ses larges pieds. La trompe lui sert encore à porter les aliments à sa bouche et à soulever de lourds fardeaux ; il la remplit d'eau quand il veut boire et laisse tomber ce liquide dans sa gorge. <lb/>
+                        <ab type="answer"> L'<seg corresp="#animauxSauvages">éléphant</seg> est le plus grand des animaux terrestres ; ses proportions sont lourdes, son corps épais, sa démarche pesante, mais sa physionomie est imposante et noble. Il a une tête énorme avec deux immenses et minces oreilles que l'animal fait remuer et claquer à plaisir ; l'œil est petit et la bouche est armée de dents énormes dont deux font saillie et peuvent atteindre 2m,50 de longueur ; on les désigne sous le nom de <term type="elephant">défenses</term>. <lb/>
+                        La <term type="elephant">trompe</term> de l'éléphant est le nez prolongé d'une façon démesurée en forme de tube, et qui se termine par les ouvertures des narines. Elle est à la fois l'organe de l'odorat, un membre pour saisir et une arme redoutable ; elle accomplit toutes les fonctions de la main, à ce point qu'avec son aide l'éléphant peut ramasser à terre une pièce de monnaie et déboucher une bouteille. Si on l'attaque, il en saisit son ennemi, l'enlace, le presse, le brise, le lance en l'air ou le jette à terre pour le fouler sous ses larges pieds. La trompe lui sert encore à porter les aliments à sa bouche et à soulever de lourds fardeaux ; il la remplit d'eau quand il veut boire et laisse tomber ce liquide dans sa gorge. <lb/>
                         Les éléphants vivent dans les contrées les plus chaudes de l'Asie et de l'Afrique et, à l'état sauvage, ils se tiennent par troupes plus ou moins nombreuses dans les forêts et les lieux marécageux ; leur nourriture consiste en herbes, en racines et en graines. Leur marche est rapide ; ils peuvent faire jusqu'à 100 kilomètres par jour et nagent aussi très bien. <lb/>
                         L'éléphant est doué d'une grande intelligence ; on l'a domestiqué et il rend les plus grands services pour le transport des hommes et des marchandises. Son caractère est doux ; il est reconnaissant ; mais sa susceptibilité est extrême et il sait se venger de ceux qui le taquinent ou le maltraitent. <lb/>
-                        Les <term>poneys</term> sont une race étrangère de chevaux, originaire des îles Shetland ; ce sont de véritables miniatures ; il en est qui atteignent à peine à la hauteur des chiens de Terre-Neuve. Malgré leur petite taille, ils sont robustes et résistent parfaitement à la fatigue. <lb/>
-                        L'<term>autruche</term>, que l'on trouve seulement en Afrique et en Arabie, est le plus gros des oiseaux connus ; sa tête peut atteindre jusqu'à 2m,50 de hauteur. Cet animal ne peut voler, mais il court très vite sur de longues et fortes pattes armées d'ongles redoutables, surtout lorsque le vent gonfle les larges et belles plumes d eses ailes. <lb/>
+                        Les <seg corresp="#animauxDomestiques">poneys</seg> sont une race étrangère de chevaux, originaire des îles Shetland ; ce sont de véritables miniatures ; il en est qui atteignent à peine à la hauteur des chiens de Terre-Neuve. Malgré leur petite taille, ils sont robustes et résistent parfaitement à la fatigue. <lb/>
+                        L'<seg corresp="#animauxSauvages">autruche</seg>, que l'on trouve seulement en Afrique et en Arabie, est le plus gros des oiseaux connus ; sa tête peut atteindre jusqu'à 2m,50 de hauteur. Cet animal ne peut voler, mais il court très vite sur de longues et fortes pattes armées d'ongles redoutables, surtout lorsque le vent gonfle les larges et belles plumes d eses ailes. <lb/>
                         L'autruche pond ses œufs dans le sable où la chaleur solaire concourt à mener à bien leur éclosion. On recherche les plumes de la queue et des ailes de cet animal, et on lui fait, pour cette raison, une chasse active. Cependant on a essayé de le domestiquer, et déjà en Algérie et dans la colonie du Cap, son élevage donne un revenu considérable. </ab>
                         
                         <!--PIERRES PRÉCIEUSES.-->
@@ -500,11 +527,11 @@
                   
                         ce qui les distingue. — Où trouve-t-on les diamants ? — Connaissez-vous quelques diamants célèbres ? </ab>
                         
-                        <ab type="answer"> On entend par <term>pierres précieuses</term> des pierres d'une dureté et d'un brillant extraordinaires, qualités auxquelles se joignent des couleurs éclatantes, sauf chez les diamants. Elles sont recherchées pour leur éclat et leur rareté. Plus communes et moins coûteuses, elles rendraient de grands services dans l'industrie ; mais jusqu'ici on ne les emploie que dans la confection des parures. <lb/>
-                  Les principales pierres précieuses sont : les diamants, les rubis, les émeraudes, les saphirs, les topazes, les améthystes. On entend par <term>pierres fines</term> celles qui approchent des pierres précieuses pour la dureté et le brillant : telles sont les agates, les onyx, les cornalines. <lb/>
+                        <ab type="answer"> On entend par <seg corresp="#mineraux">pierres précieuses</seg> des pierres d'une dureté et d'un brillant extraordinaires, qualités auxquelles se joignent des couleurs éclatantes, sauf chez les diamants. Elles sont recherchées pour leur éclat et leur rareté. Plus communes et moins coûteuses, elles rendraient de grands services dans l'industrie ; mais jusqu'ici on ne les emploie que dans la confection des parures. <lb/>
+                  Les principales pierres précieuses sont : les diamants, les rubis, les émeraudes, les saphirs, les topazes, les améthystes. On entend par <term type="pierresPrecieuses">pierres fines</term> celles qui approchent des pierres précieuses pour la dureté et le brillant : telles sont les agates, les onyx, les cornalines. <lb/>
                   Les diamants sont limpides comme du cristal et jettent mille feux quand ils sont taillés ; les rubis ont une couleur rouge ; les émeraudes sont vertes ; les saphirs, bleus ; les topazes, jaunes ; les améthystes, violettes. <lb/>
                   On trouve le diamant dans l’Hindoustan, l'Afrique méridionale et le Brésil. Il se présente sous la forme de cristaux très brillants, limpides et transparents ; mais, souvent, ils sont recouverts d'une gangue plus ou moins épaisse. On a remarqué qu'ils accompagnent une sorte de terrain sablonneux et ferrugineux. <lb/>
-                  Parmi les diamants les plus célèbres, il faut citer : le <term>Régent</term>, qui pèse 31 grammes ; il appartient à la France et on estime sa valeur à 8 millions ; — le <term>Koh-i-Noor</term>, ou <term>Montagne de lumière</term>, qui est la propriété de la reine d'Angleterre et a été payé 6 millions ; — le plus beau diamant de la couronne de Russie pèse près de 40 grammes. </ab>
+                  Parmi les diamants les plus célèbres, il faut citer : le <term type="pierresPrecieuses">Régent</term>, qui pèse 31 grammes ; il appartient à la France et on estime sa valeur à 8 millions ; — le <term type="pierresPrecieuses">Koh-i-Noor</term>, ou <term type="pierresPrecieuses">Montagne de lumière</term>, qui est la propriété de la reine d'Angleterre et a été payé 6 millions ; — le plus beau diamant de la couronne de Russie pèse près de 40 grammes. </ab>
                         
                         <ab type="question"> Qu'appelle-t-on faune, flore d'un pays ? </ab>
                         
@@ -516,8 +543,8 @@
                         
                         <ab type="question"> — Qu'entend-on par climat ; — par acclimater en France une plante, un animal ? — Citez des plantes et des animaux acclimatés en Europe. — Que peut-on retirer d'avantageux d'une visite au Jardin d'acclimatation ? </ab>
                   
-                        <ab type="answer"> On entend par <term>climat</term> la région, le pays, principalement en égard à la température de l'air ; on désigne encore, par ce mot, la température particulière à une contrée. <lb/>
-                        <term>Acclimater</term> une plante, un animal en France, c'est accoutumer cette plante et cet animal à la température et à l'influence de notre pays. <lb/>
+                        <ab type="answer"> On entend par <term type="basse-cour">climat</term> la région, le pays, principalement en égard à la température de l'air ; on désigne encore, par ce mot, la température particulière à une contrée. <lb/>
+                        <seg corresp="#basse-cour">Acclimater</seg> une plante, un animal en France, c'est accoutumer cette plante et cet animal à la température et à l'influence de notre pays. <lb/>
                         Depuis quelques siècles, on a acclimaté en Europe le maïs, le tabac, la pomme de terre, le dahlia, le dindon, qui viennent d'Amérique ; la pintade, que nous avons apportée d'Afrique ; le sorgho, la patate, originaires de la Chine, sans compter une multitude de fleurs et d'arbustes. <lb/>
                         Visiter le Jardin d'acclimatation présente certains avantages, dont le principal est de faire voir et connaître les animaux et les végétaux étrangers qu'on essaye d'introduire dans notre pays ; on s'y familiarise encore avec les meilleurs procédés d'élevage pour certaines races de volailles, de chiens, de bestiaux qu'il y aurait intérêt à élever simultanément avec les nôtres dans les fermes et autres exploitations agricoles. </ab> 
                      </div>

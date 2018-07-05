@@ -56,8 +56,11 @@
             <language ident="eng">English</language>
          </langUsage>
       </profileDesc>
-      <encodingDesc>
+          <encodingDesc>
          <charDecl>
+            <char>
+               <charName xml:id="les_dumay">La Famille Dumay</charName>
+            </char>
             <char>
                <charName xml:id="suzette">Suzette</charName>
             </char>
@@ -77,12 +80,6 @@
                <charName xml:id="charlot">Charlot</charName>
             </char>
             <char>
-               <charName xml:id="mme_valon">Mme Valon</charName>
-            </char>
-            <char>
-               <charName xml:id="m_valon">M. Valon</charName>
-            </char>
-            <char>
                <charName xml:id="mme_richard">Mme Richard</charName>
             </char>
             <char>
@@ -98,10 +95,19 @@
                <charName xml:id="sylvain">Sylvain</charName>
             </char> 
             <char>
+               <charName xml:id="mme_valon">Mme Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="m_valon">M. Valon</charName>
+            </char>
+            <char>
                <charName xml:id="ludivine">Ludivine</charName>
             </char> 
             <char>
                <charName xml:id="m_lejoly">M. Lejoly</charName>
+            </char>
+            <char>
+               <charName  xml:id="m_cartier">M. Cartier</charName>
             </char>
             <char>
                <charName xml:id="l_apiculteur">L'apiculteur</charName>
@@ -110,10 +116,7 @@
                <charName xml:id="la_bohemienne">La bohémienne</charName>
             </char>
             <char>
-               <charName  xml:id="m_cartier">M. Cartier</charName>
-            </char>
-            <char>
-               <charName xml:id="les_dumay">La Famille Dumay</charName>
+               <charName xml:id="la_flamande">La Flamande</charName>
             </char>
          </charDecl>
          <classDecl>
@@ -400,17 +403,37 @@
                   <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
+                  <placeName xml:id="ilesEcosse">Îles d'Écosse</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_belgique">la Belgique</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_hollande">la Hollande</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="amienois">Amiénois</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="nerac">Nérac</placeName>
+               </place>
+               <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
                </place>
                <place>
                   <placeName xml:id="paris">Paris</placeName>
                </place>
                <place>
+                  <placeName xml:id="toulouse">Toulouse</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="boulogne">Boulogne</placeName>
+               </place>
+               <place>
                   <placeName xml:id="bruxelles">Bruxelles</placeName>
                </place>
                <place>
-                  <placeName xml:id="boston">Boston
-                  </placeName>
+                  <placeName xml:id="boston">Boston</placeName>
                </place>
                <place> 
                   <placeName xml:id="l_avre">l'Avre
@@ -420,6 +443,10 @@
                <place>
                   <placeName xml:id="la_moye">la Moye
                      <geogFeat>River</geogFeat>
+                  </placeName>
+               </place>
+               <place>
+                  <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation
                   </placeName>
                </place>
             </listPlace>
@@ -437,35 +464,37 @@
                   <pb type="page" n="378"/>
                   <head> 108. — Heureuses gens. (Élève, p. 231.) </head>
          
+         <!--Is Mme Richard or someone else actually speaking this entire chapter?-->
+         
                   <p> On entra. Quelle chaleur ! </p>
-                  <p> Une température d'étuve*<gloss>Étuve. Lieu clos dont on échauffe plus ou moins la température.</gloss>, trente degrés centigrades, constates par un gros thermomètre*<gloss>Thermomètre. Instrument pour indiquer les degrés de chaleur ou de froid.</gloss> pendu au mur. Au milieu de la pièce, sur une table, plusieurs boîtes. La première, fermée, était munie, sur un côté, d'un petit vitrage derrière lequel se voyaient des œufs de poule, mollement couchés sur de l'ouate. La boîte, la couveuse artificielle, maintenait les œufs à la température où ils se trouveraient sous le corps de la poule.</p>
+                  <p> <seg ana="#sciencesPhys">Une température d'étuve</seg>*<gloss>Étuve. Lieu clos dont on échauffe plus ou moins la température.</gloss>, trente degrés centigrades, constates par un gros <seg ana="#sciencesPhys">thermomètre</seg>*<gloss>Thermomètre. Instrument pour indiquer les degrés de chaleur ou de froid.</gloss> pendu au mur. Au milieu de la pièce, sur une table, plusieurs boîtes. La première, fermée, était munie, sur un côté, d'un petit vitrage derrière lequel se voyaient des <seg ana="#animauxDomestiques">œufs de poule</seg>, mollement couchés sur de l'ouate. La boîte, la couveuse artificielle, maintenait <seg ana="#animauxDomestiques">les œufs</seg> à la température où ils se trouveraient sous le corps de <seg ana="#animauxDomestiques">la poule</seg>.</p>
                   
                   <figure>
                      <caption> Couveuse artificielle. </caption>
                   </figure>
                   
-                  <p> Les petits sont éclos. En voyez-vous dans la sécheuse, cette cloche, tout à côté, chaufée et douillettement capitonnée*<gloss>Capitonné. Rembourré, matelassé.</gloss> de duvet ? Et séchez-vous, petits poussins ! </p>
+                  <p> Les petits sont éclos. En voyez-vous dans la sécheuse, cette cloche, tout à côté, chaufée et douillettement capitonnée*<gloss>Capitonné. Rembourré, matelassé.</gloss> de duvet ? Et séchez-vous, petits <seg ana="#animauxDomestiques">poussins</seg> ! </p>
 
                   <pb type="page" n="379"/>   
                   <fw type="header"> HEUREUSES GENS. 379 </fw>
          
-                  <p> Vous voilà secs, et en disposition de picorer quelque chose, hein ? </p>
-                  <p> Bon ! autre appareil. Là, des graines appropriées à la petitesse de votre bec d'enfant ; et aussi du gravier pour votre bonne digestion, et de l'eau ; et la plus étrange, la plus curieuse, la plus belle chose de l'endroit, une mère artificielle ! </p>
+                  <p> Vous voilà secs, et en disposition de <seg ana="#animauxDomestiques">picorer</seg> quelque chose, hein ? </p>
+                  <p> Bon ! autre appareil. Là, des <seg ana="#vegetaux">graines</seg> appropriées à la petitesse de votre bec d'enfant ; et aussi du <seg ana="#mineraux">gravier</seg> pour votre bonne <seg ana="#animaux">digestion</seg>, et de <seg ana="#mineraux">l'eau</seg> ; et la plus étrange, la plus curieuse, la plus belle chose de l'endroit, <seg ana="#basse-cour">une mère artificielle</seg> ! </p>
                   
                   <figure>
-                     <caption> Gaveuse pour engraisser les volailles. </caption>
+                     <caption> <seg ana="#basse-cour">Gaveuse pour engraisser <seg ana="#animauxDomestiques">les volailles</seg></seg>. </caption>
                   </figure>
                   
                   <p> Cette mère est un abri, en forme de deux ailes soulevées, rembourrés de plumes tièdes et douces. Tout y est, sauf le gloussement affectueux de la maman répondant à vos pépiements légers. </p>
-                  <p> Mais les petits poulets sont gens d'estomac plutôt que de sentiment ; ils becquètent, grattent, mangent à plaisir, sans songer aux gloussements absents. </p>
+                  <p> Mais les petits <seg ana="#animauxDomestiques">poulets</seg> sont gens d'estomac plutôt que de sentiment ; ils becquètent, grattent, mangent à plaisir, sans songer aux gloussements absents. </p>
                   <p> Ils grandissent et échangent bientôt leur duvet jaune pour les plumes de l'adolescence. </p>
                   <p> Alors, comme ils eussent déserté l'aile maternelle, ils désertent l'aile factice*<gloss>Factice. Qui imite les choses naturelles.</gloss>, et on les porte au grand air. </p>
                   <p> Cocorico ! cocorico ! Ah ! se font-ils de la joie et du muscle sur cette jolie pelouse ! </p>
          
                   <figure> 
-                     <caption> <hi rend="italic">La rôtissoire mécanique.</hi>
+                     <caption> <hi rend="italic"><seg ana="#machinesAppareils">La rôtissoire mécanique</seg>.</hi>
                         <lb/>
-                        Ce système de mise à la broche pour les volailles est très usité à Paris et dans les grandes villes ; il fonctionne par la chateur même du foyer ; l'air chaud, dans son mouvement ascensionnel, fait tourner les aubes du moulin a l'on aperçoit au-dessus de la cheminée, moulin qui communique le mouvement aux broches par un système d'engrenages fixés à l'axe b.
+                        Ce système de mise à la broche pour <seg ana="#animauxDomestiques">les volailles</seg> est très usité à <placeName ana="#paris">Paris</placeName> et dans les grandes villes ; il fonctionne par la chateur même du foyer ; <seg ana="#sciencesPhys">l'air chaud</seg>, dans son mouvement ascensionnel, fait tourner <seg ana="#constructions">les aubes du moulin</seg> a l'on aperçoit au-dessus de <seg ana="#constructions">la cheminée</seg>, <seg ana="#constructions">moulin</seg> qui communique le mouvement aux <seg ana="#constructions">broches</seg> par un système d'engrenages fixés à l'axe b.
                      </caption>
                   </figure>
          
@@ -475,7 +504,7 @@
                      <fw type="header"> 380 SUZETTE. </fw>
          
                   sur un pivot. La tour se meut. Les cous des captifs s'allongent par une meurtrière*<gloss>Meurtrière. Ouverture étroite pratiquée dans une muraille fortifiée et par laquelle on tire à couvert sur l'ennemi.</gloss>. Les uns après les autres ils reçoivent, par un tuyau que dirige un employé, la pâtée cuite, mouillée, salée à point. Il faut s'engraisser ou dire pourquoi ! </p>
-                  <p> La gaveuse est le lieu de bénédiction, c'est la grande et tranquille gogaille*<gloss>Gogaille. Repas joyeux.</gloss> à l'abri de la fouine, du renard, de la pluie et du soleil. </p>
+                  <p> <seg ana="#basse-cour">La gaveuse</seg> est le lieu de bénédiction, c'est la grande et tranquille gogaille*<gloss>Gogaille. Repas joyeux.</gloss> à l'abri de la fouine, du <seg ana="#animauxSauvages">renard</seg>, de <seg ana="#sciencesPhys">la pluie</seg> et du <seg ana="#sciencesPhys">soleil</seg>. </p>
                   <p> Enfin, nous sommes gavés ! superbes d'embonpoint ! nous sommes d'admirables pelotes de graisse, et nous sortons de la tour hospitalière ! </p>
                   <p> Et où allons-nous, maintenant, ô mes gras, mes insoucieux amis ?... </p>
                   <p> A la broche ! </p>
@@ -499,8 +528,8 @@
                         <!--— LE THERMOMÈTRE.-->
                         <ab type="question"> — L'eau, en s'échauffant, augmente-t-elle ou diminue-t-elle de volume ? — Exemples. — En est-il de même pour les autres liquides ? — Si l'on met de l'esprit-de-vin ou du mercure dans un tube, qu'adviendra-t-il quand ces liquides s'échaufferont ? — Décrire le thermomètre. — Comment est-il gradué ? — Ses usages. </ab>
                         
-                        <ab type="answer"> En s'échauffant, l'eau augmente de volume, et il est facile de le constater en plaçant un vase plein devant un feu vif ; peu de temps après que le <term>liquide</term> a subi l'influence de la chaleur, il déborde. C'est une propriété commune à tous los corps qui sont en cet état à la température ordinaire ; par exemple, au mercure et à l'esprit-de-vin. Si l'on on introduisait dans un tube formé à la partie inférieure, laquelle serait soumise à l'action d'un foyer allumé, ces liquides monteraient rapidement dans le tube en question, preuve évidente de leur dilatation sous l'influence de la chaleur. <lb/>
-                        Cette propriété a été appliquée à la mesure de la température des corps et l'on a imaginé à cet effet un instrument nommé <term>thermomètre</term>. Il se compose d'un tube fin comme un cheveu à l’intérieur, soudé à un réservoir cylindrique de même matière. Le réservoir ainsi qu'une partie de la tige sont remplis de mercure ou d'alcool, et une échelle graduée, tracée sur une règle plate à laquelle le tube est fixé, fait connaître, par l'examen ou le compte des divisions, la dilatation du liquide et, par suite, l'intensité de la chaleur. <lb/>
+                        <ab type="answer"> En s'échauffant, l'eau augmente de volume, et il est facile de le constater en plaçant un vase plein devant un feu vif ; peu de temps après que le <term type="thermometre">liquide</term> a subi l'influence de la chaleur, il déborde. C'est une propriété commune à tous los corps qui sont en cet état à la température ordinaire ; par exemple, au mercure et à l'esprit-de-vin. Si l'on on introduisait dans un tube formé à la partie inférieure, laquelle serait soumise à l'action d'un foyer allumé, ces liquides monteraient rapidement dans le tube en question, preuve évidente de leur dilatation sous l'influence de la chaleur. <lb/>
+                        Cette propriété a été appliquée à la mesure de la température des corps et l'on a imaginé à cet effet un instrument nommé <seg corresp="#sciencesPhys">thermomètre</seg>. Il se compose d'un tube fin comme un cheveu à l’intérieur, soudé à un réservoir cylindrique de même matière. Le réservoir ainsi qu'une partie de la tige sont remplis de mercure ou d'alcool, et une échelle graduée, tracée sur une règle plate à laquelle le tube est fixé, fait connaître, par l'examen ou le compte des divisions, la dilatation du liquide et, par suite, l'intensité de la chaleur. <lb/>
                         Le thermomètre compte 100 divisions égales ou degrés entre la température de la glace et celle de l'eau bouillante. Il sert à mesurer
                         
                      <pb type="page" n="381"/>   
@@ -508,13 +537,13 @@
          
                         la température de l'air, des liquides, du corps des malades, d'une chambre, etc. </ab>
                         
-                        <!--LA DIGESTION.-->
+                        <!--<seg corresp="#homme">LA DIGESTION.</seg>-->
                         <ab type="question"> — Comment introduit-on les aliments dans l'estomac ? — Fonction des dents, de la salive, de la langue. — Que se passe-t-il dans l'estomac ? — La bile. — Que deviennent les aliments après leur sortie de l'estomac ? </ab>
                         
                         <ab type="answer"> La digestion est une fonction naturelle des animaux qui a pour objet : 1° de transformer la partie nutritive des substances alimentaires en un liquide propre à se mêler au sang pour nourrir le corps ; — 2° de séparer la partie nutritive des aliments d'avec les parties qui ne possèdent pas cette qualité et qui doivent être rejetées. <lb/>
-                        C'est dans la bouche que se passe le premier acte de la digestion. Les aliments y sont broyés par les dents, opération très importante, parce qu'à mesure qu'ils sont divisés, ils sont humectés de salive, et ce liquide facilite le travail de décomposition dont on va parler. De la bouche, la nourriture, réunie en une masse arrondie, est soulevée par la langue et précipitée dans l'estomac par le canal de l'<term>œsophage</term>. <lb/>
-                        L'<term>estomac</term> est une grande poche membraneuse dont les parois sécrètent un liquide doué de la propriété de réduire les aliments en une substance semi-liquide à laquelle on donne le nom de <term>chyme</term>. <lb/>
-                        Le chyme se rend, par l'ouverture du <term>pylore</term>, dans l'intestin grêle où il se mélange avec la <term>bile</term>, matière verdâtre, de saveur amère, que produit le <term>foie</term>, organe situé à côté de l'estomac. Les parois de l'intestin absorbent une partie du nouveau liquide, lequel entre dans la circulation du sang par des vaisseaux très minces débouchant, d'une part, dans l'intestin grêle et, de l'autre, dans une veine voisine du cœur. Ce qui reste ne peut servir à la nutrition et passe dans le gros intestin. </ab>
+                        C'est dans la bouche que se passe le premier acte de la digestion. Les aliments y sont broyés par les dents, opération très importante, parce qu'à mesure qu'ils sont divisés, ils sont humectés de salive, et ce liquide facilite le travail de décomposition dont on va parler. De la bouche, la nourriture, réunie en une masse arrondie, est soulevée par la langue et précipitée dans l'estomac par le canal de l'<term type="digestion">œsophage</term>. <lb/>
+                        L'<term type="digestion">estomac</term> est une grande poche membraneuse dont les parois sécrètent un liquide doué de la propriété de réduire les aliments en une substance semi-liquide à laquelle on donne le nom de <term type="digestion">chyme</term>. <lb/>
+                        Le chyme se rend, par l'ouverture du <term type="digestion">pylore</term>, dans l'intestin grêle où il se mélange avec la <term type="digestion">bile</term>, matière verdâtre, de saveur amère, que produit le <term type="digestion">foie</term>, organe situé à côté de l'estomac. Les parois de l'intestin absorbent une partie du nouveau liquide, lequel entre dans la circulation du sang par des vaisseaux très minces débouchant, d'une part, dans l'intestin grêle et, de l'autre, dans une veine voisine du cœur. Ce qui reste ne peut servir à la nutrition et passe dans le gros intestin. </ab>
                      </div> 
                      
                      <div type="EconDom">

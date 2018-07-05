@@ -56,8 +56,11 @@
             <language ident="eng">English</language>
          </langUsage>
       </profileDesc>
-      <encodingDesc>
+          <encodingDesc>
          <charDecl>
+            <char>
+               <charName xml:id="les_dumay">La Famille Dumay</charName>
+            </char>
             <char>
                <charName xml:id="suzette">Suzette</charName>
             </char>
@@ -77,12 +80,6 @@
                <charName xml:id="charlot">Charlot</charName>
             </char>
             <char>
-               <charName xml:id="mme_valon">Mme Valon</charName>
-            </char>
-            <char>
-               <charName xml:id="m_valon">M. Valon</charName>
-            </char>
-            <char>
                <charName xml:id="mme_richard">Mme Richard</charName>
             </char>
             <char>
@@ -98,10 +95,19 @@
                <charName xml:id="sylvain">Sylvain</charName>
             </char> 
             <char>
+               <charName xml:id="mme_valon">Mme Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="m_valon">M. Valon</charName>
+            </char>
+            <char>
                <charName xml:id="ludivine">Ludivine</charName>
             </char> 
             <char>
                <charName xml:id="m_lejoly">M. Lejoly</charName>
+            </char>
+            <char>
+               <charName  xml:id="m_cartier">M. Cartier</charName>
             </char>
             <char>
                <charName xml:id="l_apiculteur">L'apiculteur</charName>
@@ -110,10 +116,7 @@
                <charName xml:id="la_bohemienne">La bohémienne</charName>
             </char>
             <char>
-               <charName  xml:id="m_cartier">M. Cartier</charName>
-            </char>
-            <char>
-               <charName xml:id="les_dumay">La Famille Dumay</charName>
+               <charName xml:id="la_flamande">La Flamande</charName>
             </char>
          </charDecl>
          <classDecl>
@@ -400,17 +403,37 @@
                   <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
+                  <placeName xml:id="ilesEcosse">Îles d'Écosse</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_belgique">la Belgique</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_hollande">la Hollande</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="amienois">Amiénois</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="nerac">Nérac</placeName>
+               </place>
+               <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
                </place>
                <place>
                   <placeName xml:id="paris">Paris</placeName>
                </place>
                <place>
+                  <placeName xml:id="toulouse">Toulouse</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="boulogne">Boulogne</placeName>
+               </place>
+               <place>
                   <placeName xml:id="bruxelles">Bruxelles</placeName>
                </place>
                <place>
-                  <placeName xml:id="boston">Boston
-                  </placeName>
+                  <placeName xml:id="boston">Boston</placeName>
                </place>
                <place> 
                   <placeName xml:id="l_avre">l'Avre
@@ -420,6 +443,10 @@
                <place>
                   <placeName xml:id="la_moye">la Moye
                      <geogFeat>River</geogFeat>
+                  </placeName>
+               </place>
+               <place>
+                  <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation
                   </placeName>
                </place>
             </listPlace>
@@ -437,25 +464,25 @@
                   <pb type="page" n="375"/>
                   <head>107. — La basse-cour. (Élève, p. 229.)</head>
          
-                  <p> C'était un long treillage divisé en compartiments dont chacun contenait son poulailler. Et il fallait en-
+                  <p> C'était un long treillage divisé en compartiments dont chacun contenait son <seg ana="#basse-cour">poulailler</seg>. Et il fallait en-
          
                      <pb type="page" n="376"/>   
                      <fw type="header"> 376 SUZETTE. </fw>
          
-         tendre et voir le train de caquetage, de grattage qu'on menait d'un bout à l'autre de ce pays de cocagne*<gloss>Pays de cocagne. Pays où tout abonde, où l'on fait bonne chère à bon marché.</gloss> ! Les retentissants cocoricos des coqs se répondaient en joyeux clairons ; les poules choisies, admirables, se donnaient des airs de millionnaires. </p>
+                  tendre et voir le train de caquetage, de grattage qu'on menait d'un bout à l'autre de ce pays de cocagne*<gloss>Pays de cocagne. Pays où tout abonde, où l'on fait bonne chère à bon marché.</gloss> ! Les retentissants <seg ana="#animauxDomestiques">cocoricos</seg> des <seg ana="#animauxDomestiques">coqs</seg> se répondaient en joyeux clairons ; <seg ana="#animauxDomestiques">les poules</seg> choisies, admirables, se donnaient des airs de millionnaires. </p>
                   
                   <figure>
-                     <caption> Pontes de Houdan. — Poules de Cochinchine. </caption>
+                     <caption> <seg ana="#animauxDomestiques">Pontes de Houdan</seg>. — <seg ana="#animauxDomestiques">Poules de Cochinchine</seg>. </caption>
                   </figure>
                   
-                  <p> On savait à qui l’on avait affaire, grâce aux écriteaux. Ici, c’étaient les crèvecœurs, d'un noir changeant ; les houdans, pailletées de blanc et de noir, coiffées presque toujours de travers d'un toupet sous lequel leur œil brillant parait hardi ; là, les cochinchines fauves, les brahmapoutres au corps balourd et gauche, pattus, et comme chaussés de guêtres ; les bressans, les campines élégants, les dorkings robustes, la race anglaise légère, à l'œil de feu, qui fournit les coqs pour ces combats féroces heureusement interdits en France, et dont les Anglais sont si friands. </p>
-                  <p> On apprend là que telle race, excellente pour la production des œufs, comme les houdans, par exemple, ne s'entend pas à mener à bien une couvée. Telle autre, au contraire, fournit des mères hors ligne, d'ardentes éducatrices de poussins ; une troisième ne se distinguera ni par ses couveuses, ni par ses pondeuses, mais bien, comme la cochinchine, la bressane, par la qualité de sa chair, sa facilité à s'engraisser, à donner ces poulets dodus, ces poulardes si recherchés des gourmets. </p>
-                  <p> De savants naturalistes ont étudié ici sans relâche les mœurs de la gent emplumée. C'est sous leur direction que se classent et se vendent aux particuliers, aux fermiers, les plus rares spécimens*<gloss>Spécimen. Modèle, échantillon.</gloss>, les mieux cultivés qui soient au monde. </p>
+                  <p> On savait à qui l’on avait affaire, grâce aux écriteaux. Ici, c’étaient les crèvecœurs, d'un noir changeant ; <seg ana="#animauxDomestiques">les houdans</seg>, pailletées de blanc et de noir, coiffées presque toujours de travers d'un toupet sous lequel leur œil brillant parait hardi ; là, <seg ana="#animauxDomestiques">les cochinchines</seg> fauves, <seg ana="#animauxDomestiques">les brahmapoutres</seg> au corps balourd et gauche, pattus, et comme chaussés de guêtres ; <seg ana="#animauxDomestiques">les bressans</seg>, <seg ana="#animauxDomestiques">les campines</seg> élégants, <seg ana="#animauxDomestiques">les dorkings</seg> robustes, <seg ana="#animauxDomestiques">la race anglaise</seg> légère, à l'œil de feu, qui fournit <seg ana="#animauxDomestiques">les coqs</seg> pour ces combats féroces heureusement interdits en <placeName ana="#la_france">France</placeName>, et dont les Anglais sont si friands. </p>
+                  <p> On apprend là que telle race, excellente pour <seg ana="#animauxDomestiques">la production des œufs</seg>, comme <seg ana="#animauxDomestiques">les houdans</seg>, par exemple, ne s'entend pas à mener à bien <seg ana="#animauxDomestiques">une couvée</seg>. Telle autre, au contraire, fournit des mères hors ligne, d'ardentes éducatrices de <seg ana="#animauxDomestiques">poussins</seg> ; une troisième ne se distinguera ni par ses <seg ana="#animauxDomestiques">couveuses</seg>, ni par ses <seg ana="#animauxDomestiques">pondeuses</seg>, mais bien, comme <seg ana="#animauxDomestiques">la cochinchine</seg>, <seg ana="#animauxDomestiques">la bressane</seg>, par la qualité de sa chair, sa facilité à s'engraisser, à donner ces <seg ana="#animauxDomestiques">poulets</seg> dodus, ces <seg ana="#animauxDomestiques">poulardes</seg> si recherchés des gourmets. </p>
+                  <p> De savants naturalistes ont étudié ici sans relâche les mœurs de la gent emplumée. C'est sous leur direction que se classent et se vendent aux particuliers, aux <seg ana="#scienceNat">fermiers</seg>, les plus rares spécimens*<gloss>Spécimen. Modèle, échantillon.</gloss>, les mieux cultivés qui soient au monde. </p>
          
                   <pb type="page" n="377"/>   
                   <fw type="header"> LA BASSE-COUR. 377 </fw>
          
-                  <p> Mme Richard mena la troupe à un pavillon couvert de tuiles de diverses couleurs, d’un effet de mosaïque très riant. </p>
+                  <p> <persName ana="#mme_richard">Mme Richard</persName> mena la troupe à un pavillon couvert de tuiles de diverses couleurs, d’un effet de mosaïque très riant. </p>
                   
                   <div type="questionnaire">
                      <ab>
@@ -483,7 +510,7 @@
                         
                         <ab type="question"> — Quelles sont les parties qui composent un œuf ? — De quelle matière chacune est-elle formée ? — Combien donne-t-on d'œufs à couver à une poule ? —Soins que l'animal réclame. — Durée de l'incubation. — Soins que réclament les poussins. </ab>
                         
-                        <ab type="answer"> L'œuf comprend trois parties : la <term>coque</term>, constituée par une matière calcaire ; l'<term>albumine</term>, substance blanchâtre, filante qui donne le blanc après la cuisson ; le <term>jaune</term>, qui forme au milieu une petite sphère demi-liquide, où se trouve le germe de l’animal. <lb/>
+                        <ab type="answer"> L'œuf comprend trois parties : la <term type="coqPoulePoussins">coque</seg>, constituée par une matière calcaire ; l'<term type="coqPoulePoussins">albumine</term>, substance blanchâtre, filante qui donne le blanc après la cuisson ; le <term type="coqPoulePoussins">jaune</term>, qui forme au milieu une petite sphère demi-liquide, où se trouve le germe de l’animal. <lb/>
                         Au commencement du printemps, le besoin de couver se manifeste chez la poule ; alors, dans un lieu retiré, on lui confie de 12 à 14 œufs qui n'ont pas plus de cinq jours. Généralement, elle se montre très assidue à sa besogne de couveuse, et grâce à la température de 40 à 41 degrés qu'elle leur communique, au bout de 21 jours, les petits poulets viennent au monde. Pendant cette période, il faut éviter tout ce qui troublerait l'animal, et placer à sa portée une nourriture abondante. <lb/>
                         Les premiers jours de leur naissance, les petits poulets n'ont pas besoin de manger ; le troisième jour, et pendant une dizaine de jours, on ajoutera des œufs durs à de la mie de pain trempée dans l'eau ou mieux, au début, dans du lait. Enfin, on substitue peu à peu à la pâtée des premiers jours quelques menus grains qu'on ramollit d'abord en les trempant dans l’eau chaude. </ab>
                      </div> 
@@ -514,7 +541,6 @@
                         
                         <ab type="answer"> On sert le poulet rôti sur un plat garni préalablement d'un lit de cresson. Pour le découper, on enlève successivement les quatre membres en commençant par la cuisse et l'aile d'un même côté, puis les sot-l'y-laisse (1)<note type="foot">(1) Le sot-l'y-laisse est un morceau placé sous la cuisse, à la naissance de l'aile, dont la chair est très délicate, quoique moins blanche.</note> et les blancs. On rompt ensuite le croupion et l'on coupe horizontalement la carcasse. On divise chaque cuisse en deux, chaque aile en trois morceaux ; la carcasse et le croupion doivent en faire six bien distincts. On dispose chaque morceau dans le plat de manière qu'on puisse les voir tous, et l'on fait circuler. Tout cela doit être mené le plus lestement possible, afin d'empêcher le refroidissement de la pièce. <lb/> 
                         Les morceaux les plus délicats sont l'aile et le blanc ; on devra les offrir aux dames, en commençant par les plus âgées. </ab>
-         
                      </div>
                   </div>
                </div>
