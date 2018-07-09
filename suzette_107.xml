@@ -80,6 +80,9 @@
                <charName xml:id="charlot">Charlot</charName>
             </char>
             <char>
+               <charName xml:id="mathias_dumay">Mathias Dumay</charName>
+            </char>
+            <char>
                <charName xml:id="mme_richard">Mme Richard</charName>
             </char>
             <char>
@@ -101,6 +104,9 @@
                <charName xml:id="m_valon">M. Valon</charName>
             </char>
             <char>
+               <charName xml:id="mme_lienard">Mme Liénard</charName>
+            </char>
+            <char>
                <charName xml:id="ludivine">Ludivine</charName>
             </char> 
             <char>
@@ -108,6 +114,12 @@
             </char>
             <char>
                <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="jeanne">Jeanne</charName>
+            </char>
+            <char>
+               <charName xml:id="madeleine">Madeleine</charName>
             </char>
             <char>
                <charName xml:id="l_apiculteur">L'apiculteur</charName>
@@ -403,6 +415,9 @@
                   <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
+                  <placeName xml:id="siberie">Sibérie</placeName>
+               </place>
+               <place>
                   <placeName xml:id="ilesEcosse">Îles d'Écosse</placeName>
                </place>
                <place>
@@ -412,10 +427,25 @@
                   <placeName xml:id="la_hollande">la Hollande</placeName>
                </place>
                <place>
+                  <placeName xml:id="l_inde">l'Inde</placeName>
+               </place>
+               <place>
                   <placeName xml:id="amienois">Amiénois</placeName>
                </place>
                <place>
                   <placeName xml:id="nerac">Nérac</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="lorraine">Lorraine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="villedieu">Villedieu</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="houdan">Houdan</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="saone_loire">Saône-et-Loire</placeName>
                </place>
                <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
@@ -424,16 +454,31 @@
                   <placeName xml:id="paris">Paris</placeName>
                </place>
                <place>
+                  <placeName xml:id="saint-quentin">Saint-Quentin</placeName>
+               </place>
+               <place>
                   <placeName xml:id="toulouse">Toulouse</placeName>
                </place>
                <place>
                   <placeName xml:id="boulogne">Boulogne</placeName>
                </place>
                <place>
+                  <placeName xml:id="beauvais">Beauvais</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="falaise">Falaise</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="creuset">Creuset</placeName>
+               </place>
+               <place>
                   <placeName xml:id="bruxelles">Bruxelles</placeName>
                </place>
                <place>
                   <placeName xml:id="boston">Boston</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="cochinchine">Cochinchine</placeName>
                </place>
                <place> 
                   <placeName xml:id="l_avre">l'Avre
@@ -449,6 +494,9 @@
                   <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation
                   </placeName>
                </place>
+               <place>
+                  <placeName xml:id="ecoleAgriculture">l'École d'agriculture</placeName>
+               </place>
             </listPlace>
          </settingDesc>
       </profileDesc>
@@ -462,7 +510,7 @@
                <div type="student">
                   
                   <pb type="page" n="375"/>
-                  <head>107. — La basse-cour. (Élève, p. 229.)</head>
+                  <head>107. — <seg ana="#basse-cour">La basse-cour</seg>. (Élève, p. 229.)</head>
          
                   <p> C'était un long treillage divisé en compartiments dont chacun contenait son <seg ana="#basse-cour">poulailler</seg>. Et il fallait en-
          
@@ -472,7 +520,7 @@
                   tendre et voir le train de caquetage, de grattage qu'on menait d'un bout à l'autre de ce pays de cocagne*<gloss>Pays de cocagne. Pays où tout abonde, où l'on fait bonne chère à bon marché.</gloss> ! Les retentissants <seg ana="#animauxDomestiques">cocoricos</seg> des <seg ana="#animauxDomestiques">coqs</seg> se répondaient en joyeux clairons ; <seg ana="#animauxDomestiques">les poules</seg> choisies, admirables, se donnaient des airs de millionnaires. </p>
                   
                   <figure>
-                     <caption> <seg ana="#animauxDomestiques">Pontes de Houdan</seg>. — <seg ana="#animauxDomestiques">Poules de Cochinchine</seg>. </caption>
+                     <caption> <seg ana="#animauxDomestiques">Pontes de <placeName ana="#houdan">Houdan</placeName></seg>. — <seg ana="#animauxDomestiques">Poules de <placeName ana="#cochinchine">Cochinchine</placeName></seg>. </caption>
                   </figure>
                   
                   <p> On savait à qui l’on avait affaire, grâce aux écriteaux. Ici, c’étaient les crèvecœurs, d'un noir changeant ; <seg ana="#animauxDomestiques">les houdans</seg>, pailletées de blanc et de noir, coiffées presque toujours de travers d'un toupet sous lequel leur œil brillant parait hardi ; là, <seg ana="#animauxDomestiques">les cochinchines</seg> fauves, <seg ana="#animauxDomestiques">les brahmapoutres</seg> au corps balourd et gauche, pattus, et comme chaussés de guêtres ; <seg ana="#animauxDomestiques">les bressans</seg>, <seg ana="#animauxDomestiques">les campines</seg> élégants, <seg ana="#animauxDomestiques">les dorkings</seg> robustes, <seg ana="#animauxDomestiques">la race anglaise</seg> légère, à l'œil de feu, qui fournit <seg ana="#animauxDomestiques">les coqs</seg> pour ces combats féroces heureusement interdits en <placeName ana="#la_france">France</placeName>, et dont les Anglais sont si friands. </p>

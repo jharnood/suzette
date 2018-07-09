@@ -56,7 +56,7 @@
             <language ident="eng">English</language>
          </langUsage>
       </profileDesc>
-          <encodingDesc>
+         <encodingDesc>
          <charDecl>
             <char>
                <charName xml:id="les_dumay">La Famille Dumay</charName>
@@ -80,6 +80,9 @@
                <charName xml:id="charlot">Charlot</charName>
             </char>
             <char>
+               <charName xml:id="mathias_dumay">Mathias Dumay</charName>
+            </char>
+            <char>
                <charName xml:id="mme_richard">Mme Richard</charName>
             </char>
             <char>
@@ -101,6 +104,9 @@
                <charName xml:id="m_valon">M. Valon</charName>
             </char>
             <char>
+               <charName xml:id="mme_lienard">Mme Liénard</charName>
+            </char>
+            <char>
                <charName xml:id="ludivine">Ludivine</charName>
             </char> 
             <char>
@@ -108,6 +114,12 @@
             </char>
             <char>
                <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="jeanne">Jeanne</charName>
+            </char>
+            <char>
+               <charName xml:id="madeleine">Madeleine</charName>
             </char>
             <char>
                <charName xml:id="l_apiculteur">L'apiculteur</charName>
@@ -403,6 +415,9 @@
                   <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
+                  <placeName xml:id="siberie">Sibérie</placeName>
+               </place>
+               <place>
                   <placeName xml:id="ilesEcosse">Îles d'Écosse</placeName>
                </place>
                <place>
@@ -412,10 +427,25 @@
                   <placeName xml:id="la_hollande">la Hollande</placeName>
                </place>
                <place>
+                  <placeName xml:id="l_inde">l'Inde</placeName>
+               </place>
+               <place>
                   <placeName xml:id="amienois">Amiénois</placeName>
                </place>
                <place>
                   <placeName xml:id="nerac">Nérac</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="lorraine">Lorraine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="villedieu">Villedieu</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="houdan">Houdan</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="saone_loire">Saône-et-Loire</placeName>
                </place>
                <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
@@ -424,16 +454,31 @@
                   <placeName xml:id="paris">Paris</placeName>
                </place>
                <place>
+                  <placeName xml:id="saint-quentin">Saint-Quentin</placeName>
+               </place>
+               <place>
                   <placeName xml:id="toulouse">Toulouse</placeName>
                </place>
                <place>
                   <placeName xml:id="boulogne">Boulogne</placeName>
                </place>
                <place>
+                  <placeName xml:id="beauvais">Beauvais</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="falaise">Falaise</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="creuset">Creuset</placeName>
+               </place>
+               <place>
                   <placeName xml:id="bruxelles">Bruxelles</placeName>
                </place>
                <place>
                   <placeName xml:id="boston">Boston</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="cochinchine">Cochinchine</placeName>
                </place>
                <place> 
                   <placeName xml:id="l_avre">l'Avre
@@ -448,6 +493,9 @@
                <place>
                   <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation
                   </placeName>
+               </place>
+               <place>
+                  <placeName xml:id="ecoleAgriculture">l'École d'agriculture</placeName>
                </place>
             </listPlace>
          </settingDesc>
@@ -482,12 +530,12 @@
                   <p> Bon ! autre appareil. Là, des <seg ana="#vegetaux">graines</seg> appropriées à la petitesse de votre bec d'enfant ; et aussi du <seg ana="#mineraux">gravier</seg> pour votre bonne <seg ana="#animaux">digestion</seg>, et de <seg ana="#mineraux">l'eau</seg> ; et la plus étrange, la plus curieuse, la plus belle chose de l'endroit, <seg ana="#basse-cour">une mère artificielle</seg> ! </p>
                   
                   <figure>
-                     <caption> <seg ana="#basse-cour">Gaveuse pour engraisser <seg ana="#animauxDomestiques">les volailles</seg></seg>. </caption>
+                     <caption> <seg ana="#basse-cour">Gaveuse pour <seg ana="#scienceNat">engraisser</seg> <seg ana="#animauxDomestiques">les volailles</seg></seg>. </caption>
                   </figure>
                   
                   <p> Cette mère est un abri, en forme de deux ailes soulevées, rembourrés de plumes tièdes et douces. Tout y est, sauf le gloussement affectueux de la maman répondant à vos pépiements légers. </p>
                   <p> Mais les petits <seg ana="#animauxDomestiques">poulets</seg> sont gens d'estomac plutôt que de sentiment ; ils becquètent, grattent, mangent à plaisir, sans songer aux gloussements absents. </p>
-                  <p> Ils grandissent et échangent bientôt leur duvet jaune pour les plumes de l'adolescence. </p>
+                  <p> Ils grandissent et échangent bientôt leur duvet jaune pour <seg ana="#animauxDomestiques">les plumes</seg> de l'adolescence. </p>
                   <p> Alors, comme ils eussent déserté l'aile maternelle, ils désertent l'aile factice*<gloss>Factice. Qui imite les choses naturelles.</gloss>, et on les porte au grand air. </p>
                   <p> Cocorico ! cocorico ! Ah ! se font-ils de la joie et du muscle sur cette jolie pelouse ! </p>
          
@@ -498,7 +546,7 @@
                      </caption>
                   </figure>
          
-                  <p> Mais, cela fait, on vous reprend les petits messieurs qu'il ne s’agit plus que d'engraisser ; on vous les met en cellule, dans cette tour mobile
+                  <p> Mais, cela fait, on vous reprend les petits messieurs qu'il ne s’agit plus que d'<seg ana="#scienceNat">engraisser</seg> ; on vous les met en cellule, dans cette tour mobile
          
                      <pb type="page" n="380"/>   
                      <fw type="header"> 380 SUZETTE. </fw>

@@ -56,7 +56,7 @@
             <language ident="eng">English</language>
          </langUsage>
       </profileDesc>
-          <encodingDesc>
+       <encodingDesc>
          <charDecl>
             <char>
                <charName xml:id="les_dumay">La Famille Dumay</charName>
@@ -80,6 +80,9 @@
                <charName xml:id="charlot">Charlot</charName>
             </char>
             <char>
+               <charName xml:id="mathias_dumay">Mathias Dumay</charName>
+            </char>
+            <char>
                <charName xml:id="mme_richard">Mme Richard</charName>
             </char>
             <char>
@@ -101,6 +104,9 @@
                <charName xml:id="m_valon">M. Valon</charName>
             </char>
             <char>
+               <charName xml:id="mme_lienard">Mme Liénard</charName>
+            </char>
+            <char>
                <charName xml:id="ludivine">Ludivine</charName>
             </char> 
             <char>
@@ -108,6 +114,12 @@
             </char>
             <char>
                <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="jeanne">Jeanne</charName>
+            </char>
+            <char>
+               <charName xml:id="madeleine">Madeleine</charName>
             </char>
             <char>
                <charName xml:id="l_apiculteur">L'apiculteur</charName>
@@ -403,6 +415,9 @@
                   <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
+                  <placeName xml:id="siberie">Sibérie</placeName>
+               </place>
+               <place>
                   <placeName xml:id="ilesEcosse">Îles d'Écosse</placeName>
                </place>
                <place>
@@ -412,10 +427,25 @@
                   <placeName xml:id="la_hollande">la Hollande</placeName>
                </place>
                <place>
+                  <placeName xml:id="l_inde">l'Inde</placeName>
+               </place>
+               <place>
                   <placeName xml:id="amienois">Amiénois</placeName>
                </place>
                <place>
                   <placeName xml:id="nerac">Nérac</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="lorraine">Lorraine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="villedieu">Villedieu</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="houdan">Houdan</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="saone_loire">Saône-et-Loire</placeName>
                </place>
                <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
@@ -424,16 +454,31 @@
                   <placeName xml:id="paris">Paris</placeName>
                </place>
                <place>
+                  <placeName xml:id="saint-quentin">Saint-Quentin</placeName>
+               </place>
+               <place>
                   <placeName xml:id="toulouse">Toulouse</placeName>
                </place>
                <place>
                   <placeName xml:id="boulogne">Boulogne</placeName>
                </place>
                <place>
+                  <placeName xml:id="beauvais">Beauvais</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="falaise">Falaise</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="creuset">Creuset</placeName>
+               </place>
+               <place>
                   <placeName xml:id="bruxelles">Bruxelles</placeName>
                </place>
                <place>
                   <placeName xml:id="boston">Boston</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="cochinchine">Cochinchine</placeName>
                </place>
                <place> 
                   <placeName xml:id="l_avre">l'Avre
@@ -448,6 +493,9 @@
                <place>
                   <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation
                   </placeName>
+               </place>
+               <place>
+                  <placeName xml:id="ecoleAgriculture">l'École d'agriculture</placeName>
                </place>
             </listPlace>
          </settingDesc>
@@ -468,9 +516,9 @@
                   <p> D'<seg ana="#scienceNat">un coup de bèche</seg> il enleva une <seg ana="#legumesRacines">des betteraves</seg> <seg ana="#maladiesRemedes">mortes</seg> et <seg ana="#scienceNat">une pelletée de terre</seg> où s'étalait une grosse <seg ana="#animauxSauvages">chenille</seg> blanc sale, à <seg ana="#animaux">tête</seg> rousse, à <seg ana="#animaux">pattes</seg> noires, <seg ana="#animauxSauvages">une larve de hanneton</seg>, la plus terrible des <seg ana="#scienceNat">ravageuses</seg>. </p>
                   
                   <figure> 
-                     <caption> <hi rend="italic">Le hanneton et sa larve.</hi>
+                     <caption> <hi rend="italic"><seg ana="#animauxSauvages">Le hanneton</seg> et sa <seg ana="#animauxSauvages">larve</seg>.</hi>
                         <lb/>
-                        Le hanneton est un des plus grands fléaux de nos vergers, de nos jardins maraîchers, de nos cultures en général. A l'état de larve (ver blanc), il vit sous terre et se nourrit des racines de toutes les plantes ; à l'état de hanneton, il vit dans les airs et ronge les feuilles des arbres. Il faut détruire impitoyablement les hannetons. </caption>
+                        <seg ana="#animauxSauvages">Le hanneton</seg> est un des plus grands fléaux de nos <seg ana="#vegetaux">vergers</seg>, de nos <seg ana="#scienceNat">jardins maraîchers</seg>, de nos cultures en général. A l'état de <seg ana="#animaux">larve</seg> (<seg ana="#animauxSauvages">ver blanc</seg>), il vit sous terre et se nourrit des <seg ana="#legumesRacines">racines</seg> de toutes <seg ana="#vegetaux">les plantes</seg> ; à l'état de <seg ana="#animauxSauvages">hanneton</seg>, il vit dans <seg ana="#sciencesPhys">les airs</seg> et ronge <seg ana="#vegetaux">les feuilles des arbres</seg>. Il faut détruire impitoyablement <seg ana="#animauxSauvages">les hannetons</seg>. </caption>
                   </figure>
                   
                   <p> Quatre nouveaux <seg ana="#scienceNat">coups de bêche</seg> en amenèrent deux autres. <persName ana="jacques">Jacques</persName>, ayant ensuite jeté les yeux aux environs, montra de la main <seg ana="#scienceNat">un champ de betteraves</seg> confinant au sien et où les tristes <seg ana="#vegetaux">feuilles penchées</seg> se voyaient en bon nombre. </p>
@@ -486,12 +534,12 @@
                   <p> Peu de jours après, <persName ana="#m_lejoly">M. Florentin Lejoly</persName> se promenant par là, la canne à la main, le cigare aux lèvres, s'arrêta devant <!--<persName>les Dumay</persName>-->, qu'il vit très occupés à un travail nouveau : </p>
                   <sp><speaker>M. Lejoly</speaker><ab> — Eh ! eh ! que fait-on là ? </ab></sp>
                   <sp><speaker>Papa</speaker><ab> — On <seg ana="#scienceNat">repique</seg> <seg ana="#legumesRacines">des choux de <placeName ana="#bruxelles">Bruxelles</placeName></seg>, </ab></sp> <stage> répondit <persName ana="#papa">le père</persName>. </stage>
-                  <p> <seg ana="#legumesRacines">Le chou de <placeName ana="#bruxelles">Bruxelles</placeName></seg>, qui n'est pas du tout de <placeName ana="#bruxelles">Bruxelles</placeName>, et qui ressemble à un petit <seg ana="#legumesRacines">chou de poupée</seg>, n'avait pas l'honneur d'être connu de <persName ana="#m_lejoly">M. Florentin Lejoly</persName>. </p>
+                  <p> <seg ana="#legumesRacines">Le chou de <placeName ana="#bruxelles">Bruxelles</placeName></seg>, qui n'est pas du tout de <placeName ana="#bruxelles">Bruxelles</placeName>, et qui ressemble à un petit xchou de poupée</seg>, n'avait pas l'honneur d'être connu de <persName ana="#m_lejoly">M. Florentin Lejoly</persName>. </p>
                   
                   <figure> 
-                     <caption> <hi rend="italic">Chou de Bruxelles.</hi>
+                     <caption> <hi rend="italic"><seg ana="#legumesRacines">Chou de <placeName ana="#bruxelles">Bruxelles</seg></seg>.</hi>
                         <lb/>
-                        Plante potagère qui constitue un légume très délicat. </caption>
+                        <seg ana="#vegetaux">Plante potagère</seg> qui constitue <seg ana="#legumesRacines">un légume</seg> très délicat. </caption>
                   </figure>
                   
                   <sp><speaker>M. Lejoly</speaker><ab> — Tiens ! dit-il, c'est original, <seg ana="#scienceNat">planter</seg> <seg ana="#legumesRacines">des choux</seg> parmi <seg ana="#legumesRacines">les betteraves</seg> ; ça ne s'est pas encore vu à <placeName ana="#fragicourt">Fragicourt</placeName>. </ab></sp>

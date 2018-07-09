@@ -55,8 +55,8 @@
             <language ident="fra">French</language>
             <language ident="eng">English</language>
          </langUsage>
-      </profileDesc>
-      <encodingDesc>
+           </profileDesc>
+         <encodingDesc>
          <charDecl>
             <char>
                <charName xml:id="les_dumay">La Famille Dumay</charName>
@@ -80,6 +80,9 @@
                <charName xml:id="charlot">Charlot</charName>
             </char>
             <char>
+               <charName xml:id="mathias_dumay">Mathias Dumay</charName>
+            </char>
+            <char>
                <charName xml:id="mme_richard">Mme Richard</charName>
             </char>
             <char>
@@ -101,6 +104,9 @@
                <charName xml:id="m_valon">M. Valon</charName>
             </char>
             <char>
+               <charName xml:id="mme_lienard">Mme Liénard</charName>
+            </char>
+            <char>
                <charName xml:id="ludivine">Ludivine</charName>
             </char> 
             <char>
@@ -108,6 +114,12 @@
             </char>
             <char>
                <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="jeanne">Jeanne</charName>
+            </char>
+            <char>
+               <charName xml:id="madeleine">Madeleine</charName>
             </char>
             <char>
                <charName xml:id="l_apiculteur">L'apiculteur</charName>
@@ -403,6 +415,9 @@
                   <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
+                  <placeName xml:id="siberie">Sibérie</placeName>
+               </place>
+               <place>
                   <placeName xml:id="ilesEcosse">Îles d'Écosse</placeName>
                </place>
                <place>
@@ -412,10 +427,25 @@
                   <placeName xml:id="la_hollande">la Hollande</placeName>
                </place>
                <place>
+                  <placeName xml:id="l_inde">l'Inde</placeName>
+               </place>
+               <place>
                   <placeName xml:id="amienois">Amiénois</placeName>
                </place>
                <place>
                   <placeName xml:id="nerac">Nérac</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="lorraine">Lorraine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="villedieu">Villedieu</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="houdan">Houdan</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="saone_loire">Saône-et-Loire</placeName>
                </place>
                <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
@@ -424,16 +454,31 @@
                   <placeName xml:id="paris">Paris</placeName>
                </place>
                <place>
+                  <placeName xml:id="saint-quentin">Saint-Quentin</placeName>
+               </place>
+               <place>
                   <placeName xml:id="toulouse">Toulouse</placeName>
                </place>
                <place>
                   <placeName xml:id="boulogne">Boulogne</placeName>
                </place>
                <place>
+                  <placeName xml:id="beauvais">Beauvais</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="falaise">Falaise</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="creuset">Creuset</placeName>
+               </place>
+               <place>
                   <placeName xml:id="bruxelles">Bruxelles</placeName>
                </place>
                <place>
                   <placeName xml:id="boston">Boston</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="cochinchine">Cochinchine</placeName>
                </place>
                <place> 
                   <placeName xml:id="l_avre">l'Avre
@@ -449,6 +494,9 @@
                   <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation
                   </placeName>
                </place>
+               <place>
+                  <placeName xml:id="ecoleAgriculture">l'École d'agriculture</placeName>
+               </place>
             </listPlace>
          </settingDesc>
       </profileDesc>
@@ -462,10 +510,10 @@
                <div type="student">
                   
                   <pb type="page" n="382"/>
-                  <head> 109. — La vacherie. (Élève, p. 233) </head>
+                  <head> 109. — <seg ana="#basse-cour">La vacherie</seg>. (Élève, p. 233) </head>
          
                   <p> Tout en admirant ces superbes <seg ana="#animauxDomestiques">volailles</seg>, la petite caravane se trouva devant <seg ana="#basse-cour">la vacherie</seg>. Le bâtiment était en forme de chalet ; le long des murs blancs, deux rangées de <seg ana="#animauxDomestiques">vaches</seg> choisies, <seg ana="#animauxDomestiques">normandes</seg>, <seg ana="#animauxDomestiques">flamandes</seg>, <seg ana="#animauxDomestiques">bretonnes</seg>, <seg ana="#animauxDomestiques">hollandaises</seg>, luisantes de santé. </p>
-                  <p> Un foin frais et fleuri remplissait <seg ana="#basse-cour">les râteliers</seg>. Elles mangeaient : quelques-unes, tout en ruminant*<gloss>Ruminer. Faire revenir de l'estomac des mets avalés pour les mâcher.</gloss>, tournaient vers les visiteurs leur tête nonchalante, aux gros yeux pleins de vague songerie. </p>
+                  <p> <seg ana="#basse-cour">Un foin</seg> frais et fleuri remplissait <seg ana="#basse-cour">les râteliers</seg>. Elles mangeaient : quelques-unes, tout en ruminant*<gloss>Ruminer. Faire revenir de l'estomac des mets avalés pour les mâcher.</gloss>, tournaient vers les visiteurs leur tête nonchalante, aux gros yeux pleins de vague songerie. </p>
                   <p> Elles étaient là dans <seg ana="#sciencesPhys">l'air oxygéné</seg>*<gloss>Oxygéné. Qui contient beaucoup d'oxygène.</gloss> des <seg ana="#vegetaux">bois</seg>, soignées en princesses et donnaient <seg ana="#alimentsCuisine">un lait</seg> aussi pur, aussi délicat que pouvait l'être celui de <placeName>Trianon</placeName>*<gloss>Trianon. Petit château dans l'enceinte du parc de Versailles.</gloss> dont <persName>la reine Marie-Antoinette</persName> et les dames de sa cour, déguisées en fermières, faisaient, de leurs propres mains, leur <seg ana="#alimentsCuisine">fromage à la crème</seg> et leur <seg ana="#alimentsCuisine">beurre</seg>. </p>
                   <p> Aussi <seg ana="#alimentsCuisine">le lait</seg> du <seg ana="#scienceNat"><placeName ana="jardinAcclimatation">Jardin d'acclimatation</placeName></seg> est-il réservé aux Parisiens qui peuvent le payer un franc le litre. On le leur apporte, ou ils viennent le boire, là, dans des tasses fines. </p>
                   <p> Parmi les buveurs, nos amis reconnurent quelques jolis cavaliers de <seg ana="#animauxSauvages">l'éléphant</seg>, des <seg ana="#animauxSauvages">chameaux</seg> et des <seg ana="#animauxDomestiques">poneys. </p>
@@ -477,7 +525,7 @@
                   <pb type="page" n="383"/>   
                   <fw type="header"> LA VACHERIE. 383 </fw>
          
-                  <p> Et elle fit un tableau flamand de ces <seg ana="#basse-cour">vacheries</seg> constamment lavées du haut en bas, des épaisses litières plus vite nettoyées que salies. <!--Is this actually where the dialogue starts?--> <sp><speaker>La Flamande</speaker><ab> Le sol y est en pente, avec une rigole au bas, pour l'écoulement du purin*<gloss>Purin. Liquide qui s'écoule de la litière ou du fumier.</gloss>, et <lb/>
+                  <p> Et elle fit un tableau flamand de ces <seg ana="#basse-cour">vacheries</seg> constamment lavées du haut en bas, des épaisses litières plus vite nettoyées que salies. <!--Is this actually where the dialogue starts?--> <sp><speaker>La Flamande</speaker><ab> Le sol y est en pente, avec une rigole au bas, pour l'écoulement du <seg ana="#basse-cour">purin</seg>*<gloss>Purin. Liquide qui s'écoule de la litière ou du fumier.</gloss>, et <lb/>
                      
                      <figure>
                         <caption> Il faut les voir, le matin, sur de petites voitures, trainées par de gros <seg ana="#animauxDomestiques">chiens</seg>. </caption>
@@ -486,7 +534,7 @@
                      <figure> 
                         <caption> <hi rend="italic"><seg ana="#animauxDomestiques">Canards</seg>, <seg ana="#animauxDomestiques">oies</seg> et <seg ana="#animauxDomestiques">dindons</seg>.</hi>
                            <lb/>
-                           Ces trois <seg ana="#animaux">animaux</seg> de <seg ana="#basse-cour">basse-cour</seg> nous sont d'une grande utilité. — La chair du <seg ana="#animauxDomestiques">canard domestique</seg> (1) est de bonne qualité ; on peut la conserver en la salant ou en la faisant mariner. Avec celle des <seg ana="#animauxDomestiques">canetons</seg> on confectionne des <seg ana="#alimentsCuisine">pâtés d'<placeName ana="#amienois">Amiens</placeName></seg> et <seg ana="#alimentsCuisine">les foies</seg> servent à faire <seg ana="#alimentsCuisine">les terrines de <placeName ana="#nerac">Nérac</placeName> et de <placeName ana="#toulouse">Toulouse</placeName></seg>. — <seg ana="#animauxDomestiques">L'oie</seg> (2) est le mots de prédilection des petits ménages dans les fêtes de famille pendant l'hiver ; sa chair est délicate et sa graisse très utile pour bien des préparations culinaires. Avec <seg ana="#animauxDomestiques">la plume des oies</seg> en garnit les coussins, les oreillers et l'on fait des plumes pour écrire. — <seg ana="#animauxDomestiques">Le dindon</seg> (3) est un gros <seg ana="#animauxDomestiques">oiseau</seg> dont la chair est très estimée et préférée à celle du <seg ana="#animauxDomestiques">canard</seg> et de <seg ana="#animauxDomestiques">l'oie</seg>.
+                           Ces trois <seg ana="#animaux">animaux</seg> de <seg ana="#basse-cour">basse-cour</seg> nous sont d'une grande utilité. — La chair du <seg ana="#animauxDomestiques">canard domestique</seg> (1) est de bonne qualité ; on peut la conserver en la <seg ana="#alimentsCuisine">salant</seg> ou en la faisant <seg ana="#alimentsCuisine">mariner</seg>. Avec celle des <seg ana="#animauxDomestiques">canetons</seg> on confectionne des <seg ana="#alimentsCuisine">pâtés d'<placeName ana="#amienois">Amiens</placeName></seg> et <seg ana="#alimentsCuisine">les foies</seg> servent à faire <seg ana="#alimentsCuisine">les terrines de <placeName ana="#nerac">Nérac</placeName> et de <placeName ana="#toulouse">Toulouse</placeName></seg>. — <seg ana="#animauxDomestiques">L'oie</seg> (2) est le mots de prédilection des petits ménages dans les fêtes de famille pendant l'hiver ; sa chair est délicate et sa graisse très utile pour bien des préparations culinaires. Avec <seg ana="#animauxDomestiques">la plume des oies</seg> en garnit les coussins, les oreillers et l'on fait des plumes pour écrire. — <seg ana="#animauxDomestiques">Le dindon</seg> (3) est un gros <seg ana="#animauxDomestiques">oiseau</seg> dont la chair est très estimée et préférée à celle du <seg ana="#animauxDomestiques">canard</seg> et de <seg ana="#animauxDomestiques">l'oie</seg>.
                         </caption>
                      </figure>
                      

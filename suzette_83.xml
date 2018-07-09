@@ -56,7 +56,7 @@
             <language ident="eng">English</language>
          </langUsage>
       </profileDesc>
-          <encodingDesc>
+        <encodingDesc>
          <charDecl>
             <char>
                <charName xml:id="les_dumay">La Famille Dumay</charName>
@@ -80,6 +80,9 @@
                <charName xml:id="charlot">Charlot</charName>
             </char>
             <char>
+               <charName xml:id="mathias_dumay">Mathias Dumay</charName>
+            </char>
+            <char>
                <charName xml:id="mme_richard">Mme Richard</charName>
             </char>
             <char>
@@ -101,6 +104,9 @@
                <charName xml:id="m_valon">M. Valon</charName>
             </char>
             <char>
+               <charName xml:id="mme_lienard">Mme Liénard</charName>
+            </char>
+            <char>
                <charName xml:id="ludivine">Ludivine</charName>
             </char> 
             <char>
@@ -108,6 +114,12 @@
             </char>
             <char>
                <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="jeanne">Jeanne</charName>
+            </char>
+            <char>
+               <charName xml:id="madeleine">Madeleine</charName>
             </char>
             <char>
                <charName xml:id="l_apiculteur">L'apiculteur</charName>
@@ -403,6 +415,9 @@
                   <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
+                  <placeName xml:id="siberie">Sibérie</placeName>
+               </place>
+               <place>
                   <placeName xml:id="ilesEcosse">Îles d'Écosse</placeName>
                </place>
                <place>
@@ -412,10 +427,25 @@
                   <placeName xml:id="la_hollande">la Hollande</placeName>
                </place>
                <place>
+                  <placeName xml:id="l_inde">l'Inde</placeName>
+               </place>
+               <place>
                   <placeName xml:id="amienois">Amiénois</placeName>
                </place>
                <place>
                   <placeName xml:id="nerac">Nérac</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="lorraine">Lorraine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="villedieu">Villedieu</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="houdan">Houdan</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="saone_loire">Saône-et-Loire</placeName>
                </place>
                <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
@@ -424,16 +454,31 @@
                   <placeName xml:id="paris">Paris</placeName>
                </place>
                <place>
+                  <placeName xml:id="saint-quentin">Saint-Quentin</placeName>
+               </place>
+               <place>
                   <placeName xml:id="toulouse">Toulouse</placeName>
                </place>
                <place>
                   <placeName xml:id="boulogne">Boulogne</placeName>
                </place>
                <place>
+                  <placeName xml:id="beauvais">Beauvais</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="falaise">Falaise</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="creuset">Creuset</placeName>
+               </place>
+               <place>
                   <placeName xml:id="bruxelles">Bruxelles</placeName>
                </place>
                <place>
                   <placeName xml:id="boston">Boston</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="cochinchine">Cochinchine</placeName>
                </place>
                <place> 
                   <placeName xml:id="l_avre">l'Avre
@@ -448,6 +493,9 @@
                <place>
                   <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation
                   </placeName>
+               </place>
+               <place>
+                  <placeName xml:id="ecoleAgriculture">l'École d'agriculture</placeName>
                </place>
             </listPlace>
          </settingDesc>
@@ -469,9 +517,9 @@
                   <p> C'étaient <seg ana="#machinesAppareils">les couteaux</seg>, <seg ana="#machinesAppareils">les marteaux</seg>, <seg ana="#machinesAppareils">les scies</seg>, <seg ana="#machinesAppareils">les pilons</seg> <time>de nos jours</time> ; voilà ce qu'était devenu <seg ana="#machinesAppareils">le pauvre outillage</seg> <seg ana="#industrie"><time>des âges de <seg ana="#mineraux">pierre</seg>, de <seg ana="#mineraux">bronze</seg> et de <seg ana="#mineraux">fer</seg></time></seg> ! Salut au génie et au <!--<seg ana="#industrie">labeur humains</seg>--> ! à l'effort des générations*<gloss>Génération. L'ensemble de tous les hommes du même âge.</gloss> qui, continué à travers tant <time>de siècles</time> de misère, de sang, de forte et douloureuse patience, avait enfin <seg ana="#industrie">produit</seg> ces <seg ana="#machinesAppareils">outils magnifiques de puissance et de précision</seg> ! </p>
     
                   <figure> 
-                     <caption> Les <hi rend="italic">La grande industrie.</hi>
+                     <caption> <hi rend="italic"><seg ana="#industrie">La grande industrie</seg>.</hi>
                         <lb/>
-                        1. Les marteaux-pilons dont on se sert dans la métallurgie sont mus par la vapeur. Le pilon ou mouton pèse un poids considérable ; celui de l'usine du Creuset (Saône-et-Loire) dépasse 80,000 kilogr. — 2. Ouvrier peignant la laine.
+                        1. <seg ana="#machinesAppareils">Les marteaux-pilons</seg> dont on se sert dans <seg ana="#machinesAppareils">la métallurgie</seg> sont mus par <seg ana="#sciencesPhys">la vapeur</seg>. <seg ana="#machinesAppareils">Le pilon</seg> ou <seg ana="#machinesAppareils">mouton</seg> pèse un poids considérable ; celui de <seg ana="#constructions"><!--<placeName>-->l'usine du <placeName ana="#creuset">Creuset</placeName><!--</placeName>--></seg> (<placeName ana="#saone_loire">Saône-et-Loire</placeName>) dépasse 80,000 kilogr. — 2. <seg ana="#industrie">Ouvrier</seg> peignant <seg ana="#materiaux">la laine</seg>.
                      </caption>
                   </figure>
     
@@ -481,13 +529,13 @@
                      <fw type="header"> TRIOMPHE DU TRAVAIL. 287 </fw>
          
                   des <seg ana="#homme">mâchoires humaines</seg> faisaient <time>jadis</time> ce travail, que <seg ana="#industrie">des ouvriers</seg> s'employaient à passer <seg ana="#etoffesHabillement">la laine</seg> entre leurs <seg ana="#homme">dents</seg> pour <seg ana="#etoffesHabillement">ôter les nœuds</seg>, ci <seg ana="#maladiesRemedes">s'empoisonnaient</seg> ainsi de <seg ana="#maladiesRemedes">poussière morbide</seg>*<gloss>Morbide. Qui cause des maladies.</gloss> ? </ab></sp>
-                  <p> Cette <seg ana="#machinesAppareils">machine</seg>, à côté, est destinée à <seg ana="#constructions">un moulin</seg> ; <seg ana="#machinesAppareils">le montage</seg> <seg ana="#scienceNat">des sacs de <seg ana="#cereales">blé</seg></seg>, <seg ana="#machinesAppareils">la mouture</seg>, <seg ana="#machinesAppareils">le blutage</seg>*<gloss>Blutage. Opération ayant pour objet de séparer la farine du son.</gloss>, <seg ana="#machinesAppareils">l'ensachement</seg>, tout s'y fera <seg ana="#industrie">mécaniquement</seg>. Et qui,<!-- <!-\-<time>jadis</time>, <time>avant cette <seg ana="#machinesAppareils">invention</seg></time>-->, et celle <seg ana="constructions">des moulins à <seg ana="#minereaux">eau</seg> et à <seg ana="sciencesPhys">vent</seg></seg>, était chargé de toute cette besogne ? — les femmes, avec leurs pauvres bras. On peut les voir encore à ce travail sous les tentes de <placeName ana="#l_arabe">l'Arabe</placeName>. </p> <!--Is this paragraph actually still Louis speaking?-->
+                  <p> Cette <seg ana="#machinesAppareils">machine</seg>, à côté, est destinée à <seg ana="#constructions">un moulin</seg> ; <seg ana="#machinesAppareils">le montage</seg> <seg ana="#scienceNat">des sacs de <seg ana="#cereales">blé</seg></seg>, <seg ana="#machinesAppareils">la mouture</seg>, <seg ana="#machinesAppareils">le blutage</seg>*<gloss>Blutage. Opération ayant pour objet de séparer la farine du son.</gloss>, <seg ana="#machinesAppareils">l'ensachement</seg>, tout s'y fera <seg ana="#industrie">mécaniquement</seg>. <place type="space" n="f">Et qui,<!-- <!--<time>jadis</time>, <time>avant cette <seg ana="#machinesAppareils">invention</seg></time>-->, et celle <seg ana="constructions">des moulins à <seg ana="#minereaux">eau</seg> et à <seg ana="sciencesPhys">vent</seg></seg>, était chargé de toute cette besogne ? — les femmes, avec leurs pauvres bras. On peut les voir encore à ce travail sous les tentes de <placeName ana="#l_arabe">l'Arabe</placeName></place>. </p> <!--Is this paragraph actually still Louis speaking?-->
                   <sp><speaker>Pascal</speaker><ab> — Parbleu ! </ab></sp> <stage> s'écria <persName ana="pascal">Pascal</persName> en regardant <persName ana="#suzette">Suzette</persName>, </stage> <sp><speaker>Pascal</speaker><ab> je vous l'avais bien dit. </ab></sp>
                   
                   <figure> 
-                     <caption> Les <hi rend="italic">Le moulin à vent.</hi>
+                     <caption> <hi rend="italic"><seg ana="constructions">Le moulin à <seg ana="sciencesPhys">vent</seg></seg>.</hi>
                         <lb/>
-                        Quand le vent souffle, les ailes du moulin, sur lesquelles on a étendu de fortes toiles, tournent avec lenteur, impriment le mouvement aux engrenages et, par suite, aux meules et aux autres parties du mécanisme.
+                        Quand <seg ana="sciencesPhys">le vent</seg> souffle, <seg ana="constructions">les ailes du moulin</seg>, sur lesquelles on a étendu de fortes toiles, tournent avec lenteur, impriment le mouvement aux <seg ana="constructions">engrenages</seg> et, par suite, aux <seg ana="constructions">meules</seg> et aux autres parties du <seg ana="#machinesAppareils">mécanisme</seg>.
                      </caption>
                   </figure>
                   
@@ -495,9 +543,9 @@
                   <p> On était maintenant devant <seg ana="#machinesAppareils">une machine à <seg ana="#sciencesPhys">vapeur</seg></seg>, gros <seg ana="#machinesAppareils">corps</seg> aux <seg ana="#machinesAppareils">membres</seg> d'<seg ana="#matieresObjets">acier</seg> poli et de <seg ana="#mineraux">cuivre</seg> brillant comme de <seg ana="mineraux">l’or</seg>. <!--Is the last sentence Louis speaking?--> <persName ana="louis">Louis</persName> s'arrêta. Il la connaissait ; il en avait mené l'exécution : </p>
                   
                   <figure> 
-                     <caption> Les <hi rend="italic">Femme arabe blutant le blé.</hi>
+                     <caption> <hi rend="italic"><!--<persName>Femme arabe</persName>--> blutant <seg ana="#cereales">le blé</seg>.</hi>
                         <lb/>
-                        L'opération du blutage consiste à séparer, au moyen d'un tamis, la farine du son.
+                        <seg ana="#scienceNat">L'opération du blutage</seg> consiste à séparer, au moyen d'<seg ana="#outils">un tamis</seg>, <seg ana="#alimentsCuisine">la farine</seg> du <seg ana="#cereales">son</seg>.
                      </caption>
                   </figure>
                   

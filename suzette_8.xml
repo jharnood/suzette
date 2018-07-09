@@ -56,7 +56,7 @@
             <language ident="eng">English</language>
          </langUsage>
       </profileDesc>
-         <encodingDesc>
+        <encodingDesc>
          <charDecl>
             <char>
                <charName xml:id="les_dumay">La Famille Dumay</charName>
@@ -80,6 +80,9 @@
                <charName xml:id="charlot">Charlot</charName>
             </char>
             <char>
+               <charName xml:id="mathias_dumay">Mathias Dumay</charName>
+            </char>
+            <char>
                <charName xml:id="mme_richard">Mme Richard</charName>
             </char>
             <char>
@@ -101,6 +104,9 @@
                <charName xml:id="m_valon">M. Valon</charName>
             </char>
             <char>
+               <charName xml:id="mme_lienard">Mme Liénard</charName>
+            </char>
+            <char>
                <charName xml:id="ludivine">Ludivine</charName>
             </char> 
             <char>
@@ -108,6 +114,12 @@
             </char>
             <char>
                <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="jeanne">Jeanne</charName>
+            </char>
+            <char>
+               <charName xml:id="madeleine">Madeleine</charName>
             </char>
             <char>
                <charName xml:id="l_apiculteur">L'apiculteur</charName>
@@ -403,6 +415,9 @@
                   <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
+                  <placeName xml:id="siberie">Sibérie</placeName>
+               </place>
+               <place>
                   <placeName xml:id="ilesEcosse">Îles d'Écosse</placeName>
                </place>
                <place>
@@ -412,10 +427,25 @@
                   <placeName xml:id="la_hollande">la Hollande</placeName>
                </place>
                <place>
+                  <placeName xml:id="l_inde">l'Inde</placeName>
+               </place>
+               <place>
                   <placeName xml:id="amienois">Amiénois</placeName>
                </place>
                <place>
                   <placeName xml:id="nerac">Nérac</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="lorraine">Lorraine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="villedieu">Villedieu</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="houdan">Houdan</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="saone_loire">Saône-et-Loire</placeName>
                </place>
                <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
@@ -424,16 +454,31 @@
                   <placeName xml:id="paris">Paris</placeName>
                </place>
                <place>
+                  <placeName xml:id="saint-quentin">Saint-Quentin</placeName>
+               </place>
+               <place>
                   <placeName xml:id="toulouse">Toulouse</placeName>
                </place>
                <place>
                   <placeName xml:id="boulogne">Boulogne</placeName>
                </place>
                <place>
+                  <placeName xml:id="beauvais">Beauvais</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="falaise">Falaise</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="creuset">Creuset</placeName>
+               </place>
+               <place>
                   <placeName xml:id="bruxelles">Bruxelles</placeName>
                </place>
                <place>
                   <placeName xml:id="boston">Boston</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="cochinchine">Cochinchine</placeName>
                </place>
                <place> 
                   <placeName xml:id="l_avre">l'Avre
@@ -448,6 +493,9 @@
                <place>
                   <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation
                   </placeName>
+               </place>
+               <place>
+                  <placeName xml:id="ecoleAgriculture">l'École d'agriculture</placeName>
                </place>
             </listPlace>
          </settingDesc>
@@ -464,7 +512,7 @@
                   <pb type="page" n="26"/>
                   <head> 8. — Tenons bon ! (Élève, p. 20.) </head>
                   
-                  <p> Un joli papillon, fleur ailée, vient voltiger devant la fenêtre ; sur les arbres voisins, les oiseaux se répondent ; au-dessous, les voix des fillettes en font autant : </p>
+                  <p> Un joli papillon, fleur ailée, vient voltiger devant la fenêtre ; sur les arbres voisins, les oiseaux se répondent ; au-dessous, les voix <persName>des fillettes</persName> en font autant : </p>
                   
                   <figure>
                      <caption> <hi rend="italic"> Le papillon. </hi> </caption>
@@ -477,38 +525,38 @@
                      </lg></sp>
                   
                   <p> Que cette chanson est autrement gentille et gaie que celle du ragoût*<gloss> Ragoût. Mets assaisonné, composé de légumes et de viande découpée. </gloss> clapotant*<gloss> Clapoter. Un liquide clapote quand il fait du bruit par suite d'une légère agitation. </gloss> là sur le poêle ! </p>
-                  <p> M. et Mme Valon passent avec leurs bébés et s'arrêtent : </p>
+                  <p> <persName ana="#m_valon">M. et <persName ana="#mme_valon">Mme Valon</persName></persName> passent avec <persName>leurs bébés</persName> et s'arrêtent : </p>
                   
-                  <sp><speaker>Mme Valon</speaker><ab> — Eh ! Suzette, ton ragoût brûle ! vite de l'eau !... </ab></sp>
-                  <sp><speaker>Suzette</speaker><ab> — Madame, aujourd'hui, je ne sais pas ce que je fais ! </ab></sp>
-                  <sp><speaker>Mme Valon</speaker><ab> — Ma chère enfant, il faut toujours savoir ce qu'on fait. Tenons bon ! </ab></sp>
+                  <sp><speaker>Mme Valon</speaker><ab> — Eh ! <persName ana="#suzette">Suzette</persName>, ton ragoût brûle ! vite de l'eau !... </ab></sp>
+                  <sp><speaker>Suzette</speaker><ab> — <persName ana="#mme_valon">Madame</persName>, aujourd'hui, je ne sais pas ce que je fais ! </ab></sp>
+                  <sp><speaker>Mme Valon</speaker><ab> — <persName ana="#suzette">Ma chère enfant</persName>, il faut toujours savoir ce qu'on fait. Tenons bon ! </ab></sp>
                   
                   <pb type="page" n="27"/>
                   <fw type="header"> TENONS BON ! 27 </fw>
                   
-                  <p> Suzette est désolée, car elle connaît déjà l'importance de la cuisine qui donne les bonnes ou les mauvaises digestions, le plaisir ou le dégoût de la table. Gâter un morceau de viande, un légume frais, les transformer en charbon ou même manquer de leur faire rendre toute leur qualité nutritive, toute leur saveur*<gloss> Saveur. Qualité qu'on apprécie par le goût. </gloss>, ce sont là de grosses fautes. Elle a heureusement du nez, du </p>
+                  <p> <persName ana="#suzette">Suzette</persName> est désolée, car elle connaît déjà l'importance de la cuisine qui donne les bonnes ou les mauvaises digestions, le plaisir ou le dégoût de la table. Gâter un morceau de viande, un légume frais, les transformer en charbon ou même manquer de leur faire rendre toute leur qualité nutritive, toute leur saveur*<gloss> Saveur. Qualité qu'on apprécie par le goût. </gloss>, ce sont là de grosses fautes. Elle a heureusement du nez, du </p>
                   
                   <figure>
                      <caption> Elle le transvase, le rafraîchit de quelques aromates nouveaux : il sera presque mangeable. </caption>
                   </figure>
                   
-                  <p> palais ; c'est avec cela et de l'attention que se fait la bonne soupe, et le reste. Mme Liénard, la mère de Mme Valon, qui s'y entend, conseille Suzette. </p>
-                  <p> On sait donc ici le moyen de sauver à peu près le ragoût brûlé. Sous les yeux de Mme Valon, elle le transvase, le rafraîchit de quelques aromates*<gloss> Aromate. Substance à odeur forte dont on parfume les mets. </gloss> nouveaux : il sera presque mangeable. </p>
+                  <p> palais ; c'est avec cela et de l'attention que se fait la bonne soupe, et le reste. <persName ana="#mme_lienard">Mme Liénard</persName>, <persName ana="#mme_lienard">la mère de <persName ana="#mme_valon">Mme Valon</persName></persName>, qui s'y entend, conseille <persName ana="#suzette">Suzette</persName>. </p>
+                  <p> On sait donc ici le moyen de sauver à peu près le ragoût brûlé. Sous les yeux de <persName ana="#mme_valon">Mme Valon</persName>, elle le transvase, le rafraîchit de quelques aromates*<gloss> Aromate. Substance à odeur forte dont on parfume les mets. </gloss> nouveaux : il sera presque mangeable. </p>
                   <p> Pourtant elle se sent le cœur gros. Et il faut la consoler : </p>
-                  <sp><speaker>Mme Valon</speaker><ab> — Courage, ma mignonne ! Tenons bon ! </ab></sp>
+                  <sp><speaker>Mme Valon</speaker><ab> — Courage, <persName ana="#suzette">ma mignonne</persName> ! Tenons bon ! </ab></sp>
                   <!--Does Mme Valon or Mme Liénard say this?-->
                   
                   <pb type="page" n="28"/>
                   <fw type="header"> 28 SUZETTE. </fw>
                   
-                  <p> Mais il y a aussi des jours heureux, et ils sont de plus en plus nombreux, à mesure que le temps s'écoule et que Suzette grandit en taille et en bon vouloir. </p>
+                  <p> Mais il y a aussi des jours heureux, et ils sont de plus en plus nombreux, à mesure que le temps s'écoule et que <persName ana="#suzette">Suzette</persName> grandit en taille et en bon vouloir. </p>
                   
                   <figure>
-                     <caption> Les aromates les plus employés en cuisine sont : 1° le thym, plante odoriférante ; 2° le clou de girofle, bouton à fleur du giroflier ; 3° la feuille du laurier ; 4° la noix de muscade, fruit du muscadier, plante qui croît dans l'Inde. </caption>
+                     <caption> Les aromates les plus employés en cuisine sont : 1° le thym, plante odoriférante ; 2° le clou de girofle, bouton à fleur du giroflier ; 3° la feuille du laurier ; 4° la noix de muscade, fruit du muscadier, plante qui croît dans <placeName ana="#l_inde">l'Inde</placeName>. </caption>
                   </figure>
                   
-                  <p> Par l'habitude, le ménage, si long au début, est troussé maintenant en quelques tours de main ; et la marmite, qui obéit au doigt et à l'œil, jette de bonnes senteurs réconfortantes*<gloss> Réconfortant. Qui fortifie. </gloss>. Suzette n'a pas abandonné le devoir. Elle a à cœur de continuer le beau, le noble rôle de sa maman et de la femme de la caverne : l'embellissement et la joie du foyer. </p>
-                  <p> Et, à cette heure, la maison est toute gaie de propreté et de fraîcheur ; aux repas, la famille se régale de mieux en mieux ; le père, rasséréné*<gloss> Rasséréné. Qui n'a plus ni crainte ni chagrin. </gloss>, sourit à la petite ménagère, qui même, aujourd'hui, trouve encore le temps de jouer. </p>
+                  <p> Par l'habitude, le ménage, si long au début, est troussé maintenant en quelques tours de main ; et la marmite, qui obéit au doigt et à l'œil, jette de bonnes senteurs réconfortantes*<gloss> Réconfortant. Qui fortifie. </gloss>. <persName ana="#suzette">Suzette</persName> n'a pas abandonné le devoir. Elle a à cœur de continuer le beau, le noble rôle de <persName ana="#la_maman">sa maman</persName> et de la femme de la caverne : l'embellissement et la joie du foyer. </p>
+                  <p> Et, à cette heure, la maison est toute gaie de propreté et de fraîcheur ; aux repas, <persName ana="#les_dumay">la famille</persName> se régale de mieux en mieux ; <persName ana="#papa">le père</persName>, rasséréné*<gloss> Rasséréné. Qui n'a plus ni crainte ni chagrin. </gloss>, sourit à <persName ana="#suzette">la petite ménagère</persName>, qui même, aujourd'hui, trouve encore le temps de jouer. </p>
                   
                   <div type="questionnaire">
                      <ab>

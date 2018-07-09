@@ -56,7 +56,7 @@
             <language ident="eng">English</language>
          </langUsage>
       </profileDesc>
-       <encodingDesc>
+<encodingDesc>
          <charDecl>
             <char>
                <charName xml:id="les_dumay">La Famille Dumay</charName>
@@ -80,6 +80,9 @@
                <charName xml:id="charlot">Charlot</charName>
             </char>
             <char>
+               <charName xml:id="mathias_dumay">Mathias Dumay</charName>
+            </char>
+            <char>
                <charName xml:id="mme_richard">Mme Richard</charName>
             </char>
             <char>
@@ -101,6 +104,9 @@
                <charName xml:id="m_valon">M. Valon</charName>
             </char>
             <char>
+               <charName xml:id="mme_lienard">Mme Liénard</charName>
+            </char>
+            <char>
                <charName xml:id="ludivine">Ludivine</charName>
             </char> 
             <char>
@@ -108,6 +114,12 @@
             </char>
             <char>
                <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="jeanne">Jeanne</charName>
+            </char>
+            <char>
+               <charName xml:id="madeleine">Madeleine</charName>
             </char>
             <char>
                <charName xml:id="l_apiculteur">L'apiculteur</charName>
@@ -403,6 +415,9 @@
                   <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
+                  <placeName xml:id="siberie">Sibérie</placeName>
+               </place>
+               <place>
                   <placeName xml:id="ilesEcosse">Îles d'Écosse</placeName>
                </place>
                <place>
@@ -412,10 +427,25 @@
                   <placeName xml:id="la_hollande">la Hollande</placeName>
                </place>
                <place>
+                  <placeName xml:id="l_inde">l'Inde</placeName>
+               </place>
+               <place>
                   <placeName xml:id="amienois">Amiénois</placeName>
                </place>
                <place>
                   <placeName xml:id="nerac">Nérac</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="lorraine">Lorraine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="villedieu">Villedieu</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="houdan">Houdan</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="saone_loire">Saône-et-Loire</placeName>
                </place>
                <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
@@ -424,16 +454,31 @@
                   <placeName xml:id="paris">Paris</placeName>
                </place>
                <place>
+                  <placeName xml:id="saint-quentin">Saint-Quentin</placeName>
+               </place>
+               <place>
                   <placeName xml:id="toulouse">Toulouse</placeName>
                </place>
                <place>
                   <placeName xml:id="boulogne">Boulogne</placeName>
                </place>
                <place>
+                  <placeName xml:id="beauvais">Beauvais</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="falaise">Falaise</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="creuset">Creuset</placeName>
+               </place>
+               <place>
                   <placeName xml:id="bruxelles">Bruxelles</placeName>
                </place>
                <place>
                   <placeName xml:id="boston">Boston</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="cochinchine">Cochinchine</placeName>
                </place>
                <place> 
                   <placeName xml:id="l_avre">l'Avre
@@ -449,6 +494,9 @@
                   <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation
                   </placeName>
                </place>
+               <place>
+                  <placeName xml:id="ecoleAgriculture">l'École d'agriculture</placeName>
+               </place>
             </listPlace>
          </settingDesc>
       </profileDesc>
@@ -462,12 +510,12 @@
                <div type="student">
                   
                   <pb type="page" n="11"/>
-                  <head> 4. — La femme de la caverne*<gloss> Caverne. Lieu en creux dans des rochers ou sur le flanc et l'intérieur d'une colline.</gloss>. (Élève, p. 10.) </head>
+                  <head> 4. — <persName>La femme de la caverne</persName>*<gloss> Caverne. Lieu en creux dans des rochers ou sur le flanc et l'intérieur d'une colline.</gloss>. (Élève, p. 10.) </head>
                   
-                  <p> Le soleil frappait en plein dans les vitres ; les grands stores*<gloss>Store. Espèce de rideau qui se lève ou se baisse à l'aide d'un ressort.</gloss> de calicot blanc étaient baissés devant les trois fenêtres ouvertes, par où pénétrait le bon air matinal, tout chargé des brises champêtres. La lumière ainsi tamisée*<gloss>Tamisé. Dans ce sens : qui a été adouci, rendu moins vif.</gloss> jetait un blanc et joli reflet*<gloss>Reflet. Rayons lumineux renvoyés par une surface polie.</gloss> sur toutes les petites têtes assemblées le long des tables de l'école. </p>
+                  <p> Le soleil frappait en plein dans les vitres ; les grands stores*<gloss>Store. Espèce de rideau qui se lève ou se baisse à l'aide d'un ressort.</gloss> de calicot blanc étaient baissés devant les trois fenêtres ouvertes, par où pénétrait le bon air matinal, tout chargé des brises champêtres. La lumière ainsi tamisée*<gloss>Tamisé. Dans ce sens : qui a été adouci, rendu moins vif.</gloss> jetait un blanc et joli reflet*<gloss>Reflet. Rayons lumineux renvoyés par une surface polie.</gloss> sur toutes <name type="space" n="f">les petites têtes assemblées le long des tables de l'école</name>. </p>
                   
                   <figure>
-                     <caption> La salle de classe de Mme Valon. </caption>
+                     <caption> <name type="space" n="f">La salle de classe de <persName ana="#mme_valon">Mme Valon</persName></name>. </caption>
                   </figure> 
                   
                   <p> Les leçons récitées, les devoirs corrigés, une quantité de paires d'yeux de
@@ -475,8 +523,8 @@
                      <pb type="page" n="12"/>
                      <fw type="header"> 12 SUZETTE. </fw>
                      
-                     toutes couleurs regardaient Mme Valon en train de feuilleter un livre. </p>
-                  <p> Mme Valon était l'institutrice nouvelle de Fragicourt, arrivée depuis un mois à peine avec son mari, le maître de l'école des garçons. Elle leva son visage encore jeune, promena autour de la classe un regard gravement souriant et commença la lecture attendue : </p>
+                     toutes couleurs regardaient <persName ana="#mme_valon">Mme Valon</persName> en train de feuilleter un livre. </p>
+                  <p> <persName ana="#mme_valon">Mme Valon</persName> était <persName ana="#mme_valon">l'institutrice nouvelle de <placeName ana="#fragicourt">Fragicourt</placeName></persName>, arrivée depuis un mois à peine avec <persName ana="#m_valon">son mari</persName>, <persName ana="#m_valon">le maître de <name type="space" n="m">l'école des garçons</name></persName>. Elle leva son visage encore jeune, promena autour de la classe un regard gravement souriant et commença la lecture attendue : </p>
                   
                   <quote type="lesson">
                      <title> LA FAMILLE AUX TEMPS PRÉHISTORIQUES. </title>
@@ -485,24 +533,24 @@
                      
                      <figure>
                         <caption> <hi rend="italic"> Loup. </hi><lb/> 
-                           Ce quadrupède est carnassier et d'une très grande force ; il habite nos régions et on le rencontre fréquemment en France. </caption>
+                           Ce quadrupède est carnassier et d'une très grande force ; il habite nos régions et on le rencontre fréquemment en <placeName ana="#la_france">France</placeName>. </caption>
                      </figure> 
                      
                      <p> Au profond de la forêt s'entendaient des clameurs sinistres, les terribles voix du loup, du chacal, du lynx, du grand ours des cavernes. Çà et là un roucoulement de tourterelle, un pépiement*<gloss> Pépiement. Petit cri joyeux et répété, poussé par certains oiseaux. </gloss> de passereau rompaient, comme un murmure d'espérance, la sombre désolation de ces lieux. </p>
                      
                      <figure>
                         <caption> <hi rend="italic"> Lynx. </hi><lb/> 
-                           Ce quadrupède, également carnassier, est du genre chat ; on le trouve principalement en Sibérie et au Canada. </caption>
+                           Ce quadrupède, également carnassier, est du genre chat ; on le trouve principalement en <placeName ana="#siberie">Sibérie</placeName> et au <placeName ana="#la_canada">Canada</placeName>. </caption>
                      </figure> 
                      
                      <p> Tout à coup, dans le sentier à peine frayé, les branches sèches craquèrent. </p>
-                     <p> Vêtu de peaux de bêtes, les cheveux et la barbe incultes et longs, le corps ployé sous le poids d'une biche morte, sa main musculeuse appuyée sur un épieu*<gloss> Epieu. Gros bâton à bout pointu et durci. </gloss>, un homme s'avançait 
+                     <p> Vêtu de peaux de bêtes, les cheveux et la barbe incultes et longs, le corps ployé sous le poids d'une biche morte, sa main musculeuse appuyée sur un épieu*<gloss> Epieu. Gros bâton à bout pointu et durci. </gloss>, <persName>un homme</persName> s'avançait 
                         
                         <pb type="page" n="13"/>
                         <fw type="header"> LA FEMME DE LA CAVERNE. 13 </fw>
                         
-                        avec précaution, l'œil, l'oreille au guet. Il s'arrêta ; de ses lèvres sortit un sifflement strident. Presque aussitôt le rideau de broussailles s'entrouvrit : une autre créature humaine, vêtue de peaux de bêtes comme la première, apparut. Elle tenait dans ses bras un petit enfant. Il était frais, blond, enveloppé d'une peau d'agneau et portait sur la tête une couronne faite de baies*<gloss> Baies. Fruits mous et charnus de certains arbustes. </gloss> de sorbiers, de feuillage et de fleurs. Avec un regard de triomphe, la mère l’éleva dans ses bras. </p>
-                     <p> Alors le farouche visage du chasseur s'éclaira, s'adoucit ; sous ses sourcils épais, ses yeux sourirent à l'enfant si bien paré ; il caressa la petite tête fleurie. </p>
+                        avec précaution, l'œil, l'oreille au guet. Il s'arrêta ; de ses lèvres sortit un sifflement strident. Presque aussitôt le rideau de broussailles s'entrouvrit : <persName>une autre créature humaine</persName>, vêtue de peaux de bêtes comme la première, apparut. Elle tenait dans ses bras <persName>un petit enfant</persName>. Il était frais, blond, enveloppé d'une peau d'agneau et portait sur la tête une couronne faite de baies*<gloss> Baies. Fruits mous et charnus de certains arbustes. </gloss> de sorbiers, de feuillage et de fleurs. Avec un regard de triomphe, <persName>la mère</persName> l’éleva dans ses bras. </p>
+                     <p> Alors le farouche visage du <persName>chasseur</persName> s'éclaira, s'adoucit ; sous ses sourcils épais, ses yeux sourirent à <persName>l'enfant</persName> si bien paré ; il caressa la petite tête fleurie. </p>
                      
                      <figure>
                         <caption> <hi rend="italic"> Chacal. </hi><lb/> 
@@ -510,11 +558,11 @@
                         </caption>
                      </figure> 
                      
-                     <p> Puis la famille disparut derrière le rempart de lianes et s'enfonça dans la caverne qui lui servait de demeure. </p>
+                     <p> Puis <persName>la famille</persName> disparut derrière le rempart de lianes et s'enfonça dans la caverne qui lui servait de demeure. </p>
                      <p> C'était une sombre habitation, aux parois de roc inégalement superposées, et faiblement éclairée par un brandon enflammé de sapin résineux. </p>
-                     <p> L'homme, après avoir laissé tomber le gibier de sa chasse, alla s'asseoir sur une pierre dans un coin et regarda autour de lui avec surprise. Des feuillages, des branches d'églantier en fleurs ornaient le roc ; l'aire*<gloss> Aire. Espace non pavé entre les murs d'une maison.</gloss>, débarrassée des débris de la veille, était jonchée de mousse et d'odorantes herbes. </p>
-                     <p> Puis ses yeux regardèrent à ses pieds, où la mère, sur une peau de renard, qu'elle venait d'étendre, déposa le petit enfant, en lui donnant pour jouets des glands de chêne et des cailloux polis. Comme tout à l'heure, le père sourit, mais cette fois son sourire s'adressait à la femme. </p>
-                     <p> Car c'était la femme qui venait de créer la première délicatesse du nid familial, pour adoucir l'homme et le charmer, pendant qu'au dehors hurlaient les loups et les autres ennemis. </p>
+                     <p> <persName>L'homme</persName>, après avoir laissé tomber le gibier de sa chasse, alla s'asseoir sur une pierre dans un coin et regarda autour de lui avec surprise. Des feuillages, des branches d'églantier en fleurs ornaient le roc ; l'aire*<gloss> Aire. Espace non pavé entre les murs d'une maison.</gloss>, débarrassée des débris de la veille, était jonchée de mousse et d'odorantes herbes. </p>
+                     <p> Puis ses yeux regardèrent à ses pieds, où <persName>la mère</persName>, sur une peau de renard, qu'elle venait d'étendre, déposa <persName>le petit enfant</persName>, en lui donnant pour jouets des glands de chêne et des cailloux polis. Comme tout à l'heure, <persName>le père</persName> sourit, mais cette fois son sourire s'adressait à <persName>la femme</persName>. </p>
+                     <p> Car c'était <persName>la femme</persName> qui venait de créer la première délicatesse du nid familial, pour adoucir l'homme et le charmer, pendant qu'au dehors hurlaient les loups et les autres ennemis. </p>
                   </quote>
                   
                   <pb type="page" n="14"/>
@@ -541,7 +589,7 @@
                         <ab type="answer"> Outre les innombrables étoiles qui brillent au ciel, deux grands astres nous éclairent : le soleil qui produit le jour, la lune qui diminue l'obscurité des nuits. <seg corresp="#france">Le soleil</seg> est une étoile énorme située à 150 millions de kilomètres de la terre ; son diamètre dépasse 1,430,000 kilomètres et son volume est égal à quatorze cent mille fois celui de notre globe. Il tourne sur lui-même en 25 jours et demi, et s'avance dans les espaces célestes vers un centre inconnu avec une vitesse de 250 millions de kilomètres par an. Le soleil forme une masse enflammée qui donne à la terre la lumière et la chaleur. <lb/>
                            La lumière du soleil vient de cet astre lui-même ; celle de la lune n'en est que le reflet ; elle est 800,000 fois plus faible. <lb/>
                            <term>La terre</term>, qui mesure 40,000 kilomètres de circonférence et qui est 49 fois plus grosse que la lune, tourne autour du soleil dans l'espace d'une année, soit 365 jours ; la lune, de son côté, tourne autour de la terre en 29 jours et demi. <lb/>
-                           <seg corresp="#france">La lune</> nous apparaît sous des formes différentes ou <term type="lune">phases</term>, selon la position qu'elle occupe par rapport au soleil et à la terre. D'abord c'est un croissant lumineux ; puis brille dans le ciel le quart de l'astre ; on dit alors qu'on est au <term type="lune">premier quartier</term>. Sept jours après, on aperçoit la face tout entière de la lune ; c'est la <term type="lune">pleine lune</term>. Après le même intervalle, on n'en voit plus que le quart ou le <term type="lune">dernier quartier</term> ; enfin, l'astre cesse d'être visible ; il y a alors <term type="lune">nouvelle lune</term>. <lb/>
+                           <seg corresp="#france">La lune</seg> nous apparaît sous des formes différentes ou <term type="lune">phases</term>, selon la position qu'elle occupe par rapport au soleil et à la terre. D'abord c'est un croissant lumineux ; puis brille dans le ciel le quart de l'astre ; on dit alors qu'on est au <term type="lune">premier quartier</term>. Sept jours après, on aperçoit la face tout entière de la lune ; c'est la <term type="lune">pleine lune</term>. Après le même intervalle, on n'en voit plus que le quart ou le <term type="lune">dernier quartier</term> ; enfin, l'astre cesse d'être visible ; il y a alors <term type="lune">nouvelle lune</term>. <lb/>
                            Sur la surface de la lune on distingue, à l'aide de fortes lunettes, de très hautes montagnes, des cratères de volcans éteints, des plaines immenses qui paraissent avoir été le lit d'anciennes mers. </ab>
                      </div>
                      

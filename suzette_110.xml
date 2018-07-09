@@ -56,7 +56,7 @@
             <language ident="eng">English</language>
          </langUsage>
       </profileDesc>
-          <encodingDesc>
+         <encodingDesc>
          <charDecl>
             <char>
                <charName xml:id="les_dumay">La Famille Dumay</charName>
@@ -80,6 +80,9 @@
                <charName xml:id="charlot">Charlot</charName>
             </char>
             <char>
+               <charName xml:id="mathias_dumay">Mathias Dumay</charName>
+            </char>
+            <char>
                <charName xml:id="mme_richard">Mme Richard</charName>
             </char>
             <char>
@@ -101,6 +104,9 @@
                <charName xml:id="m_valon">M. Valon</charName>
             </char>
             <char>
+               <charName xml:id="mme_lienard">Mme Liénard</charName>
+            </char>
+            <char>
                <charName xml:id="ludivine">Ludivine</charName>
             </char> 
             <char>
@@ -108,6 +114,12 @@
             </char>
             <char>
                <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="jeanne">Jeanne</charName>
+            </char>
+            <char>
+               <charName xml:id="madeleine">Madeleine</charName>
             </char>
             <char>
                <charName xml:id="l_apiculteur">L'apiculteur</charName>
@@ -403,6 +415,9 @@
                   <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
+                  <placeName xml:id="siberie">Sibérie</placeName>
+               </place>
+               <place>
                   <placeName xml:id="ilesEcosse">Îles d'Écosse</placeName>
                </place>
                <place>
@@ -412,10 +427,25 @@
                   <placeName xml:id="la_hollande">la Hollande</placeName>
                </place>
                <place>
+                  <placeName xml:id="l_inde">l'Inde</placeName>
+               </place>
+               <place>
                   <placeName xml:id="amienois">Amiénois</placeName>
                </place>
                <place>
                   <placeName xml:id="nerac">Nérac</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="lorraine">Lorraine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="villedieu">Villedieu</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="houdan">Houdan</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="saone_loire">Saône-et-Loire</placeName>
                </place>
                <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
@@ -424,16 +454,31 @@
                   <placeName xml:id="paris">Paris</placeName>
                </place>
                <place>
+                  <placeName xml:id="saint-quentin">Saint-Quentin</placeName>
+               </place>
+               <place>
                   <placeName xml:id="toulouse">Toulouse</placeName>
                </place>
                <place>
                   <placeName xml:id="boulogne">Boulogne</placeName>
                </place>
                <place>
+                  <placeName xml:id="beauvais">Beauvais</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="falaise">Falaise</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="creuset">Creuset</placeName>
+               </place>
+               <place>
                   <placeName xml:id="bruxelles">Bruxelles</placeName>
                </place>
                <place>
                   <placeName xml:id="boston">Boston</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="cochinchine">Cochinchine</placeName>
                </place>
                <place> 
                   <placeName xml:id="l_avre">l'Avre
@@ -448,6 +493,9 @@
                <place>
                   <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation
                   </placeName>
+               </place>
+               <place>
+                  <placeName xml:id="ecoleAgriculture">l'École d'agriculture</placeName>
                </place>
             </listPlace>
          </settingDesc>
@@ -473,16 +521,16 @@
                   <sp><speaker>L'apiculteur</speaker><ab> — Il s'agit d'<seg ana="#scienceNat">apiculture</seg>, de <seg ana="#scienceNat">culture des abeilles</seg>. </ab></sp>
                   
                   <figure> 
-                     <caption> Les <hi rend="italic">Larve de l'abeille.</hi>
+                     <caption> <hi rend="italic"><seg ana="#animauxSauvages">Larve de l'abeille</seg>.</hi>
                         <lb/>
-                        Reste six jours dans cet état avant de devenir nymphe.
+                        Reste six jours dans cet état avant de devenir <seg ana="#animaux">nymphe</seg>.
                      </caption>
                   </figure>
                   
                   <figure> 
-                     <caption> Les <hi rend="italic">Abeilles.</hi>
+                     <caption> <hi rend="italic"><seg ana="#animauxSauvages">Abeilles.</hi>
                         <lb/>
-                        1. Reine. — 2. Mâle ou faux-bourdon. 3. Ouvrière.
+                        1. <seg ana="#animauxSauvages">Reine</seg>. — 2. <seg ana="#animauxSauvages">Mâle ou faux-bourdon</seg>. 3. <seg ana="#animauxSauvages">Ouvrière</seg>.
                      </caption>
                   </figure>
                   
@@ -505,9 +553,9 @@
                   <sp><speaker>L'apiculteur</speaker><ab> — C'est cela ! c'est cela ! Et vous n'êtes probablement pas les derniers en <placeName ana="#la_france">France</placeName> à vous plaindre de la dureté des temps et de la peine qu'on a à vivre ?... Eh bien ! <persName ana="#suzette">Mademoiselle</persName>, </ab></sp> <stage> reprit-il, </stage> <sp><speaker>L'apiculteur</speaker><ab> si vous aviez mon âge, je me fâcherais tout rouge contre vous ! </ab></sp>
                   
                   <figure> 
-                     <caption> Les <hi rend="italic">Abeille butineuse.</hi>
+                     <caption> <hi rend="italic"><seg ana="#animauxSauvages">Abeille butineuse</seg>.</hi>
                         <lb/>
-                        Elle s'introduit dans la fleur, y plonge sa trompe, espèce de langue qui aspire la liqueur sucrée, et elle s'envole emportant sur le duvet de son corps, ainsi que dans les brosses et les corbeilles de ses pattes, le pollen de la fleur, sous forme de pelote.
+                        Elle s'introduit dans <seg ana="#vegetaux">la fleur</seg>, y plonge sa <seg ana="#animauxSauvages">trompe</seg>, espèce de langue qui aspire <seg ana="#scienceNat">la liqueur sucrée</seg>, et elle s'envole emportant sur le duvet de son corps, ainsi que dans les brosses et les corbeilles de ses pattes, <seg ana="#scienceNat">le pollen de la fleur</seg>, sous forme de pelote.
                      </caption>
                   </figure>
                   
@@ -515,9 +563,9 @@
                   <sp><speaker>L'apiculteur</speaker><ab> — Est-il donc possible qu'<seg ana="#scienceNat">une fermière</seg> ne se soucie pas d'avoir au midi de sa <seg ana="#scienceNat">ferme</seg> un bel et bourdonnant et lucratif*<gloss>Lucratif. Qui produit un bon revenu.</gloss> <seg ana="#basse-cour">rucher</seg>  ! Y a-t-il de l’esprit à se priver d'une précieuse ressource en même temps que d'une très intéressante occupation ! </ab></sp>
                   
                   <figure> 
-                     <caption> Les <hi rend="italic">Pattes d'une abeille.</hi>
+                     <caption> <hi rend="italic"><seg ana="#animauxSauvages">Pattes d'une abeille</seg>.</hi>
                         <lb/>
-                        Brosses (1) et corbeilles (2) dans lesquelles l'abeille emmagasine le pollen.
+                        <seg ana="#animauxSauvages">Brosses</seg> (1) et <seg ana="#animauxSauvages">corbeilles</seg> (2) dans lesquelles <seg ana="#animauxSauvages">l'abeille</seg> emmagasine <seg ana="#scienceNat">le pollen</seg>.
                      </caption>
                   </figure>
                   

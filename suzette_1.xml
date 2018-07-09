@@ -80,6 +80,9 @@
                <charName xml:id="charlot">Charlot</charName>
             </char>
             <char>
+               <charName xml:id="mathias_dumay">Mathias Dumay</charName>
+            </char>
+            <char>
                <charName xml:id="mme_richard">Mme Richard</charName>
             </char>
             <char>
@@ -101,6 +104,9 @@
                <charName xml:id="m_valon">M. Valon</charName>
             </char>
             <char>
+               <charName xml:id="mme_lienard">Mme Liénard</charName>
+            </char>
+            <char>
                <charName xml:id="ludivine">Ludivine</charName>
             </char> 
             <char>
@@ -108,6 +114,12 @@
             </char>
             <char>
                <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="jeanne">Jeanne</charName>
+            </char>
+            <char>
+               <charName xml:id="madeleine">Madeleine</charName>
             </char>
             <char>
                <charName xml:id="l_apiculteur">L'apiculteur</charName>
@@ -403,6 +415,9 @@
                   <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
+                  <placeName xml:id="siberie">Sibérie</placeName>
+               </place>
+               <place>
                   <placeName xml:id="ilesEcosse">Îles d'Écosse</placeName>
                </place>
                <place>
@@ -412,10 +427,25 @@
                   <placeName xml:id="la_hollande">la Hollande</placeName>
                </place>
                <place>
+                  <placeName xml:id="l_inde">l'Inde</placeName>
+               </place>
+               <place>
                   <placeName xml:id="amienois">Amiénois</placeName>
                </place>
                <place>
                   <placeName xml:id="nerac">Nérac</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="lorraine">Lorraine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="villedieu">Villedieu</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="houdan">Houdan</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="saone_loire">Saône-et-Loire</placeName>
                </place>
                <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
@@ -424,16 +454,31 @@
                   <placeName xml:id="paris">Paris</placeName>
                </place>
                <place>
+                  <placeName xml:id="saint-quentin">Saint-Quentin</placeName>
+               </place>
+               <place>
                   <placeName xml:id="toulouse">Toulouse</placeName>
                </place>
                <place>
                   <placeName xml:id="boulogne">Boulogne</placeName>
                </place>
                <place>
+                  <placeName xml:id="beauvais">Beauvais</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="falaise">Falaise</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="creuset">Creuset</placeName>
+               </place>
+               <place>
                   <placeName xml:id="bruxelles">Bruxelles</placeName>
                </place>
                <place>
                   <placeName xml:id="boston">Boston</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="cochinchine">Cochinchine</placeName>
                </place>
                <place> 
                   <placeName xml:id="l_avre">l'Avre
@@ -448,6 +493,9 @@
                <place>
                   <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation
                   </placeName>
+               </place>
+               <place>
+                  <placeName xml:id="ecoleAgriculture">l'École d'agriculture</placeName>
                </place>
             </listPlace>
          </settingDesc>
@@ -480,7 +528,7 @@
                      <caption> Le chien de garde. </caption>
                   </figure>
                   
-                  <p> Il y avait là cinq convives, quatre assis, un debout. Celui-là, gamin de cinq à six ans, rose et joufflu, mangeait lentement. Ses grands yeux bleus vaguement étonnés regardaient devant lui comme cherchant quelque chose qu'ils ne trouvaient pas. </p>
+                  <p> Il y avait là <persName ana="#les_dumay">cinq convives</persName>, quatre assis, un debout. Celui-là, <persName ana="#charlot">gamin de cinq à six ans</persName>, rose et joufflu, mangeait lentement. Ses grands yeux bleus vaguement étonnés regardaient devant lui comme cherchant quelque chose qu'ils ne trouvaient pas. </p>
                   
                   <p> Personne, cela se voyait, ne lui avait appris à manier sa cuiller, ou bien il avait eu le temps d'oublier l'enseignement. Il la tenait à pleine main, et, d'un mouvement pataud, la plongeait dans la casserole de terre qui lui servait d'assiette. De l'autre main il y pêchait les haricots égarés parmi le pain trempé et les avalait un à un en les comptant.</p>
                   
@@ -488,14 +536,14 @@
                      <caption> Le chat de la maison. </caption>
                   </figure>
                   
-                  <p> Auprès de lui, deux garçons plus grands ; l'un à figure éveillée, au nez en trompette, et dont la veste bâillait largement aux coudes. </p>
-                  <p> L'autre avait bien douze ans ; son visage, un peu gâté par quelques taches de rousseur, n'en était pas moins un franc et honnête visage. Ces deux garçons-là semblaient savoir comment on tient sa cuiller. Une fillette, qui leur faisait face, la maniait encore plus joliment qu'eux. Elle avait une dizaine d'années, une physionomie*<gloss>Physionomie. Les traits du visage.</gloss> vive, des yeux frais, très ouverts, pleins d'affa-      
+                  <p> Auprès de lui, <persName ana="#francois"><persName ana="#jacques">deux garçons plus grands</persName></persName> ; l'un à figure éveillée, au nez en trompette, et dont la veste bâillait largement aux coudes. </p>
+                  <p> L'autre avait bien douze ans ; son visage, un peu gâté par quelques taches de rousseur, n'en était pas moins un franc et honnête visage. Ces <persName ana="#francois"><persName ana="#jacques">deux garçons</persName></persName>-là semblaient savoir comment on tient sa cuiller. <persName ana="#suzette">Une fillette</persName>, qui leur faisait face, la maniait encore plus joliment qu'eux. Elle avait une dizaine d'années, une physionomie*<gloss>Physionomie. Les traits du visage.</gloss> vive, des yeux frais, très ouverts, pleins d'affa-      
                      
                      <pb type="page" n="3"/>          
                      <fw type="header"> A L'ABANDON. 3 </fw>
                      
                      bilité*<gloss>Affabilité. Qualité de celui qui reçoit ou écoute avec bonté ceux qui s'adressent à lui.</gloss>. Ce n'était pas une beauté, mais bien une de ces bonnes et aimables têtes qu'on aime à voir sur les épaules d'une petite fille. </p>
-                  <p> Non, il n'y avait pas à cette table une seule figure de méchant enfant. Et tant mieux ! tant mieux pour le père qui présidait le repas, et qui, à la façon pensive et lasse dont il courbait la tête, semblait avoir assez d'autres soucis en ce monde pour se passer de celui d'une mauvaise lignée*<gloss>Lignée. Les descendants d'un ancêtre ou les enfants d'un père ou d'une mère.</gloss>. </p>
+                  <p> Non, il n'y avait pas à cette table une seule figure de méchant enfant. Et tant mieux ! tant mieux pour <persName ana="#papa">le père</persName> qui présidait le repas, et qui, à la façon pensive et lasse dont il courbait la tête, semblait avoir assez d'autres soucis en ce monde pour se passer de celui d'une mauvaise lignée*<gloss>Lignée. Les descendants d'un ancêtre ou les enfants d'un père ou d'une mère.</gloss>. </p>
                   <p> On mangeait en silence ; le couvert à peine mis n'était pas plus engageant que l'odeur fade des légumes bouillis à la <hi rend="italic">va-te-promener</hi> qui emplissait la pièce.</p>
                   
                   <div type="questionnaire">

@@ -56,7 +56,7 @@
             <language ident="eng">English</language>
          </langUsage>
       </profileDesc>
-          <encodingDesc>
+    <encodingDesc>
          <charDecl>
             <char>
                <charName xml:id="les_dumay">La Famille Dumay</charName>
@@ -80,6 +80,9 @@
                <charName xml:id="charlot">Charlot</charName>
             </char>
             <char>
+               <charName xml:id="mathias_dumay">Mathias Dumay</charName>
+            </char>
+            <char>
                <charName xml:id="mme_richard">Mme Richard</charName>
             </char>
             <char>
@@ -101,6 +104,9 @@
                <charName xml:id="m_valon">M. Valon</charName>
             </char>
             <char>
+               <charName xml:id="mme_lienard">Mme Liénard</charName>
+            </char>
+            <char>
                <charName xml:id="ludivine">Ludivine</charName>
             </char> 
             <char>
@@ -108,6 +114,12 @@
             </char>
             <char>
                <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="jeanne">Jeanne</charName>
+            </char>
+            <char>
+               <charName xml:id="madeleine">Madeleine</charName>
             </char>
             <char>
                <charName xml:id="l_apiculteur">L'apiculteur</charName>
@@ -403,6 +415,9 @@
                   <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
+                  <placeName xml:id="siberie">Sibérie</placeName>
+               </place>
+               <place>
                   <placeName xml:id="ilesEcosse">Îles d'Écosse</placeName>
                </place>
                <place>
@@ -412,10 +427,25 @@
                   <placeName xml:id="la_hollande">la Hollande</placeName>
                </place>
                <place>
+                  <placeName xml:id="l_inde">l'Inde</placeName>
+               </place>
+               <place>
                   <placeName xml:id="amienois">Amiénois</placeName>
                </place>
                <place>
                   <placeName xml:id="nerac">Nérac</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="lorraine">Lorraine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="villedieu">Villedieu</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="houdan">Houdan</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="saone_loire">Saône-et-Loire</placeName>
                </place>
                <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
@@ -424,16 +454,31 @@
                   <placeName xml:id="paris">Paris</placeName>
                </place>
                <place>
+                  <placeName xml:id="saint-quentin">Saint-Quentin</placeName>
+               </place>
+               <place>
                   <placeName xml:id="toulouse">Toulouse</placeName>
                </place>
                <place>
                   <placeName xml:id="boulogne">Boulogne</placeName>
                </place>
                <place>
+                  <placeName xml:id="beauvais">Beauvais</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="falaise">Falaise</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="creuset">Creuset</placeName>
+               </place>
+               <place>
                   <placeName xml:id="bruxelles">Bruxelles</placeName>
                </place>
                <place>
                   <placeName xml:id="boston">Boston</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="cochinchine">Cochinchine</placeName>
                </place>
                <place> 
                   <placeName xml:id="l_avre">l'Avre
@@ -448,6 +493,9 @@
                <place>
                   <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation
                   </placeName>
+               </place>
+               <place>
+                  <placeName xml:id="ecoleAgriculture">l'École d'agriculture</placeName>
                </place>
             </listPlace>
          </settingDesc>
@@ -464,13 +512,13 @@
                   <pb type="page" n="400"/>
                   <head> 114. — Un cadeau. (Élève, p. 243.) </head>
               
-                  <p> <time>Le surlendemain</time>, <time>à la fin du jour</time>, <persName ana="#papa">M. Dumay</persName>, rentré des champs, les pieds dans de bons et spacieux sabots qu'il appelait ses pantoufles, regardait paternellement <persName ana="#suzette">Suzette</persName>. </p>
+                  <p> <time>Le surlendemain</time>, <time>à la fin du jour</time>, <name type="space" ana="#papa" n="m"><persName ana="#papa">M. Dumay</persName>, rentré des champs, les pieds dans de bons et spacieux sabots qu'il appelait ses pantoufles, regardait paternellement <persName ana="#suzette">Suzette</persName>. </p>
                   <p> En robe claire et tablier à carreaux, elle vaquait au
             
                   <pb type="page" n="401"/>   
                   <fw type="header"> UN CADEAU. 401 </fw>
                      
-                  ménage, qui, en <time>ces quarante-huit heures</time>, avait repris toute sa gentillesse passée. Elle vint ensuite s'asseoir près de la fenêtre, devant un panier de belles <seg ana="#legumesRacines">laitues</seg>, bien pommées, et d’une fraîcheur à vous mettre l'eau à la bouche. Elle commençait <seg ana="#alimentsCuisine">l'épluchage</seg>, quand le gros loquet de la porte s'ébranla. </p>
+                     ménage, qui, en <time>ces quarante-huit heures</time>, avait repris toute sa gentillesse passée. <name type="space" ana="#suzette" n="f">Elle vint ensuite s'asseoir près de la fenêtre</name>, devant un panier de belles <seg ana="#legumesRacines">laitues</seg>, bien pommées, et d’une fraîcheur à vous mettre l'eau à la bouche. Elle commençait <seg ana="#alimentsCuisine">l'épluchage</seg>, quand le gros loquet de la porte s'ébranla. </p>
                   
                   <figure> 
                      <caption> <hi rend="italic"><seg ana="#legumesRacines">Laitue</seg>. — <seg ana="#legumesRacines">Romaine</seg>. — <seg ana="#legumesRacines">Chicorée</seg>.</hi>
@@ -484,10 +532,10 @@
                   <sp><speaker>Sylvain</speaker><ab> — Bonsoir, <persName ana="#papa">Monsieur</persName> ! bonsoir, <persName ana="#suzette">Mademoiselle</persName> ! </ab></sp>
                   <p> Sa voix tremblait d'une joie contenue. </p>
                   <sp><speaker>Papa</speaker><ab> — Qu'y a-t-il, <persName ana="#sylvain">mon ami</persName> ? </ab></sp> <stage> demanda <persName ana="#papa">le père</persName>. </stage>
-                  <sp><speaker>Sylvain</speaker><ab> — J'ai pensé aux <seg ana="#animauxSauvages">abeilles</seg>, </ab></sp> <stage> répondit-il, </stage> <sp><speaker>Sylvain</speaker><ab> je vous apporte <seg ana="#constructions">une ruche</seg> avec son essaim*<!--There is an asterisk in the book but no definition in the lexique-->. </ab></sp>
+                  <sp><speaker>Sylvain</speaker><ab> — J'ai pensé aux <seg ana="#animauxSauvages">abeilles</seg>, </ab></sp> <stage> répondit-il, </stage> <sp><speaker>Sylvain</speaker><ab> je vous apporte <seg ana="#constructions">une ruche</seg> avec son <seg ana="#animauxSauvages">essaim</seg>*<!--There is an asterisk in the book but no definition in the lexique-->. </ab></sp>
                   <sp><speaker>Suzette</speaker><ab> — Avec son <seg ana="#animauxSauvages">essaim</seg> ! </ab></sp> <stage> s'écria <persName ana="#suzette">Suzette</persName>. </stage>
                   <sp><speaker>Sylvain</speaker><ab> — <persName ana="#m_cartier">Mon patron</persName> me l'a donné ; moi, j'ai fait <seg ana="#constructions">la ruche</seg>, en <seg ana="#cereales">paille de seigle</seg> bien tressée, solide et légère. Elle est là dans la cour. Voulez-vous la voir ? </ab></sp>
-                  <p> On courut à la cour ; on vit <seg ana="#constructions">la ruche</seg> soigneusement enveloppée d'une toile, et on alla aussitôt la mettre en place dans le jardin. </p>
+                  <p> <name type="space" n="b">On courut à la cour ; on vit <seg ana="#constructions">la ruche</seg> soigneusement enveloppée d'une toile, et on alla aussitôt la mettre en place dans le jardin.</name> </p>
             
                   <pb type="page" n="402"/>   
                   <fw type="header"> 402 SUZETTE. </fw>

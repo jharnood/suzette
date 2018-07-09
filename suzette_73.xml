@@ -56,7 +56,7 @@
             <language ident="eng">English</language>
          </langUsage>
       </profileDesc>
-          <encodingDesc>
+         <encodingDesc>
          <charDecl>
             <char>
                <charName xml:id="les_dumay">La Famille Dumay</charName>
@@ -80,6 +80,9 @@
                <charName xml:id="charlot">Charlot</charName>
             </char>
             <char>
+               <charName xml:id="mathias_dumay">Mathias Dumay</charName>
+            </char>
+            <char>
                <charName xml:id="mme_richard">Mme Richard</charName>
             </char>
             <char>
@@ -101,6 +104,9 @@
                <charName xml:id="m_valon">M. Valon</charName>
             </char>
             <char>
+               <charName xml:id="mme_lienard">Mme Liénard</charName>
+            </char>
+            <char>
                <charName xml:id="ludivine">Ludivine</charName>
             </char> 
             <char>
@@ -108,6 +114,12 @@
             </char>
             <char>
                <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="jeanne">Jeanne</charName>
+            </char>
+            <char>
+               <charName xml:id="madeleine">Madeleine</charName>
             </char>
             <char>
                <charName xml:id="l_apiculteur">L'apiculteur</charName>
@@ -403,6 +415,9 @@
                   <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
+                  <placeName xml:id="siberie">Sibérie</placeName>
+               </place>
+               <place>
                   <placeName xml:id="ilesEcosse">Îles d'Écosse</placeName>
                </place>
                <place>
@@ -412,10 +427,25 @@
                   <placeName xml:id="la_hollande">la Hollande</placeName>
                </place>
                <place>
+                  <placeName xml:id="l_inde">l'Inde</placeName>
+               </place>
+               <place>
                   <placeName xml:id="amienois">Amiénois</placeName>
                </place>
                <place>
                   <placeName xml:id="nerac">Nérac</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="lorraine">Lorraine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="villedieu">Villedieu</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="houdan">Houdan</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="saone_loire">Saône-et-Loire</placeName>
                </place>
                <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
@@ -424,16 +454,31 @@
                   <placeName xml:id="paris">Paris</placeName>
                </place>
                <place>
+                  <placeName xml:id="saint-quentin">Saint-Quentin</placeName>
+               </place>
+               <place>
                   <placeName xml:id="toulouse">Toulouse</placeName>
                </place>
                <place>
                   <placeName xml:id="boulogne">Boulogne</placeName>
                </place>
                <place>
+                  <placeName xml:id="beauvais">Beauvais</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="falaise">Falaise</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="creuset">Creuset</placeName>
+               </place>
+               <place>
                   <placeName xml:id="bruxelles">Bruxelles</placeName>
                </place>
                <place>
                   <placeName xml:id="boston">Boston</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="cochinchine">Cochinchine</placeName>
                </place>
                <place> 
                   <placeName xml:id="l_avre">l'Avre
@@ -448,6 +493,9 @@
                <place>
                   <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation
                   </placeName>
+               </place>
+               <place>
+                  <placeName xml:id="ecoleAgriculture">l'École d'agriculture</placeName>
                </place>
             </listPlace>
          </settingDesc>
@@ -468,27 +516,27 @@
                   <p> On entra ; on remit à l'employé <seg ana="#machinesAppareils">la dépêche</seg> pour <persName ana="mme_richard">Mme Richard</persName>. A peine avait-on dépassé le seuil que <seg ana="#machinesAppareils">le manipulateur</seg>*<gloss>Manipulateur. Appareil pour transmettre les dépêches télégraphiques.</gloss> commençait <seg ana="#machinesAppareils">sa batterie</seg>*<gloss>Batterie. Succession de petits coups frappés sur un timbre ou sur une pièce différente de métal.</gloss> ; <seg ana="#machinesAppareils">la dépêche</seg> partait. <seg ana="#machinesAppareils">Le manipulateur</seg> se tut : elle était partie, arrivée ! </p>
                   
                   <figure> 
-                     <caption> <hi rend="italic">L'ancien télégraphe.</hi>
+                     <caption> <hi rend="italic"><seg ana="#machinesAppareils">L'ancien télégraphe</seg>.</hi>
                         <lb/>
-                        — Nous sommes loin de ces machines de bois à longs bras, qui, de clocher en clocher, d'un bout de la France à l'autre, s'envoyaient des signaux. Le télégraphe électrique et, depuis peu, le téléphone sont d'admirables découvertes qui nous permettent d'échanger nos idées et même une conversation avec les habitants de toutes les parties du monde. </caption>
+                        — Nous sommes loin de ces <seg ana="#machinesAppareils">machines de bois</seg> à longs bras, qui, de clocher en clocher, d'un bout de <placeName ana="#la_france">la France</placeName> à l'autre, s'envoyaient des <seg ana="#machinesAppareils">signaux</seg>. <seg ana="#machinesAppareils">Le télégraphe électrique</seg> et, depuis peu, <seg ana="#machinesAppareils">le téléphone</seg> sont d'admirables découvertes qui nous permettent d'échanger nos idées et même une conversation avec les habitants de toutes les parties du monde. </caption>
                   </figure>
                   
-                  <p> <time>Au siècle dernier</time>, dans <placeName ana="#boston">une ville d'<placeName ana="#etats_unis">Amérique</placeName></placeName>, à <placeName ana="#boston">Boston</placeName>, un jour d'<seg ana="#sciencesPhys">orage</seg>, <!--<persName>un enfant</persName>--> joue au cerf-volant ; il a attaché une clé à la queue de ce cerf-volant, trop léger et qu'il faut alourdir. Une petite <seg ana="#sciencesPhys">étincelle</seg> lumineuse <seg ana="#sciencesPhys">brille</seg> tout à coup sur la clé, à la vive curiosité du <!--<persName>garçon</persName>-->, très frappé de ce <seg ana="#sciencesPhys">phénomène</seg>*<gloss>Phénomène. Tout ce qui apparait de nouveau dans l'air, dans le ciel ou sur la terre.</gloss>. </p>
+                  <p> <time>Au siècle dernier</time>, dans <placeName ana="#boston">une ville d'<placeName ana="#etats_unis">Amérique</placeName></placeName>, à <placeName ana="#boston">Boston</placeName>, un jour d'<seg ana="#sciencesPhys">orage</seg>, <persName>un enfant</persName> joue au cerf-volant ; il a attaché une clé à la queue de ce cerf-volant, trop léger et qu'il faut alourdir. Une petite <seg ana="#sciencesPhys">étincelle</seg> lumineuse <seg ana="#sciencesPhys">brille</seg> tout à coup sur la clé, à la vive curiosité du <persName>garçon</persName>, très frappé de ce <seg ana="#sciencesPhys">phénomène</seg>*<gloss>Phénomène. Tout ce qui apparait de nouveau dans l'air, dans le ciel ou sur la terre.</gloss>. </p>
          
                   <pb type="page" n="252"/>   
                   <fw type="header"> 252 SUZETTE. </fw>
          
-                  <p> <!--<persName>L'enfant</persName>--> devint <!--<persName>--><seg ana="#industrie">le grand Franklin</seg><!--</persName>--> ; la petite <seg ana="#sciencesPhys">étincelle</seg> est devenue la grande <seg ana="#sciencesPhys">électricité</seg>*<gloss>Electricité. Cause, force inconnue qui produit la foudre.</gloss> avec ses nombreuses <seg ana="#industrie">applications</seg> qui ont déjà changé et changeront encore plus la face de <seg ana="#scienceNat">la terre</seg>. </p>
-                  <p> <seg ana="#sciencesPhys">La foudre</seg>, la terrible force destructrice devant laquelle <!--<seg ana="#homme">les premiers hommes</seg>-->, terrifiés, se prosternaient, <!--<seg ana="#homme">l'homme d'aujourd'hui</seg>--> s'en empare, l'annihile*<gloss>Annihiler. Réduire à rien.</gloss> par <seg ana="#machinesAppareils">le paratonnerre</seg> de <!--<persName>--><seg ana="#industrie">Franklin</seg><!--</persName>--> ou la maîtrise, lui fait porter sa parole et ses commandements jusqu'au bout de <seg ana="#scienceNat">l'uni- <lb/>
+                  <p> <persName>L'enfant</persName> devint <persName><seg ana="#industrie">le grand Franklin</seg></persName> ; la petite <seg ana="#sciencesPhys">étincelle</seg> est devenue la grande <seg ana="#sciencesPhys">électricité</seg>*<gloss>Electricité. Cause, force inconnue qui produit la foudre.</gloss> avec ses nombreuses <seg ana="#industrie">applications</seg> qui ont déjà changé et changeront encore plus la face de <seg ana="#scienceNat">la terre</seg>. </p>
+                  <p> <seg ana="#sciencesPhys">La foudre</seg>, la terrible force destructrice devant laquelle <!--<seg ana="#homme">les premiers hommes</seg>-->, terrifiés, se prosternaient, <!--<seg ana="#homme">l'homme d'aujourd'hui</seg>--> s'en empare, l'annihile*<gloss>Annihiler. Réduire à rien.</gloss> par <seg ana="#machinesAppareils">le paratonnerre</seg> de <persName><seg ana="#industrie">Franklin</seg></persName> ou la maîtrise, lui fait porter sa parole et ses commandements jusqu'au bout de <seg ana="#scienceNat">l'uni- <lb/>
                      
                      <figure> 
-                        <caption> <hi rend="italic">Le paratonnerre.</hi>
+                        <caption> <hi rend="italic"><seg ana="#machinesAppareils">Le paratonnerre</seg>.</hi>
                            <lb/>
-                           La tige d'un paratonnerre varie de trois à cinq mètres ; elle est terminée en haut par une pointe de platine. Une barre en métal, servant de conducteur, est soudée à la tige et descend, en suivant le toit et les murs de l'édifice, soit dans un puits, soit dans un trou profond. Un paratonnerre en mauvais état peut amener des accidents nombreux. </caption>
+                           <seg ana="#machinesAppareils">La tige d'un paratonnerre</seg> varie de trois à cinq mètres ; elle est terminée en haut par une pointe de <seg ana="#mineraux">platine</seg>. <seg ana="#machinesAppareils">Une barre en métal</seg>, servant de <seg ana="#sciencesPhys">conducteur</seg>, est soudée à <seg ana="#machinesAppareils">la tige</seg> et descend, en suivant le toit et les murs de l'édifice, soit dans un puits, soit dans un trou profond. <seg ana="#machinesAppareils">Un paratonnerre</seg> en mauvais état peut amener des accidents nombreux. </caption>
                      </figure>
                      
                      <figure> 
-                        <caption> Les <hi rend="italic">phares</hi> <!--Not sure if this should be tagged as italics or "term"--> sont dressés sur un cap, sur un point éminent d’une côté, ou sur la jetée d'un port. Une lanterne qui se trouve à leur extrémité est allumée pendant la nuit ; et ce feu, connu des navires, les guide au milieu de l'obscurité.
+                        <caption> Les <hi rend="italic"><seg ana="#constructions">phares</seg></hi> <!--Not sure if this should be tagged as italics or "term"--> sont dressés sur un cap, sur un point éminent d’une côté, ou sur la jetée d'un port. <seg ana="#machinesAppareils">Une lanterne</seg> qui se trouve à leur extrémité est allumée pendant la nuit ; et ce <seg ana="#industrie">feu</seg>, connu des <seg ana="#industrie">navires</seg>, les guide au milieu de l'obscurité.
                         </caption>
                      </figure>
                      
@@ -553,7 +601,7 @@ On préserve les édifices de la chute de la foudre en fixant un paratonnerr
                         <ab type="question"> — Que voit-on dans un bureau télégraphique et quel est l'objet de ces appareils ? — D'où provient le fluide électrique (qu'on y emploie) ? — Comment le transmet-on de bureau à bureau ? — Que savez-vous de la vitesse de ce fluide ? — Que fait-il agir au bureau d'arrivée ? </ab>
                            
                         <ab type="answer"> Dans un bureau télégraphique, on voit, sur une table, un instrument nommé <term type="telegraphe">récepteur</term>, dans lequel l'électricité fait agir un poinçon qui sert à écrire les signaux sur une longue bande de fort papier enroulée autour d'un tambour, et qui vient s'engager entre deux rouleaux de cuivre. <lb/>
-                        A côté est un autre appareil, <term type="telegraphe">le manipulateur</>, composé d'une petite planchette de bois servant de support à un levier de métal, qui est mobile par son milieu et frappe un bouton lorsque, au moyen de touches, on le met en communication avec les fils qui transmettent l’électricité de bureau à bureau. <lb/>
+                        A côté est un autre appareil, <term type="telegraphe">le manipulateur</term>, composé d'une petite planchette de bois servant de support à un levier de métal, qui est mobile par son milieu et frappe un bouton lorsque, au moyen de touches, on le met en communication avec les fils qui transmettent l’électricité de bureau à bureau. <lb/>
                         Le fluide électrique qui circule dans les fils, provient d'appareils appelés <term type="telegraphe">piles</term>, où il se développe au contact d'acides avec des feuilles de zinc et de cuivre. <lb/>
                         On le transmet de bureau à bureau au moyen de fils de fer soutenus, de distance en distance, par des poteaux. Il se meut avec une vitesse telle qu'il lui faut moins d'une seconde pour effectuer le tour de la terre, et, lorsqu'il arrive au bureau, il actionne le levier qui fait marquer au poinçon les signes convenus sur la bande de papier dont il a été précédemment question. </ab>
                      </div>

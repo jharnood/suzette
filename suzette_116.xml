@@ -56,7 +56,7 @@
             <language ident="eng">English</language>
          </langUsage>
       </profileDesc>
-          <encodingDesc>
+        <encodingDesc>
          <charDecl>
             <char>
                <charName xml:id="les_dumay">La Famille Dumay</charName>
@@ -80,6 +80,9 @@
                <charName xml:id="charlot">Charlot</charName>
             </char>
             <char>
+               <charName xml:id="mathias_dumay">Mathias Dumay</charName>
+            </char>
+            <char>
                <charName xml:id="mme_richard">Mme Richard</charName>
             </char>
             <char>
@@ -101,6 +104,9 @@
                <charName xml:id="m_valon">M. Valon</charName>
             </char>
             <char>
+               <charName xml:id="mme_lienard">Mme Liénard</charName>
+            </char>
+            <char>
                <charName xml:id="ludivine">Ludivine</charName>
             </char> 
             <char>
@@ -108,6 +114,12 @@
             </char>
             <char>
                <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="jeanne">Jeanne</charName>
+            </char>
+            <char>
+               <charName xml:id="madeleine">Madeleine</charName>
             </char>
             <char>
                <charName xml:id="l_apiculteur">L'apiculteur</charName>
@@ -403,6 +415,9 @@
                   <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
+                  <placeName xml:id="siberie">Sibérie</placeName>
+               </place>
+               <place>
                   <placeName xml:id="ilesEcosse">Îles d'Écosse</placeName>
                </place>
                <place>
@@ -412,10 +427,25 @@
                   <placeName xml:id="la_hollande">la Hollande</placeName>
                </place>
                <place>
+                  <placeName xml:id="l_inde">l'Inde</placeName>
+               </place>
+               <place>
                   <placeName xml:id="amienois">Amiénois</placeName>
                </place>
                <place>
                   <placeName xml:id="nerac">Nérac</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="lorraine">Lorraine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="villedieu">Villedieu</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="houdan">Houdan</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="saone_loire">Saône-et-Loire</placeName>
                </place>
                <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
@@ -424,16 +454,31 @@
                   <placeName xml:id="paris">Paris</placeName>
                </place>
                <place>
+                  <placeName xml:id="saint-quentin">Saint-Quentin</placeName>
+               </place>
+               <place>
                   <placeName xml:id="toulouse">Toulouse</placeName>
                </place>
                <place>
                   <placeName xml:id="boulogne">Boulogne</placeName>
                </place>
                <place>
+                  <placeName xml:id="beauvais">Beauvais</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="falaise">Falaise</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="creuset">Creuset</placeName>
+               </place>
+               <place>
                   <placeName xml:id="bruxelles">Bruxelles</placeName>
                </place>
                <place>
                   <placeName xml:id="boston">Boston</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="cochinchine">Cochinchine</placeName>
                </place>
                <place> 
                   <placeName xml:id="l_avre">l'Avre
@@ -448,6 +493,9 @@
                <place>
                   <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation
                   </placeName>
+               </place>
+               <place>
+                  <placeName xml:id="ecoleAgriculture">l'École d'agriculture</placeName>
                </place>
             </listPlace>
          </settingDesc>
@@ -468,8 +516,8 @@
                   <p> Telle est <seg ana="#scienceNat">la méthode <hi rend="italic">intensive</hi></seg> qui, scientifiquement appliquée à toutes les productions, fournirait, en <placeName ana="#la_france">France</placeName>, l'aisance à une population au moins décuple de la nôtre. </p>
                   <p> <persName ana="#suzette">Suzette</persName> soumit a l'expérience du doublement des <seg ana="#animauxSauvages">abeilles ouvrières</seg> deux de ses <seg ana="#constructions">ruches</seg>. Et ces deux donnèrent, à elles seules, autant qu'eussent produit les six, laissées à elles-mêmes : douze kilogrammes chacune, au lieu de trois ou quatre. </p>
                   <p> Tout compte fait, <seg ana="#constructions">le rucher</seg>, dès cette première année d'essai, procura soixante-dix francs. Il en promettait le double pour l'année prochaine, par <seg ana="#animauxSauvages">les essaims</seg> issus des premiers. </p>
-                  <p> C'était une ressource toute nouvelle dont la création avait été plutôt un passe-temps qu'un travail ; ce qui faisait dire plaisamment à <persName ana="#suzette">la jeune fermière</persName> qu'elle avait gagné cet argent à regarder voler les mouches. </p>
-                  <p> Il est vrai, qu'avec ce spectacle, elle s'était donné également le plaisir de promenades à <placeName ana="#saint-quentin">Saint-Quentin</placeName>, le samedi. Elle avait porté son <seg ana="#animauxSauvages">miel d'or</seg> aux belles dames de la ville, en compagnie des autres friandises auxquelles elles s'étaient si bien faites dès le premier jour.</p>
+                  <p> C'était une ressource toute nouvelle dont la création avait été plutôt un passe-temps qu'un travail ; ce qui faisait dire plaisamment à <persName ana="#suzette">la jeune fermière</persName> qu'elle avait gagné cet argent à regarder voler <seg ana="#animaux">les mouches</seg>. </p>
+                  <p> <name type="space" ana="#suzette" n="f">Il est vrai, qu'avec ce spectacle, elle s'était donné également le plaisir de promenades à <placeName ana="#saint-quentin">Saint-Quentin</placeName>, le samedi. Elle avait porté son <seg ana="#animauxSauvages">miel d'or</seg> aux belles dames de la ville, en compagnie des autres friandises auxquelles elles s'étaient si bien faites dès le premier jour.</name></p>
                   
                   <pb type="page" n="409"/>   
                   <fw type="header"> JOLI SUCCÈS. 409 </fw>
