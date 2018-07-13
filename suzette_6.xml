@@ -80,6 +80,9 @@
                <charName xml:id="charlot">Charlot</charName>
             </char>
             <char>
+               <charName xml:id="mathias_dumay">Mathias Dumay</charName>
+            </char>
+            <char>
                <charName xml:id="mme_richard">Mme Richard</charName>
             </char>
             <char>
@@ -101,6 +104,9 @@
                <charName xml:id="m_valon">M. Valon</charName>
             </char>
             <char>
+               <charName xml:id="mme_lienard">Mme Liénard</charName>
+            </char>
+            <char>
                <charName xml:id="ludivine">Ludivine</charName>
             </char> 
             <char>
@@ -108,6 +114,12 @@
             </char>
             <char>
                <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="jeanne">Jeanne</charName>
+            </char>
+            <char>
+               <charName xml:id="madeleine">Madeleine</charName>
             </char>
             <char>
                <charName xml:id="l_apiculteur">L'apiculteur</charName>
@@ -403,6 +415,9 @@
                   <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
+                  <placeName xml:id="siberie">Sibérie</placeName>
+               </place>
+               <place>
                   <placeName xml:id="ilesEcosse">Îles d'Écosse</placeName>
                </place>
                <place>
@@ -412,10 +427,25 @@
                   <placeName xml:id="la_hollande">la Hollande</placeName>
                </place>
                <place>
+                  <placeName xml:id="l_inde">l'Inde</placeName>
+               </place>
+               <place>
                   <placeName xml:id="amienois">Amiénois</placeName>
                </place>
                <place>
                   <placeName xml:id="nerac">Nérac</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="lorraine">Lorraine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="villedieu">Villedieu</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="houdan">Houdan</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="saone_loire">Saône-et-Loire</placeName>
                </place>
                <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
@@ -424,16 +454,31 @@
                   <placeName xml:id="paris">Paris</placeName>
                </place>
                <place>
+                  <placeName xml:id="saint-quentin">Saint-Quentin</placeName>
+               </place>
+               <place>
                   <placeName xml:id="toulouse">Toulouse</placeName>
                </place>
                <place>
                   <placeName xml:id="boulogne">Boulogne</placeName>
                </place>
                <place>
+                  <placeName xml:id="beauvais">Beauvais</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="falaise">Falaise</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="creuset">Creuset</placeName>
+               </place>
+               <place>
                   <placeName xml:id="bruxelles">Bruxelles</placeName>
                </place>
                <place>
                   <placeName xml:id="boston">Boston</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="cochinchine">Cochinchine</placeName>
                </place>
                <place> 
                   <placeName xml:id="l_avre">l'Avre
@@ -449,6 +494,9 @@
                   <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation
                   </placeName>
                </place>
+               <place>
+                  <placeName xml:id="ecoleAgriculture">l'École d'agriculture</placeName>
+               </place>
             </listPlace>
          </settingDesc>
       </profileDesc>
@@ -462,9 +510,9 @@
                <div type="student">
                   
                   <pb type="page" n="19"/>
-                  <head> 6. — Monsieur François est un homme ! (Él., p. 15.) </head>
+                  <head> 6. — <persName ana="#francois">Monsieur François</persName> est un homme ! (Él., p. 15.) </head>
                   
-                  <p> Le lendemain, jeudi, fut un jeudi fameux en balayage et en rangement. </p>
+                  <p> <time>Le lendemain, jeudi,</time> fut un jeudi fameux en balayage et en rangement. </p>
                   <sp><speaker>Suzette</speaker><ab> — Vous, les bottes, par ici ! toi, la soupière, par là ! 
                      
                      <figure>
@@ -472,36 +520,36 @@
                      </figure>
                      
                      toi, le chaudron, de ce côté ! chacun à votre place, s'il vous plaît ! et qu'on n'en bouge plus que pour le service ! Tout le reste de l'encombrement*<gloss> Encombrement. Amas d'objets qui occupent une place qui n'est pas la leur. </gloss>, à la porte ! En avant le balai ! Et de l'eau à pleins seaux ! </ab></sp>
-                  <p> Tout animée, les joues rouges, Suzette allait, allait ! </p>
-                  <p> Elle s'était mise au ménage à six heures, après le départ du père pour les champs, et sans le prévenir.
+                  <p> Tout animée, les joues rouges, <persName ana="#suzette">Suzette</persName> allait, allait ! </p>
+                  <p> Elle s'était mise au ménage à six heures, après <name type="space" ana="#papa" n="m">le départ du <persName ana="#papa">père</persName> pour les champs</name>, et sans le prévenir.
                      
                      <pb type="page" n="20"/>
                      <fw type="header"> 20 SUZETTE. </fw>
                      
-                     Vers dix heures, toute haletante, n'en pouvant plus, elle appela François, qui, revenant d’on ne sait où, passait en sifflant comme un merle. </p>
-                  <sp><speaker>Suzette</speaker><ab> — François, où sont Jacques et Charlot ? </ab></sp>
+                     Vers dix heures, toute haletante, n'en pouvant plus, elle appela <persName ana="#francois">François</persName>, qui, revenant d’on ne sait où, passait en sifflant comme un merle. </p>
+                  <sp><speaker>Suzette</speaker><ab> — <persName ana="#francois">François</persName>, où sont <persName ana="#jacques">Jacques</persName> et <persName ana="#charlot">Charlot</persName> ? </ab></sp>
                   <sp><speaker>François</speaker><ab> — Ils se promènent. </ab></sp>
                   <sp><speaker>Suzette</speaker><ab> — Ne pourrais-tu m'aider un peu ? </ab></sp>
                   <sp><speaker>François</speaker><ab> — A quoi ? </ab></sp>
                   <sp><speaker>Suzette</speaker><ab> — Au ménage. </ab></sp>
                   <sp><speaker>François</speaker><ab> — Tu dis ? </ab></sp>
                   <sp><speaker>Suzette</speaker><ab> — Au ménage. </ab></sp>
-                  <p> François releva la tête en arrière ; son nez, déjà si bien retroussé, se retroussa encore plus, sa bouche se fendit jusqu'aux oreilles : il en sortit un grand éclat de rire. </p>
+                  <p> <persName ana="#francois">François</persName> releva la tête en arrière ; son nez, déjà si bien retroussé, se retroussa encore plus, sa bouche se fendit jusqu'aux oreilles : il en sortit un grand éclat de rire. </p>
                   <sp><speaker>François</speaker><ab> — Le ménage, </ab></sp> <stage> dit-il, </stage> <sp><speaker>François</speaker><ab> c'est donc l'affaire des hommes ? Ah ! ah ! ah ! </ab></sp>
                   <p> Après quoi, s'avançant, il commença par imprimer sur le carreau frais lavé une demi-douzaine d'empreintes de ses vilaines pattes chaussées de galoches ; puis, pour tirer de l'armoire un mouchoir, en bouleversa tous les rayons et, ayant de cette manière montré son savoir-faire*<gloss> Savoir-faire. Qualité de celui qui réussit dans les travaux qu'il entreprend. </gloss>, il reprit sa sifflerie. </p>
-                  <sp><speaker>Suzette</speaker><ab> — Oh ! le petit singe ! </ab></sp> <stage> s'écria Suzette. </stage>
+                  <sp><speaker>Suzette</speaker><ab> — Oh ! <persName ana="#francois">le petit singe</persName> ! </ab></sp> <stage> s'écria <persName ana="#suzette">Suzette</persName>. </stage>
                   <p> Il se retourna : </p>
                   <sp><speaker>François</speaker><ab> — Moi, un petit singe ? </ab></sp>
                   <sp><speaker>Suzette</speaker><ab> — Non, un grand ! et qui devrait au moins se taire, puisqu'il ne veut pas travailler. Tu sais bien ce que disent les nègres : que les singes ont la parole, mais que par malice ils feignent*<gloss> Feindre. Paraître vouloir faire une chose, avec l'intention de ne pas l'exécuter. </gloss> d'être muets, craignant que l'homme ne les mette à la besogne ! </ab></sp>
-                  <p> François haussa les épaules et tourna les talons. </p>
-                  <p> Cependant le grand nettoyage s'acheva. Le soir, le père, au retour des champs, s'arrêta sur le seuil de la porte, regarda autour de lui, aspira l'odeur d'une fricassée de pommes de terre, une bonne odeur depuis longtemps oubliée ; son visage s'éclaira : voilà le sourire attendu ! </p>
-                  <p> M. Dumay se tourna vers Suzette, et, les yeux mouillés : </p>
-                  <sp><speaker>Papa</speaker><ab> — Est-ce que ta pauvre maman serait revenue ? </ab></sp>
+                  <p> <persName ana="#francois">François</persName> haussa les épaules et tourna les talons. </p>
+                  <p> Cependant le grand nettoyage s'acheva. Le soir, <name type="space" ana="#papa" n="m"><persName ana="#papa">le père</persName>, au retour des champs, s'arrêta sur le seuil de la porte</name>, regarda autour de lui, aspira l'odeur d'une fricassée de pommes de terre, une bonne odeur depuis longtemps oubliée ; son visage s'éclaira : voilà le sourire attendu ! </p>
+                  <p> <persName ana="#papa">M. Dumay</persName> se tourna vers <persName ana="#suzette">Suzette</persName>, et, les yeux mouillés : </p>
+                  <sp><speaker>Papa</speaker><ab> — Est-ce que <persName ana="#la_maman">ta pauvre maman</persName> serait revenue ? </ab></sp>
                   
                   <pb type="page" n="21"/>
                   <fw type="header"> MONSIEUR FRANÇOIS EST UN HOMME ! 21 </fw>
                   
-                  <sp><speaker>Suzette</speaker><ab> — Hélas ! non, papa, dit-elle, en se jetant dans ses bras ; mais si je pouvais lui ressembler ! </ab></sp>
+                  <sp><speaker>Suzette</speaker><ab> — Hélas ! non, <persName ana="#papa">papa</persName>,</ab></sp> <stage> dit-elle, en se jetant dans ses bras ; </stage> <sp><speaker>Suzette</speaker><ab> mais si je pouvais lui ressembler ! </ab></sp>
                   
                   <div type="questionnaire">
                      <ab>

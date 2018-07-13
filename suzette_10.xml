@@ -56,7 +56,7 @@
             <language ident="eng">English</language>
          </langUsage>
       </profileDesc>
-         <encodingDesc>
+        <encodingDesc>
          <charDecl>
             <char>
                <charName xml:id="les_dumay">La Famille Dumay</charName>
@@ -80,6 +80,9 @@
                <charName xml:id="charlot">Charlot</charName>
             </char>
             <char>
+               <charName xml:id="mathias_dumay">Mathias Dumay</charName>
+            </char>
+            <char>
                <charName xml:id="mme_richard">Mme Richard</charName>
             </char>
             <char>
@@ -101,6 +104,9 @@
                <charName xml:id="m_valon">M. Valon</charName>
             </char>
             <char>
+               <charName xml:id="mme_lienard">Mme Liénard</charName>
+            </char>
+            <char>
                <charName xml:id="ludivine">Ludivine</charName>
             </char> 
             <char>
@@ -108,6 +114,12 @@
             </char>
             <char>
                <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="jeanne">Jeanne</charName>
+            </char>
+            <char>
+               <charName xml:id="madeleine">Madeleine</charName>
             </char>
             <char>
                <charName xml:id="l_apiculteur">L'apiculteur</charName>
@@ -403,6 +415,9 @@
                   <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
+                  <placeName xml:id="siberie">Sibérie</placeName>
+               </place>
+               <place>
                   <placeName xml:id="ilesEcosse">Îles d'Écosse</placeName>
                </place>
                <place>
@@ -412,10 +427,25 @@
                   <placeName xml:id="la_hollande">la Hollande</placeName>
                </place>
                <place>
+                  <placeName xml:id="l_inde">l'Inde</placeName>
+               </place>
+               <place>
                   <placeName xml:id="amienois">Amiénois</placeName>
                </place>
                <place>
                   <placeName xml:id="nerac">Nérac</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="lorraine">Lorraine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="villedieu">Villedieu</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="houdan">Houdan</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="saone_loire">Saône-et-Loire</placeName>
                </place>
                <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
@@ -424,16 +454,31 @@
                   <placeName xml:id="paris">Paris</placeName>
                </place>
                <place>
+                  <placeName xml:id="saint-quentin">Saint-Quentin</placeName>
+               </place>
+               <place>
                   <placeName xml:id="toulouse">Toulouse</placeName>
                </place>
                <place>
                   <placeName xml:id="boulogne">Boulogne</placeName>
                </place>
                <place>
+                  <placeName xml:id="beauvais">Beauvais</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="falaise">Falaise</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="creuset">Creuset</placeName>
+               </place>
+               <place>
                   <placeName xml:id="bruxelles">Bruxelles</placeName>
                </place>
                <place>
                   <placeName xml:id="boston">Boston</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="cochinchine">Cochinchine</placeName>
                </place>
                <place> 
                   <placeName xml:id="l_avre">l'Avre
@@ -448,6 +493,9 @@
                <place>
                   <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation
                   </placeName>
+               </place>
+               <place>
+                  <placeName xml:id="ecoleAgriculture">l'École d'agriculture</placeName>
                </place>
             </listPlace>
          </settingDesc>
@@ -464,56 +512,56 @@
                   <pb type="page" n="33"/>
                   <head> 10. — Grosse affaire. (Élève, p. 25.) </head>
                   
-                  <sp><speaker>Suzette</speaker><ab> — Ah ! ah ! tout va marcher comme il faut ! Papa m'a confié la maison, me voilà la maîtresse ! </ab></sp>
-                  <p> Dans un petit miroir, elle regarda la figure que faisait ce matin-là la maîtresse de la maison en robe d'indienne*<gloss> Indienne, cotonnade. Étoffes de coton d'un prix peu élevé. </gloss> lilas à pois blancs, et on tablier de cotonnade*<gloss> Indienne, cotonnade. Étoffes de coton d'un prix peu élevé. </gloss> frais déplié. <q type="thought"> Eh bien ! on n'était pas tout à fait mal dans ce nouveau rôle ! </q> </p> 
+                  <sp><speaker>Suzette</speaker><ab> — Ah ! ah ! tout va marcher comme il faut ! <name type="space" ana="#suzette" n="f"><persName ana="#papa">Papa</persName> m'a confié la maison</name>, me voilà <persName ana="#suzette">la maîtresse</persName> ! </ab></sp>
+                  <p> Dans un petit miroir, elle regarda la figure que faisait ce matin-là <persName ana="#suzette">la maîtresse de la maison</persName> en robe d'indienne*<gloss> Indienne, cotonnade. Étoffes de coton d'un prix peu élevé. </gloss> lilas à pois blancs, et on tablier de cotonnade*<gloss> Indienne, cotonnade. Étoffes de coton d'un prix peu élevé. </gloss> frais déplié. <q type="thought"> Eh bien ! on n'était pas tout à fait mal dans ce nouveau rôle ! </q> </p> 
                   <p> Il n'y avait plus à cette heure qu'à faire sentir la main*<gloss> Sentir la main. S'apercevoir qu'on est dirigé, guidé. </gloss> , d'abord, à la basse-cour qui, tant qu'on allait à l'école, ne se gênait pas pour vagabonder, ou se per- 
                      
                      <pb type="page" n="34"/>
                      <fw type="header"> 34 SUZETTE. </fw>
                      
-                     dre ; et puis à MM. François et Charlot, plus indociles encore que la volaille. </p>
-                  <p> Quant à Jacques, il se conduisait tout seul, en aîné ; il travaillait bien avec M. Valon, qui le poussait vers la culture de la terre, et, convaincu qu'il n'y a pas de meilleure, de plus saine, de plus utile profession, le préparait avec ardeur à entrer à l'École d'agriculture*<gloss> École d'agriculture. Établissement où l'on forme les jeunes gens à la culture intelligente. </gloss> . </p>
+                     dre ; et puis à <persName ana="#francois"><persName ana="#charlot">MM. François et Charlot</persName></persName>, plus indociles encore que la volaille. </p>
+                  <p> Quant à <persName ana="#jacques">Jacques</persName>, il se conduisait tout seul, en aîné ; il travaillait bien avec <persName ana="#m_valon">M. Valon</persName>, qui le poussait vers la culture de la terre, et, convaincu qu'il n'y a pas de meilleure, de plus saine, de plus utile profession, le préparait avec ardeur à entrer à <placeName ana="#ecoleAgriculture">l'École d'agriculture</placeName>*<gloss> École d'agriculture. Établissement où l'on forme les jeunes gens à la culture intelligente. </gloss> . </p>
                   
                   <figure>
-                     <caption> Dans un petit miroir, elle regarda la figure que faisait, ce matin-là, la maîtresse de la maison. </caption>
+                     <caption> Dans un petit miroir, elle regarda la figure que faisait, ce matin-là, <persName ana="#suzette">la maîtresse de la maison</persName>. </caption>
                   </figure>
                   
-                  <p> Mais ce beau projet n'incitait pas le « singe » et le jeune frère à travailler davantage. </p>
+                  <p> Mais ce beau projet n'incitait pas <persName ana="#francois">le « singe »</persName> et <persName ana="#charlot">le jeune frère</persName> à travailler davantage. </p>
                   
                   <figure>
                      <caption> La basse-cour, bien dirigée, doit suffire à l'entretien du ménage. </caption>
                   </figure>
                   
-                  <p> De plus en plus François passait en contrebande*<gloss> Contrebande. Faire entrer ou passer des marchandises sans payer les droits ; ici, agir en cachant ce qu'on fait. </gloss> son temps sur les arbres, ou dessous, à dresser des appeaux*<gloss> Appeaux. Pièges tendus aux oiseaux. </gloss> , et Charlot consacrait le sien à admirer et à imiter les imaginations*<gloss> Imaginations (des). Actes, projets bizarres contraires à ce qui est naturel. </gloss> fraternelles. Avec cela, tous deux mettaient leurs vestes, leurs pantalons en loques. Pour le débarbouillage de leurs vilaines mains et de leurs joues de charbonniers, ils refusaient d'y entendre ; autant leur proposer une médecine. </p>
+                  <p> De plus en plus <name type="space" ana="#francois" n="m"><persName ana="#francois">François</persName> passait en contrebande*<gloss> Contrebande. Faire entrer ou passer des marchandises sans payer les droits ; ici, agir en cachant ce qu'on fait. </gloss> son temps sur les arbres, ou dessous</name>, à dresser des appeaux*<gloss> Appeaux. Pièges tendus aux oiseaux. </gloss> , et <persName ana="#charlot">Charlot</persName> consacrait le sien à admirer et à imiter les imaginations*<gloss> Imaginations (des). Actes, projets bizarres contraires à ce qui est naturel. </gloss> fraternelles. Avec cela, tous deux mettaient leurs vestes, leurs pantalons en loques. Pour le débarbouillage de leurs vilaines mains et de leurs joues de charbonniers, ils refusaient d'y entendre ; autant leur proposer une médecine. </p>
                   
                   <pb type="page" n="35"/>
                   <fw type="header"> GROSSE AFFAIRE. 35 </fw>
                   
-                  <p> Justement, ce matin-là, le père et Jacques étant partis ensemble, les deux gamins se présentèrent, au saut du lit, avec les visages de la veille et de l'avant-veille, tatoués*<gloss> Tatouer. Tracer des dessins sur la peau au moyen de piqûres. </gloss> des plis de l'oreiller, les cheveux en broussailles. </p>
-                  <sp><speaker>Suzette</speaker><ab> — Oh ! mais, on va cette fois m'obéir, se laver, et à grande eau ! </ab></sp> <stage> dit Suzette avec une voix de commandement. </stage>
+                  <p> Justement, ce matin-là, <persName ana="#papa">le père</persName> et <persName ana="#jacques">Jacques</persName> étant partis ensemble, <persName ana="#francois"><persName ana="#charlot">les deux gamins</persName></persName> se présentèrent, au saut du lit, avec les visages de la veille et de l'avant-veille, tatoués*<gloss> Tatouer. Tracer des dessins sur la peau au moyen de piqûres. </gloss> des plis de l'oreiller, les cheveux en broussailles. </p>
+                  <sp><speaker>Suzette</speaker><ab> — Oh ! mais, on va cette fois m'obéir, se laver, et à grande eau ! </ab></sp> <stage> dit <persName ana="#suzette">Suzette</persName> avec une voix de commandement. </stage>
                   
-                  <p> François entonna : </p>
+                  <p> <persName ana="#francois">François</persName> entonna : </p>
                   
                   <sp><speaker>François</speaker> 
                      <lg type="song">
-                        <l> « C'est le roi Dagobert </l>
+                        <l> « C'est <persName>le roi Dagobert</persName> </l>
                         <l> « Qui a mis sa culotte à l'envers ! » </l>
                      </lg></sp>
                   
-                  <sp><speaker>Suzette</speaker><ab> — C'est vous, c'est vous, Monsieur ! </ab></sp> <stage> reprit sévèrement la maîtresse de la maison. </stage> <sp><speaker>Suzette</speaker><ab> Le roi Dagobert était beaucoup plus soigneux que cela, et il n'allait pas à l'école sans se laver au moins le nez. Le vôtre est fort malpropre. A la cuvette, Monsieur François ! obéissez, et rondement ! </ab></sp>
+                  <sp><speaker>Suzette</speaker><ab> — C'est vous, c'est vous, <persName ana="#francois">Monsieur</persName> ! </ab></sp> <stage> reprit sévèrement <persName ana="#suzette">la maîtresse de la maison</persName>. </stage> <sp><speaker>Suzette</speaker><ab> <persName>Le roi Dagobert</persName> était beaucoup plus soigneux que cela, et il n'allait pas à l'école sans se laver au moins le nez. Le vôtre est fort malpropre. A la cuvette, <persName ana="#francois">Monsieur François</persName> ! obéissez, et rondement ! </ab></sp>
                   
                   <figure>
                      <caption> Tous deux mettaient leurs vestes, leurs pantalons en loques. </caption>
                   </figure>
                   
-                  <p> Comme on venait de parler de nez, le « singe » posa sur le sien son pouce, et agita les quatre doigts pour marquer ce qu'il pensait de l'obéissance due à Suzette. </p>
-                  <p> Et Charlot, fidèle à l’exemple, en fit autant. </p>
-                  <p> Sur quoi Suzette, de fort mauvaise humeur devant la rébellion*<gloss> Rébellion. Résistance faite les armes à la main. </gloss>, leva la main. </p>
-                  <p> Mais François, la saisissant, la lui serra à la faire presque crier. </p>
+                  <p> Comme on venait de parler de nez, <persName ana="#francois">le « singe »</persName> posa sur le sien son pouce, et agita les quatre doigts pour marquer ce qu'il pensait de l'obéissance due à <persName ana="#suzette">Suzette</persName>. </p>
+                  <p> Et <persName ana="#charlot">Charlot</persName>, fidèle à l’exemple, en fit autant. </p>
+                  <p> Sur quoi <persName ana="#suzette">Suzette</persName>, de fort mauvaise humeur devant la rébellion*<gloss> Rébellion. Résistance faite les armes à la main. </gloss>, leva la main. </p>
+                  <p> Mais <persName ana="#francois">François</persName>, la saisissant, la lui serra à la faire presque crier. </p>
                   <sp><speaker>François</speaker><ab> — Tout le monde est ici autant que toi, </ab></sp> <stage> dit-il ; </stage> <sp><speaker>François</speaker><ab> nous nous laverons quand il nous plaira, pas avant ! </ab></sp>
-                  <sp><speaker>Charlot</speaker><ab> — Non ! pas avant ! </ab></sp> <stage> répéta Charlot sur le même ton. </stage>
+                  <sp><speaker>Charlot</speaker><ab> — Non ! pas avant ! </ab></sp> <stage> répéta <persName ana="#charlot">Charlot</persName> sur le même ton. </stage>
                   <p> Et ils se sauvèrent. </p>
-                  <p> Restée seule, Suzette se mit à pleurer. Quel début dans la maîtrise ! Et comment s'y prendre pour obtenir 
+                  <p> Restée seule, <persName ana="#suzette">Suzette</persName> se mit à pleurer. Quel début dans la maîtrise ! Et comment s'y prendre pour obtenir 
                      
                      <pb type="page" n="36"/>
                      <fw type="header"> 36 SUZETTE. </fw>

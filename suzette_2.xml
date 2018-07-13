@@ -80,6 +80,9 @@
                <charName xml:id="charlot">Charlot</charName>
             </char>
             <char>
+               <charName xml:id="mathias_dumay">Mathias Dumay</charName>
+            </char>
+            <char>
                <charName xml:id="mme_richard">Mme Richard</charName>
             </char>
             <char>
@@ -101,6 +104,9 @@
                <charName xml:id="m_valon">M. Valon</charName>
             </char>
             <char>
+               <charName xml:id="mme_lienard">Mme Liénard</charName>
+            </char>
+            <char>
                <charName xml:id="ludivine">Ludivine</charName>
             </char> 
             <char>
@@ -108,6 +114,12 @@
             </char>
             <char>
                <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="jeanne">Jeanne</charName>
+            </char>
+            <char>
+               <charName xml:id="madeleine">Madeleine</charName>
             </char>
             <char>
                <charName xml:id="l_apiculteur">L'apiculteur</charName>
@@ -403,6 +415,9 @@
                   <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
+                  <placeName xml:id="siberie">Sibérie</placeName>
+               </place>
+               <place>
                   <placeName xml:id="ilesEcosse">Îles d'Écosse</placeName>
                </place>
                <place>
@@ -412,10 +427,25 @@
                   <placeName xml:id="la_hollande">la Hollande</placeName>
                </place>
                <place>
+                  <placeName xml:id="l_inde">l'Inde</placeName>
+               </place>
+               <place>
                   <placeName xml:id="amienois">Amiénois</placeName>
                </place>
                <place>
                   <placeName xml:id="nerac">Nérac</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="lorraine">Lorraine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="villedieu">Villedieu</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="houdan">Houdan</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="saone_loire">Saône-et-Loire</placeName>
                </place>
                <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
@@ -424,16 +454,31 @@
                   <placeName xml:id="paris">Paris</placeName>
                </place>
                <place>
+                  <placeName xml:id="saint-quentin">Saint-Quentin</placeName>
+               </place>
+               <place>
                   <placeName xml:id="toulouse">Toulouse</placeName>
                </place>
                <place>
                   <placeName xml:id="boulogne">Boulogne</placeName>
                </place>
                <place>
+                  <placeName xml:id="beauvais">Beauvais</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="falaise">Falaise</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="creuset">Creuset</placeName>
+               </place>
+               <place>
                   <placeName xml:id="bruxelles">Bruxelles</placeName>
                </place>
                <place>
                   <placeName xml:id="boston">Boston</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="cochinchine">Cochinchine</placeName>
                </place>
                <place> 
                   <placeName xml:id="l_avre">l'Avre
@@ -448,6 +493,9 @@
                <place>
                   <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation
                   </placeName>
+               </place>
+               <place>
+                  <placeName xml:id="ecoleAgriculture">l'École d'agriculture</placeName>
                </place>
             </listPlace>
          </settingDesc>
@@ -479,14 +527,14 @@
                      <pb type="page" n="6"/>
                      <fw type="header"> 6 SUZETTE.</fw>
                      
-                     la grange, en face, barrant l'horizon, paraissait presque noir sur le fond d'or pâle du ciel. Puis l'air fraîchit, le jour tomba ; une étoile parut, avec l'éclat scintillant*<gloss>Scintillant. Qui a un vif mouvement dans la lumière qu'il envoie.</gloss> et doux d'un beau regard. </p>
+                  la grange, en face, barrant l'horizon, paraissait presque noir sur le fond d'or pâle du ciel. Puis l'air fraîchit, le jour tomba ; une étoile parut, avec l'éclat scintillant*<gloss>Scintillant. Qui a un vif mouvement dans la lumière qu'il envoie.</gloss> et doux d'un beau regard. </p>
                   <p> Envahis par le calme du soir, tous se taisaient. </p>
-                  <p> A la fin, le père dit : </p>
-                  <sp><speaker>Papa</speaker><ab> — Suzette, va chercher la lampe. </ab></sp> 
-                  <p> Les enfants, se levant alors, se rapprochèrent du chat, du chien, des bottes, du chaudron, de la soupière à ramages, devant l'âtre. </p>
-                  <p> Suzette revint de la pièce à côté. </p>
+                  <p> A la fin, <persName ana="#papa">le père</persName> dit : </p>
+                  <sp><speaker>Papa</speaker><ab> — <persName ana="#suzette">Suzette</persName>, va chercher la lampe. </ab></sp> 
+                  <p> <persName ana="#suzette"><persName ana="#jacques"><persName ana="#francois"><persName ana="#charlot">Les enfants</persName></persName></persName></persName>, se levant alors, se rapprochèrent du chat, du chien, des bottes, du chaudron, de la soupière à ramages, devant l'âtre. </p>
+                  <p> <persName ana="#suzette">Suzette</persName> revint de la pièce à côté. </p>
                   <sp><speaker>Papa</speaker><ab> — Eh bien ! et la lampe ?</ab></sp> 
-                  <sp><speaker>Suzette</speaker><ab> — La voici, papa, sur la table. </ab></sp> 
+                  <sp><speaker>Suzette</speaker><ab> — La voici, <persName ana="#papa">papa</persName>, sur la table. </ab></sp> 
                   
                   <figure> 
                      <caption> <hi rend="italic">Puits à pétrole.</hi>
@@ -494,9 +542,9 @@
                         Le pétrole brut, qui est extrait du sol au moyen de puits forés, est soumis à la distillation avant de servir à l'éclairage, il faut prendre les plus grandes précautions lorsqu’on emploie des lampes à pétrole et ne jamais transvaser ce liquide à la lumière. </caption>
                   </figure>
                   
-                  <sp><speaker>Papa</speaker><ab> — Bon. Mais te voilà, toi, comme un bourgeois de Falaise*<gloss>Falaise. Ville de Normandie.</gloss>; ce n'est pas tout de porter la lanterne, il faut l’allumer ! </ab></sp>
+                  <sp><speaker>Papa</speaker><ab> — Bon. Mais te voilà, toi, comme un bourgeois de <placeName ana="#falaise">Falaise</placeName>*<gloss>Falaise. Ville de Normandie.</gloss>; ce n'est pas tout de porter la lanterne, il faut l’allumer ! </ab></sp>
                   <sp><speaker>Suzette</speaker><ab> — C'est qu'il n'y a plus de pétrole. </ab></sp> 
-                  <sp><speaker>Papa</speaker><ab> — Ah ! oui, </ab></sp> <stage> soupira le père, </stage> <sp><speaker>Papa</speaker><ab> j'ai oublié. Trop de choses à faire ou à dire. Eh bien ! nous passerons la soirée à ne voir goutte. </ab></sp> 
+                  <sp><speaker>Papa</speaker><ab> — Ah ! oui, </ab></sp> <stage> soupira <persName ana="#papa">le père</persName>, </stage> <sp><speaker>Papa</speaker><ab> j'ai oublié. Trop de choses à faire ou à dire. Eh bien ! nous passerons la soirée à ne voir goutte. </ab></sp> 
                   
                   <figure>
                      <caption> <hi rend="italic">Grillon.</hi> 
@@ -504,12 +552,12 @@
                         Ce petit insecte aime les lieux chauds et obscurs. Il adopte de préférence, en hiver, les cheminées et les fours. </caption>
                   </figure>
                   
-                  <p> Les garçons se nichèrent les uns à côté des autres, comme de petits oiseaux de cheminée. Il y eut quelques poussées, quelques grogneries, ainsi qu'il se passe dans un monde où oiseaux et gens veulent avoir la meilleure place ; puis on se tassa et le calme se fit. </p>
+                  <p> <persName ana="#jacques"><persName ana="#francois"><persName ana="#charlot">Les garçons</persName></persName></persName> se nichèrent les uns à côté des autres, comme de petits oiseaux de cheminée. Il y eut quelques poussées, quelques grogneries, ainsi qu'il se passe dans un monde où oiseaux et gens veulent avoir la meilleure place ; puis on se tassa et le calme se fit. </p>
                   
                   <pb type="page" n="7"/>
                   <fw type="header"> LE GRILLON DU FOYER. 7</fw>
                   
-                  <p> Suzette prit le tisonnier, en frappa la braise : une gerbe d'étincelles monta, qui éclaira tous les visages. Et alors, comme à un signal, descendit de la cheminée une chanson joyeusement stridente*<gloss>Strident. Qui produit un son aigre.</gloss> et pressée. </p>
+                  <p> <persName ana="#suzette">Suzette</persName> prit le tisonnier, en frappa la braise : une gerbe d'étincelles monta, qui éclaira tous les visages. Et alors, comme à un signal, descendit de la cheminée une chanson joyeusement stridente*<gloss>Strident. Qui produit un son aigre.</gloss> et pressée. </p>
                   <p> C'était le grillon qui, chaque soir, vers cette heure, donnait sa jolie sérénade*<gloss>Sérénade. Concert de voix et d'instruments, ici on veut désigner le chant de l'insecte.</gloss>. </p>
                   
                   <div type="questionnaire">

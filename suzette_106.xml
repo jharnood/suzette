@@ -80,6 +80,9 @@
                <charName xml:id="charlot">Charlot</charName>
             </char>
             <char>
+               <charName xml:id="mathias_dumay">Mathias Dumay</charName>
+            </char>
+            <char>
                <charName xml:id="mme_richard">Mme Richard</charName>
             </char>
             <char>
@@ -101,6 +104,9 @@
                <charName xml:id="m_valon">M. Valon</charName>
             </char>
             <char>
+               <charName xml:id="mme_lienard">Mme Liénard</charName>
+            </char>
+            <char>
                <charName xml:id="ludivine">Ludivine</charName>
             </char> 
             <char>
@@ -108,6 +114,12 @@
             </char>
             <char>
                <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="jeanne">Jeanne</charName>
+            </char>
+            <char>
+               <charName xml:id="madeleine">Madeleine</charName>
             </char>
             <char>
                <charName xml:id="l_apiculteur">L'apiculteur</charName>
@@ -403,6 +415,9 @@
                   <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
+                  <placeName xml:id="siberie">Sibérie</placeName>
+               </place>
+               <place>
                   <placeName xml:id="ilesEcosse">Îles d'Écosse</placeName>
                </place>
                <place>
@@ -412,10 +427,25 @@
                   <placeName xml:id="la_hollande">la Hollande</placeName>
                </place>
                <place>
+                  <placeName xml:id="l_inde">l'Inde</placeName>
+               </place>
+               <place>
                   <placeName xml:id="amienois">Amiénois</placeName>
                </place>
                <place>
                   <placeName xml:id="nerac">Nérac</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="lorraine">Lorraine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="villedieu">Villedieu</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="houdan">Houdan</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="saone_loire">Saône-et-Loire</placeName>
                </place>
                <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
@@ -424,16 +454,31 @@
                   <placeName xml:id="paris">Paris</placeName>
                </place>
                <place>
+                  <placeName xml:id="saint-quentin">Saint-Quentin</placeName>
+               </place>
+               <place>
                   <placeName xml:id="toulouse">Toulouse</placeName>
                </place>
                <place>
                   <placeName xml:id="boulogne">Boulogne</placeName>
                </place>
                <place>
+                  <placeName xml:id="beauvais">Beauvais</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="falaise">Falaise</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="creuset">Creuset</placeName>
+               </place>
+               <place>
                   <placeName xml:id="bruxelles">Bruxelles</placeName>
                </place>
                <place>
                   <placeName xml:id="boston">Boston</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="cochinchine">Cochinchine</placeName>
                </place>
                <place> 
                   <placeName xml:id="l_avre">l'Avre
@@ -449,6 +494,9 @@
                   <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation
                   </placeName>
                </place>
+               <place>
+                  <placeName xml:id="ecoleAgriculture">l'École d'agriculture</placeName>
+               </place>
             </listPlace>
          </settingDesc>
       </profileDesc>
@@ -462,7 +510,7 @@
                <div type="student">
                   
                   <pb type="page" n="372"/>
-                  <head> 106. — Au Jardin d'acclimatation*<!--No defintion in lexique; not sure what the asterisk is for-->. (Élève, p. 227.) </head>
+                  <head> 106. — Au <seg ana="#scienceNat"><placeName ana="#jardinAcclimatation">Jardin d'acclimatation</placeName></seg>*<!--No defintion in lexique; not sure what the asterisk is for-->. (Élève, p. 227.) </head>
                   
                   <!--Definition for "Faune. L'ensemble des animaux d'une grande contrée." in the lexique but not indicated in the book-->
                   
@@ -478,7 +526,7 @@
                      <caption> Ils se promenaient à dos d'<seg ana="#animauxSauvages">éléphant</seg>, de <seg ana="#animauxSauvages">chameau</seg>, de <seg ana="#animauxSauvages">dromadaire</seg>. </caption>
                   </figure>
                   
-                  <p> Dans une allée sablée, une demoiselle d'au moins quatre ans, à très gentil minois, toute mignonne, trônait dans une petite voiture attelée d'<seg ana="#animauxSauvages">une autruche</seg>. Elle était là gentiment assise, regardant la foule de ses yeux bleus, profonds et doux. On eût dit <persName>la fée Urgande</persName>, la jolie fée des vieux contes, essayant un nouvel équipage ; car la chanson, très précise sur celui dont elle se servait, dit que, <lb/>
+                  <p> Dans une allée sablée, <persName>une demoiselle d'au moins quatre ans</persName>, à très gentil minois, toute mignonne, trônait dans une petite voiture attelée d'<seg ana="#animauxSauvages">une autruche</seg>. Elle était là gentiment assise, regardant la foule de ses yeux bleus, profonds et doux. On eût dit <persName>la fée Urgande</persName>, la jolie fée des vieux contes, essayant un nouvel équipage ; car la chanson, très précise sur celui dont elle se servait, dit que, <lb/>
                      
                   <note type="citation">   
                   Dans une conque de saphir <lb/>
@@ -487,8 +535,8 @@
                   <note type="author">(BÉRANGER.)</note> </note> </p>
                   
                   <p> Mais ce n'était pas seulement pour cette promenade d'aimables gamins et gamines, et encore moins pour les acclimater sur le dos des <seg ana="#animauxSauvages">éléphants</seg>, des <seg ana="#animauxSauvages">chameaux</seg> ou des <seg ana="#animauxDomestiques">poneys</seg> des <placeName ana="#ilesEcosse">îles d'Écosse</placeName> qu'avait été créé ce <seg ana="#basse-cour"><placeName ana="#jardinAcclimatation">Jardin d'acclimatation</placeName></seg>. </p>
-                  <p> <persName ana="#suzette">Suzette</persName> en connaissait déjà, par <persName ana="#louis">Louis</persName> et par <persName ana="#pascal">Pascal</persName>, le but scientifique : enrichir notre <seg ana="#vegetaux">faune</seg> d'<seg ana="#vegetaux">espèces étrangères</seg>, d'<seg ana="#basse-cour">animaux utiles</seg> ; puis améliorer nos propres <seg ana="#animaux">races</seg> par <seg ana="#basse-cour">la sélection et la culture</seg>. </p>
-                  <p> <persName ana="#mme_richard">La tante Richard</persName> se souvenait de sa paysannerie et de ses premières occupations dans <seg ana="#scienceNat">la ferme</seg> paternelle de <placeName ana="#fragicourt">Fragicourt</placeName>. Et elle achemina son monde vers <seg ana="#basse-cour">la basse-cour</seg>. </p>
+                  <p> <persName ana="#suzette">Suzette</persName> en connaissait déjà, par <persName ana="#louis">Louis</persName> et par <persName ana="#pascal">Pascal</persName>, le but scientifique : enrichir notre <seg ana="#vegetaux">faune</seg> d'<seg ana="#scienceNat">espèces étrangères</seg>, d'<seg ana="#basse-cour">animaux utiles</seg> ; puis améliorer nos propres <seg ana="#animaux">races</seg> par <seg ana="#basse-cour">la sélection et la culture</seg>. </p>
+                  <p> <place type="space" ana="#mme_richard" n="f"><persName ana="#mme_richard">La tante Richard</persName> se souvenait de sa paysannerie et de ses premières occupations dans <seg ana="#scienceNat">la ferme</seg> paternelle de <placeName ana="#fragicourt">Fragicourt</placeName></place>. Et elle achemina son monde vers <seg ana="#basse-cour">la basse-cour</seg>. </p>
                   
                   <pb type="page" n="374"/>   
                   <fw type="header"> 374 SUZETTE. </fw>
