@@ -56,8 +56,11 @@
             <language ident="eng">English</language>
          </langUsage>
       </profileDesc>
-      <encodingDesc>
+        <encodingDesc>
          <charDecl>
+            <char>
+               <charName xml:id="les_dumay">La Famille Dumay</charName>
+            </char>
             <char>
                <charName xml:id="suzette">Suzette</charName>
             </char>
@@ -77,10 +80,7 @@
                <charName xml:id="charlot">Charlot</charName>
             </char>
             <char>
-               <charName xml:id="mme_valon">Mme Valon</charName>
-            </char>
-            <char>
-               <charName xml:id="m_valon">M. Valon</charName>
+               <charName xml:id="mathias_dumay">Mathias Dumay</charName>
             </char>
             <char>
                <charName xml:id="mme_richard">Mme Richard</charName>
@@ -98,10 +98,28 @@
                <charName xml:id="sylvain">Sylvain</charName>
             </char> 
             <char>
+               <charName xml:id="mme_valon">Mme Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="m_valon">M. Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="mme_lienard">Mme Liénard</charName>
+            </char>
+            <char>
                <charName xml:id="ludivine">Ludivine</charName>
             </char> 
             <char>
                <charName xml:id="m_lejoly">M. Lejoly</charName>
+            </char>
+            <char>
+               <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="jeanne">Jeanne</charName>
+            </char>
+            <char>
+               <charName xml:id="madeleine">Madeleine</charName>
             </char>
             <char>
                <charName xml:id="l_apiculteur">L'apiculteur</charName>
@@ -110,10 +128,7 @@
                <charName xml:id="la_bohemienne">La bohémienne</charName>
             </char>
             <char>
-               <charName  xml:id="m_cartier">M. Cartier</charName>
-            </char>
-            <char>
-               <charName xml:id="les_dumay">La Famille Dumay</charName>
+               <charName xml:id="la_flamande">La Flamande</charName>
             </char>
          </charDecl>
          <classDecl>
@@ -400,17 +415,70 @@
                   <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
+                  <placeName xml:id="siberie">Sibérie</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="ilesEcosse">Îles d'Écosse</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_belgique">la Belgique</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_hollande">la Hollande</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_inde">l'Inde</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="amienois">Amiénois</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="nerac">Nérac</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="lorraine">Lorraine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="villedieu">Villedieu</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="houdan">Houdan</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="saone_loire">Saône-et-Loire</placeName>
+               </place>
+               <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
                </place>
                <place>
                   <placeName xml:id="paris">Paris</placeName>
                </place>
                <place>
+                  <placeName xml:id="saint-quentin">Saint-Quentin</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="toulouse">Toulouse</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="boulogne">Boulogne</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="beauvais">Beauvais</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="falaise">Falaise</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="creuset">Creuset</placeName>
+               </place>
+               <place>
                   <placeName xml:id="bruxelles">Bruxelles</placeName>
                </place>
                <place>
-                  <placeName xml:id="boston">Boston
-                  </placeName>
+                  <placeName xml:id="boston">Boston</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="cochinchine">Cochinchine</placeName>
                </place>
                <place> 
                   <placeName xml:id="l_avre">l'Avre
@@ -421,6 +489,13 @@
                   <placeName xml:id="la_moye">la Moye
                      <geogFeat>River</geogFeat>
                   </placeName>
+               </place>
+               <place>
+                  <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation
+                  </placeName>
+               </place>
+               <place>
+                  <placeName xml:id="ecoleAgriculture">l'École d'agriculture</placeName>
                </place>
             </listPlace>
          </settingDesc>
@@ -440,11 +515,11 @@
                   <p> Là, dans <seg ana="#matieresObjets">des vitrines</seg>, se voyaient <seg ana="#machinesAppareils">des couteaux</seg>, <seg ana="#machinesAppareils">des haches de <seg ana="#mineraux">silex</seg></seg>*<gloss>Silex. Pierre très dure, à demi transparente, qui donne du feu sous le briquet.</gloss> ; plus loin, <seg ana="#machinesAppareils">des hameçons</seg>, <seg ana="#machinesAppareils">des épingles</seg>, <seg ana="#machinesAppareils">des ornements en <seg ana="#matieresObjets">bronze</seg></seg>, et plus loin encore, les mêmes objets, mais en <seg ana="#mineraux">fer</seg>, <seg ana="#machinesAppareils">un outillage</seg> perfectionné de <seg ana="#machinesAppareils">couteaux</seg>, de <seg ana="#machinesAppareils">scies</seg>, de <seg ana="#machinesAppareils">marteaux</seg>, et surtout de <seg ana="#machinesAppareils">haches</seg>, <seg ana="#machinesAppareils">massues</seg>, <seg ana="#machinesAppareils">épées</seg>, <seg ana="#machinesAppareils">javelots</seg>. </p>
                   
                   <figure>
-                     <caption> Outils et instruments de l’âge de pierre. </caption>
+                     <caption> <seg ana="#machinesAppareils">Outils</seg> et <seg ana="#machinesAppareils">instruments</seg> de <seg ana="#industrie"><time>l’âge de <seg ana="#mineraux">pierre</seg></time></seg>. </caption>
                   </figure>
                   
                   <figure>
-                     <caption> Outils et instruments de l'âge de bronze. </caption>
+                     <caption> <seg ana="#machinesAppareils">Outils</seg> et <seg ana="#machinesAppareils">instruments</seg> de <seg ana="#industrie"><time>l'âge de <seg ana="#mineraux">bronze</seg></time></seg>. </caption>
                   </figure>
                   
                   <p> Ces grossiers <seg ana="#machinesAppareils">outils de <seg ana="#mineraux">silex</seg></seg> étaient les premières <seg ana="#machinesAppareils">inventions</seg> de <!--<seg ana="#homme">l’homme</seg>--> pour remplacer <!--<seg ana="#industrie">le travail de ses ongles et de ses dents</seg>-->, qu’il usait auparavant et cassait sur <seg ana="#matieresObjets">la matière dure à vaincre</seg>. </p>

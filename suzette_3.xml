@@ -59,6 +59,9 @@
       <encodingDesc>
          <charDecl>
             <char>
+               <charName xml:id="les_dumay">La Famille Dumay</charName>
+            </char>
+            <char>
                <charName xml:id="suzette">Suzette</charName>
             </char>
             <char>
@@ -77,10 +80,7 @@
                <charName xml:id="charlot">Charlot</charName>
             </char>
             <char>
-               <charName xml:id="mme_valon">Mme Valon</charName>
-            </char>
-            <char>
-               <charName xml:id="m_valon">M. Valon</charName>
+               <charName xml:id="mathias_dumay">Mathias Dumay</charName>
             </char>
             <char>
                <charName xml:id="mme_richard">Mme Richard</charName>
@@ -98,10 +98,28 @@
                <charName xml:id="sylvain">Sylvain</charName>
             </char> 
             <char>
+               <charName xml:id="mme_valon">Mme Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="m_valon">M. Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="mme_lienard">Mme Liénard</charName>
+            </char>
+            <char>
                <charName xml:id="ludivine">Ludivine</charName>
             </char> 
             <char>
                <charName xml:id="m_lejoly">M. Lejoly</charName>
+            </char>
+            <char>
+               <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="jeanne">Jeanne</charName>
+            </char>
+            <char>
+               <charName xml:id="madeleine">Madeleine</charName>
             </char>
             <char>
                <charName xml:id="l_apiculteur">L'apiculteur</charName>
@@ -110,10 +128,7 @@
                <charName xml:id="la_bohemienne">La bohémienne</charName>
             </char>
             <char>
-               <charName  xml:id="m_cartier">M. Cartier</charName>
-            </char>
-            <char>
-               <charName xml:id="les_dumay">La Famille Dumay</charName>
+               <charName xml:id="la_flamande">La Flamande</charName>
             </char>
          </charDecl>
          <classDecl>
@@ -400,17 +415,70 @@
                   <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
+                  <placeName xml:id="siberie">Sibérie</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="ilesEcosse">Îles d'Écosse</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_belgique">la Belgique</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_hollande">la Hollande</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_inde">l'Inde</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="amienois">Amiénois</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="nerac">Nérac</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="lorraine">Lorraine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="villedieu">Villedieu</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="houdan">Houdan</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="saone_loire">Saône-et-Loire</placeName>
+               </place>
+               <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
                </place>
                <place>
                   <placeName xml:id="paris">Paris</placeName>
                </place>
                <place>
+                  <placeName xml:id="saint-quentin">Saint-Quentin</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="toulouse">Toulouse</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="boulogne">Boulogne</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="beauvais">Beauvais</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="falaise">Falaise</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="creuset">Creuset</placeName>
+               </place>
+               <place>
                   <placeName xml:id="bruxelles">Bruxelles</placeName>
                </place>
                <place>
-                  <placeName xml:id="boston">Boston
-                  </placeName>
+                  <placeName xml:id="boston">Boston</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="cochinchine">Cochinchine</placeName>
                </place>
                <place> 
                   <placeName xml:id="l_avre">l'Avre
@@ -421,6 +489,13 @@
                   <placeName xml:id="la_moye">la Moye
                      <geogFeat>River</geogFeat>
                   </placeName>
+               </place>
+               <place>
+                  <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation
+                  </placeName>
+               </place>
+               <place>
+                  <placeName xml:id="ecoleAgriculture">l'École d'agriculture</placeName>
                </place>
             </listPlace>
          </settingDesc>
@@ -435,41 +510,41 @@
                <div type="student">
                   
                   <pb type="page" n="8"/>
-                  <head> 3. — Où est la maman ? (Élève, p. 8.) </head>
+                  <head> 3. — Où est <persName ana="#la_maman">la maman</persName> ? (Élève, p. 8.) </head>
                   
-                  <p> Mais bientôt la tête joufflue du petit bambin se mit à dodeliner*<gloss> Dodeliner. Balancer lentement la tête de droite à gauche.</gloss>, puis tomba sur le genou paternel.</p>
-                  <sp><speaker>Papa</speaker><ab> — Voilà Charlot endormi. Il faut aller se coucher, mes enfants, </ab></sp> <stage> dit le père. </stage>
+                  <p> Mais bientôt la tête joufflue du <persName ana="#charlot">petit bambin</persName> se mit à dodeliner*<gloss> Dodeliner. Balancer lentement la tête de droite à gauche.</gloss>, puis tomba sur le genou paternel.</p>
+                  <sp><speaker>Papa</speaker><ab> — Voilà <persName ana="#charlot">Charlot</persName> endormi. Il faut aller se coucher, <persName ana="#suzette"><persName ana="#jacques"><persName ana="#francois">mes enfants</persName></persName></persName>, </ab></sp> <stage> dit <persName ana="#papa">le père</persName>. </stage>
                   <p> Il eut un brusque soubresaut*<gloss> Soubresaut. Saut subit, inattendu.</gloss>, se frappa le front : </p> 
-                  <sp><speaker>Papa</speaker><ab> — Ah ! j'ai encore oublié ! Les leçons pour demain, les sait-on au moins ? Hum ! hum ! j'y pensais cette après midi aux champs. Vous êtes aussi une terre où l'on sème, et je ne veux pas récolter en vous des ronces et des chardons. Au vieux temps*<gloss>Le vieux temps. Le temps antérieur au moins d'un siècle à l'époque actuelle.</gloss>, dans ce village de Fragicourt, un seul homme, — les registres en font foi — un seul homme savait lire : c'était mon grand-père Mathias Dumay, celui-là même qui a bâti la maison qui nous abrite. Et il ne faut pas que vous redeveniez des
+                  <sp><speaker>Papa</speaker><ab> — Ah ! j'ai encore oublié ! Les leçons pour demain, les sait-on au moins ? Hum ! hum ! j'y pensais cette après midi aux champs. Vous êtes aussi une terre où l'on sème, et je ne veux pas récolter en vous des ronces et des chardons. Au vieux temps*<gloss>Le vieux temps. Le temps antérieur au moins d'un siècle à l'époque actuelle.</gloss>, dans ce village de <placeName ana="#fragicourt">Fragicourt</placeName>, <persName ana="#mathias_dumay">un seul homme</persName>, — les registres en font foi — <persName ana="#mathias_dumay">un seul homme</persName> savait lire : c'était <persName ana="#mathias_dumay">mon grand-père Mathias Dumay</persName>, celui-là même qui a bâti la maison qui nous abrite. Et il ne faut pas que vous redeveniez des
                      
                      <pb type="page" n="9"/>
                      <fw type="header"> OU EST LA MAMAN? 9 </fw>
                      
-                     sauvages. J'aurais dû vous dire de prendre vos livres après souper ; encore un oubli... Et puis, pas de pétrole. Quatre enfants, une charrue, une ferme à conduire ! Trop à faire, trop à faire !... Ma pauvre femme !... Ma chère aide si tôt partie !... </ab></sp>
+                     sauvages. J'aurais dû vous dire de prendre vos livres après souper ; encore un oubli... Et puis, pas de pétrole. <persName ana="#suzette"><persName ana="#jacques"><persName ana="#francois"><persName ana="#charlot">Quatre enfants</persName></persName></persName></persName>, une charrue, une ferme à conduire ! Trop à faire, trop à faire !... <persName ana="#la_maman">Ma pauvre femme</persName> !... <persName ana="#la_maman">Ma chère aide</persName> si tôt partie !... </ab></sp>
                   <p> Il secoua la tête tristement et reprit : </p>
                   <sp><speaker>Papa</speaker><ab> — Ainsi, on ne saura pas ses leçons ! </ab></sp>
-                  <sp><speaker>Suzette</speaker><ab> — Moi, je les sais presque, </ab></sp> <stage> répondit Suzette ; </stage> <sp><speaker>Suzette</speaker><ab>si vous voulez m'éveiller demain, papa, je les repasserai, et cela suffira. </ab></sp> 
-                  <p> Jacques, l'aîné, en dit autant. Charlot, le dernier, qui d'ailleurs ne connaissait encore de l'alphabet que les premières lettres, ronflant déjà, ne pouvait répondre. </p>
-                  <sp><speaker>Papa</speaker><ab> — Et toi, François? </ab></sp> 
-                  <p> François était le monsieur au nez en trompette. Il déclara qu'il savait ses leçons sur le bout du doigt*<gloss>Sur le bout du doigt. Sans faire une faute.</gloss>. C'était son habitude. Suzette se mit à rire : </p>
+                  <sp><speaker>Suzette</speaker><ab> — Moi, je les sais presque, </ab></sp> <stage> répondit <persName ana="#suzette">Suzette</persName> ; </stage> <sp><speaker>Suzette</speaker><ab>si vous voulez m'éveiller demain, <persName ana="#papa">papa</persName>, je les repasserai, et cela suffira. </ab></sp> 
+                  <p> <persName ana="#jacques">Jacques</persName>, <persName ana="#jacques">l'aîné</persName>, en dit autant. <persName ana="#charlot">Charlot</persName>, <persName ana="#charlot">le dernier</persName>, qui d'ailleurs ne connaissait encore de l'alphabet que les premières lettres, ronflant déjà, ne pouvait répondre. </p>
+                  <sp><speaker>Papa</speaker><ab> — Et toi, <persName ana="#francois">François</persName> ? </ab></sp> 
+                  <p> <persName ana="#francois">François</persName> était <persName ana="#francois">le monsieur au nez en trompette</persName>. Il déclara qu'il savait ses leçons sur le bout du doigt*<gloss>Sur le bout du doigt. Sans faire une faute.</gloss>. C'était son habitude. <persName ana="#suzette">Suzette</persName> se mit à rire : </p>
                   
                   <figure>
-                     <caption> François et son nez en trompette. </caption>
+                     <caption> <persName ana="#francois">François</persName> et son nez en trompette. </caption>
                   </figure> 
                   
                   <sp><speaker>Suzette</speaker><ab> — Quand le bout du doigt, </ab></sp> <stage> dit elle, </stage> <sp><speaker>Suzette</speaker><ab> sera chargé de réciter les leçons, tu auras de bonnes notes. </ab></sp>
-                  <sp><speaker>Papa</speaker><ab> — J'éveillerai aussi François, </ab></sp> <stage> dit le père. </stage>
-                  <p> Soulevant le petit Charlot, il le prit dans ses bras pour le mettre au lit. </p>
-                  <p> Mais, sous la pression un peu gauche et rude de ses mains, l'enfant s'éveilla. Ses yeux bleus étonnés se tournèrent vers la fenêtre par où entrait un clair rayon de lune, et, comme tout à l'heure, parurent chercher quelque chose qu'ils ne trouvèrent pas. Puis, appesantis de sommeil, ils se refermèrent ; la petite tête, avec un soupir, retomba sur l'épaule du père. </p>
+                  <sp><speaker>Papa</speaker><ab> — J'éveillerai aussi <persName ana="#francois">François</persName>, </ab></sp> <stage> dit <persName ana="#papa">le père</persName>. </stage>
+                  <p> Soulevant <persName ana="#charlot">le petit Charlot</persName>, il le prit dans ses bras pour le mettre au lit. </p>
+                  <p> Mais, sous la pression un peu gauche et rude de ses mains, <persName ana="#charlot">l'enfant</persName> s'éveilla. Ses yeux bleus étonnés se tournèrent vers la fenêtre par où entrait un clair rayon de lune, et, comme tout à l'heure, parurent chercher quelque chose qu'ils ne trouvèrent pas. Puis, appesantis de sommeil, ils se refermèrent ; la petite tête, avec un soupir, retomba sur l'épaule du <persName ana="#papa">père</persName>. </p>
                   <p> Bientôt après, dans le grand silence de la nuit, la maisonnée*<gloss>Maisonnée. Les habitants de la maison.</gloss> entière reposait. </p>
-                  <p> Pauvre maisonnée, pauvre foyer sans âme ! La mère 
+                  <p> Pauvre maisonnée, pauvre foyer sans âme ! <persName ana="#la_maman">La mère</persName> 
                      
                      <fw type="sig"> 1. </fw>
                      
                      <pb type="page" n="10"/>
                      <fw type="header"> 10 SUZETTE.</fw>
                      
-                     aussi dormait, mais au cimetière, depuis tantôt deux ans ; et c'est elle, sans doute, que cherchait, depuis ce temps-là, l'œil bleu vaguement*<gloss>Vaguement. Sans but bien déterminé, bien fixé.</gloss> étonné de Charlot, le dernier né. </p>
+                     aussi dormait, mais au cimetière, depuis tantôt deux ans ; et c'est elle, sans doute, que cherchait, depuis ce temps-là, l'œil bleu vaguement*<gloss>Vaguement. Sans but bien déterminé, bien fixé.</gloss> étonné de <persName ana="#charlot">Charlot</persName>, <persName ana="#charlot">le dernier né</persName>. </p>
                   
                   <div type="questionnaire">
                      <ab>

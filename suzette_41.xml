@@ -56,8 +56,11 @@
             <language ident="eng">English</language>
          </langUsage>
       </profileDesc>
-      <encodingDesc>
+          <encodingDesc>
          <charDecl>
+            <char>
+               <charName xml:id="les_dumay">La Famille Dumay</charName>
+            </char>
             <char>
                <charName xml:id="suzette">Suzette</charName>
             </char>
@@ -77,10 +80,7 @@
                <charName xml:id="charlot">Charlot</charName>
             </char>
             <char>
-               <charName xml:id="mme_valon">Mme Valon</charName>
-            </char>
-            <char>
-               <charName xml:id="m_valon">M. Valon</charName>
+               <charName xml:id="mathias_dumay">Mathias Dumay</charName>
             </char>
             <char>
                <charName xml:id="mme_richard">Mme Richard</charName>
@@ -98,10 +98,28 @@
                <charName xml:id="sylvain">Sylvain</charName>
             </char> 
             <char>
+               <charName xml:id="mme_valon">Mme Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="m_valon">M. Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="mme_lienard">Mme Liénard</charName>
+            </char>
+            <char>
                <charName xml:id="ludivine">Ludivine</charName>
             </char> 
             <char>
                <charName xml:id="m_lejoly">M. Lejoly</charName>
+            </char>
+            <char>
+               <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="jeanne">Jeanne</charName>
+            </char>
+            <char>
+               <charName xml:id="madeleine">Madeleine</charName>
             </char>
             <char>
                <charName xml:id="l_apiculteur">L'apiculteur</charName>
@@ -110,10 +128,7 @@
                <charName xml:id="la_bohemienne">La bohémienne</charName>
             </char>
             <char>
-               <charName  xml:id="m_cartier">M. Cartier</charName>
-            </char>
-            <char>
-               <charName xml:id="les_dumay">La Famille Dumay</charName>
+               <charName xml:id="la_flamande">La Flamande</charName>
             </char>
          </charDecl>
          <classDecl>
@@ -400,17 +415,70 @@
                   <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
+                  <placeName xml:id="siberie">Sibérie</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="ilesEcosse">Îles d'Écosse</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_belgique">la Belgique</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_hollande">la Hollande</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_inde">l'Inde</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="amienois">Amiénois</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="nerac">Nérac</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="lorraine">Lorraine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="villedieu">Villedieu</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="houdan">Houdan</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="saone_loire">Saône-et-Loire</placeName>
+               </place>
+               <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
                </place>
                <place>
                   <placeName xml:id="paris">Paris</placeName>
                </place>
                <place>
+                  <placeName xml:id="saint-quentin">Saint-Quentin</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="toulouse">Toulouse</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="boulogne">Boulogne</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="beauvais">Beauvais</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="falaise">Falaise</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="creuset">Creuset</placeName>
+               </place>
+               <place>
                   <placeName xml:id="bruxelles">Bruxelles</placeName>
                </place>
                <place>
-                  <placeName xml:id="boston">Boston
-                  </placeName>
+                  <placeName xml:id="boston">Boston</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="cochinchine">Cochinchine</placeName>
                </place>
                <place> 
                   <placeName xml:id="l_avre">l'Avre
@@ -421,6 +489,13 @@
                   <placeName xml:id="la_moye">la Moye
                      <geogFeat>River</geogFeat>
                   </placeName>
+               </place>
+               <place>
+                  <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation
+                  </placeName>
+               </place>
+               <place>
+                  <placeName xml:id="ecoleAgriculture">l'École d'agriculture</placeName>
                </place>
             </listPlace>
          </settingDesc>
@@ -440,7 +515,7 @@
                   <!--No asterisk for lexique word - Veiller au grain. Faire attention à ce qui doit ou peut survenir.-->
          
                   <p> Et <seg ana="#scienceNat">les terres</seg> ? C'est maintenant qu'elles doivent rendre ce qu'emporta <seg ana="#industrie">le feu</seg> ! c'est maintenant qu'il faut les <seg ana="#scienceNat">ensemencer</seg>, les <seg ana="#scienceNat">soigner</seg>, les <seg ana="#scienceNat">pomponner</seg> de <seg ana="#scienceNat">la herse</seg> et de <seg ana="#scienceNat">la charrue</seg> ! </p>
-                  <p> <persName ana="#jacques">Jacques</persName> eut, par <seg ana="#scienceNat">l'école d'agriculture</seg>, tous les renseignements qu'il fallut. Un de ses professeurs offrit même de lui prêter une petite somme d'argent. On y joignit tout ce qu'il en restait ici. On savait que c'était argent bien placé. Et si, par aventure*<gloss>Par aventure. Par extraordinaire.</gloss>, <persName ana="papa">le papa</persName>, encore timide, s'effrayait un peu des largesses de <persName ana="#jacques">son fils</persName> avec <seg ana="#scienceNat">la terre</seg> : </p>
+                  <p> <persName ana="#jacques">Jacques</persName> eut, par <seg ana="#scienceNat"><placeName ana="#ecoleAgriculture">l'école d'agriculture</placeName></seg>, tous les renseignements qu'il fallut. Un de ses professeurs offrit même de lui prêter une petite somme d'argent. On y joignit tout ce qu'il en restait ici. On savait que c'était argent bien placé. Et si, par aventure*<gloss>Par aventure. Par extraordinaire.</gloss>, <persName ana="papa">le papa</persName>, encore timide, s'effrayait un peu des largesses de <persName ana="#jacques">son fils</persName> avec <seg ana="#scienceNat">la terre</seg> : </p>
                   
                   <figure> 
                      <caption> <hi rend="italic">Herse.</hi>
@@ -457,27 +532,27 @@
                   <p> A <persName ana="#francois">François</persName> et à <persName ana="charlot">Charlot</persName>, il dénonçait <seg ana="#vegetaux">le chiendent</seg>, <seg ana="#vegetaux">la camomille</seg>, <seg ana="#vegetaux">l'ortie</seg>, <seg ana="#vegetaux">le chardon</seg>, <seg ana="#vegetaux">la fumeterre</seg> comme de terribles ennemis : </p>
                   
                   <figure>
-                     <caption> <hi rend="italic">Charrue.</hi> </caption>
+                     <caption> <hi rend="italic"><seg ana="#vegetaux">Charrue</seg>.</hi> </caption>
                   </figure>
                   
                   <sp><speaker>Jacques</speaker><ab> — Et ayez soin, quand vous les rencontrerez chez 
                      
                   <figure> 
-                     <caption> <hi rend="italic">1. Chiendent. — 2. Camomille.</hi>
+                     <caption> <hi rend="italic">1. <seg ana="#vegetaux">Chiendent</seg>. — 2. <seg ana="#vegetaux">Camomille</seg>.</hi>
                         <lb/>
-                        Le chiendent et la camomille servent à faire des tisanes et des infusions ; les racines du chiendent servent, en outre, à la fabrication des brosses et des balais. </caption>
+                        <seg ana="#vegetaux">Le chiendent</seg> et <seg ana="#vegetaux">la camomille</seg> servent à faire des <seg ana="#alimentsCuisine">tisanes</seg> et des infusions ; <seg ana="#vegetaux">les racines du chiendent</seg> servent, en outre, à la fabrication des <seg ana="#machinesAppareils">brosses</seg> et des <seg ana="#machinesAppareils">balais</seg>. </caption>
                   </figure>
                      
                      <figure> 
-                        <caption> <hi rend="italic">1. Coquelicots. — 2. Lacerons.</hi>
+                        <caption> <hi rend="italic">1. <seg ana="#vegetaux">Coquelicots</seg>. — 2. <seg ana="#vegetaux">Lacerons</seg>.</hi>
                            <lb/>
-                           Une infusion de pétales de coquelicots donne une tisane calmante et adoucissante. </caption>
+                           Une infusion de <seg ana="#vegetaux">pétales de coquelicots</seg> donne <seg ana="#alimentsCuisine">une tisane</seg> calmante et adoucissante. </caption>
                      </figure>
                      
                      nous, de les <seg ana="#scienceNat">arracher</seg>, d'en faire deux parts ; la première sera composée de ce qui peut servir de <seg ana="#basse-cour">nourriture au bétail</seg>, comme par exemple <seg ana="#vegetaux">les coquelicots</seg>, <seg ana="#vegetaux">les lacerons</seg>, dont <seg ana="#animauxDomestiques">les lapins</seg> se font de bons <seg ana="#animaux">râbles</seg>*<gloss>Râble. Dos du lapin et du lièvre, des épaules à la queue.</gloss>. La seconde, vous l'amasserez, vous la laisserez <seg ana="#scienceNat">pourrir</seg> au bout du <seg ana="#scienceNat">champ</seg> pour l'y répandre ensuite <seg ana="industrie">en fumier</seg>. </ab></sp>
                      
                      <figure>
-                        <caption> <hi rend="italic">Cabane à lapins.</hi> </caption>
+                        <caption> <hi rend="italic"><seg ana="#basse-cour">Cabane à <seg ana="#animauxDomestiques">lapins</seg></seg>.</hi> </caption>
                      </figure>       
                      
                   <p> Ah ! s'il n'y avait que <seg ana="#vegetaux">des plantes ennemies</seg>, bien visibles et facilement <seg ana="#vegetaux">arrachables</seg> ! </p>
@@ -489,14 +564,14 @@
                   <p> Un <seg ana="#scienceNat">des champs paternels</seg>, un grand <seg ana="#scienceNat">champ de betteraves</seg>, s'étendait à ses pieds. <seg ana="#legumesRacines">Les betteraves</seg> commençaient à <seg ana="#vegetaux">prendre tournure</seg>. <seg ana="#vegetaux">Les feuilles</seg> déjà grandes luisaient comme satin au <seg ana="#sciencesPhys">soleil</seg>. C'était riant au possible. </p>
                      
                      <figure> 
-                        <caption> <hi rend="italic">La betterave.</hi>
+                        <caption> <hi rend="italic"><seg ana="#legumesRacines">La betterave</seg>.</hi>
                            <lb/>
-                           Racine qui sert de nourriture aux bestiaux et dont l'industrie extrait du sucre et de l'alcool. </caption>
+                           <seg ana="#legumesRacines">Racine</seg> qui sert de <seg ana="#basse-cour">nourriture aux <seg ana="#animaux">bestiaux</seg></seg> et dont l'industrie extrait du <seg ana="#alimentsCuisine">sucre</seg> et de <seg ana="#alimentsCuisine">l'alcool</seg>. </caption>
                      </figure>
                      
                   <p> Mais sur près de deux rangées, et en outre çà et là, par places, elles ne brillaient pas du tout ; elles étaient <seg ana="#vegetaux">fanées, comme mortes</seg>. </p>
                   <p> Il s'approcha, les tâta ; tout vint sans effort, <seg ana="#vegetaux">tige</seg>, <seg ana="#vegetaux">collet</seg> et <seg ana="#vegetaux">racine</seg>. <seg ana="#vegetaux">La racine</seg> était <seg ana="#vegetaux">creusée</seg> à l'intérieur. </p>
-                  <p> <persName ana="#charlot">Charlot</persName>, qui ne plaisantait pas avec sa surveillance, courut à cinq cents pas du <seg ana="#scienceNat">champ</seg>, où <persName ana="#jacques">Jacques</persName>, en compagnie de <persName ana="#suzette">Suzette</persName>, était à <seg ana="#scienceNat">planter</seg> <seg ana="#legumesRacines">des pommes de terre</seg>, et les amena tous deux. </p>
+                  <p> <name type="space" n="b"><persName ana="#charlot">Charlot</persName>, qui ne plaisantait pas avec sa surveillance, courut à cinq cents pas du <seg ana="#scienceNat">champ</seg>, où <persName ana="#jacques">Jacques</persName>, en compagnie de <persName ana="#suzette">Suzette</persName>, était à <seg ana="#scienceNat">planter</seg> <seg ana="#legumesRacines">des pommes de terre</seg>, et les amena tous deux.</name> </p>
                      
                      <div type="questionnaire">
                         <ab>

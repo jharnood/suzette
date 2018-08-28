@@ -56,8 +56,11 @@
             <language ident="eng">English</language>
          </langUsage>
       </profileDesc>
-      <encodingDesc>
+   <encodingDesc>
          <charDecl>
+            <char>
+               <charName xml:id="les_dumay">La Famille Dumay</charName>
+            </char>
             <char>
                <charName xml:id="suzette">Suzette</charName>
             </char>
@@ -77,10 +80,7 @@
                <charName xml:id="charlot">Charlot</charName>
             </char>
             <char>
-               <charName xml:id="mme_valon">Mme Valon</charName>
-            </char>
-            <char>
-               <charName xml:id="m_valon">M. Valon</charName>
+               <charName xml:id="mathias_dumay">Mathias Dumay</charName>
             </char>
             <char>
                <charName xml:id="mme_richard">Mme Richard</charName>
@@ -98,10 +98,28 @@
                <charName xml:id="sylvain">Sylvain</charName>
             </char> 
             <char>
+               <charName xml:id="mme_valon">Mme Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="m_valon">M. Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="mme_lienard">Mme Liénard</charName>
+            </char>
+            <char>
                <charName xml:id="ludivine">Ludivine</charName>
             </char> 
             <char>
                <charName xml:id="m_lejoly">M. Lejoly</charName>
+            </char>
+            <char>
+               <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="jeanne">Jeanne</charName>
+            </char>
+            <char>
+               <charName xml:id="madeleine">Madeleine</charName>
             </char>
             <char>
                <charName xml:id="l_apiculteur">L'apiculteur</charName>
@@ -110,10 +128,7 @@
                <charName xml:id="la_bohemienne">La bohémienne</charName>
             </char>
             <char>
-               <charName  xml:id="m_cartier">M. Cartier</charName>
-            </char>
-            <char>
-               <charName xml:id="les_dumay">La Famille Dumay</charName>
+               <charName xml:id="la_flamande">La Flamande</charName>
             </char>
          </charDecl>
          <classDecl>
@@ -400,17 +415,70 @@
                   <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
+                  <placeName xml:id="siberie">Sibérie</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="ilesEcosse">Îles d'Écosse</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_belgique">la Belgique</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_hollande">la Hollande</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_inde">l'Inde</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="amienois">Amiénois</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="nerac">Nérac</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="lorraine">Lorraine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="villedieu">Villedieu</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="houdan">Houdan</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="saone_loire">Saône-et-Loire</placeName>
+               </place>
+               <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
                </place>
                <place>
                   <placeName xml:id="paris">Paris</placeName>
                </place>
                <place>
+                  <placeName xml:id="saint-quentin">Saint-Quentin</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="toulouse">Toulouse</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="boulogne">Boulogne</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="beauvais">Beauvais</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="falaise">Falaise</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="creuset">Creuset</placeName>
+               </place>
+               <place>
                   <placeName xml:id="bruxelles">Bruxelles</placeName>
                </place>
                <place>
-                  <placeName xml:id="boston">Boston
-                  </placeName>
+                  <placeName xml:id="boston">Boston</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="cochinchine">Cochinchine</placeName>
                </place>
                <place> 
                   <placeName xml:id="l_avre">l'Avre
@@ -421,6 +489,13 @@
                   <placeName xml:id="la_moye">la Moye
                      <geogFeat>River</geogFeat>
                   </placeName>
+               </place>
+               <place>
+                  <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation
+                  </placeName>
+               </place>
+               <place>
+                  <placeName xml:id="ecoleAgriculture">l'École d'agriculture</placeName>
                </place>
             </listPlace>
          </settingDesc>
@@ -437,9 +512,9 @@
                   <pb type="page" n="90"/>
                   <head>25. — Un peu de lumière. (Élève, p. 61.)</head>
          
-                  <p> La journée commença mal : <seg ana="#animauxDomestiques">une poule</seg> des plus belles, une grise pailletée*<gloss>Pailleté. Plumage pailleté, celui qui présente des taches nombreuses de teintes variées.</gloss>, à toupet blanc, fut trouvée morte dans <seg ana="#basse-cour">le poulailler</seg> ; <persName ana="#francois">François</persName>, dans son lit, avait toujours <seg ana="#maladiesRemedes">la fièvre</seg>. </p>
+                  <p> La journée commença mal : <seg ana="#animauxDomestiques">une poule</seg> des plus belles, une grise pailletée*<gloss>Pailleté. Plumage pailleté, celui qui présente des taches nombreuses de teintes variées.</gloss>, à toupet blanc, fut trouvée morte dans <seg ana="#basse-cour">le poulailler</seg> ; <name type="space" ana="#francois" n="m"><persName ana="#francois">François</persName>, dans son lit</name>, avait toujours <seg ana="#maladiesRemedes">la fièvre</seg>. </p>
                   <sp><speaker>Suzette</speaker><ab> Oh ! <seg ana="#animauxSauvages">la chouette</seg>, <seg ana="#animauxSauvages">la chouette</seg> ! <seg ana="#animauxSauvages">l'oiseau</seg> de malheur !... Et il fallait attendre encore presque un jour entier avant de revoir <persName ana="#la_bohemienne">la bohémienne</persName> ! Aurait-elle au moins commencé les conjurations ? </ab></sp> <stage> A ces pensées, <persName ana="#suzette">Suzette</persName> se sentait <seg ana="#maladiesRemedes">défaillir</seg>*<gloss>Défaillir. Tomber en faiblesse.</gloss>. </stage> 
-                  <p> <persName ana="#papa">Son père</persName> parti aux <seg ana="#scienceNat">champs</seg> où le travail pressait, <persName ana="#charlot">Charlot</persName> ronflant encore, et <persName ana="#francois"><seg ana="#maladiesRemedes">le patient</seg></persName> allongé dans son lit, elle s'assit devant l'âtre, sans force pour l'ouvrage matinal, et demeura là toute brisée. Quelqu'un entra qui, d'une voix bien connue, lui demanda des nouvelles de <persName ana="#francois">François</persName>. </p>
+                  <p> <name type="space" n="m"><persName ana="#papa">Son père</persName> parti aux <seg ana="#scienceNat">champs</seg></name> où le travail pressait, <persName ana="#charlot">Charlot</persName> ronflant encore, et <name type="space" ana="#francois" n="m"><persName ana="#francois"><seg ana="#maladiesRemedes">le patient</seg></persName> allongé dans son lit</name>, <name type="space" ana="#suzette" n="f">elle s'assit devant l'âtre</name>, sans force pour l'ouvrage matinal, et demeura là toute brisée. Quelqu'un entra qui, d'une voix bien connue, lui demanda des nouvelles de <persName ana="#francois">François</persName>. </p>
                   
                   <figure>
                      <caption> Coq et poule. </caption>

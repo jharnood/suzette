@@ -56,8 +56,11 @@
             <language ident="eng">English</language>
          </langUsage>
       </profileDesc>
-      <encodingDesc>
+          <encodingDesc>
          <charDecl>
+            <char>
+               <charName xml:id="les_dumay">La Famille Dumay</charName>
+            </char>
             <char>
                <charName xml:id="suzette">Suzette</charName>
             </char>
@@ -77,10 +80,7 @@
                <charName xml:id="charlot">Charlot</charName>
             </char>
             <char>
-               <charName xml:id="mme_valon">Mme Valon</charName>
-            </char>
-            <char>
-               <charName xml:id="m_valon">M. Valon</charName>
+               <charName xml:id="mathias_dumay">Mathias Dumay</charName>
             </char>
             <char>
                <charName xml:id="mme_richard">Mme Richard</charName>
@@ -98,10 +98,28 @@
                <charName xml:id="sylvain">Sylvain</charName>
             </char> 
             <char>
+               <charName xml:id="mme_valon">Mme Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="m_valon">M. Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="mme_lienard">Mme Liénard</charName>
+            </char>
+            <char>
                <charName xml:id="ludivine">Ludivine</charName>
             </char> 
             <char>
                <charName xml:id="m_lejoly">M. Lejoly</charName>
+            </char>
+            <char>
+               <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="jeanne">Jeanne</charName>
+            </char>
+            <char>
+               <charName xml:id="madeleine">Madeleine</charName>
             </char>
             <char>
                <charName xml:id="l_apiculteur">L'apiculteur</charName>
@@ -110,10 +128,7 @@
                <charName xml:id="la_bohemienne">La bohémienne</charName>
             </char>
             <char>
-               <charName  xml:id="m_cartier">M. Cartier</charName>
-            </char>
-            <char>
-               <charName xml:id="les_dumay">La Famille Dumay</charName>
+               <charName xml:id="la_flamande">La Flamande</charName>
             </char>
          </charDecl>
          <classDecl>
@@ -400,17 +415,70 @@
                   <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
+                  <placeName xml:id="siberie">Sibérie</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="ilesEcosse">Îles d'Écosse</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_belgique">la Belgique</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_hollande">la Hollande</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_inde">l'Inde</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="amienois">Amiénois</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="nerac">Nérac</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="lorraine">Lorraine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="villedieu">Villedieu</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="houdan">Houdan</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="saone_loire">Saône-et-Loire</placeName>
+               </place>
+               <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
                </place>
                <place>
                   <placeName xml:id="paris">Paris</placeName>
                </place>
                <place>
+                  <placeName xml:id="saint-quentin">Saint-Quentin</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="toulouse">Toulouse</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="boulogne">Boulogne</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="beauvais">Beauvais</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="falaise">Falaise</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="creuset">Creuset</placeName>
+               </place>
+               <place>
                   <placeName xml:id="bruxelles">Bruxelles</placeName>
                </place>
                <place>
-                  <placeName xml:id="boston">Boston
-                  </placeName>
+                  <placeName xml:id="boston">Boston</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="cochinchine">Cochinchine</placeName>
                </place>
                <place> 
                   <placeName xml:id="l_avre">l'Avre
@@ -421,6 +489,13 @@
                   <placeName xml:id="la_moye">la Moye
                      <geogFeat>River</geogFeat>
                   </placeName>
+               </place>
+               <place>
+                  <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation
+                  </placeName>
+               </place>
+               <place>
+                  <placeName xml:id="ecoleAgriculture">l'École d'agriculture</placeName>
                </place>
             </listPlace>
          </settingDesc>
@@ -437,7 +512,7 @@
                   <pb type="page" n="29"/>
                   <head> 9. — La clef du trésor. (Élève, p. 22.) </head>
                   
-                  <p> Suzette avait maintenant douze ans, et c'était pour elle la fin des classes qui arrive toujours un peu trop vite. </p>
+                  <p> <persName ana="#suzette">Suzette</persName> avait maintenant douze ans, et c'était pour elle la fin des classes qui arrive toujours un peu trop vite. </p>
                   
                   <fw type="sig"> 2. </fw> 
                   
@@ -445,7 +520,7 @@
                   <fw type="header"> 30 SUZETTE. </fw>
                   
                   <p> A ces douze ans-là s'ajoutaient un teint clair, des dents blanches et propres, une souple et longue chevelure ornant un visage à l'air ouvert et avenant. Le jour de son anniversaire*<gloss> Anniversaire. Époque ou cérémonie que ramène le souvenir d'un événement arrivé à pareil jour. </gloss> tombait juste la veille des vacances. </p>
-                  <p> Comme les élèves, assez pressées de les commencer, se levaient, sans attendre le coup de l'horloge, Mme Valon les fit rasseoir. </p>
+                  <p> Comme les élèves, assez pressées de les commencer, se levaient, sans attendre le coup de l'horloge, <persName ana="#mme_valon">Mme Valon</persName> les fit rasseoir. </p>
                   
                   <figure> 
                      <caption> <hi rend="italic">L'art du livre.</hi><lb/>
@@ -453,34 +528,34 @@
                   </figure>
                   
                   <sp><speaker>Mme Valon</speaker><ab> — Encore un moment, </ab></sp> <stage> dit-elle ; </stage> <sp><speaker>Mme Valon</speaker><ab> plusieurs d'entre vous ne me reviendront plus : je dois leur adresser une question. Elles s'en vont sachant au moins lire ; mais savent-elles pourquoi l'école leur a appris à lire ? </ab></sp>
-                  <p> La plupart des nez se levèrent vers le plafond comme si la réponse eût dû s'y trouver, et Mme Valon répéta sa demande. </p>
+                  <p> La plupart des nez se levèrent vers le plafond comme si la réponse eût dû s'y trouver, et <persName ana="#mme_valon">Mme Valon</persName> répéta sa demande. </p>
                   <sp><speaker>Mme Valon</speaker><ab> — Eh bien ! </ab></sp> <stage> reprit-elle, après un nouveau silence, </stage> <sp><speaker>Mme Valon</speaker><ab> on vous a appris à lire, tout simplement pour que vous lisiez ! </ab></sp>
                   
                   <pb type="page" n="31"/>
                   <fw type="header"> LA CLEF DU TRÉSOR. 31 </fw>
                   
                   <p> Les demoiselles de douze ans, et les autres plus jeunes, se mirent à rire. </p>
-                  <sp><speaker>Mme Valon</speaker><ab> — Oui, </ab></sp> <stage> reprit Mme Valon, </stage> <sp><speaker>Mme Valon</speaker><ab> vous emportez d'ici la lecture, clef d'un vaste trésor qui est le savoir. Beaucoup de celles qui vous ont précédées sur ces bancs ont oublié cette clef au fond de leur poche et sont retournées aussitôt à la pauvreté, à la stérilité d'esprit*<gloss> Stérilité d'esprit. Etat d'une personne incapable de tirer parti de ce qu’elle sait. </gloss> d'où l'école avait voulu les tirer. Voyons, Jeanne, et toi, Madeleine, et toi, Suzette, vous me comprenez ? </ab></sp>
-                  <sp><speaker>Jeanne/Madeleine/Suzette</speaker><ab> — Oui, Madame. </ab></sp>
+                  <sp><speaker>Mme Valon</speaker><ab> — Oui, </ab></sp> <stage> reprit <persName ana="#mme_valon">Mme Valon</persName>, </stage> <sp><speaker>Mme Valon</speaker><ab> vous emportez d'ici la lecture, clef d'un vaste trésor qui est le savoir. Beaucoup de celles qui vous ont précédées sur ces bancs ont oublié cette clef au fond de leur poche et sont retournées aussitôt à la pauvreté, à la stérilité d'esprit*<gloss> Stérilité d'esprit. Etat d'une personne incapable de tirer parti de ce qu’elle sait. </gloss> d'où l'école avait voulu les tirer. Voyons, <persName ana="#jeanne">Jeanne</persName>, et toi, <persName ana="#madeleine">Madeleine</persName>, et toi, <persName ana="#suzette">Suzette</persName>, vous me comprenez ? </ab></sp>
+                  <sp><speaker>Jeanne/Madeleine/Suzette</speaker><ab> — Oui, <persName ana="#mme_valon">Madame</persName>. </ab></sp>
                   <sp><speaker>Mme Valon</speaker><ab> — Eh bien ! que ferez-vous de la clef ? </ab></sp>
-                  <sp><speaker>Suzette</speaker><ab> — Nous ouvririons le trésor, </ab></sp> <stage> répondit Suzette, </stage> <sp><speaker>Suzette</speaker><ab> si nous avions des livres. </ab></sp>
+                  <sp><speaker>Suzette</speaker><ab> — Nous ouvririons le trésor, </ab></sp> <stage> répondit <persName ana="#suzette">Suzette</persName>, </stage> <sp><speaker>Suzette</speaker><ab> si nous avions des livres. </ab></sp>
                   <sp><speaker>Mme Valon</speaker><ab> — A la bonne heure ! </ab></sp> 
                   <sp><speaker>Suzette</speaker><ab> — Mais nous n'en avons pas. </ab></sp>
                   <sp><speaker>Mme Valon</speaker><ab> — Vraiment! pas un seul chez aucune de vous ? </ab></sp>
-                  <sp><speaker>Madeleine</speaker><ab> — Moi, </ab></sp> <stage> dit Madeleine, </stage> <sp><speaker>Madeleine</speaker><ab> j'en ai un : l'almanach*<gloss> Almanach. Petit livre ou calendrier qui contient la liste des jours de l'année avec des prédictions relatives au temps. </gloss> de Mathieu Lænsberg. </ab></sp>
-                  <sp><speaker>Jeanne</speaker><ab> — Moi, </ab></sp> <stage> s'écria Jeanne, </stage> <sp><speaker>Jeanne</speaker><ab> j'en ai trois. </ab></sp>
-                  <sp><speaker>Suzette</speaker><ab> — Moi, quatre, </ab></sp> <stage> dit Suzette. </stage>
-                  <sp><speaker>Mme Valon</speaker><ab> — En y comprenant l’almanach, </ab></sp> <stage> reprit en souriant Mme Valon, </stage> <sp><speaker>Mme Valon</speaker><ab> cela fait déjà huit. Et vous autres ? </ab></sp>
+                  <sp><speaker>Madeleine</speaker><ab> — Moi, </ab></sp> <stage> dit <persName ana="#madeleine">Madeleine</persName>, </stage> <sp><speaker>Madeleine</speaker><ab> j'en ai un : l'almanach*<gloss> Almanach. Petit livre ou calendrier qui contient la liste des jours de l'année avec des prédictions relatives au temps. </gloss> de <persName>Mathieu Lænsberg</persName>. </ab></sp>
+                  <sp><speaker>Jeanne</speaker><ab> — Moi, </ab></sp> <stage> s'écria <persName ana="#jeanne">Jeanne</persName>, </stage> <sp><speaker>Jeanne</speaker><ab> j'en ai trois. </ab></sp>
+                  <sp><speaker>Suzette</speaker><ab> — Moi, quatre, </ab></sp> <stage> dit <persName ana="#suzette">Suzette</persName>. </stage>
+                  <sp><speaker>Mme Valon</speaker><ab> — En y comprenant l’almanach, </ab></sp> <stage> reprit en souriant <persName ana="#mme_valon">Mme Valon</persName>, </stage> <sp><speaker>Mme Valon</speaker><ab> cela fait déjà huit. Et vous autres ? </ab></sp>
                   <p> Chacune dit son chiffre, et l'addition donna soixante-trois livres. </p>
                   <sp><speaker>Mme Valon</speaker><ab> — Vous me les apporterez ; j'en ferai un choix ; avec une quarantaine d'ouvrages de ma bibliothèque*<gloss> Bibliothèque. Lieu ou meuble dans lequel on réunit beaucoup de livres. </gloss> que j'ajouterai, voilà le trésor commun à vous toutes ; vous y puiserez librement et nous l'accroîtrons avec un peu de bonne volonté. Ce sera le commencement de la bibliothèque scolaire du village. J'attends vos livres demain... Et maintenant, séparons-nous sans adieu. Vous, grandes filles, qui quittez l'école, n'oubliez pas qu'avec cette bibliothèque, vous avez encore ici une amie. </ab></sp>
-                  <p> Spontanément les grandes filles se levèrent de leurs bancs, et entourèrent Mme Valon. Les petites, celles qui devaient revenir dans six semaines, firent de même. On embrassa l'institutrice, car on l'aimait. </p>
+                  <p> Spontanément les grandes filles se levèrent de leurs bancs, et entourèrent <persName ana="#mme_valon">Mme Valon</persName>. Les petites, celles qui devaient revenir dans six semaines, firent de même. On embrassa <persName ana="#mme_valon">l'institutrice</persName>, car on l'aimait. </p>
                   <sp><speaker>Mme Valon</speaker><ab> — Allons, hop ! en vacances ! </ab></sp> <stage> dit-elle avec un sourire ému. </stage>
                   <p> Ce fut une envolée d'oiseaux à qui l'on ouvre la cage. </p>
                   
                   <pb type="page" n="32"/>
                   <fw type="header"> 32 SUZETTE. </fw>
                   
-                  <p> Suzette, qui avait le cœur tendre et réfléchi*<gloss> Réfléchi. Le contraire d'étourdi. </gloss>, dit adieu d'un mélancolique regard à ces murs, à son banc, aux six années de sa jeune vie déjà passées là. </p>
+                  <p> <name type="space" ana="#suzette" n="f"><persName ana="#suzette">Suzette</persName>, qui avait le cœur tendre et réfléchi*<gloss> Réfléchi. Le contraire d'étourdi. </gloss>, dit adieu d'un mélancolique regard à ces murs, à son banc, aux six années de sa jeune vie déjà passées là.</name> </p>
                   
                   <div type="questionnaire">
                      <ab>

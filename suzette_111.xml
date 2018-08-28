@@ -56,8 +56,11 @@
             <language ident="eng">English</language>
          </langUsage>
       </profileDesc>
-      <encodingDesc>
+        <encodingDesc>
          <charDecl>
+            <char>
+               <charName xml:id="les_dumay">La Famille Dumay</charName>
+            </char>
             <char>
                <charName xml:id="suzette">Suzette</charName>
             </char>
@@ -77,10 +80,7 @@
                <charName xml:id="charlot">Charlot</charName>
             </char>
             <char>
-               <charName xml:id="mme_valon">Mme Valon</charName>
-            </char>
-            <char>
-               <charName xml:id="m_valon">M. Valon</charName>
+               <charName xml:id="mathias_dumay">Mathias Dumay</charName>
             </char>
             <char>
                <charName xml:id="mme_richard">Mme Richard</charName>
@@ -98,10 +98,28 @@
                <charName xml:id="sylvain">Sylvain</charName>
             </char> 
             <char>
+               <charName xml:id="mme_valon">Mme Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="m_valon">M. Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="mme_lienard">Mme Liénard</charName>
+            </char>
+            <char>
                <charName xml:id="ludivine">Ludivine</charName>
             </char> 
             <char>
                <charName xml:id="m_lejoly">M. Lejoly</charName>
+            </char>
+            <char>
+               <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="jeanne">Jeanne</charName>
+            </char>
+            <char>
+               <charName xml:id="madeleine">Madeleine</charName>
             </char>
             <char>
                <charName xml:id="l_apiculteur">L'apiculteur</charName>
@@ -110,10 +128,7 @@
                <charName xml:id="la_bohemienne">La bohémienne</charName>
             </char>
             <char>
-               <charName  xml:id="m_cartier">M. Cartier</charName>
-            </char>
-            <char>
-               <charName xml:id="les_dumay">La Famille Dumay</charName>
+               <charName xml:id="la_flamande">La Flamande</charName>
             </char>
          </charDecl>
          <classDecl>
@@ -400,17 +415,70 @@
                   <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
+                  <placeName xml:id="siberie">Sibérie</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="ilesEcosse">Îles d'Écosse</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_belgique">la Belgique</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_hollande">la Hollande</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_inde">l'Inde</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="amienois">Amiénois</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="nerac">Nérac</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="lorraine">Lorraine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="villedieu">Villedieu</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="houdan">Houdan</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="saone_loire">Saône-et-Loire</placeName>
+               </place>
+               <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
                </place>
                <place>
                   <placeName xml:id="paris">Paris</placeName>
                </place>
                <place>
+                  <placeName xml:id="saint-quentin">Saint-Quentin</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="toulouse">Toulouse</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="boulogne">Boulogne</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="beauvais">Beauvais</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="falaise">Falaise</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="creuset">Creuset</placeName>
+               </place>
+               <place>
                   <placeName xml:id="bruxelles">Bruxelles</placeName>
                </place>
                <place>
-                  <placeName xml:id="boston">Boston
-                  </placeName>
+                  <placeName xml:id="boston">Boston</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="cochinchine">Cochinchine</placeName>
                </place>
                <place> 
                   <placeName xml:id="l_avre">l'Avre
@@ -421,6 +489,13 @@
                   <placeName xml:id="la_moye">la Moye
                      <geogFeat>River</geogFeat>
                   </placeName>
+               </place>
+               <place>
+                  <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation
+                  </placeName>
+               </place>
+               <place>
+                  <placeName xml:id="ecoleAgriculture">l'École d'agriculture</placeName>
                </place>
             </listPlace>
          </settingDesc>
@@ -435,7 +510,7 @@
                <div type="student">
                   
                   <pb type="page" n="391"/>
-                  <head> 111. — Notre amie l'abeille. (Élève, p. 238.) </head>
+                  <head> 111. — Notre amie <seg ana="#animauxSauvages">l'abeille</seg>. (Élève, p. 238.) </head>
          
                   <p> <persName ana="#l'apiculteur">Le professeur</persName> marcha vers <seg ana="#basse-cour">une ruche</seg> carrée semblable à un livre relié en <seg ana="#arbreNoncultives">bois</seg>, monté sur <seg ana="#basse-cour">un pivot</seg>. </p>
                   <p> On le suivit. Il ouvrit ce livre, et une exclamation de surprise sortit de toutes les bouches. C'était un merveilleux <!--livre d'histoire naturelle--> à images vivantes. </p>
@@ -443,20 +518,20 @@
                   <p> <persName ana="#l'apiculteur">Le vieux monsieur</persName> donna des explications : </p>
                   
                   <figure> 
-                     <caption> Gâteau suspendu verticalement dans la ruche avec ses entrées, moitié à droite, moitié à gauche. </caption>
+                     <caption> <seg ana="#scienceNat">Gâteau</seg> suspendu verticalement dans <seg ana="#constructions">la ruche</seg> avec ses entrées, moitié à droite, moitié à gauche. </caption>
                   </figure>
                   
                   <sp><speaker>L'apiculteur</speaker><ab> Vers le milieu du <seg ana="#scienceNat">gâteau</seg> était <seg ana="#scienceNat">le couvain</seg>. C'est là que se trouvent les jeunes <seg ana="#animaux">larves</seg>, récemment <seg ana="#animaux">écloses</seg> <seg ana="#animaux">des œufs pondus par <seg ana="#animauxSauvages">la mère abeille</seg></seg>, dont <seg ana="#animaux">la tête</seg>, à gros <seg ana="#animaux">yeux</seg>, émergeait*<!--No definition in the lexique--> en ce moment de son minuscule palais. <lb/>
                      <seg ana="#animauxSauvages">Des ouvrières aux longues ailes</seg> s'agitaient à l'entour, <seg ana="#animauxSauvages">distribuant <seg ana="#matieresObjets">la pâtée</seg> et les soins aux <seg ana="#animaux">larves</seg></seg>, leurs petites sœurs, leurs futures compagnes de travail lorsqu'elles se seront transformées en <seg ana="#animaux">nymphes</seg><!--Definition for nymphes (Nymphe. Insecte au premier degré de ses différentes formes.) in lexique but no asterisk-->, puis en <seg ana="#animaux">insectes ailés</seg>. <lb/>
                      
                      <figure> 
-                        <caption> Les <hi rend="italic">Ruche.</hi>
+                        <caption> <hi rend="italic"><seg ana="#constructions">Ruche</seg>.</hi>
                            <lb/>
                            Vue extérieurement et intérieurement.
                         </caption>
                      </figure>
                      
-                     D'autres ouvrières passaient, montaient vers le haut de <seg ana="#basse-cour">la ruche</seg> ; et là, se penchant au-dessus de quelque <seg ana="#scienceNat">alvéole</seg>, <seg ana="#animauxSauvages">dégorgeaient <seg ana="#vegetaux">le nectar</seg></seg> qu'elles ve-
+                     D'autres <seg ana="#animauxSauvages">ouvrières</seg> passaient, montaient vers le haut de <seg ana="#basse-cour">la ruche</seg> ; et là, se penchant au-dessus de quelque <seg ana="#scienceNat">alvéole</seg>, <seg ana="#animauxSauvages">dégorgeaient <seg ana="#scienceNat">le nectar</seg></seg> qu'elles ve-
          
                      <pb type="page" n="392"/>   
                      <fw type="header"> 392 SUZETTE. </fw>

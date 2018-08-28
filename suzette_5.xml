@@ -56,8 +56,11 @@
             <language ident="eng">English</language>
          </langUsage>
       </profileDesc>
-      <encodingDesc>
+         <encodingDesc>
          <charDecl>
+            <char>
+               <charName xml:id="les_dumay">La Famille Dumay</charName>
+            </char>
             <char>
                <charName xml:id="suzette">Suzette</charName>
             </char>
@@ -77,10 +80,7 @@
                <charName xml:id="charlot">Charlot</charName>
             </char>
             <char>
-               <charName xml:id="mme_valon">Mme Valon</charName>
-            </char>
-            <char>
-               <charName xml:id="m_valon">M. Valon</charName>
+               <charName xml:id="mathias_dumay">Mathias Dumay</charName>
             </char>
             <char>
                <charName xml:id="mme_richard">Mme Richard</charName>
@@ -98,10 +98,28 @@
                <charName xml:id="sylvain">Sylvain</charName>
             </char> 
             <char>
+               <charName xml:id="mme_valon">Mme Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="m_valon">M. Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="mme_lienard">Mme Liénard</charName>
+            </char>
+            <char>
                <charName xml:id="ludivine">Ludivine</charName>
             </char> 
             <char>
                <charName xml:id="m_lejoly">M. Lejoly</charName>
+            </char>
+            <char>
+               <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="jeanne">Jeanne</charName>
+            </char>
+            <char>
+               <charName xml:id="madeleine">Madeleine</charName>
             </char>
             <char>
                <charName xml:id="l_apiculteur">L'apiculteur</charName>
@@ -110,10 +128,7 @@
                <charName xml:id="la_bohemienne">La bohémienne</charName>
             </char>
             <char>
-               <charName  xml:id="m_cartier">M. Cartier</charName>
-            </char>
-            <char>
-               <charName xml:id="les_dumay">La Famille Dumay</charName>
+               <charName xml:id="la_flamande">La Flamande</charName>
             </char>
          </charDecl>
          <classDecl>
@@ -400,17 +415,70 @@
                   <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
+                  <placeName xml:id="siberie">Sibérie</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="ilesEcosse">Îles d'Écosse</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_belgique">la Belgique</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_hollande">la Hollande</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_inde">l'Inde</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="amienois">Amiénois</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="nerac">Nérac</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="lorraine">Lorraine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="villedieu">Villedieu</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="houdan">Houdan</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="saone_loire">Saône-et-Loire</placeName>
+               </place>
+               <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
                </place>
                <place>
                   <placeName xml:id="paris">Paris</placeName>
                </place>
                <place>
+                  <placeName xml:id="saint-quentin">Saint-Quentin</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="toulouse">Toulouse</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="boulogne">Boulogne</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="beauvais">Beauvais</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="falaise">Falaise</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="creuset">Creuset</placeName>
+               </place>
+               <place>
                   <placeName xml:id="bruxelles">Bruxelles</placeName>
                </place>
                <place>
-                  <placeName xml:id="boston">Boston
-                  </placeName>
+                  <placeName xml:id="boston">Boston</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="cochinchine">Cochinchine</placeName>
                </place>
                <place> 
                   <placeName xml:id="l_avre">l'Avre
@@ -422,6 +490,13 @@
                      <geogFeat>River</geogFeat>
                   </placeName>
                </place>
+               <place>
+                  <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation
+                  </placeName>
+               </place>
+               <place>
+                  <placeName xml:id="ecoleAgriculture">l'École d'agriculture</placeName>
+               </place>
             </listPlace>
          </settingDesc>
       </profileDesc>
@@ -429,7 +504,6 @@
    <text>
       <body>
          <!-- n is for maitresse edition, corresp is for student edition -->
-         
          <div type="chapter" n="5">
             <div xml:lang="fr">
                <div type="student">
@@ -437,35 +511,35 @@
                   <pb type="page" n="15"/>
                   <head> 5. — Le bon chemin. (Élève, p. 13.) </head>
                   
-                  <p> La classe s'acheva ; les enfants sortirent. Mme Valon arrêta Suzette, qui s'en allait aussi, mais lentement et l'œil songeur*<gloss> Œil songeur. Manière de regarder d'une personne préoccupée. </gloss> : </p>
-                  <sp><speaker>Mme Valon</speaker><ab> — A quoi pensons-nous, Suzette ? </ab></sp>
-                  <sp><speaker>Suzette</speaker><ab> — A cette femme des premiers temps, Madame. </ab></sp>
+                  <p> La classe s'acheva ; les enfants sortirent. <persName ana="#mme_valon">Mme Valon</persName> arrêta <persName ana="#suzette">Suzette</persName>, qui s'en allait aussi, mais lentement et l'œil songeur*<gloss> Œil songeur. Manière de regarder d'une personne préoccupée. </gloss> : </p>
+                  <sp><speaker>Mme Valon</speaker><ab> — A quoi pensons-nous, <persName ana="#suzette">Suzette</persName> ? </ab></sp>
+                  <sp><speaker>Suzette</speaker><ab> — A cette <persName>femme des premiers temps</persName>, <persName ana="#mme_valon">Madame</persName>. </ab></sp>
                   <sp><speaker>Mme Valon</speaker><ab> — Ah ! tu as compris : je savais bien que tu comprendrais. Viens ! </ab></sp>
-                  <p> Elle la fit entrer dans la salle à manger. Qu'elle était propre, jolie et animée, cette salle à manger ! </p>
-                  <p> Deux jolis bébés y jouaient sous les yeux souriants de leur grand’mère, Mme Liénard. Placés en ce moment devant la fenêtre encadrée de clématite, ils semblaient couronnés de feuillage, comme le petit enfant de la lecture. Le buffet, les chaises brillaient, le carreau était 
+                  <p> <name type="space" n="f">Elle la fit entrer dans la salle à manger</name>. Qu'elle était propre, jolie et animée, cette salle à manger ! </p>
+                  <p> <persName>Deux jolis bébés</persName> y jouaient sous les yeux souriants de <persName ana="#mme_lienard">leur grand’mère, <persName ana="#mme_lienard"></persName>Mme Liénard</persName>. <name type="space" n="b">Placés en ce moment devant la fenêtre</name> encadrée de clématite, ils semblaient couronnés de feuillage, comme <persName>le petit enfant de la lecture</persName>. Le buffet, les chaises brillaient, le carreau était 
                      
                      <pb type="page" n="16"/>
                      <fw type="header"> 16 SUZETTE. </fw>
                      
-                     rouge, éclatant de netteté*<gloss> Netteté. Qualité de ce qui est sans souillure. </gloss>. Une appétissante odeur de bonne cuisine sortait de droite. M. Valon, le mari, dont la classe venait aussi de finir, entra, sourit à la bonne grâce des choses et des gens réunis là. C'était certai- <lb/>
+                  rouge, éclatant de netteté*<gloss> Netteté. Qualité de ce qui est sans souillure. </gloss>. Une appétissante odeur de bonne cuisine sortait de droite. <persName ana="#m_valon">M. Valon</persName>, <persName ana="#m_valon">le mari</persName>, dont la classe venait aussi de finir, entra, sourit à la bonne grâce des choses et des gens réunis là. C'était certai- <lb/>
                      
                      <figure>
-                        <caption> Les deux enfants de Mme Valon, sous les yeux souriants de leur grand'mère. </caption>
+                        <caption> <persName>Les deux enfants de <persName ana="#mme_valon">Mme Valon</persName></persName>, sous les yeux souriants de <persName ana="#mme_lienard">leur grand'mère</persName>. </caption>
                      </figure>
                      
-                     nement le sourire de l'homme des vieux temps à l'aspect de sa caverne fleurie ! </p>
-                  <p> Suzette soupira. </p>
-                  <sp><speaker>Mme Valon</speaker><ab> — Parle, mon enfant, </ab></sp> <stage> lui dit Mme Valon en l’emmenant dans sa chambre. </stage>
-                  <sp><speaker>Suzette</speaker><ab> — Oh ! Madame... chez nous... tout traîne en désordre ; il n'y a que des toiles d'araignées et de la poussière... </ab></sp>
-                  <sp><speaker>Mme Valon</speaker><ab> — Oui, chère enfant ; en passant hier, j'ai vu, par la fenêtre ouverte, de grandes bottes pleines de boue se prélassant*<gloss> Prélasser (se). Marcher avec un air de gravité orgueilleuse. </gloss> près de la soupière au milieu d'épluchures, d'escarbilles*<gloss> Escarbilles. Morceaux de charbon de terre de petite dimension. </gloss>, de brins de paille, sans compter des toiles d'araignées à prendre toutes les mouches du 
+                  nement le sourire de <persName>l'homme des vieux temps</persName> à l'aspect de sa caverne fleurie ! </p>
+                  <p> <persName ana="#suzette">Suzette</persName> soupira. </p>
+                  <sp><speaker>Mme Valon</speaker><ab> — Parle, <persName ana="#suzette">mon enfant</persName>, </ab></sp> <stage> lui dit <persName ana="#mme_valon">Mme Valon</persName> <name type="space" n="f">en l’emmenant dans sa chambre</name>. </stage>
+                  <sp><speaker>Suzette</speaker><ab> — Oh ! <persName ana="#mme_valon">Madame</persName>... chez nous... tout traîne en désordre ; il n'y a que des toiles d'araignées et de la poussière... </ab></sp>
+                  <sp><speaker>Mme Valon</speaker><ab> — Oui, <persName ana="#suzette">chère enfant</persName> ; en passant hier, j'ai vu, par la fenêtre ouverte, de grandes bottes pleines de boue se prélassant*<gloss> Prélasser (se). Marcher avec un air de gravité orgueilleuse. </gloss> près de la soupière au milieu d'épluchures, d'escarbilles*<gloss> Escarbilles. Morceaux de charbon de terre de petite dimension. </gloss>, de brins de paille, sans compter des toiles d'araignées à prendre toutes les mouches du 
                      
                      <pb type="page" n="17"/>
                      <fw type="header"> LE BON CHEMIN. 17 </fw>
                      
-                     pays. C'est un peu pour cela que j'ai fait tout à l'heure cette lecture ; je te savais des oreilles et du cœur. Je savais également, par ce qu'on m'en a dit, l'ordre, la propreté, la gentillesse de ta pauvre maman. </ab></sp>
-                  <p> Suzette se mit à pleurer : </p>
-                  <sp><speaker>Suzette</speaker><ab> — Oui, Madame, je me rappelle bien maman... Mais papa, par bonté, me trouvant encore trop jeune, ne veut pas que je me fatigue trop. Et voilà pourquoi, </ab></sp> <stage> — ajouta-t-elle en souriant à travers ses larmes, </stage> <sp><speaker>Suzette</speaker><ab> — voilà pourquoi je ne me fatigue pas du tout, laissant les épluchures à terre et les araignées au plafond. Il est plus commode de laisser aller les choses que de les gouverner*<gloss> Gouverner. Donner la direction. </gloss>. Mais certainement, Madame, je vais me mettre au ménage, car j'ai bien compris que c'est à moi à embellir notre maison, à la rendre riante, agréable, comme faisait la femme de la caverne, et comme faisait ma mère. </ab></sp>
-                  <p> Elle disait si juste, la petite Suzette ; son visage exprimait une si bonne, si tendre résolution*<gloss> Résolution. Disposition à faire une chose malgré les obstacles. </gloss> que Mme Valon l'embrassa pour toute réponse. </p>
+                     pays. C'est un peu pour cela que j'ai fait tout à l'heure cette lecture ; je te savais des oreilles et du cœur. Je savais également, par ce qu'on m'en a dit, l'ordre, la propreté, la gentillesse de <persName ana="#la_maman">ta pauvre maman</persName>. </ab></sp>
+                  <p> <persName ana="#suzette">Suzette</persName> se mit à pleurer : </p>
+                  <sp><speaker>Suzette</speaker><ab> — Oui, <persName ana="#mme_valon">Madame</persName>, je me rappelle bien <persName ana="#la_maman">maman</persName>... Mais <persName ana="#papa">papa</persName>, par bonté, me trouvant encore trop jeune, ne veut pas que je me fatigue trop. Et voilà pourquoi, </ab></sp> <stage> — ajouta-t-elle en souriant à travers ses larmes, </stage> <sp><speaker>Suzette</speaker><ab> — voilà pourquoi je ne me fatigue pas du tout, laissant les épluchures à terre et les araignées au plafond. Il est plus commode de laisser aller les choses que de les gouverner*<gloss> Gouverner. Donner la direction. </gloss>. Mais certainement, <persName ana="#mme_valon">Madame</persName>, je vais me mettre au ménage, car j'ai bien compris que c'est à moi à embellir notre maison, à la rendre riante, agréable, comme faisait <persName>la femme de la caverne</persName>, et comme faisait <persName ana="#la_maman">ma mère</persName>. </ab></sp>
+                  <p> Elle disait si juste, <persName ana="#suzette">la petite Suzette</persName> ; son visage exprimait une si bonne, si tendre résolution*<gloss> Résolution. Disposition à faire une chose malgré les obstacles. </gloss> que <persName ana="#mme_valon">Mme Valon</persName> l'embrassa pour toute réponse. </p>
                   <p> Heureux les bons petits esprits qui ont du cœur ! heureuse la famille où ils sont nés ! </p>
                   
                   <div type="questionnaire">

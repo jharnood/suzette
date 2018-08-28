@@ -56,8 +56,11 @@
             <language ident="eng">English</language>
          </langUsage>
       </profileDesc>
-      <encodingDesc>
+        <encodingDesc>
          <charDecl>
+            <char>
+               <charName xml:id="les_dumay">La Famille Dumay</charName>
+            </char>
             <char>
                <charName xml:id="suzette">Suzette</charName>
             </char>
@@ -77,10 +80,7 @@
                <charName xml:id="charlot">Charlot</charName>
             </char>
             <char>
-               <charName xml:id="mme_valon">Mme Valon</charName>
-            </char>
-            <char>
-               <charName xml:id="m_valon">M. Valon</charName>
+               <charName xml:id="mathias_dumay">Mathias Dumay</charName>
             </char>
             <char>
                <charName xml:id="mme_richard">Mme Richard</charName>
@@ -98,10 +98,28 @@
                <charName xml:id="sylvain">Sylvain</charName>
             </char> 
             <char>
+               <charName xml:id="mme_valon">Mme Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="m_valon">M. Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="mme_lienard">Mme Liénard</charName>
+            </char>
+            <char>
                <charName xml:id="ludivine">Ludivine</charName>
             </char> 
             <char>
                <charName xml:id="m_lejoly">M. Lejoly</charName>
+            </char>
+            <char>
+               <charName  xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="jeanne">Jeanne</charName>
+            </char>
+            <char>
+               <charName xml:id="madeleine">Madeleine</charName>
             </char>
             <char>
                <charName xml:id="l_apiculteur">L'apiculteur</charName>
@@ -110,10 +128,7 @@
                <charName xml:id="la_bohemienne">La bohémienne</charName>
             </char>
             <char>
-               <charName  xml:id="m_cartier">M. Cartier</charName>
-            </char>
-            <char>
-               <charName xml:id="les_dumay">La Famille Dumay</charName>
+               <charName xml:id="la_flamande">La Flamande</charName>
             </char>
          </charDecl>
          <classDecl>
@@ -400,17 +415,70 @@
                   <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
+                  <placeName xml:id="siberie">Sibérie</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="ilesEcosse">Îles d'Écosse</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_belgique">la Belgique</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_hollande">la Hollande</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_inde">l'Inde</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="amienois">Amiénois</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="nerac">Nérac</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="lorraine">Lorraine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="villedieu">Villedieu</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="houdan">Houdan</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="saone_loire">Saône-et-Loire</placeName>
+               </place>
+               <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
                </place>
                <place>
                   <placeName xml:id="paris">Paris</placeName>
                </place>
                <place>
+                  <placeName xml:id="saint-quentin">Saint-Quentin</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="toulouse">Toulouse</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="boulogne">Boulogne</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="beauvais">Beauvais</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="falaise">Falaise</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="creuset">Creuset</placeName>
+               </place>
+               <place>
                   <placeName xml:id="bruxelles">Bruxelles</placeName>
                </place>
                <place>
-                  <placeName xml:id="boston">Boston
-                  </placeName>
+                  <placeName xml:id="boston">Boston</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="cochinchine">Cochinchine</placeName>
                </place>
                <place> 
                   <placeName xml:id="l_avre">l'Avre
@@ -421,6 +489,13 @@
                   <placeName xml:id="la_moye">la Moye
                      <geogFeat>River</geogFeat>
                   </placeName>
+               </place>
+               <place>
+                  <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation
+                  </placeName>
+               </place>
+               <place>
+                  <placeName xml:id="ecoleAgriculture">l'École d'agriculture</placeName>
                </place>
             </listPlace>
          </settingDesc>
@@ -437,16 +512,16 @@
                   <pb type="page" n="93"/>
                   <head>26. — De l'eau! (Élève, p. 63.)</head>
          
-         <p> <persName ana="#suzette">Suzette</persName>, toute secouée par cet entrain, courut à la cuisine. </p>
+                  <p> <name type="space" ana="#suzette" n="f"><persName ana="#suzette">Suzette</persName>, toute secouée par cet entrain, courut à la cuisine.</name> </p>
          <sp><speaker>Suzette</speaker><ab> — <persName ana="#mme_valon">Madame</persName>, voilà de <seg ana="#mineraux">l'eau</seg>, </ab></sp> <stage> dit-elle, en rentrant tout essoufflée. </stage>
                   <sp><speaker>Mme Valon</speaker><ab> — Quelle est cette <seg ana="#mineraux">eau</seg> ? </ab></sp>
                   <sp><speaker>Suzette</speaker><ab> — De <seg ana="#sciencesPhys">l'eau propre</seg>. </ab></sp>
                   <sp><speaker>Mme Valon</speaker><ab> — De <seg ana="#sciencesPhys">l'eau propre</seg> ? ah ! vraiment ? Tu es bien sûre de sa <seg ana="#hygiene">propreté</seg> ? Ne sais-tu pas que cette <seg ana="#sciencesPhys">eau propre</seg> peut être pleine d'<seg ana="#hygiene">impuretés</seg>, de <seg ana="#hygiene">bêtes malfaisantes</seg> : que <seg ana="#maladiesRemedes">la fièvre typhoïde</seg>*<gloss>Fièvre typhoïde. Maladie que caractérise une grande inflammation intérieure.</gloss>, <seg ana="#maladiesRemedes">le choléra</seg>*<gloss>Choléra. Maladie épidémique et le plus souvent mortelle, caractérisée par des vomissements et des crampes.</gloss>, bien d'autres <seg ana="#maladiesRemedes">maladies</seg> peuvent y attendre que nous les absorbions*<gloss>Absorber. Introduire dans le corps par les ouvertures du nez ou de la bouche.</gloss>, n'ayant pas su les détruire ? Songe, qu'en ce moment il s'agit de <seg ana="#corpsHabitations">laver</seg> <seg ana="#maladiesRemedes">une plaie à vif</seg>*<gloss>Plaie à vif. Qui laisse voir la chair.</gloss>, qui n’a été que trop <seg ana="#maladiesRemedes">infectée</seg>*<gloss>Infecté. Communiquer une mauvaise odeur; gâter, corrompre.</gloss>. Va faire <seg ana="#corpsHabitations">bouillir</seg> cette <seg ana="#mineraux">eau</seg> pour <seg ana="#maladiesRemedes">détruire tous <seg ana="#hygiene">les germes malsains</seg></seg> qui s'y trouveraient. Pendant ce temps je cours prendre chez moi de <seg ana="#maladiesRemedes">l'acide phénique</seg>*<gloss>Acide phénique. Liquide désinfectant que l’on tire de la houille.</gloss>, un excellent <seg ana="#maladiesRemedes">caustique</seg>*<gloss>Caustique. Qui désorganise les chairs ou membranes comme une brûlure.</gloss> <seg ana="#maladiesRemedes">désinfectant</seg> qu'il faut toujours avoir dans son armoire. </ab></sp>
                   
                   <figure> 
-                     <caption> <hi rend="italic">Goutte d'eau vue au microscope.</hi>
+                     <caption> <hi rend="italic">Goutte d'<seg ana="#mineraux">eau</seg> vue au microscope.</hi>
                         <lb/>
-                        Ne buvez jamais d'eau sans qu'elle soit filtrée et, dans les temps d'épidémie, sans l'avoir fait bouillir. </caption>
+                        Ne buvez jamais d'<seg ana="#mineraux">eau</seg> sans qu'elle soit filtrée et, dans les temps d'<seg ana="#maladiesRemedes">épidémie</seg>, sans l'avoir fait bouillir. </caption>
                   </figure>
                   
          <p> Elle reparut bientôt avec un petit flacon dont elle versa deux gouttes dans un grand verre d'eau. </p>
