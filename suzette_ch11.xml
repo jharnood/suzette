@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Suzette: a Digital Edition - Chapter 2</title>
+            <title type="main">Suzette: a Digital Edition - Chapter 11</title>
             <respStmt>
                <persName>John Westbrook</persName>
                <orgName>Bucknell University</orgName>
@@ -14,6 +14,11 @@
             </respStmt>
             <respStmt>
                <persName>Annie Girton</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sarah Haber</persName>
                <orgName>Bucknell University</orgName>
                <resp>Research Assistant and Encoder</resp>
             </respStmt>
