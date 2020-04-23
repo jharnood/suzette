@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Suzette: a Digital Edition - Chapter 11</title>
+            <title type="main">Suzette: a Digital Edition - Chapter 114</title>
             <respStmt>
                <persName>John Westbrook</persName>
                <orgName>Bucknell University</orgName>
@@ -66,9 +66,6 @@
       <encodingDesc>
          <charDecl>
             <char>
-               <charName xml:id="les_dumay">La Famille Dumay</charName>
-            </char>
-            <char>
                <charName xml:id="suzette">Suzette</charName>
             </char>
             <char>
@@ -87,7 +84,10 @@
                <charName xml:id="charlot">Charlot</charName>
             </char>
             <char>
-               <charName xml:id="mathias_dumay">Mathias Dumay</charName>
+               <charName xml:id="mme_valon">Mme Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="m_valon">M. Valon</charName>
             </char>
             <char>
                <charName xml:id="mme_richard">Mme Richard</charName>
@@ -105,28 +105,10 @@
                <charName xml:id="sylvain">Sylvain</charName>
             </char>
             <char>
-               <charName xml:id="mme_valon">Mme Valon</charName>
-            </char>
-            <char>
-               <charName xml:id="m_valon">M. Valon</charName>
-            </char>
-            <char>
-               <charName xml:id="mme_lienard">Mme Liénard</charName>
-            </char>
-            <char>
                <charName xml:id="ludivine">Ludivine</charName>
             </char>
             <char>
                <charName xml:id="m_lejoly">M. Lejoly</charName>
-            </char>
-            <char>
-               <charName xml:id="m_cartier">M. Cartier</charName>
-            </char>
-            <char>
-               <charName xml:id="jeanne">Jeanne</charName>
-            </char>
-            <char>
-               <charName xml:id="madeleine">Madeleine</charName>
             </char>
             <char>
                <charName xml:id="l_apiculteur">L'apiculteur</charName>
@@ -135,8 +117,12 @@
                <charName xml:id="la_bohemienne">La bohémienne</charName>
             </char>
             <char>
-               <charName xml:id="la_flamande">La Flamande</charName>
+               <charName xml:id="m_cartier">M. Cartier</charName>
             </char>
+            <char>
+               <charName xml:id="les_dumay">La Famille Dumay</charName>
+            </char>
+
          </charDecl>
          <classDecl>
             <taxonomy xml:id="classification">
@@ -424,70 +410,16 @@
                   <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
-                  <placeName xml:id="siberie">Sibérie</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="ilesEcosse">Îles d'Écosse</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="la_belgique">la Belgique</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="la_hollande">la Hollande</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="l_inde">l'Inde</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="amienois">Amiénois</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="nerac">Nérac</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="lorraine">Lorraine</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="villedieu">Villedieu</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="houdan">Houdan</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="saone_loire">Saône-et-Loire</placeName>
-               </place>
-               <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
                </place>
                <place>
                   <placeName xml:id="paris">Paris</placeName>
                </place>
                <place>
-                  <placeName xml:id="saint-quentin">Saint-Quentin</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="toulouse">Toulouse</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="boulogne">Boulogne</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="beauvais">Beauvais</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="falaise">Falaise</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="creuset">Creuset</placeName>
-               </place>
-               <place>
                   <placeName xml:id="bruxelles">Bruxelles</placeName>
                </place>
                <place>
-                  <placeName xml:id="boston">Boston</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="cochinchine">Cochinchine</placeName>
+                  <placeName xml:id="boston">Boston </placeName>
                </place>
                <place>
                   <placeName xml:id="l_avre">l'Avre <geogFeat>River</geogFeat>
@@ -497,242 +429,83 @@
                   <placeName xml:id="la_moye">la Moye <geogFeat>River</geogFeat>
                   </placeName>
                </place>
-               <place>
-                  <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation </placeName>
-               </place>
-               <place>
-                  <placeName xml:id="ecoleAgriculture">l'École d'agriculture</placeName>
-               </place>
             </listPlace>
          </settingDesc>
       </profileDesc>
    </teiHeader>
-   <text>
+  <text>
       <body>
-         <!-- n is for maitresse edition, corresp is for student edition -->
-         <div type="chapter" n="11">
-
+         <div type="chapter" n="14">
             <div xml:lang="fr">
                <div type="student">
-                  <pb type="page" n="37"/>
-                  <head>11. — La petite hirondelle. (Élève, p. 28.)</head>
-                  <p>Le lendemain, Suzette revenait, à cette pensée par une de ces matinées dorées
-                     qui annoncent l'automne; un léger voile de brouillard flottait au loin sur la
-                     plaine, et, sous un vent doux, s'en allait par lambeaux.</p>
-                  <p> Levée la première, Suzette, à ce charme matinal, secoua un peu le souci* qui
-                     la tenait de voir recommencer la scène de la veille. Elle fit quelques pas hors
-                     de la porte, admira la pureté du ciel, puis regarda le faite du portique à
-                     colombier où les hirondelles allaient, venaient à tire-d'aile*, fort animées,
-                     bavardant du départ prochain.</p>
-                  <figure>
-                     <caption><hi rend="italic">Hirondelles.</hi></caption>
-                     <caption>Ces oiseaux de passage habitent nos régions du printemps à l'automne
-                        et les régions tropicales pendant l'hiver. L’hirondelle est un animal utile
-                        qui se nourrit d'insectes.</caption>
-                  </figure>
-                  <fw type="footer">Suzette (Maîtresse) <fw type="sig">3</fw></fw>
-
-               </div>
-            </div>
-         </div>
-
-
-         <div>
-            <pb type="page" n="38"/>
-            <fw type="header">38 SUZETTE. </fw>
-            <p> Une d'entre elles, toute mignonne, toute jeunette, décrivait ses courbes avec des
-               cris de joie, s'élevait, descendait en ondulant*; deux fois elle passa près de la
-               jeune fille à la toucher; Suzette lui dit : </p>
-            <sp>
-               <speaker> Suzette </speaker>
-               <ab> — Bonjour, bonjour, petite sœur hirondelle! </ab>
-            </sp>
-            <p> Et l'oiseau revint à elle avec un pépiement doux, comme s'il voulait entendre encore
-               la caresse de cette voix. Dans son vol balancé, il lui frôla la joue et, comme il
-               remontait, Suzette poussa un cri : une pierre venait de frapper l'hirondelle, qui
-               tournoya et tomba sur le sol. </p>
-            <p>François était là derrière, un sourire gêné aux lèvres. Suzette, frémissante, eut un
-               mouvement vers le meurtrier; elle s'arrêta, puis alla ramasser l'hirondelle, et sans
-               un mot, toute pâle, rentra dans la maison.</p>
-            <p>M. Dumay, Jacques et Charlot, qui venaient ensemble du jardin, approchèrent.</p>
-            <sp>
-               <speaker> M.Dumay </speaker>
-               <ab>— Qui l’a tuée? </ab>
-            </sp>
-            <stage> demanda M. Dumay,</stage>
-            <figure>
-               <caption> Bonjour, bonjour, petite sœur hirondelle!</caption>
-            </figure>
-         </div>
-
-
-
-
-         <div>
-            <pb type="page" n="39"/>
-            <fw type="header"> LA PETITE HIRONDELLE. 39</fw>
-            <sp>
-               <speaker> Jacques </speaker>
-               <ab>—Oui, qui l'a tuée? </ab>
-            </sp>
-            <stage> répéta Jacques. </stage>
-            <p>Mais Suzette ne nomma pas le coupable.</p>
-            <sp>
-               <speaker> Suzette </speaker>
-               <ab>— Il se tenait derrière la porte entrouverte, et elle l'avait aperçu. </ab>
-            </sp>
-            <p>Elle dit seulement, d'une voix mouillée de larmes : </p>
-            <sp>
-               <speaker> Suzette </speaker>
-               <ab>— Il y a un instant la pauvre créature vivait là, et chantait. Maintenant, la vie
-                  et le chant sont finis; elle est morte! </ab>
-            </sp>
-            <sp>
-               <speaker> Jacques </speaker>
-               <ab>— C'était l'amie de la maison,</ab>
-            </sp>
-            <stage> dit Jacques. </stage>
-            <stage>Le père ajouta : </stage>
-            <sp>
-               <speaker> La père </speaker>
-               <ab>—Que de fois votre mère et moi nous avons, au printemps, guetté* le retour des
-                  hirondelles en tremblant qu'elles ne désertassent* les nids de notre demeure!</ab>
-            </sp>
-            <p>Suzette tendit du côté de Charlot sa main, où l'oiseau, saignant de sa blessure, la
-               tête pendante, était étendu. </p>
-            <sp>
-               <speaker> Charlot </speaker>
-               <ab>— Réchauffe-le bien, </ab>
-               <stage> dit Charlot; </stage>
-               <ab> peut-être il revivra. </ab>
-            </sp>
-            <sp>
-               <speaker> Suzette </speaker>
-               <ab>— Non; c'est fini, c'est la mort! Tu vois, on ôte la vie, mais on ne la rend pas.
-                  Pauvre petite hirondelle ! </ab>
-            </sp>
-            <sp>
-               <speaker> Jacques </speaker>
-               <ab>— Enfin ! </ab>
-               <stage> s'écria Jacques avec indignation, </stage>
-               <ab> qui donc l'a tuée? </ab>
-            </sp>
-            <sp>
-               <speaker> La père </speaker>
-               <ab>— Où est François?</ab>
-            </sp>
-            <stage> demanda le père, l'air soupçonneux.</stage>
-         </div>
-
-         <div type="questionaire">
-            <ab>
-               <hi rend="bold"> Questionnaire. </hi> — Que voyait-on dans la plaine pur une belle
-               matinée d'automne ? — Que lit Suzette en ce moment ? — Que se passait-il sous le
-               portique, du colombier ? — Que faisait une de ces gentilles hirondelles? — Parlez de
-               ses jeux avec Suzette. — Quel <cb/> événement interrompit cette scène charmante? —
-               Qui avait tué l'hirondelle et quelle fut la conduite de Suzette à l’égard de son
-               frère? — Reproduisez le dialogue qui ont lieu entre les membres de la famille. — Que
-               demanda Jacques indigné? </ab>
-         </div>
-
-         <div type="teacher">
-            <div type="exercise">
-               <head type="exercise"> DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES. </head>
-
-               <div type="morale">
-                  <head type="sujets"> Morale. </head>
-                  <ab type="question"> — Que pensez-vous de l'acte de François? — Est-il permis de
-                     frapper, ou de tuer inutilement les animaux, et pourquoi? — Que pensez-vous de
-                     la discrétion de Suzette? — Que feriez-vous si vous voyiez commettre à l'école
-                     une action répréhensible? </ab>
-                  <ab type="answer"> L'acte de François témoigne combien il est fâcheux d'agir sans
-                     prendre le temps de réfléchir sur ce qu'on va faire. Que les enfants se défient
-                     d'une première impulsion: rarement elle est bonne ou prudente, et ils se
-                     préparent ainsi d'amers regrets. Si François eût pris le temps de songer aux
-                     services que-rendent les hirondelles, à l'affection de sa sœur pour le gentil
-                     oiseau, enfin à la lâcheté qu'il y a de frapper les êtres inoffensifs, nul
-                     doute que la pierre n'aurait pas quitté sa main. Il est, on effet, bien peu
-                     d'enfants capables d'un acte de froide cruauté. Les animaux sentent comme nous;
-                     ils souffrent des mauvais traite-</ab>
-               </div>
-
-               <div>
-                  <pb type="page" n="40"/>
-                  <fw type="header"> 40 SUZETTE.</fw>
-                  <p>ments et des privations qu'on leur inflige, et la mort n'a pas moins
-                     d'angoisses pour eux que pour les hommes, C'est donc commettre une mauvaise
-                     action que de les faire souffrir et de les priver de la vie. De telles choses
-                     sont permises seulement lorsque la nécessité les justifie : tel est, par
-                     exemple, le besoin de pourvoir à la conservation et à la défense do notre vie. </p>
-                  <p>Suzette, en ne dénonçant pas son frère, a agi comme une personne généreuse et
-                     discrète. Celles qui se font un malin plaisir de rapporter ce que font les
-                     autres, et notamment leurs condisciples, commettent une lâcheté, à moins
-                     qu'elles n'aient une surveillance à exercer. Elles montrent ainsi qu'elles
-                     n'ont aucune affection pour leurs compagnes et aucune délicatesse de cœur.</p>
-                  <p>Si je voyais une de mes compagnes commettre une action répréhensible, disait
-                     une jeune fille, je lui ferais observer discrètement, et dans un entretien
-                     particulier, qu'elle aurait pu mieux agir; je lui rappellerais les avis et les
-                     bons exemples qui condamnent cette action. Si elle se disposait à recommencer
-                     et qu'il en dût résulter de graves inconvénients, j'en préviendrais mes parents
-                     ou madame l'institutrice, afin d'aviser aux mesures que réclamerait la
-                     circonstance.</p>
-                  <p>
-                     <hi rend="bold"> Sciences naturelles. </hi> — <hi rend="italic"> Quels oiseaux
-                        habitent nos contrées seulement pendant la belle saison? — Parlez de leur
-                        arrivée, de leur départ. — Comment s'y prennent ces oiseaux pour construire
-                        leurs nids? — Où les placent-ils? — Détails sur les nids d'hirondelles.
-                     </hi></p>
-                  <p>Certains oiseaux ne quittent jamais nos contrées; tels sont les moineaux, los
-                     rouges-gorges, les chardonnerets, les corbeaux, les hiboux, D'autres les
-                     abandonnent à la fin des beaux jours et ne reviennent qu'avec le printemps; par
-                     exemple, les hirondelles, les rossignols, les mésanges, les cailles, les oles
-                     et les canards sauvages, les cigognes, les grues. Los oiseaux des quatre
-                     dernières espèces que nous venons d'énumérer, gagnent les pays chauds en bandes
-                     qui forment un angle aigu, et cela afin de diminuer la résistance de l'air.</p>
-                  <p>La plupart dos oiseaux déploient, dans la construction de leurs nids, une
-                     adresse, une habileté remarquables; et chose non moins surprenante, c'est la
-                     régularité avec laquelle les différentes générations bâtissent des nids
-                     exactement semblables, lors môme que les circonstances ne leur ont jamais
-                     permis d'en voir et de prendre des leçons de leurs parents.</p>
-                  <p>Los parois des nids sont ordinairement établies avec de petites tiges
-                     flexibles, mastiquées quelquefois avec de la terre délayée dans de l'eau.
-                     L'intérieur en est presque toujours garni de fils de crin, de laine ou d'un
-                     duvet moelleux qu'ils arrachent de leur poitrine.</p>
-                  <p>Les nids des hirondelles sont maçonnés et fixés sous des abris, soit aux angles
-                     supérieurs des fenêtres, soit aux entablements, aux solives des hangars et
-                     d'autres lieux demi-clos dont l'accès est facile; ils durent plusieurs années
-                     et servent au même couple.</p>
-                  <p><hi rend="bold"> Agriculture.</hi> — <hi rend="italic">De quoi se nourrissent
-                        les insectes? Citez quelques exemples. — Qu'est-ce qui souffre des ravages
-                        des insectes ? — Quels services rendent à l'homme les hirondelles en
-                        particulier et les oiseaux en général?</hi></p>
-                  <p>Des milliers d'espèces d'insectes, toutes douées d'une effrayante fécondité,
-                     vivont aux dépens des végétaux les plus utiles à l'homme : le blé, la vigne, la
-                     pomma de terre, la betterave, sans compter les fruits des arbres. Plusieurs
-                     variétés de ces animaux détruisent le</p>
-               </div>
-
-               <div>
-                  <pb type="page" n="41"/>
-                  <fw type="header">ON SE DÉBARBOUILLE. 41</fw>
-                  <p>plant à sa sortie de la terre : les limaces, par exemple, dont les ravages sont
-                     incalculables lors des années humides. D'autres s'attaquent aux racines des
-                     légumes, comme les courtilières et les larves des hannetons.</p>
-                  <p>Ce n'est pas tout : des bandes de rongeurs, souris, rats, mulots, campagnols,
-                     pénètrent dans les granges après avoir vécu pendant la belle saison aux dépens
-                     de nos récoltes; elles dévorent les grains et mettent la paille en miettes.</p>
-                  <p>L'homme succomberait dans sa lutte contre de si terribles adversaires, si Dieu
-                     ne lui eût donné dans les oiseaux des auxiliaires précieux : hirondelles,
-                     moineaux, fauvettes, mésanges, chardonnerets, détruisent une quantité
-                     prodigieuse d'insectes. Les oiseaux de proie nocturnes, et nous voulons
-                     désigner par là les hiboux, les chouettes, les grands-ducs, font une guerre
-                     d'extermination aux rongeurs, et avec bien plus de succès encore que les
-                     chats.</p>
-                  <p>Il est donc doublement imbécile et méchant celui qui tue ces utiles animaux, ou
-                     détruit leurs nids..</p>
-               </div>
-            </div>
-         </div>
+                  <pb type="page" n="34"/>
+         <head>14. — Brunehaut. (Élève, p. 34.)</head>
+         <p>Dans les villages où les chemins de fer ne sont encore qu'à l'état de jalons* peints en rouge et faisant la file indienne* par les plaines, un char à bancs ne s'attelle pas pour aller à la foire sans provoquer, quelque émotion:</p>
+         <sp>
+            <ab>— Denis Dumay, s'il vous plait, une petite place, deux petites places, ou trois?</ab>
+         </sp>
+         <sp>
+          <speaker>M. Dumay</speaker>
+            <ab>— Bon!</ab>
+         </sp>
+          <sp>
+         <ab>— Dites donc! si seulement vous en aviez quatre?</ab>
+          </sp>
+          <p>Tout fut accordé jusqu'à ce qu'il n'y eût plus moyen de loger même une sardine.</p>
+         <p>Cinq Dumay et sept voisins, vieux ou jeunes, étaient tassés à ne pas pouvoir se moucher.</p>
+         <p>Il y avait la voisine Ludivine, une petite femme à grosse tête comme un point d'interrogation, et son fils Vincent; puis, entre Baptiste Gardinet et Pierre Colas, un monsieur fumant la cigarette et un autre, encore plus monsieur, fumant le cigare.</p>
+         <p>C'était le gros Florentin Lejoly, qui, ayant voyagé à travers le département, feignait de ne plus comprendre le patois* de son village, et s'y donnait comme le meilleur parleur de français.</p>
+         <p>Auprès de lui, Morisot, le garde champêtre, une bonne tête de vieux soldat. Il avait cassé, la veille, sa pipe de deux sous achetée à la foire de l'an dernier, et allait la remplacer à la foire nouvelle.</p>
+         <p>On prit la grande route de Cambrai à Paris, par une chaussée* cailloutée de grès bleu, qui grinçait sous les roues.</p>
+         <sp>
+         <speaker>M. Dumay</speaker>
+         <ab>— La traverse eût abrégé,</ab>
+          <stage>dit M. Dumay, </stage>
+          <ab>mais, char-
+         <pb type="page" n="48"/>
+         <head>48 SUZETTE.</head>
+         gés comme nous le sommes, la chaussée Brunehaut est plus sûre.</ab>
+         </sp>
+         Il prononça Bruneau.
+         — Ah ça! demanda Ludivine, pourquoi cette chaussée-là s'appelle-t-elle Bruneau plutôt que Blondeau?
+         Sur quoi, très vite, Florentin Lejoly, qui portait comme tous les jours où il allait à la ville, un chapeau trop haut sur une tête trop pommadée, un veston trop petit et une chaîne de montre trop grosse, demanda à son tour à Ludivine pourquoi Blondeau au lieu de Bruneau.
+         Il se mit à rire le premier de ce qu'il prenait pour une excellente plaisanterie* et la moitié des gens en fit autant. Car le char à bancs charriait ce matin-là, ainsi qu'il arrive aux chars à bancs et à beaucoup d'autres voitures, l'ignorance naïve et l'ignorance prétentieuse * qui prend la parole sur toute chose.
+         Mais d'un coin de banquette une voix s'éleva ; — était-ce celle de Suzette ou une autre? en tout cas, c'était la voix de l'histoire.
+         Et en quelques mots Ludivine, M. Florentin Lejoly et le voisinage apprirent pourquoi cette chaussée, et plu-
+         Cinq Dumay et sept voisins, vieux ou jeunes, étaient tassés à ne pas pouvoir se moucher.
+         
+         
+         BRUNEHAUT. 40
+         sieurs autres du nord de la France, s'appelaient du nom de la reine d'Austrasie*, Brunehaut, qui les avait frayées, voilà douze siècles, à travers les grandes forêts couvrant alors ce pays. Peut-être la vieille reine avait-elle, dans son chariot attelé de bœufs, parcouru cette chaussée en examinant son œuvre utile aux hommes d'alors et même à ceux d'aujourd'hui, qui ont gardé la mémoire de son nom.
+         Cela se lisait dans un des livres de la bibliothèque scolaire fondée à Fragicourt par Mme Valon,
+         Questionnaire. — Que demandèrent les voisins en apercevant qu'on attelait la voiture ? — Que pensez-vous de M. Dumay en cette circonstance? — Quelles personnes s'étaient entassés dans le char à bancs? — Que savez-vous sur Florentin Lejoly? — Pourquoi le garde champêtre allait-il à la foire? — Quelle raison détermina M. Dumay à prendre la grande route? Que demanda Ludivine à propos de la chaussée? — Donnez quelques détails sur la toilette prétentieuse de Lejoly. — Quelle sotte question posa-t-il après Ludivine? — Quelle explication historique donna Suzette?
+         DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES.
+         Morale. — Quelle qualité montra M. Dumay en donnant place, dans son char à bancs, à chacun de ses voisins? — Comment une élève se montrera-t-elle obligeante envers ses parents, son institutrice, ses compagnes? — Avec lesquelles de ces dernières sera-t-elle le plus obligeante, et pourquoi? — Pourquoi les gens prétentieux sont-ils ridicules?
+         En donnant place à ses voisins dans son char à bancs, M, Dumay fit preuve d’obligeance. Obliger, c'est rendre service avec l'intention de faire plaisir, et tel est notre devoir envers les personnes qui vivent dans notre société habituelle, envers les faibles et surtout envers les enfants, si faciles à décourager. Comme le dit un moraliste : « Si l'on ne fait jamais rien pour les autres, on ne peut attendre d'eux ni reconnaissance, ni amitié, ni secours. » Qui ne connaît la touchante histoire de Fénelon, archevêque de Cambrai? Il se promenait un soir dans la campagne et y rencontra une famille de pauvres paysans tout en larmes. Ils lui dirent que la vache de la maison, leur principale ressource, s'était égarée et que les recherches pour la retrouver n'avaient point abouti. Après avoir essayé de les consoler, il poursuivit sa route et rencontra l'animal, qu'il reconnut au portrait qu'on lui en avait fait. Aussitôt il saisit la longe et ramena la vache à ceux qui l'avaient perdue, heureux de sécher leurs larmes.
+         Entre écolières, nulle qualité ne rend plus agréables et plus faciles les relations quotidiennes que l'obligeance; elle est la marque d'un cœur délicat et devient l'occasion de rapports sur lesquels se fonde peu à peu une solide amitié. On reconnait les élèves obligeantes à l'attention qu'elles montrent pour rendre à leurs compagnes ces mille petits services dont le besoin se manifeste si fréquemment dans la vie de l'école : tantôt c'est un livre, une plume, un crayon que l'on prête, une leçon qu'on explique, un problème dont on communique l'énoncé, un jouet dont on se prive; toutefois, l'obligeance ne saurait aller jus-
+         
+         
+         50 SUZETTE.
+         qu'à favoriser la négligence des esprits paresseux, en leur épargnant des recherches ou des travaux préparatoires.
+         S'il est, dans les compagnes de classe d'une élève, une catégorie d'enfants, envers qui l'on sera davantage porté à l'obligeance, ne croyons pas qu'il s'agisse des plus grandes, des plus instruites, voire même des plus intelligentes et des plus riches, mais de celles qui sont les plus faibles, les plus souffrantes, les plus timides et les moins favorisées de la fortune.
+         Généralement les gens prétentieux sont ridicules parce qu'ils manquent de goût et de discrétion; ils s'affublent plutôt qu'ils ne s'habillent; ils pérorent à tort et à travers; ils veulent faire étalage de savoir lorsque eux-mêmes sont les pires des ignorants; chacun s'en égaye.
+         Histoire. — Que savez-vous de Brunehaut? — Que savez-vous de sa sœur Galswinthe? — Quelles autres femmes célèbres sont citées avant elles dans l’histoire de notre pays? — Donnez quelques détails sur chacune d'elles.
+         Brunehaut, fille d'un roi des Wisigoths d'Espagne, épousa en 566 Sigebert, roi d'Austrasie. Pour venger le lâche assassinat de sa sœur Galswinthe, femme de l'odieux Chilpéric, elle décida son mari à la guerre; mais il ne tarda pas à tomber victime d'un assassin dépêché par Frédégonde, seconde femme de Chilpéric.
+         Orgueilleuse et violente, Brunehaut poursuivit la guerre pendant la minorité de ses fils. Plus tard, elle tenta d'abaisser la puissance des grands seigneurs pour affermir la couronne de ses petits-fils; mais elle ne réussit point dans son entreprise. Méprisée pour son inconduite, redoutée par son ambition, elle fut livrée à Clovis II, roi de Neustrie, qui la fit périr cruellement (613).
+         Parmi les femmes célèbres qui ont figuré avant Brunehaut et sa sœur dans l'histoire de France, nous citerons: les druidesses, qui soutinrent le courage des Gaulois dans leur lutte contre J. César ; — Eponine, si connue par son dévouement envers Sabinus, son époux; — Blandine, qui périt à Lyon, martyre de sa foi ; — sainte Geneviève, qui releva le courage des Parisiens, lors de l'invasion d'Attila; — Clotilde, femme de Clovis, à qui l'on attribue la conversion de son époux.
+         Industrie. — Comment établit-on une route, une chaussée? — Avec quelles pierres fabrique-t-on les pavés?
+         Pour établir une chaussée ou une route, on nivelle le sol dans le sens de la direction tracée au moyen de jalons; sur une largeur déterminée, on le recouvre de grosses pierres dures, placées debout les unes à côté des autres, sur lesquelles on dispose une couche de cailloux concassés plus épaisse au milieu que sur les côtés. Afin d'assurer l'adhérence de ces matériaux, on répand du sable à la surface; on arrose et l'on fait passer un rouleau de fer d'un poids considérable. Il ne reste plus qu'à creuser, à droite et à gaucho de la route, un fossé d'écoulement pour les eaux pluviales.
+         Les pavés sont en pierres très dures, ordinairement du grès ou du granit.
+         Français. — Quelle différence y a-t-il entre un sentier, un chemin rural, un chemin vicinal, une route, une rue, un quai?
+         Un sentier est une voie étroite que l'on suit dans les champs, les bois ou les prairies; il peut être facilement détruit ou rétabli, car il n'est ni pavé, ni entretenu.
+         Un chemin rural est une voie tracée entre les champs, où l'on circule avec difficulté parce qu'il n'est l'objet d'aucun travail de réparation.
+         
+         
+         LA CHARTE DU COMTE HERBERT. 51
+         Un chemin vicinal est une route étroite, établie dans de bonnes conditions de durée, qui facilite les communications entre les localités voisines.
+         Une roule est une large voie de communication construite avec soin pour que les hommes et les voitures y circulent en tout temps avec facilité.
+         Une rue est une route bordée de maisons.
+         Un quai est une route longeant un cours d'eau ou la mer; il est bordé, dans un sens, de maisons ou de magasins.
       </body>
-   </text>
+  </text>
 </TEI>
