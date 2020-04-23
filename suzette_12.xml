@@ -430,9 +430,7 @@
    </teiHeader>
    <text>
       <body>
-         <div type="chapter" n="12">
-            <div xml:lang="fr">
-
+         <div type="chapter" xml:lang="fr" n="12">
                <div type="student">
                   <pb type="page" n="41"/>
                   <head> 12. — On se débarbouille. (Élève, p. 30.) </head>
@@ -585,7 +583,7 @@
                      </div>
                   </div>
                </div>
-            </div>
+            
          </div> 
 
 

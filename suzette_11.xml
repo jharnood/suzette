@@ -510,9 +510,7 @@
    <text>
       <body>
          <!-- n is for maitresse edition, corresp is for student edition -->
-         <div type="chapter" n="11">
-
-            <div xml:lang="fr">
+         <div type="chapter" xml:lang="fr" n="11">
                <div type="student">
                   <pb type="page" n="37"/>
                   <head>11. — La petite hirondelle. (Élève, p. 28.)</head>
@@ -533,7 +531,7 @@
                   <fw type="footer">Suzette (Maîtresse) <fw type="sig">3</fw></fw>
 
                </div>
-            </div>
+            
          </div>
 
 
