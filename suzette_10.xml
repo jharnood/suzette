@@ -505,8 +505,7 @@
       <body>
          <!-- n is for maitresse edition, corresp is for student edition -->
          
-         <div type="chapter" n="10">
-            <div xml:lang="fr">
+         <div type="chapter" xml:lang="fr" n="10">
                <div type="student">
                   
                   <pb type="page" n="33"/>
@@ -625,7 +624,7 @@
                      </div>
                   </div>
                </div>
-            </div>
+            
          </div>
       </body>
    </text>
