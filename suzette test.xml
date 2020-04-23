@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Suzette: a Digital Edition - Chapter 11</title>
+            <title type="main">Suzette: a Digital Edition - Chapter 2</title>
             <respStmt>
                <persName>John Westbrook</persName>
                <orgName>Bucknell University</orgName>
@@ -14,11 +14,6 @@
             </respStmt>
             <respStmt>
                <persName>Annie Girton</persName>
-               <orgName>Bucknell University</orgName>
-               <resp>Research Assistant and Encoder</resp>
-            </respStmt>
-            <respStmt>
-               <persName>Sarah Haber</persName>
                <orgName>Bucknell University</orgName>
                <resp>Research Assistant and Encoder</resp>
             </respStmt>
@@ -509,9 +504,7 @@
    </teiHeader>
    <text>
       <body>
-         <!-- n is for maitresse edition, corresp is for student edition -->
          <div type="chapter" n="11">
-
             <div xml:lang="fr">
                <div type="student">
                   <pb type="page" n="37"/>
@@ -519,9 +512,9 @@
                   <p>Le lendemain, Suzette revenait, à cette pensée par une de ces matinées dorées
                      qui annoncent l'automne; un léger voile de brouillard flottait au loin sur la
                      plaine, et, sous un vent doux, s'en allait par lambeaux.</p>
-                  <p> Levée la première, Suzette, à ce charme matinal, secoua un peu le souci* qui
-                     la tenait de voir recommencer la scène de la veille. Elle fit quelques pas hors
-                     de la porte, admira la pureté du ciel, puis regarda le faite du portique à
+                  <p>Levée la première, Suzette, à ce charme matinal, secoua un peu le souci* qui la
+                     tenait de voir recommencer la scène de la veille. Elle fit quelques pas hors de
+                     la porte, admira la pureté du ciel, puis regarda le faite du portique à
                      colombier où les hirondelles allaient, venaient à tire-d'aile*, fort animées,
                      bavardant du départ prochain.</p>
                   <figure>
@@ -530,209 +523,74 @@
                         et les régions tropicales pendant l'hiver. L’hirondelle est un animal utile
                         qui se nourrit d'insectes.</caption>
                   </figure>
-                  <fw type="footer">Suzette (Maîtresse) <fw type="sig">3</fw></fw>
-
-               </div>
-            </div>
-         </div>
-
-
-         <div>
-            <pb type="page" n="38"/>
-            <fw type="header">38 SUZETTE. </fw>
-            <p> Une d'entre elles, toute mignonne, toute jeunette, décrivait ses courbes avec des
-               cris de joie, s'élevait, descendait en ondulant*; deux fois elle passa près de la
-               jeune fille à la toucher; Suzette lui dit : </p>
-            <sp>
-               <speaker> Suzette </speaker>
-               <ab> — Bonjour, bonjour, petite sœur hirondelle! </ab>
-            </sp>
-            <p> Et l'oiseau revint à elle avec un pépiement doux, comme s'il voulait entendre encore
-               la caresse de cette voix. Dans son vol balancé, il lui frôla la joue et, comme il
-               remontait, Suzette poussa un cri : une pierre venait de frapper l'hirondelle, qui
-               tournoya et tomba sur le sol. </p>
-            <p>François était là derrière, un sourire gêné aux lèvres. Suzette, frémissante, eut un
-               mouvement vers le meurtrier; elle s'arrêta, puis alla ramasser l'hirondelle, et sans
-               un mot, toute pâle, rentra dans la maison.</p>
-            <p>M. Dumay, Jacques et Charlot, qui venaient ensemble du jardin, approchèrent.</p>
-            <sp>
-               <speaker> M.Dumay </speaker>
-               <ab>— Qui l’a tuée? </ab>
-            </sp>
-            <stage> demanda M. Dumay,</stage>
-            <figure>
-               <caption> Bonjour, bonjour, petite sœur hirondelle!</caption>
-            </figure>
-         </div>
-
-
-
-
-         <div>
-            <pb type="page" n="39"/>
-            <fw type="header"> LA PETITE HIRONDELLE. 39</fw>
-            <sp>
-               <speaker> Jacques </speaker>
-               <ab>—Oui, qui l'a tuée? </ab>
-            </sp>
-            <stage> répéta Jacques. </stage>
-            <p>Mais Suzette ne nomma pas le coupable.</p>
-            <sp>
-               <speaker> Suzette </speaker>
-               <ab>— Il se tenait derrière la porte entrouverte, et elle l'avait aperçu. </ab>
-            </sp>
-            <p>Elle dit seulement, d'une voix mouillée de larmes : </p>
-            <sp>
-               <speaker> Suzette </speaker>
-               <ab>— Il y a un instant la pauvre créature vivait là, et chantait. Maintenant, la vie
-                  et le chant sont finis; elle est morte! </ab>
-            </sp>
-            <sp>
-               <speaker> Jacques </speaker>
-               <ab>— C'était l'amie de la maison,</ab>
-            </sp>
-            <stage> dit Jacques. </stage>
-            <stage>Le père ajouta : </stage>
-            <sp>
-               <speaker> La père </speaker>
-               <ab>—Que de fois votre mère et moi nous avons, au printemps, guetté* le retour des
-                  hirondelles en tremblant qu'elles ne désertassent* les nids de notre demeure!</ab>
-            </sp>
-            <p>Suzette tendit du côté de Charlot sa main, où l'oiseau, saignant de sa blessure, la
-               tête pendante, était étendu. </p>
-            <sp>
-               <speaker> Charlot </speaker>
-               <ab>— Réchauffe-le bien, </ab>
-               <stage> dit Charlot; </stage>
-               <ab> peut-être il revivra. </ab>
-            </sp>
-            <sp>
-               <speaker> Suzette </speaker>
-               <ab>— Non; c'est fini, c'est la mort! Tu vois, on ôte la vie, mais on ne la rend pas.
-                  Pauvre petite hirondelle ! </ab>
-            </sp>
-            <sp>
-               <speaker> Jacques </speaker>
-               <ab>— Enfin ! </ab>
-               <stage> s'écria Jacques avec indignation, </stage>
-               <ab> qui donc l'a tuée? </ab>
-            </sp>
-            <sp>
-               <speaker> La père </speaker>
-               <ab>— Où est François?</ab>
-            </sp>
-            <stage> demanda le père, l'air soupçonneux.</stage>
-         </div>
-
-         <div type="questionaire">
-            <ab>
-               <hi rend="bold"> Questionnaire. </hi> — Que voyait-on dans la plaine pur une belle
-               matinée d'automne ? — Que lit Suzette en ce moment ? — Que se passait-il sous le
-               portique, du colombier ? — Que faisait une de ces gentilles hirondelles? — Parlez de
-               ses jeux avec Suzette. — Quel <cb/> événement interrompit cette scène charmante? —
-               Qui avait tué l'hirondelle et quelle fut la conduite de Suzette à l’égard de son
-               frère? — Reproduisez le dialogue qui ont lieu entre les membres de la famille. — Que
-               demanda Jacques indigné? </ab>
-         </div>
-
-         <div type="teacher">
-            <div type="exercise">
-               <head type="exercise"> DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES. </head>
-
-               <div type="morale">
-                  <head type="sujets"> Morale. </head>
-                  <ab type="question"> — Que pensez-vous de l'acte de François? — Est-il permis de
-                     frapper, ou de tuer inutilement les animaux, et pourquoi? — Que pensez-vous de
-                     la discrétion de Suzette? — Que feriez-vous si vous voyiez commettre à l'école
-                     une action répréhensible? </ab>
-                  <ab type="answer"> L'acte de François témoigne combien il est fâcheux d'agir sans
-                     prendre le temps de réfléchir sur ce qu'on va faire. Que les enfants se défient
-                     d'une première impulsion: rarement elle est bonne ou prudente, et ils se
-                     préparent ainsi d'amers regrets. Si François eût pris le temps de songer aux
-                     services que-rendent les hirondelles, à l'affection de sa sœur pour le gentil
-                     oiseau, enfin à la lâcheté qu'il y a de frapper les êtres inoffensifs, nul
-                     doute que la pierre n'aurait pas quitté sa main. Il est, on effet, bien peu
-                     d'enfants capables d'un acte de froide cruauté. Les animaux sentent comme nous;
-                     ils souffrent des mauvais traite-</ab>
+                  <fw type="footer">Suzette (Maîtresse) <span type="catchword">3</span></fw>
                </div>
 
-               <div>
-                  <pb type="page" n="40"/>
-                  <fw type="header"> 40 SUZETTE.</fw>
-                  <p>ments et des privations qu'on leur inflige, et la mort n'a pas moins
-                     d'angoisses pour eux que pour les hommes, C'est donc commettre une mauvaise
-                     action que de les faire souffrir et de les priver de la vie. De telles choses
-                     sont permises seulement lorsque la nécessité les justifie : tel est, par
-                     exemple, le besoin de pourvoir à la conservation et à la défense do notre vie. </p>
-                  <p>Suzette, en ne dénonçant pas son frère, a agi comme une personne généreuse et
-                     discrète. Celles qui se font un malin plaisir de rapporter ce que font les
-                     autres, et notamment leurs condisciples, commettent une lâcheté, à moins
-                     qu'elles n'aient une surveillance à exercer. Elles montrent ainsi qu'elles
-                     n'ont aucune affection pour leurs compagnes et aucune délicatesse de cœur.</p>
-                  <p>Si je voyais une de mes compagnes commettre une action répréhensible, disait
-                     une jeune fille, je lui ferais observer discrètement, et dans un entretien
-                     particulier, qu'elle aurait pu mieux agir; je lui rappellerais les avis et les
-                     bons exemples qui condamnent cette action. Si elle se disposait à recommencer
-                     et qu'il en dût résulter de graves inconvénients, j'en préviendrais mes parents
-                     ou madame l'institutrice, afin d'aviser aux mesures que réclamerait la
-                     circonstance.</p>
-                  <p>
-                     <hi rend="bold"> Sciences naturelles. </hi> — <hi rend="italic"> Quels oiseaux
-                        habitent nos contrées seulement pendant la belle saison? — Parlez de leur
-                        arrivée, de leur départ. — Comment s'y prennent ces oiseaux pour construire
-                        leurs nids? — Où les placent-ils? — Détails sur les nids d'hirondelles.
-                     </hi></p>
-                  <p>Certains oiseaux ne quittent jamais nos contrées; tels sont les moineaux, los
-                     rouges-gorges, les chardonnerets, les corbeaux, les hiboux, D'autres les
-                     abandonnent à la fin des beaux jours et ne reviennent qu'avec le printemps; par
-                     exemple, les hirondelles, les rossignols, les mésanges, les cailles, les oles
-                     et les canards sauvages, les cigognes, les grues. Los oiseaux des quatre
-                     dernières espèces que nous venons d'énumérer, gagnent les pays chauds en bandes
-                     qui forment un angle aigu, et cela afin de diminuer la résistance de l'air.</p>
-                  <p>La plupart dos oiseaux déploient, dans la construction de leurs nids, une
-                     adresse, une habileté remarquables; et chose non moins surprenante, c'est la
-                     régularité avec laquelle les différentes générations bâtissent des nids
-                     exactement semblables, lors môme que les circonstances ne leur ont jamais
-                     permis d'en voir et de prendre des leçons de leurs parents.</p>
-                  <p>Los parois des nids sont ordinairement établies avec de petites tiges
-                     flexibles, mastiquées quelquefois avec de la terre délayée dans de l'eau.
-                     L'intérieur en est presque toujours garni de fils de crin, de laine ou d'un
-                     duvet moelleux qu'ils arrachent de leur poitrine.</p>
-                  <p>Les nids des hirondelles sont maçonnés et fixés sous des abris, soit aux angles
-                     supérieurs des fenêtres, soit aux entablements, aux solives des hangars et
-                     d'autres lieux demi-clos dont l'accès est facile; ils durent plusieurs années
-                     et servent au même couple.</p>
-                  <p><hi rend="bold"> Agriculture.</hi> — <hi rend="italic">De quoi se nourrissent
-                        les insectes? Citez quelques exemples. — Qu'est-ce qui souffre des ravages
-                        des insectes ? — Quels services rendent à l'homme les hirondelles en
-                        particulier et les oiseaux en général?</hi></p>
-                  <p>Des milliers d'espèces d'insectes, toutes douées d'une effrayante fécondité,
-                     vivont aux dépens des végétaux les plus utiles à l'homme : le blé, la vigne, la
-                     pomma de terre, la betterave, sans compter les fruits des arbres. Plusieurs
-                     variétés de ces animaux détruisent le</p>
-               </div>
-
-               <div>
-                  <pb type="page" n="41"/>
-                  <fw type="header">ON SE DÉBARBOUILLE. 41</fw>
-                  <p>plant à sa sortie de la terre : les limaces, par exemple, dont les ravages sont
-                     incalculables lors des années humides. D'autres s'attaquent aux racines des
-                     légumes, comme les courtilières et les larves des hannetons.</p>
-                  <p>Ce n'est pas tout : des bandes de rongeurs, souris, rats, mulots, campagnols,
-                     pénètrent dans les granges après avoir vécu pendant la belle saison aux dépens
-                     de nos récoltes; elles dévorent les grains et mettent la paille en miettes.</p>
-                  <p>L'homme succomberait dans sa lutte contre de si terribles adversaires, si Dieu
-                     ne lui eût donné dans les oiseaux des auxiliaires précieux : hirondelles,
-                     moineaux, fauvettes, mésanges, chardonnerets, détruisent une quantité
-                     prodigieuse d'insectes. Les oiseaux de proie nocturnes, et nous voulons
-                     désigner par là les hiboux, les chouettes, les grands-ducs, font une guerre
-                     d'extermination aux rongeurs, et avec bien plus de succès encore que les
-                     chats.</p>
-                  <p>Il est donc doublement imbécile et méchant celui qui tue ces utiles animaux, ou
-                     détruit leurs nids..</p>
-               </div>
             </div>
          </div>
       </body>
    </text>
 </TEI>
+<!--
+
+
+
+
+
+
+38
+SUZETTE.
+Une d'entre elles, toute mignonne, toute jeunette, décrivait ses courbes avec des cris de joie, s'élevait, descendait en ondulant*; deux fois elle passa près de la jeune fille à la toucher; Suzette lui dit :
+— Bonjour, bonjour, petite sœur hirondelle!
+Et l'oiseau revint à elle avec un pépiement doux, comme s'il voulait entendre encore la caresse de cette voix. Dans son vol balancé, il lui frôla la joue et, comme il remontait, Suzette poussa un cri : une pierre venait de frapper l'hirondelle, qui tournoya et tomba sur le sol.
+François était là derrière, un sourire gêné aux lèvres.
+Suzette, frémissante, eut un mouvement vers le meurtrier; elle s'arrêta, puis alla ramasser l'hirondelle, et sans un mot, toute pâle, rentra dans la maison.
+M. Dumay, Jacques et Charlot, qui venaient ensemble du jardin, approchèrent.
+— Qui l’a tuée? demanda M. Dumay,
+Bonjour, bonjour, petite sœur hirondelle!
+
+
+
+
+
+
+LA PETITE HIRONDELLE.
+39
+—Oui, qui l'a tuée? répéta Jacques.
+Mais Suzette ne nomma pas le coupable. — Il se tenait derrière la porte entrouverte, et elle l'avait aperçu. Elle dit seulement, d'une voix mouillée de larmes :
+— Il y a un instant la pauvre créature vivait là, et chantait. Maintenant, la vie et le chant sont finis; elle est morte!
+— C'était l'amie de la maison, dit Jacques. 
+Le père ajouta :
+—Que de fois votre mère et moi nous avons, au printemps, guetté* le retour des hirondelles en tremblant qu'elles ne désertassent* les nids de notre demeure!
+Suzette tendit du côté de Charlot sa main, où l'oiseau, saignant de sa blessure, la tête pendante, était étendu.
+— Réchauffe-le bien, dit Charlot; peut-être il revivra.
+— Non; c'est fini, c'est la mort! Tu vois, on ôte la vie, mais on ne la rend pas. Pauvre petite hirondelle !  
+— Enfin ! s'écria Jacques avec indignation, qui donc l'a tuée?
+— Où est François? demanda le père, l'air soupçonneux.
+Questionnaire. — Que voyait-on dans la plaine pur une belle matinée d'automne ? — Que lit Suzette en ce moment ? — Que se passait-il sous le portique, du colombier ? — Que faisait une de ces gentilles hirondelles? — Parlez de ses jeux avec Suzette. — Quel événement interrompit cette scène charmante? — Qui avait tué l'hirondelle et quelle fut la conduite de Suzette à l’égard de son frère? — Reproduisez le dialogue qui ont lieu entre les membres de la famille. — Que demanda Jacques indigné?
+DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES.
+Morale. — Que pensez-vous de l'acte de François? — Est-il permis de frapper, ou de tuer inutilement les animaux, et pourquoi? — Que pensez-vous de la discrétion de Suzette? — Que feriez-vous si vous voyiez commettre à l'école une action répréhensible?
+L'acte de François témoigne combien il est fâcheux d'agir sans prendre le temps de réfléchir sur ce qu'on va faire. Que les enfants se défient d'une première impulsion: rarement elle est bonne ou prudente, et ils se préparent ainsi d'amers regrets. Si François eût pris le temps de songer aux services que-rendent les hirondelles, à l'affection de sa sœur pour le gentil oiseau, enfin à la lâcheté qu'il y a de frapper les êtres inoffensifs, nul doute que la pierre n'aurait pas quitté sa main. Il est, on effet, bien peu d'enfants capables d'un acte de froide cruauté.
+Les animaux sentent comme nous; ils souffrent des mauvais traite-
+
+
+40 
+SUZETTE.
+ments et des privations qu'on leur inflige, et la mort n'a pas moins d'angoisses pour eux que pour les hommes, C'est donc commettre une mauvaise action que de les faire souffrir et de les priver de la vie. De telles choses sont permises seulement lorsque la nécessité les justifie : tel est, par exemple, le besoin de pourvoir à la conservation et à la défense do notre vie.
+Suzette, en ne dénonçant pas son frère, a agi comme une personne généreuse et discrète. Celles qui se font un malin plaisir de rapporter ce que font les autres, et notamment leurs condisciples, commettent une lâcheté, à moins qu'elles n'aient une surveillance à exercer. Elles montrent ainsi qu'elles n'ont aucune affection pour leurs compagnes et aucune délicatesse de cœur.
+Si je voyais une de mes compagnes commettre une action répréhensible, disait une jeune fille, je lui ferais observer discrètement, et dans un entretien particulier, qu'elle aurait pu mieux agir; je lui rappellerais les avis et les bons exemples qui condamnent cette action. Si elle se disposait à recommencer et qu'il en dût résulter de graves inconvénients, j'en préviendrais mes parents ou madame l'institutrice, afin d'aviser aux mesures que réclamerait la circonstance.
+Sciences naturelles. — Quels oiseaux habitent nos contrées seulement pendant la belle saison? — Parlez de leur arrivée, de leur départ. — Comment s'y prennent ces oiseaux pour construire leurs nids? — Où les placent-ils? — Détails sur les nids d'hirondelles.
+Certains oiseaux ne quittent jamais nos contrées; tels sont les moineaux, los rouges-gorges, les chardonnerets, les corbeaux, les hiboux, D'autres les abandonnent à la fin des beaux jours et ne reviennent qu'avec le printemps; par exemple, les hirondelles, les rossignols, les mésanges, les cailles, les oles et les canards sauvages, les cigognes, les grues. Los oiseaux des quatre dernières espèces que nous venons d'énumérer, gagnent les pays chauds en bandes qui forment un angle aigu, et cela afin de diminuer la résistance de l'air.
+La plupart dos oiseaux déploient, dans la construction de leurs nids, une adresse, une habileté remarquables; et chose non moins surprenante, c'est la régularité avec laquelle les différentes générations bâtissent des nids exactement semblables, lors môme que les circonstances ne leur ont jamais permis d'en voir et de prendre des leçons de leurs parents.
+Los parois des nids sont ordinairement établies avec de petites tiges flexibles, mastiquées quelquefois avec de la terre délayée dans de l'eau. L'intérieur en est presque toujours garni de fils de crin, de laine ou d'un duvet moelleux qu'ils arrachent de leur poitrine.
+Les nids des hirondelles sont maçonnés et fixés sous des abris, soit aux angles supérieurs des fenêtres, soit aux entablements, aux solives des hangars et d'autres lieux demi-clos dont l'accès est facile; ils durent plusieurs années et servent au même couple.
+Agriculture. — De quoi se nourrissent les insectes? Citez quelques exemples. — Qu'est-ce qui souffre des ravages des insectes ? — Quels services rendent à l'homme les hirondelles en particulier et les oiseaux en général?
+Des milliers d'espèces d'insectes, toutes douées d'une effrayante fécondité, vivont aux dépens des végétaux les plus utiles à l'homme : le blé, la vigne, la pomma de terre, la betterave, sans compter les fruits des arbres. Plusieurs variétés de ces animaux détruisent le
+
+
+ON SE DÉBARBOUILLE. 
+41
+plant à sa sortie de la terre : les limaces, par exemple, dont les ravages sont incalculables lors des années humides. D'autres s'attaquent aux racines des légumes, comme les courtilières et les larves des hannetons. 
+Ce n'est pas tout : des bandes de rongeurs, souris, rats, mulots, campagnols, pénètrent dans les granges après avoir vécu pendant la belle saison aux dépens de nos récoltes; elles dévorent les grains et mettent la paille en miettes.
+L'homme succomberait dans sa lutte contre de si terribles adversaires, si Dieu ne lui eût donné dans les oiseaux des auxiliaires précieux : hirondelles, moineaux, fauvettes, mésanges, chardonnerets, détruisent une quantité prodigieuse d'insectes. Les oiseaux de proie nocturnes, et nous voulons désigner par là les hiboux, les chouettes, les grands-ducs, font une guerre d'extermination aux rongeurs, et avec bien plus de succès encore que les chats.
+Il est donc doublement imbécile et méchant celui qui tue ces utiles animaux, ou détruit leurs nids.-->
