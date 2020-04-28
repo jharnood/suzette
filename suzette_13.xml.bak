@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Suzette: a Digital Edition - Chapter 2</title>
+            <title type="main">Suzette: a Digital Edition - Chapter 114</title>
             <respStmt>
                <persName>John Westbrook</persName>
                <orgName>Bucknell University</orgName>
@@ -15,12 +15,12 @@
             <respStmt>
                <persName>Annie Girton</persName>
                <orgName>Bucknell University</orgName>
-               <resp>Research Assistant and Encoder, 2018-2019</resp>
+               <resp>Research Assistant and Encoder</resp>
             </respStmt>
             <respStmt>
                <persName>Sarah Haber</persName>
                <orgName>Bucknell University</orgName>
-               <resp>Research Assistant and Encoder 2020 - Present</resp>
+               <resp>Research Assistant and Encoder</resp>
             </respStmt>
             <respStmt>
                <persName xml:id="JAKA1">Diane Jakacki</persName>
@@ -66,9 +66,6 @@
       <encodingDesc>
          <charDecl>
             <char>
-               <charName xml:id="les_dumay">La Famille Dumay</charName>
-            </char>
-            <char>
                <charName xml:id="suzette">Suzette</charName>
             </char>
             <char>
@@ -87,7 +84,10 @@
                <charName xml:id="charlot">Charlot</charName>
             </char>
             <char>
-               <charName xml:id="mathias_dumay">Mathias Dumay</charName>
+               <charName xml:id="mme_valon">Mme Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="m_valon">M. Valon</charName>
             </char>
             <char>
                <charName xml:id="mme_richard">Mme Richard</charName>
@@ -105,28 +105,10 @@
                <charName xml:id="sylvain">Sylvain</charName>
             </char>
             <char>
-               <charName xml:id="mme_valon">Mme Valon</charName>
-            </char>
-            <char>
-               <charName xml:id="m_valon">M. Valon</charName>
-            </char>
-            <char>
-               <charName xml:id="mme_lienard">Mme Liénard</charName>
-            </char>
-            <char>
                <charName xml:id="ludivine">Ludivine</charName>
             </char>
             <char>
                <charName xml:id="m_lejoly">M. Lejoly</charName>
-            </char>
-            <char>
-               <charName xml:id="m_cartier">M. Cartier</charName>
-            </char>
-            <char>
-               <charName xml:id="jeanne">Jeanne</charName>
-            </char>
-            <char>
-               <charName xml:id="madeleine">Madeleine</charName>
             </char>
             <char>
                <charName xml:id="l_apiculteur">L'apiculteur</charName>
@@ -135,8 +117,12 @@
                <charName xml:id="la_bohemienne">La bohémienne</charName>
             </char>
             <char>
-               <charName xml:id="la_flamande">La Flamande</charName>
+               <charName xml:id="m_cartier">M. Cartier</charName>
             </char>
+            <char>
+               <charName xml:id="les_dumay">La Famille Dumay</charName>
+            </char>
+
          </charDecl>
          <classDecl>
             <taxonomy xml:id="classification">
@@ -424,70 +410,16 @@
                   <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
-                  <placeName xml:id="siberie">Sibérie</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="ilesEcosse">Îles d'Écosse</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="la_belgique">la Belgique</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="la_hollande">la Hollande</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="l_inde">l'Inde</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="amienois">Amiénois</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="nerac">Nérac</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="lorraine">Lorraine</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="villedieu">Villedieu</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="houdan">Houdan</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="saone_loire">Saône-et-Loire</placeName>
-               </place>
-               <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
                </place>
                <place>
                   <placeName xml:id="paris">Paris</placeName>
                </place>
                <place>
-                  <placeName xml:id="saint-quentin">Saint-Quentin</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="toulouse">Toulouse</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="boulogne">Boulogne</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="beauvais">Beauvais</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="falaise">Falaise</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="creuset">Creuset</placeName>
-               </place>
-               <place>
                   <placeName xml:id="bruxelles">Bruxelles</placeName>
                </place>
                <place>
-                  <placeName xml:id="boston">Boston</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="cochinchine">Cochinchine</placeName>
+                  <placeName xml:id="boston">Boston </placeName>
                </place>
                <place>
                   <placeName xml:id="l_avre">l'Avre <geogFeat>River</geogFeat>
@@ -497,20 +429,200 @@
                   <placeName xml:id="la_moye">la Moye <geogFeat>River</geogFeat>
                   </placeName>
                </place>
-               <place>
-                  <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation </placeName>
-               </place>
-               <place>
-                  <placeName xml:id="ecoleAgriculture">l'École d'agriculture</placeName>
-               </place>
             </listPlace>
          </settingDesc>
       </profileDesc>
    </teiHeader>
    <text>
       <body>
-         <!-- n is for maitresse edition, corresp is for student edition -->
-         <p> Text here </p>
+         <div type="chapter" n="13">
+            <div xml:lang="fr">
+
+               <div type="student">
+                  <pb type="page" n="31"/>
+                  <head>13. — Une bonne idée. (Élève, p. 31.)</head>
+                  <p>Suzette exposa la double question au papa.</p>
+                  <sp>
+                     <speaker>Papa</speaker>
+                     <ab>— Hum! hum! répondit-il en se grattant l'oreille, des souliers, une robe,
+                        tout à la fois! Si tu attendais que j'eusse vendu mon blé? car je ne
+                        pourrais, jusque-là, t'offrir qu'une vingtaine de francs.</ab>
+                  </sp>
+                  <sp>
+                     <speaker>Suzette</speaker>
+                     <ab>— Parfait, vingt francs! Vingt et trente font cinquante; j'ai trente francs
+                        d'économies.</ab>
+                  </sp>
+                  <sp>
+                     <speaker>Papa</speaker>
+                     <ab>— Trente francs! Tu ne m'as donc pas remis tout le produit des œufs et de
+                        la volaille?</ab>
+                  </sp>
+                  <sp>
+                     <speaker>Suzette</speaker>
+                     <ab>— Si, papa.</ab>
+                  </sp>
+                  <sp>
+                     <speaker>Papa</speaker>
+                     <ab>— Eh bien, alors?</ab>
+                  </sp>
+                  <stage>Suzette leva l'index :</stage>
+                  <sp>
+                     <speaker>Suzette</speaker> 
+                     <ab>— Eh bien, papa, écoutez! Les quinze grammes de café que nous dépensons
+                        chaque matin coûtent dix centimes; à ce prix-là, combien coûte le
+                        demi-kilogramme?</ab>
+                  </sp>
+                  <p>Elle attendit la réponse, qui ne vint pas vite : M. Dumay ne se piquait pas
+                     d'arithmétique*.</p>
+                  <sp>
+                     <speaker>M. Dumay</speaker>
+                     <ab>— Il coûte trois francs trente-trois centimes, reprit Suzette. Or j'ai eu,
+                        depuis quelque temps, l’idée de l'acheter, non plus par miettes, mais
+                        par</ab>
+                  </sp>
+                  <figure>
+                     <caption>
+                        <hi rend="italic">Le café.</hi> Branche de caféier, avec ses fruits ; à
+                        côté, un de ces fruits contenant deux grains de café verts; c’est dans cet
+                        état que le café est brûlé par l'épicier dans un cylindre qu'il tourne avec
+                        une manivelle au-dessous d'un brasier. Le café prend alors une couleur
+                        marron foncé.</caption>
+                  </figure>
+               </div>
+
+               <div>
+                  <pb type="page" n="45"/>
+                  <fw type="header">UNE BONNE IDÉE. 45</fw>
+                  <p>demi-kilogramme d'un coup, et je ne le paye plus que deux francs soixante.
+                     J'épargne ainsi au marchand la peine de peser trop souvent, et il me reste, à
+                     moi, soixante-dix centimes. Avec quelques autres économies de ce genre sur
+                     diverses denrées*, en dix mois ç'a été trente beaux francs. Rien n'est plus
+                     cher que d'acheter sou à sou, par petite quantité.</p>
+                  <p>Elle tira d'une boîte deux pièces jaunes toutes brillantes, puis alla chercher
+                     son livre de comptes.</p>
+                  <p>Le père mit ses lunettes, les promena du haut, en bas de la comptabilité*
+                     proprette qui se voyait là, et courut à l'addition, aux deux pièces d'or
+                     présentes et probantes*.</p>
+                  <sp>
+                     <speaker>Papa</speaker>
+                     <ab>— Bien! dit-il, enchanté; ta mère n'a pas trouvé ça, parce qu'elle était
+                        moins instruite que tu ne l'es. C'est d'un cœur ingénieux* et tendre que
+                        naissent les bonnes idées ménagères. D'une économie aussi sage nous viennent
+                        un peu plus d'abondance, de bien-être*. Et vive ma fillette qui est une
+                        bonne petite mère!</ab>
+                  </sp>
+                  <p>Les yeux de Suzette brillaient joyeusement. Il lui caressait doucement les
+                     cheveux :</p>
+                  <sp>
+                     <speaker>Papa</speaker>
+                     <ab>— Je veux donc,</ab>
+                     <stage>reprit-il,</stage>
+                     <ab>qu'elle ait une jolie robe; et elle l'achètera elle-même, dès demain ;
+                        j'attellerai le char à bancs * pour la conduire à la foire de Saint
+                        Quentin!</ab>
+                  </sp>
+                  <figure>
+                     <caption><hi rend="italic">La préparation du café.</hi> Il faut avoir soin de
+                        moudre le café soi-même pour que l'arôme se conserve plus longtemps; faites
+                        bouillir de l'eau, jetez-la ensuite sur le café ou poudre que vous avez, mis
+                        sur le tamis de la cafetière et, dès qu'il est passé, versez-le bien chaud.
+                        En été, le café froid coupé d'eau est une boisson hygiénique et
+                        réconfortante.</caption>
+                  </figure>
+               </div>
+
+               <div>
+                  <pb type="page" n="46"/>
+                  <fw type="header">46. SUZETTE.</fw>
+                  <div type="questionnaire">
+                     <ab>
+                        <hi rend="bold">Questionnaire.</hi> — Que répondit le père lorsqu'il fut
+                        question de l'achat d'une robe et de souliers ? — Comment Suzette
+                        s'était-elle procuré les 30 francs nécessaires aux achats en question? —
+                        Donnez, des détails sur le genre d'écono- <cb/> mies qu’elle avait pratiqué
+                        ? — Qu'en pensez-vous? — Que répondit le père? — Quelle décision fut prise
+                        alors? — Qu'est-ce que le caféier? — Comment grille-t-on le café? — De
+                        quelle manière se prépare une tasse de café noir?</ab>
+                  </div>
+
+                  <div type="teacher">
+                     <div type="exercice">
+                        <head type="exercice">DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR
+                           EXERCICES.</head>
+                        <div type="morale">
+                           <head type="sujets"><hi rend="bold">Morale.</hi></head>
+                           <ab type="question">— Faut-il dépenser tout ce qu'on gagne, et pourquoi?
+                              — Comment appelle-t-on l'argent qu'on épargne ? — Quelles dépenses
+                              in-utiles font bien souvent les hommes? — Que pensez-vous des
+                              fâcheuses habitudes qu'ils contractent de cette manière ?</ab>
+                           <ab type="answer">Les personnes qui dépensent au jour le jour ce qu'elles
+                              gagnent, ne sont ni raisonnables ni prudentes. Qu'il survienne un
+                              chômage, une maladie : comment alors fera celui dont toutes les
+                              ressources dépendent du travail quotidien ? Si un vêtement se trouve
+                              hors d'usage, si le moment arrive de renouveler la provision de
+                              chauffage, si le terme de loyer vient à échoir, comment se
+                              pourvoira-t-on de ces objets et comment, réglera-t-on ses affaires si
+                              l'on n'a point d'argent réservé? Il faut donc ne jamais dépenser tout
+                              ce qu'on gagne à mesure qu'on en touche le montant.<lb/> L'argent
+                              qu'on met de côté en vue des besoins de l'avenir, constitue ce qu'on
+                              appelle des économies.<lb/> Souvent les ouvriers s'habituent à
+                              dépenser chaque jour de petites sommes : 10, 15. 20, 30 centimes pour
+                              tabac, café, liqueurs. Il leur semble que ce n’est rien, et cependant
+                              ces menues dépenses, par leur répétition même, s'élèvent en fin
+                              d'année à une somme considérable avec laquelle ils pourraient assurer
+                              le repos de leur vieillesse ou faire face à des nécessités
+                              urgentes.<lb/></ab>
+                        </div>
+
+                        <div type="clcul">
+                           <head type="sujets"><hi rend="bold">Calcul.</hi></head>
+                           <ab type="question">— Avec les 10 ou 16 centimes qu'un homme dépense
+                              in-<lb/>utilement chaque jour, quelle somme est prélevée sur le gain
+                              d'une<lb/> année? — Que pourrait-on payer ou acheter avec cet argent
+                              pour<lb/> l'entretien du ménage?</ab>
+                           <ab type="answer">A raison de 0 fr. 10 par jour, la dépense en
+                              question<lb/> s’élèverait à ..................................... 30
+                              fr. 50 <lb/> A raison de 0 fr. 15, la dépense s’élèverait à ……….. 54
+                              fr. 75<lb/> Avec cet argent sottement dépensé, il aurait pu louer un
+                              jardin<lb/> dont on aurait tiré les légumes nécessaires à la cuisine
+                              du ménage,<lb/> — acheter la provision de bois ou de charbon pour
+                              l'hiver, — ou bien <lb/> encore payer un semestre de loyer, munir les
+                              enfants de chaussures <lb/> et de bas bien chauds, lorsque survient la
+                              saison rigoureuse.</ab>
+                        </div>
+
+                        <div type="industrie">
+                           <head type="sujets"><hi rend="bold">Industrie.</hi></head>
+                           <ab type="question">— A qui et à quoi servent les lunettes? — Quelle est
+                              la forme des verres de lunettes? — Comment nous apparaissent les
+                              choses à travers les deux sortes de verres employées dans les
+                              lunettes? — Qu'est-ce que l'instrument appelé lunette? — Quels
+                              services rend-il?</ab>
+                           <ab type="answer">Les lunettes ou besicles remédient aux défauts des vues
+                              faibles ou fatiguées, comme celles des vieillards et des personnes
+                              myopes.<lb/> Les premiers ne peuvent bien voir s'ils n'éloignent les
+                              objets de leurs yeux, ce qui fait qu'il leur est presque impossible de
+                              distinguer les petits objets et de lire ou écrire facilement. Les
+                              myopes doivent, au contraire, rapprocher les choses de manière à les
+                              amener presque au contact des yeux, de sorte qu'ils ne peuvent
+                              apercevoir celles qui sont éloignées; pour eux, il n'y a ni beaux
+                              paysages, ni horizons étendus.<lb/> Selon que les lunettes sont pour
+                              l'usage des vieillards ou des myopes, <pb type="page" n="47"/>
+                              <fw type="header">BRUNEHAUT. 47</fw> les verres sont bombés des deux
+                              côtés ou concaves, c'est-à-dire creusés vers le centre.<lb/>
+                              L'instrument appelé lunette est un tube cylindrique, noirci
+                              intérieurement, dans lequel on dispose des verres de forme
+                              lenticulaire La lunette rapproche les objets situés à de grandes
+                              distances; elle rend ainsi les plus utiles services aux navigateurs,
+                              aux militaires, enfin aux astronomes à qui elle a donné le moyen
+                              d'étudier les astres dans tous les détails de leur conformation.</ab>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
       </body>
    </text>
 </TEI>
