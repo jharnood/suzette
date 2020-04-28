@@ -25,7 +25,7 @@
             <respStmt>
                <persName xml:id="JAKA1">Diane Jakacki</persName>
                <orgName>Bucknell University</orgName>
-               <resp>Project Manager</resp>
+               <resp>Project Manager</resp>               
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -43,9 +43,7 @@
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles.
-                     Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine –
-                     Couture</title>
+                  <title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles. Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine – Couture</title>
                   <author>Robert Halt</author>
                   <textLang>French</textLang>
                   <imprint>
@@ -57,13 +55,13 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <profileDesc>
+            <profileDesc>
          <langUsage>
             <language ident="fra">French</language>
             <language ident="eng">English</language>
          </langUsage>
       </profileDesc>
-      <encodingDesc>
+       <encodingDesc>
          <charDecl>
             <char>
                <charName xml:id="les_dumay">La Famille Dumay</charName>
@@ -78,7 +76,7 @@
                <charName xml:id="la_maman">La maman</charName>
             </char>
             <char>
-               <charName xml:id="jacques">Jacques</charName>
+               <charName xml:id="jacques">Jacques</charName>            
             </char>
             <char>
                <charName xml:id="francois">François</charName>
@@ -103,7 +101,7 @@
             </char>
             <char>
                <charName xml:id="sylvain">Sylvain</charName>
-            </char>
+            </char> 
             <char>
                <charName xml:id="mme_valon">Mme Valon</charName>
             </char>
@@ -115,12 +113,12 @@
             </char>
             <char>
                <charName xml:id="ludivine">Ludivine</charName>
-            </char>
+            </char> 
             <char>
                <charName xml:id="m_lejoly">M. Lejoly</charName>
             </char>
             <char>
-               <charName xml:id="m_cartier">M. Cartier</charName>
+               <charName  xml:id="m_cartier">M. Cartier</charName>
             </char>
             <char>
                <charName xml:id="jeanne">Jeanne</charName>
@@ -230,7 +228,7 @@
                   <category xml:id="france">
                      <catDesc>France</catDesc>
                   </category>
-                  <!--  <category xml:id="topographie">
+                <!--  <category xml:id="topographie">
                      <catDesc>Topographie</catDesc>
                   </category>-->
                </category>
@@ -239,59 +237,57 @@
                   <!--<category xml:id="geologie">
                      <catDesc>Géologie</catDesc>
                   </category>-->
-                  <category xml:id="mineraux">
-                     <catDesc>Minéraux</catDesc>
-                  </category>
-                  <!--In the book Minéraux is followed by ",etc."; should that be included?-->
+                     <category xml:id="mineraux">
+                        <catDesc>Minéraux</catDesc>
+                     </category>
+                     <!--In the book Minéraux is followed by ",etc."; should that be included?-->
                   <!--<category xml:id="botanique">
                      <catDesc>Botanique</catDesc>-->
-                  <category xml:id="vegetaux">
-                     <catDesc>Végétaux</catDesc>
-                     <!--All of the sub-categories following this are numbered; should that be included?-->
-                     <category xml:id="arbreNoncultives">
-                        <catDesc>Arbres non cultivés</catDesc>
+                     <category xml:id="vegetaux">
+                        <catDesc>Végétaux</catDesc>
+                        <!--All of the sub-categories following this are numbered; should that be included?-->
+                        <category xml:id="arbreNoncultives">
+                           <catDesc>Arbres non cultivés</catDesc>
+                        </category>
+                        <category xml:id="herbesPlantes">
+                           <catDesc>Herbes ou plantes sauvages</catDesc>
+                        </category>
+                        <category xml:id="arbreCultives">
+                           <catDesc>Arbres cultivés</catDesc>
+                        </category>
+                        <category xml:id="arbustes">
+                           <catDesc>Arbustes cultivés</catDesc>
+                        </category>
+                        <category xml:id="cereales">
+                           <catDesc>Céréales</catDesc>
+                        </category>
+                        <category xml:id="legumesRacines">
+                           <catDesc>Légumes, racines, etc.</catDesc>
+                        </category>
+                        <category xml:id="divers1"><!-- Avoid tagging with Divers - if necessary, create another sub-category -->
+                           <catDesc>Divers</catDesc>
+                        </category> 
                      </category>
-                     <category xml:id="herbesPlantes">
-                        <catDesc>Herbes ou plantes sauvages</catDesc>
-                     </category>
-                     <category xml:id="arbreCultives">
-                        <catDesc>Arbres cultivés</catDesc>
-                     </category>
-                     <category xml:id="arbustes">
-                        <catDesc>Arbustes cultivés</catDesc>
-                     </category>
-                     <category xml:id="cereales">
-                        <catDesc>Céréales</catDesc>
-                     </category>
-                     <category xml:id="legumesRacines">
-                        <catDesc>Légumes, racines, etc.</catDesc>
-                     </category>
-                     <category xml:id="divers1">
-                        <!-- Avoid tagging with Divers - if necessary, create another sub-category -->
-                        <catDesc>Divers</catDesc>
-                     </category>
-                  </category>
-                  <!--<category xml:id="physiologieVegetale">
+                     <!--<category xml:id="physiologieVegetale">
                         <catDesc>Physiologie végétale</catDesc>
                      </category>-->
                   <!--</category>-->
-                  <!-- <category xml:id="zoologie">
+                 <!-- <category xml:id="zoologie">
                      <catDesc>Zoologie</catDesc>-->
-                  <category xml:id="animaux">
-                     <catDesc>Animaux</catDesc>
-                     <!--All of the sub-categories following this are numbered; should that be included?-->
-                     <category xml:id="homme">
-                        <catDesc>l'Homme</catDesc>
+                     <category xml:id="animaux">
+                        <catDesc>Animaux</catDesc>
+                        <!--All of the sub-categories following this are numbered; should that be included?-->
+                        <category xml:id="homme">
+                           <catDesc>l'Homme</catDesc>
+                        </category> <!--Homme wouldn't go under zoologie.. could we seperate it or rename this category?-->
+                        <category xml:id="animauxDomestiques">
+                           <catDesc>Animaux domestiques</catDesc>
+                        </category>
+                        <category xml:id="animauxSauvages">
+                           <catDesc>Animaux sauvages</catDesc>
+                        </category>
                      </category>
-                     <!--Homme wouldn't go under zoologie.. could we seperate it or rename this category?-->
-                     <category xml:id="animauxDomestiques">
-                        <catDesc>Animaux domestiques</catDesc>
-                     </category>
-                     <category xml:id="animauxSauvages">
-                        <catDesc>Animaux sauvages</catDesc>
-                     </category>
-                  </category>
-                  <!--<category xml:id="physiologieAnimal">
+                     <!--<category xml:id="physiologieAnimal">
                         <catDesc>Physiologie animaux</catDesc>
                      </category>-->
                   <!--</category>-->
@@ -370,7 +366,7 @@
                   <category xml:id="basse-cour">
                      <catDesc>Basse-cour</catDesc>
                   </category>
-                  <!--Could basse-cour be combined with scienceNat/agriculture under elevageBetail?-->
+                  <!--Could basse-cour be combined with scienceNat/agriculture under elevageBetail?--> 
                </category>
                <category xml:id="hygiene">
                   <catDesc>Hygiène</catDesc>
@@ -489,16 +485,19 @@
                <place>
                   <placeName xml:id="cochinchine">Cochinchine</placeName>
                </place>
+               <place> 
+                  <placeName xml:id="l_avre">l'Avre
+                     <geogFeat>River</geogFeat>
+                  </placeName> 
+               </place>
                <place>
-                  <placeName xml:id="l_avre">l'Avre <geogFeat>River</geogFeat>
+                  <placeName xml:id="la_moye">la Moye
+                     <geogFeat>River</geogFeat>
                   </placeName>
                </place>
                <place>
-                  <placeName xml:id="la_moye">la Moye <geogFeat>River</geogFeat>
+                  <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation
                   </placeName>
-               </place>
-               <place>
-                  <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation </placeName>
                </place>
                <place>
                   <placeName xml:id="ecoleAgriculture">l'École d'agriculture</placeName>
@@ -512,5 +511,5 @@
          <!-- n is for maitresse edition, corresp is for student edition -->
          <p> Text here </p>
       </body>
-   </text>
+  </text>
 </TEI>
