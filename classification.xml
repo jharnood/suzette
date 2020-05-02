@@ -650,7 +650,6 @@ LES LEÇONS DE MORALE ET LES LEÇONS DE CHOSES-->
                      </category>
                   </category>
                </taxonomy>
-
                <taxonomy xml:id="instruction_civique">
                   <desc>Instruction civique</desc>
                   <category>
@@ -674,64 +673,167 @@ LES LEÇONS DE MORALE ET LES LEÇONS DE CHOSES-->
                         <ref target="#ch129"/>
                      </catDesc>
                   </category>
+                  <category>
+                     <catDesc>Hôtel de ville et servies municipaux
+                        <ref target="#ch015"/>
+                        <ref target="#ch070"></ref>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Liberté, esclavage
+                        <ref target="#ch058"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Assistance publique
+                        <ref target="#ch068"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>La justice et los tribunaux
+                        <ref target="#ch036"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>La gendarmerie, la police
+                        <ref target="#ch028"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>L'instruction publique, l'inspection
+                        <ref target="#ch102"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Les postes et les télégraphes
+                        <ref target="#ch019"/>
+                        <ref target="#ch073"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Le 'service militaire et l'armée
+                        <ref target="#ch117"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Tutelle, minorité
+                        <ref target="#ch067"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Mariage, dot, contrat
+                        <ref target="#ch126"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Cuisse d'épargne, Crédit fencier, emprunts
+                        <ref target="#ch038"/>
+                        <ref target="#ch039"/>
+                        <ref target="#ch111"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Les assurances
+                        <ref target="#ch037"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>L'échange
+                        <ref target="#ch048"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Les bourses dans los établissements d'instruction
+                        <ref target="#ch019"/>
+                     </catDesc>
+                  </category>
                </taxonomy>
-               
-               <!--INSTRUCTION CIVIQUE.
-
-
-.-.-
-IJétol do ville et. services municipaux,. ,. 1S, 79
-' Liberté, esclavage.. ,.. B8
-Assistance publiquo,.,.... 08
-La, justice ot los tribunaux 30
-La goiidurmorlo, la police 28
-L'instruction publique, l'inspection. 102
-'..Les postos ot los télégraphes,,, 19, 73
-■ Lo 'servico milituiro et l'arméo,,,, i 17
-Tutelle, minorité ,,., 07
-Mariage, dot, content ,,, 120
-Cuisso d'épargne, Crédit foncier,
-emprunts , 38, 39, il|
-Les assurances 37
-L'échuiigo , 48
-Les bourses dans los établissements
-d'instruction.., , |9-->
-               
                <taxonomy xml:id="civilité">
                   <desc>Civilité</desc>
-                  <category> </category>
+                  <category>
+                     <catDesc>Politesse en général
+                        <ref target="#ch091"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Avantages du séjour à la ville au point de vue des manières
+                        <ref target="#ch078"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Devoirs de civilité entre frères et soeurs
+                        <ref target="#ch006"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Tenne d'une jeune fllle au dehors
+                        <ref target="#ch076"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Comme on doit se tenir, manger les fruits à table
+                        <ref target="#ch001"/>
+                        <ref target="#ch022"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Disposition d'un couvert
+                        <ref target="#ch052"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Manière de servir et de placer les desserts
+                        <ref target="#ch052"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Des visites
+                        <ref target="#ch133"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Comment on se présente dans une maison
+                        <ref target="#ch055"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Manière de recevoir
+                        <ref target="#ch132"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Des gestes
+                        <ref target="#ch133"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Politesse des marchands et des acheteurs
+                        <ref target="#ch091"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Rédaction des lettres
+                        <ref target="#ch100"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Conversation et langage
+                        <ref target="#ch133"/>
+                     </catDesc>
+                  </category>
                </taxonomy>
                
-               <!--CIVILITÉ.
-Politesse en général, ,,,.. 91
-Avantages du séjour a lu ville au
-point do vue des manières , 78
-Dovoirs do civilité ontro frères et
-soeurs , ,,, 0
-Teuuo d'uno jeune flllo au dehors, 70 Commo on doit se tenir, manger
-les fruits ù table , ,, I, 22
-Disposition d'un couvert 02
-Manière do servir et de placer les
-desserts,., *. 52
-Des visites. 133
-Comment on se présente (Uns uno
-maison 8!î
-Manière do recevoir, -,.'. 132
-Des gestes,,,,,.,. ,,.. 10, 133
-Politesso dos marchands ot des
-acheteurs ,, 91
-Rédaction des lettres,, 100
-Conversation ot langage ,,, 133-->
+
                
                
-               
+               <!--FRANÇAIS.               
                <taxonomy xml:id="français">
                   <desc>Français</desc>
                   <category> </category>
                </taxonomy>
                
                
-               <!--FRANÇAIS.
+
                Propositions construites avec être, 2
                . — avec un verbe attributif.... 8
                Aiiutyso do noms propres 18
