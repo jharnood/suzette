@@ -100,8 +100,8 @@
           <attList>
             <attDef ident="type" mode="change">
               <valList type="closed" mode="change">
-                <valItem mode="add" ident="narratif">
-                  <desc versionDate="2020-05-06" xml:lang="en">Narratif (student edition)</desc>
+                <valItem mode="add" ident="récit">
+                  <desc versionDate="2020-05-06" xml:lang="en">Récit (student edition)</desc>
                 </valItem>
                 <valItem mode="add" ident="questionnaire">
                   <desc versionDate="2020-05-06" xml:lang="en">Questionnaire (teacher
