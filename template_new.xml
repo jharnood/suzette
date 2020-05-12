@@ -325,8 +325,8 @@
                 <!-- there are two div2 types: student_edition and teacher_edition. When you add the @type attribute, you should be given both options to choose from -->
                 <div2 type="student_edition">
 
-                    <!-- there are three div3 types: narratif, questionnaire, and sujets. We can add to these if necessary. They apply to both student and teacher editions -->
-                    <div3 type="narratif">
+                    <!-- there are three div3 types: recit, questionnaire, and sujets. We can add to these if necessary. They apply to both student and teacher editions -->
+                    <div3 type="récit">
                         <!-- There are two types of figures: illustration and sujets. Tagging should look like this:
                             <figure type="illustration">
                                 <caption>[TEXT FROM PDF HERE]</caption>
@@ -356,8 +356,8 @@
                 <div2 type="student_edition">
                     <head>DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES</head>
 
-                    <!-- in the div3 type="sujets" section, @corresp is added from the taxonomy. -->
-                    <div3 type="sujets" corresp="#morale">
+                    <!-- in the div3 type="sujets" section, @subtype is added from the schema. -->
+                    <div3 type="sujets" subtype="agriculture">
                         <head type="sujets">Morale.</head>
                         <list type="exercices">
                             <!-- Need to understand what this exchange means -->
@@ -368,14 +368,14 @@
                 </div2>
                 <!-- In teacher edition certain words and phrases are italicized. I believe that these are connected to points in the Classification section. The italicized words should be wrapped with a <rs></rs> tag. We'll add the information later -->
                 <div2 type="teacher_edition">
-                    <div3 type="sujets" corresp="#morale">
+                    <div3 type="sujets" subtype="agriculture">
                         <p/>
                         <p/>
                         <p/>
                     </div3>
                 </div2>
                 <div2 type="student_edition">
-                    <div3 type="sujets" corresp="TERM">
+                    <div3 type="sujets" subtype="composition">
                         <head>[TERM]</head>
                         <list>
                             <item/>
@@ -384,7 +384,7 @@
                     </div3>
                 </div2>
                 <div2 type="teacher_edition">
-                    <div3 type="sujets" corresp="TERM">
+                    <div3 type="sujets" subtype="composition">
                         <p></p>
                         <p></p>
                         <p></p>
