@@ -822,90 +822,298 @@ LES LEÇONS DE MORALE ET LES LEÇONS DE CHOSES-->
                      </catDesc>
                   </category>
                </taxonomy>
-               
-
-               
-               
-               <!--FRANÇAIS.               
                <taxonomy xml:id="français">
                   <desc>Français</desc>
-                  <category> </category>
-               </taxonomy>
-               
-               
-
-               Propositions construites avec être, 2
-               . — avec un verbe attributif.... 8
-               Aiiutyso do noms propres 18
-               Analyse do verbes 20, 21
-               Mots dérivés ,,,..,.. 71
-               Exercices de dérivation sur les adjectifs, otc 27
-               Exercices do définition. 80, 81, 82, 80,
-               .07, 10!», 111, 112,121, 124
-               Etudo de synonymes ,., 14
-               Lunguo, dialecte, patois,......... 89
-               Acceptions.de mots ,*,,.,..,. 35
-               Accout local, tournures locales..,, 101
-               Les vers, lu prose , ,,,. 04-->
-               
+                  <category>
+                     <catDesc>Propositions construites avec être
+                        <ref target="#ch002"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>— avec un verbe attributif
+                        <ref target="#ch008"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Analyse de noms propres
+                        <ref target="#ch018"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Analyse de verbes
+                        <ref target="#ch020"/>
+                        <ref target="ch021"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Mots dérivés
+                        <ref target="#ch071"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Exercices de dérivation sur les adjectifs, etc
+                        <ref target="#ch027"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Exercices de définition
+                        <ref target="#ch080"/>
+                        <ref target="#ch081"/>
+                        <ref target="#ch082"/>
+                        <ref target="#ch086"/>
+                        <ref target="#ch097"/>
+                        <ref target="#ch105"/>
+                        <ref target="#ch111"/>
+                        <ref target="#ch112"/>
+                        <ref target="#ch121"/>
+                        <ref target="#ch124"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Étude de synonymes
+                        <ref target="#ch014"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Langue, dialecte, patois
+                        <ref target="#ch059"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Acceptions de mots
+                        <ref target="#ch035"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Accent local, tournures locales
+                        <ref target="#ch101"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Les vers, la prose
+                        <ref target="#ch064"/>
+                     </catDesc>
+                  </category>
+               </taxonomy>               
                <taxonomy xml:id="composition">
-                  <desc>Composition</desc>
-                  <category> </category>
+                  <desc>Composition (1)</desc><!-- Is this connected to the footnote on page 533? -->
+                  <category xml:id="récits">
+                     <catDesc>Récits</catDesc>
+                     <category>
+                        <catDesc>Le bourgeois de Falaise
+                           <ref target="#ch002"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Un vigneron (fraternité)
+                           <ref target="#ch037"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Histoire de Robinson
+                           <ref target="#ch038"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>La reconnaissance du lion
+                           <ref target="#ch071"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Histoire du Jacquart
+                           <ref target="#ch099"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Histoire de Brémontier
+                           <ref target="#ch098"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Histoire de Philémon et de Baucis
+                           <ref target="#ch134"/>
+                        </catDesc>
+                     </category>
+                  </category>
+                  <category xml:id="récits_historiques">
+                     <catDesc>Récits historiques</catDesc>
+                     <category>
+                        <catDesc>Découverte de l'Amérique
+                           <ref target="#ch136"/>
+                        </catDesc>
+                     </category>
+                  </category>
+                  <category xml:id="descriptions">
+                     <catDesc>Descriptions</catDesc>
+                     <category>
+                        <catDesc>Une chambre de jeune fille
+                           <ref target="#ch005"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Une famille de bohémiens
+                           <ref target="#ch024"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Une maison incendiée
+                           <ref target="#ch033"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Comment je veux que soit ma chambre
+                           <ref target="#ch040"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Le lupin
+                           <ref target="#ch042"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Une maison rurale
+                           <ref target="#ch046"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>La campagne eu juillet
+                           <ref target="#ch047"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Un jardin public ou un square
+                           <ref target="#ch047"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Un colombier ou une cage
+                           <ref target="#ch050"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>La cataracte du Niagara
+                           <ref target="#ch056"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Le cheval
+                           <ref target="#ch064"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>L'Algérie
+                           <ref target="#ch066"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Uno salle d'attente de chemin de fer
+                           <ref target="#ch077"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Départ des pécheurs
+                           <ref target="ch086"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Un marché
+                           <ref target="#ch090"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Un coq, une poule et ses poussins
+                           <ref target="#ch107"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Une scène de labour
+                           <ref target="#ch123"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>La campagne ou la ville en hiver
+                           <ref target="#ch138"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Un jardin
+                           <ref target="#ch142"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>La Chambre des députés
+                           <ref target="#ch119"/>
+                        </catDesc>
+                     </category>
+                  </category>
+                  <category xml:id="sujets-moraux_imagination">
+                     <catDesc>Sujets-moraux ou d'imagination</catDesc>
+                     <category>
+                        <catDesc>Les livres
+                           <ref target="#ch009"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Comparer deux jeunes filles; l'une soigneuse, l'autre négligente
+                           <ref target="#ch044"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>La lecture et ses avantages
+                           <ref target="#ch068"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Utilité dos expositions
+                           <ref target="#ch074"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Avantages et inconvénients du séjour des villes
+                           <ref target="#ch078" />
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Choix d'une robe
+                           <ref target="#ch096"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Page du journal d'une jeune fille (une journée d'école)
+                           <ref target="#ch100"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Pourquoi j'aime les abeilles
+                           <ref target="ch#111"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Comment on ramène au devoir les égarés
+                           <ref target="#ch131"/>
+                        </catDesc>
+                     </category>
+                  </category>
+                  <category xml:id="lettres">
+                     <catDesc>Lettres</catDesc>
+                     <category>
+                        <catDesc>Suzette écrit à sa tante pour solliciter le pardon de Pascal
+                           <ref target="#ch069"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Lettre de Jacques à l'une de ses tantes au sujet du départ de Suzette pour Paris
+                           <ref target="#ch075"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Lettre pour expliquer ce qui vous rend ù la fois triste et joyeuse, lors du tirage au sort de votre frère
+                           <ref target="#ch117"/>
+                        </catDesc>
+                     </category>
+                  </category>                  
                </taxonomy>
-               
-               
-               <!--. COMPOSITION (I).
-               Récits.
-               Lo bourgeois do Falaise 2
-               v (i) Voir, pour les Directions ot les Sommaires, lo Couns I>E conrosmos MANçÀtsE (Degré élémentaire et moyen) ù l'usage dos aspirants uu certifient d'ètudos-, pur E, LAPohtB.
-               ;:>K';V'-."" ■ 30-
-               Un vigneron (fraternité) ,.., 37
-               Histoire de Robinson,, 38
-               I,a l'ocminaissiiuco du liou,.,.,,.. 71
-               Histoire du Jucquurt 99
-               Histoire do Hromonticr ,..,. 08
-               Histoire de Philémou et do ïiuueis, t')4
-               Réoits historiques.
-               Découverte de l'Amérique..,,,.,. 130 Descriptions,
-               Une chumbro do jeune fille !>
-               Une famillo do bohémiens,.,. ... 24
-               Uno maison incendiée ,,,, ;)3
-               Commont je veux que soit ma chambre 40
-               Lo lupin .,.,, 42
-               Une maison rurale 40
-               La campagne eu juillet 47
-               Un jardin public ou un square.,., 47
-               Un colombier ou une euge HO
-               La cataracte du Niagara ,, îiû
-               Le cheval,.,., ,, 01
-               L'Algérie -.. 00
-               Uno sullo d'attente do chemin do
-               for ,, •, 77
-               Départ dos pécheurs,..'., , S0
-               Un marché 00
-               Un coq, une poulo ot sos poussins, 107
-               Uno scèuo do labour...,,,, 12'A
-               Lu campagne ou la ville en hiver., 1H8
-               Un jardin.., 142
-               La Chambre des députés ,, 119
-               Sujets-moraux ou d'imagination.
-               Les livres , 9
-               Comparer doux jeunes filles; l'uno
-               soigneuse, l'autre négligente,... 41
-               La lecture et ses avantages...,,,, 08
-               Utilité dos expositions,,,, , 74
-               Avantages ot inconvénients du séjour des villes 78
-               Choix d'une robe 00
-               Pago du journal d'une jouno fille
-               (une journée d'école1,,, 100
-               Pourquoi j'aime los abeilles, 111
-               Comment on ramène uu devoir los
-               égarés 131
-               Lettres.
-               Suzotto écrit ù sa tante pour solliciter le pardon de Pascal , 09
-               Lottro do Jacques ù l'une de ses tantos au sujet di^départ do Suzotto pour Paris 7ii
-               Lettre pour expliquer ce qui vous rend ù la fois triste ot joyeuse, lors du tirage au sort de votre
-               frère,.,.., ,,, 117-->
+
                
                
                <taxonomy xml:id="histoire">
@@ -1329,7 +1537,11 @@ LES LEÇONS DE MORALE ET LES LEÇONS DE CHOSES-->
                
                <taxonomy xml:id="hygiène">
                   <desc>Hygiène</desc>
-                  <category> </category>
+                  <category>
+                     <catDesc>
+                        <ref/>
+                     </catDesc>
+                  </category>
                </taxonomy>
 
 <!--HYGIÈNE.
