@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Suzette: a Digital Edition - Chapter 114</title>
+            <title type="main">Suzette: a Digital Edition - Chapter 2</title>
             <respStmt>
                <persName>John Westbrook</persName>
                <orgName>Bucknell University</orgName>
@@ -15,12 +15,12 @@
             <respStmt>
                <persName>Annie Girton</persName>
                <orgName>Bucknell University</orgName>
-               <resp>Research Assistant and Encoder</resp>
+               <resp>Research Assistant and Encoder, 2018-2019</resp>
             </respStmt>
             <respStmt>
                <persName>Sarah Haber</persName>
                <orgName>Bucknell University</orgName>
-               <resp>Research Assistant and Encoder</resp>
+               <resp>Research Assistant and Encoder 2020 - Present</resp>
             </respStmt>
             <respStmt>
                <persName xml:id="JAKA1">Diane Jakacki</persName>
@@ -66,6 +66,9 @@
       <encodingDesc>
          <charDecl>
             <char>
+               <charName xml:id="les_dumay">La Famille Dumay</charName>
+            </char>
+            <char>
                <charName xml:id="suzette">Suzette</charName>
             </char>
             <char>
@@ -84,10 +87,7 @@
                <charName xml:id="charlot">Charlot</charName>
             </char>
             <char>
-               <charName xml:id="mme_valon">Mme Valon</charName>
-            </char>
-            <char>
-               <charName xml:id="m_valon">M. Valon</charName>
+               <charName xml:id="mathias_dumay">Mathias Dumay</charName>
             </char>
             <char>
                <charName xml:id="mme_richard">Mme Richard</charName>
@@ -105,10 +105,28 @@
                <charName xml:id="sylvain">Sylvain</charName>
             </char>
             <char>
+               <charName xml:id="mme_valon">Mme Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="m_valon">M. Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="mme_lienard">Mme Liénard</charName>
+            </char>
+            <char>
                <charName xml:id="ludivine">Ludivine</charName>
             </char>
             <char>
                <charName xml:id="m_lejoly">M. Lejoly</charName>
+            </char>
+            <char>
+               <charName xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="jeanne">Jeanne</charName>
+            </char>
+            <char>
+               <charName xml:id="madeleine">Madeleine</charName>
             </char>
             <char>
                <charName xml:id="l_apiculteur">L'apiculteur</charName>
@@ -117,12 +135,8 @@
                <charName xml:id="la_bohemienne">La bohémienne</charName>
             </char>
             <char>
-               <charName xml:id="m_cartier">M. Cartier</charName>
+               <charName xml:id="la_flamande">La Flamande</charName>
             </char>
-            <char>
-               <charName xml:id="les_dumay">La Famille Dumay</charName>
-            </char>
-
          </charDecl>
          <classDecl>
             <taxonomy xml:id="classification">
@@ -410,16 +424,70 @@
                   <placeName xml:id="la_canada">la Canada</placeName>
                </place>
                <place>
+                  <placeName xml:id="siberie">Sibérie</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="ilesEcosse">Îles d'Écosse</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_belgique">la Belgique</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_hollande">la Hollande</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_inde">l'Inde</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="amienois">Amiénois</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="nerac">Nérac</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="lorraine">Lorraine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="villedieu">Villedieu</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="houdan">Houdan</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="saone_loire">Saône-et-Loire</placeName>
+               </place>
+               <place>
                   <placeName xml:id="fragicourt">Fragicourt</placeName>
                </place>
                <place>
                   <placeName xml:id="paris">Paris</placeName>
                </place>
                <place>
+                  <placeName xml:id="saint-quentin">Saint-Quentin</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="toulouse">Toulouse</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="boulogne">Boulogne</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="beauvais">Beauvais</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="falaise">Falaise</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="creuset">Creuset</placeName>
+               </place>
+               <place>
                   <placeName xml:id="bruxelles">Bruxelles</placeName>
                </place>
                <place>
-                  <placeName xml:id="boston">Boston </placeName>
+                  <placeName xml:id="boston">Boston</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="cochinchine">Cochinchine</placeName>
                </place>
                <place>
                   <placeName xml:id="l_avre">l'Avre <geogFeat>River</geogFeat>
@@ -429,200 +497,184 @@
                   <placeName xml:id="la_moye">la Moye <geogFeat>River</geogFeat>
                   </placeName>
                </place>
+               <place>
+                  <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation </placeName>
+               </place>
+               <place>
+                  <placeName xml:id="ecoleAgriculture">l'École d'agriculture</placeName>
+               </place>
             </listPlace>
          </settingDesc>
       </profileDesc>
    </teiHeader>
    <text>
       <body>
-         <div1 type="chapter" xml:id="ch013" xml:lang="fr" n="13">
-            <pb type="page" n="44"/>
-            <head>13. — Une bonne idée. (Élève, p. 31.)</head>
-            <div2 type="student_edition" xml:id="ch013se">
+         <div1 type="chapter" xml:id="ch019" xml:lang="fr" n="19">
+            <pb type="page" n="69"/>
+            <head>19. — Où ira Jacques? (Élève, p. 48.)</head>
+            <div2 type="student_edition" xml:id="ch019se">
                <div3 type="recis">
-                  <p>Suzette exposa la double question au papa.</p>
-                  <sp>
-                     <speaker>Papa</speaker>
-                     <p>— Hum! hum! répondit-il en se grattant l'oreille, des souliers, une robe,
-                        tout à la fois! Si tu attendais que j'eusse vendu mon blé? car je ne
-                        pourrais, jusque-là, t'offrir qu'une vingtaine de francs.</p>
-                  </sp>
-                  <sp>
-                     <speaker>Suzette</speaker>
-                     <p>— Parfait, vingt francs! Vingt et trente font cinquante; j'ai trente francs
-                        d'économies.</p>
-                  </sp>
-                  <sp>
-                     <speaker>Papa</speaker>
-                     <p>— Trente francs! Tu ne m'as donc pas remis tout le produit des œufs et de la
-                        volaille?</p>
-                  </sp>
-                  <sp>
-                     <speaker>Suzette</speaker>
-                     <p>— Si, papa.</p>
-                  </sp>
-                  <sp>
-                     <speaker>Papa</speaker>
-                     <p>— Eh bien, alors?</p>
-                  </sp>
-                  <stage>Suzette leva l'index :</stage>
-                  <sp>
-                     <speaker>Suzette</speaker>
-                     <p>— Eh bien, papa, écoutez! Les quinze grammes de café que nous dépensons
-                        chaque matin coûtent dix centimes; à ce prix-là, combien coûte le
-                        demi-kilogramme?</p>
-                  </sp>
-                  <p>Elle attendit la réponse, qui ne vint pas vite : M. Dumay ne se piquait pas
-                     d'arithmétique*.</p>
-                  <sp>
-                     <speaker>M. Dumay</speaker>
-                     <p>— Il coûte trois francs trente-trois centimes, reprit Suzette. Or j'ai eu,
-                        depuis quelque temps, l’idée de l'acheter, non plus par miettes, mais
-                        par</p>
-                  </sp>
-                  <figure>
-                     <caption> Le café. Branche de caféier, avec ses fruits ; à côté, un de ces
-                        fruits contenant deux grains de café verts; c’est dans cet état que le café
-                        est brûlé par l'épicier dans un cylindre qu'il tourne avec une manivelle
-                        au-dessous d'un brasier. Le café prend alors une couleur marron
-                        foncé.</caption>
-                  </figure>
+                  <p>Quand Suzette rentra à la maison, avec son chagrin, on n'eut pas trop le temps
+                     de la plaindre; on lisait une lettre qui, depuis le matin, attendait chez le
+                     vieux Benoît, père de Ludivine, M, Dumay, parti avant l’arrivée du facteur.</p>
+                  <p>Le père Benoît, peu pressé, avait attendu pour la remettre que le cheval fut
+                     dételé, le char à bancs rentré.</p>
+                  <p>Cette lettre appelait Jacques Dumay au concours*, sur la présentation de son
+                     maître M. Valon.</p>
+                  <p>Or, au bout de ce concours pendaient une bourse* entière ou une demi-bourse de
+                     l’État, et l’entrée dans un lycée ou dans une école d'agriculture :</p>
+                  <p>Eh bien, voyons ! si le concours nous classait parmi les premiers, se
+                     déciderait-on pour le latin : hortus, le jardin, horti, du jardin, comme disait
+                     parfois le maître, ou bien pour le jardin même, pour le travail des champs?</p>
+                  <p>M. Valon avait toujours incliné de ce dernier côté; mais M. François et M.
+                     Chariot penchèrent pour hortus, horti; ils trouvaient très bien de pouvoir se
+                     servir de mots que tout le monde ne connaît pas ; cela vous pose un jeune
+                     homme.</p>
+                  <p>M. Dumay se grattait la tête. Malgré sa vieille attache à la terre, il ne lui
+                     déplaisait pas tout à fait de voir son aîné monter en grade jusqu'à parler
+                     latin, ce qu'on n'avait pas encore fait dans la famille, devenir un jour
+                     bachelier*, puis avocat*, puis député*...</p>
+                  <p>Et ce beau spectacle de M. Jacques comptant au village et à la ville pour un
+                     personnage considérable ne blessait pas trop M. Jacques lui-même, ni sa sœur,
+                     Mme Suzette.</p>
 
-                  <pb type="page" n="45"/>
-                  <fw type="header">UNE BONNE IDÉE. 45</fw>
-                  <p>demi-kilogramme d'un coup, et je ne le paye plus que deux francs soixante.
-                     J'épargne ainsi au marchand la peine de peser trop souvent, et il me reste, à
-                     moi, soixante-dix centimes. Avec quelques autres économies de ce genre sur
-                     diverses denrées*, en dix mois ç'a été trente beaux francs. Rien n'est plus
-                     cher que d'acheter sou à sou, par petite quantité.</p>
-                  <p>Elle tira d'une boîte deux pièces jaunes toutes brillantes, puis alla chercher
-                     son livre de comptes.</p>
-                  <p>Le père mit ses lunettes, les promena du haut, en bas de la comptabilité*
-                     proprette qui se voyait là, et courut à l'addition, aux deux pièces d'or
-                     présentes et probantes*.</p>
-                  <sp>
-                     <speaker>Papa</speaker>
-                     <p>— Bien! dit-il, enchanté; ta mère n'a pas trouvé ça, parce qu'elle était
-                        moins instruite que tu ne l'es. C'est d'un cœur ingénieux* et tendre que
-                        naissent les bonnes idées ménagères. D'une économie aussi sage nous viennent
-                        un peu plus d'abondance, de bien-être*. Et vive ma fillette qui est une
-                        bonne petite mère!</p>
-                  </sp>
-                  <p>Les yeux de Suzette brillaient joyeusement. Il lui caressait doucement les
-                     cheveux :</p>
-                  <sp>
-                     <speaker>Papa</speaker>
-                     <p>— Je veux donc,</p>
-                     <stage>reprit-il,</stage>
-                     <p>qu'elle ait une jolie robe; et elle l'achètera elle-même, dès demain ;
-                        j'attellerai le char à bancs * pour la conduire à la foire de Saint
-                        Quentin!</p>
-                  </sp>
-                  <figure>
-                     <caption>La préparation du café. Il faut avoir soin de moudre le café soi-même
-                        pour que l'arôme se conserve plus longtemps; faites bouillir de l'eau,
-                        jetez-la ensuite sur le café ou poudre que vous avez, mis sur le tamis de la
-                        cafetière et, dès qu'il est passé, versez-le bien chaud. En été, le café
-                        froid coupé d'eau est une boisson hygiénique et réconfortante.</caption>
-                  </figure>
+                  <pb type="page" n="70"/>
+                  <fw type="header">70 SUZETTE.</fw>
+                  <p>Mais le petit orgueil familial ne tint pas trois minutes devant le bon sens
+                     aussitôt évoqué * par ces paroles de M. Valon qui revinrent à temps à la
+                     mémoire du papa : </p>
+                  <p>« Un latiniste c'est bon, quand il est bon, quoique ça coûte cher; mais un
+                     savant producteur de blé, de fruits, c'est-à-dire de richesse publique*, c'est
+                     encore mieux. Brave paysan sorti de là terre, attache-toi à elle; enrichis-la
+                     pour y vivre largement; enrichis le pays; voilà un honneur qui en vaut bien un
+                     autre ! »</p>
+                  <p>Jacques alla au concours; il en revint avec la place de troisième dans le
+                     classement et une demi-bourse. Il choisit l'école d'agriculture.</p>
                </div3>
                <div3 type="questionnaire">
-                  <pb type="page" n="46"/>
-                  <fw type="header">46. SUZETTE.</fw>
                   <head>Questionnaire.</head>
                   <list>
-                     <item>— Que répondit le père lorsqu'il fut question de l'achat d'une robe et de
-                        souliers ?</item>
-                     <item>— Comment Suzette s'était-elle procuré les 30 francs nécessaires aux
-                        achats en question?</item>
-                     <item>—Donnez, des détails sur le genre d'écono- <cb/> mies qu’elle avait
-                        pratiqué ?</item>
-                     <item>— Qu'en pensez-vous?</item>
-                     <item>— Que répondit le père?</item>
-                     <item>— Quelle décision fut prise alors?</item>
-                     <item>— Qu'est-ce que le caféier?</item>
-                     <item>— Comment grille-t-on le café?</item>
-                     <item>— De quelle manière se prépare une tasse de café noir?</item>
+                     <item>— Que lisait-on à la maison lorsque Suzette rentra?</item>
+                     <item>— A qui la lettre avait-elle été remise ?</item>
+                     <item>— Quel était son objet?</item>
+                     <item>— Quel pouvait être le résultat du concours pour Jacques?</item>
+                     <item>— S'il était admis parmi les premiers, sur quel aurait-il à prendre un
+                        parti?</item>
+                     <item>— Quelles étaient les opinions de M. Valon,<cb/> de François, de
+                        Charlot?</item>
+                     <item>— Que faisait et pensait d'abord M. Dumay?</item>
+                     <item>— Qu'entrevoyait-il pour Jacques, dans l'avenir?</item>
+                     <item>— Quelles raisons fit valoir M. Valon en faveur de l'école
+                        d'agriculture?</item>
+                     <item>— Quel fut le résultat du concours et que choisit Jacques ?</item>
                   </list>
                </div3>
             </div2>
-            <div2 type="teacher_edition" xml:id="ch013te">
+            <div2 type="teacher_edition" xml:id="ch019te">
                <head type="exercice">DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES.</head>
                <div3 type="sujets" ana="morale">
                   <head>Morale.</head>
                   <list>
-                     <item>— Faut-il dépenser tout ce qu'on gagne, et pourquoi?</item>
-                     <item>— Comment appelle-t-on l'argent qu'on épargne ?</item>
-                     <item>— Quelles dépenses in-utiles font bien souvent les hommes?</item>
-                     <item>— Que pensez-vous des fâcheuses habitudes qu'ils contractent de cette
-                        manière ?</item>
+                     <item>— Faut-il juger les gens selon l'habit qu'ils portent?</item>
+                     <item>— Pourquoi?</item>
+                     <item>— Quels services rendent les professions manuelles?</item>
+                     <item>Exemples. — Quels services rendent les autres professions?</item>
+                     <item>Exemples. — Montrez qu'elles sont toutes honorables.</item>
+                     <item>— La jeune fille qui travaille de ses doigts, soit à la ville, soit à la
+                        campagne, est-elle l'égale de celle qui est à un comptoir?</item>
+                     <item>— Est-ce l'homme qui fait la place ou la place qui fait l'homme?</item>
+                     <item>— Quelle profession désirez-vous embrasser, et pourquoi ?</item>
                   </list>
+                  <p>Quand le vêtement est propre et assorti à la condition de celle qui le porte,
+                     il est sot de juger les gens plus ou moins favorablement selon le plus ou moins
+                     de valeur qu'on peut attribuer à ce vêtement. C'est aussi peu logique que
+                     d'apprécier un fruit d'après la pelure, l'arbre d'après l'écorce, les bonbons
+                     d'après la richesse de la boîte qui les contient. On doit estimer ses compagnes
+                     selon les qualités de leur esprit et de leur cœur, et les grandes personnes
+                     selon leur conduite et les services qu'elles rendent ou ont rendus à la
+                     société.</p>
+                  <p>Il est de mode, dans certains milieux bourgeois, de mépriser les travaux
+                     manuels et de faire peu de cas de ceux qui s'en occupent. Volontiers ce serait,
+                     pour une femme, chose humiliante que de prendre part aux soins du ménage, à la
+                     tenue des enfants, à la culture du jardin, à l'entretien du linge, — tandis que
+                     tapoter sur un piano trois ou quatre heures par jour, courir les magasins et
+                     les visites pendant le reste du temps que laissent disponible des soins
+                     minutieux de toilette, constituerait seulement un régime de vie qu'on pût
+                     avouer.</p>
+                  <p>Évitons ces travers d'esprit égoïstes et ridicules et honorons les professions
+                     manuelles.</p>
 
-                  <p>Les personnes qui dépensent au jour le jour ce qu'elles gagnent, ne sont ni
-                     raisonnables ni prudentes. Qu'il survienne un chômage, une maladie : comment
-                     alors fera celui dont toutes les ressources dépendent du travail quotidien ? Si
-                     un vêtement se trouve hors d'usage, si le moment arrive de renouveler la
-                     provision de chauffage, si le terme de loyer vient à échoir, comment se
-                     pourvoira-t-on de ces objets et comment, réglera-t-on ses affaires si l'on n'a
-                     point d'argent réservé? Il faut donc ne jamais dépenser tout ce qu'on gagne à
-                     mesure qu'on en touche le montant.</p>
-                  <p>L'argent qu'on met de côté en vue des besoins de l'avenir, constitue ce qu'on
-                     appelle des économies.</p>
-                  <p>Souvent les ouvriers s'habituent à dépenser chaque jour de petites sommes : 10,
-                     15. 20, 30 centimes pour tabac, café, liqueurs. Il leur semble que ce n’est
-                     rien, et cependant ces menues dépenses, par leur répétition même, s'élèvent en
-                     fin d'année à une somme considérable avec laquelle ils pourraient assurer le
-                     repos de leur vieillesse ou faire face à des nécessités urgentes.</p>
+                  <pb type="page" n="71"/>
+                  <fw type="header">OU IRA JACQUES? 71</fw>
+                  <p>L'agriculteur donne le pain quotidien; au maçon nous devons les maisons ; aux
+                     couturières, nos vêtements; aux cuisinières, les aliments qui entretiennent la
+                     vie ; etc., etc. Les uns et les autres rendent d'éminents services ; témoignons
+                     que nous savons les apprécier !</p>
+                  <p>Il faut avoir l'intelligence bien étroite pour faire moins de cas des jeunes
+                     filles. qui s'occupent de travaux agricoles, que de celles qui vendent ou
+                     écrivent derrière un comptoir. Les unes et les autres sont égales en mérite et
+                     ont droit à la même considération, si leur conduite et leur tenue sont
+                     pareillement estimables.</p>
+                  <p>On l'a dit avec raison : « C'est l'homme qui fait la place et non la place qui
+                     fait l'homme. » En d'autres termes, on peut être honorable et honoré dans la
+                     condition la plus humble, et méprisable au sommet des grandeurs.</p>
                </div3>
-
-               <div3 type="sujets" ana="calcul">
-                  <head>Calcul.</head>
+               <div3 type="sujets" ana="instruction civique">
+                  <head>Instruction civique.</head>
                   <list>
-                     <item>— Avec les 10 ou 16 centimes qu'un homme dépense inutilement chaque jour,
-                        quelle somme est prélevée sur le gain d'une année?</item>
-                     <item>— Que pourrait-on payer ou acheter avec cet argent pour l'entretien du
-                        ménage?</item>
+                     <item>— Je vais mettre une lettre à la boîte ; que se passera-t-il jusqu'à ce
+                        qu'elle arrive à destination? (Ne pas oublier les timbres.)</item>
+                     <item>— Qui dirige le service des postes?</item>
+                     <item>— Quels avantages nous procure ce service ?</item>
+                     <item>— S'il n'y avait pas de poste aux lettres, à quoi serait-on obligé pour
+                        faire parvenir une lettre?</item>
+                     <item>— Comparez cette situation avec celle qui existe actuellement.</item>
+                     <item>— Qu'appelle-t-on lettre taxée, lettre affranchie, lettre chargée, lettre
+                        recommandée, carte postale?</item>
                   </list>
-                  <p>A raison de 0 fr. 10 par jour, la dépense en question</p>
-                  <p>s’élèverait à ..................................... 30 fr. 50</p>
-                  <p>A raison de 0 fr. 15, la dépense s’élèverait à ……….. 54 fr. 75</p>
-                  <p>Avec cet argent sottement dépensé, il aurait pu louer un jardin dont on aurait
-                     tiré les légumes nécessaires à la cuisine du ménage, — acheter la provision de
-                     bois ou de charbon pour l'hiver, — ou bien encore payer un semestre de loyer,
-                     munir les enfants de chaussures et de bas bien chauds, lorsque survient la
-                     saison rigoureuse.</p>
-               </div3>
-
-               <div3 type="sujets" ana="industrie">
-                  <head>Industrie.</head>
-                  <list>
-                     <item>— A qui et à quoi servent les lunettes?</item>
-                     <item>— Quelle est la forme des verres de lunettes?</item>
-                     <item>— Comment nous apparaissent les choses à travers les deux sortes de
-                        verres employées dans les lunettes?</item>
-                     <item>— Qu'est-ce que l'instrument appelé lunette?</item>
-                     <item>— Quels services rend-il?</item>
-                  </list>
-                  <p><rs>Les lunettes</rs> ou besicles remédient aux défauts des vues faibles ou
-                     fatiguées, comme celles des vieillards et des personnes myopes.</p>
-                  <p>Les premiers ne peuvent bien voir s'ils n'éloignent les objets de leurs yeux,
-                     ce qui fait qu'il leur est presque impossible de distinguer les petits objets
-                     et de lire ou écrire facilement. Les myopes doivent, au contraire, rapprocher
-                     les choses de manière à les amener presque au contact des yeux, de sorte qu'ils
-                     ne peuvent apercevoir celles qui sont éloignées; pour eux, il n'y a ni beaux
-                     paysages, ni horizons étendus.</p>
-                  <p>Selon que les lunettes sont pour l'usage des vieillards ou des myopes,</p>
-
-                  <pb type="page" n="47"/>
-                  <fw type="header">BRUNEHAUT. 47</fw>
-                  <p>les verres sont bombés des deux côtés ou concaves, c'est-à-dire creusés vers le
-                     centre.</p>
-                  <p>L'instrument appelé lunette est un tube cylindrique, noirci intérieurement,
-                     dans lequel on dispose des verres de forme lenticulaire La lunette rapproche
-                     les objets situés à de grandes distances; elle rend ainsi les plus utiles
-                     services aux navigateurs, aux militaires, enfin aux astronomes à qui elle a
-                     donné le moyen d'étudier les astres dans tous les détails de leur
-                     conformation.</p>
+                  <p>J'habite Roubaix et je viens d'écrire une lettre à destination de Bordeaux. La
+                     distance est considérable : quelque chose comme 840 kilomètres ; mais je ne
+                     m'en préoccupe guère. Je colle au coin gauche de l'adresse un timbre de quinze
+                     centimes et je jette ma lettre dans une boîte quelconque de la ville, un
+                     facteur l'y vient prendre et la dépose au bureau de poste. Là, on la timbre et
+                     on la met, on compagnie de beaucoup d'autres, dans un paquet sur lequel est
+                     écrit Paris. Le chemin de fer le transporte dans cette dernière ville, où un
+                     fourgon spécial vient prendre les correspondances et les amène au bureau
+                     central. Dans ce vaste local, des employés décachètent les paquets et classent
+                     les lettres selon leur destination. La mienne prendra place dans un gros sac
+                     qui contient toutes celles à distribuer sur le parcours de la ligne de Paris à
+                     Bordeaux.</p>
+                  <p>A la gare centrale du chemin de fer, l'énorme sac est déposé dans un wagon des
+                     postes, où l'on a établi autant de casiers qu'il existe de bureaux il
+                     desservir. Pendant que le train file à toute vapeur sur le Midi, des employés
+                     répartissent les correspondances dans tous les casiers, et y ajoutent celles
+                     qu'on leur remet en route. </p>
+                  <p>Voici que ma lettre parvient à Bordeaux. Elle est dans un paquet ficelé et
+                     cacheté qu'on ouvre au bureau de poste. Les facteurs y prennent chacun les
+                     lettres destinées au quartier qui forme leur circonscription ; la besogne
+                     achevée, ils entassent dans leur boîte les correspondances, soigneusement
+                     classées selon l'ordre des rues, et les remettent à domicile.</p>
+                  <p>En moins de 24 heures, toutes ces opérations ont été menées à bonne fin.</p>
+                  <p>Si le service des postes n'existait point, j'aurais dû charger un messager de
+                     porter ma lettre à Bordeaux; il lui eût fallu au moins 45 à 48 jours pour
+                     l'aller et le retour, lesquels, réglés à raison de 5 francs, donneraient une
+                     note finale à payer de 240 francs. De plus, ma lettre me ____ autant de jours
+                     pour arriver au destinataire qu'elle a employé d'heures. Cela suffit pour
+                     montrer les avantages de l'institution du service des postes.</p>
+                  <p><hi rend="italic">(Voir sur un calendrier postal ce qu'il en est des diverses
+                        catégories de lettres, et effectuer cette recherche en présence des enfants,
+                        pour <pb type="page" n="72"/>
+                        <fw type="header">72 SUZETTE.</fw> qu'au besoin ils sachent où sont les
+                        renseignements de ce genre.)</hi></p>
+                  <p><hi rend="italic">— Pourquoi est-ce un bien que l'État fonde des bourses dans
+                        les lycées, collèges et écoles ?</hi></p>
+                  <p>Tous les parents d'enfants très intelligents et très laborieux n'ont pas les
+                     ressources nécessaires pour donner à ces derniers une éducation supérieure.
+                     L'État, qui entend favoriser le développement des aptitudes chez les sujets
+                     vraiment remarquables, accorde des bourses, c'est-à-dire la faveur d'une
+                     admission gratuite dans les établissements publics d'instruction, aux jeunes
+                     filles et aux jeunes gens qui sont classés les premiers dans les concours
+                     annuels. </p>
                </div3>
             </div2>
          </div1>
