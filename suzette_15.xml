@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Suzette: a Digital Edition - Chapter 2</title>
+            <respStmt>
+               <persName>John Westbrook</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Annie Girton</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and Encoder, 2018-2019</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sarah Haber</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and Encoder 2020 - Present</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="JAKA1">Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>Bucknell University</distributor>
+            <pubPlace>
+               <address>
+                  <addrLine>One Dent Drive</addrLine>
+                  <addrLine>Lewisburg, PA 17837</addrLine>
+               </address>
+            </pubPlace>
+            <availability>
+               <licence>Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles.
+                     Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine –
+                     Couture</title>
+                  <author>Robert Halt</author>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <date>1889</date>
+                     <distributor>Libraire Classique Paul Delaplane</distributor>
+                     <pubPlace>Paris, France</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fra">French</language>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <charDecl>
+            <char>
+               <charName xml:id="les_dumay">La Famille Dumay</charName>
+            </char>
+            <char>
+               <charName xml:id="suzette">Suzette</charName>
+            </char>
+            <char>
+               <charName xml:id="papa">Papa</charName>
+            </char>
+            <char>
+               <charName xml:id="la_maman">La maman</charName>
+            </char>
+            <char>
+               <charName xml:id="jacques">Jacques</charName>
+            </char>
+            <char>
+               <charName xml:id="francois">François</charName>
+            </char>
+            <char>
+               <charName xml:id="charlot">Charlot</charName>
+            </char>
+            <char>
+               <charName xml:id="mathias_dumay">Mathias Dumay</charName>
+            </char>
+            <char>
+               <charName xml:id="mme_richard">Mme Richard</charName>
+            </char>
+            <char>
+               <charName xml:id="louis">Louis</charName>
+            </char>
+            <char>
+               <charName xml:id="pascal">Pascal</charName>
+            </char>
+            <char>
+               <charName xml:id="marthe">Marthe</charName>
+            </char>
+            <char>
+               <charName xml:id="sylvain">Sylvain</charName>
+            </char>
+            <char>
+               <charName xml:id="mme_valon">Mme Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="m_valon">M. Valon</charName>
+            </char>
+            <char>
+               <charName xml:id="mme_lienard">Mme Liénard</charName>
+            </char>
+            <char>
+               <charName xml:id="ludivine">Ludivine</charName>
+            </char>
+            <char>
+               <charName xml:id="m_lejoly">M. Lejoly</charName>
+            </char>
+            <char>
+               <charName xml:id="m_cartier">M. Cartier</charName>
+            </char>
+            <char>
+               <charName xml:id="jeanne">Jeanne</charName>
+            </char>
+            <char>
+               <charName xml:id="madeleine">Madeleine</charName>
+            </char>
+            <char>
+               <charName xml:id="l_apiculteur">L'apiculteur</charName>
+            </char>
+            <char>
+               <charName xml:id="la_bohemienne">La bohémienne</charName>
+            </char>
+            <char>
+               <charName xml:id="la_flamande">La Flamande</charName>
+            </char>
+         </charDecl>
+         <classDecl>
+            <taxonomy xml:id="classification">
+               <category xml:id="morale">
+                  <catDesc>Morale</catDesc>
+                  <category xml:id="enfantFamille">
+                     <catDesc>L'enfant dans la famille</catDesc>
+                  </category>
+                  <category xml:id="devoirsFreresSoeurs">
+                     <catDesc>Devoirs des frères et sœurs</catDesc>
+                  </category>
+                  <category xml:id="devoirsServiteurs">
+                     <catDesc>Devoirs envers les serviteurs</catDesc>
+                  </category>
+                  <category xml:id="enfantEcole">
+                     <catDesc>L'enfant dans l'école</catDesc>
+                  </category>
+                  <category xml:id="patrie">
+                     <catDesc>La patrie</catDesc>
+                  </category>
+                  <category xml:id="devoirsSoiMeme">
+                     <catDesc>Devoirs envers soi-même</catDesc>
+                  </category>
+                  <category xml:id="biensExterieurs">
+                     <catDesc>Les biens extérieurs</catDesc>
+                  </category>
+                  <category xml:id="ame">
+                     <catDesc>L'âme</catDesc>
+                  </category>
+                  <category xml:id="devoirsSemblables">
+                     <catDesc>Devoirs envers nos semblables</catDesc>
+                  </category>
+                  <category xml:id="devoirsDieu">
+                     <catDesc>Devoirs envers Dieu</catDesc>
+                  </category>
+               </category>
+               <category xml:id="instructionCivique">
+                  <catDesc>Instruction civique</catDesc>
+               </category>
+               <category xml:id="civilite">
+                  <catDesc>Civilité</catDesc>
+               </category>
+               <category xml:id="francais">
+                  <catDesc>Français</catDesc>
+               </category>
+               <category xml:id="composition">
+                  <catDesc>Composition</catDesc>
+                  <!--In the book Composition is followed by an (1); should that be included?-->
+                  <category xml:id="recits">
+                     <catDesc>Récits</catDesc>
+                  </category>
+                  <category xml:id="recitsHistoriques">
+                     <catDesc>Récits historiques</catDesc>
+                  </category>
+                  <category xml:id="descriptions">
+                     <catDesc>Descriptions</catDesc>
+                  </category>
+                  <category xml:id="sujetsMoraux">
+                     <catDesc>Sujets moraux ou d'imagination</catDesc>
+                  </category>
+                  <category xml:id="lettres">
+                     <catDesc>Lettres</catDesc>
+                  </category>
+               </category>
+               <category xml:id="histoire">
+                  <catDesc>Histoire</catDesc>
+                  <!--<category xml:id="histoireNaturelle">
+                     <catDesc>Histoire naturelle</catDesc>
+                  </category>
+                  <category xml:id="histoireTravail">
+                     <catDesc>Histoire du travail</catDesc>
+                  </category>-->
+               </category>
+               <category xml:id="geographie">
+                  <catDesc>Géographie</catDesc>
+                  <category xml:id="europe">
+                     <catDesc>Europe</catDesc>
+                  </category>
+                  <category xml:id="asie">
+                     <catDesc>Asie</catDesc>
+                  </category>
+                  <category xml:id="afrique">
+                     <catDesc>Afrique</catDesc>
+                  </category>
+                  <category xml:id="amerique">
+                     <catDesc>Amérique</catDesc>
+                  </category>
+                  <category xml:id="oceanie">
+                     <catDesc>Océanie</catDesc>
+                  </category>
+                  <category xml:id="france">
+                     <catDesc>France</catDesc>
+                  </category>
+                  <!--  <category xml:id="topographie">
+                     <catDesc>Topographie</catDesc>
+                  </category>-->
+               </category>
+               <category xml:id="scienceNat">
+                  <catDesc>Science Naturelles</catDesc>
+                  <!--<category xml:id="geologie">
+                     <catDesc>Géologie</catDesc>
+                  </category>-->
+                  <category xml:id="mineraux">
+                     <catDesc>Minéraux</catDesc>
+                  </category>
+                  <!--In the book Minéraux is followed by ",etc."; should that be included?-->
+                  <!--<category xml:id="botanique">
+                     <catDesc>Botanique</catDesc>-->
+                  <category xml:id="vegetaux">
+                     <catDesc>Végétaux</catDesc>
+                     <!--All of the sub-categories following this are numbered; should that be included?-->
+                     <category xml:id="arbreNoncultives">
+                        <catDesc>Arbres non cultivés</catDesc>
+                     </category>
+                     <category xml:id="herbesPlantes">
+                        <catDesc>Herbes ou plantes sauvages</catDesc>
+                     </category>
+                     <category xml:id="arbreCultives">
+                        <catDesc>Arbres cultivés</catDesc>
+                     </category>
+                     <category xml:id="arbustes">
+                        <catDesc>Arbustes cultivés</catDesc>
+                     </category>
+                     <category xml:id="cereales">
+                        <catDesc>Céréales</catDesc>
+                     </category>
+                     <category xml:id="legumesRacines">
+                        <catDesc>Légumes, racines, etc.</catDesc>
+                     </category>
+                     <category xml:id="divers1">
+                        <!-- Avoid tagging with Divers - if necessary, create another sub-category -->
+                        <catDesc>Divers</catDesc>
+                     </category>
+                  </category>
+                  <!--<category xml:id="physiologieVegetale">
+                        <catDesc>Physiologie végétale</catDesc>
+                     </category>-->
+                  <!--</category>-->
+                  <!-- <category xml:id="zoologie">
+                     <catDesc>Zoologie</catDesc>-->
+                  <category xml:id="animaux">
+                     <catDesc>Animaux</catDesc>
+                     <!--All of the sub-categories following this are numbered; should that be included?-->
+                     <category xml:id="homme">
+                        <catDesc>l'Homme</catDesc>
+                     </category>
+                     <!--Homme wouldn't go under zoologie.. could we seperate it or rename this category?-->
+                     <category xml:id="animauxDomestiques">
+                        <catDesc>Animaux domestiques</catDesc>
+                     </category>
+                     <category xml:id="animauxSauvages">
+                        <catDesc>Animaux sauvages</catDesc>
+                     </category>
+                  </category>
+                  <!--<category xml:id="physiologieAnimal">
+                        <catDesc>Physiologie animaux</catDesc>
+                     </category>-->
+                  <!--</category>-->
+                  <!--<category xml:id="agriculture">
+                     <catDesc>Agriculture</catDesc>
+                     <category xml:id="techniquesAgricoles">
+                        <catDesc>Techniques agricoles</catDesc>
+                     </category>
+                     <category xml:id="produits">
+                        <catDesc>Produits</catDesc>
+                     </category>
+                     <category xml:id="outilsMachines">
+                        <catDesc>Outils et machines</catDesc>
+                     </category>
+                     <category xml:id="recolte">
+                        <catDesc>Récolte</catDesc>
+                     </category>
+                     <category xml:id="elevageBetail">
+                        <catDesc>Élevage de bétail</catDesc>
+                     </category>
+                     <category xml:id="terrainAgricole">
+                        <catDesc>Terrain agricole</catDesc>
+                     </category>
+                     <category xml:id="apiculture">
+                        <catDesc>Apiculture</catDesc>
+                     </category>
+                  </category>-->
+               </category>
+               <category xml:id="sciencesPhys">
+                  <catDesc>Notions relatives aux sciences physiques</catDesc>
+                  <!--<category xml:id="elements">
+                     <catDesc>Éléments</catDesc>-\->
+                     <category xml:id="feu">
+                        <catDesc>Feu</catDesc>
+                     </category>
+                     <!-\-Could add categories for earth/wind/air-\->
+                  </category>
+                  <category xml:id="meterologie">
+                     <catDesc>Métérologie</catDesc>-\->
+                  </category>-->
+                  <!--Category for night/day cycles, seasons?-->
+               </category>
+               <category xml:id="industrie">
+                  <catDesc>Industrie</catDesc>
+                  <category xml:id="matieresObjets">
+                     <catDesc>Matières et objets fabriqués</catDesc>
+                  </category>
+                  <category xml:id="constructions">
+                     <catDesc>Constructions</catDesc>
+                  </category>
+                  <category xml:id="machinesAppareils">
+                     <catDesc>Machines, appareils, ustensiles, vases</catDesc>
+                  </category>
+                  <!--Can outils go under machinesAppareils-->
+                  <category xml:id="outils">
+                     <catDesc>Outils</catDesc>
+                  </category>
+                  <category xml:id="etoffesHabillement">
+                     <catDesc>Étoffes, habillement</catDesc>
+                  </category>
+                  <category xml:id="divers2">
+                     <catDesc>Divers</catDesc>
+                  </category>
+               </category>
+               <category xml:id="economieDomestique">
+                  <catDesc>Économie Domestique</catDesc>
+                  <!--<category xml:id="tachesMenageres">
+                     <catDesc>Tâches ménagères</catDesc>
+                  </category>-->
+                  <category xml:id="alimentsCuisine">
+                     <catDesc>Aliments et cuisine</catDesc>
+                  </category>
+                  <category xml:id="vetements1">
+                     <catDesc>Vêtements</catDesc>
+                  </category>
+                  <category xml:id="basse-cour">
+                     <catDesc>Basse-cour</catDesc>
+                  </category>
+                  <!--Could basse-cour be combined with scienceNat/agriculture under elevageBetail?-->
+               </category>
+               <category xml:id="hygiene">
+                  <catDesc>Hygiène</catDesc>
+                  <category xml:id="corpsHabitations">
+                     <catDesc>Corps et habitations</catDesc>
+                  </category>
+                  <category xml:id="vetements2">
+                     <catDesc>Vêtements</catDesc>
+                  </category>
+                  <category xml:id="aliments">
+                     <catDesc>Aliments</catDesc>
+                  </category>
+                  <category xml:id="maladiesRemedes">
+                     <catDesc>Maladies, etc. ; remèdes</catDesc>
+                  </category>
+               </category>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <settingDesc>
+            <listPlace>
+               <place>
+                  <placeName xml:id="l_amerique">l'Amérique</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_oceanien">l'Oceanian</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_europe">l'Europe</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_afrique">l'Afrique</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_australie">l'Australie</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_france">la France</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_chine">la Chine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="etats_unis">les États-Unis</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_arabe">l'Arabe</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_canada">la Canada</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="siberie">Sibérie</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="ilesEcosse">Îles d'Écosse</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_belgique">la Belgique</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_hollande">la Hollande</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_inde">l'Inde</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="amienois">Amiénois</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="nerac">Nérac</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="lorraine">Lorraine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="villedieu">Villedieu</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="houdan">Houdan</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="saone_loire">Saône-et-Loire</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="fragicourt">Fragicourt</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="paris">Paris</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="saint-quentin">Saint-Quentin</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="toulouse">Toulouse</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="boulogne">Boulogne</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="beauvais">Beauvais</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="falaise">Falaise</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="creuset">Creuset</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="bruxelles">Bruxelles</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="boston">Boston</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="cochinchine">Cochinchine</placeName>
+               </place>
+               <place>
+                  <placeName xml:id="l_avre">l'Avre <geogFeat>River</geogFeat>
+                  </placeName>
+               </place>
+               <place>
+                  <placeName xml:id="la_moye">la Moye <geogFeat>River</geogFeat>
+                  </placeName>
+               </place>
+               <place>
+                  <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation </placeName>
+               </place>
+               <place>
+                  <placeName xml:id="ecoleAgriculture">l'École d'agriculture</placeName>
+               </place>
+            </listPlace>
+         </settingDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1 type="chapter" xml:id="ch015" xml:lang="fr" n="15">
+            <pb type="page" n="51"/>
+            <head>15. — La charte* du comte Herbert (Élève, p. 36.)</head>
+            <div2 type="student_edition" xml:id="ch015se">
+               <div3 type="recis">
+                  <p>Comme le carillon* de Saint-Quentin entonnait sa chanson joyeuse, les voyageurs
+                     arrivaient sur la place de l'hôtel de ville* et au même moment, d'un gros nuage
+                     menaçant, se mit à tomber une forte ondée.</p>
+                  <p>A peine avait-on eu le temps de jeter un coup d'œil au monument, à ses ogives*,
+                     à sa rosace* en dentelle de pierre, à ses sculptures, puis aux baraques de la
+                     foire qui formaient comme une ville de tentes* sur toute l'étendue de la place,
+                     qu'on dut chercher un refuge.</p>
+                  <p>Assez souvent il ne faut pas moins d'une grosse averse pour inviter les gens à
+                     la visite d'un monument.</p>
+                  <p>Tous les Fragicourtois, sauf M. Dumay, en train d'abriter sa voiture et sa
+                     bête, se précipitèrent à l'intérieur de l'hôtel de ville et le
+                     parcoururent.</p>
+                  <p>Il n'est pas grand. On fut bientôt au premier étage, dans la salle du Conseil,
+                     une des plus belles salles qui nous restent de la Renaissance*, avec son
+                     immense cheminée de pierre toute décorée des plus délicates sculptures. On
+                     admira les grandes fenêtres aux vitraux peints qui furent données par les
+                     corporations* d'alors, dont elles portent les armoiries*, et sa voûte de bois,
+                     aux charpentes apparentes, artistement ouvrées.</p>
+                  <p>On en fit le tour, puis on regarda une grande peinture décorative qui tenait
+                     tout le pan du mur en face des fenêtres.</p>
+                  <p>A gauche de la composition, un homme debout; il a à ses côtés un jeune enfant
+                     qui, très attentif, écoute la lecture d'un parchemin* que fait un scribe*.
+                     Derrière ce groupe, une garde d'hommes d’armes massés, la lance</p>
+
+                  <pb type="page" n="52"/>
+                  <fw type="header">52 SUZETTE.</fw>
+                  <p>au poing, prouve qu'on a ici affaire à des personnages d'importance. En face,
+                     une foule de gens pauvrement vêtus de costumes divers, et aux visages exprimant
+                     l'émotion, lèvent la main droite, dans l'attitude du serment. </p>
+                  <sp>
+                     <speaker>Ludivine</speaker>
+                     <p>— Eh!</p>
+                     <stage>murmura Ludivine,</stage>
+                     <p>les yeux très écarquillés*,</p>
+                     <figure>
+                        <caption>Hôtel de ville de Saint-Quentin.</caption>
+                     </figure>
+
+                     <pb type="page" n="53"/>
+                     <fw type="header">LA CHARTE DU COMTE HERBERT. 53</fw>
+                     <p>pour être habillés comme ça, c'est au moins des gens de l'Amérique !</p>
+                  </sp>
+                  <p>Elle dit l'Amérique comme elle eût dit la lune.</p>
+                  <p>M. Florentin Lejoly ricana de nouveau, Les pouces dans les entournures de son
+                     gilet, le chapeau en arrière, il semblait narguer* les personnages de la
+                     peinture et leurs costumes qui n'étaient pas à la dernière mode comme le
+                     sien.</p>
+                  <p>Mais nos jeunes écoliers venaient d'apprendre d'un visiteur le sujet du
+                     tableau: « Le comte Herbert IV de Vermandois* donnant la charte de commune aux
+                     Saint-Quentinois du onzième siècle. »</p>
+                  <p>Jacques, Suzette, même François évoquaient là devant leurs souvenirs*
+                     historiques de l'école.</p>
+                  <p>Ce monde d'artisans, de manants * en pauvres souquenilles* et mal chaussés, ne
+                     leur était ni si étrange, ni si étranger : c'étaient là les chaînons passés de
+                     la grande famille française dont ils étaient, eux, les chaînons vivants. Et ces
+                     pères avaient travaillé à l'œuvre de l'émancipation*, de l'amélioration de
+                     l'existence humaine, noble tâche continuée par leurs fils des derniers siècles
+                     et du siècle présent.</p>
+                  <p>Vis-à-vis, dominant les maisons de la place, la grosse tour carrée, le beffroi,
+                     qui rappelait le vieux beffroi*, détruit aujourd'hui, le signe et le gage de
+                     l'indépendance des communes*. Là sonnait la « bancloque », la cloche banale*
+                     qui, pour le conseil ou pour le péril, convoquait les gardiens des droits de la
+                     cité*.</p>
+                  <p>Voilà aussi, à gauche, la vieille basilique gothique</p>
+                  <figure>
+                     <caption>Ogive et rosace (architecture du XIIe au XVe siècle). — Chambraute
+                        d'une cheminée style Renaissance (XVe et XVIe siècle).</caption>
+                  </figure>
+
+                  <pb type="page" n="54"/>
+                  <fw type="header">54 SUZETTE.</fw>
+                  <p>fondée par la sœur du comte Herbert IV, Adèle de Vermandois. L'église, le
+                     beffroi, l'hôtel de ville, c'étaient les monuments dont s'enorgueillissait le
+                     moyen âge. </p>
+                  <p>La pluie avait cessé, le soleil était de retour : on sortit.</p>
+                  <figure>
+                     <caption>Beffroi de Douai.</caption>
+                  </figure>
+               </div3>
+               <div3 type="questionnaire">
+                  <head>Questionnaire.</head>
+                  <list>
+                     <item>— Quelle cause obligea les voyageurs de Fragicourt à entrer à l'hôtel de
+                        ville de Saint-Quentin?</item>
+                     <item>— Qu'avaient-ils eu à peine le temps de considérer dans ce moment, avant
+                        la chute de la pluie?</item>
+                     <item>— Que remarquèrent-ils dans la salle du conseil?</item>
+                     <item>— Que représentait une grande peinture décorative ?</item>
+                     <item>— Quelle remarque lit Ludivine et quelle altitude prit M. Lejoly?</item>
+                     <item>— Qu'est-<cb/>ce qu’un visiteur avait appris aux enfants touchant le
+                        sujet du tableau?</item>
+                     <item>— Qu'ont fait nos pères et qu'avaient fait les personnages populaires
+                        figurant sur la toile? </item>
+                     <item>— Que remarque-t-on à Saint-Quentin vis-à-vis de l'hôtel de ville?</item>
+                     <item>— Qu'est-ce qu'on sonnait au beffroi?</item>
+                     <item>— Quel édifice s'élève à gauche de l'hôtel de ville?</item>
+                  </list>
+               </div3>
+            </div2>
+
+            <pb type="page" n="55"/>
+            <fw type="header">LA CHARTE DU COMTE HERBERT. 55</fw>
+            <div2 type="teacher_edition" xml:id="ch015te">
+               <head type="exercice">DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES.</head>
+               <div3 type="sujets" ana="instruction civique">
+                  <head>Instruction civique.</head>
+                  <list>
+                     <item> — Quelle assemblée se réunit à l'hôtel de ville ou à la mairie pour
+                        s'occuper des affaires ou des intérêts de la commune? </item>
+                     <item>— Quelles fonctions remplit le maire ?</item>
+                     <item>— Quelles fonctions remplissent les adjoints?</item>
+                     <item>— Combien de conseillers municipaux dans votre commune?</item>
+                     <item>— Qui les nomme?</item>
+                  </list>
+                  <p>L'assemblée qui se réunit à l'hôtel de ville ou à la mairie est <rs>le conseil
+                        municipal</rs>, auquel appartient la direction des affaires communales :
+                     acquisition d'immeubles, baux de maisons à l'usage de la commune ou sa
+                     propriété, projets de travaux, plans et devis de bâtiments, tarif des droits de
+                     place et des concessions du cimetière, vote des contributions extraordinaires
+                     n'excédant pas cinq centimes par franc pendant cinq ans, vote des emprunts,
+                     octrois, examen des comptes d'administration présentés par le maire et le
+                     receveur municipal.</p>
+                  <p>Les conseillers municipaux sont élus par le suffrage universel et sont nommés
+                     pour trois ans.</p>
+                  <p><rs>Le maire</rs>, qui est choisi par le conseil municipal dont il fait
+                     nécessairement partie, reçoit les actes de naissance, de mariage et de décès.
+                     Il assiste le procureur de la République et le juge d'instruction dans la
+                     recherche des crimes, délits et contraventions. Il est chargé de la publication
+                     des lois et des règlements, ainsi que de l'exécution des mesures de sûreté
+                     générale C'est à lui que revient la confection des listes électorales ; enfin,
+                     il est le fidèle exécuteur des délibérations du conseil municipal.</p>
+                  <p><rs>Les adjoints</rs> secondent ou remplacent le maire empêché.</p>
+               </div3>
+               <div3 type="sujets" ana="industrie">
+                  <head>Industrie.</head>
+                  <list>
+                     <item>— LE VERRE.</item>
+                     <item>—Avec quelles matières se fait le verre?</item>
+                     <item>— Comment raconte-t-on qu'il fut découvert?</item>
+                     <item>— Quelles sont les propriétés du verre?</item>
+                     <item>— Quels sont ses usages?</item>
+                     <item>— Qu'appelle-t-on vitraux?</item>
+                     <item>— Où sont les plus anciens?</item>
+                     <item>— Que représentent-ils?</item>
+                     <item>— Comment fait-on les glaces;</item>
+                     <item>— une bouteille?</item>
+                  </list>
+                  <p><rs>Le verre</rs> est un corps transparent et fragile produit par la fusion
+                     d'un mélange de sable blanc et très fin avec de la potasse ou de la soude.</p>
+                  <p>Dans le verre à bouteilles qui est verdâtre, il entre du fer; dans le cristal,
+                     de l'oxyde de plomb (1). Le verre blanc des vitres se fait avec 60 parties de
+                     sable, 30 de potasse, 15 de nitre, 2 à 2 1/2 de borax ou d'arsenic.</p>
+                  <p>On croit que le verre a été découvert par les Égyptiens. Les Phéniciens l'ont
+                     aussi connu très anciennement, et l'on raconte qu'ils l'obtinrent, pour la
+                     première fois, en faisant sur le sable un feu violent dans un foyer entouré do
+                     blocs de sel de nitre, substance que l'on trouve naturellement sur le bord de
+                     la mer, on Égypte. </p>
+                  <p>Le verre a pour <rs>propriétés</rs> principales sa transparence et sa dureté;
+                     il raye presque tous los corps, et l'on peut dire qu'il est inaltérable à l'air
+                     dans les circonstances ordinaires.l serte à clore les fenêtres, les châssis,
+                     les serres, et l'on en confectionne encore ces belles glaces qui ornent nos
+                     appartements, ainsi que nombre de vases : bouteilles, fioles, coupes, verres,
+                     cloches, enfin des tuyaux et des lentilles pour lunettes, etc. On l'applique
+                     devant les gravures pour les préserver des effets du contact de l'air.</p>
+                  <p>(1) <rs>Oxyde de plomb</rs>, corps gris noirâtre qui se forme à la surface du
+                     plomb exposé à l'air. Tous les oxydes de plomb sont de violents poisons.</p>
+
+
+                  <pb type="page" n="56"/>
+                  <fw type="header">56 SUZETTE.</fw>
+                  <p><rs>Les vitraux</rs> sont des clôtures de fenêtres formées de petits morceaux
+                     de verre de différentes couleurs qui représentent soit des personnages, soit
+                     des animaux, des plantes, ou qui offrent des combinaisons de lignes. Ils font
+                     le plus bel ornement des édifices religieux, et l'on commence à les adopter
+                     dans les appartements. Les plus anciens vitraux sont ceux de la cathédrale de
+                     Saint-Denis, qui remontent à 1140; les rosaces de Notre-Dame de Paris datent du
+                     troisième siècle, ainsi que les admirables vitraux de la Sainte-Chapelle.</p>
+                  <p>Pour <rs>fabriquer le verre</rs>, on réduit les matières premières en poudre et
+                     on les soumet à un feu violent dans des creusets rangés à l'intérieur de grands
+                     fours. Bientôt le mélange fond et se transforme en une substance pâteuse qui,
+                     étendue sur de grandes tables de métal, donne les vitres ou les glaces.</p>
+                  <p><rs>Le poli</rs> des glaces s'obtient en les appliquant deux à deux l'une sur
+                     l'autre, et on imprimant un mouvement de va-et-vient à celle qui occupe la
+                     position supérieure; puis on applique sur l'autre face un amalgame de mercure
+                     et d'étain qu'on nomme le <rs>tain</rs>.</p>
+                  <p>Quant aux <rs>bouteilles</rs>, l'ouvrier cueille la pâte dans le creuset au
+                     moyen d'un long tube creux, et l'égalise en le tournant sur une plaque de
+                     métal, Un second ouvrier lui donne une forme allongée par un mouvement
+                     circulaire rapide; enfin un troisième souffle dans le tuyau. Sa matière se
+                     gonfle et, introduite dans un moule, y prend la forme et les dimensions
+                     requises. Le creux du fond s'obtient avec une palette qu'on applique sur la
+                     base de la bouteille.</p>
+                  <p>Il est à remarquer que ces opérations n'exigent pas plus d'une minute</p>
+               </div3>
+               <div3 type="sujets" ana="histoire">
+                  <head>Histoire.</head>
+                  <list>
+                     <item>—Qu'exigeaient continuellement les seigneurs des habitants des
+                        villes?</item>
+                     <item> — Quels pouvoirs avaient-ils sur ces derniers?</item>
+                     <item>— Dites comment ils en abusaient,</item>
+                     <item>— Que firent les habitants des villes pour être administrés selon la
+                        liberté et la justice?</item>
+                  </list>
+                  <p>Les vassaux étaient frappés d'une multitude d'impôts: dimes ou dixièmes des
+                     récoltes, taille (impôt foncier) seigneuriale fournie en argent, corvées ou
+                     travaux gratuits et obligatoires, dans les champs et sur les chemins, droits
+                     sur la mouture du blé, sur la cuisson du pain, la fabrication du vin. Aux
+                     seigneurs appartenaient les terres, les eaux, les pacages, la forêt, l'air
+                     même; ils étaient seigneurs absolus dans leurs domaines.</p>
+                  <p>Le seigneur rendait la justice, conduisait les vassaux à la guerre, levait les
+                     impôts à sa guise et selon ses besoins; il héritait des biens des serfs.</p>
+                  <p>Pour se soustraire à ces maux, les habitants des villes se soulevèrent au
+                     onzième et au douzième siècle; après des luttes acharnées et moyennant finance,
+                     ils obtinrent de s'administrer eux-mêmes, à la seule condition de payer au
+                     seigneur un tribut annuel.</p>
+               </div3>
+            </div2>
+         </div1>
+
+      </body>
+   </text>
+</TEI>
