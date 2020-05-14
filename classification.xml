@@ -1155,95 +1155,371 @@ LES LEÇONS DE MORALE ET LES LEÇONS DE CHOSES-->
                
                <taxonomy xml:id="géographie">
                   <desc>Géographie</desc>
-                  <category> </category>
-               </taxonomy>
-               
-               <!--GEOGRAPHIE.
-               La nier..., 89
-               Chalour centrale et volcans 137
-               Carte de l'océan Atlantique...... ( ' 130
-               Découverte de l'Amérique,,..,,,, 30 •
-               Europe.
-               L'Escaut ot la route d'Europe en
-               Amérique., 50
-               Ce que sont la Grèce, l'Assyrie et
-               l'Egypte 80
-               Angleterre, sa marine, ses colonies. '99,
-               Londres 99
-               Asie.
-               Lu Chine 31
-               Arabie, Perse, Hindoiistan 58
-               Le Jupon et nouveaux détails sur
-               lu Chiuo , SI
-               Afrique.
-               Aperçu de l'Afriquo. o"-**.
-               Curto de l'Afrique 55
-               Côte et lie do Zanzibar 57
-               
-               Lo Cubon et ses cotes > »9
-               Lu cote africaine, «tu Sénégal au
-               Gabon <}t
-               Le (irunil Désort et les ousls 02
-               Carto de l'Algérie m>
-               Explorateurs do l'Afrique "7
-               Amérique.
-               Los États-Unis 81,85
-               Ocôanie.
-               Océiui|o, Australie «3
-               France.
-               Los départements frontières, fortcrosses
-               fortcrosses
-               Lo midi do la Franco ,.,.. 80
-               Produits du Midi 101
-               Nos villos fortes , 117
-               Le nord do la France, 122
-               Régions où l'on élève dos chevuux. 123
-               Canaux et écluses 115
-               Cours do lu Loiro 132
-               Eaux thermales ot oaux miné.
-               miné. 20, 137
-               Franche-Comté ot Bourgogne 80
-               î.o département de la Soiuo 81
-               Provinces et départements divers, 18
-               Lyon, 08
-               Voyage do Lvou è Paris 08
-               Voyugo do Sulut-Qucntin è Paris,,, 75
-               Les colonios françaises 118
-               Carto do l'Alsace-Lorraine, 72
-               Carto do lu France méridionale,-., 101 Carto d'un voyugo do Saint-Quentin
-               , -ft Alger '. 38
-               Lo soleil, la lune 4
-               Les étoiles , 143
-               Horizon, forme do la terre 70
-               Los saisons, 75
-               . Divisions du temps 35
-               'Los marées., 142-->
-               
-               
+                  <category>
+                     <catDesc>La mer
+                        <ref target="#ch080"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Chalour centrale et volcans
+                        <ref target="#ch137"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Carte de l'océan Atlantique
+                        <ref target="#ch136"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Découverte de l'Amérique
+                        <ref target="#ch030"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Europe</catDesc>
+                     <category>
+                        <catDesc>L'Escaut ot la route d'Europe en Amérique
+                           <ref target="#ch056"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Ce que sont la Grèce, l'Assyrie et l'Egypte
+                           <ref target="#ch080"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Angleterre, sa marine, ses colonies
+                           <ref target="#ch099"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Londres
+                           <ref target="#ch099"/>
+                        </catDesc>
+                     </category>
+                  </category>
+                  <category>
+                     <catDesc>Asie</catDesc>
+                     <category>
+                        <catDesc>La Chine
+                           <ref target="#ch031"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Arabie, Perse, Hindoiistan
+                           <ref target="#ch058"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Le Japon et nouveaux détails sur la Chine
+                           <ref target="#ch081"/>
+                        </catDesc>
+                     </category>
+                  </category>
+                  <category>
+                     <catDesc>Afrique</catDesc>
+                     <category>
+                        <catDesc>Aperçu de l'Afrique
+                           <ref target="#ch055"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Carte de l'Afrique
+                           <ref target="#ch055"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Côte et ile do Zanzibar
+                           <ref target="#ch057"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Le Gabon et ses côtes
+                           <ref target="#ch059"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>La côte africaine, du Sénégal au Gabon
+                           <ref target="#ch061"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Le Grand Désert et les oasis
+                           <ref target="#ch062"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Carte de l'Algérie
+                           <ref target="#ch066"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Explorateurs de l'Afrique
+                           <ref target="#ch067"/>
+                        </catDesc>
+                     </category>
+                  </category>
+                  <category>
+                     <catDesc>Amérique</catDesc>
+                     <category>
+                        <catDesc>Les États-Unis
+                        <ref target="#ch081"/>
+                        <ref target="#ch085"/>
+                        </catDesc>
+                     </category>
+                  </category>
+                  <category>
+                     <catDesc>Océanie</catDesc>
+                     <category>
+                        <catDesc>Océanie, Australie
+                           <ref target="#ch083"/>
+                        </catDesc>
+                     </category>
+                  </category>
+                  <category>
+                     <catDesc>France</catDesc>
+                     <category>
+                        <catDesc>Les départements frontières, forteresses
+                           <ref target="#ch072"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Le midi de la France
+                           <ref target="#ch086"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Produits du Midi
+                           <ref target="#ch101"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Nos villes fortes
+                           <ref target="#ch117"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Le nord de la France
+                           <ref target="#ch122"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Régions où l'on élève des chevuux
+                           <ref target="#ch123"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Canaux et écluses
+                           <ref target="#ch115"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Cours de la Loire
+                           <ref target="#ch132"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Eaux thermales et oaux minérales
+                           <ref target="#ch026"/>
+                           <ref target="#ch137"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Franche-Comté et Bourgogne
+                           <ref target="#ch086"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Le département de la Seine
+                           <ref target="#ch081"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Provinces et départements divers
+                           <ref target="#chch018"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Lyon
+                           <ref target="#ch098"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Voyage de Lyon à Paris
+                           <ref target="#ch098"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Voyage de Saint-Quentin à Paris
+                           <ref target="#ch075"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Les colonies françaises
+                           <ref target="#ch118"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Carte de l'Alsace-Lorraine
+                           <ref target="#ch072"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Carte de la France méridionale
+                           <ref target="#ch101"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Carte d'un voyage dd Saint-Quentin à Alger
+                           <ref target="#ch038"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Le soleil, la lune
+                           <ref target="#ch004"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Les étoiles
+                           <ref target="#ch143"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Horizon, forme de la terre
+                           <ref target="#ch070"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Les saisons
+                           <ref target="#ch075"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Divisions du temps
+                           <ref target="#ch035"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Les marées
+                           <ref target="#ch142"/>
+                        </catDesc>
+                     </category>
+                  </category>
+               </taxonomy>         
                <taxonomy xml:id="sciences_naturelles">
                   <desc>Sciences Naturelles</desc>
-                  <category> </category>
+                  <category> 
+                     <catDesc>Minéraux, etc.</catDesc>
+                     <category>
+                        <catDesc>Les divers sols (argile, subie, etc.)
+                           <ref target="#ch134"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>Pierres, chaux, plàtre
+                           <ref target="#ch049"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>
+                           <ref target="#ch"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>
+                           <ref target="#ch"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>
+                           <ref target="#ch"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>
+                           <ref target="#ch"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>
+                           <ref target="#ch"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>
+                           <ref target="#ch"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>
+                           <ref target="#ch"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>
+                           <ref target="#ch"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>
+                           <ref target="#ch"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>
+                           <ref target="#ch"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>
+                           <ref target="#ch"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>
+                           <ref target="#ch"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>
+                           <ref target="#ch"/>
+                        </catDesc>
+                     </category>
+                     <category>
+                        <catDesc>
+                           <ref target="#ch"/>
+                        </catDesc>
+                     </category>
+                  </category>
+                  
+                  . 13i
+                   40
+                  . Piorres préciouses , 100
+                  Houillo ' 113
+                  Pétrolo.. 2
+                  Carbone. 21
+                  - Eau, su composition 20
+                  Puits, eau potablo, 49
+                  Granit. 04
+                  Silex..,. 82
+                  .Soi ot luarais salants,., 02
+                  Le Corail 87
+                  Le fer..., 83
+                  Lo cuivre, lo bronze 82
+                  Le plomb , 32
+                  L'urgent, l'or 32
+                  <category>
+                     <catDesc>Végétaux</catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Animaux</catDesc>
+                  </category>
                </taxonomy>
                
-               <!--SCIENCES NATURELLES,
-               Minéraux, etc.
-               Les divers sols (argile, subie, etc.). 13i
-               Pierres, chaux, piètre 40
-               . Piorres préciouses , 100
-               Houillo ' 113
-               Pétrolo.. 2
-               Carbone. 21
-               - Eau, su composition 20
-               Puits, eau potablo, 49
-               Granit. 04
-               Silex..,. 82
-               .Soi ot luarais salants,., 02
-               Le Corail 87
-               Le fer..., 83
-               Lo cuivre, lo bronze 82
-               Le plomb , 32
-               L'urgent, l'or 32
-               Végôtaxix.
+
+
+
+
                1° .MIIIHKS NOS CULTIVÉS.
                Une forêt, un bois 7
                Kuulo, orme ,.., 35
@@ -1338,26 +1614,72 @@ LES LEÇONS DE MORALE ET LES LEÇONS DE CHOSES-->
                   Les sauterelles ,.,, , 05
                   Les poissons et los harengs, 89-->
                   
-                               
-               
+                                             
                <taxonomy xml:id="sciences_physiques">
                   <desc>Notions Relatives aux Sciences Physiques</desc>
-                  <category> </category>
-               </taxonomy>
-               
-              <!-- NOTIONS RELATIVES AUX SCIENCES PHYSIQUES,
-               Objet do lu physlquo ot do lu chimie, , 21
-               L'oir 109
-               Composition do l'air otite l'eau., 21, 20
-               Pression do l'air, baromètre.,,- 34, 139
-               Lo vent.,,. ,. 31
-               Ouragan, trombe 115
-               Nuages, grélo, neige, pluie 139
-               Vapeur, roséo, givre 70
-               La chaleur et lu dilatation 63
-               Le thermomôtro , 108
-               La vapour d'ouu et sos usagos..;, 8} L'électricité ,,,,., ' 73 .-->
-               
+                  <category>
+                     <catDesc>Objet de la physique et de la chimie
+                        <ref target="#ch021"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>L'air
+                        <ref target="#ch109"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Composition de l'air et de l'eau
+                        <ref target="#ch021"/>
+                        <ref target="#ch026"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Pression de l'air, baromètre
+                        <ref target="#ch034"/>
+                        <ref target="#ch130"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Le vent
+                        <ref target="#ch034"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Ouragan, trombe
+                        <ref target="#ch115"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Nuages, gréle, neige, pluie
+                        <ref target="#ch139"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Vapeur, rosée, givre
+                        <ref target="#ch070"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>La chaleur et la dilatation
+                        <ref target="#ch063"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>Le thermomètre
+                        <ref target="#ch"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>La vapour d'eau et ses usages
+                        <ref target="#ch084"/>
+                     </catDesc>
+                  </category>
+                  <category>
+                     <catDesc>L'électricité
+                        <ref target="#ch073"/>
+                     </catDesc>
+                  </category>
+               </taxonomy>               
                <taxonomy xml:id="industrie">
                   <desc>Industrie</desc>
                   <category> </category>
