@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="out/suzette_custom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Suzette: a Digital Edition</title>
+            <respStmt>
+               <persName>John Westbrook</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sarah Haber</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and Encoder, 2020 - Present</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="JAKA1">Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Annie Girton</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and Encoder, 2018-2020</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>Bucknell University</distributor>
+            <pubPlace>
+               <address>
+                  <addrLine>One Dent Drive</addrLine>
+                  <addrLine>Lewisburg, PA 17837</addrLine>
+               </address>
+            </pubPlace>
+            <availability>
+               <licence>Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles.
+                     Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine –
+                     Couture</title>
+                  <author>Robert Halt</author>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <date>1889</date>
+                     <distributor>Libraire Classique Paul Delaplane</distributor>
+                     <pubPlace>Paris, France</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+            <list>
+               <item xml:id="ch001" n="1">1. A l'abandon</item>
+               <item xml:id="ch002" n="5">2. Le grillon du foyer</item>
+               <item xml:id="ch003" n="8">3. Oú est la maman?</item>
+               <item xml:id="ch004" n="11">4. La femme de la caverne</item>
+               <item xml:id="ch005" n="15">5. Le bon chemin</item>
+               <item xml:id="ch006" n="19">6. Monsieur François est un homme!</item>
+               <item xml:id="ch007" n="22">7. Le petit hèroïsme</item>
+               <item xml:id="ch008" n="26">8. Tenons bon!</item>
+               <item xml:id="ch009" n="29">9. La clef du trésor</item>
+               <item xml:id="ch010" n="33">10. Grosse affaire</item>
+               <item xml:id="ch011" n="37">11. La petite hirondelle</item>
+               <item xml:id="ch012" n="41">12. On se débarhouille</item>
+               <item xml:id="ch013" n="44">13. Une bonne idée</item>
+               <item xml:id="ch014" n="47">14. Brunehaut</item>
+               <item xml:id="ch015" n="51">15. - La charte du comte Herbert</item>
+               <item xml:id="ch016" n="56">16. - Hésitations</item>
+               <item xml:id="ch017" n="61">17. - Tout laine</item>
+               <item xml:id="ch018" n="64">18. - Laine et coton</item>
+               <item xml:id="ch019" n="69">19. - Où ira Jacques?</item>
+               <item xml:id="ch020" n="72">20. - La veille du départ</item>
+               <item xml:id="ch021" n="75">21. - Une lettre de Jacques</item>
+               <item xml:id="ch022" n="78">22. - Un éteignoir à chandelle</item>
+               <item xml:id="ch023" n="81">23. - Le secret de Ludivine</item>
+               <item xml:id="ch024" n="85">24. - La bohémienne</item>
+               <item xml:id="ch025" n="90">25. - Un peu de lumière</item>
+               <item xml:id="ch026" n="93">26. - De l'eau!</item>
+               <item xml:id="ch027" n="96">27. - L'aveu</item>
+               <item xml:id="ch028" n="99">28. - Sous les arbres</item>
+               <item xml:id="ch029" n="102">29. - Grands projets</item>
+               <item xml:id="ch030" n="106">30. - Vive le blé de France!</item>
+               <item xml:id="ch031" n="110">31. - Le prince Kang-Hi</item>
+               <item xml:id="ch032" n="113">32. - Sélection</item>
+               <item xml:id="ch033" n="116">33. - Au feu!</item>
+               <item xml:id="ch034" n="120">34. - Enfant perdu</item>
+               <item xml:id="ch035" n="123">35. - Le chien Castor</item>
+               <item xml:id="ch036" n="125">36. - Pauvre petit!</item>
+               <item xml:id="ch037" n="129">37. - Fraternité</item>
+               <item xml:id="ch038" n="132">38. - Le nid familial</item>
+               <item xml:id="ch039" n="135">39. - La pièce de cent sous</item>
+               <item xml:id="ch040" n="138">40. - A l'oeuvre</item>
+               <item xml:id="ch041" n="142">41. - Veillons au grain</item>
+               <item xml:id="ch042" n="146">42. - Luttons!</item>
+               <item xml:id="ch043" n="150">43. - Cours, mon aiguille!</item>
+               <item xml:id="ch044" n="153">44. - Le vieil habit vert</item>
+               <item xml:id="ch045" n="157">45. - Veste, gilet, calotte</item>
+               <item xml:id="ch046" n="160">46. - Hier et aujourd'hui</item>
+               <item xml:id="ch047" n="163">47. - Récolte</item>
+               <item xml:id="ch048" n="168">48. - Au marché</item>
+               <item xml:id="ch049" n="171">49. - Il faut s'ingénier</item>
+               <item xml:id="ch050" n="174">50. - Faisons nos comptes</item>
+               <item xml:id="ch051" n="177">51. - Au gui l'an neuf!</item>
+               <item xml:id="ch052" n="181">52. - A table</item>
+               <item xml:id="ch053" n="185">53. - Au dessert</item>
+               <item xml:id="ch054" n="187">54. - Petits cochons de lait</item>
+               <item xml:id="ch055" n="191">55. - Les explorateurs</item>
+               <item xml:id="ch056" n="195">56. - Qui sont-ils?</item>
+               <item xml:id="ch057" n="199">57. - La tempête</item>
+               <item xml:id="ch058" n="201">58. - Un marché d'esclaves</item>
+               <item xml:id="ch059" n="206">59. - M. Pascal parle arabe</item>
+               <item xml:id="ch060" n="208">60. - A travers les jungles</item>
+               <item xml:id="ch061" n="212">61. - Un baobab</item>
+               <item xml:id="ch062" n="215">62. - Le pays de la peur</item>
+               <item xml:id="ch063" n="219">63. - Le simocaractères non reproduitsn</item>
+               <item xml:id="ch064" n="222">64. - Sous la tente</item>
+               <item xml:id="ch065" n="226">65. - Vivent les explorateurs!</item>
+               <item xml:id="ch066" n="231">66. - La montre d'argent</item>
+               <item xml:id="ch067" n="233">67. - L'interrogatoire</item>
+               <item xml:id="ch068" n="236">68. - Toute la vérité</item>
+               <item xml:id="ch069" n="239">69. - Le neveu</item>
+               <item xml:id="ch070" n="242">70. - Heureux foyer</item>
+               <item xml:id="ch071" n="245">71. - Il y a de bonnes gens</item>
+               <item xml:id="ch072" n="248">72. - Souvenirs d'histoire</item>
+               <item xml:id="ch073" n="251">73. - La dépêche</item>
+               <item xml:id="ch074" n="255">74. - Réconciliation</item>
+               <item xml:id="ch075" n="258">75. - Le beau temps</item>
+               <item xml:id="ch076" n="261">76. - Les adieux</item>
+               <item xml:id="ch077" n="265">77. - La salle d'attente</item>
+               <item xml:id="ch078" n="269">78. - A Paris</item>
+               <item xml:id="ch079" n="272">79. - Sur la Seine</item>
+               <item xml:id="ch080" n="276">80. - Monuments</item>
+               <item xml:id="ch081" n="279">81. - L'Exposition</item>
+               <item xml:id="ch082" n="283">82. - Pierre, bronze, fer</item>
+               <item xml:id="ch083" n="286">83. - Triomphe du travail</item>
+               <item xml:id="ch084" n="290">84. - Denis Papin</item>
+               <item xml:id="ch085" n="292">85. - Fulton</item>
+               <item xml:id="ch086" n="295">86. - Peinture</item>
+               <item xml:id="ch087" n="302">87. - Les fraises du bois joli</item>
+               <item xml:id="ch088" n="304">88. - En volei!</item>
+               <item xml:id="ch089" n="307">89. - Le pays de Gargantua</item>
+               <item xml:id="ch090" n="312">90. - Fleurs et verdures</item>
+               <item xml:id="ch091" n="315">91. - Asperges d'Argenteuil</item>
+               <item xml:id="ch092" n="318">92. - Trop cer</item>
+               <item xml:id="ch093" n="322">93. - Costumes</item>
+               <item xml:id="ch094" n="325">94. - Coiffures</item>
+               <item xml:id="ch095" n="328">95. - La reine Isabeau</item>
+               <item xml:id="ch096" n="332">96. - Robe neuve</item>
+               <item xml:id="ch097" n="335">97. - Machine à coudre</item>
+               <item xml:id="ch098" n="339">98. - Barthélemy Thimonier</item>
+               <item xml:id="ch099" n="344">99. - Marionnettes</item>
+               <item xml:id="ch100" n="348">100. - Explications</item>
+               <item xml:id="ch101" n="350">101. - Une nouvelle connaissance</item>
+               <item xml:id="ch102" n="355">102. - Un Américain</item>
+               <item xml:id="ch103" n="358">103. - Un grand magasin</item>
+               <item xml:id="ch104" n="363">104. - L'école professionnelle</item>
+               <item xml:id="ch105" n="367">105. - Jeunes travailleuses</item>
+               <item xml:id="ch106" n="372">106. - Au Jardin d'acclimatation</item>
+               <item xml:id="ch107" n="375">107. - La basse-cour</item>
+               <item xml:id="ch108" n="378">108. - Heureuses gens</item>
+               <item xml:id="ch109" n="382">109. - La vacherie</item>
+               <item xml:id="ch110" n="387">110. - Le rucher</item>
+               <item xml:id="ch111" n="391">111. - Notre amie l'abeille</item>
+               <item xml:id="ch112" n="393">112. - Un stimulant</item>
+               <item xml:id="ch113" n="396">113. - Le retour</item>
+               <item xml:id="ch114" n="400">114. - Un cadeau</item>
+               <item xml:id="ch115" n="404">115. - Apiculture</item>
+               <item xml:id="ch116" n="408">116. - Joli succès</item>
+               <item xml:id="ch117" n="410">117. - La conscription</item>
+               <item xml:id="ch118" n="413">118. - Les bras longs</item>
+               <item xml:id="ch119" n="417">119. - Chez le député</item>
+               <item xml:id="ch120" n="420">120. - La France!</item>
+               <item xml:id="ch121" n="424">121. - Nous entrerons dans la carrière</item>
+               <item xml:id="ch122" n="428">122. - Après le départ</item>
+               <item xml:id="ch123" n="430">123. - Un début</item>
+               <item xml:id="ch124" n="434">124. - Pauvre remplaçant</item>
+               <item xml:id="ch125" n="437">125. - L'étoffe d'un honnête homme</item>
+               <item xml:id="ch126" n="441">126. - Un mariage</item>
+               <item xml:id="ch127" n="445">127. - Vingt sous!</item>
+               <item xml:id="ch128" n="449">128. - Les Trois Agaces</item>
+               <item xml:id="ch129" n="452">129. - Le Galibis</item>
+               <item xml:id="ch130" n="456">130. - Terrible scène</item>
+               <item xml:id="ch131" n="459">131. - Conscience et volonté</item>
+               <item xml:id="ch132" n="463">132. - Une arrivée</item>
+               <item xml:id="ch133" n="467">133. - Un départ</item>
+               <item xml:id="ch134" n="469">134. - Plaisirs des champs</item>
+               <item xml:id="ch135" n="473">135. - Affaires de cuisine et de famille</item>
+               <item xml:id="ch136" n="478">136. - Extraits des lettres de Jacques</item>
+               <item xml:id="ch137" n="483">137. - Extraits des lettres de Jacques (suite)</item>
+               <item xml:id="ch138" n="488">138. - Mauvais temps</item>
+               <item xml:id="ch139" n="492">139. - Il se faut entr'aider</item>
+               <item xml:id="ch140" n="496">140. - En taillant une layette</item>
+               <item xml:id="ch141" n="502">141. - Quatre lavandières</item>
+               <item xml:id="ch142" n="508">142. - Un sauvetage</item>
+               <item xml:id="ch143" n="512">143. - Salut à la fermière!</item>
+               <item xml:id="ch144" n="">144. - Trois ans après</item>                             
+            </list>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fra">French</language>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div1 type="chapter" corresp="#ch022" xml:lang="fr" n="22">
+            <head type="chapter" corresp="eleve_54">22. — Un éteignoir à chandelle. (Élève, p. 54.)</head>
+            <pb type="page" n="78"/>
+            <div2 type="student_edition">
+               <div3 type="narratif">
+                  <sp>
+                     <speaker>Père</speaker>
+                     <p>— Voilà une bonne lettre ! <stage>dit le père,</stage> celle d'un garçon qui a déjà du cœur au métier. </p>
+                  </sp>
+                  <sp>
+                     <speaker>?</speaker>
+                     <p>— Et regardant M. François: </p>
+                  </sp>
+                  <sp>
+                     <speaker>?</speaker>
+                     <p>— Jacques est un brave enfant ; Suzette, une brave fille ; Charlot... euh ! euh !... mais François est un polisson !</p>
+                  </sp>
+                  <figure type="sujets">
+                     <caption><title>Cerises.</title>
+                        Les cerises sont un excellent fruit, que l'on peut manger aussi en confiture ou à l'eau-de-vie.</caption>
+                  </figure>
+                  <figure type="sujets">
+                     <caption><title>Poires et pommes.</title>
+                        Les pommes et les poires cuites au four forment un dessert très agréable ; les pommes sont utilisées aussi en pâtisserie. Le cidre est une boisson faite avec du jus de pommes fermenté ; le poiré est un cidre fait avec des poires.</caption>
+                  </figure>
+                  <fw type="header">UN ÉTEIGNOIR A CHANDELLE.	79</fw>
+                  <pb type="page" n="79"/>
+                  <p>Une demi-heure auparavant, François avait détruit une chaise, — c'était la troisième ; l'horloge, le bac à charbon *<note>Caisse où l'on place le charbon.</note> avaient péri de sa main ; le jardin montrait un cerisier, deux poiriers et trois pommiers fort éclopés <note>Celui dont l'ètat n'est pas satisfaisant.</note> de son fait. Les serrures des portes et des armoires avaient été démontées plusieurs fois pour laisser voir ce qu'elles contenaient, comme il arrive aux poupées dont les petites filles curieuses crèvent la peau pour s'assurer de ce qu'il y a dedans.</p>
+                  <figure>
+                     <caption>
+                        <title>Une couveuse.</title>
+                     Ne dérangez jamais la poule qui couve.
+                     </caption>
+                  </figure>
+                  <p> La curiosité n'est cependant pas toujours mauvaise, et celle de François avait un côté assez intéressant. Il en tirait, quoique à grands frais *<note>Avec grande dépense.</note>, des idées parfois ingénieuses. <note>Idée qui inspire des amèlioations auxquelles on ne sougeait pas.</note></p>
+                     <p>Une nuit de jeudi, Suzette, affairée à ses couveuses, <note>Poule qui couve.</note> qui lui donnaient en ce moment pas mal de surcroît <note>Ce qui s'ajoute à quelque chose pour en augmenter le poids ou l'importance.</note> de besogne, n'avait pu regarder que d'un œil aux agissements du galopin. Sur le coup de onze heures, toute la famille étant au lit depuis longtemps, un grand fracas d'écroulement s'entendit soudain.</p>
+                     <sp>
+                        <speaker>Suzette</speaker>
+                        <stage>Suzette, M. Dumay, se levèrent, accoururent :</stage>                       
+                     <p>— Qu'est cela? Qui va là?</p>
+                     </sp>
+                     <stage>Profond silence. Castor, le chien de garde, n'aboyait que légèrement.</stage>
+                     <stage>M. Dumay ouvrit la seconde porte, celle de la chambre de MM. François et Charlot. Si Charlot s'était réveillé au bruit, il ronflait maintenant.</stage>
+                     <stage>Mais M. François s'épongeait le nez au-dessus de sa cuvette, et le nez saignait beaucoup.</stage>
+                  <sp>
+                     <speaker>M. François</speaker>
+                     <p>— Eh bien ! qu'est-ce que c'est ?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Charlot</speaker>
+                     <p>— La machine, papa, c'est la machine...</p>
+                  </sp>
+                  <sp>
+                  <speaker>M. François</speaker>
+                     <p>— Quelle machine, Monsieur?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Charlot</speaker>
+                     <p>— La machine à éteindre la chandelle, papa.</p>
+                  </sp>
+               </div3>
+            </div2>
+            <div2 type="teacher_edition">   
+               <div3 type="questionnaire">
+                  <head>Questionnaire.</head>
+                  <list>
+                     <item>— Quelles réflexions fit M. Dumay après avoir lu la lettre de son fils ?</item> 
+                     <item>— Pourquoi disait-il que François était un polisson ?</item> <cb/>
+                     <item>— Qu'indiquaient les polissonneries de cet enfant ?</item> 
+                     <item>— Qu'est-ce qu'on entendit, une nuit, vers onze heures ?</item> 
+                     <item>— Qu'aperçut M. Dumay en pénétrant dans la chambre de ses garçons ?</item> 
+                     <item>— Comment François expliqua-t-il l'accident ?</item>
+                  </list>
+               </div3>
+            </div2>
+               <pb type="page" n="80"/>
+            <div2 type="student_edition">
+               <head>DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES</head>
+               <div3 type="sujets" subtype="morale">
+                  <head type="sujets">Morale.</head>
+                  <list type="exercices"><!-- Need to understand what this exchange means -->
+                     <item>— Quand la curiosité est-elle louable ?</item> 
+                     <item>Exemples. — Quand est-elle blâmable ?</item> 
+                     <item>Exemples. — De quoi les enfants doivent-ils être curieux?</item>
+                  </list>
+               </div3>
+            </div2>
+            <div2 type="teacher_edition">
+               <div3 type="sujets" subtype="morale">
+                  <p><rs>La curiosité</rs>, autrement dit, le désir ou l'empressement de voir et d'apprendre des choses nouvelles et rares, est louable en soi lorsqu'elle s'applique à des sujets utiles. Mais si elle a pour but de découvrir le secret des affaires d'autrui, de connaître ce que les convenances ne nous permettent pas de pénétrer, elle constitue un des plus fâcheux défauts de la jeune fille et de la femme.</p>
+                  <p>Les curieux, les curieuses regardent par les fenêtres pour savoir ce qui se passe chez le voisin ; elles écoutent aux portes ; elles ouvrent les correspondances ; elles fouillent les poches et les tiroirs ; rien ne survient dans le quartier qu'elles ne laissent tout pour obtenir des détails, quitte à recueillir des rebuffades et des affronts.</p>
+                  <p>Ce dont les enfants des deux sexes doivent être curieux, c'est de rechercher ce en quoi ils peuvent être utiles ou agréables ; c'est de compléter le cercle de leurs connaissances par des lectures profitables ; c'est, pour les jeunes filles en particulier, de s'initier aux détails du ménage et aux procédés relatifs à la cuisine, à l'entretien des vêtements, afin d'être en mesure de mieux seconder leurs mères.</p>
+               </div3>
+            </div2>
+            <div2 type="student_edition">
+               <div3 type="sujets" subtype="agriculture">
+                  <head>Agriculture.</head>
+                   <list>
+                      <item>— Qu'appelle-t-on arbres fruitiers ?</item> 
+                      <item>— Où les plante-t-on ?</item> 
+                      <item>— Quels soins réclament-ils?</item> 
+                      <item>— Décrire un cerisier : tronc, feuilles, fleurs, fruits.</item> 
+                      <item>— Récolte des cerises ; leur vente ; qualités de ces fruits.</item> 
+                      <item>— Espèces de cerisiers. — Prix d'un kilogramme de fruits de chaque espèce.</item> 
+                      <item>— (Mêmes questions pour le poirier et le pommier).</item>
+                   </list>
+               </div3>
+            </div2>
+            <div2 type="teacher_edition">
+               <div3 type="sujets" subtype="agriculture">
+                  <p><rs>Les arbres fruitiers</rs> produisent des fruits propres à la nourriture de l'homme ; tels sont : les pommiers, les poiriers, les cerisiers, les pêchers, les abricotiers, les noyers, les figuiers, les orangers, les châtaigniers, les noisetiers.</p>
+                  <p>On les <rs>plante</rs> dans des enclos ou dans des champs désignés sous le nom de vergers. L'exposition du terrain doit être celle du levant ou du midi ; il faut à ces arbres un sol profond et meuble, légèrement en pente pour l'écoulement des eaux surabondantes.</p>
+                  <p>Les arbres fruitiers, comme toutes les plantes alimentaires, demandent des soins particuliers. Le sol sera pioché plusieurs fois l'an, débarrassé des mauvaises herbes et légèrement fumé. Au printemps, on taillera les arbres et on les débarrassera des rameaux mutiles au profit de ceux qui portent des boutons à fruits.</p>
+                  <p><rs>Le cerisier</rs> est un bel arbre des climats tempérés, à tige droite, recouvert, quand il est jeune, d'une écorce brune et luisante ; il porte des feuilles vert foncé allongées en pointe. Ses fleurs ressemblent à de petites roses blanches, et rien n'est charmant comme le spectacle qu'il présente aux premières belles journées du printemps. Les fruits apparaissent de bonne heure, sous la forme de petites boules vertes qui, peu à peu, se gonflent d'un suc frais et sucre, et qui prennent une belle couleur rouge. On cueille les cerises au mois de juin dans la plus grande partie de la France, et elles sont recherchées pour leur saveur délicieuse comme pour leurs propriétés rafraîchissantes.</p>
+                  <p>Les <rs>principales espèces de cerises</rs> sont : les cerises douces, dont les meilleures se cultivent à Montmorency et dans les environs d'Auxerre, les bigarreaux, les cerises jaunes, les cerises aigres et les merises, au suc presque noir.</p>
+               </div3>
+            </div2>
+               <pb type="page" n="81"/>
+               <fw type="header">LE SECRET DE LUDIVINE.	81</fw>
+               <div2 type="student_edition">
+                  <div3 type="sujets" subtype="économie_domestique">
+                  <head>Économie domestique.</head> 
+                  <list>
+                     <item ana="question">— Quels mets prépare-t-on avec les cerises, les poires, les pommes ?</item> 
+                     <item ana="answer">— Donner quelques détails sur cette préparation.</item> 
+                     <item>— Quelles liqueurs fabrique-t-on avec ces fruits ?</item> 
+                     <item>— Comment fait-on des conserves de cerises ?</item> 
+                     <item>— Comment convient-il d'agencer un fruitier ?</item> 
+                     <item>— Soins à donner aux fruits.</item>
+                  </list>
+                  </div3>
+               </div2>
+            <div2 type="teacher_edition">
+               <div3 type="sujets" subtype="économie_domestique">
+                  <p>Avec les <rs>cerises</rs>, on prépare des tartes et des confitures ; avec les <seg>pommes</seg>, des beignets, des charlottes, de la marmelade, des gelées ; on les mange encore cuites au four ou au beurre ; avec les <rs>poires</rs>, des mets analogues, et, lorsqu'on les fait cuire et réduire dans du vin doux, on obtient une sorte de confiture appelée <rs>cotignac</rs>.</p>
+                  <p>En distillant les cerises communes et les cerises sauvages, on fabrique une liqueur forte connue sous le nom de <rs>kirsch</rs>. Les pommes et les poires donnent la boisson connue sous le nom de <seg>cidre</seg>.</p>
+                  <p>CONSERVES DE CERISES. — On choisit des fruits nouvellement cueillis avant leur complète maturité, encore fermes au toucher et bien sains ; on coupe la moitié de la queue en laissant les noyaux, puis on en remplit des bouteilles d'une forme particulière. Les cerises sont arrangées avec ordre au moyen d'une petite spatule de bois, et on fait disparaître les vides en versant un sirop plus ou moins chargé de sucre, à 25°. On bouche hermétiquement et l'on donne quatre minutes d'ébullition au bain-marie.</p>
+                  <p>FRUITIER. — A la campagne, on conserve les fruits en les privant d'air, de chaleur et de lumière. Ils seront placés dans une chambre à l'abri de la gelée, dont la fenêtre devra être calfeutrée et fermée intérieurement de volets ; la porto elle-même ne sera jamais ouverte. On rangera les fruits sur des planches de manière à ne point se toucher ; durant les froids, on couvrira de paillassons le devant de ces planches ainsi que les portes et les fenêtres ; ajoutons qu'il est nécessaire d'enlever soigneusement les fruits gâtés.</p>
+                  <p>On <rs>conserve les raisins</rs> en les plaçant séparément dans des sacs de bon papier collé, qu'on lie de manière à les priver d'air, et qu'on accroche de telle sorte que le fruit ait la queue en bas.</p>
+               </div3>
+            </div2>
+               <div2 type="student_edition">
+                  <div3 type="sujets" subtype="civilité">
+                  <head>Civilité.</head> 
+                  <list>
+                     <item>— Comment faut-il manger à table les cerises, les pommes et les poires?</item>
+                  </list>
+                  </div3>
+               </div2>
+            <div2 type="teacher_edition">
+               <div3 type="sujets" subtype="civilité">
+                  <p>Les enfants prendront à table leurs cerises une à une, et ils déposeront discrètement les noyaux sur l'assiette, car il est dangereux et malsain de les avaler. Ils diviseront les pommes et les poires qu'ils pèleront à l'avance, et mangeront chaque tranche après en avoir enlevé les pépins au couteau.</p>
+               </div3>
+            </div2>
+               
+               <div2 type="student_edition">
+                  <div3 type="sujets" subtype="hygiène">
+                  <head>Hygiène.</head> 
+                  <list>
+                     <item>— A quel moment faut-il manger les fruits?</item> 
+                     <item>— Quelles suites fâcheuses résultent, pour la nourriture des enfants, de l'usage des fruits à demi mûrs ?</item>
+                  </list>
+                  </div3>
+               </div2>
+               <div2 type="teacher_edition">
+                  <div3 type="sujets" subtype="hygiène">
+                     <p>Lorsqu'on veut consommer des fruits, il faut attendre qu'ils soient bien mûrs et en user modérément. Alors, c'est un aliment de facile digestion, sain et rafraîchissant.</p>
+                  <p>La consommation des fruits encore verts nuit à la santé ; il en résulte des irritations de l'estomac et des intestins souvent durables et fâcheuses pour la santé générale. Les enfants devront, en conséquence, s'en abstenir, quelque plaisir qu'ils trouvent à les manger.</p>
+               </div3>              
+            </div2>
+         </div1>
+      </body>
+  </text>
+</TEI>

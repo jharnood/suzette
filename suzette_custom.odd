@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0"
+  xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Suzette ODD</title>
+        <author>Diane Jakacki</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>TEI Consortium</publisher>
+        <availability status="free">
+          <p>TEI material can be licensed differently depending on the use you intend to make of it.
+            Hence it is made available under both the CC+BY and BSD-2 licences. The CC+BY licence is
+            generally appropriate for usages which treat TEI content as data or documentation. The
+            BSD-2 licence is generally appropriate for usage of TEI content in a software
+            environment. For further information or clarification, please contact the TEI Consortium
+            (info@tei-c.org).</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Written from scratch.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>TEI Complete</head>
+      <p>This TEI customization describes a schema that includes <emph>all</emph> of the TEI (P5)
+        modules. This is a very useful starting place for manually creating your own customizations
+        — it is much easier to delete the modules you do not want than to add the modules you do.
+        Furthermore this customization often proves helpful for testing TEI software.</p>
+      <p>However, this particular TEI customization is <emph>not recommended</emph> for actual use
+        for encoding documents. It produces schemas and reference documentation that will be much
+        larger, and include many more elements, than almost anyone could conceivably ever need.
+        Tempting though it may be simply to have absolutely everything, and <q>just ignore</q>
+        elements not required, experience has shown that their presence makes the documentation
+        harder to read and use, and makes a schema that is far more lax than desired.</p>
+      <schemaSpec ident="suzette_custom" start="TEI teiCorpus" targetLang="en" docLang="en">
+        <moduleRef key="tei"/>
+        <!-- required -->
+        <moduleRef key="core"/>
+        <!-- required -->
+        <moduleRef key="analysis" except="c cl interp interpGrp m pc phr s w"/>
+        <moduleRef key="certainty" except="precision"/>
+        <moduleRef key="corpus"
+          except="activity channel constitution derivation factuality preparedness purpose setting settingDesc"/>
+        <moduleRef key="dictionaries"
+          except="case colloc dictScrap entry entryFree etym gram gramGrp hom hyph iType mood number oRef orth pRef per pos pron re sense stress subc superEntry syll tns usg"/>
+        <moduleRef key="drama" except="actor camera castGroup castItem castList move set sound view"/>
+        <moduleRef key="figures" except="formula notatedMusic"/>
+
+        <moduleRef key="header"
+          except="change handNote hyphenation normalization punctuation scriptNote seriesStmt"/>
+        <!-- required -->
+
+        <moduleRef key="linking"/>
+        <moduleRef key="msdescription"/>
+        <moduleRef key="namesdates"/>
+
+        <moduleRef key="textcrit"
+          except="lacunaEnd lacunaStart lem listWit rdg rdgGrp variantEncoding"/>
+        <moduleRef key="textstructure" except="postscript trailer"/>
+        <!-- required -->
+        <moduleRef key="transcr"
+          except="addSpan am damage damageSpan delSpan ex facsimile handNotes handShift line listTranspose metamark mod path redo restore retrace secl sourceDoc space subst substJoin supplied surface surfaceGrp surplus transpose undo zone"/>
+
+
+        <moduleRef key="tagdocs"/>
+
+        <elementSpec ident="div1" mode="change">
+          <attList> 
+            <attDef ident="type" mode="change">
+              <valList type="closed" mode="change">
+                <valItem mode="add" ident="chapter">
+                  <desc versionDate="2020-05-06" xml:lang="en">Chapter</desc>
+                </valItem>
+                <valItem mode="add" ident="other">
+                  <desc versionDate="2020-05-06" xml:lang="en">Other (if used often, add another
+                    value)</desc>
+                </valItem>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
+        <elementSpec ident="div2" mode="change">
+          <attList>
+            <attDef ident="type" mode="change">
+              <valList type="closed" mode="change">
+                <valItem mode="add" ident="student_edition">
+                  <desc versionDate="2020-05-06" xml:lang="en">Student Edition</desc>
+                </valItem>
+                <valItem mode="add" ident="teacher_edition">
+                  <desc versionDate="2020-05-06" xml:lang="en">Teacher Edition</desc>
+                </valItem>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
+        <elementSpec ident="div3" mode="change">
+          <attList>
+            <attDef ident="type" mode="change">
+              <valList type="closed" mode="change">
+                <valItem mode="add" ident="récit">
+                  <desc versionDate="2020-05-06" xml:lang="en">Récit (student edition)</desc>
+                </valItem>
+                <valItem mode="add" ident="questionnaire">
+                  <desc versionDate="2020-05-06" xml:lang="en">Questionnaire (teacher
+                    edition)</desc>
+                </valItem>
+                <valItem mode="add" ident="sujets">
+                  <desc versionDate="2020-05-06" xml:lang="en">Sujets</desc>
+                </valItem>
+              </valList>
+            </attDef>
+            <attDef ident="subtype" mode="change">
+              <valList type="closed" mode="change">
+                <valItem ident="agriculture" mode="add">
+                  <desc versionDate="2020-05-06" xml:lang="en">Agriculture</desc>
+                </valItem>
+                <valItem mode="add" ident="civilité">
+                  <desc versionDate="2020-05-06" xml:lang="en">Civilité</desc>
+                </valItem>                
+                <valItem mode="add" ident="composition">
+                  <desc versionDate="2020-05-06" xml:lang="en">Composition</desc>
+                </valItem>
+                <valItem mode="add" ident="économie_domestique">
+                  <desc versionDate="2020-05-06" xml:lang="en">Économie Domestique</desc>
+                </valItem>
+                <valItem mode="add" ident="français">
+                  <desc versionDate="2020-05-06" xml:lang="en">Français</desc>
+                </valItem>
+                <valItem mode="add" ident="géographie">
+                  <desc versionDate="2020-05-06" xml:lang="en">Géographie</desc>
+                </valItem>
+                <valItem mode="add" ident="histoire">
+                  <desc versionDate="2020-05-06" xml:lang="en">Histoire</desc>
+                </valItem>
+                <valItem mode="add" ident="hygiène">
+                  <desc versionDate="2020-05-06" xml:lang="en">Hygiène</desc>
+                </valItem>
+                <valItem mode="add" ident="industrie">
+                  <desc versionDate="2020-05-06" xml:lang="en">Industrie</desc>
+                </valItem>
+                <valItem mode="add" ident="instruction_civique">
+                  <desc versionDate="2020-05-06" xml:lang="en">Instruction civique</desc>
+                </valItem>
+                <valItem mode="add" ident="morale">
+                  <desc versionDate="2020-05-06" xml:lang="en">Morale</desc>
+                </valItem>
+                <valItem mode="add" ident="sciences_naturelle">
+                  <desc versionDate="2020-05-06" xml:lang="en">Sciences naturelles</desc>
+                </valItem>
+                <valItem mode="add" ident="sciences_physiques">
+                  <desc versionDate="2020-05-06" xml:lang="en">Sciences Physiques</desc>
+                </valItem>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
+        <elementSpec ident="figure" mode="change">
+          <attList> 
+            <attDef ident="type" mode="change">
+              <valList mode="change" type="closed">
+                <valItem mode="add" ident="illustration">
+                  <desc versionDate="2020-05-06" xml:lang="en">Illustration</desc>
+                </valItem>
+                <valItem mode="add" ident="sujets">
+                  <desc versionDate="2020-05-06" xml:lang="en">Sujets</desc>
+                </valItem>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
+      </schemaSpec>
+    </body>
+  </text>
+</TEI>
