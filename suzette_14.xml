@@ -436,25 +436,27 @@
    <text>
       <body>
          <div1 type="chapter" xml:id="ch014" xml:lang="fr" n="14">
-            <pb type="page" n="34"/>
+            <pb type="page" n="47"/>
             <head>14. — Brunehaut. (Élève, p. 34.)</head>
             <div2 type="student_edition" xml:id="ch014se">
 
 
-               <div3>
+               <div3 type="recis">
                   <p>Dans les villages où les chemins de fer ne sont encore qu'à l'état de jalons*
                      peints en rouge et faisant la file indienne* par les plaines, un char à bancs
                      ne s'attelle pas pour aller à la foire sans provoquer, quelque émotion:</p>
                   <sp>
-                     <ab>— Denis Dumay, s'il vous plait, une petite place, deux petites places, ou
-                        trois?</ab>
+                     <speaker>Un voisin</speaker>
+                     <p>— Denis Dumay, s'il vous plait, une petite place, deux petites places, ou
+                        trois?</p>
                   </sp>
                   <sp>
                      <speaker>M. Dumay</speaker>
-                     <ab>— Bon!</ab>
+                     <p>— Bon!</p>
                   </sp>
                   <sp>
-                     <ab>— Dites donc! si seulement vous en aviez quatre?</ab>
+                     <speaker>Un voisin</speaker>
+                     <p>— Dites donc! si seulement vous en aviez quatre?</p>
                   </sp>
                   <p>Tout fut accordé jusqu'à ce qu'il n'y eût plus moyen de loger même une
                      sardine.</p>
@@ -474,20 +476,22 @@
                      grès bleu, qui grinçait sous les roues.</p>
                   <sp>
                      <speaker>M. Dumay</speaker>
-                     <ab>— La traverse eût abrégé,</ab>
+                     <p>— La traverse eût abrégé,</p>
                      <stage>dit M. Dumay, </stage>
-                     <ab>mais, char-</ab>
+                     <p>mais, char-</p>
                   </sp>
 
                   <pb type="page" n="48"/>
                   <fw type="header">48 SUZETTE.</fw>
                   <sp>
-                     <ab>gés comme nous le sommes, la chaussée Brunehaut est plus sûre.</ab>
+                     <p>gés comme nous le sommes, la chaussée Brunehaut est plus sûre.</p>
                   </sp>
                   <stage>Il prononça Bruneau.</stage>
                   <sp>
-                     <ab>— Ah ça! demanda Ludivine, pourquoi cette chaussée-là s'appelle-t-elle
-                        Bruneau plutôt que Blondeau?</ab>
+                     <speaker>Ludivine</speaker>
+                     <p>— Ah ça! </p>
+                     <stage>demanda Ludivine,</stage>
+                     <p>pourquoi cette chaussée-là s'appelle-t-elle Bruneau plutôt que Blondeau?</p>
                   </sp>
                   <p>Sur quoi, très vite, Florentin Lejoly, qui portait comme tous les jours où il
                      allait à la ville, un chapeau trop haut sur une tête trop pommadée, un veston
