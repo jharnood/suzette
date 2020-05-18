@@ -150,6 +150,9 @@
                 <valItem mode="add" ident="sciences_physiques">
                   <desc versionDate="2020-05-06" xml:lang="en">Sciences Physiques</desc>
                 </valItem>
+                <valItem ident="sciences_nat-industrie" mode="add">
+                  <desc versionDate="2020-05-18" xml:lang="en">Science naturelles et Industrie</desc>
+                </valItem>
               </valList>
             </attDef>
           </attList>
