@@ -48,11 +48,9 @@
           except="case colloc dictScrap entry entryFree etym gram gramGrp hom hyph iType mood number oRef orth pRef per pos pron re sense stress subc superEntry syll tns usg"/>
         <moduleRef key="drama" except="actor camera castGroup castItem castList move set sound view"/>
         <moduleRef key="figures" except="formula notatedMusic"/>
-
         <moduleRef key="header"
           except="change handNote hyphenation normalization punctuation scriptNote seriesStmt"/>
         <!-- required -->
-
         <moduleRef key="linking"/>
         <moduleRef key="msdescription"/>
         <moduleRef key="namesdates"/>
@@ -61,8 +59,7 @@
           except="lacunaEnd lacunaStart lem listWit rdg rdgGrp variantEncoding"/>
         <moduleRef key="textstructure" except="postscript trailer"/>
         <!-- required -->
-        <moduleRef key="transcr"
-          except="addSpan am damage damageSpan delSpan ex facsimile handNotes handShift line listTranspose metamark mod path redo restore retrace secl sourceDoc space subst substJoin supplied surface surfaceGrp surplus transpose undo zone"/>
+        <moduleRef key="transcr"/>
 
 
         <moduleRef key="tagdocs"/>
