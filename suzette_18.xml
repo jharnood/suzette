@@ -509,11 +509,12 @@
    </teiHeader>
    <text>
       <body>
-         <div1 type="chapter" xml:id="ch018" xml:lang="fr" n="18">
+         <div1 type="chapter" xml:lang="fr" corresp="#ch018">
+            <head type="chapter">18. — Laine et coton. (Élève, p. 45.)</head>
             <pb type="page" n="64"/>
-            <head>18. — Laine et coton. (Élève, p. 45.)</head>
-            <div2 type="student_edition" xml:id="ch018se">
-               <div3 type="recis">
+            
+            <div2 type="student_edition">
+               <div3 type="récit">
                   <p>Le soir même, après la rentrée au village, au bruit des trompettes de deux sous
                      dont sonnaient ses deux jeunes frères, Suzette alla montrer son achat à Mme
                      Valon.</p>
@@ -524,8 +525,9 @@
                   <p>Mme Valon ayant examiné l’étoffe et parfilé* plusieurs</p>
                   <p>fils de la trame * et de la chaîne*, fit une petite moue peu rassurante.</p>
 
-                  <pb type="page" n="65"/>
                   <fw type="header">LAINE ET COTON. 65</fw>
+                  <pb type="page" n="65"/>
+                  
                   <p>Puis elle alluma une bougie, en approcha un fil; le fil commença de brûler avec
                      une petite flamme courte, laissant après elle une cendre compacte* et grasse;
                      en même temps, une légère odeur de roussi particulière et connue se dégagea.
@@ -547,12 +549,13 @@
                      <p>— Tu as payé cela de deux francs à deux francs vingt-cinq centimes?</p>
                   </sp>
                   <fw type="sig">4</fw>
-                  <figure>
+                  <figure type="illustration">
                      <caption>Le métier à tisser.</caption>
                   </figure>
-
-                  <pb type="page" n="66"/>
+                  
                   <fw type="header">66 SUZETTE.</fw>
+                  <pb type="page" n="66"/>
+                  
                   <sp>
                      <speaker/>
                      <p>— Trois francs, hélas ! oui, Madame, trois francs! Il n'y avait ni sergé ni
@@ -577,12 +580,12 @@
                   <p>Jadis, une fois l’an, elles s___enaient en des lieux marqués, comme, par
                      exemple, à Aix- la -Chapelle *, d’ou celle du Landit, instituée par
                      Charlemagne, fut</p>
-                  <figure>
+                  <figure type="sujets">
                      <caption>Le chanvre.</caption>
                      <caption>On tire de cette plante, comme du lin, une filasse abondante avec
                         laquelle on fabrique du fil, de la toile et des cordes.</caption>
                   </figure>
-                  <figure>
+                  <figure type="sujets">
                      <caption>Le ver à soie.</caption>
                      <caption>Le ver à soie se nourrit de feuilles de mûrier. Il laisse échapper de
                         sa lèvre inférieure une sorte de liquide qui, en séchant, forme un fil; le
@@ -593,9 +596,10 @@
                         étoffes de soie, robes, rubans, velours. C'est à Lyon que se trouvent les
                         plus grandes fabriques de soieries.</caption>
                   </figure>
-
-                  <pb type="page" n="67"/>
+                  
                   <fw type="header">LAINE ET COTON. 67</fw>
+                  <pb type="page" n="67"/>
+                  
                   <p>transférée à Saint-Denis par Charles le Chauve.</p>
                   <p>Beaucaire, Provins, Troyes, Saint-Quentin, « ville drapante », appelaient à
                      elles tous les acheteurs du monde. Aujourd'hui, les foires sont en permanence *
@@ -620,9 +624,11 @@
                         viande; sans quoi, tu vois ce qui vous arrive.</p>
                   </sp>
                </div3>
-               <div3 type="questionnaire">
+            </div2>
+            <div2 type="teacher_edition">  
+            <div3 type="questionnaire">
                   <head>Questionnaire.</head>
-                  <list>
+                  <list type="exercices">
                      <item>— Quel était l'objet de la visite que fit Suzette à Mme Valon ?</item>
                      <item>— Comment cette dernière discerna-t-elle la nature de l'étoffe?</item>
                      <item>— Qu'eu conclut-elle?</item>
@@ -637,17 +643,21 @@
                   </list>
                </div3>
             </div2>
-            <div2 type="teacher_edition" xml:id="ch018te">
+            <div2 type="student_edition">
                <head type="exercice">DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES.</head>
-               <div3 type="sujets" ana="economie domestique">
+               <div3 type="sujets" subtype="economie_domestique">
                   <head>Économie domestique.</head>
-                  <list>
+                  <list type="exercices">
                      <item>— Qui est chargé des achats du ménage?</item>
                      <item>— Comment faut-il s'y prendre pour acheter en de bonnes
                         conditions?</item>
                      <item>— A quels marchands vous adresserez-vous de préférence?</item>
                      <item>— Est-il prudent de s'attacher à acheter à bon marché?</item>
                   </list>
+               </div3>
+            </div2>
+            <div2 type="teacher_edition">
+               <div3 type="sujets" subtype="economie_domestique">
                   <p>Dans chaque ménage, le soin des achats revient à la mère de famille ; par
                      conséquent, la bonne situation du budget de ménage dépend de l'intelligence
                      avec laquelle elle règle les dépenses. Il faut qu'elle sache acheter à propos;
@@ -664,21 +674,29 @@
                      ; car, une fois le marché conclu, il n'y a plus à revenir, et l'argent si
                      péniblement gagné est irrévocablement perdu.</p>
                </div3>
-               <div3 type="sujets" ana="francais">
+            </div2>
+            <div2 type="student_edition">   
+            <div3 type="sujets" subtype="francais">
                   <head>Français.</head>
-                  <list>
+                  <list type="exercices">
                      <item>— Écrire et analyser tous les noms propres de la leçon.</item>
                      <item>EXEMPLE. — Suzette, n. pr. fém, sing. — Reims, n. pr, masc. sing.</item>
                   </list>
 
-                  <pb type="page" n="68"/>
-                  <fw type="header">68 SUZETTE.</fw>
+               <fw type="header">68 SUZETTE.</fw>    
+               <pb type="page" n="68"/>
+            </div3>
+            </div2>
+            <div2 type="teacher_edition">
+               <div3 type="sujets" subtype="francais">
                   <p>N. B. — Cet exercice sera fait oralement, de préférence. II donne un spécimen
                      des sujets d'analyses qu'on peut tirer du texte d'une leçon de lecture.</p>
                </div3>
-               <div3 type="sujets" ana="sciences naturelles">
+            </div2>
+            <div2 type="student_edition">
+               <div3 type="sujets" subtype="sciences_naturelle">
                   <head>Sciences naturelles.</head>
-                  <list>
+                  <list type="exercices">
                      <item>— Qu'appelle-t-on ver à soie?</item>
                      <item>— A quel animal ressemble-t-il?</item>
                      <item>— Quels sont les quatre états sous lesquels le ver à soie nous apparaît
@@ -688,6 +706,10 @@
                      <item>— Comment le nourrit-on?</item>
                      <item>— Qu'est-ce que les cocons?</item>
                   </list>
+               </div3>
+            </div2>
+            <div2 type="teacher_edition">
+               <div3 type="sujets" subtype="sciences_naturelle">
                   <p><rs>Le ver à soie</rs> naît dès œufs que pond un joli petit papillon de couleur
                      grise, originaire de la Chine et du Japon. On élève cet insecte, dans nos pays
                      du moins, à l'intérieur de salles chauffées, et on le nourrit avec les feuilles
@@ -724,7 +746,9 @@
                      la région septentrionale de la France. On en fabrique des toiles estimées et
                      des dentelles.</p>
                </div3>
-               <div3 type="sujets" ana="industrie">
+            </div2>
+            <div2 type="student_edition"> 
+            <div3 type="sujets" subtype="industrie">
                   <head>Industrie.</head>
                   <list>
                      <item>— Que fait-on des cocons, puis des fils de soie?</item>
@@ -734,6 +758,10 @@
                      <item>— Leurs avantages et leurs inconvénients.</item>
                      <item>— (Questions analogues sur le chanvre.)</item>
                   </list>
+            </div3>
+            </div2>
+            <div2 type="teacher_edition">
+               <div3 type="sujets" subtype="industrie">
                   <p>Lorsque les cocons sont achevés, on en fait périr la chrysalide en les jetant
                      dans une chaudière d'eau bouillante. Lorsqu'ils sont retirés et séchés, des
                      femmes et des jeunes filles les dévident, et l'on obtient ainsi des écheveaux
@@ -745,22 +773,30 @@
                   <p>Le mètre de satin coûte...; celui de faille....., etc.</p>
                   <p>Ces étoffes servent à confectionner les robes, les rideaux, les chapeaux, les
                      écharpes, les drapeaux, les bannières, les bas; on en recouvre les</p>
-                  <pb type="page" n="69"/>
                   <fw type="header">OU IRA JACQUES? 69</fw>
+                  <pb type="page" n="69"/>
+                  
                   <p>parapluies et les ombrelles. En général, elles ont un brillant très doux à
                      l'œil; mais elles se coupent et se graissent facilement par l'usage.</p>
                   <p>La filasse de chanvre donne des fils résistants avec lesquels on fabrique des
                      toiles de ménage, des toiles à voiles et les cordages employés dans la
                      navigation principalement.</p>
                </div3>
-               <div3 type="sujets" ana="geographie">
+            </div2>
+            <div2 type="student_edition">
+               <div3 type="sujets" subtype="geographie">
                   <head>Géographie.</head>
-                  <list>
+                  <list type="exercices">
                      <item>— Indiquer les provinces et les départements où sont situées les villes
                         françaises nommées dans la leçon,</item>
-                     <item>EXEMPLE. — Reims, dép. de la Marne, Champagne. —Roubaix, dép. du Nord,
-                        Flandre. — Elbeuf, dép. de la Seine-Inférieure, Normandie, etc. </item>
                   </list>
+               </div3>
+            </div2>
+            <div2 type="teacher_edition">
+               <div3 type="sujets" subtype="geographie">
+                     <p>EXEMPLE. — Reims, dép. de la Marne, Champagne. —Roubaix, dép. du Nord,
+                        Flandre. — Elbeuf, dép. de la Seine-Inférieure, Normandie, etc. </p>
+                 
                </div3>
             </div2>
          </div1>
