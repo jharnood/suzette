@@ -220,8 +220,8 @@
                 <!-- there are two div2 types: student_edition and teacher_edition. When you add the @type attribute, you should be given both options to choose from -->
                 <div2 type="student_edition">
                     <div3 type="récit">
-                    <p>Comme une bonne petite mère attentive et tendre, Suzette prépara le trousseau * du grand frère.</p>
-                    <p>Pendant huit jours, sans bruit, avec cette hâte discrète * qui était sa manière de travailler, elle reprisa, détacha, lessiva. Le linge blanc de neige, parfumé de racine d'iris*, les vêtements pliés s'empilèrent peu à peu dans la malle :</p>
+                    <p>Comme une bonne petite mère attentive et tendre, Suzette prépara le trousseau *<gloss>Trousseau. Habits et linge qu'on donne à une jeune fille en se mariant, ou à un enfant qui va en pension.</gloss> du grand frère.</p>
+                    <p>Pendant huit jours, sans bruit, avec cette hâte discrète * <gloss>Discret. Qui ne cherche pas à paraître.</gloss>qui était sa manière de travailler, elle reprisa, détacha, lessiva. Le linge blanc de neige, parfumé de racine d'iris*<gloss>Iris. Plante qui croît dans les lieux humides.</gloss>, les vêtements pliés s'empilèrent peu à peu dans la malle :</p>
                     
                     <sp>
                         <speaker>Suzette</speaker>
@@ -239,7 +239,7 @@
                         <p>— Hum ! hum !  je sais coudre...</p>
                     </sp>
                     
-                    <p>Pendant les deux dernières soirées, sous la direction de sa sœur, il avait attaché deux boutons tout à fait, et un troisième à moitié. Ce ne fut pas sans quelques piqûres à ses gros doigts inexpérimentés*. Mais enfin, couci-couci, il emportait le talent de rattacher un bouton, talent précieux pour un garçon peu millionnaire.</p>
+                    <p>Pendant les deux dernières soirées, sous la direction de sa sœur, il avait attaché deux boutons tout à fait, et un troisième à moitié. Ce ne fut pas sans quelques piqûres à ses gros doigts inexpérimentés*<gloss>Inexpérimenté. Dans ce sens: qui n'a pas le talent de faire une chose.</gloss>. Mais enfin, couci-couci, il emportait le talent de rattacher un bouton, talent précieux pour un garçon peu millionnaire.</p>
                     <p>Jacques partait le lendemain matin.</p>
                     <p>Comme la malle s'achevait, M, Dumay rentra des champs. Il faisait encore grand jour ; d'habitude on ne le voyait pas si tôt.</p>
                     <sp>
@@ -250,7 +250,7 @@
                     <p>Sa voix était émue :</p>
                     
                     <sp>
-                        <speaker>Papa</speaker>
+                        <speaker >Papa</speaker>
                         <p>— Eh bien! mes enfants, avant ce départ de Jacques notre première séparation depuis que votre pauvre</p>
                         <fw type="header">LA VEILLE DU DÉPART.                73</fw>
                         
@@ -261,10 +261,10 @@
                     <p>Suzette appela Charlot et François qui jouaient au jardin et y cueillit un bouquet des plus belles pensées.</p>
                     <p>On partit.</p>
                     <p>A l'extrémité du petit cimetière était la tombe maternelle, déjà fleurie de roses.</p>
-                    <p>Après un moment de recueillement*, M. Dumay posa sa main sur l'épaule de Jacques.</p> 
+                    <p>Après un moment de recueillement*<gloss>Recueillement. Etat de celui qui rappelle ses idées, ses souvenirs.</gloss>, M. Dumay posa sa main sur l'épaule de Jacques.</p> 
                     <sp>
                         <speaker>Papa</speaker>
-                        <p>— Mon fils, dit-il, tout à l'heure, seul aux champs et songeant à toi, j'ai revu ta mère, comme je la vis un jour devant ton berceau, Tu n'avais que quelques semaines, tu dormais; nous te regardions, toi, notre premier-né! Son visage s'émut*, elle me prit la main :</p>
+                        <p>— Mon fils, dit-il, tout à l'heure, seul aux champs et songeant à toi, j'ai revu ta mère, comme je la vis un jour devant ton berceau, Tu n'avais que quelques semaines, tu dormais; nous te regardions, toi, notre premier-né! Son visage s'émut*<gloss>S'émouvoir. Eprouver quelque trouble, quelque chagrin.</gloss>, elle me prit la main :</p>
                     </sp>
                     <sp>
                         <speaker>Maman</speaker>
@@ -304,7 +304,7 @@
                             <item>— Que lui avait-elle appris à faire pendant les deux dernières soirées?</item>
                             <item>— Que proposa M. Dumay à son retour des champs?</item>
                             <item>— Quelle bonne pensée eut Suzette?</item>
-                            <item>— Que dit le père à Jacques sur des souvenirs qui avalent occupé sa pensée tout le jour ?</item>
+                            <item>— Que dit le père <cb/>à Jacques sur des souvenirs qui avalent occupé sa pensée tout le jour ?</item>
                             <item>— Quelles paroles de la mère rappela-t-il ?</item>
                             <item>— Quels derniers conseils donna-t-il à son fils?</item>
                             <item>— Pendant ce temps, que faisaient Suzette et ses frères?</item>
@@ -338,7 +338,7 @@
                         <div3 type="sujets" subtype="français">
                             <head>Français.</head>
                             <list type="exercices">
-                                <item>— Copier successivement tous les verbes du discours de M. Dumay (Mon fils, dit-il, tout à l'heure...); écrire après chacun le sujet entre parenthèses, lorsque ce verbe en aura un d'exprimé.
+                                <item>— Copier successivement tous les verbes du discours de M. Dumay (Mon fils, dit-il, tout à l'heure...); écrire après chacun le sujet entre parenthèses, lorsque ce verbe en aura un d'exprimé.<lb/>
                             EXEMPLE : Dit (sujet, il). — Ai revu (sujet, je). — Vis (sujet, tu). — Avais (sujet, tu), etc., etc. </item>
                               
                             </list>
@@ -361,7 +361,7 @@
                     
                        <div2 type="teacher_edition">
                            <div3 type="sujets" subtype="industrie">
-                                                    <p>Les boutons sont de petites pièces de métal ou d'une autre matière dure, de forme généralement arrondie, qui servent à fixer ensemble différentes parties d'un vêtement. On les passe, à cet effet, dans des fentes appelées boutonnières ou dans des ganses.</p>
+                                                    <p><rs ref="">Les boutons</rs> sont de petites pièces de métal ou d'une autre matière dure, de forme généralement arrondie, qui servent à fixer ensemble différentes parties d'un vêtement. On les passe, à cet effet, dans des fentes appelées boutonnières ou dans des ganses.</p>
                             <p>On fabrique les boutons soit avec du métal fondu dans des moules, soit en les découpant dans des plaques minces de fer, de cuivre ou de zinc auxquelles on soude les queues. Il y en a encore en os, en nacre, en porcelaine, en verre, que l’on confectionne d'une manière analogue. Ceux de corne s'obtiennent en pressant fortement cette substance ramollie dans l'eau bouillante. En général, les boutons de bois sont revêtus d'étoffe, tandis que ceux de métal sont teints de diverses couleurs et vernis.</p>
                             <p>Les doubles boutons servent à fixer les cols, les devants de chemises, les poignets des manches, les guimpes, etc.</p>
                             <p>Les boutons présentent les formes les plus variées : circulaires, sphériques, ronds, ovales, lenticulaires, aplatis, concaves, convexes, etc. Actuellement, il est de mode de les orner de figures en relief quand ils servent à la garniture des vêtements.</p>
@@ -382,9 +382,9 @@
                     
                     <div2 type="teacher_edition">
                         <div3 type="sujets" subtype="économie_domestique">
-                            <p>Tout ce qui souille et laisse sur quelque chose une marque malpropre constitue une tache. Le plus souvent les taches sont produites, sur les vêtements, par des corps gras, des acides ou des matières colorantes.</p>
+                            <p>Tout ce qui souille et laisse sur quelque chose une marque malpropre constitue <rs ref="">une tache</rs>. Le plus souvent les taches sont produites, sur les vêtements, par des corps gras, des acides ou des matières colorantes.</p>
                             <p>Il y a des taches de graisse, d'huile, de sauce, de peinture, de rouille, de verdure, d'encre, etc. : la liste en est longue, si l'on s'en rapporte aux dires des mamans d'enfants peu soigneuses.</p>
-                            <p>Pour faire disparaître les taches de graisse, on applique du papier buvard sur l'étoffe souillée et l'on promène un fer chaud sur le tout. On emploie dans le même cas avec succès la benzine, pourvu que le tissu soit teint solidement.</p>
+                            <p>Pour faire <rs ref=""><!-- It looks like "taches" and "faire disparaître les taches" refer to the same entry in the Classfication -->disparaître les taches</rs> de graisse, on applique du papier buvard sur l'étoffe souillée et l'on promène un fer chaud sur le tout. On emploie dans le même cas avec succès la benzine, pourvu que le tissu soit teint solidement.</p>
                             <p>Les taches d'huile et de peinture à l'huile s'enlèvent avec de l'essence de térébenthine; celles d'encre, avec le sel d'oseille employé à dose modérée; et celles dues à un acide, par l'ammoniaque étendu d'eau.</p>
                             <p>On fait disparaître les taches de fruits sur les étoffes légères en mouillant légèrement l'étoffe et en brûlant au-dessous du soufre en bâton; on rince ensuite. L'eau de Javel étendue dans beaucoup d'eau produit le même résultat.</p>
                         </div3>
