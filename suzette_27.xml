@@ -213,185 +213,196 @@
     </teiHeader>
     <text>
         <body>
-            <div1 type="chapter" xml:lang="fr"corresp="#ch020">
-                <!-- within div1 add attributes for @n and @corresp (from which you will choose the listed chapter) -->
-                <head type="chapter">20. — La veille du départ. (Élève, p. 50.)</head>
-                <pb type="page" n="72"/>
-                <!-- there are two div2 types: student_edition and teacher_edition. When you add the @type attribute, you should be given both options to choose from -->
+            <div1 type="chapter" xml:lang="fr" corresp="#ch027">
+                <head type="chapter">27. — L'aveu. (Élève, p. 65.)</head>
+                <pb type="page" n="96"/>
                 <div2 type="student_edition">
+
+                    <!-- there are three div3 types: recit, questionnaire, and sujets. We can add to these if necessary. They apply to both student and teacher editions -->
                     <div3 type="récit">
-                    <p>Comme une bonne petite mère attentive et tendre, Suzette prépara le trousseau *<gloss>Trousseau. Habits et linge qu'on donne à une jeune fille en se mariant, ou à un enfant qui va en pension.</gloss> du grand frère.</p>
-                    <p>Pendant huit jours, sans bruit, avec cette hâte discrète * <gloss>Discret. Qui ne cherche pas à paraître.</gloss>qui était sa manière de travailler, elle reprisa, détacha, lessiva. Le linge blanc de neige, parfumé de racine d'iris*<gloss>Iris. Plante qui croît dans les lieux humides.</gloss>, les vêtements pliés s'empilèrent peu à peu dans la malle :</p>
-                    
-                    <sp>
-                        <speaker>Suzette</speaker>
-                        <p>— Jacques, voici dans ce coin, à droite, une brosse pour tes habits; et ici, à gauche, cette petite boîte d'aiguilles passées de fil blanc et de noir.</p>
-                    </sp>
-                    <sp><speaker>Jacques</speaker>
-                        <p>— Toutes passées! ah! Suzette, la gentille précaution!</p>
-                    </sp>
-                    <sp>
-                        <speaker>Suzette</speaker>
-                        <p>— Et, à côté, des boutons, car maintenant tu sais coudre.</p>
-                    </sp>
-                    <sp>
-                        <speaker>Jacques</speaker>
-                        <p>— Hum ! hum !  je sais coudre...</p>
-                    </sp>
-                    
-                    <p>Pendant les deux dernières soirées, sous la direction de sa sœur, il avait attaché deux boutons tout à fait, et un troisième à moitié. Ce ne fut pas sans quelques piqûres à ses gros doigts inexpérimentés*<gloss>Inexpérimenté. Dans ce sens: qui n'a pas le talent de faire une chose.</gloss>. Mais enfin, couci-couci, il emportait le talent de rattacher un bouton, talent précieux pour un garçon peu millionnaire.</p>
-                    <p>Jacques partait le lendemain matin.</p>
-                    <p>Comme la malle s'achevait, M, Dumay rentra des champs. Il faisait encore grand jour ; d'habitude on ne le voyait pas si tôt.</p>
-                    <sp>
-                        <speaker>Papa</speaker>
-                        <p>— Tout est prêt? dit-il, après un regard à la malle.</p>
-                    </sp>
-                    
-                    <p>Sa voix était émue :</p>
-                    
-                    <sp>
-                        <speaker >Papa</speaker>
-                        <p>— Eh bien! mes enfants, avant ce départ de Jacques notre première séparation depuis que votre pauvre</p>
-                        <fw type="header">LA VEILLE DU DÉPART.                73</fw>
+                        <p>Elle suivit Mme Valon que s'en allait, et, toute honteuse, les larmes aux yeux :</p>
+                        <sp>
+                            <speaker>Suzette</speaker>
+                            <p>— Ah ! Madame, dit-elle, pourquoi ne suis-je pas allée hier vous demander conseil ? Quelle chose terrible que l'ignorance ! J'ai un aveu *<gloss>Aveu. Action de dire ce qu'on a fait de mal.</gloss> à vous faire.</p>
+                        </sp>
                         
-                        <pb type="page" n="73"/>
+                        <p>Elle conta toute son aventure avec la bohémienne, depuis l'aumône du morceau de pain et l'apparition de la chouette jusqu'à l'escroquerie *<gloss>Escroquerie. Action de prendre ou d'obtenir quelque chose par tromperie.</gloss> des cinq francs et du foulard :</p>
+                        <sp>
+                            <speaker>Suzette</speaker>
+                            <p>— Et j'ai donné rendez-vous pour ce soir, à la brune, sous ces arbres.</p>
+                        </sp>
+                        
+                        <p>Elle montra l'endroit.</p>
+                        <sp>
+                            <speaker>Mme_Valon</speaker>
+<p>                            — Comment ! s'écria Mme Valon, c'est vous, Mademoiselle Suzette, qui, sans compter la toile d'araignée et le cataplasme de pigeon, avez fait cela ! Vous, qui en êtes encore à ces folies, à ces sottises ! Hier, tu avais donc mis ton esprit sous tes pieds ?</p>
+                        </sp>
+                        
+                        <sp>
+                            <speaker>Suzette</speaker>
+                            <p>— Je croyais mon frère bien malade, et cette chouette m'a tant épouvantée !</p>
+                        </sp>
+                        <sp>
+                            <speaker> Mme_Valon</speaker>
+                            <p>— Oui, la peur est la mère de la superstition. Tu n'ignorais pourtant pas que la chouette a comme les autres oiseaux, un estomac à remplir, par conséquent une chasse quotidienne *<gloss>Quotidien, diurne. Qui a lieu chaque jour, pendant le jour.</gloss> à faire. Cette chasse, elle la fait la nuit, ne voyant clair qu'à ce moment, et elle nous débarrasse des souris, des rats, des mulots et autres noctambules *<gloss>Noctambule. Celui qui circule ou travaille pendant la nuit.</gloss> pillards de grains et de semences. Les pauvres hiboux, petits et gros, sont des bienfaiteurs de l'agriculture ; et ces braves gens dont, à cause de leur cécité * pendant le jour, tous les oiseaux diurnes * se moquent, et qu'ils pourchassent à coups de bec, nous, nous en</p>
+                        </sp>
+                        <fw type="header">L"AVEU 97</fw>
+                        <pb type="page" n="97"/>
+                            <sp>
+                                <speaker>Mme_Valon</speaker>
+                                <p>avons peur ! Tu as lu un jour en classe que les Grecs autrefois honoraient le hibou jusqu'à le mettre comme un emblème *<gloss>Emblème. Figure d'un objet qui rappelle une sentence.</gloss> sur le casque de leur déesse de la sagesse, Minerve.</p></sp>
+                            <sp>
+                                <speaker>Suzette</speaker>
+                                <p>— Oui, je me rappelle.</p>
+                            </sp>
+                            <sp>
+                                <speaker>Mme_Valon</speaker>
+                                <p>— C'est bien la peine ! Après les Grecs, voilà où nous en sommes aujourd'hui ! Ce n'est pas flatteur pour notre temps... Et cette bohémienne mendiante et voleuse, par
+                            qui tu te laisses mener comme un toton*<gloss>Toton. Dé traversé par une cheville et que l'on fait tourner.</gloss>, est-ce encore joli, cela? est-ce intelligent?</p></sp>
+                        <figure type="sujets">
+                            <caption> <hi rend="italic"> Le Hibou. </hi><lb/>
+                                Cet oiseau de proie ne se montre que la nuit. Comme la chouette, il détruit quantité de rats et de rongeurs.</caption>
+                        </figure>
+                            <cb/>
+                            <figure type="sujets">
+                                <caption> <hi rend="italic"> Rats et mulot. </hi><lb/>
+                                    Les rats et les mulots sont des animaux nuisibles qui mangent les récoltes, les grains, la paille, la farine, les fruits, les papiers, etc., et qu'il faut détruire dès qu’on s'aperçoit de leur présence.</caption>
+                            </figure>
                             
-                            <p>mère, nous a quittés, je voudrais aller avec vous sur sa tombe.</p>
-                    </sp>
-                    <p>Suzette appela Charlot et François qui jouaient au jardin et y cueillit un bouquet des plus belles pensées.</p>
-                    <p>On partit.</p>
-                    <p>A l'extrémité du petit cimetière était la tombe maternelle, déjà fleurie de roses.</p>
-                    <p>Après un moment de recueillement*<gloss>Recueillement. Etat de celui qui rappelle ses idées, ses souvenirs.</gloss>, M. Dumay posa sa main sur l'épaule de Jacques.</p> 
-                    <sp>
-                        <speaker>Papa</speaker>
-                        <p>— Mon fils, dit-il, tout à l'heure, seul aux champs et songeant à toi, j'ai revu ta mère, comme je la vis un jour devant ton berceau, Tu n'avais que quelques semaines, tu dormais; nous te regardions, toi, notre premier-né! Son visage s'émut*<gloss>S'émouvoir. Eprouver quelque trouble, quelque chagrin.</gloss>, elle me prit la main :</p>
-                    </sp>
-                    <sp>
-                        <speaker>Maman</speaker>
-                        <p>« Oh! Denis, dit-elle, nous le ferons plus savant que nous; nous affinerons* son esprit, qui vaudra mieux que le nôtre! Mais avant tout, n'est-ce pas? nous lui inspirerons la volonté d'être un honnête homme et la bonté, car, sans cela, le reste n'est rien !... »</p>
-                    </sp>
-                    <sp>
-                        <speaker>Papa</speaker>
-                        <p>Ainsi parla ta mère. Aujourd'hui, mon Jacques, j'ai</p>
-                    </sp>
-           
-                    <figure type='illustration'>
-                        <caption>Le cimetière.</caption>
-                    </figure>
-                    <fw type="footer">Suzette (Maîtresse) <fw type="sig">5</fw></fw>
-                    
-                    <fw type="header">74 Suzette. </fw>
-                    <pb type="page" n="74"/>
-                    
-                    <sp>
-                        <speaker>Papa</speaker>
-                        <p>pensé qu'au moment où tu vas nous quitter, entrer dans une vie nouvelle, dans une liberté plus grande de tes actions, oui, j'ai pensé qu'il était bon que tu entendisses ici, sur cette tombe, et comme de ta mère elle-même, ces paroles qu'elle prononça sur ton berceau. Emporte-les, mon fils ; qu'elles soient toujours avec toi comme sa douce présence!... qu'elles te gardent!</p>
-                    </sp>
-                    <p>François, Charlot, Suzette, pleuraient doucement. Les yeux mouillés, Jacques pressa la main de son père, qui reprit:</p>
-                    <sp>
-                        <speaker>Papa</speaker>
-                        <p>— Votre mère était une âme droite et pure, bonne à nous, bonne à tous, pleine d'humanité... Croyons, mes enfants, qu'elle n'est pas perdue pour ceux qu'elle aima. Elle nous a devancés, elle nous attend ; nous la retrouverons dans une vie où il n'y aura plus ni séparation, ni larmes...</p>
-                    </sp>
+                        <sp>
+                                <speaker>Suzette</speaker>
+                                <p>— J'étais si triste ! murmura Suzette.</p>
+                            </sp>
+                            <sp>
+                                <speaker>Mme_Valon</speaker>
+                                <p>— Cinq francs, un foulard perdus ! J'espère bien que ce soir tu iras lui porter tes bas, tes bottines, ta robe du dimanche, la fameuse robe vert-bouteille, et tout l'argent de la maison !</p>
+                            </sp>
+                            <sp>
+                                <speaker>Suzette</speaker>
+                                <p>— Je n'irai pas, Madame.</p>
+                            </sp>
+                            <p>Après une minute, Mme Valon reprit, cette fois sérieusement :</p>
+                            <sp>
+                                <speaker>Mme_Valon</speaker>
+                                <p>— Si, il faut y aller.</p>
+                            </sp>
+                        
+                            <sp>
+                                <speaker>Suzette</speaker>
+                                <p>— Ah ?</p>
+                            </sp>
+                        
+                            <sp>
+                                <speaker>Mme_Valon</speaker>
+                                <p>— Oui, et sois sans crainte. Sous ces arbres là-bas, n'est-ce pas ? et à la brune, m’as-tu dit ?</p>
+                            </sp>
+                        <fw type="footer">Suzette (Maîtresse) <fw type="sig">6</fw></fw>
+                        
+                        <fw type="header">98 Suzette. </fw>
+                        <pb type="page" n="98"/>                        
+                          
+                          <sp>
+                              <speaker>Suzette</speaker>
+                              <p>— Oui, Madame.</p>
+                          </sp>
+                          <sp>
+                              <speaker>Mme_Valon</speaker>
+                              <p>— Bon, cela suffit.</p>
+                          </sp>
                     </div3>
                 </div2>
-
                 <div2 type="teacher_edition">
                     <div3 type="questionnaire">
                         <head>Questionnaire.</head>
                         <list>
-                            <item>— Comment s'y prit Suzette pour préparer le trousseau de son frère ?</item>
-                            <item>— Quelles indications donna-t-elle à Jacques?</item>
-                            <item>— Que lui avait-elle appris à faire pendant les deux dernières soirées?</item>
-                            <item>— Que proposa M. Dumay à son retour des champs?</item>
-                            <item>— Quelle bonne pensée eut Suzette?</item>
-                            <item>— Que dit le père <cb/>à Jacques sur des souvenirs qui avalent occupé sa pensée tout le jour ?</item>
-                            <item>— Quelles paroles de la mère rappela-t-il ?</item>
-                            <item>— Quels derniers conseils donna-t-il à son fils?</item>
-                            <item>— Pendant ce temps, que faisaient Suzette et ses frères?</item>
-                            <item>— Par quelles paroles consolantes M. Dumay termina-t-il cette scène touchante?</item>
+                       
+                          <item>— Comment Suzette annonça-t-elle à Mme Valon l'aveu qu'elle se proposait de faire ?</item>
+                            <item>— Que lui conta-t-elle ?</item> 
+                            <item>— Quelles observations lui furent adressées par madame l'institutrice ?</item>
+                            <item>— Que dit cette dernière sur la chouette et le hibou ? — Pour quelle
+                          raison <cb/>
+                                ces oiseaux chassent-ils leur proie durant la nuit ?</item>
+                            <item>— Quel était l'oiseau de la déesse Minerve ?</item>
+                            <item>— Qu'ajouta Mme Valon d'un ton ironique, au sujet de l'argent donné à la bohémienne et du foulard ?</item>
+                            <item>— Quel conseil donna-t-elle finalement à la jeune fille ?</item>
                         </list>
                     </div3>
                 </div2>
-                    
                 <div2 type="student_edition">
                     <head>DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES</head>
-
-                    <!-- in the div3 type="sujets" section, @subtype is added from the schema. -->
+                    
                     <div3 type="sujets" subtype="morale">
                         <head> Morale.</head>
                         <list type="exercices">
-                            <item>— Que devons-nous rappeler à notre mémoire lorsque nous pensons à ceux de nos parents qui ne sont plus?</item>
-                            <item>— Par quelles attentions pouvons-nous prouver que leur souvenir nous est cher?</item>
-                            <item>— Est-il bien de négliger d'aller sur la tombe de ses parents, d'un frère, d'une sœur?</item>
-                            <item>— Pourquoi ?</item>
+                            
+                          <item>— Que doit faire un enfant qui a commis une faute ?</item>
+                            <item>— Pourquoi est-ce le meilleur parti ?</item>
+                            <item>— Une faute a été commise en classe, toutes les élèves ont été punies ; que doit faire la coupable ?</item>
                         </list>
                     </div3>
                 </div2>
-                    <div2 type="teacher_edition">
-                        <div3 type="sujets" subtype="morale">
-                            <p>Lorsque nous avons eu le malheur de perdre quelques-uns des membres de notre famille, leur souvenir ne se présentera point à notre mémoire sans que nous nous rappelions leur affection, leurs soins, leurs sacrifices, comme les marques d'intérêt qu'ils nous donnèrent. Et pour mieux comprendre ce dont nous leur sommes redevables, n'oublions pas ce qu'il y a de pénible, d'assujettissant et de coûteux à élever ses enfants.</p>
-                           <p> Nous prouverons que le souvenir de nos parents nous est cher en nous rendant souvent auprès de leur tombe, en l'entretenant, en la parant de fleurs, et, mieux encore, en suivant leurs avis et leurs derniers conseils, Ceux qui oublient ce devoir montrent qu'ils n'ont pas la mémoire du cœur et méritent d'avoir des enfants semblables à eux.</p>
-                        </div3>
-                    </div2>
                 
-                    <div2 type="student_edition">
-                        <div3 type="sujets" subtype="français">
-                            <head>Français.</head>
-                            <list type="exercices">
-                                <item>— Copier successivement tous les verbes du discours de M. Dumay (Mon fils, dit-il, tout à l'heure...); écrire après chacun le sujet entre parenthèses, lorsque ce verbe en aura un d'exprimé.<lb/>
-                            EXEMPLE : Dit (sujet, il). — Ai revu (sujet, je). — Vis (sujet, tu). — Avais (sujet, tu), etc., etc. </item>
-                              
-                            </list>
-                        </div3>
-                    </div2>
-                    <fw type="header">UNE LETTRE DE JACQUES. 75 </fw>
-                    <pb type="paged" n="75"/> 
-                    <div2 type="student_edition">
-                    <div3 type="sujets" subtype="industrie">
-                        <head>Industrie.</head>
+                <div2 type="teacher_edition">
+                    <div3 type="sujets" subtype="morale">
+                          <p>Une enfant qui a commis une faute doit l'avouer soit à ses parents, soit à une amie, soit à son institutrice, pour qu'ils lui facilitent les moyens de la réparer. Elle éprouvera ainsi un véritable soulagement ; il lui semblera qu'un poids énorme lui a été enlevé sur le cœur ; elle se sentira plus digne d'estime. L'aveu des fautes, a dit un sage, ne coûte guère à ceux qui ont le véritable désir de les réparer.</p>
+                          <p>C'est d'ailleurs le meilleur parti à prendre. L'auteur d'une faute est tôt ou tard reconnu, et alors, à l'humiliation d'un aveu tardif, s'ajoute le sentiment de la lâcheté qu'il y a à laisser soupçonner autrui.</p>
+                         <p> Il peut arriver qu'à l'occasion d'une faute grave commise à l'école, et dont l'autour est inconnu, la maîtresse soit obligée d'en venir à infliger une punition générale. Si la coupable n'est pas dépourvue de bons sentiments, elle doit aller demander la levée de la punition en se désignant pour la subir seule. Sans doute, elle sera l'objet d'une mesure sévère, mais du moins elle n'aura pas une bassesse à se reprocher.</p>
+                    </div3>
+                </div2>
+                
+                <div2 type="student_edition">
+                    <div3 type="sujets" subtype="sciences_naturelle">
+                        <head>Sciences naturelles.</head>
                         <list type="exercices">
-                           <item> — Qu'est-ce que les boutons?</item> 
-                            <item>— De quelles matières premières sont-ils formés ?</item>
-                            <item>— Nommez différentes sortes de boutons.</item>
-                            <item>— Parlez des formes diverses qu'on leur donne.</item>
-                            <item>— Combien coûte une douzaine de boutons ordinaires en os, en bois, en métal, en étoffe, en porcelaine?</item>
+                            <item>— Faites successivement le portrait de la souris, du rat, du mulot.</item>
+                            <item>— Où et de quoi vivent-ils ?</item>
+                            <item>— Pourquoi les appelle-t-on rongeurs ?</item>
+                            <item>— Quel préjudice nous causent-ils ?</item>
+                            <item>— Quels oiseaux leur donnent la chasse ?</item>
+                            <item>— Tirez une conclusion de ce fait.</item>
+                            <item>— Que sont les gens qui prennent au piège ces oiseaux et les clouent aux portes des granges ou des écuries ? — Pourquoi ?</item>
                         </list>
                     </div3>
-                    </div2>
-                    
-                       <div2 type="teacher_edition">
-                           <div3 type="sujets" subtype="industrie">
-                                                    <p><rs ref="">Les boutons</rs> sont de petites pièces de métal ou d'une autre matière dure, de forme généralement arrondie, qui servent à fixer ensemble différentes parties d'un vêtement. On les passe, à cet effet, dans des fentes appelées boutonnières ou dans des ganses.</p>
-                            <p>On fabrique les boutons soit avec du métal fondu dans des moules, soit en les découpant dans des plaques minces de fer, de cuivre ou de zinc auxquelles on soude les queues. Il y en a encore en os, en nacre, en porcelaine, en verre, que l’on confectionne d'une manière analogue. Ceux de corne s'obtiennent en pressant fortement cette substance ramollie dans l'eau bouillante. En général, les boutons de bois sont revêtus d'étoffe, tandis que ceux de métal sont teints de diverses couleurs et vernis.</p>
-                            <p>Les doubles boutons servent à fixer les cols, les devants de chemises, les poignets des manches, les guimpes, etc.</p>
-                            <p>Les boutons présentent les formes les plus variées : circulaires, sphériques, ronds, ovales, lenticulaires, aplatis, concaves, convexes, etc. Actuellement, il est de mode de les orner de figures en relief quand ils servent à la garniture des vêtements.</p>
-                            <p>Une douzaine de boutons ordinaires coûte : 1° en bois... ; en os..., etc.</p>
-                           </div3>
-                       </div2>
-                   
-                    <div2 type="student_edition">
-                    <div3 type="sujets" subtype="économie_domestique">
-                        <head>Économie domestique.</head>
-                        <list type="exercices">
-                            <item>— Qu'entend-on par taches?</item>
-                            <item>— Nommez différentes sortes de taches.</item>
-                            <item>— Comment s'y prend-on pour faire disparaître des taches de graisse ou d'huile sur de la toile, du drap, une étoffe de soie, une étoffe de laine, une étoffe de coton? — Comment enlève-t-on les taches de fruits sur les étoffes légères?</item>
+                </div2>
+                
+                <div2 type="teacher_edition">
+                    <div3 type="sujets" subtype="sciences_naturelle">
+                          <p>La souris est un petit quadrupède de 8 à 10 centimètres de longueur au pelage gris cendré, muni d'une longue queue et dont la bouche est armée d'incisives tranchantes. Elle a les mouvements vifs, gracieux et se défend courageusement contre ses nombreux ennemis, dont le plus redoutable est le chat. Elle fait sa demeure entre les planchers et, de préférence, dans les murailles des greniers et des granges.</p>
+                          <p>Le rat ressemble beaucoup à la souris, mais avec des dimensions 3 ou 4 fois plus considérables. Il habite dans tous les lieux : maisons, granges, vergers, champs, égouts, bords des ruisseaux, et commet de grands ravages parmi les récoltes et les provisions amassées. Il se multiplie parfois en tel nombre qu'il devient un véritable fléau.</p>
+                          <p>Le mulot est une espèce de souris qui vit dans les champs ; il creuse de longues galeries sous les sillons et y amasse des grains pour sa provision d'hiver.</p>
+                          <p>Ces quadrupèdes appartiennent à l'ordre des rongeurs dont l'animal le plus intéressant est le castor, si connu par sa fourrure et les habi-</p>
+                                
+                        <fw type="header">SOUS LES ARBRES 99</fw>
+                        <pb type="page" n="99"/>
+                        
+                        <p>tations qu'il sait se construire sur le bord des eaux. Tous rongent ce qui est à portée de leurs dents, et sont des ennemis redoutables pour l'homme.</p>
+                        <p>Les chouettes, les hiboux et les autres oiseaux de nuit font une guerre acharnée à ces bêtes malfaisantes. Sans leur concours, il serait presque impossible de recueillir les fruits et les céréales. Aussi considère-t-on comme une chose insensée que de pourchasser et de tuer ces utiles animaux ; le dernier degré de la stupidité est de les clouer aux portes des granges comme on le fait dans les campagnes.</p>
+                    </div3>
+                </div2>
+                
+                <div2 type="student_edition">
+                    <div3 type="sujets" subtype="français">
+                        <head>Français.</head>
+                        <list>
+                        <item>— A quels noms se rattachent les adjectifs honteux, terrible, diurne, quotidien, voleur, clair, intelligent ?</item> 
+                            <item>— Quels adjectifs correspondent à ignorance, aveu, pain, folie, superstition, peur, peine, argent, crainte ?</item>
                         </list>
                     </div3>
-                    </div2>
-                    
-                    <div2 type="teacher_edition">
-                        <div3 type="sujets" subtype="économie_domestique">
-                            <p>Tout ce qui souille et laisse sur quelque chose une marque malpropre constitue <rs ref="">une tache</rs>. Le plus souvent les taches sont produites, sur les vêtements, par des corps gras, des acides ou des matières colorantes.</p>
-                            <p>Il y a des taches de graisse, d'huile, de sauce, de peinture, de rouille, de verdure, d'encre, etc. : la liste en est longue, si l'on s'en rapporte aux dires des mamans d'enfants peu soigneuses.</p>
-                            <p>Pour faire <rs ref=""><!-- It looks like "taches" and "faire disparaître les taches" refer to the same entry in the Classfication -->disparaître les taches</rs> de graisse, on applique du papier buvard sur l'étoffe souillée et l'on promène un fer chaud sur le tout. On emploie dans le même cas avec succès la benzine, pourvu que le tissu soit teint solidement.</p>
-                            <p>Les taches d'huile et de peinture à l'huile s'enlèvent avec de l'essence de térébenthine; celles d'encre, avec le sel d'oseille employé à dose modérée; et celles dues à un acide, par l'ammoniaque étendu d'eau.</p>
-                            <p>On fait disparaître les taches de fruits sur les étoffes légères en mouillant légèrement l'étoffe et en brûlant au-dessous du soufre en bâton; on rince ensuite. L'eau de Javel étendue dans beaucoup d'eau produit le même résultat.</p>
-                        </div3>
-                    </div2>
+                </div2>
+                
+                <div2 type="teacher_edition">
+                <div3 type="sujets" subtype="français">
+                        <p>Honteux se rattache à honte ; — terrible, à terreur ; — diurne, à jour ; — quotidien, à un mot latin qui veut dire chaque et à jour (dies) ; — voleur, à vol ; — clair, à clarté ; — intelligent, à intelligence.</p>
+                       <p>A ignorance correspond l'adjectif ignorant ; — à aveu, avouable ; — à pain, pané ; — à folie, fou ; — à superstition, superstitieux ; — à peur, peureux ; — à peine, pénible ; — à argent, argentin ; — à crainte, craintif.</p>
+                </div3>
+                </div2>
             </div1>
         </body>
     </text>
 </TEI>
-                            
-                          
+           
+                    
+                       
+
+
+
