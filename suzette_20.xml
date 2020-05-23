@@ -213,7 +213,7 @@
     </teiHeader>
     <text>
         <body>
-            <div1 type="chapter" xml:lang="fr"corresp="#ch020">
+            <div1 type="chapter" xml:lang="fr" corresp="#ch020">
                 <!-- within div1 add attributes for @n and @corresp (from which you will choose the listed chapter) -->
                 <head type="chapter">20. — La veille du départ. (Élève, p. 50.)</head>
                 <pb type="page" n="72"/>
