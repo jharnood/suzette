@@ -217,10 +217,7 @@
                
                 <head type="chapter">28. — Sous les arbres. (Élève, p. 67.)</head>
                 <pb type="page" n="99"/>
-                <!-- there are two div2 types: student_edition and teacher_edition. When you add the @type attribute, you should be given both options to choose from -->
                 <div2 type="student_edition">
-
-                    <!-- there are three div3 types: recit, questionnaire, and sujets. We can add to these if necessary. They apply to both student and teacher editions -->
                     <div3 type="récit">
                         
                        <p> A la brune, le nez en trompette était déjà réduit de moitié, et M. François chantait à tue-tête, quoique la chouette planât comme la veille au-dessus de la maison.</p>
@@ -377,16 +374,3 @@
         </body>
     </text>
 </TEI>
-
-
-
-
-
-
- 
-
-Ils forment comme l'armée du mal. La société leur oppose une autre armée choisie dans l'élite des défenseurs de la patrie. Les gendarmes, les sergents de ville ou gardiens de la paix, tous anciens soldats, munis d'excellents états de service, ayant la plupart versé leur sang sur le champ de bataille, sont placés sous les ordres du ministre de la guerre ou de l'intérieur pour prêter main-forte à la justice et prévenir les attaques des malfaiteurs. Au risque de leur vie, ils poursuivent les voleurs et les assassins, les arrêtent, les conduisent dans les prisons d'où ils les amènent devant les juges.
-C'est une tâche pénible et méritoire que celle remplie par le corps honorable de la gendarmerie et par les agents de police. Jour et nuit, ils veillent à la sûreté publique au prix de dangers de toutes sortes ; à tout instant, ils exposent leur vie pour remplir leur ministère.
-Ceux qui les haïssent, les insultent ou les raillent ne sont pas dans la catégorie des honnêtes gens : un coquin, un mauvais sujet, un criminel se trahissent par la haine qu'ils portent à ces hommes dévoués et désintéressés.
-On a tort de faire des gendarmes des épouvantails pour les enfants. On apprend ainsi à ces derniers à craindre sans raison, à s'effrayer sans motif et à rougir quand la conscience ne reproche rien.
-
