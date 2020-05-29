@@ -150,6 +150,9 @@
                 <valItem ident="agriculture" mode="add">
                   <desc versionDate="2020-05-06" xml:lang="en">Agriculture</desc>
                 </valItem>
+                <valItem ident="horticulture" mode="add">
+                  <desc>Horticulture</desc>
+                </valItem>
                 <valItem ident="other" mode="add">
                   <desc versionDate="2020-05-18" xml:lang="en">Other (exception - if used frequently, will add to list)</desc>
                 </valItem>
