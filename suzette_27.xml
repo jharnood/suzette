@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="out/suzette_custom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Suzette: a Digital Edition</title>
+                <respStmt>
+                    <persName>John Westbrook</persName>
+                    <orgName>Bucknell University</orgName>
+                    <resp>Editor</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Sarah Haber</persName>
+                    <orgName>Bucknell University</orgName>
+                    <resp>Research Assistant and Encoder, 2020 - Present</resp>
+                </respStmt>
+                <respStmt>
+                    <persName xml:id="JAKA1">Diane Jakacki</persName>
+                    <orgName>Bucknell University</orgName>
+                    <resp>Project Manager</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Annie Girton</persName>
+                    <orgName>Bucknell University</orgName>
+                    <resp>Research Assistant and Encoder, 2018-2020</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Bucknell University</distributor>
+                <pubPlace>
+                    <address>
+                        <addrLine>One Dent Drive</addrLine>
+                        <addrLine>Lewisburg, PA 17837</addrLine>
+                    </address>
+                </pubPlace>
+                <availability>
+                    <licence>Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles.
+                            Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine –
+                            Couture</title>
+                        <author>Robert Halt</author>
+                        <textLang>French</textLang>
+                        <imprint>
+                            <date>1889</date>
+                            <distributor>Libraire Classique Paul Delaplane</distributor>
+                            <pubPlace>Paris, France</pubPlace>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <list>
+                    <item xml:id="ch001" n="1">1. A l'abandon</item>
+                    <item xml:id="ch002" n="5">2. Le grillon du foyer</item>
+                    <item xml:id="ch003" n="8">3. Oú est la maman?</item>
+                    <item xml:id="ch004" n="11">4. La femme de la caverne</item>
+                    <item xml:id="ch005" n="15">5. Le bon chemin</item>
+                    <item xml:id="ch006" n="19">6. Monsieur François est un homme!</item>
+                    <item xml:id="ch007" n="22">7. Le petit hèroïsme</item>
+                    <item xml:id="ch008" n="26">8. Tenons bon!</item>
+                    <item xml:id="ch009" n="29">9. La clef du trésor</item>
+                    <item xml:id="ch010" n="33">10. Grosse affaire</item>
+                    <item xml:id="ch011" n="37">11. La petite hirondelle</item>
+                    <item xml:id="ch012" n="41">12. On se débarhouille</item>
+                    <item xml:id="ch013" n="44">13. Une bonne idée</item>
+                    <item xml:id="ch014" n="47">14. Brunehaut</item>
+                    <item xml:id="ch015" n="51">15. - La charte du comte Herbert</item>
+                    <item xml:id="ch016" n="56">16. - Hésitations</item>
+                    <item xml:id="ch017" n="61">17. - Tout laine</item>
+                    <item xml:id="ch018" n="64">18. - Laine et coton</item>
+                    <item xml:id="ch019" n="69">19. - Où ira Jacques?</item>
+                    <item xml:id="ch020" n="72">20. - La veille du départ</item>
+                    <item xml:id="ch021" n="75">21. - Une lettre de Jacques</item>
+                    <item xml:id="ch022" n="78">22. - Un éteignoir à chandelle</item>
+                    <item xml:id="ch023" n="81">23. - Le secret de Ludivine</item>
+                    <item xml:id="ch024" n="85">24. - La bohémienne</item>
+                    <item xml:id="ch025" n="90">25. - Un peu de lumière</item>
+                    <item xml:id="ch026" n="93">26. - De l'eau!</item>
+                    <item xml:id="ch027" n="96">27. - L'aveu</item>
+                    <item xml:id="ch028" n="99">28. - Sous les arbres</item>
+                    <item xml:id="ch029" n="102">29. - Grands projets</item>
+                    <item xml:id="ch030" n="106">30. - Vive le blé de France!</item>
+                    <item xml:id="ch031" n="110">31. - Le prince Kang-Hi</item>
+                    <item xml:id="ch032" n="113">32. - Sélection</item>
+                    <item xml:id="ch033" n="116">33. - Au feu!</item>
+                    <item xml:id="ch034" n="120">34. - Enfant perdu</item>
+                    <item xml:id="ch035" n="123">35. - Le chien Castor</item>
+                    <item xml:id="ch036" n="125">36. - Pauvre petit!</item>
+                    <item xml:id="ch037" n="129">37. - Fraternité</item>
+                    <item xml:id="ch038" n="132">38. - Le nid familial</item>
+                    <item xml:id="ch039" n="135">39. - La pièce de cent sous</item>
+                    <item xml:id="ch040" n="138">40. - A l'oeuvre</item>
+                    <item xml:id="ch041" n="142">41. - Veillons au grain</item>
+                    <item xml:id="ch042" n="146">42. - Luttons!</item>
+                    <item xml:id="ch043" n="150">43. - Cours, mon aiguille!</item>
+                    <item xml:id="ch044" n="153">44. - Le vieil habit vert</item>
+                    <item xml:id="ch045" n="157">45. - Veste, gilet, calotte</item>
+                    <item xml:id="ch046" n="160">46. - Hier et aujourd'hui</item>
+                    <item xml:id="ch047" n="163">47. - Récolte</item>
+                    <item xml:id="ch048" n="168">48. - Au marché</item>
+                    <item xml:id="ch049" n="171">49. - Il faut s'ingénier</item>
+                    <item xml:id="ch050" n="174">50. - Faisons nos comptes</item>
+                    <item xml:id="ch051" n="177">51. - Au gui l'an neuf!</item>
+                    <item xml:id="ch052" n="181">52. - A table</item>
+                    <item xml:id="ch053" n="185">53. - Au dessert</item>
+                    <item xml:id="ch054" n="187">54. - Petits cochons de lait</item>
+                    <item xml:id="ch055" n="191">55. - Les explorateurs</item>
+                    <item xml:id="ch056" n="195">56. - Qui sont-ils?</item>
+                    <item xml:id="ch057" n="199">57. - La tempête</item>
+                    <item xml:id="ch058" n="201">58. - Un marché d'esclaves</item>
+                    <item xml:id="ch059" n="206">59. - M. Pascal parle arabe</item>
+                    <item xml:id="ch060" n="208">60. - A travers les jungles</item>
+                    <item xml:id="ch061" n="212">61. - Un baobab</item>
+                    <item xml:id="ch062" n="215">62. - Le pays de la peur</item>
+                    <item xml:id="ch063" n="219">63. - Le simocaractères non reproduitsn</item>
+                    <item xml:id="ch064" n="222">64. - Sous la tente</item>
+                    <item xml:id="ch065" n="226">65. - Vivent les explorateurs!</item>
+                    <item xml:id="ch066" n="231">66. - La montre d'argent</item>
+                    <item xml:id="ch067" n="233">67. - L'interrogatoire</item>
+                    <item xml:id="ch068" n="236">68. - Toute la vérité</item>
+                    <item xml:id="ch069" n="239">69. - Le neveu</item>
+                    <item xml:id="ch070" n="242">70. - Heureux foyer</item>
+                    <item xml:id="ch071" n="245">71. - Il y a de bonnes gens</item>
+                    <item xml:id="ch072" n="248">72. - Souvenirs d'histoire</item>
+                    <item xml:id="ch073" n="251">73. - La dépêche</item>
+                    <item xml:id="ch074" n="255">74. - Réconciliation</item>
+                    <item xml:id="ch075" n="258">75. - Le beau temps</item>
+                    <item xml:id="ch076" n="261">76. - Les adieux</item>
+                    <item xml:id="ch077" n="265">77. - La salle d'attente</item>
+                    <item xml:id="ch078" n="269">78. - A Paris</item>
+                    <item xml:id="ch079" n="272">79. - Sur la Seine</item>
+                    <item xml:id="ch080" n="276">80. - Monuments</item>
+                    <item xml:id="ch081" n="279">81. - L'Exposition</item>
+                    <item xml:id="ch082" n="283">82. - Pierre, bronze, fer</item>
+                    <item xml:id="ch083" n="286">83. - Triomphe du travail</item>
+                    <item xml:id="ch084" n="290">84. - Denis Papin</item>
+                    <item xml:id="ch085" n="292">85. - Fulton</item>
+                    <item xml:id="ch086" n="295">86. - Peinture</item>
+                    <item xml:id="ch087" n="302">87. - Les fraises du bois joli</item>
+                    <item xml:id="ch088" n="304">88. - En volei!</item>
+                    <item xml:id="ch089" n="307">89. - Le pays de Gargantua</item>
+                    <item xml:id="ch090" n="312">90. - Fleurs et verdures</item>
+                    <item xml:id="ch091" n="315">91. - Asperges d'Argenteuil</item>
+                    <item xml:id="ch092" n="318">92. - Trop cer</item>
+                    <item xml:id="ch093" n="322">93. - Costumes</item>
+                    <item xml:id="ch094" n="325">94. - Coiffures</item>
+                    <item xml:id="ch095" n="328">95. - La reine Isabeau</item>
+                    <item xml:id="ch096" n="332">96. - Robe neuve</item>
+                    <item xml:id="ch097" n="335">97. - Machine à coudre</item>
+                    <item xml:id="ch098" n="339">98. - Barthélemy Thimonier</item>
+                    <item xml:id="ch099" n="344">99. - Marionnettes</item>
+                    <item xml:id="ch100" n="348">100. - Explications</item>
+                    <item xml:id="ch101" n="350">101. - Une nouvelle connaissance</item>
+                    <item xml:id="ch102" n="355">102. - Un Américain</item>
+                    <item xml:id="ch103" n="358">103. - Un grand magasin</item>
+                    <item xml:id="ch104" n="363">104. - L'école professionnelle</item>
+                    <item xml:id="ch105" n="367">105. - Jeunes travailleuses</item>
+                    <item xml:id="ch106" n="372">106. - Au Jardin d'acclimatation</item>
+                    <item xml:id="ch107" n="375">107. - La basse-cour</item>
+                    <item xml:id="ch108" n="378">108. - Heureuses gens</item>
+                    <item xml:id="ch109" n="382">109. - La vacherie</item>
+                    <item xml:id="ch110" n="387">110. - Le rucher</item>
+                    <item xml:id="ch111" n="391">111. - Notre amie l'abeille</item>
+                    <item xml:id="ch112" n="393">112. - Un stimulant</item>
+                    <item xml:id="ch113" n="396">113. - Le retour</item>
+                    <item xml:id="ch114" n="400">114. - Un cadeau</item>
+                    <item xml:id="ch115" n="404">115. - Apiculture</item>
+                    <item xml:id="ch116" n="408">116. - Joli succès</item>
+                    <item xml:id="ch117" n="410">117. - La conscription</item>
+                    <item xml:id="ch118" n="413">118. - Les bras longs</item>
+                    <item xml:id="ch119" n="417">119. - Chez le député</item>
+                    <item xml:id="ch120" n="420">120. - La France!</item>
+                    <item xml:id="ch121" n="424">121. - Nous entrerons dans la carrière</item>
+                    <item xml:id="ch122" n="428">122. - Après le départ</item>
+                    <item xml:id="ch123" n="430">123. - Un début</item>
+                    <item xml:id="ch124" n="434">124. - Pauvre remplaçant</item>
+                    <item xml:id="ch125" n="437">125. - L'étoffe d'un honnête homme</item>
+                    <item xml:id="ch126" n="441">126. - Un mariage</item>
+                    <item xml:id="ch127" n="445">127. - Vingt sous!</item>
+                    <item xml:id="ch128" n="449">128. - Les Trois Agaces</item>
+                    <item xml:id="ch129" n="452">129. - Le Galibis</item>
+                    <item xml:id="ch130" n="456">130. - Terrible scène</item>
+                    <item xml:id="ch131" n="459">131. - Conscience et volonté</item>
+                    <item xml:id="ch132" n="463">132. - Une arrivée</item>
+                    <item xml:id="ch133" n="467">133. - Un départ</item>
+                    <item xml:id="ch134" n="469">134. - Plaisirs des champs</item>
+                    <item xml:id="ch135" n="473">135. - Affaires de cuisine et de famille</item>
+                    <item xml:id="ch136" n="478">136. - Extraits des lettres de Jacques</item>
+                    <item xml:id="ch137" n="483">137. - Extraits des lettres de Jacques
+                        (suite)</item>
+                    <item xml:id="ch138" n="488">138. - Mauvais temps</item>
+                    <item xml:id="ch139" n="492">139. - Il se faut entr'aider</item>
+                    <item xml:id="ch140" n="496">140. - En taillant une layette</item>
+                    <item xml:id="ch141" n="502">141. - Quatre lavandières</item>
+                    <item xml:id="ch142" n="508">142. - Un sauvetage</item>
+                    <item xml:id="ch143" n="512">143. - Salut à la fermière!</item>
+                    <item xml:id="ch144" n="">144. - Trois ans après</item>
+                </list>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fr">French</language>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="chapter" xml:lang="fr" corresp="#ch027">
+                <head type="chapter">27. — L'aveu. (Élève, p. 65.)</head>
+                <pb type="page" n="96"/>
+                <div2 type="student_edition">
+
+                    <!-- there are three div3 types: recit, questionnaire, and sujets. We can add to these if necessary. They apply to both student and teacher editions -->
+                    <div3 type="récit">
+                        <p>Elle suivit Mme Valon que s'en allait, et, toute honteuse, les larmes aux yeux :</p>
+                        <sp>
+                            <speaker>Suzette</speaker>
+                            <p>— Ah ! Madame, dit-elle, pourquoi ne suis-je pas allée hier vous demander conseil ? Quelle chose terrible que l'ignorance ! J'ai un aveu *<gloss>Aveu. Action de dire ce qu'on a fait de mal.</gloss> à vous faire.</p>
+                        </sp>
+                        
+                        <p>Elle conta toute son aventure avec la bohémienne, depuis l'aumône du morceau de pain et l'apparition de la chouette jusqu'à l'escroquerie *<gloss>Escroquerie. Action de prendre ou d'obtenir quelque chose par tromperie.</gloss> des cinq francs et du foulard :</p>
+                        <sp>
+                            <speaker>Suzette</speaker>
+                            <p>— Et j'ai donné rendez-vous pour ce soir, à la brune, sous ces arbres.</p>
+                        </sp>
+                        
+                        <p>Elle montra l'endroit.</p>
+                        <sp>
+                            <speaker>Mme_Valon</speaker>
+<p>                            — Comment ! s'écria Mme Valon, c'est vous, Mademoiselle Suzette, qui, sans compter la toile d'araignée et le cataplasme de pigeon, avez fait cela ! Vous, qui en êtes encore à ces folies, à ces sottises ! Hier, tu avais donc mis ton esprit sous tes pieds ?</p>
+                        </sp>
+                        
+                        <sp>
+                            <speaker>Suzette</speaker>
+                            <p>— Je croyais mon frère bien malade, et cette chouette m'a tant épouvantée !</p>
+                        </sp>
+                        <sp>
+                            <speaker> Mme_Valon</speaker>
+                            <p>— Oui, la peur est la mère de la superstition. Tu n'ignorais pourtant pas que la chouette a comme les autres oiseaux, un estomac à remplir, par conséquent une chasse quotidienne *<gloss>Quotidien, diurne. Qui a lieu chaque jour, pendant le jour.</gloss> à faire. Cette chasse, elle la fait la nuit, ne voyant clair qu'à ce moment, et elle nous débarrasse des souris, des rats, des mulots et autres noctambules *<gloss>Noctambule. Celui qui circule ou travaille pendant la nuit.</gloss> pillards de grains et de semences. Les pauvres hiboux, petits et gros, sont des bienfaiteurs de l'agriculture ; et ces braves gens dont, à cause de leur cécité * pendant le jour, tous les oiseaux diurnes * se moquent, et qu'ils pourchassent à coups de bec, nous, nous en</p>
+                        </sp>
+                        <fw type="header">L"AVEU 97</fw>
+                        <pb type="page" n="97"/>
+                            <sp>
+                                <speaker>Mme_Valon</speaker>
+                                <p>avons peur ! Tu as lu un jour en classe que les Grecs autrefois honoraient le hibou jusqu'à le mettre comme un emblème *<gloss>Emblème. Figure d'un objet qui rappelle une sentence.</gloss> sur le casque de leur déesse de la sagesse, Minerve.</p></sp>
+                            <sp>
+                                <speaker>Suzette</speaker>
+                                <p>— Oui, je me rappelle.</p>
+                            </sp>
+                            <sp>
+                                <speaker>Mme_Valon</speaker>
+                                <p>— C'est bien la peine ! Après les Grecs, voilà où nous en sommes aujourd'hui ! Ce n'est pas flatteur pour notre temps... Et cette bohémienne mendiante et voleuse, par
+                            qui tu te laisses mener comme un toton*<gloss>Toton. Dé traversé par une cheville et que l'on fait tourner.</gloss>, est-ce encore joli, cela? est-ce intelligent?</p></sp>
+                        <figure type="sujets">
+                            <caption> <hi rend="italic"> Le Hibou. </hi><lb/>
+                                Cet oiseau de proie ne se montre que la nuit. Comme la chouette, il détruit quantité de rats et de rongeurs.</caption>
+                        </figure>
+                            <cb/>
+                            <figure type="sujets">
+                                <caption> <hi rend="italic"> Rats et mulot. </hi><lb/>
+                                    Les rats et les mulots sont des animaux nuisibles qui mangent les récoltes, les grains, la paille, la farine, les fruits, les papiers, etc., et qu'il faut détruire dès qu’on s'aperçoit de leur présence.</caption>
+                            </figure>
+                            
+                        <sp>
+                                <speaker>Suzette</speaker>
+                                <p>— J'étais si triste ! murmura Suzette.</p>
+                            </sp>
+                            <sp>
+                                <speaker>Mme_Valon</speaker>
+                                <p>— Cinq francs, un foulard perdus ! J'espère bien que ce soir tu iras lui porter tes bas, tes bottines, ta robe du dimanche, la fameuse robe vert-bouteille, et tout l'argent de la maison !</p>
+                            </sp>
+                            <sp>
+                                <speaker>Suzette</speaker>
+                                <p>— Je n'irai pas, Madame.</p>
+                            </sp>
+                            <p>Après une minute, Mme Valon reprit, cette fois sérieusement :</p>
+                            <sp>
+                                <speaker>Mme_Valon</speaker>
+                                <p>— Si, il faut y aller.</p>
+                            </sp>
+                        
+                            <sp>
+                                <speaker>Suzette</speaker>
+                                <p>— Ah ?</p>
+                            </sp>
+                        
+                            <sp>
+                                <speaker>Mme_Valon</speaker>
+                                <p>— Oui, et sois sans crainte. Sous ces arbres là-bas, n'est-ce pas ? et à la brune, m’as-tu dit ?</p>
+                            </sp>
+                        <fw type="footer">Suzette (Maîtresse) <fw type="sig">6</fw></fw>
+                        
+                        <fw type="header">98 Suzette. </fw>
+                        <pb type="page" n="98"/>                        
+                          
+                          <sp>
+                              <speaker>Suzette</speaker>
+                              <p>— Oui, Madame.</p>
+                          </sp>
+                          <sp>
+                              <speaker>Mme_Valon</speaker>
+                              <p>— Bon, cela suffit.</p>
+                          </sp>
+                    </div3>
+                </div2>
+                <div2 type="teacher_edition">
+                    <div3 type="questionnaire">
+                        <head>Questionnaire.</head>
+                        <list>
+                       
+                          <item>— Comment Suzette annonça-t-elle à Mme Valon l'aveu qu'elle se proposait de faire ?</item>
+                            <item>— Que lui conta-t-elle ?</item> 
+                            <item>— Quelles observations lui furent adressées par madame l'institutrice ?</item>
+                            <item>— Que dit cette dernière sur la chouette et le hibou ? — Pour quelle
+                          raison <cb/>
+                                ces oiseaux chassent-ils leur proie durant la nuit ?</item>
+                            <item>— Quel était l'oiseau de la déesse Minerve ?</item>
+                            <item>— Qu'ajouta Mme Valon d'un ton ironique, au sujet de l'argent donné à la bohémienne et du foulard ?</item>
+                            <item>— Quel conseil donna-t-elle finalement à la jeune fille ?</item>
+                        </list>
+                    </div3>
+                </div2>
+                <div2 type="student_edition">
+                    <head>DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES</head>
+                    
+                    <div3 type="sujets" subtype="morale">
+                        <head> Morale.</head>
+                        <list type="exercices">
+                            
+                          <item>— Que doit faire un enfant qui a commis une faute ?</item>
+                            <item>— Pourquoi est-ce le meilleur parti ?</item>
+                            <item>— Une faute a été commise en classe, toutes les élèves ont été punies ; que doit faire la coupable ?</item>
+                        </list>
+                    </div3>
+                </div2>
+                
+                <div2 type="teacher_edition">
+                    <div3 type="sujets" subtype="morale">
+                          <p>Une enfant qui a commis une faute doit l'avouer soit à ses parents, soit à une amie, soit à son institutrice, pour qu'ils lui facilitent les moyens de la réparer. Elle éprouvera ainsi un véritable soulagement ; il lui semblera qu'un poids énorme lui a été enlevé sur le cœur ; elle se sentira plus digne d'estime. L'aveu des fautes, a dit un sage, ne coûte guère à ceux qui ont le véritable désir de les réparer.</p>
+                          <p>C'est d'ailleurs le meilleur parti à prendre. L'auteur d'une faute est tôt ou tard reconnu, et alors, à l'humiliation d'un aveu tardif, s'ajoute le sentiment de la lâcheté qu'il y a à laisser soupçonner autrui.</p>
+                         <p> Il peut arriver qu'à l'occasion d'une faute grave commise à l'école, et dont l'autour est inconnu, la maîtresse soit obligée d'en venir à infliger une punition générale. Si la coupable n'est pas dépourvue de bons sentiments, elle doit aller demander la levée de la punition en se désignant pour la subir seule. Sans doute, elle sera l'objet d'une mesure sévère, mais du moins elle n'aura pas une bassesse à se reprocher.</p>
+                    </div3>
+                </div2>
+                
+                <div2 type="student_edition">
+                    <div3 type="sujets" subtype="sciences_naturelle">
+                        <head>Sciences naturelles.</head>
+                        <list type="exercices">
+                            <item>— Faites successivement le portrait de la souris, du rat, du mulot.</item>
+                            <item>— Où et de quoi vivent-ils ?</item>
+                            <item>— Pourquoi les appelle-t-on rongeurs ?</item>
+                            <item>— Quel préjudice nous causent-ils ?</item>
+                            <item>— Quels oiseaux leur donnent la chasse ?</item>
+                            <item>— Tirez une conclusion de ce fait.</item>
+                            <item>— Que sont les gens qui prennent au piège ces oiseaux et les clouent aux portes des granges ou des écuries ? — Pourquoi ?</item>
+                        </list>
+                    </div3>
+                </div2>
+                
+                <div2 type="teacher_edition">
+                    <div3 type="sujets" subtype="sciences_naturelle">
+                        <p><rs ref="">La souris</rs> est un petit quadrupède de 8 à 10 centimètres de longueur au pelage gris cendré, muni d'une longue queue et dont la bouche est armée d'incisives tranchantes. Elle a les mouvements vifs, gracieux et se défend courageusement contre ses nombreux ennemis, dont le plus redoutable est le chat. Elle fait sa demeure entre les planchers et, de préférence, dans les murailles des greniers et des granges.</p>
+                        <p><rs ref="">Le rat</rs> ressemble beaucoup à la souris, mais avec des dimensions 3 ou 4 fois plus considérables. Il habite dans tous les lieux : maisons, granges, vergers, champs, égouts, bords des ruisseaux, et commet de grands ravages parmi les récoltes et les provisions amassées. Il se multiplie parfois en tel nombre qu'il devient un véritable fléau.</p>
+                        <p><rs ref="">Le mulot</rs> est une espèce de souris qui vit dans les champs ; il creuse de longues galeries sous les sillons et y amasse des grains pour sa provision d'hiver.</p>
+                        <p>Ces quadrupèdes appartiennent à l'ordre des rongeurs dont l'animal le plus intéressant est <rs ref="">le castor</rs>, si connu par sa fourrure et les habi-</p>
+                                
+                        <fw type="header">SOUS LES ARBRES 99</fw>
+                        <pb type="page" n="99"/>
+                        
+                        <p>tations qu'il sait se construire sur le bord des eaux. Tous rongent ce qui est à portée de leurs dents, et sont des ennemis redoutables pour l'homme.</p>
+                        <p>Les chouettes, les hiboux et les autres oiseaux de nuit font une guerre acharnée à ces bêtes malfaisantes. Sans leur concours, il serait presque impossible de recueillir les fruits et les céréales. Aussi considère-t-on comme une chose insensée que de pourchasser et de tuer ces utiles animaux ; le dernier degré de la stupidité est de les clouer aux portes des granges comme on le fait dans les campagnes.</p>
+                    </div3>
+                </div2>
+                
+                <div2 type="student_edition">
+                    <div3 type="sujets" subtype="français">
+                        <head>Français.</head>
+                        <list>
+                        <item>— A quels noms se rattachent les adjectifs honteux, terrible, diurne, quotidien, voleur, clair, intelligent ?</item> 
+                            <item>— Quels adjectifs correspondent à ignorance, aveu, pain, folie, superstition, peur, peine, argent, crainte ?</item>
+                        </list>
+                    </div3>
+                </div2>
+                
+                <div2 type="teacher_edition">
+                <div3 type="sujets" subtype="français">
+                        <p>Honteux se rattache à honte ; — terrible, à terreur ; — diurne, à jour ; — quotidien, à un mot latin qui veut dire chaque et à jour (dies) ; — voleur, à vol ; — clair, à clarté ; — intelligent, à intelligence.</p>
+                       <p>A ignorance correspond l'adjectif ignorant ; — à aveu, avouable ; — à pain, pané ; — à folie, fou ; — à superstition, superstitieux ; — à peur, peureux ; — à peine, pénible ; — à argent, argentin ; — à crainte, craintif.</p>
+                </div3>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>
+           
+                    
+                       
+
+
+
