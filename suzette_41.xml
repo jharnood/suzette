@@ -6,21 +6,26 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Suzette: a Digital Edition - Chapter 41</title>
+            <title type="main">Suzette: a Digital Edition</title>
             <respStmt>
                <persName>John Westbrook</persName>
                <orgName>Bucknell University</orgName>
                <resp>Editor</resp>
             </respStmt>
             <respStmt>
-               <persName>Annie Girton</persName>
+               <persName>Sarah Haber</persName>
                <orgName>Bucknell University</orgName>
-               <resp>Research Assistant and Encoder</resp>
+               <resp>Research Assistant and Encoder, 2020 - Present</resp>
             </respStmt>
             <respStmt>
                <persName xml:id="JAKA1">Diane Jakacki</persName>
                <orgName>Bucknell University</orgName>
-               <resp>Project Manager</resp>               
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Annie Girton</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and Encoder, 2018-2020</resp>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -38,7 +43,9 @@
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles. Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine – Couture</title>
+                  <title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles.
+                     Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine –
+                     Couture</title>
                   <author>Robert Halt</author>
                   <textLang>French</textLang>
                   <imprint>
@@ -48,594 +55,387 @@
                   </imprint>
                </monogr>
             </biblStruct>
+            <list>
+               <item xml:id="ch001" n="1">1. A l'abandon</item>
+               <item xml:id="ch002" n="5">2. Le grillon du foyer</item>
+               <item xml:id="ch003" n="8">3. Oú est la maman?</item>
+               <item xml:id="ch004" n="11">4. La femme de la caverne</item>
+               <item xml:id="ch005" n="15">5. Le bon chemin</item>
+               <item xml:id="ch006" n="19">6. Monsieur François est un homme!</item>
+               <item xml:id="ch007" n="22">7. Le petit hèroïsme</item>
+               <item xml:id="ch008" n="26">8. Tenons bon!</item>
+               <item xml:id="ch009" n="29">9. La clef du trésor</item>
+               <item xml:id="ch010" n="33">10. Grosse affaire</item>
+               <item xml:id="ch011" n="37">11. La petite hirondelle</item>
+               <item xml:id="ch012" n="41">12. On se débarhouille</item>
+               <item xml:id="ch013" n="44">13. Une bonne idée</item>
+               <item xml:id="ch014" n="47">14. Brunehaut</item>
+               <item xml:id="ch015" n="51">15. - La charte du comte Herbert</item>
+               <item xml:id="ch016" n="56">16. - Hésitations</item>
+               <item xml:id="ch017" n="61">17. - Tout laine</item>
+               <item xml:id="ch018" n="64">18. - Laine et coton</item>
+               <item xml:id="ch019" n="69">19. - Où ira Jacques?</item>
+               <item xml:id="ch020" n="72">20. - La veille du départ</item>
+               <item xml:id="ch021" n="75">21. - Une lettre de Jacques</item>
+               <item xml:id="ch022" n="78">22. - Un éteignoir à chandelle</item>
+               <item xml:id="ch023" n="81">23. - Le secret de Ludivine</item>
+               <item xml:id="ch024" n="85">24. - La bohémienne</item>
+               <item xml:id="ch025" n="90">25. - Un peu de lumière</item>
+               <item xml:id="ch026" n="93">26. - De l'eau!</item>
+               <item xml:id="ch027" n="96">27. - L'aveu</item>
+               <item xml:id="ch028" n="99">28. - Sous les arbres</item>
+               <item xml:id="ch029" n="102">29. - Grands projets</item>
+               <item xml:id="ch030" n="106">30. - Vive le blé de France!</item>
+               <item xml:id="ch031" n="110">31. - Le prince Kang-Hi</item>
+               <item xml:id="ch032" n="113">32. - Sélection</item>
+               <item xml:id="ch033" n="116">33. - Au feu!</item>
+               <item xml:id="ch034" n="120">34. - Enfant perdu</item>
+               <item xml:id="ch035" n="123">35. - Le chien Castor</item>
+               <item xml:id="ch036" n="125">36. - Pauvre petit!</item>
+               <item xml:id="ch037" n="129">37. - Fraternité</item>
+               <item xml:id="ch038" n="132">38. - Le nid familial</item>
+               <item xml:id="ch039" n="135">39. - La pièce de cent sous</item>
+               <item xml:id="ch040" n="138">40. - A l'oeuvre</item>
+               <item xml:id="ch041" n="142">41. - Veillons au grain</item>
+               <item xml:id="ch042" n="146">42. - Luttons!</item>
+               <item xml:id="ch043" n="150">43. - Cours, mon aiguille!</item>
+               <item xml:id="ch044" n="153">44. - Le vieil habit vert</item>
+               <item xml:id="ch045" n="157">45. - Veste, gilet, calotte</item>
+               <item xml:id="ch046" n="160">46. - Hier et aujourd'hui</item>
+               <item xml:id="ch047" n="163">47. - Récolte</item>
+               <item xml:id="ch048" n="168">48. - Au marché</item>
+               <item xml:id="ch049" n="171">49. - Il faut s'ingénier</item>
+               <item xml:id="ch050" n="174">50. - Faisons nos comptes</item>
+               <item xml:id="ch051" n="177">51. - Au gui l'an neuf!</item>
+               <item xml:id="ch052" n="181">52. - A table</item>
+               <item xml:id="ch053" n="185">53. - Au dessert</item>
+               <item xml:id="ch054" n="187">54. - Petits cochons de lait</item>
+               <item xml:id="ch055" n="191">55. - Les explorateurs</item>
+               <item xml:id="ch056" n="195">56. - Qui sont-ils?</item>
+               <item xml:id="ch057" n="199">57. - La tempête</item>
+               <item xml:id="ch058" n="201">58. - Un marché d'esclaves</item>
+               <item xml:id="ch059" n="206">59. - M. Pascal parle arabe</item>
+               <item xml:id="ch060" n="208">60. - A travers les jungles</item>
+               <item xml:id="ch061" n="212">61. - Un baobab</item>
+               <item xml:id="ch062" n="215">62. - Le pays de la peur</item>
+               <item xml:id="ch063" n="219">63. - Le simocaractères non reproduitsn</item>
+               <item xml:id="ch064" n="222">64. - Sous la tente</item>
+               <item xml:id="ch065" n="226">65. - Vivent les explorateurs!</item>
+               <item xml:id="ch066" n="231">66. - La montre d'argent</item>
+               <item xml:id="ch067" n="233">67. - L'interrogatoire</item>
+               <item xml:id="ch068" n="236">68. - Toute la vérité</item>
+               <item xml:id="ch069" n="239">69. - Le neveu</item>
+               <item xml:id="ch070" n="242">70. - Heureux foyer</item>
+               <item xml:id="ch071" n="245">71. - Il y a de bonnes gens</item>
+               <item xml:id="ch072" n="248">72. - Souvenirs d'histoire</item>
+               <item xml:id="ch073" n="251">73. - La dépêche</item>
+               <item xml:id="ch074" n="255">74. - Réconciliation</item>
+               <item xml:id="ch075" n="258">75. - Le beau temps</item>
+               <item xml:id="ch076" n="261">76. - Les adieux</item>
+               <item xml:id="ch077" n="265">77. - La salle d'attente</item>
+               <item xml:id="ch078" n="269">78. - A Paris</item>
+               <item xml:id="ch079" n="272">79. - Sur la Seine</item>
+               <item xml:id="ch080" n="276">80. - Monuments</item>
+               <item xml:id="ch081" n="279">81. - L'Exposition</item>
+               <item xml:id="ch082" n="283">82. - Pierre, bronze, fer</item>
+               <item xml:id="ch083" n="286">83. - Triomphe du travail</item>
+               <item xml:id="ch084" n="290">84. - Denis Papin</item>
+               <item xml:id="ch085" n="292">85. - Fulton</item>
+               <item xml:id="ch086" n="295">86. - Peinture</item>
+               <item xml:id="ch087" n="302">87. - Les fraises du bois joli</item>
+               <item xml:id="ch088" n="304">88. - En volei!</item>
+               <item xml:id="ch089" n="307">89. - Le pays de Gargantua</item>
+               <item xml:id="ch090" n="312">90. - Fleurs et verdures</item>
+               <item xml:id="ch091" n="315">91. - Asperges d'Argenteuil</item>
+               <item xml:id="ch092" n="318">92. - Trop cer</item>
+               <item xml:id="ch093" n="322">93. - Costumes</item>
+               <item xml:id="ch094" n="325">94. - Coiffures</item>
+               <item xml:id="ch095" n="328">95. - La reine Isabeau</item>
+               <item xml:id="ch096" n="332">96. - Robe neuve</item>
+               <item xml:id="ch097" n="335">97. - Machine à coudre</item>
+               <item xml:id="ch098" n="339">98. - Barthélemy Thimonier</item>
+               <item xml:id="ch099" n="344">99. - Marionnettes</item>
+               <item xml:id="ch100" n="348">100. - Explications</item>
+               <item xml:id="ch101" n="350">101. - Une nouvelle connaissance</item>
+               <item xml:id="ch102" n="355">102. - Un Américain</item>
+               <item xml:id="ch103" n="358">103. - Un grand magasin</item>
+               <item xml:id="ch104" n="363">104. - L'école professionnelle</item>
+               <item xml:id="ch105" n="367">105. - Jeunes travailleuses</item>
+               <item xml:id="ch106" n="372">106. - Au Jardin d'acclimatation</item>
+               <item xml:id="ch107" n="375">107. - La basse-cour</item>
+               <item xml:id="ch108" n="378">108. - Heureuses gens</item>
+               <item xml:id="ch109" n="382">109. - La vacherie</item>
+               <item xml:id="ch110" n="387">110. - Le rucher</item>
+               <item xml:id="ch111" n="391">111. - Notre amie l'abeille</item>
+               <item xml:id="ch112" n="393">112. - Un stimulant</item>
+               <item xml:id="ch113" n="396">113. - Le retour</item>
+               <item xml:id="ch114" n="400">114. - Un cadeau</item>
+               <item xml:id="ch115" n="404">115. - Apiculture</item>
+               <item xml:id="ch116" n="408">116. - Joli succès</item>
+               <item xml:id="ch117" n="410">117. - La conscription</item>
+               <item xml:id="ch118" n="413">118. - Les bras longs</item>
+               <item xml:id="ch119" n="417">119. - Chez le député</item>
+               <item xml:id="ch120" n="420">120. - La France!</item>
+               <item xml:id="ch121" n="424">121. - Nous entrerons dans la carrière</item>
+               <item xml:id="ch122" n="428">122. - Après le départ</item>
+               <item xml:id="ch123" n="430">123. - Un début</item>
+               <item xml:id="ch124" n="434">124. - Pauvre remplaçant</item>
+               <item xml:id="ch125" n="437">125. - L'étoffe d'un honnête homme</item>
+               <item xml:id="ch126" n="441">126. - Un mariage</item>
+               <item xml:id="ch127" n="445">127. - Vingt sous!</item>
+               <item xml:id="ch128" n="449">128. - Les Trois Agaces</item>
+               <item xml:id="ch129" n="452">129. - Le Galibis</item>
+               <item xml:id="ch130" n="456">130. - Terrible scène</item>
+               <item xml:id="ch131" n="459">131. - Conscience et volonté</item>
+               <item xml:id="ch132" n="463">132. - Une arrivée</item>
+               <item xml:id="ch133" n="467">133. - Un départ</item>
+               <item xml:id="ch134" n="469">134. - Plaisirs des champs</item>
+               <item xml:id="ch135" n="473">135. - Affaires de cuisine et de famille</item>
+               <item xml:id="ch136" n="478">136. - Extraits des lettres de Jacques</item>
+               <item xml:id="ch137" n="483">137. - Extraits des lettres de Jacques (suite)</item>
+               <item xml:id="ch138" n="488">138. - Mauvais temps</item>
+               <item xml:id="ch139" n="492">139. - Il se faut entr'aider</item>
+               <item xml:id="ch140" n="496">140. - En taillant une layette</item>
+               <item xml:id="ch141" n="502">141. - Quatre lavandières</item>
+               <item xml:id="ch142" n="508">142. - Un sauvetage</item>
+               <item xml:id="ch143" n="512">143. - Salut à la fermière!</item>
+               <item xml:id="ch144" n="">144. - Trois ans après</item>
+            </list>
          </sourceDesc>
       </fileDesc>
-           <profileDesc>
-         <langUsage>
-            <language ident="fra">French</language>
-            <language ident="eng">English</language>
-         </langUsage>
-      </profileDesc>
-          <encodingDesc>
-         <charDecl>
-            <char>
-               <charName xml:id="les_dumay">La Famille Dumay</charName>
-            </char>
-            <char>
-               <charName xml:id="suzette">Suzette</charName>
-            </char>
-            <char>
-               <charName xml:id="papa">Papa</charName>
-            </char>
-            <char>
-               <charName xml:id="la_maman">La maman</charName>
-            </char>
-            <char>
-               <charName xml:id="jacques">Jacques</charName>            
-            </char>
-            <char>
-               <charName xml:id="francois">François</charName>
-            </char>
-            <char>
-               <charName xml:id="charlot">Charlot</charName>
-            </char>
-            <char>
-               <charName xml:id="mathias_dumay">Mathias Dumay</charName>
-            </char>
-            <char>
-               <charName xml:id="mme_richard">Mme Richard</charName>
-            </char>
-            <char>
-               <charName xml:id="louis">Louis</charName>
-            </char>
-            <char>
-               <charName xml:id="pascal">Pascal</charName>
-            </char>
-            <char>
-               <charName xml:id="marthe">Marthe</charName>
-            </char>
-            <char>
-               <charName xml:id="sylvain">Sylvain</charName>
-            </char> 
-            <char>
-               <charName xml:id="mme_valon">Mme Valon</charName>
-            </char>
-            <char>
-               <charName xml:id="m_valon">M. Valon</charName>
-            </char>
-            <char>
-               <charName xml:id="mme_lienard">Mme Liénard</charName>
-            </char>
-            <char>
-               <charName xml:id="ludivine">Ludivine</charName>
-            </char> 
-            <char>
-               <charName xml:id="m_lejoly">M. Lejoly</charName>
-            </char>
-            <char>
-               <charName  xml:id="m_cartier">M. Cartier</charName>
-            </char>
-            <char>
-               <charName xml:id="jeanne">Jeanne</charName>
-            </char>
-            <char>
-               <charName xml:id="madeleine">Madeleine</charName>
-            </char>
-            <char>
-               <charName xml:id="l_apiculteur">L'apiculteur</charName>
-            </char>
-            <char>
-               <charName xml:id="la_bohemienne">La bohémienne</charName>
-            </char>
-            <char>
-               <charName xml:id="la_flamande">La Flamande</charName>
-            </char>
-         </charDecl>
-         <classDecl>
-            <taxonomy xml:id="classification">
-               <category xml:id="morale">
-                  <catDesc>Morale</catDesc>
-                  <category xml:id="enfantFamille">
-                     <catDesc>L'enfant dans la famille</catDesc>
-                  </category>
-                  <category xml:id="devoirsFreresSoeurs">
-                     <catDesc>Devoirs des frères et sœurs</catDesc>
-                  </category>
-                  <category xml:id="devoirsServiteurs">
-                     <catDesc>Devoirs envers les serviteurs</catDesc>
-                  </category>
-                  <category xml:id="enfantEcole">
-                     <catDesc>L'enfant dans l'école</catDesc>
-                  </category>
-                  <category xml:id="patrie">
-                     <catDesc>La patrie</catDesc>
-                  </category>
-                  <category xml:id="devoirsSoiMeme">
-                     <catDesc>Devoirs envers soi-même</catDesc>
-                  </category>
-                  <category xml:id="biensExterieurs">
-                     <catDesc>Les biens extérieurs</catDesc>
-                  </category>
-                  <category xml:id="ame">
-                     <catDesc>L'âme</catDesc>
-                  </category>
-                  <category xml:id="devoirsSemblables">
-                     <catDesc>Devoirs envers nos semblables</catDesc>
-                  </category>
-                  <category xml:id="devoirsDieu">
-                     <catDesc>Devoirs envers Dieu</catDesc>
-                  </category>
-               </category>
-               <category xml:id="instructionCivique">
-                  <catDesc>Instruction civique</catDesc>
-               </category>
-               <category xml:id="civilite">
-                  <catDesc>Civilité</catDesc>
-               </category>
-               <category xml:id="francais">
-                  <catDesc>Français</catDesc>
-               </category>
-               <category xml:id="composition">
-                  <catDesc>Composition</catDesc>
-                  <!--In the book Composition is followed by an (1); should that be included?-->
-                  <category xml:id="recits">
-                     <catDesc>Récits</catDesc>
-                  </category>
-                  <category xml:id="recitsHistoriques">
-                     <catDesc>Récits historiques</catDesc>
-                  </category>
-                  <category xml:id="descriptions">
-                     <catDesc>Descriptions</catDesc>
-                  </category>
-                  <category xml:id="sujetsMoraux">
-                     <catDesc>Sujets moraux ou d'imagination</catDesc>
-                  </category>
-                  <category xml:id="lettres">
-                     <catDesc>Lettres</catDesc>
-                  </category>
-               </category>
-               <category xml:id="histoire">
-                  <catDesc>Histoire</catDesc>
-                  <!--<category xml:id="histoireNaturelle">
-                     <catDesc>Histoire naturelle</catDesc>
-                  </category>
-                  <category xml:id="histoireTravail">
-                     <catDesc>Histoire du travail</catDesc>
-                  </category>-->
-               </category>
-               <category xml:id="geographie">
-                  <catDesc>Géographie</catDesc>
-                  <category xml:id="europe">
-                     <catDesc>Europe</catDesc>
-                  </category>
-                  <category xml:id="asie">
-                     <catDesc>Asie</catDesc>
-                  </category>
-                  <category xml:id="afrique">
-                     <catDesc>Afrique</catDesc>
-                  </category>
-                  <category xml:id="amerique">
-                     <catDesc>Amérique</catDesc>
-                  </category>
-                  <category xml:id="oceanie">
-                     <catDesc>Océanie</catDesc>
-                  </category>
-                  <category xml:id="france">
-                     <catDesc>France</catDesc>
-                  </category>
-                <!--  <category xml:id="topographie">
-                     <catDesc>Topographie</catDesc>
-                  </category>-->
-               </category>
-               <category xml:id="scienceNat">
-                  <catDesc>Science Naturelles</catDesc>
-                  <!--<category xml:id="geologie">
-                     <catDesc>Géologie</catDesc>
-                  </category>-->
-                     <category xml:id="mineraux">
-                        <catDesc>Minéraux</catDesc>
-                     </category>
-                     <!--In the book Minéraux is followed by ",etc."; should that be included?-->
-                  <!--<category xml:id="botanique">
-                     <catDesc>Botanique</catDesc>-->
-                     <category xml:id="vegetaux">
-                        <catDesc>Végétaux</catDesc>
-                        <!--All of the sub-categories following this are numbered; should that be included?-->
-                        <category xml:id="arbreNoncultives">
-                           <catDesc>Arbres non cultivés</catDesc>
-                        </category>
-                        <category xml:id="herbesPlantes">
-                           <catDesc>Herbes ou plantes sauvages</catDesc>
-                        </category>
-                        <category xml:id="arbreCultives">
-                           <catDesc>Arbres cultivés</catDesc>
-                        </category>
-                        <category xml:id="arbustes">
-                           <catDesc>Arbustes cultivés</catDesc>
-                        </category>
-                        <category xml:id="cereales">
-                           <catDesc>Céréales</catDesc>
-                        </category>
-                        <category xml:id="legumesRacines">
-                           <catDesc>Légumes, racines, etc.</catDesc>
-                        </category>
-                        <category xml:id="divers1"><!-- Avoid tagging with Divers - if necessary, create another sub-category -->
-                           <catDesc>Divers</catDesc>
-                        </category> 
-                     </category>
-                     <!--<category xml:id="physiologieVegetale">
-                        <catDesc>Physiologie végétale</catDesc>
-                     </category>-->
-                  <!--</category>-->
-                 <!-- <category xml:id="zoologie">
-                     <catDesc>Zoologie</catDesc>-->
-                     <category xml:id="animaux">
-                        <catDesc>Animaux</catDesc>
-                        <!--All of the sub-categories following this are numbered; should that be included?-->
-                        <category xml:id="homme">
-                           <catDesc>l'Homme</catDesc>
-                        </category> <!--Homme wouldn't go under zoologie.. could we seperate it or rename this category?-->
-                        <category xml:id="animauxDomestiques">
-                           <catDesc>Animaux domestiques</catDesc>
-                        </category>
-                        <category xml:id="animauxSauvages">
-                           <catDesc>Animaux sauvages</catDesc>
-                        </category>
-                     </category>
-                     <!--<category xml:id="physiologieAnimal">
-                        <catDesc>Physiologie animaux</catDesc>
-                     </category>-->
-                  <!--</category>-->
-                  <!--<category xml:id="agriculture">
-                     <catDesc>Agriculture</catDesc>
-                     <category xml:id="techniquesAgricoles">
-                        <catDesc>Techniques agricoles</catDesc>
-                     </category>
-                     <category xml:id="produits">
-                        <catDesc>Produits</catDesc>
-                     </category>
-                     <category xml:id="outilsMachines">
-                        <catDesc>Outils et machines</catDesc>
-                     </category>
-                     <category xml:id="recolte">
-                        <catDesc>Récolte</catDesc>
-                     </category>
-                     <category xml:id="elevageBetail">
-                        <catDesc>Élevage de bétail</catDesc>
-                     </category>
-                     <category xml:id="terrainAgricole">
-                        <catDesc>Terrain agricole</catDesc>
-                     </category>
-                     <category xml:id="apiculture">
-                        <catDesc>Apiculture</catDesc>
-                     </category>
-                  </category>-->
-               </category>
-               <category xml:id="sciencesPhys">
-                  <catDesc>Notions relatives aux sciences physiques</catDesc>
-                  <!--<category xml:id="elements">
-                     <catDesc>Éléments</catDesc>-\->
-                     <category xml:id="feu">
-                        <catDesc>Feu</catDesc>
-                     </category>
-                     <!-\-Could add categories for earth/wind/air-\->
-                  </category>
-                  <category xml:id="meterologie">
-                     <catDesc>Métérologie</catDesc>-\->
-                  </category>-->
-                  <!--Category for night/day cycles, seasons?-->
-               </category>
-               <category xml:id="industrie">
-                  <catDesc>Industrie</catDesc>
-                  <category xml:id="matieresObjets">
-                     <catDesc>Matières et objets fabriqués</catDesc>
-                  </category>
-                  <category xml:id="constructions">
-                     <catDesc>Constructions</catDesc>
-                  </category>
-                  <category xml:id="machinesAppareils">
-                     <catDesc>Machines, appareils, ustensiles, vases</catDesc>
-                  </category>
-                  <!--Can outils go under machinesAppareils-->
-                  <category xml:id="outils">
-                     <catDesc>Outils</catDesc>
-                  </category>
-                  <category xml:id="etoffesHabillement">
-                     <catDesc>Étoffes, habillement</catDesc>
-                  </category>
-                  <category xml:id="divers2">
-                     <catDesc>Divers</catDesc>
-                  </category>
-               </category>
-               <category xml:id="economieDomestique">
-                  <catDesc>Économie Domestique</catDesc>
-                  <!--<category xml:id="tachesMenageres">
-                     <catDesc>Tâches ménagères</catDesc>
-                  </category>-->
-                  <category xml:id="alimentsCuisine">
-                     <catDesc>Aliments et cuisine</catDesc>
-                  </category>
-                  <category xml:id="vetements1">
-                     <catDesc>Vêtements</catDesc>
-                  </category>
-                  <category xml:id="basse-cour">
-                     <catDesc>Basse-cour</catDesc>
-                  </category>
-                  <!--Could basse-cour be combined with scienceNat/agriculture under elevageBetail?--> 
-               </category>
-               <category xml:id="hygiene">
-                  <catDesc>Hygiène</catDesc>
-                  <category xml:id="corpsHabitations">
-                     <catDesc>Corps et habitations</catDesc>
-                  </category>
-                  <category xml:id="vetements2">
-                     <catDesc>Vêtements</catDesc>
-                  </category>
-                  <category xml:id="aliments">
-                     <catDesc>Aliments</catDesc>
-                  </category>
-                  <category xml:id="maladiesRemedes">
-                     <catDesc>Maladies, etc. ; remèdes</catDesc>
-                  </category>
-               </category>
-            </taxonomy>
-         </classDecl>
-      </encodingDesc>
       <profileDesc>
-         <settingDesc>
-            <listPlace>
-               <place>
-                  <placeName xml:id="l_amerique">l'Amérique</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="l_oceanien">l'Oceanian</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="l_europe">l'Europe</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="l_afrique">l'Afrique</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="l_australie">l'Australie</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="la_france">la France</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="la_chine">la Chine</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="etats_unis">les États-Unis</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="l_arabe">l'Arabe</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="la_canada">la Canada</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="siberie">Sibérie</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="ilesEcosse">Îles d'Écosse</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="la_belgique">la Belgique</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="la_hollande">la Hollande</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="l_inde">l'Inde</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="amienois">Amiénois</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="nerac">Nérac</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="lorraine">Lorraine</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="villedieu">Villedieu</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="houdan">Houdan</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="saone_loire">Saône-et-Loire</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="fragicourt">Fragicourt</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="paris">Paris</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="saint-quentin">Saint-Quentin</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="toulouse">Toulouse</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="boulogne">Boulogne</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="beauvais">Beauvais</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="falaise">Falaise</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="creuset">Creuset</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="bruxelles">Bruxelles</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="boston">Boston</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="cochinchine">Cochinchine</placeName>
-               </place>
-               <place> 
-                  <placeName xml:id="l_avre">l'Avre
-                     <geogFeat>River</geogFeat>
-                  </placeName> 
-               </place>
-               <place>
-                  <placeName xml:id="la_moye">la Moye
-                     <geogFeat>River</geogFeat>
-                  </placeName>
-               </place>
-               <place>
-                  <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation
-                  </placeName>
-               </place>
-               <place>
-                  <placeName xml:id="ecoleAgriculture">l'École d'agriculture</placeName>
-               </place>
-            </listPlace>
-         </settingDesc>
+         <langUsage>
+            <language ident="fr">French</language>
+            <language ident="en">English</language>
+         </langUsage>
       </profileDesc>
    </teiHeader>
    <text>
       <body>
-         <!-- n is for maitresse edition, corresp is for student edition -->
-         
-         <div type="chapter" n="41">
-            <div xml:lang="fr">
-               <div type="student">
-                  
-                  <pb type="page" n="142"/>
-                  <head>41. — Veillons au grain *. (Élève, p. 90.)</head>
-         
-                  <!--No asterisk for lexique word - Veiller au grain. Faire attention à ce qui doit ou peut survenir.-->
-         
-                  <p> Et <seg ana="#scienceNat">les terres</seg> ? C'est maintenant qu'elles doivent rendre ce qu'emporta <seg ana="#industrie">le feu</seg> ! c'est maintenant qu'il faut les <seg ana="#scienceNat">ensemencer</seg>, les <seg ana="#scienceNat">soigner</seg>, les <seg ana="#scienceNat">pomponner</seg> de <seg ana="#scienceNat">la herse</seg> et de <seg ana="#scienceNat">la charrue</seg> ! </p>
-                  <p> <persName ana="#jacques">Jacques</persName> eut, par <seg ana="#scienceNat"><placeName ana="#ecoleAgriculture">l'école d'agriculture</placeName></seg>, tous les renseignements qu'il fallut. Un de ses professeurs offrit même de lui prêter une petite somme d'argent. On y joignit tout ce qu'il en restait ici. On savait que c'était argent bien placé. Et si, par aventure*<gloss>Par aventure. Par extraordinaire.</gloss>, <persName ana="papa">le papa</persName>, encore timide, s'effrayait un peu des largesses de <persName ana="#jacques">son fils</persName> avec <seg ana="#scienceNat">la terre</seg> : </p>
-                  
-                  <figure> 
-                     <caption> <hi rend="italic">Herse.</hi>
-                        <lb/>
-                        Les dents dont cet instrument d'agriculture est garni servent à arracher les racines, à rompre les mottes de terre et à en recouvrir les grains que l'on vient du semer. </caption>
+         <div1 type="chapter" xml:lang="fr" corresp="#ch041">
+
+            <head>41. — Veillons au grain *. (Élève, p. 90.)</head>
+            <pb type="page" n="142"/>
+            <div2 type="student_edition">
+               <div3 type="récit">
+
+                  <p> Et les terres ? C'est maintenant qu'elles doivent rendre ce qu'emporta le feu
+                     ! c'est maintenant qu'il faut les ensemencer, les soigner, les pomponner de la
+                     herse et de la charrue ! </p>
+                  <p> Jacques eut, par l'école d'agriculture, tous les renseignements qu'il fallut.
+                     Un de ses professeurs offrit même de lui prêter une petite somme d'argent. On y
+                     joignit tout ce qu'il en restait ici. On savait que c'était argent bien placé.
+                     Et si, par aventure* <gloss>Par aventure. Par extraordinaire.</gloss>, le papa,
+                     encore timide, s'effrayait un peu des largesses de son fils avec la terre : </p>
+
+                  <figure type="sujets">
+                     <caption>Herse.</caption>
+                     <caption>Les dents dont cet instrument d'agriculture est garni servent à
+                        arracher les racines, à rompre les mottes de terre et à en recouvrir les
+                        grains que l'on vient du semer. </caption>
                   </figure>
-                  
-                  <sp><speaker>Jacques</speaker><ab> — <persName ana="papa">Papa</persName>, répondait-il, autrefois, on ne la gâtait pas tant, mais aussi elle ne donnait guère que du <seg ana="#alimentsCuisine">pain bis</seg>. Maintenant c'est du <seg ana="#alimentsCuisine">pain blanc</seg> qu'elle <seg ana="#scienceNat">fournit</seg> ; et croyez-
-                     
-                     <pb type="page" n="143"/>   
-                     <fw type="header"> VEILLONS AU GRAIN. 143 </fw>
-         
-         vous qu'elle le livre contre <seg ana="#mineraux">des pierres</seg> ? Oui, elle doit manger, et du bon, pour que nous-mêmes nous mangions du meilleur. </ab></sp>
-                  <p> A <persName ana="#francois">François</persName> et à <persName ana="charlot">Charlot</persName>, il dénonçait <seg ana="#vegetaux">le chiendent</seg>, <seg ana="#vegetaux">la camomille</seg>, <seg ana="#vegetaux">l'ortie</seg>, <seg ana="#vegetaux">le chardon</seg>, <seg ana="#vegetaux">la fumeterre</seg> comme de terribles ennemis : </p>
-                  
-                  <figure>
-                     <caption> <hi rend="italic"><seg ana="#vegetaux">Charrue</seg>.</hi> </caption>
+
+                  <sp>
+                     <speaker>Jacques</speaker>
+                     <p> — Papa, répondait-il, autrefois, on ne la gâtait pas tant, mais aussi elle
+                        ne donnait guère que du pain bis. Maintenant c'est du pain blanc qu'elle
+                        fournit ; et croyez- <fw type="header"> VEILLONS AU GRAIN. 143 </fw>
+                        <pb type="page" n="143"/> vous qu'elle le livre contre des pierres ? Oui,
+                        elle doit manger, et du bon, pour que nous-mêmes nous mangions du meilleur.
+                     </p>
+                  </sp>
+                  <p> A François et à Charlot, il dénonçait le chiendent, la camomille, l'ortie, le
+                     chardon, la fumeterre comme de terribles ennemis : </p>
+
+                  <figure type="sujets">
+                     <caption>Charrue.</caption>
                   </figure>
-                  
-                  <sp><speaker>Jacques</speaker><ab> — Et ayez soin, quand vous les rencontrerez chez 
-                     
-                  <figure> 
-                     <caption> <hi rend="italic">1. <seg ana="#vegetaux">Chiendent</seg>. — 2. <seg ana="#vegetaux">Camomille</seg>.</hi>
-                        <lb/>
-                        <seg ana="#vegetaux">Le chiendent</seg> et <seg ana="#vegetaux">la camomille</seg> servent à faire des <seg ana="#alimentsCuisine">tisanes</seg> et des infusions ; <seg ana="#vegetaux">les racines du chiendent</seg> servent, en outre, à la fabrication des <seg ana="#machinesAppareils">brosses</seg> et des <seg ana="#machinesAppareils">balais</seg>. </caption>
+
+                  <sp>
+                     <speaker>Jacques</speaker>
+                     <p> — Et ayez soin, quand vous les rencontrerez chez <figure type="sujets">
+                           <caption>1. Chiendent. — 2. Camomille.</caption>
+                           <caption>Le chiendent et la camomille servent à faire des tisanes et des
+                              infusions ; les racines du chiendent servent, en outre, à la
+                              fabrication des brosses et des balais. </caption>
+                        </figure>
+                        <figure type="sujets">
+                           <caption>1. Coquelicots. — 2. Lacerons.</caption>
+                           <caption>Une infusion de pétales de coquelicots donne une tisane calmante
+                              et adoucissante. </caption>
+                        </figure> nous, de les arracher, d'en faire deux parts ; la première sera
+                        composée de ce qui peut servir de nourriture au bétail, comme par exemple
+                        les coquelicots, les lacerons, dont les lapins se font de bons râbles*
+                           <gloss>Râble. Dos du lapin et du lièvre, des épaules à la queue.</gloss>.
+                        La seconde, vous l'amasserez, vous la laisserez pourrir au bout du champ
+                        pour l'y répandre ensuite en fumier. </p>
+                  </sp>
+
+                  <figure type="sujets">
+                     <caption>Cabane à lapins.</caption>
                   </figure>
-                     
-                     <figure> 
-                        <caption> <hi rend="italic">1. <seg ana="#vegetaux">Coquelicots</seg>. — 2. <seg ana="#vegetaux">Lacerons</seg>.</hi>
-                           <lb/>
-                           Une infusion de <seg ana="#vegetaux">pétales de coquelicots</seg> donne <seg ana="#alimentsCuisine">une tisane</seg> calmante et adoucissante. </caption>
-                     </figure>
-                     
-                     nous, de les <seg ana="#scienceNat">arracher</seg>, d'en faire deux parts ; la première sera composée de ce qui peut servir de <seg ana="#basse-cour">nourriture au bétail</seg>, comme par exemple <seg ana="#vegetaux">les coquelicots</seg>, <seg ana="#vegetaux">les lacerons</seg>, dont <seg ana="#animauxDomestiques">les lapins</seg> se font de bons <seg ana="#animaux">râbles</seg>*<gloss>Râble. Dos du lapin et du lièvre, des épaules à la queue.</gloss>. La seconde, vous l'amasserez, vous la laisserez <seg ana="#scienceNat">pourrir</seg> au bout du <seg ana="#scienceNat">champ</seg> pour l'y répandre ensuite <seg ana="industrie">en fumier</seg>. </ab></sp>
-                     
-                     <figure>
-                        <caption> <hi rend="italic"><seg ana="#basse-cour">Cabane à <seg ana="#animauxDomestiques">lapins</seg></seg>.</hi> </caption>
-                     </figure>       
-                     
-                  <p> Ah ! s'il n'y avait que <seg ana="#vegetaux">des plantes ennemies</seg>, bien visibles et facilement <seg ana="#vegetaux">arrachables</seg> ! </p>
-         
-                     <pb type="page" n="144"/>   
-                     <fw type="header"> 144 SUZETTE. </fw>
-         
-                  <p> Mais un matin de jeudi que <persName ana="#charlot">Charlot</persName>, chargé de <seg ana="#scienceNat">la chasse</seg> aux <seg ana="#vegetaux">lacerons</seg> pour le déjeuner de messieurs <seg ana="#animauxDomestiques">les lapins</seg>, s'asseyait sur son sac, à peu près plein, pour casser une croûte, il fut frappé d'un spectacle nouveau : </p>
-                  <p> Un <seg ana="#scienceNat">des champs paternels</seg>, un grand <seg ana="#scienceNat">champ de betteraves</seg>, s'étendait à ses pieds. <seg ana="#legumesRacines">Les betteraves</seg> commençaient à <seg ana="#vegetaux">prendre tournure</seg>. <seg ana="#vegetaux">Les feuilles</seg> déjà grandes luisaient comme satin au <seg ana="#sciencesPhys">soleil</seg>. C'était riant au possible. </p>
-                     
-                     <figure> 
-                        <caption> <hi rend="italic"><seg ana="#legumesRacines">La betterave</seg>.</hi>
-                           <lb/>
-                           <seg ana="#legumesRacines">Racine</seg> qui sert de <seg ana="#basse-cour">nourriture aux <seg ana="#animaux">bestiaux</seg></seg> et dont l'industrie extrait du <seg ana="#alimentsCuisine">sucre</seg> et de <seg ana="#alimentsCuisine">l'alcool</seg>. </caption>
-                     </figure>
-                     
-                  <p> Mais sur près de deux rangées, et en outre çà et là, par places, elles ne brillaient pas du tout ; elles étaient <seg ana="#vegetaux">fanées, comme mortes</seg>. </p>
-                  <p> Il s'approcha, les tâta ; tout vint sans effort, <seg ana="#vegetaux">tige</seg>, <seg ana="#vegetaux">collet</seg> et <seg ana="#vegetaux">racine</seg>. <seg ana="#vegetaux">La racine</seg> était <seg ana="#vegetaux">creusée</seg> à l'intérieur. </p>
-                  <p> <name type="space" n="b"><persName ana="#charlot">Charlot</persName>, qui ne plaisantait pas avec sa surveillance, courut à cinq cents pas du <seg ana="#scienceNat">champ</seg>, où <persName ana="#jacques">Jacques</persName>, en compagnie de <persName ana="#suzette">Suzette</persName>, était à <seg ana="#scienceNat">planter</seg> <seg ana="#legumesRacines">des pommes de terre</seg>, et les amena tous deux.</name> </p>
-                     
-                     <div type="questionnaire">
-                        <ab>
-                           <hi rend="bold"> Questionnaire. </hi> — Qu'est-ce qu'il était alors nécessaire d'exiger des terres ? — Qui vint en aide à Jacques et de quelle manière ? — Que répondait-il à son père inquiet des dépenses faites pour améliorer les terres ? — Que signalait Jacques à ses deux jeunes frères ? — Que leur prescrivait-il à l'égard des mauvaises
-                           <cb/>
-                           herbes ? — Que faisait Charlot, dans les champs, un certain jeudi ? — Qu'est-ce qui s'étendait devant lui ? — Que remarqua-t-il dans le champ de betteraves ? — Comment s'y prit-il pour découvrir la cause du mal ? — Qui s'empressa-t-il d'avertir ?
-                        </ab>
-                     </div>
-                  </div>
-               
-               <div type="teacher">
-                  <div type="exercice">
-                     <head type="exercice"> DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES. </head>
-                     
-                     <div type="sciencesNat">
-                        <head type="sujets"> Sciences naturelles. </head> 
-                        
-                        <ab type="question"> — Quelles plantes inutiles croissent naturellement dans les champs ? —Quelles sont celles qui sont les plus communes dans le canton ? — Décrivez chacune d'elles. — Parlez du préjudice qu'elles causent par leur multiplication. — Quels sont les moyens de les détruire ? </ab>
-                        
-                        <ab type="answer"> Les <seg corresp="#herbesPlantes">plantes inutiles</seg> qui croissent naturellement dans les champs sont : le chiendent, l'ortie, le chardon, la camomille, la moutarde sauvage, la mercuriale, l'ivraie, la fumeterre, etc. <lb/>
-                        Dans notre canton, on remarque... <lb/>
-                        <note> (Ici se place la description de chaque plante dont il faudra présenter aux élèves <term>une image exacte</term> ou mieux <term>un spécimen</term> cueilli le jour
-          
-                           <pb type="page" n="145"/>   
-                           <fw type="header"> VEILLONS AU GRAIN. 145 </fw>
-         
-même ou tiré de l'herbier du musée scolaire. Viendra ensuite l'indication des moyens les plus efficaces pour les détruire.) </note> </ab>
-                        
-                        <!--LA POMME DE TERRE.-->
-                        <ab type="question"> — Décrire la plante. — Parler de la manière de la cultiver, des terrains qu'elle affectionne, des principales espèces de cette plante. — Raconter comment Parmentier la fit adopter comme plante alimentaire. </ab>
-                        <ab type="answer"> On classe le végétal qui produit la pomme de terre parmi les plantes herbacées. Sa tige atteint une hauteur de 0m,40 à 0m,60 ; elle porte des feuilles cotonneuses en dessous et d'un vert foncé à la partie supérieure. Les fleurs, réunies en touffes, sont blanches, violettes ou roses, et les fruits forment des baies sphériques verdâtres, grosses comme des noix au minimum. <lb/>
-                        Au pied de la plante et dans l'intérieur du sol, apparaissent des renflements de la tige souterraine, sous la forme de tubercules pleins de fécule qui fournissent un aliment précieux. <lb/>
-                        <term type="pommeDeTerre">On cultive la pomme de terre</term> de préférence dans les terrains calcaires ou sablonneux. Aux premiers jours d'avril, on creuse des trous dans un champ préalablement fumé et labouré, et l'on jette dans chacun une petite pomme de terre ou un fragment d'un gros tubercule muni d'un œilleton. La plante croît et fleurit ; on bine le terrain plusieurs fois ; enfin on butte les pieds et, finalement, quand, au mois de septembre, les tiges fanent, on arrache les pommes de terre. <lb/>
-                        <term type="pommeDeTerre">Les principales espèces de pommes de terre</term> sont : <lb/>
-                        La pomme de terre <term type="pommeDeTerre">marjolin</term>, peu productive, mais très précoce ; <lb/>
-                        La jaune longue de <term type="pommeDeTerre">Hollande</term> ou <term type="pommeDeTerre">quarantaine</term>, un peu plus tardive, mais d'un meilleur rapport ; <lb/>
-                        La pomme de terre <term type="pommeDeTerre">saucisse</term> ou <term type="pommeDeTerre">Canada</term>, rouge, plate et d'excellente qualité ; <lb/>
-                        La pomme de terre <term type="pommeDeTerre">Chardin</term>, grosse, jaune, avec des yeux profonds ; <lb/>
-                        La pomme de terre <term type="pommeDeTerre">Champien</term>, blanche, ronde, dont les tubercules sont d'excellente qualité. <lb/>
-                        <seg corresp="#legumesRacines">La pomme de terre</seg>, importée en Angleterre en 1568, passa de là en Hollande et en France ; mais elle ne fut cultivée dans notre pays que comme un fruit rare et précieux. Ce fut à la suite de la grande famine de 1771 que, l'académie de Besançon ayant proposé pour sujet de concours « la recherche de substances pouvant atténuer les calamités de la disette », Parmentier (natif de Montdidier) <!--Is this some form of reference?--> se mit à étudier la pomme de terre. En 1779, il prouva qu'elle renferme tous les principes d'un aliment substantiel et sain. Sa démonstration cependant ne convainquit personne et rencontra les plus étranges préjugés. Il ne perdit pas courage, acheta près de Versailles la concession d'un vaste terrain sablonneux et y planta des pommes de terre. Peu à peu, grâce à la protection éclairée de Louis XVI, on apprécia le précieux tubercule, on en mangea sur les tables des riches, et bientôt la culture s'en étendit rapidement. </ab>
-                     </div>
-                     
-                     <div type="EconDom">
-                        <head type="sujets"> Économie domestique. </head> 
-                        
-                        <ab type="question"> — Qu'entend-on par tisane ? — Comment fait-on de la tisane au chiendent ? — Quelles en sont les propriétés ? — Comment prépare-t-on une infusion de camomille ? — Dans quelles indispositions boit-on l'infusion de camomille ? — Connaissez-vous d'autres infusions ? — A quelles indispositions remédient-elles ? </ab>
-                        
-                        <ab type="answer"> <term>La tisane</term> est une préparation dans laquelle on a fait bouillir ou infuser diverses plantes, ou bien de l'orge, de la réglisse, afin d'en composer une boisson calmante ou adoucissante à l'usage des malades. <lb/>
-                        Parmi les tisanes, nous citerons la décoction de <term>chiendent</term>, qu'on prépare en faisant bouillir doucement les racines de cette plante pen-
-                           
-                           <fw type="sig"> SUZETTE (Maîtresse). 9 </fw>
-         
-                           <pb type="page" n="146"/>   
-                           <fw type="header"> 146 SUZETTE. </fw>
-         
-                        dant une ou deux heures, de manière à réduire le liquide d'un tiers environ. Elle est très rafraîchissante. <lb/>
-                        Une <term>infusion</term> consiste à verser de l'eau bouillante sur une substance végétale pour en extraire certains principes actifs. On traite surtout de cette manière les feuilles et les fleurs de la violette, du sureau, du tilleul, des ronces, etc., dans la proportion d'une forte pincée de cinq doigts par litre d'eau. <lb/>
-                        L'infusion de camomille calme les maux d'estomac, celle de tilleul provoque la sueur, celle de feuilles de ronces est efficace contre les maux de gorge. </ab>
-                        
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
+
+                  <p> Ah ! s'il n'y avait que des plantes ennemies, bien visibles et facilement
+                     arrachables ! </p>
+
+                  <fw type="header"> 144 SUZETTE. </fw>
+                  <pb type="page" n="144"/>
+
+
+                  <p> Mais un matin de jeudi que Charlot, chargé de la chasse aux lacerons pour le
+                     déjeuner de messieurs les lapins, s'asseyait sur son sac, à peu près plein,
+                     pour casser une croûte, il fut frappé d'un spectacle nouveau : </p>
+                  <p> Un des champs paternels, un grand champ de betteraves, s'étendait à ses pieds.
+                     Les betteraves commençaient à prendre tournure. Les feuilles déjà grandes
+                     luisaient comme satin au soleil. C'était riant au possible. </p>
+
+                  <figure type="sujets">
+                     <caption>La betterave.</caption>
+                     <caption>Racine qui sert de nourriture aux bestiaux et dont l'industrie extrait
+                        du sucre et de l'alcool. </caption>
+                  </figure>
+
+                  <p> Mais sur près de deux rangées, et en outre çà et là, par places, elles ne
+                     brillaient pas du tout ; elles étaient fanées, comme mortes. </p>
+                  <p> Il s'approcha, les tâta ; tout vint sans effort, tige, collet et racine. La
+                     racine était creusée à l'intérieur. </p>
+                  <p> Charlot, qui ne plaisantait pas avec sa surveillance, courut à cinq cents pas
+                     du champ, où Jacques, en compagnie de Suzette, était à planter des pommes de
+                     terre, et les amena tous deux. </p>
+               </div3>
+            </div2>
+
+            <div2 type="teacher_edition">
+               <div3 type="questionnaire">
+                  <head> Questionnaire. </head>
+                  <list>
+                     <item>— Qu'est-ce qu'il était alors nécessaire d'exiger des terres ?</item>
+                     <item>— Qui vint en aide à Jacques et de quelle manière ?</item>
+                     <item>— Que répondait-il à son père inquiet des dépenses faites pour améliorer
+                        les terres ?</item>
+                     <item>— Que signalait Jacques à ses deux jeunes frères ?</item>
+                     <item>— Que leur prescrivait-il à l'égard des mauvaises<cb/>herbes ?</item>
+                     <item>— Que faisait Charlot, dans les champs, un certain jeudi ?</item>
+                     <item>— Qu'est-ce qui s'étendait devant lui ?</item>
+                     <item>— Que remarqua-t-il dans le champ de betteraves ?</item>
+                     <item>— Comment s'y prit-il pour découvrir la cause du mal ?</item>
+                     <item>— Qui s'empressa-t-il d'avertir ?</item>
+                  </list>
+
+               </div3>
+            </div2>
+
+
+            <div2 type="student_edition">
+               <head> DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES. </head>
+
+               <div3 type="sujets" subtype="sciences_naturelle">
+                  <head type="sujets"> Sciences naturelles. </head>
+                  <list type="exercices">
+                     <item>— Quelles plantes inutiles croissent naturellement dans les champs
+                        ?</item>
+                     <item>— Quelles sont celles qui sont les plus communes dans le canton ?</item>
+                     <item>— Décrivez chacune d'elles.</item>
+                     <item>— Parlez du préjudice qu'elles causent par leur multiplication.</item>
+                     <item>— Quels sont les moyens de les détruire ?</item>
+                  </list>
+               </div3>
+            </div2>
+            <div2 type="teacher_edition">
+               <div3 type="sujets" subtype="sciences_naturelle">
+                  <p>Les <rs>plantes inutiles</rs> qui croissent naturellement dans les champs
+                     sont : le chiendent, l'ortie, le chardon, la camomille, la moutarde sauvage, la
+                     mercuriale, l'ivraie, la fumeterre, etc. </p>
+                  <p>Dans notre canton, on remarque... </p>
+                  <note> (Ici se place la description de chaque plante dont il faudra présenter aux
+                     élèves <rs>une image exacte</rs> ou mieux <rs>un spécimen</rs> cueilli le jour
+                        <fw type="header"> VEILLONS AU GRAIN. 145 </fw>
+                     <pb type="page" n="145"/> même ou tiré de l'herbier du musée scolaire. Viendra
+                     ensuite l'indication des moyens les plus efficaces pour les détruire.) </note>
+                  <list>
+                     <item>LA POMME DE TERRE.</item>
+                     <item>— Décrire la plante.</item>
+                     <item>— Parler de la manière de la cultiver, des terrains qu'elle affectionne,
+                        des principales espèces de cette plante.</item>
+                     <item>— Raconter comment Parmentier la fit adopter comme plante
+                        alimentaire.</item>
+                  </list>
+                  <p>On classe le végétal qui produit la pomme de terre parmi les plantes herbacées.
+                     Sa tige atteint une hauteur de 0m,40 à 0m,60 ; elle porte des feuilles
+                     cotonneuses en dessous et d'un vert foncé à la partie supérieure. Les fleurs,
+                     réunies en touffes, sont blanches, violettes ou roses, et les fruits forment
+                     des baies sphériques verdâtres, grosses comme des noix au minimum.</p>
+                  <p>Au pied de la plante et dans l'intérieur du sol, apparaissent des renflements
+                     de la tige souterraine, sous la forme de tubercules pleins de fécule qui
+                     fournissent un aliment précieux.</p>
+                  <p><rs>On cultive la pomme de terre</rs> de préférence dans les terrains calcaires
+                     ou sablonneux. Aux premiers jours d'avril, on creuse des trous dans un champ
+                     préalablement fumé et labouré, et l'on jette dans chacun une petite pomme de
+                     terre ou un fragment d'un gros tubercule muni d'un œilleton. La plante croît et
+                     fleurit ; on bine le terrain plusieurs fois ; enfin on butte les pieds et,
+                     finalement, quand, au mois de septembre, les tiges fanent, on arrache les
+                     pommes de terre.</p>
+                  <p><rs>Les principales espèces de pommes de terre</rs> sont :</p>
+                  <p>La pomme de terre <rs>marjolin</rs>, peu productive, mais très précoce ; </p>
+                  <p>La jaune longue de <rs>Hollande</rs> ou <rs>quarantaine</rs>, un peu plus
+                     tardive, mais d'un meilleur rapport ; </p>
+                  <p>La pomme de terre <rs>saucisse</rs> ou <rs>Canada</rs>, rouge, plate et
+                     d'excellente qualité ; </p>
+                  <p>La pomme de terre <rs>Chardin</rs>, grosse, jaune, avec des yeux profonds ; </p>
+                  <p>La pomme de terre <rs>Champien</rs>, blanche, ronde, dont les tubercules sont
+                     d'excellente qualité. </p>
+                  <p><rs>La pomme de terre</rs>, importée en Angleterre en 1568, passa de là en
+                     Hollande et en France ; mais elle ne fut cultivée dans notre pays que comme un
+                     fruit rare et précieux. Ce fut à la suite de la grande famine de 1771 que,
+                     l'académie de Besançon ayant proposé pour sujet de concours « la recherche de
+                     substances pouvant atténuer les calamités de la disette », Parmentier (natif de
+                     Montdidier) se mit à étudier la pomme de terre. En 1779, il prouva qu'elle
+                     renferme tous les principes d'un aliment substantiel et sain. Sa démonstration
+                     cependant ne convainquit personne et rencontra les plus étranges préjugés. Il
+                     ne perdit pas courage, acheta près de Versailles la concession d'un vaste
+                     terrain sablonneux et y planta des pommes de terre. Peu à peu, grâce à la
+                     protection éclairée de Louis XVI, on apprécia le précieux tubercule, on en
+                     mangea sur les tables des riches, et bientôt la culture s'en étendit
+                     rapidement. </p>
+               </div3>
+            </div2>
+
+            <div2 type="student_edition">
+               <div3 type="sujets" subtype="économie_domestique">
+                  <head type="sujets"> Économie domestique. </head>
+                  <list type="exercices">
+                     <item>— Qu'entend-on par tisane ?</item>
+                     <item>— Comment fait-on de la tisane au chiendent ?</item>
+                     <item>— Quelles en sont les propriétés ?</item>
+                     <item>— Comment prépare-t-on une infusion de camomille ?</item>
+                     <item>— Dans quelles indispositions boit-on l'infusion de camomille ?</item>
+                     <item>— Connaissez-vous d'autres infusions ?</item>
+                     <item>— A quelles indispositions remédient-elles ?</item>
+                  </list>
+               </div3>
+            </div2>
+
+            <div2 type="teacher_edition">
+               <div3 type="sujets" subtype="économie_domestique">
+                  <p><rs>La tisane</rs> est une préparation dans laquelle on a fait bouillir ou
+                     infuser diverses plantes, ou bien de l'orge, de la réglisse, afin d'en composer
+                     une boisson calmante ou adoucissante à l'usage des malades. </p>
+                  <p>Parmi les tisanes, nous citerons la décoction de <rs>chiendent</rs>, qu'on
+                     prépare en faisant bouillir doucement les racines de cette plante pen- <fw
+                        type="sig"> SUZETTE (Maîtresse). 9 </fw>
+                     <fw type="header"> 146 SUZETTE. </fw>
+                     <pb type="page" n="146"/> dant une ou deux heures, de manière à réduire le
+                     liquide d'un tiers environ. Elle est très rafraîchissante.</p>
+                  <p>Une <rs>infusion</rs> consiste à verser de l'eau bouillante sur une substance
+                     végétale pour en extraire certains principes actifs. On traite surtout de cette
+                     manière les feuilles et les fleurs de la violette, du sureau, du tilleul, des
+                     ronces, etc., dans la proportion d'une forte pincée de cinq doigts par litre
+                     d'eau. </p>
+                  <p>L'infusion de camomille calme les maux d'estomac, celle de tilleul provoque la
+                     sueur, celle de feuilles de ronces est efficace contre les maux de gorge.</p>
+               </div3>
+            </div2>
+         </div1>
       </body>
-  </text>
+   </text>
 </TEI>
