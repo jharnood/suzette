@@ -213,125 +213,196 @@
     </teiHeader>
     <text>
         <body>
-            <div1 type="chapter" corresp="#ch001" xml:lang="fr" n="1">
-                <head type="chapter">1. — A l'abandon. (Élève, p. 3.)</head>
-                <pb type="page" n="1"/>
+            <div1 type="chapter" xml:lang="fr" corresp="#ch027">
+                <head type="chapter">27. — L'aveu. (Élève, p. 65.)</head>
+                <pb type="page" n="96"/>
                 <div2 type="student_edition">
+
+                    <!-- there are three div3 types: recit, questionnaire, and sujets. We can add to these if necessary. They apply to both student and teacher editions -->
                     <div3 type="récit">
-                        <p> Par terre, devant l'âtre* <gloss>Âtre. L'endroit de la cheminée où l'on fait le feu.</gloss>, une grosse soupière blanche à ramages*<gloss>Ramages. Représentation de rameaux, de feuillages, de fleurs sur vases ou étoffes.</gloss> rouges et verts s'étalait entre un grand chaudron noir et une paire de bottes dont les semelles avaient apporté avec elles un assez lourd morceau du chemin boueux. Tout autour, une jonchée de fétus de paille, de pampes* <gloss> Pampe. Feuille des céréales. </gloss> de navets et d'autres épluchures. </p>
+                        <p>Elle suivit Mme Valon que s'en allait, et, toute honteuse, les larmes aux yeux :</p>
+                        <sp>
+                            <speaker>Suzette</speaker>
+                            <p>— Ah ! Madame, dit-elle, pourquoi ne suis-je pas allée hier vous demander conseil ? Quelle chose terrible que l'ignorance ! J'ai un aveu *<gloss>Aveu. Action de dire ce qu'on a fait de mal.</gloss> à vous faire.</p>
+                        </sp>
                         
-                        <note> NOTA. — 1° Les mots suivis d'un astérisque sont expliqués à la fin du volume, et, pour faciliter les recherches, ont été classés lecture par lecture et non suivant l'ordre alphabétique. <lb/>
-                            2° Nous avons fait suivre chacun des récits de questionnaires sur divers sujets se rapportant au texte qui précède, et qui peuvent donner lieu à de nouveaux exercices soit oraux, soit écrits. </note>
+                        <p>Elle conta toute son aventure avec la bohémienne, depuis l'aumône du morceau de pain et l'apparition de la chouette jusqu'à l'escroquerie *<gloss>Escroquerie. Action de prendre ou d'obtenir quelque chose par tromperie.</gloss> des cinq francs et du foulard :</p>
+                        <sp>
+                            <speaker>Suzette</speaker>
+                            <p>— Et j'ai donné rendez-vous pour ce soir, à la brune, sous ces arbres.</p>
+                        </sp>
                         
-                        <fw type="sig"> SUZETTE  (Maîtresse). 1 </fw>     
+                        <p>Elle montra l'endroit.</p>
+                        <sp>
+                            <speaker>Mme_Valon</speaker>
+<p>                            — Comment ! s'écria Mme Valon, c'est vous, Mademoiselle Suzette, qui, sans compter la toile d'araignée et le cataplasme de pigeon, avez fait cela ! Vous, qui en êtes encore à ces folies, à ces sottises ! Hier, tu avais donc mis ton esprit sous tes pieds ?</p>
+                        </sp>
                         
-                        <pb type="page" n="2"/>   
-                        <fw type="header">2 SUZETTE.</fw>
-                        
-                        <p> Sous la crémaillère brûlait un restant de bûche ; à côté, un gros chat et un chien roux, tous deux couchés, clignaient paresseusement des yeux vers une grande table ronde, au milieu de la pièce. Des gens y mangeaient d'un plat qui, sans doute, n'était pas à la convenance des deux bêtes, car elles ne bougeaient pas. </p>                       
+                        <sp>
+                            <speaker>Suzette</speaker>
+                            <p>— Je croyais mon frère bien malade, et cette chouette m'a tant épouvantée !</p>
+                        </sp>
+                        <sp>
+                            <speaker> Mme_Valon</speaker>
+                            <p>— Oui, la peur est la mère de la superstition. Tu n'ignorais pourtant pas que la chouette a comme les autres oiseaux, un estomac à remplir, par conséquent une chasse quotidienne *<gloss>Quotidien, diurne. Qui a lieu chaque jour, pendant le jour.</gloss> à faire. Cette chasse, elle la fait la nuit, ne voyant clair qu'à ce moment, et elle nous débarrasse des souris, des rats, des mulots et autres noctambules *<gloss>Noctambule. Celui qui circule ou travaille pendant la nuit.</gloss> pillards de grains et de semences. Les pauvres hiboux, petits et gros, sont des bienfaiteurs de l'agriculture ; et ces braves gens dont, à cause de leur cécité * pendant le jour, tous les oiseaux diurnes * se moquent, et qu'ils pourchassent à coups de bec, nous, nous en</p>
+                        </sp>
+                        <fw type="header">L"AVEU 97</fw>
+                        <pb type="page" n="97"/>
+                            <sp>
+                                <speaker>Mme_Valon</speaker>
+                                <p>avons peur ! Tu as lu un jour en classe que les Grecs autrefois honoraient le hibou jusqu'à le mettre comme un emblème *<gloss>Emblème. Figure d'un objet qui rappelle une sentence.</gloss> sur le casque de leur déesse de la sagesse, Minerve.</p></sp>
+                            <sp>
+                                <speaker>Suzette</speaker>
+                                <p>— Oui, je me rappelle.</p>
+                            </sp>
+                            <sp>
+                                <speaker>Mme_Valon</speaker>
+                                <p>— C'est bien la peine ! Après les Grecs, voilà où nous en sommes aujourd'hui ! Ce n'est pas flatteur pour notre temps... Et cette bohémienne mendiante et voleuse, par
+                            qui tu te laisses mener comme un toton*<gloss>Toton. Dé traversé par une cheville et que l'on fait tourner.</gloss>, est-ce encore joli, cela? est-ce intelligent?</p></sp>
                         <figure type="sujets">
-                            <caption> Le chien de garde. </caption>
-                        </figure>                       
-                        <p> Il y avait là cinq convives, quatre assis, un debout. Celui-là, gamin de cinq à six ans, rose et joufflu, mangeait lentement. Ses grands yeux bleus vaguement étonnés regardaient devant lui comme cherchant quelque chose qu'ils ne trouvaient pas. </p>
-                        
-                        <p> Personne, cela se voyait, ne lui avait appris à manier sa cuiller, ou bien il avait eu le temps d'oublier l'enseignement. Il la tenait à pleine main, et, d'un mouvement pataud, la plongeait dans la casserole de terre qui lui servait d'assiette. De l'autre main il y pêchait les haricots égarés parmi le pain trempé et les avalait un à un en les comptant.</p>
-                        
-                        <figure type="sujets">
-                            <caption> Le chat de la maison. </caption>
+                            <caption> <hi rend="italic"> Le Hibou. </hi><lb/>
+                                Cet oiseau de proie ne se montre que la nuit. Comme la chouette, il détruit quantité de rats et de rongeurs.</caption>
                         </figure>
+                            <cb/>
+                            <figure type="sujets">
+                                <caption> <hi rend="italic"> Rats et mulot. </hi><lb/>
+                                    Les rats et les mulots sont des animaux nuisibles qui mangent les récoltes, les grains, la paille, la farine, les fruits, les papiers, etc., et qu'il faut détruire dès qu’on s'aperçoit de leur présence.</caption>
+                            </figure>
+                            
+                        <sp>
+                                <speaker>Suzette</speaker>
+                                <p>— J'étais si triste ! murmura Suzette.</p>
+                            </sp>
+                            <sp>
+                                <speaker>Mme_Valon</speaker>
+                                <p>— Cinq francs, un foulard perdus ! J'espère bien que ce soir tu iras lui porter tes bas, tes bottines, ta robe du dimanche, la fameuse robe vert-bouteille, et tout l'argent de la maison !</p>
+                            </sp>
+                            <sp>
+                                <speaker>Suzette</speaker>
+                                <p>— Je n'irai pas, Madame.</p>
+                            </sp>
+                            <p>Après une minute, Mme Valon reprit, cette fois sérieusement :</p>
+                            <sp>
+                                <speaker>Mme_Valon</speaker>
+                                <p>— Si, il faut y aller.</p>
+                            </sp>
                         
-                        <p> Auprès de lui, deux garçons plus grands ; l'un à figure éveillée, au nez en trompette, et dont la veste bâillait largement aux coudes. </p>
-                        <p> L'autre avait bien douze ans ; son visage, un peu gâté par quelques taches de rousseur, n'en était pas moins un franc et honnête visage. Ces deux garçons-là semblaient savoir comment on tient sa cuiller. Une fillette, qui leur faisait face, la maniait encore plus joliment qu'eux. Elle avait une dizaine d'années, une physionomie*<gloss>Physionomie. Les traits du visage.</gloss> vive, des yeux frais, très ouverts, pleins d'affa-      
-                            
-                            <pb type="page" n="3"/>          
-                            <fw type="header"> A L'ABANDON. 3 </fw>
-                            
-                            bilité* <gloss>Affabilité. Qualité de celui qui reçoit ou écoute avec bonté ceux qui s'adressent à lui.</gloss>. Ce n'était pas une beauté, mais bien une de ces bonnes et aimables têtes qu'on aime à voir sur les épaules d'une petite fille. </p>
-                        <p> Non, il n'y avait pas à cette table une seule figure de méchant enfant. Et tant mieux ! tant mieux pour le père qui présidait le repas, et qui, à la façon pensive et lasse dont il courbait la tête, semblait avoir assez d'autres soucis en ce monde pour se passer de celui d'une mauvaise lignée* <gloss>Lignée. Les descendants d'un ancêtre ou les enfants d'un père ou d'une mère.</gloss>. </p>
-                        <p> On mangeait en silence ; le couvert à peine mis n'était pas plus engageant que l'odeur fade des légumes bouillis à la <hi rend="italic">va-te-promener</hi> qui emplissait la pièce.</p>                        
+                            <sp>
+                                <speaker>Suzette</speaker>
+                                <p>— Ah ?</p>
+                            </sp>
+                        
+                            <sp>
+                                <speaker>Mme_Valon</speaker>
+                                <p>— Oui, et sois sans crainte. Sous ces arbres là-bas, n'est-ce pas ? et à la brune, m’as-tu dit ?</p>
+                            </sp>
+                        <fw type="footer">Suzette (Maîtresse) <fw type="sig">6</fw></fw>
+                        
+                        <fw type="header">98 Suzette. </fw>
+                        <pb type="page" n="98"/>                        
+                          
+                          <sp>
+                              <speaker>Suzette</speaker>
+                              <p>— Oui, Madame.</p>
+                          </sp>
+                          <sp>
+                              <speaker>Mme_Valon</speaker>
+                              <p>— Bon, cela suffit.</p>
+                          </sp>
                     </div3>
                 </div2>
-                <!--in order to shift between student and teacher edition, you will have to close the </div3> and create a new nested <div2> section-->
-
                 <div2 type="teacher_edition">
                     <div3 type="questionnaire">
-                        <!-- The Questionnaire is a list of items. When there is a column break in how they are presented on the page, just add a <cb /> to indicate where that break occurs -->
                         <head>Questionnaire.</head>
                         <list>
-                            <item>— Que voyait-on devant l’âtre ?</item>
-                            <item>— Quels animaux se trouvaient auprès de la cheminée ?</item>
-                            <item>— Quels étaient les convives réunis autour de la table ?</item>
-                            <item>— Que vous souvient-il du plus jeune des enfants du fermier ?</item>
-                            <item>— Comment  <cb/> mangeait-il ?</item>
-                            <item>— Donnez quelques détails sur les deux aînés ; — sur la fillette.</item>
-                            <item>— Pourquoi le père courbait-il la tête durant le repas ?</item>
-                            <item>— Pourquoi chacun mangeait-il silencieusement ?</item>
+                       
+                          <item>— Comment Suzette annonça-t-elle à Mme Valon l'aveu qu'elle se proposait de faire ?</item>
+                            <item>— Que lui conta-t-elle ?</item> 
+                            <item>— Quelles observations lui furent adressées par madame l'institutrice ?</item>
+                            <item>— Que dit cette dernière sur la chouette et le hibou ? — Pour quelle
+                          raison <cb/>
+                                ces oiseaux chassent-ils leur proie durant la nuit ?</item>
+                            <item>— Quel était l'oiseau de la déesse Minerve ?</item>
+                            <item>— Qu'ajouta Mme Valon d'un ton ironique, au sujet de l'argent donné à la bohémienne et du foulard ?</item>
+                            <item>— Quel conseil donna-t-elle finalement à la jeune fille ?</item>
                         </list>
-                        <note> N. B. — Quoique les questions relatives au sujet de chaque leçon n'aient pas été multipliées outre mesure, il est bon d'accoutumer les enfants à faire des réponses et, plus tard, de petits exposés comprenant plusieurs propositions. Ce sera d'ailleurs une manière efficace de les préparer aux exercices de composition. </note>
                     </div3>
                 </div2>
-                <pb type="page" n="80"/>
                 <div2 type="student_edition">
                     <head>DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES</head>
+                    
                     <div3 type="sujets" subtype="morale">
-                        <head type="sujets">Morale.</head>
+                        <head> Morale.</head>
                         <list type="exercices">
-                            <!-- Need to understand what this exchange means -->
-                            <item>— Que prouvait l'aspect de la chambre où la famille était réunie ?</item> 
-                            <item>— Qu'est-ce qu'avoir de la propreté, de l'ordre et du soin ?</item> 
-                            <item>— Quel est l'enfant du fermier qui est le plus à plaindre, et pourquoi ?</item>
+                            
+                          <item>— Que doit faire un enfant qui a commis une faute ?</item>
+                            <item>— Pourquoi est-ce le meilleur parti ?</item>
+                            <item>— Une faute a été commise en classe, toutes les élèves ont été punies ; que doit faire la coupable ?</item>
                         </list>
                     </div3>
                 </div2>
+                
                 <div2 type="teacher_edition">
                     <div3 type="sujets" subtype="morale">
-                        <p>L'aspect de la chambre où la famille était réunie, prouvait que personne n'avait eu jusqu'alors la pensée de la nettoyer. En effet, le sol était couvert de débris que les enfants auraient pu enlever s'ils eussent été plus soigneux, comme le font d'ailleurs la plupart de ceux dont les parents sont retenus longtemps au dehors par leurs travaux quotidiens.</p>
-                        <p><rs>Avoir de la propreté</rs>, c'est ne laisser aucune tache, aucune souillure sur son corps, sur ses vêtements et dans la maison que l'on habite : nulle qualité ne dispose mieux les autres en notre faveur. — <rs>Avoir de l'ordre</rs>, c'est réserver une place à chaque chose et placer toujours cette chose à sa place. Dans une chambre, par exemple, les chaises seront rangées le long des murs ; la vaisselle s’alignera sur les rayons du dressoir ; les vêtements seront suspendus, l'un à côté de l'autre, dans la garde-robe ; enfin, le linge reposera sur les tablettes de l'armoire. — Avoir du soin, c'est apporter beaucoup d'attention et d'application à ce qu'on fait. Une jeune fille soigneuse n'oubliera pas de recoudre un bouton, de nouer un lacet, de surveiller le lait qu'elle met bouillir, de ponctuer ses devoirs, etc.
-                        <pb type="page" n="4"/>
-                        <fw type="header"> 4 SUZETTE. </fw>
-                            L'enfant du fermier qui me semble le plus à plaindre, est le bébé. A son âge, on a tant besoin de la maman ! et la sienne n’est plus auprès de lui et elle ne reviendra jamais dans la maison de famille</p>
-                        <p/>
+                          <p>Une enfant qui a commis une faute doit l'avouer soit à ses parents, soit à une amie, soit à son institutrice, pour qu'ils lui facilitent les moyens de la réparer. Elle éprouvera ainsi un véritable soulagement ; il lui semblera qu'un poids énorme lui a été enlevé sur le cœur ; elle se sentira plus digne d'estime. L'aveu des fautes, a dit un sage, ne coûte guère à ceux qui ont le véritable désir de les réparer.</p>
+                          <p>C'est d'ailleurs le meilleur parti à prendre. L'auteur d'une faute est tôt ou tard reconnu, et alors, à l'humiliation d'un aveu tardif, s'ajoute le sentiment de la lâcheté qu'il y a à laisser soupçonner autrui.</p>
+                         <p> Il peut arriver qu'à l'occasion d'une faute grave commise à l'école, et dont l'autour est inconnu, la maîtresse soit obligée d'en venir à infliger une punition générale. Si la coupable n'est pas dépourvue de bons sentiments, elle doit aller demander la levée de la punition en se désignant pour la subir seule. Sans doute, elle sera l'objet d'une mesure sévère, mais du moins elle n'aura pas une bassesse à se reprocher.</p>
                     </div3>
                 </div2>
+                
                 <div2 type="student_edition">
                     <div3 type="sujets" subtype="sciences_naturelle">
                         <head>Sciences naturelles.</head>
-                        <list>
-                            <item>— Comment appelle-t-on les animaux qui vivent à la maison ?</item> 
-                            <item>— Quels services rend le chien ?</item> 
-                            <item>— Quels services rend le chat ?</item> 
-                            <item>— Quelles sont les principales qualités du chien ?</item> 
-                            <item>— Quels sont les défauts du chat ?</item> 
-                            <item>— Nommez les principales espèces de chiens et leurs aptitudes.</item>
+                        <list type="exercices">
+                            <item>— Faites successivement le portrait de la souris, du rat, du mulot.</item>
+                            <item>— Où et de quoi vivent-ils ?</item>
+                            <item>— Pourquoi les appelle-t-on rongeurs ?</item>
+                            <item>— Quel préjudice nous causent-ils ?</item>
+                            <item>— Quels oiseaux leur donnent la chasse ?</item>
+                            <item>— Tirez une conclusion de ce fait.</item>
+                            <item>— Que sont les gens qui prennent au piège ces oiseaux et les clouent aux portes des granges ou des écuries ? — Pourquoi ?</item>
                         </list>
                     </div3>
                 </div2>
+                
                 <div2 type="teacher_edition">
                     <div3 type="sujets" subtype="sciences_naturelle">
-                        <p>Les animaux qui vivent à la maison et nous rendent des services, sont appelés <rs>animaux domestiques</rs> : tels sont le chien, le chat, l'âne, le cheval, le bœuf et la vache, la brebis, la chèvre.</p>
-                        <p><rs>Le chien</rs> met au service de l'homme son courage, sa force, ses talents. Il garde les troupeaux et veille à la sûreté du logis ; il seconde son maître dans la poursuite du gibier et des bêtes dangereuses ou féroces ; enfin, il n'hésite pas à exposer sa vie pour sauver celle des personnes qu'il aime.</p>
-                        <p><rs>Le chat</rs> débarrasse la maison des souris et des rats, animaux malfaisants qui mangent les grains et les provisions mises en réserve, rongent le linge, les papiers et dévastent nos jardins. </p>
-                        <p>Le chien est affectueux pour son maître et les personnes de la maison ; il est tout zèle, tout ardeur, tout obéissance, plus sensible au souvenir des bienfaits qu'à celui des outrages. Il ne se rebute pas par les mauvais traitements ; il les subit, les oublie ; il n'oppose que la plainte à la main qui le frappe et la désarme par sa patience.</p>
-                        <p>Le chat ne paraît jamais complètement apprivoisé ; il est rusé, vindicatif ; il aime à vivre de rapine, et, en général, s'attache moins aux personnes qu'aux lieux où il fut élevé.</p>
-                        <p>Les principales espèces de chiens sont : le chien de berger, qui dirige et surveille les troupeaux ; le chien de garde, qui veille à la sûreté des habitations ; les épagneuls, les bassets, les lévriers, dressés pour la chasse ; les caniches, remarquables par leur intelligence ; les terreneuve et les chiens du Saint-Bernard, qui se dévouent pour l'homme ; enfin, les chiens d'agrément.</p>
+                        <p><rs ref="">La souris</rs> est un petit quadrupède de 8 à 10 centimètres de longueur au pelage gris cendré, muni d'une longue queue et dont la bouche est armée d'incisives tranchantes. Elle a les mouvements vifs, gracieux et se défend courageusement contre ses nombreux ennemis, dont le plus redoutable est le chat. Elle fait sa demeure entre les planchers et, de préférence, dans les murailles des greniers et des granges.</p>
+                        <p><rs ref="">Le rat</rs> ressemble beaucoup à la souris, mais avec des dimensions 3 ou 4 fois plus considérables. Il habite dans tous les lieux : maisons, granges, vergers, champs, égouts, bords des ruisseaux, et commet de grands ravages parmi les récoltes et les provisions amassées. Il se multiplie parfois en tel nombre qu'il devient un véritable fléau.</p>
+                        <p><rs ref="">Le mulot</rs> est une espèce de souris qui vit dans les champs ; il creuse de longues galeries sous les sillons et y amasse des grains pour sa provision d'hiver.</p>
+                        <p>Ces quadrupèdes appartiennent à l'ordre des rongeurs dont l'animal le plus intéressant est <rs ref="">le castor</rs>, si connu par sa fourrure et les habi-</p>
+                                
+                        <fw type="header">SOUS LES ARBRES 99</fw>
+                        <pb type="page" n="99"/>
+                        
+                        <p>tations qu'il sait se construire sur le bord des eaux. Tous rongent ce qui est à portée de leurs dents, et sont des ennemis redoutables pour l'homme.</p>
+                        <p>Les chouettes, les hiboux et les autres oiseaux de nuit font une guerre acharnée à ces bêtes malfaisantes. Sans leur concours, il serait presque impossible de recueillir les fruits et les céréales. Aussi considère-t-on comme une chose insensée que de pourchasser et de tuer ces utiles animaux ; le dernier degré de la stupidité est de les clouer aux portes des granges comme on le fait dans les campagnes.</p>
                     </div3>
                 </div2>
+                
                 <div2 type="student_edition">
-                    <div3 type="sujets" subtype="civilité">
-                        <head>Civilité.</head>
+                    <div3 type="sujets" subtype="français">
+                        <head>Français.</head>
                         <list>
-                            <item>— Comment doit-on se tenir à table ?</item>
+                        <item>— A quels noms se rattachent les adjectifs honteux, terrible, diurne, quotidien, voleur, clair, intelligent ?</item> 
+                            <item>— Quels adjectifs correspondent à ignorance, aveu, pain, folie, superstition, peur, peine, argent, crainte ?</item>
                         </list>
                     </div3>
                 </div2>
+                
                 <div2 type="teacher_edition">
-                    <div3 type="sujets" subtype="civilité">
-                    <p>Les enfants doivent être silencieux et réservés pendant les repas ; ils n'y prennent la parole que pour répondre ou demander poliment quelque chose. La civilité leur prescrit d'attendre, pour être servis, que les grandes personnes l'aient été d'abord. Ils mangeront posément, sans bruit ; ils se garderont d'appuyer les coudes sur la nappe et d'éloigner leur siège de la table. Leur vin sera toujours trempé d’eau, et ils boiront modérément. Il n'est pas de bon usage de couper son pain ; on le rompt. La viande doit être découpée seulement à mesure qu'on mange. Pour les autres détails, les enfants observeront comment agissent les personnes dont les manières indiquent une bonne éducation.</p>
-                        <note> N. B. — Les gravures qui accompagnent les divers chapitres de l'ouvrage, fourniront le sujet de nombre de remarques et de questions intéressantes : peu d'exercices sont aussi profitables aux élèves pour les accoutumer à observer, à regarder et enfin à s'exprimer correctement.  <lb/>
-                            Le COURS DE COMPOSITION FRANÇAISE, de M. LAPORTE, degré élémentaire et moyen (IV° série), donne, sur les exercices de composition d'après une image, des conseils très précieux. Nous renvoyons à ce traité spécial.</note>
-                    </div3>
+                <div3 type="sujets" subtype="français">
+                        <p>Honteux se rattache à honte ; — terrible, à terreur ; — diurne, à jour ; — quotidien, à un mot latin qui veut dire chaque et à jour (dies) ; — voleur, à vol ; — clair, à clarté ; — intelligent, à intelligence.</p>
+                       <p>A ignorance correspond l'adjectif ignorant ; — à aveu, avouable ; — à pain, pané ; — à folie, fou ; — à superstition, superstitieux ; — à peur, peureux ; — à peine, pénible ; — à argent, argentin ; — à crainte, craintif.</p>
+                </div3>
                 </div2>
             </div1>
         </body>
     </text>
 </TEI>
+           
+                    
+                       
+
+
+
