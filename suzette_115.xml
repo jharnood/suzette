@@ -6,29 +6,26 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-<<<<<<< HEAD
-<<<<<<< HEAD
-            <title type="main">Suzette: a Digital Edition - Chapter 115</title>
-=======
-            <title type="main">Suzette: a Digital Edition - Chapter 112</title>
->>>>>>> 13c6e2ebd97ccf3f0d560601e135e09400e05366
-=======
-            <title type="main">Suzette: a Digital Edition - Chapter 115</title>
->>>>>>> 57f1965594c4bf6d52e9592c96e5fb37201fa67b
+            <title type="main">Suzette: a Digital Edition</title>
             <respStmt>
                <persName>John Westbrook</persName>
                <orgName>Bucknell University</orgName>
                <resp>Editor</resp>
             </respStmt>
             <respStmt>
-               <persName>Annie Girton</persName>
+               <persName>Sarah Haber</persName>
                <orgName>Bucknell University</orgName>
-               <resp>Research Assistant and Encoder</resp>
+               <resp>Research Assistant and Encoder, 2020 - Present</resp>
             </respStmt>
             <respStmt>
                <persName xml:id="JAKA1">Diane Jakacki</persName>
                <orgName>Bucknell University</orgName>
-               <resp>Project Manager</resp>               
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Annie Girton</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and Encoder, 2018-2020</resp>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -46,7 +43,9 @@
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles. Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine – Couture</title>
+                  <title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles.
+                     Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine –
+                     Couture</title>
                   <author>Robert Halt</author>
                   <textLang>French</textLang>
                   <imprint>
@@ -56,719 +55,434 @@
                   </imprint>
                </monogr>
             </biblStruct>
+            <list>
+               <item xml:id="ch001" n="1">1. A l'abandon</item>
+               <item xml:id="ch002" n="5">2. Le grillon du foyer</item>
+               <item xml:id="ch003" n="8">3. Oú est la maman?</item>
+               <item xml:id="ch004" n="11">4. La femme de la caverne</item>
+               <item xml:id="ch005" n="15">5. Le bon chemin</item>
+               <item xml:id="ch006" n="19">6. Monsieur François est un homme!</item>
+               <item xml:id="ch007" n="22">7. Le petit hèroïsme</item>
+               <item xml:id="ch008" n="26">8. Tenons bon!</item>
+               <item xml:id="ch009" n="29">9. La clef du trésor</item>
+               <item xml:id="ch010" n="33">10. Grosse affaire</item>
+               <item xml:id="ch011" n="37">11. La petite hirondelle</item>
+               <item xml:id="ch012" n="41">12. On se débarhouille</item>
+               <item xml:id="ch013" n="44">13. Une bonne idée</item>
+               <item xml:id="ch014" n="47">14. Brunehaut</item>
+               <item xml:id="ch015" n="51">15. - La charte du comte Herbert</item>
+               <item xml:id="ch016" n="56">16. - Hésitations</item>
+               <item xml:id="ch017" n="61">17. - Tout laine</item>
+               <item xml:id="ch018" n="64">18. - Laine et coton</item>
+               <item xml:id="ch019" n="69">19. - Où ira Jacques?</item>
+               <item xml:id="ch020" n="72">20. - La veille du départ</item>
+               <item xml:id="ch021" n="75">21. - Une lettre de Jacques</item>
+               <item xml:id="ch022" n="78">22. - Un éteignoir à chandelle</item>
+               <item xml:id="ch023" n="81">23. - Le secret de Ludivine</item>
+               <item xml:id="ch024" n="85">24. - La bohémienne</item>
+               <item xml:id="ch025" n="90">25. - Un peu de lumière</item>
+               <item xml:id="ch026" n="93">26. - De l'eau!</item>
+               <item xml:id="ch027" n="96">27. - L'aveu</item>
+               <item xml:id="ch028" n="99">28. - Sous les arbres</item>
+               <item xml:id="ch029" n="102">29. - Grands projets</item>
+               <item xml:id="ch030" n="106">30. - Vive le blé de France!</item>
+               <item xml:id="ch031" n="110">31. - Le prince Kang-Hi</item>
+               <item xml:id="ch032" n="113">32. - Sélection</item>
+               <item xml:id="ch033" n="116">33. - Au feu!</item>
+               <item xml:id="ch034" n="120">34. - Enfant perdu</item>
+               <item xml:id="ch035" n="123">35. - Le chien Castor</item>
+               <item xml:id="ch036" n="125">36. - Pauvre petit!</item>
+               <item xml:id="ch037" n="129">37. - Fraternité</item>
+               <item xml:id="ch038" n="132">38. - Le nid familial</item>
+               <item xml:id="ch039" n="135">39. - La pièce de cent sous</item>
+               <item xml:id="ch040" n="138">40. - A l'oeuvre</item>
+               <item xml:id="ch041" n="142">41. - Veillons au grain</item>
+               <item xml:id="ch042" n="146">42. - Luttons!</item>
+               <item xml:id="ch043" n="150">43. - Cours, mon aiguille!</item>
+               <item xml:id="ch044" n="153">44. - Le vieil habit vert</item>
+               <item xml:id="ch045" n="157">45. - Veste, gilet, calotte</item>
+               <item xml:id="ch046" n="160">46. - Hier et aujourd'hui</item>
+               <item xml:id="ch047" n="163">47. - Récolte</item>
+               <item xml:id="ch048" n="168">48. - Au marché</item>
+               <item xml:id="ch049" n="171">49. - Il faut s'ingénier</item>
+               <item xml:id="ch050" n="174">50. - Faisons nos comptes</item>
+               <item xml:id="ch051" n="177">51. - Au gui l'an neuf!</item>
+               <item xml:id="ch052" n="181">52. - A table</item>
+               <item xml:id="ch053" n="185">53. - Au dessert</item>
+               <item xml:id="ch054" n="187">54. - Petits cochons de lait</item>
+               <item xml:id="ch055" n="191">55. - Les explorateurs</item>
+               <item xml:id="ch056" n="195">56. - Qui sont-ils?</item>
+               <item xml:id="ch057" n="199">57. - La tempête</item>
+               <item xml:id="ch058" n="201">58. - Un marché d'esclaves</item>
+               <item xml:id="ch059" n="206">59. - M. Pascal parle arabe</item>
+               <item xml:id="ch060" n="208">60. - A travers les jungles</item>
+               <item xml:id="ch061" n="212">61. - Un baobab</item>
+               <item xml:id="ch062" n="215">62. - Le pays de la peur</item>
+               <item xml:id="ch063" n="219">63. - Le simocaractères non reproduitsn</item>
+               <item xml:id="ch064" n="222">64. - Sous la tente</item>
+               <item xml:id="ch065" n="226">65. - Vivent les explorateurs!</item>
+               <item xml:id="ch066" n="231">66. - La montre d'argent</item>
+               <item xml:id="ch067" n="233">67. - L'interrogatoire</item>
+               <item xml:id="ch068" n="236">68. - Toute la vérité</item>
+               <item xml:id="ch069" n="239">69. - Le neveu</item>
+               <item xml:id="ch070" n="242">70. - Heureux foyer</item>
+               <item xml:id="ch071" n="245">71. - Il y a de bonnes gens</item>
+               <item xml:id="ch072" n="248">72. - Souvenirs d'histoire</item>
+               <item xml:id="ch073" n="251">73. - La dépêche</item>
+               <item xml:id="ch074" n="255">74. - Réconciliation</item>
+               <item xml:id="ch075" n="258">75. - Le beau temps</item>
+               <item xml:id="ch076" n="261">76. - Les adieux</item>
+               <item xml:id="ch077" n="265">77. - La salle d'attente</item>
+               <item xml:id="ch078" n="269">78. - A Paris</item>
+               <item xml:id="ch079" n="272">79. - Sur la Seine</item>
+               <item xml:id="ch080" n="276">80. - Monuments</item>
+               <item xml:id="ch081" n="279">81. - L'Exposition</item>
+               <item xml:id="ch082" n="283">82. - Pierre, bronze, fer</item>
+               <item xml:id="ch083" n="286">83. - Triomphe du travail</item>
+               <item xml:id="ch084" n="290">84. - Denis Papin</item>
+               <item xml:id="ch085" n="292">85. - Fulton</item>
+               <item xml:id="ch086" n="295">86. - Peinture</item>
+               <item xml:id="ch087" n="302">87. - Les fraises du bois joli</item>
+               <item xml:id="ch088" n="304">88. - En volei!</item>
+               <item xml:id="ch089" n="307">89. - Le pays de Gargantua</item>
+               <item xml:id="ch090" n="312">90. - Fleurs et verdures</item>
+               <item xml:id="ch091" n="315">91. - Asperges d'Argenteuil</item>
+               <item xml:id="ch092" n="318">92. - Trop cer</item>
+               <item xml:id="ch093" n="322">93. - Costumes</item>
+               <item xml:id="ch094" n="325">94. - Coiffures</item>
+               <item xml:id="ch095" n="328">95. - La reine Isabeau</item>
+               <item xml:id="ch096" n="332">96. - Robe neuve</item>
+               <item xml:id="ch097" n="335">97. - Machine à coudre</item>
+               <item xml:id="ch098" n="339">98. - Barthélemy Thimonier</item>
+               <item xml:id="ch099" n="344">99. - Marionnettes</item>
+               <item xml:id="ch100" n="348">100. - Explications</item>
+               <item xml:id="ch101" n="350">101. - Une nouvelle connaissance</item>
+               <item xml:id="ch102" n="355">102. - Un Américain</item>
+               <item xml:id="ch103" n="358">103. - Un grand magasin</item>
+               <item xml:id="ch104" n="363">104. - L'école professionnelle</item>
+               <item xml:id="ch105" n="367">105. - Jeunes travailleuses</item>
+               <item xml:id="ch106" n="372">106. - Au Jardin d'acclimatation</item>
+               <item xml:id="ch107" n="375">107. - La basse-cour</item>
+               <item xml:id="ch108" n="378">108. - Heureuses gens</item>
+               <item xml:id="ch109" n="382">109. - La vacherie</item>
+               <item xml:id="ch110" n="387">110. - Le rucher</item>
+               <item xml:id="ch111" n="391">111. - Notre amie l'abeille</item>
+               <item xml:id="ch112" n="393">112. - Un stimulant</item>
+               <item xml:id="ch113" n="396">113. - Le retour</item>
+               <item xml:id="ch114" n="400">114. - Un cadeau</item>
+               <item xml:id="ch115" n="404">115. - Apiculture</item>
+               <item xml:id="ch116" n="408">116. - Joli succès</item>
+               <item xml:id="ch117" n="410">117. - La conscription</item>
+               <item xml:id="ch118" n="413">118. - Les bras longs</item>
+               <item xml:id="ch119" n="417">119. - Chez le député</item>
+               <item xml:id="ch120" n="420">120. - La France!</item>
+               <item xml:id="ch121" n="424">121. - Nous entrerons dans la carrière</item>
+               <item xml:id="ch122" n="428">122. - Après le départ</item>
+               <item xml:id="ch123" n="430">123. - Un début</item>
+               <item xml:id="ch124" n="434">124. - Pauvre remplaçant</item>
+               <item xml:id="ch125" n="437">125. - L'étoffe d'un honnête homme</item>
+               <item xml:id="ch126" n="441">126. - Un mariage</item>
+               <item xml:id="ch127" n="445">127. - Vingt sous!</item>
+               <item xml:id="ch128" n="449">128. - Les Trois Agaces</item>
+               <item xml:id="ch129" n="452">129. - Le Galibis</item>
+               <item xml:id="ch130" n="456">130. - Terrible scène</item>
+               <item xml:id="ch131" n="459">131. - Conscience et volonté</item>
+               <item xml:id="ch132" n="463">132. - Une arrivée</item>
+               <item xml:id="ch133" n="467">133. - Un départ</item>
+               <item xml:id="ch134" n="469">134. - Plaisirs des champs</item>
+               <item xml:id="ch135" n="473">135. - Affaires de cuisine et de famille</item>
+               <item xml:id="ch136" n="478">136. - Extraits des lettres de Jacques</item>
+               <item xml:id="ch137" n="483">137. - Extraits des lettres de Jacques (suite)</item>
+               <item xml:id="ch138" n="488">138. - Mauvais temps</item>
+               <item xml:id="ch139" n="492">139. - Il se faut entr'aider</item>
+               <item xml:id="ch140" n="496">140. - En taillant une layette</item>
+               <item xml:id="ch141" n="502">141. - Quatre lavandières</item>
+               <item xml:id="ch142" n="508">142. - Un sauvetage</item>
+               <item xml:id="ch143" n="512">143. - Salut à la fermière!</item>
+               <item xml:id="ch144" n="">144. - Trois ans après</item>
+            </list>
          </sourceDesc>
       </fileDesc>
-           <profileDesc>
-         <langUsage>
-            <language ident="fra">French</language>
-            <language ident="eng">English</language>
-         </langUsage>
-      </profileDesc>
-        <encodingDesc>
-         <charDecl>
-            <char>
-               <charName xml:id="les_dumay">La Famille Dumay</charName>
-            </char>
-            <char>
-               <charName xml:id="suzette">Suzette</charName>
-            </char>
-            <char>
-               <charName xml:id="papa">Papa</charName>
-            </char>
-            <char>
-               <charName xml:id="la_maman">La maman</charName>
-            </char>
-            <char>
-               <charName xml:id="jacques">Jacques</charName>            
-            </char>
-            <char>
-               <charName xml:id="francois">François</charName>
-            </char>
-            <char>
-               <charName xml:id="charlot">Charlot</charName>
-            </char>
-            <char>
-               <charName xml:id="mathias_dumay">Mathias Dumay</charName>
-            </char>
-            <char>
-               <charName xml:id="mme_richard">Mme Richard</charName>
-            </char>
-            <char>
-               <charName xml:id="louis">Louis</charName>
-            </char>
-            <char>
-               <charName xml:id="pascal">Pascal</charName>
-            </char>
-            <char>
-               <charName xml:id="marthe">Marthe</charName>
-            </char>
-            <char>
-               <charName xml:id="sylvain">Sylvain</charName>
-            </char> 
-            <char>
-               <charName xml:id="mme_valon">Mme Valon</charName>
-            </char>
-            <char>
-               <charName xml:id="m_valon">M. Valon</charName>
-            </char>
-            <char>
-               <charName xml:id="mme_lienard">Mme Liénard</charName>
-            </char>
-            <char>
-               <charName xml:id="ludivine">Ludivine</charName>
-            </char> 
-            <char>
-               <charName xml:id="m_lejoly">M. Lejoly</charName>
-            </char>
-            <char>
-               <charName  xml:id="m_cartier">M. Cartier</charName>
-            </char>
-            <char>
-               <charName xml:id="jeanne">Jeanne</charName>
-            </char>
-            <char>
-               <charName xml:id="madeleine">Madeleine</charName>
-            </char>
-            <char>
-               <charName xml:id="l_apiculteur">L'apiculteur</charName>
-            </char>
-            <char>
-               <charName xml:id="la_bohemienne">La bohémienne</charName>
-            </char>
-            <char>
-               <charName xml:id="la_flamande">La Flamande</charName>
-            </char>
-         </charDecl>
-         <classDecl>
-            <taxonomy xml:id="classification">
-               <category xml:id="morale">
-                  <catDesc>Morale</catDesc>
-                  <category xml:id="enfantFamille">
-                     <catDesc>L'enfant dans la famille</catDesc>
-                  </category>
-                  <category xml:id="devoirsFreresSoeurs">
-                     <catDesc>Devoirs des frères et sœurs</catDesc>
-                  </category>
-                  <category xml:id="devoirsServiteurs">
-                     <catDesc>Devoirs envers les serviteurs</catDesc>
-                  </category>
-                  <category xml:id="enfantEcole">
-                     <catDesc>L'enfant dans l'école</catDesc>
-                  </category>
-                  <category xml:id="patrie">
-                     <catDesc>La patrie</catDesc>
-                  </category>
-                  <category xml:id="devoirsSoiMeme">
-                     <catDesc>Devoirs envers soi-même</catDesc>
-                  </category>
-                  <category xml:id="biensExterieurs">
-                     <catDesc>Les biens extérieurs</catDesc>
-                  </category>
-                  <category xml:id="ame">
-                     <catDesc>L'âme</catDesc>
-                  </category>
-                  <category xml:id="devoirsSemblables">
-                     <catDesc>Devoirs envers nos semblables</catDesc>
-                  </category>
-                  <category xml:id="devoirsDieu">
-                     <catDesc>Devoirs envers Dieu</catDesc>
-                  </category>
-               </category>
-               <category xml:id="instructionCivique">
-                  <catDesc>Instruction civique</catDesc>
-               </category>
-               <category xml:id="civilite">
-                  <catDesc>Civilité</catDesc>
-               </category>
-               <category xml:id="francais">
-                  <catDesc>Français</catDesc>
-               </category>
-               <category xml:id="composition">
-                  <catDesc>Composition</catDesc>
-                  <!--In the book Composition is followed by an (1); should that be included?-->
-                  <category xml:id="recits">
-                     <catDesc>Récits</catDesc>
-                  </category>
-                  <category xml:id="recitsHistoriques">
-                     <catDesc>Récits historiques</catDesc>
-                  </category>
-                  <category xml:id="descriptions">
-                     <catDesc>Descriptions</catDesc>
-                  </category>
-                  <category xml:id="sujetsMoraux">
-                     <catDesc>Sujets moraux ou d'imagination</catDesc>
-                  </category>
-                  <category xml:id="lettres">
-                     <catDesc>Lettres</catDesc>
-                  </category>
-               </category>
-               <category xml:id="histoire">
-                  <catDesc>Histoire</catDesc>
-                  <!--<category xml:id="histoireNaturelle">
-                     <catDesc>Histoire naturelle</catDesc>
-                  </category>
-                  <category xml:id="histoireTravail">
-                     <catDesc>Histoire du travail</catDesc>
-                  </category>-->
-               </category>
-               <category xml:id="geographie">
-                  <catDesc>Géographie</catDesc>
-                  <category xml:id="europe">
-                     <catDesc>Europe</catDesc>
-                  </category>
-                  <category xml:id="asie">
-                     <catDesc>Asie</catDesc>
-                  </category>
-                  <category xml:id="afrique">
-                     <catDesc>Afrique</catDesc>
-                  </category>
-                  <category xml:id="amerique">
-                     <catDesc>Amérique</catDesc>
-                  </category>
-                  <category xml:id="oceanie">
-                     <catDesc>Océanie</catDesc>
-                  </category>
-                  <category xml:id="france">
-                     <catDesc>France</catDesc>
-                  </category>
-                <!--  <category xml:id="topographie">
-                     <catDesc>Topographie</catDesc>
-                  </category>-->
-               </category>
-               <category xml:id="scienceNat">
-                  <catDesc>Science Naturelles</catDesc>
-                  <!--<category xml:id="geologie">
-                     <catDesc>Géologie</catDesc>
-                  </category>-->
-                     <category xml:id="mineraux">
-                        <catDesc>Minéraux</catDesc>
-                     </category>
-                     <!--In the book Minéraux is followed by ",etc."; should that be included?-->
-                  <!--<category xml:id="botanique">
-                     <catDesc>Botanique</catDesc>-->
-                     <category xml:id="vegetaux">
-                        <catDesc>Végétaux</catDesc>
-                        <!--All of the sub-categories following this are numbered; should that be included?-->
-                        <category xml:id="arbreNoncultives">
-                           <catDesc>Arbres non cultivés</catDesc>
-                        </category>
-                        <category xml:id="herbesPlantes">
-                           <catDesc>Herbes ou plantes sauvages</catDesc>
-                        </category>
-                        <category xml:id="arbreCultives">
-                           <catDesc>Arbres cultivés</catDesc>
-                        </category>
-                        <category xml:id="arbustes">
-                           <catDesc>Arbustes cultivés</catDesc>
-                        </category>
-                        <category xml:id="cereales">
-                           <catDesc>Céréales</catDesc>
-                        </category>
-                        <category xml:id="legumesRacines">
-                           <catDesc>Légumes, racines, etc.</catDesc>
-                        </category>
-                        <category xml:id="divers1"><!-- Avoid tagging with Divers - if necessary, create another sub-category -->
-                           <catDesc>Divers</catDesc>
-                        </category> 
-                     </category>
-                     <!--<category xml:id="physiologieVegetale">
-                        <catDesc>Physiologie végétale</catDesc>
-                     </category>-->
-                  <!--</category>-->
-                 <!-- <category xml:id="zoologie">
-                     <catDesc>Zoologie</catDesc>-->
-                     <category xml:id="animaux">
-                        <catDesc>Animaux</catDesc>
-                        <!--All of the sub-categories following this are numbered; should that be included?-->
-                        <category xml:id="homme">
-                           <catDesc>l'Homme</catDesc>
-                        </category> <!--Homme wouldn't go under zoologie.. could we seperate it or rename this category?-->
-                        <category xml:id="animauxDomestiques">
-                           <catDesc>Animaux domestiques</catDesc>
-                        </category>
-                        <category xml:id="animauxSauvages">
-                           <catDesc>Animaux sauvages</catDesc>
-                        </category>
-                     </category>
-                     <!--<category xml:id="physiologieAnimal">
-                        <catDesc>Physiologie animaux</catDesc>
-                     </category>-->
-                  <!--</category>-->
-                  <!--<category xml:id="agriculture">
-                     <catDesc>Agriculture</catDesc>
-                     <category xml:id="techniquesAgricoles">
-                        <catDesc>Techniques agricoles</catDesc>
-                     </category>
-                     <category xml:id="produits">
-                        <catDesc>Produits</catDesc>
-                     </category>
-                     <category xml:id="outilsMachines">
-                        <catDesc>Outils et machines</catDesc>
-                     </category>
-                     <category xml:id="recolte">
-                        <catDesc>Récolte</catDesc>
-                     </category>
-                     <category xml:id="elevageBetail">
-                        <catDesc>Élevage de bétail</catDesc>
-                     </category>
-                     <category xml:id="terrainAgricole">
-                        <catDesc>Terrain agricole</catDesc>
-                     </category>
-                     <category xml:id="apiculture">
-                        <catDesc>Apiculture</catDesc>
-                     </category>
-                  </category>-->
-               </category>
-               <category xml:id="sciencesPhys">
-                  <catDesc>Notions relatives aux sciences physiques</catDesc>
-                  <!--<category xml:id="elements">
-                     <catDesc>Éléments</catDesc>-\->
-                     <category xml:id="feu">
-                        <catDesc>Feu</catDesc>
-                     </category>
-                     <!-\-Could add categories for earth/wind/air-\->
-                  </category>
-                  <category xml:id="meterologie">
-                     <catDesc>Métérologie</catDesc>-\->
-                  </category>-->
-                  <!--Category for night/day cycles, seasons?-->
-               </category>
-               <category xml:id="industrie">
-                  <catDesc>Industrie</catDesc>
-                  <category xml:id="matieresObjets">
-                     <catDesc>Matières et objets fabriqués</catDesc>
-                  </category>
-                  <category xml:id="constructions">
-                     <catDesc>Constructions</catDesc>
-                  </category>
-                  <category xml:id="machinesAppareils">
-                     <catDesc>Machines, appareils, ustensiles, vases</catDesc>
-                  </category>
-                  <!--Can outils go under machinesAppareils-->
-                  <category xml:id="outils">
-                     <catDesc>Outils</catDesc>
-                  </category>
-                  <category xml:id="etoffesHabillement">
-                     <catDesc>Étoffes, habillement</catDesc>
-                  </category>
-                  <category xml:id="divers2">
-                     <catDesc>Divers</catDesc>
-                  </category>
-               </category>
-               <category xml:id="economieDomestique">
-                  <catDesc>Économie Domestique</catDesc>
-                  <!--<category xml:id="tachesMenageres">
-                     <catDesc>Tâches ménagères</catDesc>
-                  </category>-->
-                  <category xml:id="alimentsCuisine">
-                     <catDesc>Aliments et cuisine</catDesc>
-                  </category>
-                  <category xml:id="vetements1">
-                     <catDesc>Vêtements</catDesc>
-                  </category>
-                  <category xml:id="basse-cour">
-                     <catDesc>Basse-cour</catDesc>
-                  </category>
-                  <!--Could basse-cour be combined with scienceNat/agriculture under elevageBetail?--> 
-               </category>
-               <category xml:id="hygiene">
-                  <catDesc>Hygiène</catDesc>
-                  <category xml:id="corpsHabitations">
-                     <catDesc>Corps et habitations</catDesc>
-                  </category>
-                  <category xml:id="vetements2">
-                     <catDesc>Vêtements</catDesc>
-                  </category>
-                  <category xml:id="aliments">
-                     <catDesc>Aliments</catDesc>
-                  </category>
-                  <category xml:id="maladiesRemedes">
-                     <catDesc>Maladies, etc. ; remèdes</catDesc>
-                  </category>
-               </category>
-            </taxonomy>
-         </classDecl>
-      </encodingDesc>
       <profileDesc>
-         <settingDesc>
-            <listPlace>
-               <place>
-                  <placeName xml:id="l_amerique">l'Amérique</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="l_oceanien">l'Oceanian</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="l_europe">l'Europe</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="l_afrique">l'Afrique</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="l_australie">l'Australie</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="la_france">la France</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="la_chine">la Chine</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="etats_unis">les États-Unis</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="l_arabe">l'Arabe</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="la_canada">la Canada</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="siberie">Sibérie</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="ilesEcosse">Îles d'Écosse</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="la_belgique">la Belgique</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="la_hollande">la Hollande</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="l_inde">l'Inde</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="amienois">Amiénois</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="nerac">Nérac</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="lorraine">Lorraine</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="villedieu">Villedieu</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="houdan">Houdan</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="saone_loire">Saône-et-Loire</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="fragicourt">Fragicourt</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="paris">Paris</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="saint-quentin">Saint-Quentin</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="toulouse">Toulouse</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="boulogne">Boulogne</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="beauvais">Beauvais</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="falaise">Falaise</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="creuset">Creuset</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="bruxelles">Bruxelles</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="boston">Boston</placeName>
-               </place>
-               <place>
-                  <placeName xml:id="cochinchine">Cochinchine</placeName>
-               </place>
-               <place> 
-                  <placeName xml:id="l_avre">l'Avre
-                     <geogFeat>River</geogFeat>
-                  </placeName> 
-               </place>
-               <place>
-                  <placeName xml:id="la_moye">la Moye
-                     <geogFeat>River</geogFeat>
-                  </placeName>
-               </place>
-               <place>
-                  <placeName xml:id="jardinAcclimatation">Jardin d'acclimatation
-                  </placeName>
-               </place>
-               <place>
-                  <placeName xml:id="ecoleAgriculture">l'École d'agriculture</placeName>
-               </place>
-            </listPlace>
-         </settingDesc>
+         <langUsage>
+            <language ident="fr">French</language>
+            <language ident="en">English</language>
+         </langUsage>
       </profileDesc>
    </teiHeader>
    <text>
       <body>
-         <!-- n is for maitresse edition, corresp is for student edition -->
-         
-         <div type="chapter" n="115">
-            <div xml:lang="fr">
-<<<<<<< HEAD
-<<<<<<< HEAD
-               <div type="student">
-                  
-                  <pb type="page" n="404"/>
-                  <head> 115. — Apiculture. (Élève, p. 245.) </head>
-         
-                  <p> <seg ana="#constructions">Le rucher</seg> était en bon lieu. Adossé au pignon du sud, protégé contre <seg ana="#sciencesPhys">le vent</seg> du nord par une palissade de fanes*<gloss>Fanes. Rameaux cueillis et munis encore de leurs feuilles.</gloss> d'œillettes entremêlées de liens de paille, il pouvait attendre que la haie vive de sureau eût la hauteur et la force voulues pour donner, avec l'abri et la verdure, <seg ana="#vegetaux">les fleurs</seg>, si chères aux <seg ana="#animauxSauvages">abeilles</seg>. </p>
-                  <p> Il y avait là maintenant six <seg ana="#constructions">ruches</seg> bourdonnantes. </p>
-                  <p> Autour, quelques <seg ana="#scienceNat">champs de <seg ana="#vegetaux">colza</seg>, d'<seg ana="#vegetaux">œillettes</seg>, de <seg ana="#vegetaux">sainfoin</seg>, de <seg ana="#vegetaux">luzerne</seg> s'épanouirent au <seg ana="#sciencesPhys">printemps</seg> nouveau. Sur les bords du canal, <seg ana="#vegetaux">les acacias</seg>, <seg ana="#vegetaux">les marronniers</seg>, <seg ana="#vegetaux">les tilleuls</seg> éclatèrent en floraison. Le long des routes, au revers des talus, foisonnèrent <seg ana="#vegetaux">les fleurs sauvages</seg> : <seg ana="#vegetaux">silènes</seg>, <seg ana="#vegetaux">boutons d'or</seg>, <seg ana="#vegetaux">liserons</seg>, <seg ana="#vegetaux">campanules</seg>, <seg ana="#vegetaux">serpolet</seg>. </p>
-                  
-                  <figure> 
-                     <caption> <hi rend="italic"><seg ana="#legumesRacines">Œillette</seg> et <seg ana="#legumesRacines">sureau</seg>.</hi>
-                        <lb/>
-                        <seg ana="#vegetaux">L'œillette</seg> (1) est <seg ana="#vegetaux">un pavot</seg> dont on extrait <seg ana="#matieresObjets">une huile comestible</seg> appelée <seg ana="#matieresObjets">huile d'œillette</seg>. — <seg ana="#vegetaux">Les fleurs de sureau</seg> (2) sont employées en infusion pour provoquer <seg ana="#homme">la sueur</seg>.
+         <div1 type="chapter" xml:lang="fr" corresp="#ch115">
+            <head> 115. — Apiculture. (Élève, p. 245.) </head>
+            <pb type="page" n="404"/>
+            <div2 type="student_edition">
+               <div3 type="récit">
+
+                  <p> Le rucher était en bon lieu. Adossé au pignon du sud, protégé contre le vent
+                     du nord par une palissade de fanes* <gloss>Fanes. Rameaux cueillis et munis
+                        encore de leurs feuilles.</gloss> d'œillettes entremêlées de liens de
+                     paille, il pouvait attendre que la haie vive de sureau eût la hauteur et la
+                     force voulues pour donner, avec l'abri et la verdure, les fleurs, si chères aux
+                     abeilles.</p>
+                  <p> Il y avait là maintenant six ruches bourdonnantes. </p>
+                  <p> Autour, quelques champs de colza, d'œillettes, de sainfoin, de luzerne
+                     s'épanouirent au printemps nouveau. Sur les bords du canal, les acacias, les
+                     marronniers, les tilleuls éclatèrent en floraison. Le long des routes, au
+                     revers des talus, foisonnèrent les fleurs sauvages : silènes, boutons d'or,
+                     liserons, campanules, serpolet. </p>
+
+                  <figure type="sujets">
+                     <caption> Œillette et sureau.</caption>
+                     <caption>L'œillette (1) est un pavot dont on extrait une huile comestible
+                        appelée huile d'œillette. — Les fleurs de sureau (2) sont employées en
+                        infusion pour provoquer la sueur. </caption>
+                  </figure>
+
+                  <p> Et voilà votre table servie ! butinez, amies abeilles ! </p>
+                  <p> C'était le temps de la miellée, où l'apiculteur se réjouit. Suzette guettait
+                     les mouvements des six laborieuses républiques. Le va-et-vient, le brouhaha des
+                     ouvrières indiquait qu'au dedans le couvain prospérait. Elle épiait le moment
+                     où il faudrait mettre à leur service la science apportée de Paris. </p>
+                  <p> Et c'est pourquoi, un dimanche matin, par le plus beau temps, elle se tenait
+                     en observation sous un petit ceri- <fw type="header"> APICULTURE. 405 </fw>
+                     <pb type="page" n="405"/> sier du jardin, tout chargé de ses fruits de corail*
+                        <gloss>Corail. Production marine en forme d'arbuste et de couleur
+                        rouge.</gloss>, et surveillait très attentivement la sortie des butineuses. </p>
+                  <p> Pendant plusieurs heures, et à mesure que le soleil montait, ce furent des
+                     envolées, des départs sans trêve. Puis les sorties se firent plus rares, et,
+                     tout au contraire, le va-et-vient des rentrées augmenta. </p>
+                  <p> Voilà l'instant ! Elle appela Jacques. Le nez en trompette de M. François se
+                     montra aussitôt. Mais les abords du rucher étaient absolument interdits à ce
+                     nez pour lequel on craignait quelque affaire plus fâcheuse encore que celle du
+                     cliquet de l'éteignoir à chandelle. </p>
+                  <p> Jacques arriva à l'appel et, tout doucement, avec les plus grandes
+                     précautions, la sœur et le grand frère transportèrent la première ruche à cinq
+                     mètres de la place qu'elle occupait et la posèrent sur un support, préparé à
+                     l'avance. Puis ils attendirent. </p>
+
+                  <figure type="sujets">
+                     <caption>1. — Jeune fille cueillant du tilleul. — 2. Fleur du
+                        tilleul.</caption>
+                     <caption>Le bois du tilleul est très employé en ébénisterie. Cueillez et
+                        conservez, les fleurs du tilleul ; elles vous serviront à faire des tisanes
+                        sudorifiques et à préparer des bains calmants pour les petits enfants.
                      </caption>
                   </figure>
-                  
-                  <p> Et voilà votre table servie ! butinez, amies <seg ana="#animauxSauvages">abeilles</seg> ! </p>
-                  <p> C'était le temps de <seg ana="#scienceNat">la miellée</seg>, où <seg ana="#scienceNat">l'apiculteur</seg> se réjouit. <persName ana="#suzette">Suzette</persName> guettait les mouvements des six laborieuses républiques. Le va-et-vient, le brouhaha des ouvrières indiquait qu'au dedans <seg ana="#scienceNat">le couvain</seg> prospérait. Elle épiait le moment où il faudrait mettre à leur service la science apportée de <placeName ana="#paris">Paris</placeName>. </p>
-                  <p> Et c'est pourquoi, un dimanche matin, par le plus beau temps, elle se tenait en observation sous un petit <seg ana="#arbreCultives">ceri-
-                     
-                     <pb type="page" n="405"/>   
-                     <fw type="header"> APICULTURE. 405 </fw>
-         
-                  sier</seg> du jardin, tout chargé de ses <seg ana="#vegetaux">fruits de corail</seg>*<gloss>Corail. Production marine en forme d'arbuste et de couleur rouge.</gloss>, et surveillait très attentivement la sortie des butineuses. </p>
-                  <p> Pendant plusieurs heures, et à mesure que <seg ana="#sciencesPhys">le soleil</seg> montait, ce furent des envolées, des départs sans trêve. Puis les sorties se firent plus rares, et, tout au contraire, le va-et-vient des rentrées augmenta. </p>
-                  <p> Voilà l'instant ! Elle appela <persName ana="#jacques">Jacques</persName>. Le nez en trompette de <persName ana="#francois">M. François</persName> se montra aussitôt. Mais les abords du <seg ana="#constructions">rucher</seg> étaient absolument interdits à ce nez pour lequel on craignait quelque affaire plus fâcheuse encore que celle du cliquet de l'éteignoir à chandelle. </p>
-                  <p> <persName ana="#jacques">Jacques</persName> arriva à l'appel et, tout doucement, avec les plus grandes précautions, <persName ana="#suzette">la sœur</persName> et <persName ana="#jacques">le grand frère</persName> transportèrent la première <seg ana="#constructions">ruche</seg> à cinq mètres de la place qu'elle occupait et la posèrent sur un support, préparé à l'avance. Puis ils attendirent. </p>
-                  
-                  <figure> 
-                     <caption> <hi rend="italic">1. — <persName ana="#suzette">Jeune fille</persName> cueillant du <seg ana="#vegetaux">tilleul</seg>. — 2. <seg ana="#vegetaux">Fleur du tilleul</seg>.</hi>
-                        <lb/>
-                        <seg ana="#vegetaux">Le bois du tilleul</seg> est très employé en <seg ana="#machinesAppareils">ébénisterie</seg>. Cueillez et conservez, <seg ana="#vegetaux">les fleurs du tilleul</seg> ; elles vous serviront à faire des <seg ana="#alimentsCuisine">tisanes</seg> sudorifiques et à préparer des bains calmants pour les petits enfants.
-                     </caption>
-                  </figure>
-                  
-                  <p> Bientôt les butineuses, de retour, gagnèrent leur logis ; celles de <seg ana="#construction">la ruche déplacée cherchèrent le leur, restèrent un moment à bourdonner sur place, et finalement, ne le trouvant pas, passèrent dans <seg ana="#construction">la ruche</seg> la plus proche. </p>
-                  <p> Les portières, car il y a là des portières, les laissèrent entrer, les voyant chargées de <seg ana="#animauxsauvages">miel</seg> ; sans quoi, les étrangères eussent été reçues à coups d'<seg ana="#animauxsauvages">aiguillon</seg>. </p>
-                  <p> L'opération délicate du passage d’ouvrières, d'<seg ana="#construction">une ruche</seg> dans une autre, avait réussi. <persName ana="#suzette">Suzette</persName> poussa une exclamation de joie. </p>
-                  
+
+                  <p> Bientôt les butineuses, de retour, gagnèrent leur logis ; celles de la ruche
+                     déplacée cherchèrent le leur, restèrent un moment à bourdonner sur place, et
+                     finalement, ne le trouvant pas, passèrent dans la ruche la plus proche. </p>
+                  <p> Les portières, car il y a là des portières, les laissèrent entrer, les voyant
+                     chargées de miel ; sans quoi, les étrangères eussent été reçues à coups
+                     d'aiguillon. </p>
+                  <p> L'opération délicate du passage d’ouvrières, d'une ruche dans une autre, avait
+                     réussi. Suzette poussa une exclamation de joie. </p>
+
                   <fw type="sig"> 23. </fw>
-         
-                  <pb type="page" n="406"/>   
+
                   <fw type="header"> 406 SUZETTE. </fw>
-                  
-                   <div type="questionnaire">
-                     <ab>
-                        <hi rend="bold"> Questionnaire. </hi> — Où Suzette avait-elle installé son rucher ? — Qu'est ce qui fournissait la nourriture des abeilles : 1° dans le voisinage des ruches ; — 2° aux alentours ? — Que faisait un jour Suzette au temps de la miellée ? — Où se tenait-elle un dimanche matin ? — Que vit-on pendant les premières
-                        <cb/>
-                        heures ? — Qui appela-t-elle à son aide ? — Comment Jacques arriva-t-il ? — Quelle opération firent-ils ensemble ? — Que vit-on bientôt de la part des abeilles ? — Pourquoi les accueillit-on dans lus ruches voisines ? — Qu'est-ce que cela prouvait ?
-                     </ab>
-                  </div>
-               </div>
-               
-               <div type="teacher">
-                  <div type="exercice">
-                     <head type="exercice"> DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES. </head>
-                     
-                     <div type="sciencesNat">
-                        <head type="sujets"> Sciences naturelles. </head> 
-                        
-                        <!--<seg corresp="#sciencesPhys">— LE VENT.</seg>-->
-                        <ab type="question"> — Ce qu'est le vent. — Comment est le vent selon le point cardinal d'où il arrive ? — Services que rendent les vents. — Vitesse des vents. — Qu'entend-on par ouragan, trombes ? — Dites ce que vous vous rappelez sur les désastres causés par les trombes. </ab>
-                        
-                        <ab type="answer"> <note type="reference">(Voir le développement de la 57e leçon pour ce qui concerne les trois premières questions.) </note><lb/>
-                        Les <seg corresp="#sciencesPhys">ouragans</seg> ou <seg corresp="#sciencesPhys">cyclones</seg> sont de vastes tourbillons qui se forment dans l'atmosphère, et dans lesquels la force du vent augmente jusqu'à une certaine distance du contre. Un calme absolu règne dans la région centrale, sur mer, mais les flots y sont cependant horriblement agités. <lb/>
-                        Autour de cet espace, l'air circule avec l'effrayante vitesse de 20 à 240 kilomètres à l'heure, et décrit sur le globe un ovale immense ; malheur aux navires ou aux maisons, plantations, forêts qui se trouvent sur la route du terrible météore ! Le vent déchaîne soulève les vagues en montagnes colossales ; sur terre, il renverse tout, au milieu du bruit formidable du tonnerre qui gronde sans interruption. <lb/>
-                        Une <seg corresp="#sciencesPhys">trombe</seg> est un phénomène analogue aux cyclones ; c’est un amas de vapeurs descendant des nuages sous la forme d'une colonne conique très allongée, touchant le sol par son extrémité la moins volumineuse, et qui tournoie avec rapidité en formant des ondulations comme un serpent gigantesque. <lb/>
-                        Voici un exemple du spectacle que présente ce météore et des ravages qu'il commet : <lb/>
-                        <note type="quote">« Une nuée extrêmement épaisse et fort basse, poussée par un vent du nord, couvrit la surface du sol sur lequel est placé le bourg de Mirabeau. Différents tourbillons se formèrent en même temps dans cette masse noire chargée de vapeurs épaisses ; il en sortit de la grêle ; le tonnerre se fit entendre ; les arbres et les haies furent arrachés ; l'eau de la petite rivière de Mirabeau fut transportée à plus de soixante pas de son lit, qui resta à sec ; pendant ce temps, deux hommes qui se trouvèrent enveloppés dans un des tourbillons furent portés assez loin sans qu'il leur arrivât rien de fâcheux. Un jeune pâtre fut enlevé plus haut et rejeté au bord de la rivière sans que sa chute fût violente ; le tourbillon qui l'avait emporté, le posa à l'endroit où il cessa d'agir. Toute la fureur du météore se disipa dans l'espace (d'une lieue de longueur sur une demi-lieue de largeur. »</note> <note type="citation">(RICHARD, Histoire naturelle de l'air et des météores.)</note></ab>
-                           
-                        <!--<seg corresp="#animauxSauvages">ESSAIMS D'ABEILLES.</seg>-->
-                        <ab type="question"> — Qu'entend-on par essaims ? — A quelle époque de l'année se forment-ils ? — Où se posent-ils ? — Comment sont-ils recueillis ? </ab>
-                        
-                        <ab type="answer"> On appelle <seg corresp="#animauxSauvages">essaim</seg> un groupe considérable d'abeilles qui, sous la conduite de la reine, abandonne la ruche pour fonder ailleurs une colonie nouvelle. Cette curieuse émigration a lieu aux mois de mai et de juin ; elle se renouvelle deux fois par an dans le Nord et jusqu'à quatre fois dans le Midi. <lb/>
-         
-                           <pb type="page" n="407"/>   
-                           <fw type="header"> APICULTURE. 407 </fw>
-         
-                        A la suite d'une visite de la reine dans toutes les parties de la ruche, une agitation générale se manifeste, et une quantité d'abeilles, la reine en tête, se précipitent au dehors, formant une masse compacte qui se fixe sur une branche d'arbre et s'y tient immobile. <lb/>   
-                        C'est le moment où l’apiculteur doit s'emparer de l'essaim et lui offrir une ruche préparée à l'avance ; il pose au-dessous cette ruche renversée, imprime une secousse à l'arbre, dont l'essaim se détache et tombe. On transporte immédiatement la ruche au lieu où elle doit être installée ; on la place sur la pierre ou la planche formant support, et aussitôt les abeilles commencent leur travail fécond. </ab>
-                     </div>
-                     
-                     <div type="agriculture">
-                        <head type="sujets"> Agriculture. </head> 
-                      
-                        <ab type="question"> — Que signifie le terme oléagineuse appliqué à certaines plantes ? — Nommez des plantes oléagineuses ; — des fruits oléagineux. — Dans quelles provinces de France cultive-t-on le plus le colza, l'œillette, le lin ? — Quel produit tire-t-on encore du lin ? — Décrire la fleur du lin. </ab>
-                        
-                        <ab type="answer"> Le terme <seg corresp="#legumesRacines">oléagineuse</seg> appliqué à certaines plantes indique que l'on peut tirer de l'huile de ces plantes. <lb/>
-                        Parmi les <seg corresp="#legumesRacines">plantes oléagineuses</seg>, on citera l'œillette, le colza, la navette, et parmi les <seg corresp="#legumesRacines">fruits oléagineux</seg>, la noix, l'olive, la faîne, la noisette. La graine du lin donne également de l'huile, ainsi que celle du chanvre. <lb/>
-                        Le colza, l'œillette et le lin sont cultivés principalement dans la région septentrionale de la France. On tire encore du lin une matière textile avec laquelle on fait des toiles estimées. Comme nous l'avons dit précédemment, le lin n'a pas les dimensions du chanvre ; sa tige atteint à peine 50 à 60 centimètres, et elle porte au printemps une mignonne fleur bleue formée de cinq pétales réunis en clochette. </ab>
-                     </div>
-                     
-                     <div type="geographie">
-                        <head type="sujets"> Géographie. </head> 
-                     
-                        <ab type="question"> — Qu'est-ce qu'un canal ? — Pourquoi creuse-t-on un canal ? — Que représente le profil d'un canal ? — A quoi servent les écluses ? — Donnez une idée de la disposition d'une écluse. — Citez lez principaux canaux de France. </ab>
-                        
-                        <ab type="answer"> Un <seg corresp="#france">canal</seg> est une sorte de rivière creusée de main d'homme, où l'eau reste immobile, et qui sert à faciliter le transport des marchandises et des denrées encombrantes. Sur un canal, un cheval peut traîner 30 ou 40 fois plus que sur une route. <lb/>
-                        On creuse un canal lorsqu'il n'existe pas de cours d'eau navigable entre deux villes ou deux régions qui ont entre elles des relations commerciales importantes. Comme l'eau ne doit pas couler dans le canal (car on ne saurait comment s'y prendre pour l'alimenter), on le forme de parties longues de 1 à 2 ou 3 kilomètres au maximum, qu'on appelle biez, et qui se trouvent respectivement les unes au-dessus ou au-dessous des autres de 7 à 8 mètres. <lb/>
-                        Un canal, dans son profil, représente donc une sorte d'escalier à marches très longues qui s'élèvent successivement jusqu'au point le plus élevé séparant les lieux à mettre en communication, puis redescendant jusqu'au lieu terminal. <lb/>
-                        Les <seg corresp="#france">écluses</seg> sont des fossés à bords perpendiculaires, solidement maçonnés, profonds de 7 à 8 mètres, et qui servent à faire communiquer deux biez entre eux. <lb/>
-                        Toute écluse présente à chacune de ses deux extrémités une porte énorme. Voici comment le tout fonctionne. Supposons qu'il faille faire remonter un bateau du biez inférieur au biez supérieur : l'écluse est pleine d'eau ; on ouvre deux petites vannes à la partie la plus basse de la porte du biez inférieur ; l'écluse se vide rapidement et l'eau y descend au niveau du biez inférieur ; la chose achevée, on ouvre les portes
-         
-                           <pb type="page" n="408"/>   
-                           <fw type="header"> 408 SUZETTE. </fw>
-         
-                        et le bateau est amené dans l'écluse. Les portes étant formées, on lève les vannes de la porte supérieure ; l'écluse se remplit et bientôt le bateau est au niveau du biez où il doit entrer. La porte supérieure est alors ouverte, et le bateau pénètre sans difficulté dans le biez en question. <lb/>
-                        Les principaux canaux de Franco sont ceux de la région de la Flandre, le canal de Saint-Quentin, celui de la Marne au Rhin, du Rhône au Rhin, de Bourgogne, de Briare, du Centre, de Nantes à Brest, du Nivernais, du Midi. </ab>
-                     </div>
-                  </div>
-               </div>
-            </div>
-=======
-               
-               <div type="student">   
-                  <pb type="page" n="404"/>
-                  <head>115. — Apiculture. (Élève, p. 245.)</head>
-=======
-               <div type="student">
->>>>>>> 57f1965594c4bf6d52e9592c96e5fb37201fa67b
-                  
-                  <pb type="page" n="404"/>
-                  <head> 115. — Apiculture. (Élève, p. 245.) </head>
-         
-                  <p> <seg ana="#constructions">Le rucher</seg> était en bon lieu. Adossé au pignon du sud, protégé contre <seg ana="#sciencesPhys">le vent</seg> du nord par une palissade de fanes*<gloss>Fanes. Rameaux cueillis et munis encore de leurs feuilles.</gloss> d'œillettes entremêlées de liens de paille, il pouvait attendre que la haie vive de sureau eût la hauteur et la force voulues pour donner, avec l'abri et la verdure, <seg ana="#vegetaux">les fleurs</seg>, si chères aux <seg ana="#animauxSauvages">abeilles</seg>. </p>
-                  <p> Il y avait là maintenant six <seg ana="#constructions">ruches</seg> bourdonnantes. </p>
-                  <p> Autour, quelques <seg ana="#scienceNat">champs de <seg ana="#vegetaux">colza</seg></seg>, d'<seg ana="#vegetaux">œillettes</seg>, de <seg ana="#vegetaux">sainfoin</seg>, de <seg ana="#vegetaux">luzerne</seg> s'épanouirent au <seg ana="#sciencesPhys">printemps</seg> nouveau. Sur les bords du canal, <seg ana="#vegetaux">les acacias</seg>, <seg ana="#vegetaux">les marronniers</seg>, <seg ana="#vegetaux">les tilleuls</seg> éclatèrent en floraison. Le long des routes, au revers des talus, foisonnèrent <seg ana="#vegetaux">les fleurs sauvages</seg> : <seg ana="#vegetaux">silènes</seg>, <seg ana="#vegetaux">boutons d'or</seg>, <seg ana="#vegetaux">liserons</seg>, <seg ana="#vegetaux">campanules</seg>, <seg ana="#vegetaux">serpolet</seg>. </p>
-                  
-                  <figure> 
-                     <caption> <hi rend="italic"><seg ana="#legumesRacines">Œillette</seg> et <seg ana="#legumesRacines">sureau</seg>.</hi>
-                        <lb/>
-                        <seg ana="#vegetaux">L'œillette</seg> (1) est <seg ana="#vegetaux">un pavot</seg> dont on extrait <seg ana="#matieresObjets">une huile comestible</seg> appelée <seg ana="#matieresObjets">huile d'œillette</seg>. — <seg ana="#vegetaux">Les fleurs de sureau</seg> (2) sont employées en infusion pour provoquer <seg ana="#homme">la sueur</seg>.
-                     </caption>
-                  </figure>
-                  
-                  <p> Et voilà votre table servie ! butinez, amies <seg ana="#animauxSauvages">abeilles</seg> ! </p>
-                  <p> C'était le temps de <seg ana="#scienceNat">la miellée</seg>, où <seg ana="#scienceNat">l'apiculteur</seg> se réjouit. <persName ana="#suzette">Suzette</persName> guettait les mouvements des six laborieuses républiques. Le va-et-vient, le brouhaha des ouvrières indiquait qu'au dedans <seg ana="#scienceNat">le couvain</seg> prospérait. <!--<name type="space" ana="#suzette" n="f">-->Elle épiait le moment où il faudrait mettre à leur service la science apportée de <placeName ana="#paris">Paris</placeName><!--</name>-->. </p>
-                  <p> <name type="space" ana="#suzette" n="f">Et c'est pourquoi, un dimanche matin, par le plus beau temps, elle se tenait en observation sous un petit <seg ana="#arbreCultives">ceri-
-                     
-                     <pb type="page" n="405"/>   
-                     <fw type="header"> APICULTURE. 405 </fw>
-         
-                  sier</seg> du jardin, tout chargé de ses <seg ana="#vegetaux">fruits de corail</seg>*<gloss>Corail. Production marine en forme d'arbuste et de couleur rouge.</gloss>, et surveillait très attentivement la sortie des butineuses.</name> </p>
-                  <p> Pendant plusieurs heures, et à mesure que <seg ana="#sciencesPhys">le soleil</seg> montait, ce furent des envolées, des départs sans trêve. Puis les sorties se firent plus rares, et, tout au contraire, le va-et-vient des rentrées augmenta. </p>
-                  <p> Voilà l'instant ! Elle appela <persName ana="#jacques">Jacques</persName>. Le nez en trompette de <persName ana="#francois">M. François</persName> se montra aussitôt. Mais les abords du <seg ana="#constructions">rucher</seg> étaient absolument interdits à ce nez pour lequel on craignait quelque affaire plus fâcheuse encore que celle du cliquet de l'éteignoir à chandelle. </p>
-                  <p> <persName ana="#jacques">Jacques</persName> arriva à l'appel et, tout doucement, avec les plus grandes précautions, <persName ana="#suzette">la sœur</persName> et <persName ana="#jacques">le grand frère</persName> transportèrent la première <seg ana="#constructions">ruche</seg> à cinq mètres de la place qu'elle occupait et la posèrent sur un support, préparé à l'avance. Puis ils attendirent. </p>
-                  
-                  <figure> 
-                     <caption> <hi rend="italic">1. — <persName ana="#suzette">Jeune fille</persName> cueillant du <seg ana="#vegetaux">tilleul</seg>. — 2. <seg ana="#vegetaux">Fleur du tilleul</seg>.</hi>
-                        <lb/>
-                        <seg ana="#vegetaux">Le bois du tilleul</seg> est très employé en <seg ana="#machinesAppareils">ébénisterie</seg>. Cueillez et conservez, <seg ana="#vegetaux">les fleurs du tilleul</seg> ; elles vous serviront à faire des <seg ana="#alimentsCuisine">tisanes</seg> sudorifiques et à préparer des bains calmants pour les petits enfants.
-                     </caption>
-                  </figure>
-                  
-                  <p> Bientôt les butineuses, de retour, gagnèrent leur logis ; celles de <seg ana="#construction">la ruche</seg> déplacée cherchèrent le leur, restèrent un moment à bourdonner sur place, et finalement, ne le trouvant pas, passèrent dans <seg ana="#construction">la ruche</seg> la plus proche. </p>
-                  <p> Les portières, car il y a là des portières, les laissèrent entrer, les voyant chargées de <seg ana="#animauxsauvages">miel</seg> ; sans quoi, les étrangères eussent été reçues à coups d'<seg ana="#animauxsauvages">aiguillon</seg>. </p>
-                  <p> L'opération délicate du passage d’ouvrières, d'<seg ana="#construction">une ruche</seg> dans une autre, avait réussi. <persName ana="#suzette">Suzette</persName> poussa une exclamation de joie. </p>
-                  
-                  <fw type="sig"> 23. </fw>
-         
-                  <pb type="page" n="406"/>   
-                  <fw type="header"> 406 SUZETTE. </fw>
-                  
-                   <div type="questionnaire">
-                     <ab>
-                        <hi rend="bold"> Questionnaire. </hi> — Où Suzette avait-elle installé son rucher ? — Qu'est ce qui fournissait la nourriture des abeilles : 1° dans le voisinage des ruches ; — 2° aux alentours ? — Que faisait un jour Suzette au temps de la miellée ? — Où se tenait-elle un dimanche matin ? — Que vit-on pendant les premières
-                        <cb/>
-                        heures ? — Qui appela-t-elle à son aide ? — Comment Jacques arriva-t-il ? — Quelle opération firent-ils ensemble ? — Que vit-on bientôt de la part des abeilles ? — Pourquoi les accueillit-on dans lus ruches voisines ? — Qu'est-ce que cela prouvait ?
-                     </ab>
-                  </div>
-               </div>
-               
-               <div type="teacher">
-                  <div type="exercice">
-                     <head type="exercice"> DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES. </head>
-                     
-                     <div type="sciencesNat">
-                        <head type="sujets"> Sciences naturelles. </head> 
-                        
-                        <!--<seg corresp="#sciencesPhys">— LE VENT.</seg>-->
-                        <ab type="question"> — Ce qu'est le vent. — Comment est le vent selon le point cardinal d'où il arrive ? — Services que rendent les vents. — Vitesse des vents. — Qu'entend-on par ouragan, trombes ? — Dites ce que vous vous rappelez sur les désastres causés par les trombes. </ab>
-                        
-                        <ab type="answer"> <note type="reference">(Voir le développement de la 57e leçon pour ce qui concerne les trois premières questions.) </note><lb/>
-                        Les <seg corresp="#sciencesPhys">ouragans</seg> ou <seg corresp="#sciencesPhys">cyclones</seg> sont de vastes tourbillons qui se forment dans l'atmosphère, et dans lesquels la force du vent augmente jusqu'à une certaine distance du contre. Un calme absolu règne dans la région centrale, sur mer, mais les flots y sont cependant horriblement agités. <lb/>
-                        Autour de cet espace, l'air circule avec l'effrayante vitesse de 20 à 240 kilomètres à l'heure, et décrit sur le globe un ovale immense ; malheur aux navires ou aux maisons, plantations, forêts qui se trouvent sur la route du terrible météore ! Le vent déchaîne soulève les vagues en montagnes colossales ; sur terre, il renverse tout, au milieu du bruit formidable du tonnerre qui gronde sans interruption. <lb/>
-                        Une <seg corresp="#sciencesPhys">trombe</seg> est un phénomène analogue aux cyclones ; c’est un amas de vapeurs descendant des nuages sous la forme d'une colonne conique très allongée, touchant le sol par son extrémité la moins volumineuse, et qui tournoie avec rapidité en formant des ondulations comme un serpent gigantesque. <lb/>
-                        Voici un exemple du spectacle que présente ce météore et des ravages qu'il commet : <lb/>
-                        <note type="quote">« Une nuée extrêmement épaisse et fort basse, poussée par un vent du nord, couvrit la surface du sol sur lequel est placé le bourg de Mirabeau. Différents tourbillons se formèrent en même temps dans cette masse noire chargée de vapeurs épaisses ; il en sortit de la grêle ; le tonnerre se fit entendre ; les arbres et les haies furent arrachés ; l'eau de la petite rivière de Mirabeau fut transportée à plus de soixante pas de son lit, qui resta à sec ; pendant ce temps, deux hommes qui se trouvèrent enveloppés dans un des tourbillons furent portés assez loin sans qu'il leur arrivât rien de fâcheux. Un jeune pâtre fut enlevé plus haut et rejeté au bord de la rivière sans que sa chute fût violente ; le tourbillon qui l'avait emporté, le posa à l'endroit où il cessa d'agir. Toute la fureur du météore se disipa dans l'espace (d'une lieue de longueur sur une demi-lieue de largeur. »</note> <note type="citation">(RICHARD, Histoire naturelle de l'air et des météores.)</note></ab>
-                           
-                        <!--<seg corresp="#animauxSauvages">ESSAIMS D'ABEILLES.</seg>-->
-                        <ab type="question"> — Qu'entend-on par essaims ? — A quelle époque de l'année se forment-ils ? — Où se posent-ils ? — Comment sont-ils recueillis ? </ab>
-                        
-                        <ab type="answer"> On appelle <seg corresp="#animauxSauvages">essaim</seg> un groupe considérable d'abeilles qui, sous la conduite de la reine, abandonne la ruche pour fonder ailleurs une colonie nouvelle. Cette curieuse émigration a lieu aux mois de mai et de juin ; elle se renouvelle deux fois par an dans le Nord et jusqu'à quatre fois dans le Midi. <lb/>
-         
-                           <pb type="page" n="407"/>   
-                           <fw type="header"> APICULTURE. 407 </fw>
-         
-                        A la suite d'une visite de la reine dans toutes les parties de la ruche, une agitation générale se manifeste, et une quantité d'abeilles, la reine en tête, se précipitent au dehors, formant une masse compacte qui se fixe sur une branche d'arbre et s'y tient immobile. <lb/>   
-                        C'est le moment où l’apiculteur doit s'emparer de l'essaim et lui offrir une ruche préparée à l'avance ; il pose au-dessous cette ruche renversée, imprime une secousse à l'arbre, dont l'essaim se détache et tombe. On transporte immédiatement la ruche au lieu où elle doit être installée ; on la place sur la pierre ou la planche formant support, et aussitôt les abeilles commencent leur travail fécond. </ab>
-                     </div>
-                     
-                     <div type="agriculture">
-                        <head type="sujets"> Agriculture. </head> 
-                      
-                        <ab type="question"> — Que signifie le terme oléagineuse appliqué à certaines plantes ? — Nommez des plantes oléagineuses ; — des fruits oléagineux. — Dans quelles provinces de France cultive-t-on le plus le colza, l'œillette, le lin ? — Quel produit tire-t-on encore du lin ? — Décrire la fleur du lin. </ab>
-                        
-                        <ab type="answer"> Le terme <seg corresp="#legumesRacines">oléagineuse</seg> appliqué à certaines plantes indique que l'on peut tirer de l'huile de ces plantes. <lb/>
-                        Parmi les <seg corresp="#legumesRacines">plantes oléagineuses</seg>, on citera l'œillette, le colza, la navette, et parmi les <seg corresp="#legumesRacines">fruits oléagineux</seg>, la noix, l'olive, la faîne, la noisette. La graine du lin donne également de l'huile, ainsi que celle du chanvre. <lb/>
-                        Le colza, l'œillette et le lin sont cultivés principalement dans la région septentrionale de la France. On tire encore du lin une matière textile avec laquelle on fait des toiles estimées. Comme nous l'avons dit précédemment, le lin n'a pas les dimensions du chanvre ; sa tige atteint à peine 50 à 60 centimètres, et elle porte au printemps une mignonne fleur bleue formée de cinq pétales réunis en clochette. </ab>
-                     </div>
-                     
-                     <div type="geographie">
-                        <head type="sujets"> Géographie. </head> 
-                     
-                        <ab type="question"> — Qu'est-ce qu'un canal ? — Pourquoi creuse-t-on un canal ? — Que représente le profil d'un canal ? — A quoi servent les écluses ? — Donnez une idée de la disposition d'une écluse. — Citez lez principaux canaux de France. </ab>
-                        
-                        <ab type="answer"> Un <seg corresp="#france">canal</seg> est une sorte de rivière creusée de main d'homme, où l'eau reste immobile, et qui sert à faciliter le transport des marchandises et des denrées encombrantes. Sur un canal, un cheval peut traîner 30 ou 40 fois plus que sur une route. <lb/>
-                        On creuse un canal lorsqu'il n'existe pas de cours d'eau navigable entre deux villes ou deux régions qui ont entre elles des relations commerciales importantes. Comme l'eau ne doit pas couler dans le canal (car on ne saurait comment s'y prendre pour l'alimenter), on le forme de parties longues de 1 à 2 ou 3 kilomètres au maximum, qu'on appelle biez, et qui se trouvent respectivement les unes au-dessus ou au-dessous des autres de 7 à 8 mètres. <lb/>
-                        Un canal, dans son profil, représente donc une sorte d'escalier à marches très longues qui s'élèvent successivement jusqu'au point le plus élevé séparant les lieux à mettre en communication, puis redescendant jusqu'au lieu terminal. <lb/>
-                        Les <seg corresp="#france">écluses</seg> sont des fossés à bords perpendiculaires, solidement maçonnés, profonds de 7 à 8 mètres, et qui servent à faire communiquer deux biez entre eux. <lb/>
-                        Toute écluse présente à chacune de ses deux extrémités une porte énorme. Voici comment le tout fonctionne. Supposons qu'il faille faire remonter un bateau du biez inférieur au biez supérieur : l'écluse est pleine d'eau ; on ouvre deux petites vannes à la partie la plus basse de la porte du biez inférieur ; l'écluse se vide rapidement et l'eau y descend au niveau du biez inférieur ; la chose achevée, on ouvre les portes
-         
-                           <pb type="page" n="408"/>   
-                           <fw type="header"> 408 SUZETTE. </fw>
-         
-                        et le bateau est amené dans l'écluse. Les portes étant formées, on lève les vannes de la porte supérieure ; l'écluse se remplit et bientôt le bateau est au niveau du biez où il doit entrer. La porte supérieure est alors ouverte, et le bateau pénètre sans difficulté dans le biez en question. <lb/>
-                        Les principaux canaux de Franco sont ceux de la région de la Flandre, le canal de Saint-Quentin, celui de la Marne au Rhin, du Rhône au Rhin, de Bourgogne, de Briare, du Centre, de Nantes à Brest, du Nivernais, du Midi. </ab>
-                     </div>
-                  </div>
-               </div>
-            </div>
-<<<<<<< HEAD
-            </div>
->>>>>>> 13c6e2ebd97ccf3f0d560601e135e09400e05366
-         </div>
+                  <pb type="page" n="406"/>
+
+               </div3>
+            </div2>
+
+            <div2 type="teacher_edition">
+               <div3 type="questionnaire">
+                  <head> Questionnaire. </head>
+                  <list>
+                     <item>— Où Suzette avait-elle installé son rucher ?</item>
+                     <item>— Qu'est ce qui fournissait la nourriture des abeilles : 1° dans le
+                        voisinage des ruches ;</item>
+                     <item>— 2° aux alentours ?</item>
+                     <item>— Que faisait un jour Suzette au temps de la miellée ?</item>
+                     <item>— Où se tenait-elle un dimanche matin ?</item>
+                     <item>— Que vit-on pendant les premières<cb/>heures ?</item>
+                     <item>— Qui appela-t-elle à son aide ?</item>
+                     <item>— Comment Jacques arriva-t-il ?</item>
+                     <item>— Quelle opération firent-ils ensemble ?</item>
+                     <item>— Que vit-on bientôt de la part des abeilles ?</item>
+                     <item>— Pourquoi les accueillit-on dans lus ruches voisines ?</item>
+                     <item>— Qu'est-ce que cela prouvait ?</item>
+                  </list>
+               </div3>
+            </div2>
+
+            <div2 type="student_edition">
+               <head> DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES. </head>
+
+               <div3 type="sujets" subtype="sciences_naturelle">
+                  <head type="sujets"> Sciences naturelles. </head>
+                  <list type="exercices">
+                     <item>— LE VENT.</item>
+                     <item>— Ce qu'est le vent.</item>
+                     <item>— Comment est le vent selon le point cardinal d'où il arrive ?</item>
+                     <item>— Services que rendent les vents.</item>
+                     <item>— Vitesse des vents.</item>
+                     <item>— Qu'entend-on par ouragan, trombes ?</item>
+                     <item>— Dites ce que vous vous rappelez sur les désastres causés par les
+                        trombes.</item>
+                  </list>
+               </div3>
+            </div2>
+
+            <div2 type="teacher_edition">
+               <div3 type="sujets" subtype="sciences_naturelle">
+                  <p>(Voir le développement de la 57e leçon pour ce qui concerne les trois premières
+                     questions.)</p>
+                  <p>Les <rs>ouragans</rs> ou <rs>cyclones</rs> sont de vastes tourbillons qui se
+                     forment dans l'atmosphère, et dans lesquels la force du vent augmente jusqu'à
+                     une certaine distance du contre. Un calme absolu règne dans la région centrale,
+                     sur mer, mais les flots y sont cependant horriblement agités. </p>
+                  <p>Autour de cet espace, l'air circule avec l'effrayante vitesse de 20 à 240
+                     kilomètres à l'heure, et décrit sur le globe un ovale immense ; malheur aux
+                     navires ou aux maisons, plantations, forêts qui se trouvent sur la route du
+                     terrible météore ! Le vent déchaîne soulève les vagues en montagnes colossales
+                     ; sur terre, il renverse tout, au milieu du bruit formidable du tonnerre qui
+                     gronde sans interruption.</p>
+                  <p>Une <rs>trombe</rs> est un phénomène analogue aux cyclones ; c’est un amas de
+                     vapeurs descendant des nuages sous la forme d'une colonne conique très
+                     allongée, touchant le sol par son extrémité la moins volumineuse,
+                     et qui tournoie avec rapidité en formant des ondulations comme un serpent
+                     gigantesque.</p>
+                  <p>Voici un exemple du spectacle que présente ce météore et des ravages qu'il
+                     commet : </p>
+                  <p>« Une nuée extrêmement épaisse et fort basse, poussée par un vent du nord,
+                     couvrit la surface du sol sur lequel est placé le bourg de Mirabeau. Différents
+                     tourbillons se formèrent en même temps dans cette masse noire chargée de
+                     vapeurs épaisses ; il en sortit de la grêle ; le tonnerre se fit entendre ; les
+                     arbres et les haies furent arrachés ; l'eau de la petite rivière de Mirabeau
+                     fut transportée à plus de soixante pas de son lit, qui resta à sec ; pendant ce
+                     temps, deux hommes qui se trouvèrent enveloppés dans un des tourbillons furent
+                     portés assez loin sans qu'il leur arrivât rien de fâcheux. Un jeune pâtre fut
+                     enlevé plus haut et rejeté au bord de la rivière sans que sa chute fût violente
+                     ; le tourbillon qui l'avait emporté, le posa à l'endroit où il cessa d'agir.
+                     Toute la fureur du météore se disipa dans l'espace (d'une lieue de longueur sur
+                     une demi-lieue de largeur. » (RICHARD, Histoire naturelle de l'air et des
+                     météores.)</p>
+               </div3>
+            </div2>
+
+            <div2 type="student_edition">
+               <div3 type="sujets" subtype="sciences_naturelle">
+                  <list type="exercices">
+                     <item>ESSAIMS D'ABEILLES.</item>
+                     <item>— Qu'entend-on par essaims ?</item>
+                     <item>— A quelle époque de l'année se forment-ils ?</item>
+                     <item>— Où se posent-ils ?</item>
+                     <item>— Comment sont-ils recueillis ? </item>
+                  </list>
+               </div3>
+            </div2>
+
+            <div2 type="teacher_edition">
+               <div3 type="sujets" subtype="sciences_naturelle">
+
+                  <p>On appelle essaim un groupe considérable d'abeilles qui, sous la conduite de la
+                     reine, abandonne la ruche pour fonder ailleurs une colonie nouvelle. Cette
+                     curieuse émigration a lieu aux mois de mai et de juin ; elle se renouvelle deux
+                     fois par an dans le Nord et jusqu'à quatre fois dans le Midi. </p>
+
+                  <fw type="header"> APICULTURE. 407 </fw>
+                  <pb type="page" n="407"/>
+
+
+                  <p>A la suite d'une visite de la reine dans toutes les parties de la ruche, une
+                     agitation générale se manifeste, et une quantité d'abeilles, la reine en tête,
+                     se précipitent au dehors, formant une masse compacte qui se fixe sur une
+                     branche d'arbre et s'y tient immobile. </p>
+                  <p>C'est le moment où l’apiculteur doit s'emparer de l'essaim et lui offrir une
+                     ruche préparée à l'avance ; il pose au-dessous cette ruche renversée, imprime
+                     une secousse à l'arbre, dont l'essaim se détache et tombe. On transporte
+                     immédiatement la ruche au lieu où elle doit être installée ; on la place sur la
+                     pierre ou la planche formant support, et aussitôt les abeilles commencent leur
+                     travail fécond. </p>
+               </div3>
+            </div2>
+
+            <div2 type="student_edition">
+               <div3 type="sujets" subtype="agriculture">
+                  <head type="sujets"> Agriculture. </head>
+                  <list type="exercices">
+                     <item>— Que signifie le terme oléagineuse appliqué à certaines plantes ?</item>
+                     <item>— Nommez des plantes oléagineuses ;</item>
+                     <item>— des fruits oléagineux.</item>
+                     <item>— Dans quelles provinces de France cultive-t-on le plus le colza,
+                        l'œillette, le lin ?</item>
+                     <item>— Quel produit tire-t-on encore du lin ?</item>
+                     <item>— Décrire la fleur du lin.</item>
+                  </list>
+               </div3>
+            </div2>
+
+            <div2 type="teacher_edition">
+               <div3 type="sujets" subtype="agriculture">
+                  <p>Le terme <rs>oléagineuse</rs> appliqué à certaines plantes indique que l'on
+                     peut tirer de l'huile de ces plantes.</p>
+                  <p>Parmi les <rs>plantes oléagineuses</rs>, on citera l'œillette, le colza, la
+                     navette, et parmi les <rs>fruits oléagineux</rs>, la noix, l'olive, la faîne,
+                     la noisette. La graine du lin donne également de l'huile, ainsi que celle du
+                     chanvre. </p>
+                  <p>Le colza, l'œillette et le lin sont cultivés principalement dans la région
+                     septentrionale de la France. On tire encore du lin une matière textile avec
+                     laquelle on fait des toiles estimées. Comme nous l'avons dit précédemment, le
+                     lin n'a pas les dimensions du chanvre ; sa tige atteint à peine 50 à 60
+                     centimètres, et elle porte au printemps une mignonne fleur bleue formée de cinq
+                     pétales réunis en clochette. </p>
+               </div3>
+            </div2>
+
+            <div2 type="student_edition">
+               <div3 type="sujets" subtype="géographie">
+                  <head type="sujets"> Géographie. </head>
+                  <list type="exercices">
+                     <item>— Qu'est-ce qu'un canal ?</item>
+                     <item>— Pourquoi creuse-t-on un canal ?</item>
+                     <item>— Que représente le profil d'un canal ?</item>
+                     <item>— A quoi servent les écluses ?</item>
+                     <item>— Donnez une idée de la disposition d'une écluse.</item>
+                     <item>— Citez lez principaux canaux de France.</item>
+                  </list>
+               </div3>
+            </div2>
+
+            <div2 type="teacher_edition">
+               <div3 type="sujets" subtype="géographie">
+                  <p>Un <rs>canal</rs> est une sorte de rivière creusée de main d'homme, où l'eau
+                     reste immobile, et qui sert à faciliter le transport des marchandises et des
+                     denrées encombrantes. Sur un canal, un cheval peut traîner 30 ou 40 fois plus
+                     que sur une route. </p>
+                  <p>On creuse un canal lorsqu'il n'existe pas de cours d'eau navigable entre deux
+                     villes ou deux régions qui ont entre elles des relations commerciales
+                     importantes. Comme l'eau ne doit pas couler dans le canal (car on ne saurait
+                     comment s'y prendre pour l'alimenter), on le forme de parties longues de 1 à 2
+                     ou 3 kilomètres au maximum, qu'on appelle biez, et qui se trouvent
+                     respectivement les unes au-dessus ou au-dessous des autres de 7 à 8 mètres. </p>
+                  <p>Un canal, dans son profil, représente donc une sorte d'escalier à marches très
+                     longues qui s'élèvent successivement jusqu'au point le plus élevé séparant les
+                     lieux à mettre en communication, puis redescendant jusqu'au lieu terminal. </p>
+                  <p>Les <rs>écluses</rs> sont des fossés à bords perpendiculaires, solidement
+                     maçonnés, profonds de 7 à 8 mètres, et qui servent à faire communiquer deux
+                     biez entre eux. </p>
+                  <p>Toute écluse présente à chacune de ses deux extrémités une porte énorme. Voici
+                     comment le tout fonctionne. Supposons qu'il faille faire remonter un bateau du
+                     biez inférieur au biez supérieur : l'écluse est pleine d'eau ; on ouvre deux
+                     petites vannes à la partie la plus basse de la porte du biez inférieur ;
+                     l'écluse se vide rapidement et l'eau y descend au niveau du biez inférieur ; la
+                     chose achevée, on ouvre les portes <fw type="header"> 408 SUZETTE. </fw>
+                     <pb type="page" n="408"/> et le bateau est amené dans l'écluse. Les portes
+                     étant formées, on lève les vannes de la porte supérieure ; l'écluse se
+                     remplit et bientôt le bateau est au niveau du biez où il doit entrer. La porte
+                     supérieure est alors ouverte, et le bateau pénètre sans difficulté dans le biez
+                     en question. </p>
+                  <p>Les principaux canaux de Franco sont ceux de la région de la Flandre, le canal
+                     de Saint-Quentin, celui de la Marne au Rhin, du Rhône au Rhin, de Bourgogne, de
+                     Briare, du Centre, de Nantes à Brest, du Nivernais, du Midi. </p>
+               </div3>
+
+            </div2>
+
+
+         </div1>
       </body>
-  </text>
+   </text>
 </TEI>
-<<<<<<< HEAD
-=======
-
-
-
-
-
-
-
-
->>>>>>> 13c6e2ebd97ccf3f0d560601e135e09400e05366
-=======
-         </div>
-      </body>
-  </text>
-</TEI>
->>>>>>> 57f1965594c4bf6d52e9592c96e5fb37201fa67b
