@@ -5,7 +5,7 @@
          xmlns="http://relaxng.org/ns/structure/1.0"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2020-06-11T17:40:01Z. .
+Schema generated from ODD source 2020-06-11T18:30:56Z. .
 TEI Edition: Version 4.0.0. Last updated on
 	13th February 2020, revision ccd19b0ba
 TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 4.0.0/
@@ -135,7 +135,7 @@ TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 4.0.0/
             </choice>
          </zeroOrMore>
       </element>
-      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e85390-constraint">
+      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e85402-constraint">
          <rule context="tei:content">
             <report test="descendant::*[not(namespace-uri(.) =               ('http://relaxng.org/ns/structure/1.0', 'http://www.tei-c.org/ns/1.0'))]">content descendants must be in the
               namespaces
@@ -184,7 +184,7 @@ TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 4.0.0/
             </choice>
          </zeroOrMore>
       </element>
-      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e86567-constraint">
+      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e86579-constraint">
          <rule context="tei:datatype">
             <report test="descendant::*[not(namespace-uri(.) =               ('http://relaxng.org/ns/structure/1.0', 'http://www.tei-c.org/ns/1.0'))]">datatype descendants must be in the
               namespaces
@@ -12669,8 +12669,8 @@ Sample values include: 1] atBirth; 2] atDeath; 3] dependent; 4] inherited; 5] in
                <choice>
                   <value>chapitre</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Chapitre</a:documentation>
-                  <value>other</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Other (if used often, add another value)</a:documentation>
+                  <value>autre</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Autre (if used often, add another value)</a:documentation>
                </choice>
             </attribute>
          </optional>
@@ -12830,7 +12830,7 @@ Sample values include: 1] atBirth; 2] atDeath; 3] dependent; 4] inherited; 5] in
          <optional>
             <attribute name="morale">
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
-Suggested values include: 1] enfant_famille; 2] fréres_soeurs; 3] envers_serviteurs; 4] enfant_école; 5] patrie; 6] envers_soi-même; 7] extérieurs; 8] âme; 9] envers_semblables; 10] envers_dieu</a:documentation>
+Suggested values include: 1] enfant_famille; 2] fréres_soeurs; 3] envers_serviteurs; 4] enfant_école; 5] patrie; 6] envers_soi-même; 7] extérieurs; 8] âme; 9] envers_semblables; 10] envers_dieu; 11] complexe</a:documentation>
                <choice>
                   <value>enfant_famille</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">L'enfant dans la famille</a:documentation>
@@ -12852,6 +12852,8 @@ Suggested values include: 1] enfant_famille; 2] fréres_soeurs; 3] envers_servit
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Devoirs envers nos semblables</a:documentation>
                   <value>envers_dieu</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Devoirs envers Dieu</a:documentation>
+                  <value>complexe</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Complexe</a:documentation>
                   <data type="Name"/>
                </choice>
             </attribute>
@@ -12892,7 +12894,7 @@ Suggested values include: 1] generale</a:documentation>
          <optional>
             <attribute name="composition">
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
-Suggested values include: 1] récit; 2] récits_historiques; 3] descriptions; 4] sujets-moraux_imagination; 5] Sujets-moraux ou d'imagination</a:documentation>
+Suggested values include: 1] récit; 2] récits_historiques; 3] descriptions; 4] sujets-moraux_imagination; 5] Sujets-moraux ou d'imagination; 6] complexe</a:documentation>
                <choice>
                   <value>récit</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Récit</a:documentation>
@@ -12904,6 +12906,8 @@ Suggested values include: 1] récit; 2] récits_historiques; 3] descriptions; 4]
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Sujets-moraux ou d'imagination</a:documentation>
                   <value>Sujets-moraux ou d'imagination</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Lettres</a:documentation>
+                  <value>complexe</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Complexe</a:documentation>
                   <data type="Name"/>
                </choice>
             </attribute>
@@ -12922,7 +12926,7 @@ Suggested values include: 1] generale</a:documentation>
          <optional>
             <attribute name="géographie">
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
-Suggested values include: 1] generale; 2] europe; 3] asie; 4] afrique; 5] amérique; 6] océanie; 7] france</a:documentation>
+Suggested values include: 1] generale; 2] europe; 3] asie; 4] afrique; 5] amérique; 6] océanie; 7] france; 8] complexe</a:documentation>
                <choice>
                   <value>generale</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Generale</a:documentation>
@@ -12938,6 +12942,8 @@ Suggested values include: 1] generale; 2] europe; 3] asie; 4] afrique; 5] améri
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Océeanie</a:documentation>
                   <value>france</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">France</a:documentation>
+                  <value>complexe</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Complexe</a:documentation>
                   <data type="Name"/>
                </choice>
             </attribute>
@@ -12945,7 +12951,7 @@ Suggested values include: 1] generale; 2] europe; 3] asie; 4] afrique; 5] améri
          <optional>
             <attribute name="sciences_naturelles">
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
-Suggested values include: 1] mineraux; 2] végétaux; 3] animaux; 4] animaux_mineraux; 5] animaux_végétaux</a:documentation>
+Suggested values include: 1] mineraux; 2] végétaux; 3] animaux; 4] complexe</a:documentation>
                <choice>
                   <value>mineraux</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Minéraux, etc.</a:documentation>
@@ -12953,10 +12959,8 @@ Suggested values include: 1] mineraux; 2] végétaux; 3] animaux; 4] animaux_min
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Végétaux</a:documentation>
                   <value>animaux</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Animaux</a:documentation>
-                  <value>animaux_mineraux</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Animaux et Mineraux</a:documentation>
-                  <value>animaux_végétaux</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Animaux et Végétaux</a:documentation>
+                  <value>complexe</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Complexe</a:documentation>
                   <data type="Name"/>
                </choice>
             </attribute>
@@ -13007,7 +13011,7 @@ Suggested values include: 1] generale</a:documentation>
          <optional>
             <attribute name="hygiène">
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
-Suggested values include: 1] corps_habitations; 2] vêtements_hygiene; 3] aliments; 4] maladies_remèdes</a:documentation>
+Suggested values include: 1] corps_habitations; 2] vêtements_hygiene; 3] aliments; 4] maladies_remèdes; 5] complexe</a:documentation>
                <choice>
                   <value>corps_habitations</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Corps et habitations</a:documentation>
@@ -13017,6 +13021,8 @@ Suggested values include: 1] corps_habitations; 2] vêtements_hygiene; 3] alimen
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Aliments</a:documentation>
                   <value>maladies_remèdes</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Maladies, etc.; remèdes</a:documentation>
+                  <value>complexe</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Complexe</a:documentation>
                   <data type="Name"/>
                </choice>
             </attribute>
