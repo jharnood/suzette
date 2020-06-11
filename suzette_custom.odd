@@ -72,8 +72,8 @@
                 <valItem mode="add" ident="chapitre">
                   <desc versionDate="2020-05-06">Chapitre</desc>
                 </valItem>
-                <valItem mode="add" ident="other">
-                  <desc versionDate="2020-05-06">Other (if used often, add another
+                <valItem mode="add" ident="autre">
+                  <desc versionDate="2020-05-06">Autre (if used often, add another
                     value)</desc>
                 </valItem>
               </valList>
@@ -81,7 +81,7 @@
           </attList>
         </elementSpec>
         
-<!-- Customize DIV2 to distinguish student from teacher edition -->        
+<!-- Customize DIV2 to distinguish three kinds of content: Récit, Questionnaire, and Exercices -->        
         <elementSpec ident="div2" mode="change">
           <attList>
             <attDef ident="type" mode="change">
@@ -156,6 +156,9 @@
                 <valItem ident="envers_dieu">
                   <desc>Devoirs envers Dieu</desc>
                 </valItem>
+                <valItem ident="complexe">
+                  <desc>Complexe</desc>
+                </valItem>
               </valList>
             </attDef>
             <attDef ident="instruction_civique" mode="change">
@@ -196,6 +199,9 @@
                 <valItem ident="Sujets-moraux ou d'imagination">
                   <desc>Lettres</desc>
                 </valItem>
+                <valItem ident="complexe">
+                  <desc>Complexe</desc>
+                </valItem>
               </valList>
             </attDef>
             <attDef ident="histoire" mode="change">
@@ -228,6 +234,9 @@
                 <valItem ident="france">
                   <desc>France</desc>
                 </valItem>
+                <valItem ident="complexe">
+                  <desc>Complexe</desc>
+                </valItem>
               </valList>
             </attDef>
             <attDef ident="sciences_naturelles" mode="change">
@@ -241,11 +250,8 @@
                 <valItem ident="animaux">
                   <desc>Animaux</desc>
                 </valItem> 
-                <valItem ident="animaux_mineraux">
-                  <desc>Animaux et Mineraux</desc>
-                </valItem>
-                <valItem ident="animaux_végétaux">
-                  <desc>Animaux et Végétaux</desc>
+                <valItem ident="complexe">
+                  <desc>Complexe</desc>
                 </valItem>
               </valList>
             </attDef>
@@ -298,6 +304,9 @@
                 </valItem>
                 <valItem ident="maladies_remèdes">
                   <desc>Maladies, etc.; remèdes</desc>
+                </valItem>
+                <valItem ident="complexe">
+                  <desc>Complexe</desc>
                 </valItem>
               </valList>
             </attDef>
