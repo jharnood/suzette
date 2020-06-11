@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="out/suzette_custom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -217,10 +217,9 @@
             <head type="chapter">73. — La dépêche. (Élève, p. 154.)</head>
             <pb type="page" n="251"/>
 
-            <div2 type="student_edition">
-               <div3 type="récit">
+            <div2 type="récits">
                   <sp>
-                     <speaker>François</speaker>
+                     <speaker n="François"/>
                      <p> — Le bureau du télégraphe ! </p>
                   </sp>
                   <stage> cria François, toujours en avant. </stage>
@@ -281,7 +280,7 @@
                   <p>vers, comme il s'en éclaire contre la nuit ; et quelles autres merveilles n'en
                      tirera-t-il pas demain ! </p>
                   <sp>
-                     <speaker>Sylvain</speaker>
+                     <speaker n="Sylvain"/>
                      <p> — Oui, </p>
                   </sp>
                   <stage> dit Sylvain, </stage>
@@ -300,7 +299,7 @@
                      répondre, se mit à chanter : </p>
 
                   <sp>
-                     <speaker>Pascal</speaker>
+                     <speaker n="Pascal"/>
                      <lg type="song">
                         <l> « Que fais-tu, mon vieux télégraphe, </l>
                         <l> Au sommet de ton vieux clocher... </l>
@@ -309,11 +308,10 @@
                      </lg>
                   </sp>
                   <note type="citation"> (<name type="author">(G. NADAUD.)</name>.) </note>
-               </div3>
+               
             </div2>
 
-            <div2 type="teacher_edition">
-               <div3 type="questionnaire">
+            <div2 type="questionnaire">
                   <head> Questionnaire. </head>
                   <list>
                      <item>— Que remit-on au télégraphe ?</item>
@@ -331,11 +329,10 @@
                         ?</item>
                      <item>— Répétez le fragment de chanson que fredonna Pascal.</item>
                   </list>
-               </div3>
+               
             </div2>
 
-
-            <div2 type="student_edition">
+            <div2 type="exercices">
                <head> DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES. </head>
                <div3 type="sujets" subtype="sciences_naturelle">
                   <head type="sujets"> Sciences naturelles. </head>
