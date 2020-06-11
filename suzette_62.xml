@@ -213,11 +213,11 @@
     </teiHeader>
     <text>
         <body>
-            <div1 type="chapter" xml:lang="fr" corresp="#ch062">
+            <div1 type="chapitre" xml:lang="fr" corresp="#ch062">
                 <head type="chapter">62. — Le pays de la peur. (Élève, p. 133.)</head>
                 <pb type="page" n="215"/>
 
-                <div2 type="récits">
+                <div2 type="récit">
                         <sp>
                             <speaker/> <!--who is speaker? -->
                         <p>— Grande, magnifique, pleinedc monuments,
@@ -312,7 +312,7 @@
                 
                 <div2 type="exercices">
                     <head>DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES</head>
-                    <div3 type="géographie">
+                    <div3 géographie="afrique">
                         <head>Géographie.</head> 
                         <div4 type="questions">
                             <list>
@@ -353,7 +353,7 @@
                         </div4>
                     </div3>
                     
-                    <div3 type="sciences_naturelles">
+                    <div3 sciences_naturelles="animaux_mineraux">
                         <head>Sciences naturelles.</head>
                         <div4 type="questions">
                             <list type="exercices">
@@ -414,7 +414,7 @@
                         </div4>
                     </div3>
                     
-                    <div3 type="hygiène">
+                    <div3 hygiène="vêtements_hygiene">
                         <head>Hygiène.</head>
                         
                         <div4 type="questions">
