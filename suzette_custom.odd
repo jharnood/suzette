@@ -278,61 +278,70 @@
                 </valItem>
               </valList>
             </attDef>
+            <attDef ident="économie_domestique" mode="change">
+              <valList mode="add" type="semi">
+                <valItem ident="generale">
+                  <desc>Generale</desc>
+                </valItem>
+              </valList>
+            </attDef>
+            <attDef ident="hygiène" mode="change">
+              <valList mode="add" type="semi">
+                <valItem ident="corps_habitations">
+                  <desc>Corps et habitations</desc>
+                </valItem>
+                <valItem ident="vêtements_hygiene">
+                  <desc>Vêtements</desc>
+                </valItem>
+                <valItem ident="aliments">
+                  <desc>Aliments</desc>
+                </valItem>
+                <valItem ident="maladies_remèdes">
+                  <desc>Maladies, etc.; remèdes</desc>
+                </valItem>
+              </valList>
+            </attDef>
           </attList>
         </elementSpec>
         
         
-<!-- Customize DIV3 @type to provide sujets category -->
-       <elementSpec ident="div3" mode="change">
+<!-- Customize DIV3 @type to provide science_nat further category -->
+        <elementSpec ident="div3" mode="change">
           <attList>
             <attDef ident="type" mode="change">
               <valList type="closed" mode="change">
-                <valItem ident="agriculture" mode="add">
-                  <desc versionDate="2020-05-06" xml:lang="en">Agriculture</desc>
+                <valItem ident="arbres_non_cultivés">
+                  <desc>1° Arbres Non Cultivés</desc>
                 </valItem>
-                <valItem mode="add" ident="civilité">
-                  <desc versionDate="2020-05-06" xml:lang="fr">Civilité</desc>
+                <valItem ident="herbes_plantes_sauvages">
+                  <desc>2° Herbes ou Plantes Sauvages</desc>
                 </valItem>
-                <valItem mode="add" ident="composition">
-                  <desc versionDate="2020-05-06" xml:lang="fr">Composition</desc>
-                </valItem>                
-                <valItem mode="add" ident="économie_domestique">
-                  <desc versionDate="2020-05-06" xml:lang="fr">Économie Domestique</desc>
+                <valItem ident="arbres_cultivés">
+                  <desc>3° Arbres Cultivés</desc>
                 </valItem>
-                <valItem mode="add" ident="français">
-                  <desc versionDate="2020-05-06" xml:lang="fr">Français</desc>
-                </valItem>                
-                <valItem mode="add" ident="géographie">
-                  <desc versionDate="2020-05-06" xml:lang="fr">Géographie</desc>
+                <valItem ident="arbustes_cultivés">
+                  <desc>4° Arbustes Cultivés</desc>
                 </valItem>
-                <valItem mode="add" ident="histoire">
-                  <desc versionDate="2020-05-06" xml:lang="fr">Histoire</desc>
+                <valItem ident="céréales">
+                  <desc>5° Céréales</desc>
                 </valItem>
-                <valItem ident="horticulture" mode="add">
-                  <desc versionDate="2020-06-07" xml:lang="fr">Horticulture</desc>
+                <valItem ident="legumes_racines">
+                  <desc>6° Légumes, Racines, etc.</desc>
                 </valItem>
-                <valItem mode="add" ident="hygiène">
-                  <desc versionDate="2020-05-06" xml:lang="fr">Hygiène</desc>
+                <valItem ident="divers">
+                  <desc>7° Divers</desc>
                 </valItem>
-                <valItem mode="add" ident="industrie">
-                  <desc versionDate="2020-05-06" xml:lang="fr">Industrie</desc>
+                <valItem ident="homme">
+                  <desc>1° L'Homme</desc>
                 </valItem>
-                <valItem mode="add" ident="instruction_civique">
-                  <desc versionDate="2020-05-06" xml:lang="fr">Instruction civique</desc>
+                <valItem ident="animaux_domestiques">
+                  <desc>2° Animaux Domestiques</desc>
                 </valItem>
-                <valItem mode="add" ident="morale">
-                  <desc versionDate="2020-05-06" xml:lang="fr">Morale</desc>
-                </valItem>
-                <valItem ident="other" mode="add">
-                  <desc versionDate="2020-05-18" xml:lang="en">Other (exception - if used frequently, will add to list)</desc>
-                </valItem>
-                <valItem mode="add" ident="sciences_naturelles">
-                  <desc versionDate="2020-05-06" xml:lang="fr">Sciences naturelles</desc>
-                </valItem>
-                <valItem mode="add" ident="sciences_physiques">
-                  <desc versionDate="2020-05-06" xml:lang="fr">Sciences Physiques</desc>
+                <valItem ident="animaux_sauvages">
+                  <desc>3° Animaux Sauvages</desc>
                 </valItem>
               </valList>
+              
             </attDef>
           </attList>
         </elementSpec>
@@ -352,6 +361,7 @@
             </attDef>
           </attList>
         </elementSpec>
+
 
 <!-- Customize FIGURE to include @type illustration or sujets -->
         <elementSpec ident="figure" mode="change">
