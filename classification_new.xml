@@ -750,7 +750,7 @@ LES LEÇONS DE MORALE ET LES LEÇONS DE CHOSES-->
                </taxonomy>
                <taxonomy xml:id="civilité">
                   <desc>Civilité</desc>
-                  <category>
+                  <category xml:id="politesse">
                      <catDesc>Politesse en général
                         <ref target="#ch091"/>
                      </catDesc>
@@ -898,7 +898,7 @@ LES LEÇONS DE MORALE ET LES LEÇONS DE CHOSES-->
                <taxonomy xml:id="composition">
                   <desc>Composition (1)</desc><!-- Is this connected to the footnote on page 533? -->
                   <category xml:id="récits">
-                     <catDesc>Récits</catDesc>
+                     <catDesc>Récit</catDesc>
                      <category>
                         <catDesc>Le bourgeois de Falaise
                            <ref target="#ch002"/>
@@ -3107,6 +3107,11 @@ LES LEÇONS DE MORALE ET LES LEÇONS DE CHOSES-->
             </taxonomy>
          </classDecl>
       </encodingDesc>
+      <profileDesc>
+         <settingDesc>
+            <setting></setting>
+         </settingDesc>
+      </profileDesc>
    </teiHeader>
    <text>
       <body>

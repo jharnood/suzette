@@ -43,7 +43,7 @@
         <moduleRef key="analysis" except="c cl interp interpGrp m pc phr s w"/>
         <moduleRef key="certainty" except="precision"/>
         <moduleRef key="corpus"
-          except="activity channel constitution derivation factuality preparedness purpose setting settingDesc"/>
+          except="activity channel constitution derivation factuality preparedness purpose"/>
         <moduleRef key="dictionaries"
           except="case colloc dictScrap entry entryFree etym gram gramGrp hom hyph iType mood number oRef orth pRef per pos pron re sense stress subc superEntry syll tns usg"/>
         <moduleRef key="drama" except="actor camera castGroup castItem castList move set sound view"/>
@@ -64,117 +64,371 @@
 
         <moduleRef key="tagdocs"/>
 
+<!-- Customize DIV1 with @type chapter -->
         <elementSpec ident="div1" mode="change">
           <attList> 
             <attDef ident="type" mode="change">
               <valList type="closed" mode="change">
-                <valItem mode="add" ident="chapter">
-                  <desc versionDate="2020-05-06" xml:lang="en">Chapter</desc>
+                <valItem mode="add" ident="chapitre">
+                  <desc versionDate="2020-05-06">Chapitre</desc>
                 </valItem>
-                <valItem mode="add" ident="other">
-                  <desc versionDate="2020-05-06" xml:lang="en">Other (if used often, add another
+                <valItem mode="add" ident="autre">
+                  <desc versionDate="2020-05-06">Autre (if used often, add another
                     value)</desc>
                 </valItem>
               </valList>
             </attDef>
           </attList>
         </elementSpec>
+        
+<!-- Customize DIV2 to distinguish three kinds of content: Récit, Questionnaire, and Exercices -->        
         <elementSpec ident="div2" mode="change">
           <attList>
             <attDef ident="type" mode="change">
               <valList type="closed" mode="change">
-                <valItem mode="add" ident="student_edition">
-                  <desc versionDate="2020-05-06" xml:lang="en">Student Edition</desc>
+                <valItem ident="exercices" mode="add">
+                  <desc versionDate="2020-06-06" xml:lang="fr">Exercices</desc>
                 </valItem>
-                <valItem mode="add" ident="teacher_edition">
-                  <desc versionDate="2020-05-06" xml:lang="en">Teacher Edition</desc>
+                <valItem mode="add" ident="questionnaire">
+                  <desc versionDate="2020-06-06" xml:lang="fr">Questionnaire</desc>
+                </valItem>
+                <valItem mode="add" ident="récit">
+                  <desc versionDate="2020-06-06" xml:lang="fr">Récit</desc>
                 </valItem>
               </valList>
             </attDef>
           </attList>
         </elementSpec>
+        
+
+<!-- div3 is always sujets, so doesn't need to be clarified here. Use the attributes wisely. -->
+
+<!-- Customize DIV3 by adding categories as attributees -->
+        <classSpec type="atts" ident="att.typed" module="tei" mode="change">
+          <attList>
+            <attDef ident="morale" mode="change"/>
+            <attDef ident="instruction_civique" mode="change"/>
+            <attDef ident="civilité" mode="change"/>
+            <attDef ident="français" mode="change"/>
+            <attDef ident="composition" mode="change"/>
+            <attDef ident="histoire" mode="change"/>
+            <attDef ident="géographie" mode="change"/>
+            <attDef ident="sciences_naturelles" mode="change"/>
+            <attDef ident="sciences_physiques" mode="change"/>
+            <attDef ident="industrie" mode="change"/>
+            <attDef ident="économie_domestique" mode="change"/>
+            <attDef ident="hygiène" mode="change"/>
+          </attList>
+        </classSpec>
+        
+<!-- Customize DIV3 - added values for each of the categories  -->      
+        <elementSpec ident="div3" mode="change" module="core">
+          <attList>
+            <attDef ident="morale" mode="change">
+              <valList mode="add" type="semi">
+                <valItem ident="enfant_famille">
+                  <desc>L'enfant dans la famille</desc>
+                </valItem>
+                <valItem ident="fréres_soeurs">
+                  <desc>Devoirs des frères et soeurs</desc>
+                </valItem>
+                <valItem ident="envers_serviteurs">
+                  <desc>Devoirs envers les serviteurs</desc>
+                </valItem>
+                <valItem ident="enfant_école">
+                  <desc>L'enfant dans l'école</desc>
+                </valItem>
+                <valItem ident="patrie">
+                  <desc>Patrie</desc>
+                </valItem>
+                <valItem ident="envers_soi-même">
+                  <desc>Devoirs envers soi-même</desc>
+                </valItem>
+                <valItem ident="extérieurs">
+                  <desc>Les biens extérieurs</desc>
+                </valItem>
+                <valItem ident="âme">
+                  <desc>L'âme</desc>
+                </valItem>
+                <valItem ident="envers_semblables">
+                  <desc>Devoirs envers nos semblables</desc>
+                </valItem>
+                <valItem ident="envers_dieu">
+                  <desc>Devoirs envers Dieu</desc>
+                </valItem>
+                <valItem ident="complexe">
+                  <desc>Complexe</desc>
+                </valItem>
+              </valList>
+            </attDef>
+            <attDef ident="instruction_civique" mode="change">
+              <valList mode="add" type="semi">
+                <valItem ident="generale">
+                  <desc>Generale</desc>
+                </valItem>
+              </valList>
+            </attDef>
+            <attDef ident="civilité" mode="change">
+              <valList mode="add" type="semi">
+                <valItem ident="generale">
+                  <desc>Generale</desc>
+                </valItem>
+              </valList>
+            </attDef>
+            <attDef ident="français" mode="change">
+              <valList mode="add" type="semi">
+                <valItem ident="generale">
+                  <desc>Generale</desc>
+                </valItem>
+              </valList>
+            </attDef>
+            <attDef ident="composition" mode="change">
+              <valList mode="add" type="semi">
+                <valItem ident="récit">
+                  <desc>Récit</desc>
+                </valItem>
+                <valItem ident="récits_historiques">
+                  <desc>Récits historiques</desc>
+                </valItem>
+                <valItem ident="descriptions">
+                  <desc>Descriptions</desc>
+                </valItem>
+                <valItem ident="sujets-moraux_imagination">
+                  <desc>Sujets-moraux ou d'imagination</desc>
+                </valItem>
+                <valItem ident="Sujets-moraux ou d'imagination">
+                  <desc>Lettres</desc>
+                </valItem>
+                <valItem ident="complexe">
+                  <desc>Complexe</desc>
+                </valItem>
+              </valList>
+            </attDef>
+            <attDef ident="histoire" mode="change">
+              <valList mode="add" type="semi">
+                <valItem ident="generale">
+                  <desc>Generale</desc>
+                </valItem>
+              </valList>
+            </attDef>
+            <attDef ident="géographie" mode="change">
+              <valList mode="add" type="semi">
+                <valItem ident="generale">
+                  <desc>Generale</desc>
+                </valItem>
+                <valItem ident="europe">
+                  <desc>Europe</desc>
+                </valItem>
+                <valItem ident="asie">
+                  <desc>Asie</desc>
+                </valItem>
+                <valItem ident="afrique">
+                  <desc>Afrique</desc>
+                </valItem>
+                <valItem ident="amérique">
+                  <desc>Amérique</desc>
+                </valItem>
+                <valItem ident="océanie">
+                  <desc>Océeanie</desc>
+                </valItem>
+                <valItem ident="france">
+                  <desc>France</desc>
+                </valItem>
+                <valItem ident="complexe">
+                  <desc>Complexe</desc>
+                </valItem>
+              </valList>
+            </attDef>
+            <attDef ident="sciences_naturelles" mode="change">
+              <valList mode="add" type="semi">
+                <valItem ident="mineraux">
+                  <desc>Minéraux, etc.</desc>
+                </valItem>
+                <valItem ident="végétaux">
+                  <desc>Végétaux</desc>
+                </valItem>
+                <valItem ident="animaux">
+                  <desc>Animaux</desc>
+                </valItem> 
+                <valItem ident="complexe">
+                  <desc>Complexe</desc>
+                </valItem>
+              </valList>
+            </attDef>
+            <attDef ident="sciences_physiques" mode="change">
+              <valList mode="add" type="semi">
+                <valItem ident="generale">
+                  <desc>Generale</desc>
+                </valItem>
+              </valList>
+            </attDef>
+            <attDef ident="industrie" mode="change">
+              <valList mode="add" type="semi">
+                <valItem ident="matières_objets_fabriqués">
+                  <desc>Matières et objets fabriqués</desc>
+                </valItem>
+                <valItem ident="construction">
+                  <desc>Construction</desc>
+                </valItem>
+                <valItem ident="machines_appareils">
+                  <desc>Machines, appareils, ustensiles, vases</desc>
+                </valItem>
+                <valItem ident="outils">
+                  <desc>Outils</desc>
+                </valItem>
+                <valItem ident="etoffes_habillement">
+                  <desc>Étoffes, habillement</desc>
+                </valItem>
+                <valItem ident="divers_industrie">
+                  <desc>Divers</desc>
+                </valItem>
+              </valList>
+            </attDef>
+            <attDef ident="économie_domestique" mode="change">
+              <valList mode="add" type="semi">
+                <valItem ident="generale">
+                  <desc>Generale</desc>
+                </valItem>
+              </valList>
+            </attDef>
+            <attDef ident="hygiène" mode="change">
+              <valList mode="add" type="semi">
+                <valItem ident="corps_habitations">
+                  <desc>Corps et habitations</desc>
+                </valItem>
+                <valItem ident="vêtements_hygiene">
+                  <desc>Vêtements</desc>
+                </valItem>
+                <valItem ident="aliments">
+                  <desc>Aliments</desc>
+                </valItem>
+                <valItem ident="maladies_remèdes">
+                  <desc>Maladies, etc.; remèdes</desc>
+                </valItem>
+                <valItem ident="complexe">
+                  <desc>Complexe</desc>
+                </valItem>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
+        
+        
+<!-- Customize DIV3 @type to provide science_nat further category -->
         <elementSpec ident="div3" mode="change">
           <attList>
             <attDef ident="type" mode="change">
               <valList type="closed" mode="change">
-                <valItem mode="add" ident="récit">
-                  <desc versionDate="2020-05-06" xml:lang="en">Récit (student edition)</desc>
+                <valItem ident="arbres_non_cultivés">
+                  <desc>1° Arbres Non Cultivés</desc>
                 </valItem>
-                <valItem mode="add" ident="questionnaire">
-                  <desc versionDate="2020-05-06" xml:lang="en">Questionnaire (teacher
-                    edition)</desc>
+                <valItem ident="herbes_plantes_sauvages">
+                  <desc>2° Herbes ou Plantes Sauvages</desc>
                 </valItem>
-                <valItem mode="add" ident="sujets">
-                  <desc versionDate="2020-05-06" xml:lang="en">Sujets</desc>
+                <valItem ident="arbres_cultivés">
+                  <desc>3° Arbres Cultivés</desc>
+                </valItem>
+                <valItem ident="arbustes_cultivés">
+                  <desc>4° Arbustes Cultivés</desc>
+                </valItem>
+                <valItem ident="céréales">
+                  <desc>5° Céréales</desc>
+                </valItem>
+                <valItem ident="legumes_racines">
+                  <desc>6° Légumes, Racines, etc.</desc>
+                </valItem>
+                <valItem ident="divers">
+                  <desc>7° Divers</desc>
+                </valItem>
+                <valItem ident="homme">
+                  <desc>1° L'Homme</desc>
+                </valItem>
+                <valItem ident="animaux_domestiques">
+                  <desc>2° Animaux Domestiques</desc>
+                </valItem>
+                <valItem ident="animaux_sauvages">
+                  <desc>3° Animaux Sauvages</desc>
                 </valItem>
               </valList>
+              
             </attDef>
-            <attDef ident="ana" mode="change">
+          </attList>
+        </elementSpec>
+
+        <!-- Within DIV4 cutomize @type to distinguish questions and réponses -->
+        <elementSpec ident="div4" mode="change">
+          <attList>
+            <attDef ident="type" mode="change">
               <valList type="closed" mode="change">
-                <valItem mode="add" ident="morale">
-                  <desc versionDate="2020-05-06" xml:lang="fr">Morale</desc>
+                <valItem ident="questions" mode="add">
+                  <desc versionDate="2020-06-02" xml:lang="fr">Questions</desc>
                 </valItem>
-                <valItem mode="add" ident="instruction_civique">
-                  <desc versionDate="2020-05-06" xml:lang="fr">Instruction civique</desc>
-                </valItem>
-                <valItem mode="add" ident="civilité">
-                  <desc versionDate="2020-05-06" xml:lang="fr">Civilité</desc>
-                </valItem>
-                <valItem mode="add" ident="français">
-                  <desc versionDate="2020-05-06" xml:lang="fr">Français</desc>
-                </valItem>
-                <valItem mode="add" ident="composition">
-                  <desc versionDate="2020-05-06" xml:lang="fr">Composition</desc>
-                </valItem>
-                <valItem mode="add" ident="histoire">
-                  <desc versionDate="2020-05-06" xml:lang="fr">Histoire</desc>
-                </valItem>
-                <valItem mode="add" ident="géographie">
-                  <desc versionDate="2020-05-06" xml:lang="fr">Géographie</desc>
-                </valItem>
-                <valItem mode="add" ident="sciences_naturelle">
-                  <desc versionDate="2020-05-06" xml:lang="fr">Sciences naturelles</desc>
-                </valItem>
-                <valItem mode="add" ident="sciences_physiques">
-                  <desc versionDate="2020-05-06" xml:lang="fr">Sciences Physiques</desc>
-                </valItem>
-                <valItem mode="add" ident="industrie">
-                  <desc versionDate="2020-05-06" xml:lang="fr">Industrie</desc>
-                </valItem>
-                <valItem mode="add" ident="économie_domestique">
-                  <desc versionDate="2020-05-06" xml:lang="fr">Économie Domestique</desc>
-                </valItem>
-                <valItem mode="add" ident="hygiène">
-                  <desc versionDate="2020-05-06" xml:lang="fr">Hygiène</desc>
-                </valItem>               
-                <valItem ident="agriculture" mode="add">
-                  <desc versionDate="2020-05-06" xml:lang="en">Agriculture</desc>
-                </valItem>
-                <valItem ident="horticulture" mode="add">
-                  <desc>Horticulture</desc>
-                </valItem>
-                <valItem ident="other" mode="add">
-                  <desc versionDate="2020-05-18" xml:lang="en">Other (exception - if used frequently, will add to list)</desc>
+                <valItem ident="réponses" mode="add">
+                  <desc versionDate="2020-06-02" xml:lang="fr">Réponses</desc>
                 </valItem>
               </valList>
             </attDef>
           </attList>
         </elementSpec>
+
+
+<!-- Customize FIGURE to include @type illustration or sujets -->
         <elementSpec ident="figure" mode="change">
-          <attList> 
+          <attList>
             <attDef ident="type" mode="change">
               <valList mode="change" type="closed">
-                <valItem mode="add" ident="illustration">
-                  <desc versionDate="2020-05-06" xml:lang="en">Illustration</desc>
+                <valItem ident="illustration" mode="add">
+                  <desc versionDate="2020-06-07" xml:lang="fr">Illustration</desc>
                 </valItem>
-                <valItem mode="add" ident="sujets">
-                  <desc versionDate="2020-05-06" xml:lang="en">Sujets</desc>
+                <valItem ident="sujets" mode="add">
+                  <desc versionDate="2020-06-07" xml:lang="fr">Sujets</desc>
                 </valItem>
               </valList>
             </attDef>
           </attList>
         </elementSpec>
-        <elementSpec ident="rs" mode="change">
+
+        <!-- Customize LIST @type to distinguish between exercices and questionnaire  -->
+        <elementSpec ident="list" mode="change">
+          <attList>
+            <attDef ident="type" mode="change">
+              <valList mode="add" type="closed">
+                <valItem ident="exercices" mode="add">
+                  <desc versionDate="2020-06-02" xml:lang="fr">Exercices</desc>
+                </valItem>
+                <valItem ident="questionnaire" mode="add">
+                  <desc versionDate="2020-06-02" xml:lang="fr">Questionnaire</desc>
+                </valItem>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
+      </schemaSpec>
+      
+<!-- Customize PLACENAME to include place types  TRANSLATE THIS INTO FRENCH -->
+        <elementSpec ident="placeName" mode="change">
+          <attList>
+            <attDef ident="type" mode="change">
+              <valList mode="change" type="closed">
+                <valItem ident="continent" mode="add">
+                  <desc>Continent</desc>
+                </valItem>
+                <valItem ident="country" mode="add">
+                  <desc>Country</desc>
+                </valItem>
+                <valItem ident="city" mode="add">
+                  <desc>City</desc>
+                </valItem>
+                <valItem ident="water_body">
+                  <desc>Body of water</desc>
+                </valItem>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
+      
+<!-- Custom TERM to align with the Classification via @corresp        
+        <elementSpec ident="term" mode="change">
           <attList>
             <attDef mode="change" ident="corresp">
               <valList mode="change" type="closed">
@@ -220,7 +474,7 @@
                 <valItem ident="français" mode="add">
                   <desc>Français</desc>
                 </valItem>
-                <valItem mode="add" ident="composition"><!--Do I need this if it's above? -->
+                <valItem mode="add" ident="composition"> -Do I need this if it's above?
                   <desc>Composition</desc>
                 </valItem>
                 <valItem ident="récits" mode="add">
@@ -349,8 +603,9 @@
               </valList>
             </attDef>
           </attList>
-        </elementSpec>
-      </schemaSpec>
+          </elementSpec>-->
+
+
     </body>
   </text>
 </TEI>
