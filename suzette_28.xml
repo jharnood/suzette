@@ -344,7 +344,7 @@
                 </div2>
                 
                 <div2 type="student_edition">
-                    <div3 type="sujets" subtype="instruction_civique">
+                    <div3 type="sujets" subtype="instruction_civique" corresp="">
                         <head>Instruction civique</head>
                         <list>— 
                             <item>Quels sont les gens qui menacent les biens ou la vie des autres ?</item>
