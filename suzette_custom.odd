@@ -427,43 +427,40 @@
           </attList>
         </elementSpec>
       
-<!-- Custom TERM to align with the Classification via @corresp        
+<!-- Custom TERM to align with the Classification via @ana -->        
         <elementSpec ident="term" mode="change">
           <attList>
-            <attDef mode="change" ident="corresp">
+            <attDef mode="change" ident="ana">
               <valList mode="change" type="closed">
-                <valItem mode="add" ident="morale">
-                  <desc>Morale</desc>
+                <valItem mode="add" ident="âme">
+                  <desc>L'âme</desc>
                 </valItem>
-                <valItem mode="add" ident="enfant_famille">
+                <valItem mode="add" ident="enfant_école">
+                  <desc>L'enfant dans école</desc>
+                </valItem>
+                <valItem ident="enfant_famille" mode="add">
                   <desc>L'enfant dans la famille</desc>
                 </valItem>
-                <valItem ident="fréres_soeurs" mode="add">
-                  <desc>Devoirs des frères et soeurs</desc>
+                <valItem ident="envers_dieu" mode="add">
+                  <desc>Devoirs envers Dieu</desc>
+                </valItem>
+                <valItem ident="envers_semblables">
+                  <desc>Devoirs envers nos semblables</desc>
                 </valItem>
                 <valItem ident="envers_serviteur" mode="add">
                   <desc>Devoirs envers les serviteurs</desc>
                 </valItem>
-                <valItem ident="enfant_école" mode="add">
-                  <desc>L'enfant dans l'école</desc>
-                </valItem>
-                <valItem ident="La patrie" mode="add">
-                  <desc>La patrie</desc>
-                </valItem>
                 <valItem ident="envers_soi-même" mode="add">
                   <desc>Devoirs envers soi-même</desc>
-                </valItem>
+                </valItem>                
                 <valItem ident="extérieurs" mode="add">
                   <desc>Les biens extérieurs</desc>
                 </valItem>
-                <valItem ident="âme" mode="add">
-                  <desc>L'âme</desc>
+                <valItem ident="fréres_soeurs" mode="add">
+                  <desc>Devoirs des frères et soeurs</desc>
                 </valItem>
-                <valItem ident="envers_semblables">
-                <desc>Devoirs envers nos semblables</desc>
-                </valItem>
-                <valItem ident="envers_dieu" mode="add">
-                  <desc>Devoirs envers Dieu</desc>
+                <valItem ident="La patrie" mode="add">
+                  <desc>La patrie</desc>
                 </valItem>
                 <valItem ident="instruction_civique" mode="add">
                   <desc>Instruction civique</desc>
@@ -474,8 +471,11 @@
                 <valItem ident="français" mode="add">
                   <desc>Français</desc>
                 </valItem>
-                <valItem mode="add" ident="composition"> -Do I need this if it's above?
-                  <desc>Composition</desc>
+                <valItem ident="descriptions" mode="add">
+                  <desc>Descriptions</desc>
+                </valItem>
+                <valItem ident="lettres" mode="add">
+                  <desc>Lettres</desc>
                 </valItem>
                 <valItem ident="récits" mode="add">
                   <desc>Récits</desc>
@@ -483,26 +483,11 @@
                 <valItem ident="récits_historiques" mode="add">
                   <desc>Récits historiques</desc>
                 </valItem>
-                <valItem ident="descriptions" mode="add">
-                  <desc>Descriptions</desc>
-                </valItem>
                 <valItem ident="sujets-moraux_imagination" mode="add">
                   <desc>Sujets-moraux ou d'imagination</desc>
                 </valItem>
-                <valItem ident="lettres" mode="add">
-                  <desc>Lettres</desc>
-                </valItem>
                 <valItem ident="histoire" mode="add">
                   <desc>Histoire</desc>
-                </valItem>
-                <valItem ident="géographie" mode="add">
-                  <desc>Géographie</desc>
-                </valItem>
-                <valItem ident="europe" mode="add">
-                  <desc>Europe</desc>
-                </valItem>
-                <valItem ident="asie" mode="add">
-                  <desc>Asie</desc>
                 </valItem>
                 <valItem ident="afrique" mode="add">
                   <desc>Afrique</desc>
@@ -510,17 +495,26 @@
                 <valItem ident="amérique" mode="add">
                   <desc>Amérique</desc>
                 </valItem>
-                <valItem ident="océanie" mode="add">
-                  <desc>Océanie</desc>
+                <valItem ident="asie" mode="add">
+                  <desc>Asie</desc>
+                </valItem>
+                <valItem ident="europe" mode="add">
+                  <desc>Europe</desc>
                 </valItem>
                 <valItem ident="france" mode="add">
                   <desc>France</desc>
                 </valItem>
-                <valItem ident="sciences_naturelles" mode="add">
-                  <desc>Sciences Naturelles</desc>
+                <valItem ident="géographie" mode="add">
+                  <desc>Géographie</desc>
+                </valItem>
+                <valItem ident="océanie" mode="add">
+                  <desc>Océanie</desc>
                 </valItem>
                 <valItem ident="minéraux" mode="add">
                   <desc>Minéraux</desc>
+                </valItem>
+                <valItem ident="sciences_naturelles" mode="add">
+                  <desc>Sciences Naturelles</desc>
                 </valItem>
                 <valItem ident="végétaux" mode="add">
                   <desc>Végétaux</desc>
@@ -544,16 +538,19 @@
                   <desc>6° Légumes, Racines, etc.</desc>
                 </valItem>
                 <valItem ident="divers_végétaux" mode="add">
-                  <desc>7° Divers</desc>
+                  <desc>7° Divers (Vegetaux)</desc>
                 </valItem>
-                <valItem ident="animaux">
-                  <desc>Animaux</desc>
+                <valItem ident="homme" mode="add">
+                  <desc>1° L'Homme</desc>
+                </valItem>
+                <valItem ident="animaux_domestiques" mode="add">
+                  <desc>2° Animaux Domestiques</desc>
+                </valItem>
+                <valItem ident="animaux_sauvages" mode="add">
+                  <desc>3° Animaux Sauvages</desc>
                 </valItem>
                 <valItem ident="sciences_physiques" mode="add">
                   <desc>Notions Relatives aux Sciences Physiques</desc>
-                </valItem>
-                <valItem ident="industrie">
-                  <desc>Industrie</desc>
                 </valItem>
                 <valItem ident="matières_objets_fabriques" mode="add">
                   <desc>Matières et objets fabriqués</desc>
@@ -571,7 +568,7 @@
                   <desc>Étoffes, habillement</desc>
                 </valItem>
                 <valItem ident="divers_industrie" mode="add">
-                  <desc>Divers</desc>
+                  <desc>Divers (Industrie)</desc>
                 </valItem>
                 <valItem ident="économie_domestique">
                   <desc>Économie Domestique</desc>
@@ -579,20 +576,17 @@
                 <valItem ident="aliments_cuisine">
                   <desc>Aliments et cuisine</desc>
                 </valItem>
-                <valItem ident="vêtements" mode="add">
+                <valItem ident="vêtements_domestiques" mode="add">
                   <desc>Vêtements</desc>
                 </valItem>
                 <valItem ident="basse-cour" mode="add">
                   <desc>Basse-cour</desc>
                 </valItem>
-                <valItem ident="hygiène" mode="add">
-                  <desc>Hygiène</desc>
-                </valItem>
                 <valItem ident="corps_habitations" mode="add">
                   <desc>Corps et habitations</desc>
                 </valItem>
                 <valItem ident="vêtements_hygiene" mode="add">
-                  <desc>Vêtements</desc>
+                  <desc>Vêtements (Hygiene)</desc>
                 </valItem>
                 <valItem ident="aliments" mode="add">
                   <desc>Aliments</desc>
@@ -603,8 +597,7 @@
               </valList>
             </attDef>
           </attList>
-          </elementSpec>-->
-
+          </elementSpec>
 
     </body>
   </text>
