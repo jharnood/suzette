@@ -38,30 +38,20 @@
       <schemaSpec ident="suzette_custom" start="TEI teiCorpus" targetLang="en" docLang="en">
         <moduleRef key="tei"/>
         <!-- required -->
-        <moduleRef key="core"/>
-        <!-- required -->
-        <moduleRef key="analysis" except="c cl interp interpGrp m pc phr s w"/>
-        <moduleRef key="certainty" except="precision"/>
-        <moduleRef key="corpus"
-          except="activity channel constitution derivation factuality preparedness purpose"/>
-        <moduleRef key="dictionaries"
-          except="case colloc dictScrap entry entryFree etym gram gramGrp hom hyph iType mood number oRef orth pRef per pos pron re sense stress subc superEntry syll tns usg"/>
-        <moduleRef key="drama" except="actor camera castGroup castItem castList move set sound view"/>
-        <moduleRef key="figures" except="formula notatedMusic"/>
-        <moduleRef key="header"
-          except="change handNote hyphenation normalization punctuation scriptNote seriesStmt"/>
-        <!-- required -->
+        <moduleRef key="core" />
+        <moduleRef key="analysis" />
+        <moduleRef key="certainty" />
+        <moduleRef key="corpus" />
+        <moduleRef key="dictionaries" />
+        <moduleRef key="drama" />
+        <moduleRef key="figures" />
+        <moduleRef key="header" />
         <moduleRef key="linking"/>
         <moduleRef key="msdescription"/>
         <moduleRef key="namesdates"/>
-
-        <moduleRef key="textcrit"
-          except="lacunaEnd lacunaStart lem listWit rdg rdgGrp variantEncoding"/>
-        <moduleRef key="textstructure" except="postscript trailer"/>
-        <!-- required -->
+        <moduleRef key="textcrit" />
+        <moduleRef key="textstructure" />
         <moduleRef key="transcr"/>
-
-
         <moduleRef key="tagdocs"/>
 
 <!-- Customize DIV1 with @type chapter -->
@@ -103,7 +93,7 @@
 
 <!-- div3 is always sujets, so doesn't need to be clarified here. Use the attributes wisely. -->
 
-<!-- Customize DIV3 by adding categories as attributees -->
+<!-- Customize DIV3 by adding categories as attributees 
         <classSpec type="atts" ident="att.typed" module="tei" mode="change">
           <attList>
             <attDef ident="morale" mode="change"/>
@@ -119,9 +109,9 @@
             <attDef ident="économie_domestique" mode="change"/>
             <attDef ident="hygiène" mode="change"/>
           </attList>
-        </classSpec>
+        </classSpec>-->
         
-<!-- Customize DIV3 - added values for each of the categories  -->      
+<!-- Customize DIV3 - added values for each of the categories     
         <elementSpec ident="div3" mode="change" module="core">
           <attList>
             <attDef ident="morale" mode="change">
@@ -311,10 +301,10 @@
               </valList>
             </attDef>
           </attList>
-        </elementSpec>
+        </elementSpec>-->
         
         
-<!-- Customize DIV3 @type to provide science_nat further category -->
+<!-- Customize DIV3 @type to provide science_nat further category 
         <elementSpec ident="div3" mode="change">
           <attList>
             <attDef ident="type" mode="change">
@@ -353,7 +343,7 @@
               
             </attDef>
           </attList>
-        </elementSpec>
+        </elementSpec>-->
 
         <!-- Within DIV4 cutomize @type to distinguish questions and réponses -->
         <elementSpec ident="div4" mode="change">
@@ -405,32 +395,10 @@
         </elementSpec>
       </schemaSpec>
       
-<!-- Customize PLACENAME to include place types  TRANSLATE THIS INTO FRENCH -->
-        <elementSpec ident="placeName" mode="change">
-          <attList>
-            <attDef ident="type" mode="change">
-              <valList mode="change" type="closed">
-                <valItem ident="continent" mode="add">
-                  <desc>Continent</desc>
-                </valItem>
-                <valItem ident="country" mode="add">
-                  <desc>Country</desc>
-                </valItem>
-                <valItem ident="city" mode="add">
-                  <desc>City</desc>
-                </valItem>
-                <valItem ident="water_body">
-                  <desc>Body of water</desc>
-                </valItem>
-              </valList>
-            </attDef>
-          </attList>
-        </elementSpec>
-      
-<!-- Custom TERM to align with the Classification via @ana -->        
+<!-- Custom term to align with the Classification via @ana -->        
         <elementSpec ident="term" mode="change">
           <attList>
-            <attDef mode="change" ident="ana">
+            <attDef mode="change" ident="corresp">
               <valList mode="change" type="closed">
                 <valItem mode="add" ident="âme">
                   <desc>L'âme</desc>
