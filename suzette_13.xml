@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="out/suzette_custom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -212,40 +212,39 @@
    </teiHeader>
    <text>
       <body>
-         <div1 type="chapter" xml:lang="fr" corresp="#ch013">
-            <head>13. — Une bonne idée. (Élève, p. 31.)</head>
+         <div1 type="chapitre" xml:lang="fr" corresp="#ch013">
+            <head type="chapter">13. — Une bonne idée. (Élève, p. 31.)</head>
             <pb type="page" n="44"/>
 
-            <div2 type="student_edition">
-               <div3 type="récit">
+            <div2 type="récit">
                   <p>Suzette exposa la double question au papa.</p>
                   <sp>
-                     <speaker>Papa</speaker>
+                     <speaker n="Papa"/>
                      <p>— Hum! hum! répondit-il en se grattant l'oreille, des souliers, une robe,
                         tout à la fois! Si tu attendais que j'eusse vendu mon blé? car je ne
                         pourrais, jusque-là, t'offrir qu'une vingtaine de francs.</p>
                   </sp>
                   <sp>
-                     <speaker>Suzette</speaker>
+                     <speaker n="Suzette"/>
                      <p>— Parfait, vingt francs! Vingt et trente font cinquante; j'ai trente francs
                         d'économies.</p>
                   </sp>
                   <sp>
-                     <speaker>Papa</speaker>
+                     <speaker n="Papa"/>
                      <p>— Trente francs! Tu ne m'as donc pas remis tout le produit des œufs et de la
                         volaille?</p>
                   </sp>
                   <sp>
-                     <speaker>Suzette</speaker>
+                     <speaker n="Suzette"/>
                      <p>— Si, papa.</p>
                   </sp>
                   <sp>
-                     <speaker>Papa</speaker>
+                     <speaker n="Papa"/>
                      <p>— Eh bien, alors?</p>
                   </sp>
                   <stage>Suzette leva l'index :</stage>
                   <sp>
-                     <speaker>Suzette</speaker>
+                     <speaker n="Suzette"/>
                      <p>— Eh bien, papa, écoutez! Les quinze grammes de café que nous dépensons
                         chaque matin coûtent dix centimes; à ce prix-là, combien coûte le
                         demi-kilogramme?</p>
@@ -254,7 +253,7 @@
                      d'arithmétique* <gloss>Se piquer d'une chose. Se glorifier de la bien
                         connaîtra.</gloss>.</p>
                   <sp>
-                     <speaker>M. Dumay</speaker>
+                     <speaker n="M. Dumay"/>
                      <p>— Il coûte trois francs trente-trois centimes, reprit Suzette. Or j'ai eu,
                         depuis quelque temps, l’idée de l'acheter, non plus par miettes, mais
                         par</p>
@@ -284,7 +283,7 @@
                      deux pièces d'or présentes et probantes* <gloss>Probant. Qui donne ou fournit
                         la preuve.</gloss>.</p>
                   <sp>
-                     <speaker>Papa</speaker>
+                     <speaker n="Papa"/>
                      <p>— Bien! dit-il, enchanté; ta mère n'a pas trouvé ça, parce qu'elle était
                         moins instruite que tu ne l'es. C'est d'un cœur ingénieux* <gloss>Ingénieux.
                            Plein d'invention.</gloss> et tendre que naissent les bonnes idées
@@ -296,7 +295,7 @@
                   <p>Les yeux de Suzette brillaient joyeusement. Il lui caressait doucement les
                      cheveux :</p>
                   <sp>
-                     <speaker>Papa</speaker>
+                     <speaker n="Papa"/>
                      <p>— Je veux donc,</p>
                      <stage>reprit-il,</stage>
                      <p>qu'elle ait une jolie robe; et elle l'achètera elle-même, dès demain ;
@@ -311,10 +310,9 @@
                         cafetière et, dès qu'il est passé, versez-le bien chaud. En été, le café
                         froid coupé d'eau est une boisson hygiénique et réconfortante.</caption>
                   </figure>
-               </div3>
             </div2>
-            <div2 type="teacher_edition">
-               <div3 type="questionnaire">
+            
+               <div2 type="questionnaire">
                   <fw type="header">46. SUZETTE.</fw>
                   <pb type="page" n="46"/>
 
@@ -333,12 +331,13 @@
                      <item>— Comment grille-t-on le café?</item>
                      <item>— De quelle manière se prépare une tasse de café noir?</item>
                   </list>
-               </div3>
-            </div2>
-            <div2 type="student_edition">
+               </div2>
+            
+            <div2 type="exercices">
                <head>DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES.</head>
-               <div3 type="sujets" subtype="morale">
+               <div3 morale="extérieurs">
                   <head type="sujets">Morale.</head>
+                  <div4 type="questions">
                   <list type="exercices">
                      <item>— Faut-il dépenser tout ce qu'on gagne, et pourquoi?</item>
                      <item>— Comment appelle-t-on l'argent qu'on épargne ?</item>
@@ -346,11 +345,9 @@
                      <item>— Que pensez-vous des fâcheuses habitudes qu'ils contractent de cette
                         manière ?</item>
                   </list>
-               </div3>
-            </div2>
-            <div2 type="teacher_edition">
-               <div3 type="sujets" subtype="morale">
-
+                  </div4>
+                  
+            <div4 type="réponses">
                   <p>Les personnes qui dépensent au jour le jour ce qu'elles gagnent, ne sont ni
                      raisonnables ni prudentes. Qu'il survienne un chômage, une maladie : comment
                      alors fera celui dont toutes les ressources dépendent du travail quotidien ? Si
@@ -366,23 +363,21 @@
                      rien, et cependant ces menues dépenses, par leur répétition même, s'élèvent en
                      fin d'année à une somme considérable avec laquelle ils pourraient assurer le
                      repos de leur vieillesse ou faire face à des nécessités urgentes.</p>
+            </div4>
                </div3>
-            </div2>
 
-            <div2 type="student_edition">
-               <div3 type="sujets" subtype="calcul">
+               <div3 calcul="">
                   <head>Calcul.</head>
+                  <div4 type="questions">
                   <list type="exercices">
                      <item>— Avec les 10 ou 16 centimes qu'un homme dépense inutilement chaque jour,
                         quelle somme est prélevée sur le gain d'une année?</item>
                      <item>— Que pourrait-on payer ou acheter avec cet argent pour l'entretien du
                         ménage?</item>
                   </list>
-               </div3>
-            </div2>
-
-            <div2 type="teacher_edition">
-               <div3 type="sujets" subtype="calcul">
+                  </div4>
+                  
+          <div4 type="réponses">
                   <p>A raison de 0 fr. 10 par jour, la dépense en question</p>
                   <p>s’élèverait à ..................................... 30 fr. 50</p>
                   <p>A raison de 0 fr. 15, la dépense s’élèverait à ……….. 54 fr. 75</p>
@@ -391,12 +386,13 @@
                      bois ou de charbon pour l'hiver, — ou bien encore payer un semestre de loyer,
                      munir les enfants de chaussures et de bas bien chauds, lorsque survient la
                      saison rigoureuse.</p>
+          </div4>
                </div3>
-            </div2>
-
-            <div2 type="student_edition">
-               <div3 type="sujets" subtype="industrie">
+               
+               
+               <div3 industrie="machines_appareils">
                   <head>Industrie.</head>
+                  <div4 type="questions">
                   <list type="exercices">
                      <item>— A qui et à quoi servent les lunettes?</item>
                      <item>— Quelle est la forme des verres de lunettes?</item>
@@ -405,12 +401,10 @@
                      <item>— Qu'est-ce que l'instrument appelé lunette?</item>
                      <item>— Quels services rend-il?</item>
                   </list>
-               </div3>
-            </div2>
+                  </div4>
 
-            <div2 type="teacher_edition">
-               <div3 type="sujets" subtype="industrie">
-                  <p><rs>Les lunettes</rs> ou besicles remédient aux défauts des vues faibles ou
+            <div4 type="réponses">
+                  <p><term>Les lunettes</term> ou besicles remédient aux défauts des vues faibles ou
                      fatiguées, comme celles des vieillards et des personnes myopes.</p>
                   <p>Les premiers ne peuvent bien voir s'ils n'éloignent les objets de leurs yeux,
                      ce qui fait qu'il leur est presque impossible de distinguer les petits objets
@@ -431,6 +425,7 @@
                      services aux navigateurs, aux militaires, enfin aux astronomes à qui elle a
                      donné le moyen d'étudier les astres dans tous les détails de leur
                      conformation.</p>
+            </div4>
                </div3>
             </div2>
          </div1>

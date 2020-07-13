@@ -213,216 +213,142 @@
     </teiHeader>
     <text>
         <body>
-            <div1 type="chapitre" xml:lang="fr" corresp="#ch035">
-
-                <head type="chapter">35. — Le chien Castor. (Élève, p. 80.)</head>
-                <pb type="page" n="123"/>
-
+            <div1 type="chapitre" xml:lang="fr" corresp="#ch040">
+            <head type="chapter">40. — A l'oeuvre. (Élève, p. 88.)</head>
+                <pb type="page" n="138"/>
                 <div2 type="récit">
-
-                        <p>Voici que le jour tombait.</p>
-                        <p>Sur le fond clair du couchant se dressaient, par places, les silhouettes
-                            * <gloss>Silhouette. Dessin réduit au trait fait autour de l'ombre d'un
-                                corps.</gloss> tordues de vieux saules, d'ormes tronqués*
-                                <gloss>Tronqué. Se dit d'un arbre dont on a coupé les
-                                branches.</gloss>, derniers vestiges* <gloss>Vestiges. Faibles
-                                marques qui rappellent ce qui fut dans un lieu.</gloss> des bois
-                            qui, au dernier siècle, couvraient encore ces plaines.</p>
-                        <p>Suzette marchait vers les buissons qui coupaient l'horizon de leur ligne
-                            noire, pendant que son père et Jacques battaient les champs d'un autre
-                            côté.</p>
-                        <p>De temps à autre, le vent apportait un lointain appel de leurs voix. La
-                            recherche durait depuis le matin.</p>
-                        <p>La jeune fille, dont l'argile des sillons alourdissait de plus en plus
-                            les pieds très las, se laissa tomber, à deux cents pas des arbres.</p>
-                        <p>Là, après quelques minutes, les yeux voilés, elle aperçut, comme dans un
-                            rêve, une forme sombre venir à elle, et bientôt crut distinguer des
-                            jappements sourds.</p>
-                        <p>Elle murmura :</p>
-                        <sp>
-                            <speaker n="Suzette"/>
-                            <p>— Le chien...</p>
-                        </sp>
-                        <p>Oui, oui, c'était le chien, c'était Castor qui, arrivé près d'elle, se
-                            mit à lui lécher les mains. Alors, avec le même murmure de voix; elle
-                            dit :</p>
-                        <sp>
-                            <speaker n="Suzette"/>
-                            <p>— Et François!</p>
-                        </sp>
-                        <p>A ce nom, Castor partit d'un trait vers le fourré* <gloss>Fourré. Partie
-                                d'un bois où se trouve un assemblage épais d'arbrisseaux et de
-                                broussailles.</gloss>.</p>
-                        <figure type="sujets">
-                            <caption>Saules et ormus. Ces arbres croissent de préférence dans les
-                                lieux humides.</caption>
-                        </figure>
-
-
-                        <fw type="header">124 SUZETTE.</fw>
-                        <pb type="page" n="124"/>
-                        <p>Aussitôt Suzette, sortant de son rêve et de sa faiblesse, se redressa
-                            avec toute sa connaissance et sa volonté revenues. A la lisière du bois,
-                            le chien l'appelait d'un aboiement ému.</p>
-                        <p>Elle courait : plus de doute! François était la. Mais vivant ou mort?
-                            Derrière le guide, elle s'engagea dans les broussailles et après une
-                            cinquantaine de pas se trouva en face d'un corps inerte au pied d'un
-                            orme :</p>
-                        <sp>
-                            <speaker n="Suzette"/>
-                            <p>— François!</p>
-                        </sp>
-                        <p>Elle se baissa, le secoua plusieurs fois ; il paraissait dormir. Enfin, à
-                            ce mouvement et aux aboiements de Castor, il ouvrit les yeux.</p>
+            <sp>
+                <speaker n=""/>
+                <p>— Hardi ! dormons-nous? vite du mortier !... Hé ! là bas, de l'eau sur la chaux pour l'éteindre * <gloss>Éteindre de la chaux. La délayer en y versant de l'eau.</gloss> !</p>
+            </sp>
+                    <p>Le maître maçon, un gaillard trapu, à la voix forte, donnait ses ordres à l'équipe * <gloss>Equipe. Compagnie d'ouvriers réunis pour un même travail. </gloss>.</p>
+            <p>La maison s'élevait, le Crédit foncier ayant prêté trois mille cinq cents francs sur les terres.</p>
+                    <p>On rebâtissait suivant un plan nouveau ; Jacques et Suzette avaient voulu, contre l'humidité, l'exhaussement* <gloss>Exhausser. Elever en hauteur.</gloss> sur quelques marches, l'exposition au midi, l'aérage* <gloss>Aérage. Renouvellement de l’air d'un lieu.</gloss> par des fenêtres opposées, enfin des prises d'air aussi hautes et aussi larges que possible, l'air et la lumière
+            
+            <fw type="header">A L'OEUVRE.  139</fw>
+                    <pb type="page" n="139"/>
+            constituant les premières conditions de la santé. D'un léger rétrécissement de la cuisine et des chambres, on avait tiré la place d'une petite salle qui devait être plus tard le centre délicat de la maison, le lieu où on lit et cause.</p>
+            <p>Mais aussi on gagnait soi-même son argent. Aux heures de liberté que laissaient le travail des champs et celui de l'école, tout le monde se mettait au service du maçon. François, surtout, s'en donnait là comme quatre.</p>
+            <p>Pendant ce temps, Suzette faisait la cuisine chez Ludivine pour la nourriture des travailleurs.</p>
+                    <p>Enfin le toit se couronna, d'un « mai », une branche de verdure ; le nouveau nid familial était achevé, et l'on s'y installa, aussitôt les plâtres séchés. Ah ! le mobilier n'était pas encombrant. Dans un coin, un vieux pétrin retiré de l'écurie où il servait, à serrer l'avoine. Maintenant passé au brou* <gloss>Brou. L'enveloppe verte des noix. </gloss> de noix et à la cire, il figurait un coffre à linge. Quelques bonnes voliges de hêtre clouées sur deux tréteaux servaient de table ; des planches, étagées * <gloss>Etager. Disposer les rayons les uns au-dessus des autres.</gloss> contre les murs et garnies de lambrequins de papier bleu découpé à jour, formaient, selon l'emploi de leurs rayons, un dressoir à vaisselle et une bibliothèque.</p>
+                    <p>La seule dépense un peu grosse fut celle d'une pièce de vingt francs, qu'on échangea, dans une vente, pour un gros bahut tant soit peu bancal* <gloss>Bancal. Qui' n'est pas d'aplomb sur ses pieds.</gloss> et disloqué* <gloss>Disloqué. A moitié brisé. </gloss>. Mais ses
+            <figure type="illustration">
+            <caption>Les corps de métiers qui concourent à la construction d'une maison sont principalement : 1° le menuisier ; 2° le serrurier ; 3" le maçon; 4° le couvreur.</caption>
+            </figure>
+                
+            <fw type="header">140   SUZETTE.</fw>
+                        moulures et quelques fioritures * <gloss>Fioritures. Ornements de peu d'importance.</gloss> qu'une couche de couleur jaune clair, ne parvenait pas à dissimuler entièrement, rappelaient à Suzette celui d'autrefois, le bahut de famille envolé en fumée.</p>
+                    <p>Et voici qu'une fois lessivé de son jaune, guéri de sa boiterie par les bons soins de Jacques et de François, bien rassis sur ses gonds, tout brillant d'encaustique * <gloss>Encaustique. Mélange de cire et d'essence de térébenthine.</gloss>; caressé artistement de la brosse et de la flanelle, ce fut un bahut de noyer façonné de la bonne manière, et qui semblait venu là pour donner le ton et l'exemple au mobilier futur.</p>
+                    <p>Les lits étaient de fer; la literie, de la balle d'avoine * <gloss>Balle d'avoine. Pellicule des grains d'avoine. </gloss>. Et qu'on dormait bien là-dessus! Quelques chaises, quelques escabeaux composaient le reste de l'ameublement. Mais de la propreté, il s'en voyait là alitant que dans un palais.</p>
+                    <p>Dans la hutte reconstruite, nos Robinsons étaient entrés enfin, avec la joie que procurent le plus rude des labeurs accompli, la victoire remportée sur l'inertie * <gloss>Inertie. Manque d'activité, d'énergie.</gloss> des choses, et le souvenir même des malheurs passés, qui souvent fait une partie du bonheur présent.</p>
                 </div2>
-
-                <div2 type="questionnaire">
-                        <head>Questionnaire.</head>
-                        <list>
-                            <item>— Quel aspect la campagne présentait-elle au soleil
-                                couchant?</item>
-                            <item>— Où se trouvaient alors les membres de la famille qui étaient à
-                                la recherche de François?</item>
-                            <item>— Qu'entendait-<cb/> on de temps en temps?</item>
-                            <item>— Qu'advint-il à Suzette?</item>
-                            <item>— Que crut-elle voir et entendre?</item>
-                            <item>— Qui arriva auprès d'elle?</item>
-                            <item>— Comment découvrit-elle François?</item>
-                            <item>— Où et en quel état le trouva-t-elle?</item>
-                        </list>
-                    
-                </div2>
-
-                <div2 type="exercices">
-                    <head>DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES.</head>
-                    <div3 morale="fréres_soeurs">            
-                        <head type="sujets">Morale.</head>
-                        <div4 type="questions">
+           
+           <div2 type="questionnaire">
+            <head>Questionnaire.</head>
+               <list>
+                   <item>— En quels termes le maître maçon excitait-il ses ouvriers au travail?</item>
+                   <item>— Comment le fermier s'était-il procuré les fonds nécessaires à la reconstruction de sa maison?</item>
+                   <item>— Quel plan avait-on adopté? Donnez quelques détails à cet égard.</item>
+                   <item>— Quand et comment aidait-on les maçons?</item>
+                   <item>— A quoi s'occupait Suzette?</item>
+                   <item>— Parlez du nouveau mobilier.</item>
+                   <item>— À quel usage avait-on affecté une somme de 20 francs?</item>
+                   <item>— Comment remit-on à neuf le vieux meuble?</item>
+                   <item>— Qu'est-ce qui composait le reste de l'ameublement?</item>
+                   <item>— Dans quels sentiments était-on entré dans la maison nouvelle?</item>
+               </list>
+           </div2>
+              
+            <div2 type="exercices">
+            <head>DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES.</head>
+                <div3 composition="descriptions">
+            <head type="sujets">Composition.</head>
+                    <div4 type="questions">
                         <list type="exercices">
-                            <head>— AMOUR FRATERNEL.</head>
-                            <item>— Quels motifs doivent nous porter à aimer nos frères et
-                                soeurs?</item>
-                            <item> — Quels actes témoignent qu’on les aime?</item>
-                            <item>— Quels égards les plus jeunes enfants doivent-ils aux
-                                aînés?</item>
+                    <item>— Si votre mère, vous disait : « Ma fille, je désire que tu aies une chambre tapissée, meublée et ornée selon tes goûts, » quelles indications lui donneriez-vous?</item>
                         </list>
-                        </div4>
-                           
-                        <div4 type="réponses">
-                            <p>Je ne connais pas d'obligation plus naturelle que de s'aimer et de vivre
-                            unis entre frères et soeurs. N'est-on pas les enfants du même père et de
-                            la même mère? N'est-ce pas sous le même toit qu'on a commencé sa vie,
-                            qu'on a reçu les mêmes caresses, les mêmes soins? On y a vécu comme les
-                            rejetons sous l'ombre protectrice de l'arbre paternel.</p>
-                        <p>On montre qu'on aime ses frères et soeurs par des égards réciproques, une
-                            obligeance que rien n'arrête, par des prévenances aimables, enfin par
-                            l'empressement à les secourir dans le danger.</p>
-                        <p>Les plus jeunes frères et soeurs doivent montrer de la déférence pour
-                            leurs aînés et les regarder comme leurs protecteurs naturels après le
-                            père et la mère. C'est pour eux un devoir de leur obéir lorsque les
-                            parents leur confient la direction d'un travail ou la surveillance de la
-                            maison. A leur tour, les aînés rendront de bons offices à leurs frères
-                            et soeurs, sans toutefois s'en prévaloir ni les rappeler sans
-                            nécessité.</p>
-                        </div4>
-                    </div3>
-
-                    <div3 français="generale">
-                        <head type="sujets">Français.</head>
-                        <div4 type="questions">
-                            <list type="exercices">
-                            <item>— Acceptions diverses des mois ; Ligne, pied, oeil, ombre,
-                                lisière, connaissance.</item>
-                        </list>
-                        </div4>
-                        
-
-                    <div4 type="réponses">
-                        <p><term>Ligne</term>: 1° Trait simple sans largeur ni profondeur. — 2°
-                            Caractères d'imprimerie ou d'écriture, personnes, objets rangés sur la
-                            même direction. — 3° Fil de crin ou de chanvre au bout duquel on attache
-                            un hameçon. — 4° L'équateur, — 5° Suite des descendants d'une même
-                            famille.</p>
-                        <p><term>Pied</term>. — (Consulter un dictionnaire et disposer comme
-                            précédemment.)</p>
                     </div4>
-                    </div3>
-
-                    <div3 géographie="complexe">
-                        <head type="sujets">Géographie et Temps.</head>
-                        <div4 type="questions">
-                            <list type="exercices">
-                            <item>—'Qu'entend-on par: jour, heure, minute, <fw type="header">PAUVRE
-                                    PETIT! 125</fw>
-                                <pb type="page" n="123"/> seconde; </item>
-                            <item>— semaine, mois, trimestre, semestre, saison, année, année
-                                bissextile, siècle, solstice, équinoxe, anniversaire?</item>
+                    
+                    <div4 type="réponses">
+            <p>Tu m'as dit hier, ma chère maman, que ton désir est que j'aie une chambre tapissée, meublée et ornée selon mes goûts; je ne saurais t'exprimer combien je suis heureuse de ce témoignage de ton affection, et avec quel plaisir je te soumets les propositions que tu m'as demandées. J'ai réfléchi, j'ai examiné, j'ai recueilli tous mes souvenirs avant d'arrêter mon choix ; puisse-je avoir réussi, c'est-à-dire te prouver que je n'ai oublié ni notre situation de fortune, ni mon âge, ni mon sexe !</p>
+            <p>(Continuer ainsi en suivant l'ordre indiqué par l'énoncé du sujet.)</p>
+                    </div4>
+                </div3>
+                    
+            <div3 calcul="">
+                <head type="sujets">Calcul.</head>
+                <div4 type="questions">
+                    <list type="exercices">
+                <item>— Votre choix fait, établissez ce que coûterait chacun des objets que vous vous proposez d'acquérir, car il ne faut rien acheter sans s'être bien rendu compte de la dépense.</item>
+                    </list>
+                </div4>
+            
+            <fw type="header">A L'OEUVRE. 141</fw>
+                <div4 type="réponses">
+            <p>MODÈLE. — 15 rouleaux de papier, pose comprise, à 3 fr. 80. . . . .57 » </p>
+            <p>Un lit de fer émaillé, blanc et bleu. . . . . . . . . 65 » </p>
+            <p>Sommier recouvert de toile rayée. . . . . . . . . . 32 50</p>
+            <p>. . . . . . . . . . . . . . . . . . . . </p>
+                </div4>
+            </div3>
+                
+            <div3 sciences_naturelles="mineraux">
+            <head type="sujets">Sciences naturelles.</head>
+                <div4 type="questions">
+                    <list type="exercices">
+                <item>— Qu'est-ce que les pierres?</item>
+                <item>— D'où elles sont tirées.</item>
+                <item>— Diverses sortes de pierres en usage dans le pays.</item>
+                <item>— A quoi servent les pierres de chacune des sortes indiquées?</item>
+                <item>— Qu'est-ce que la chaux?</item>
+                <item>— Quel en est l'usage?</item>
+                <item>— Qu'est-ce que le plâtre?</item>
+                <item>— Nom de la pierre qui donne le plâtre.</item>
+                <item>— A quels usages emploie-t-on le plâtre?</item>
+                <item>— Ne sert-il pas en agriculture?</item>
+                    </list>
+                </div4>
+                
+            <div4 type="réponses"> 
+            <head>LES PIERRES.</head>
+            <p>— On entend par pierres des corps durs et solides qu'on emploie dans la construction des édifices. Elles sont ordinairement tirées de grandes excavations appelées <term>carrières</term>, où on les trouve disposées en bancs épais, formés à une époque très éloignée par les dépôts de la mer ou par les matières fondues qui se sont étanchées à la surface du sol. On trouve dans la première sorte de pierres des coquillages, des animaux pétrifiés et des débris de plantes.</p>
+            <p>Parmi les diverses sortes de pierres, on distingue <term>les pierres calcaires</term> propres à faire de la chaux; <term>le granit</term>, qui présente un empâtement de petits grains de diverses couleurs; <term>le marbre</term>, matière très dure susceptible de prendre un beau poli qui met en relief de riches teintes; <term>le grès</term>, formé de petits grains de silice agglomérés; <term>la craie</term>, blanche, friable et qui contient de gros rognons de silex; <term>le gypse</term>, pierre blanche dont on fabrique le plâtre. Il y a encore les <term>pierres volcaniques</term>, qui ont pour origine les laves vomies par les volcans; elles sont dures, souvent poreuses et de couleur noire ou brun foncé. Tels sont les <term>basaltes</term>, les <term>gneiss</term>, les <term>trachytes</term>.</p>
+            <p>Les pierres calcaires, les granits, le grès, le gypse, la craie, les pierres volcaniques servent aux constructions ordinaires; le marbre est employé pour les monuments, les statues et divers ornements.</p>
+            <p><term>La chaux</term> n'est pas autre chose que de la pierre calcaire qui a été sottiniso, dans des fours, à une haute température; elle jouit de la propriété de former pâte avec de l'eau. Dans cet état, on l'emploie à la confection des mortiers.</p>
+            <p><term>Le plâtre</term> est du gypse qu'on a soumis à une haute température dans des fours, et qu'on a ensuite réduit en poudre. Délayé dans de l'eau, il durcit rapidement; aussi convient-il pour joindre les pierres des murailles et enduire les diverses parties d'un bâtiment. Au printemps, on le répand, à l'état naturel sur les prairies artificielles pour en augmenter le produit.</p>
+            </div4>
+            </div3>
+                
+                <div3 économie_domestique="generale">
+            <head type="sujets">Économie domestique.</head>
+                    <div4 type="questions">
+                        <list type="exercices">
+                    <item>— Que faut-il pour établir un lit de jeune fille?</item>
+                    <item>— Comment fait-on un lit?</item>
+                    <item>— Où doit dire pincé le fil?</item>
+                    <item>— Inconvénients des alcôves, des rideaux.</item>
+                    <item>— Que preserit l'hygiène avant qu'on fasse le lit?</item>
+                    <item>— Est-il sain de coucher sur la plume?</item>
+                    <item>— Pour quel motif?</item>
+                    <item>— Que peut coûter un lit?</item>
+                    <item>— Établissez le compte détaillé, pièce par pièce.</item>
                         </list>
-                        </div4>
-                        
-              <div4 type="réponses">        
-                  <p>On entend par <term>jour</term> l'espace de temps que la terre met à
-                            effectuer un tour complet sur elle-même. <term>L'heure</term> est la
-                            vingt-quatrième partie d'un jour; la minute,la soixantième partie d'une
-                            heure, et la <term>seconde</term>, la soixantième partie d'une minute.</p>
-                        <p>On appelle <term>semaine</term> une unité de temps formée de sept jours
-                            consécutifs; elle commence le dimanche. Le <term>mois</term> est un espace
-                            de 28, 20, 30 ou 31 jours. Un <term>trimestre</term> comprend trois mois ;
-                            un <term>semestre</term>, six mois. Une <term>saison</term> est une des quatre
-                            grandes divisions de l'année; chacune dure trois mois. L’<term>année</term>,
-                            espace de temps que la terre met à exécuter sa révolution autour du
-                            soleil, renferme 365 jours et 6 heures. Les <term>années bissextiles</term>
-                            ont 365 jours ; elles reviennent tous les quatre ans. Un espace de cent
-                            ans s'appelle <term>siècle</term>.</p>
-                        <p>Les <term>solstices</term> sont les deux époques de l'année où, à midi, le
-                            soleil est le plus ou le moins élevé sur l’horizon. Ils se produisent le
-                            21 juin et le 21 décembre. Au 21 mars ot au 21 septembre, la durée des
-                            jours et celle des nuits sont égales, d'où le nom d'<term>équinoxes</term>
-                            qui est donné à ces époques. Un <term>anniversaire</term> est l'époque qui
-                            rappelle le souvenir d'un événement arrivé à pareil jour, une ou
-                            plusieurs années auparavant.</p>
-              </div4>
-                    </div3>
-
-                    <div3 sciences_naturelles="végétaux">
-                        <head type="sujets">Sciences naturelles.</head>
-                        <div4 type="questions">
-                            <list type="exercices">
-                            <head>— SAULES ET ORMES.</head>
-                            <item>— Quel aspect présente, au printemps, chacun de ces arbres
-                                ?</item>
-                            <item>— Où les plante-t-on ordinairement ?</item>
-                            <item>— Comment est le bois du saule?</item>
-                            <item>— Comment est le bois de l'orme?</item>
-                            <item>— Quel est l'usage qu'on en fait?</item>
-                            <item>— Remarque sur le nombre des graines de l'orme.</item>
-                        </list>
-               </div4>
-                   
-                        <div4 type="réponses">
-                        <p>SAULE. — Le saule est un arbre qui croît ordinairement dans les terrains
-                            humides et le long des cours d'eau. Il a un tronc solide, à écorce
-                            rugueuse, et il pousse de longues branches flexibles au feuillage léger.
-                            On tire parti du saule en coupant les rameaux dont on fait des fagots,
-                            et en renouvelant cette opération tous les trois ou quatre ans. Le bois
-                            du tronc est blanc et tendre, et on ne peut l'employer que pour le
-                            chauffage.</p>
-                        <p>ORME. — L'orme est un bel arbre qui se couvre au printemps d'une
-                            multitude de fleurs verdâtres dont chaque pétale enveloppe une graine.
-                            Ces fleurs se dessèchent rapidement, tombent et font place à un
-                            feuillage vert sombre.</p>
-                        <p>L'orme vient de préférence dans les terres fraîches et profondes; il
-                            atteint alors des dimensions considérables ; on le plante fréquemment
-                            sur le bord des routes, qu'il ombrage dans la belle saison. On coupe ses
-                            rameaux comme ceux du saule et pour le même usage. Quant à son bois, dur
-                            et résistant, il est employé par les charrons pour la confection des
-                            roues et des moyeux. Peu d'arbres ont autant de graines; on les compte
-                            par centaines de mille sur un même sujet; chacune est entourée d'une
-                            membrane légère qui permet aux vents de la transporter à de grandes
-                            distances.</p>
-                        </div4>
-                    </div3>
-                </div2>
+                    </div4>
+             
+             <div4 type="réponses">
+            <p>Pour établir un lit de jeune fille, la pièce la plus importante est le meuble qui est en bois ou en fer; puis viennent le sommier ou ta paillasse, les matelas, des draps, un traversin, un oreiller, une couverture de laine, uno autre de coton, un édredon pour la saison d'hiver, enfin une courtepointe qui recouvre le tout. Souvent on y ajoute un lit de plume et on le garnit de rideaux légers.</p>
+            <p>Pour <term>faire un lit</term> où l'on a passé la nuit, on enlève et dépose successivement sur un tableau ou deux chaises, l'oreiller, le traversin, les couvertures, les draps, les matelas et le lit de plume ; s'il y a une
+            
+            <fw type="header">142   SUZETTE.</fw>
+                <pb type="page" n="142"/>
+            paillasse, on en remue le contenu on passant la main par les ouvertures pratiquées à cet effet, et on lui donne une forme légèrement bombée au milieu. Après que les diverses pièces du lit ont été exposées quelque temps à l'air, on les replace dans l'ordre habituel, en engageant les draps et les couvertures sous les matelas et sous le traversin qui en est entouré ; enfin on arrange la courtepointe sur le tout, et on place l'édredon on dornier lieu. Remarquons que la courtepointe est toujours enlevée lorsqu'on prépare le lit pour le coucher.</p>
+            <p>Les lits doivent être placés de préférence au milieu de la chambre, le dos du meuble étant appuyé contre le mur: le plus souvent, on les installe dans un angle de la pièce pour la facilité de la circulation. Il est malsain de los renfermer dans des alcôves closes par des rideaux, parce que l'air s'y renouvelle difficilement.</p>
+            <p>Avant de faire le lit, il est nécessaire de renouveler l'air do la pièce en laissant les fenêtres grandes ouvertes et, comme nous l'avons dit, en exposant au dehors les draps, matelas et couvertures.</p>
+            <p>Les lits de plume conservent la chaleur du corps et absorbent les miasmes qui s'en exhalent; il est donc anti-hygiénique de les placer immédiatement sous le drap inférieur.</p>
+            <p><term>Coût d'un lit</term>. (L'établir en suivant la disposition précédemment indiquée dans le devis d'achat d'une chambre de jeune fille.)</p>
+             </div4>
+                </div3>
+            </div2>
             </div1>
         </body>
     </text>
