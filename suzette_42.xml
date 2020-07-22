@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="out/suzette_custom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -212,19 +212,18 @@
    </teiHeader>
    <text>
       <body>
-         <div1 type="chapter" xml:lang="fr" n="42">
+         <div1 type="chapitre" xml:lang="fr" n="42">
             <head type="chapter"> 42. — Luttons ! (Élève, p. 93.) </head>
             <pb type="page" n="146"/>
-            <div2 type="student_edition">
-               <div3 type="récit">
+            <div2 type="récit">
 
                   <sp>
-                     <speaker>Jacques</speaker>
+                     <speaker n="Jacques"/>
                      <p> — Diable ! </p>
                   </sp>
-                  <stage> dit Jacques dès le premier regard, </stage>
+                  <p> dit Jacques dès le premier regard, </p>
                   <sp>
-                     <speaker>Jacques</speaker>
+                     <speaker n="Jacques"/>
                      <p> voilà la larve* <gloss>Larve. L'insecte dans l'état où il est à partir de
                            sa sortie de l'œuf jusqu'à sa transformation.</gloss> du hanneton qui
                         fait son entrée chez nous. </p>
@@ -247,18 +246,18 @@
                      confinant au sien et où les tristes feuilles penchées se voyaient en bon
                      nombre. </p>
                   <sp>
-                     <speaker>Jacques</speaker>
+                     <speaker n="Jacques"/>
                      <p> — L'ennemi vient de là ! </p>
                   </sp>
                   <p> Suzette et Charlot regardèrent d'un air consterné* <gloss>Consterné. Dans un
                         étonnement douloureux.</gloss>. </p>
                   <sp>
-                     <speaker>Jacques</speaker>
+                     <speaker n="Jacques"/>
                      <p> — Ah ! </p>
                   </sp>
-                  <stage> reprit-il, </stage>
+                  <p> reprit-il, </p>
                   <sp>
-                     <speaker>Jacques</speaker>
+                     <speaker n="Jacques"/>
                      <p> quelle bataille que celle de la vie ! Il est vrai que sans les nécessités
                         de l'éternelle lutte, nous passerions notre existence couchés sur le dos,
                         sommeillant, indifférents à tout, sans force même pour chasser les mouches.
@@ -270,13 +269,13 @@
 
 
                   <sp>
-                     <speaker>Suzette</speaker>
+                     <speaker n="Suzette"/>
                      <p> — Comment arrêter l'invasion* <gloss>Invasion. Entrée dans un pays pour le
                            ravager, le piller.</gloss> de cet ennemi ? </p>
                   </sp>
-                  <stage>dit Suzette.</stage>
+                  <p>dit Suzette.</p>
                   <sp>
-                     <speaker>Jacques</speaker>
+                     <speaker n="Jacques"/>
                      <p> — Impossible de l'arrêter ; tout est perdu, ma chère. Il n'y a plus qu’à
                         bêcher profondément, à mettre à l’air les larves pour les détruire, et à
                         repiquer* <gloss>Repiquer. Déplanter et replanter ailleurs de jeunes
@@ -287,14 +286,14 @@
                      main, le cigare aux lèvres, s'arrêta devant les Dumay, qu'il vit très occupés à
                      un travail nouveau : </p>
                   <sp>
-                     <speaker>M. Lejoly</speaker>
+                     <speaker n="M. Lejoly"/>
                      <p> — Eh ! eh ! que fait-on là ? </p>
                   </sp>
                   <sp>
-                     <speaker>Papa</speaker>
+                     <speaker n="Papa"/>
                      <p> — On repique des choux de Bruxelles, </p>
                   </sp>
-                  <stage> répondit le père. </stage>
+                  <p> répondit le père. </p>
                   <p> Le chou de Bruxelles, qui n'est pas du tout de Bruxelles, et qui ressemble à
                      un petit xchou de poupée, n'avait pas l'honneur d'être connu de M. Florentin
                      Lejoly. </p>
@@ -305,17 +304,17 @@
                   </figure>
 
                   <sp>
-                     <speaker>M. Lejoly</speaker>
+                     <speaker n="M. Lejoly"/>
                      <p> — Tiens ! dit-il, c'est original, planter des choux parmi les betteraves ;
                         ça ne s'est pas encore vu à Fragicourt. </p>
                   </sp>
                   <sp>
-                     <speaker>Papa</speaker>
+                     <speaker n="Papa"/>
                      <p> — Oui, </p>
                   </sp>
-                  <stage> dit M. Dumay assez sèchement, </stage>
+                  <p> dit M. Dumay assez sèchement, </p>
                   <sp>
-                     <speaker>Papa</speaker>
+                     <speaker n="Papa"/>
                      <p> c’est vrai qu’à Fragicourt, quand le ver blanc détruit une récolte, on se
                         contente de se lamenter, et de laisser chômer* <gloss>Chômer. Rester sans
                            produire.</gloss> la terre ; le destructeur a le dernier. Mais il y a des
@@ -328,12 +327,12 @@
                   <p> Tout enchanté qu'on reconnût sa richesse, M. Florentin Lejoly se mit à sourire
                      ; </p>
                   <sp>
-                     <speaker>M. Lejoly</speaker>
+                     <speaker n="M. Lejoly"/>
                      <p> — Vous entendez bien, </p>
                   </sp>
-                  <stage> répondit-il, </stage>
+                  <p> répondit-il, </p>
                   <sp>
-                     <speaker>M. Lejoly</speaker>
+                     <speaker n="M. Lejoly"/>
                      <p> qu'un homme comme moi n'a pas à s'occuper d'un champ de betteraves malade,
                         et d'autant moins que je l'ai loué, ce champ. Adressez-vous à mon locataire.
                      </p>
@@ -351,11 +350,9 @@
                      durait encore. </p>
                   <p> Jacques et Suzette se taisaient, sachant la peine de leur père à ces tristes
                      souvenirs dont il ne parlait jamais qu'aux heures d'ennui. </p>
-               </div3>
             </div2>
-
-            <div2 type="teacher_edition">
-               <div3 type="questionnaire">
+            
+               <div2 type="questionnaire">
                   <head> Questionnaire. </head>
                   <list>
                      <item>— Comment Jacques s'assura-t-il de la présence de la larve du hanneton
@@ -371,32 +368,31 @@
                      <item>— Que pensez-vous de Lejoly ?</item>
                      <item>— Comment la pièce de terre était-elle arrivée en sa possession ?</item>
                   </list>
-               </div3>
-            </div2>
+               </div2>
+            
 
-            <div2 type="studentt_edition">
+            <div2 type="exercices">
                <head> DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES. </head>
 
-               <div3 type="sujets" subtype="morale">
+               <div3 morale="âme">
                   <head type="sujets"> Morale. </head>
+                  <div4 type="questions">
                   <list type="exercices">
                      <item>— Quelles personnes ont des manières naturelles ?</item>
                      <item>— A quoi reconnait-on qu'une jeune fille est prétentieuse ?</item>
                      <item>— De quelles gens se moque-t-on le plus et toujours ?</item>
                      <item>— Quelles qualités manquent aux personnes prétentieuses ?</item>
                   </list>
-               </div3>
-            </div2>
-
-            <div2 type="teacher_edition">
-               <div3 type="sujets" subtype="morale">
-                  <p>On a des <rs>manières naturelles</rs> lorsque notre façon d'agir, de nous
+                  </div4>
+               
+               <div4 type="réponses">
+                  <p>On a des <term>manières naturelles</term> lorsque notre façon d'agir, de nous
                      tenir, de parler est en parfaite harmonie avec les convenances d'abord, puis
                      avec notre situation, notre âge, notre sexe. Ces manières, à la fois discrètes
                      et mesurées, ont pour qualité première de n'attirer l'attention de personne :
                      elles plaisent, elles sont agréables, mais avec une teinte de modestie qui leur
                      donne un mérite de plus. </p>
-                  <p>Une jeune fille <rs>prétentieuse</rs>, et Dieu sait si l'espèce en est rare,
+                  <p>Une jeune fille <term>prétentieuse</term>, et Dieu sait si l'espèce en est rare,
                      cherche à se distinguer des autres et à paraître au-dessus d'elles par une
                      façon particulière de s'exprimer, de marcher, de porter la tête, qui traduit un
                      orgueil niais avec l'imitation maladroite ou plutôt la caricature des manières
@@ -405,12 +401,12 @@
                      extrêmement comiques et provoquent le sourire à bon droit. </p>
                   <p>On a toujours constaté que les personnes prétentieuses sont égoïstes,
                      ignorantes et dépourvues de tact.</p>
+               </div4>
                </div3>
-            </div2>
-
-            <div2 type="student_edition">
-               <div3 type="sujets" subtype="composition">
+           
+               <div3 composition="descriptions">
                   <head type="sujets"> Composition. </head>
+                  <div4 type="questions">
                   <list type="exercices">
                      <item>— LE LAPIN.</item>
                      <item>— Décrire le lapin.</item>
@@ -420,22 +416,21 @@
                         ?</item>
                      <item>— Qu'entend-on par garenne ; par lapin de garenne ?</item>
                   </list>
-               </div3>
-            </div2>
-
-            <div2 type="teacher_edition">
-               <div3 type="sujets" subtype="composition">
+                  </div4>
+              
+              <div4 type="réponses">
                   <p>(Voir le COURS DE COMPOSITION FRANÇAISE (Degré élémentaire et moyen) de E.
                      LAPORTE, Partie du maître, page 126.)</p>
+              </div4>
                </div3>
-            </div2>
+            
 
             <fw type="header"> LUTTONS ! 149 </fw>
             <pb type="page" n="149"/>
 
-            <div2 type="student_edition">
-               <div3 type="sujets" subtype="sciences_naturelle">
+               <div3 sciences_naturelles="animaux">
                   <head type="sujets"> Sciences naturelles. </head>
+                  <div4 type="questions">
                   <list type="exercices">
                      <item>— LE HANNETON.</item>
                      <item>— Qu'est-ce que le hanneton ?</item>
@@ -448,14 +443,12 @@
                      <item>— Diverses sortes de betteraves.</item>
                      <item>— Usages de cette plante : les indiquer seulement.</item>
                   </list>
-               </div3>
-            </div2>
-
-            <div2 type="teacher_edition">
-               <div3 type="sujets" subtype="sciences_naturelle">
-                  <p><rs>Le hanneton</rs> est un insecte muni de fortes mandibules ou mâchoires et
+                  </div4>
+            
+           <div4 type="réponses">
+                  <p><term>Le hanneton</term> est un insecte muni de fortes mandibules ou mâchoires et
                      pourvu de deux paires d'ailes dont la supérieure forme une espèce de bouclier
-                     dur et corné qu'on désigne sous le nom d'<rs>élytres</rs>.</p>
+                     dur et corné qu'on désigne sous le nom d'<term>élytres</term>.</p>
                   <p>De l'œuf du hanneton naît une larve d'un gris blanchâtre qui reste trois ans
                      dans la terre et y vit aux dépens des racines des plantes : c'est un des fléaux
                      de l'agriculture. L'insecte parfait apparaît aux premiers jours du printemps et
@@ -465,7 +458,7 @@
                      continuelle, car non seulement ils mettent fin à ses ravages, mais ils
                      empêchent la multiplication de ces larves voraces qui causent tant de préjudice
                      aux cultures printanières. </p>
-                  <p>LA BETTERAVE. — <rs>La betterave</rs> est une plante bisannuelle dont la racine
+                  <p>LA BETTERAVE. — <term>La betterave</term> est une plante bisannuelle dont la racine
                      volumineuse a une forme pivotante ; elle porte des feuilles d'un beau vert
                      luisant. Lorsqu'on laisse cette plante monter à graine, sa tige atteint une
                      hauteur d'un mètre et produit des fleurs vertes d'où naissent quantités de
@@ -473,23 +466,21 @@
                   <p>Il existe trois variétés de cette plante : la betterave potagère, que l'on
                      cultive dans les jardins pour la manger en salade ; la betterave à sucre, et
                      la betterave fourragère, qu'on donne en nourriture aux animaux à l'étable. </p>
+           </div4>
                </div3>
-            </div2>
-
-            <div2 type="student_edition">
-               <div3 type="sujets" subtype="économie_domestique">
+            
+               <div3 économie_domestique="generale">
                   <head type="sujets"> Économie domestique. </head>
+                  <div4 type="questions">
                   <list type="exercices">
                      <item>— Exposer la préparation d'un plat de pommes de terre à l'étuvée ;</item>
                      <item>— des pommes de terre frites ;</item>
                      <item>— d'une purée de pommes de terre ;</item>
                      <item>— d'un ragoût de mouton aux pommes de terre.</item>
                   </list>
-               </div3>
-            </div2>
-
-            <div2 type="teacher_edition">
-               <div3 type="sujets" subtype="économie_domestique">
+                  </div4>
+               
+               <div4 type="réponses">
                   <p>POMMES DE TERRE A L’ÉTUVÉE OU A LA VAPEUR. — Les pommes de terre étant lavées,
                      on les dispose dans une marmite de fonte sur un lit de cendres, puis on pose le
                      couvercle et on place le vase sur un feu modéré. On reconnaît que les pommes de
@@ -501,7 +492,7 @@
                      la friture bouillante, huile, beurre ou graisse, et laissez-y-les pendant deux
                      ou trois minutes. Il ne restera plus qu'à les égoutter, à les saupoudrer de sel
                      fin et à les servir immédiatement.</p>
-                  <p>Si l'on veut que les pommes de terre frites soient <rs>soufflées</rs>, on les
+                  <p>Si l'on veut que les pommes de terre frites soient <term>soufflées</term>, on les
                      plonge une seconde fois dans la même friture bien chaude.</p>
                   <p>PURÈE DE POMMES DE TERRE. — Pelez d'abord les pommes de terre que vous ferez
                      cuire ensuite à la vapeur ; passez-les à la passoire ou au cylindre ;
@@ -516,27 +507,25 @@
                      <pb type="page" n="150"/> de cuisson. Une demi-heure seulement avant de retirer
                      la casserole, mettez-y les pommes de terre coupées en morceaux ; dégraissez et
                      servez.</p>
+               </div4>
                </div3>
-            </div2>
-
-            <div2 type="student_edition">
-               <div3 type="sujets" subtype="calcul">
+           
+               <div3 calcul="">
                   <head type="sujets"> Calcul. </head>
+                  <div4 type="questions">
                   <list type="exercices">
                      <item>— Calculer le prix de revient d'un ragoût de mouton aux pommes de terre
                         pour cinq personnes : le père, la mère et trois jeunes enfants.</item>
                   </list>
-               </div3>
-            </div2>
-
-            <div2 type="teacher_edition">
-               <div3 type="sujets" subtype="calcul">
+                  </div4>
+              
+              <div4 type="réponses">
                   <p>. . kilogr. . . de mouton à. . . . fr. le kilogr . . . . . .</p>
                   <p>. . kilogr. . . de pommes de terre à . . . . .fr . . . . . .</p>
                   <p>. . kilogr. . . de graisse à . . . fr. . . . . . . . . . . .</p>
                   <p>. . . . . . . . de charbon, etc., etc. . . . . . . . . . . .</p>
                   <p>TOTAL. . . . . . .</p>
-
+              </div4>
                </div3>
             </div2>
          </div1>

@@ -213,11 +213,10 @@
    <text>
       <body>
 
-         <div1 type="chapter" xml:lang="fr" corresp="#ch011">
+         <div1 type="chapitre" xml:lang="fr" corresp="#ch011">
             <head type="chapter">11. — La petite hirondelle. (Élève, p. 28.)</head>
             <pb type="page" n="37"/>
-            <div2 type="student_edition">
-               <div3 type="récit">
+            <div2 type="récit">
                   <head>11. — La petite hirondelle. (Élève, p. 28.)</head>
                   <p>Le lendemain, Suzette revenait, à cette pensée par une de ces matinées dorées
                      qui annoncent l'automne; un léger voile de brouillard flottait au loin sur la
@@ -245,7 +244,7 @@
                         abaissant et en élevant lentement son vol.</gloss>; deux fois elle passa
                      près de la jeune fille à la toucher; Suzette lui dit : </p>
                   <sp>
-                     <speaker> Suzette </speaker>
+                     <speaker n="Suzette"/>
                      <p> — Bonjour, bonjour, petite sœur hirondelle! </p>
                   </sp>
                   <p> Et l'oiseau revint à elle avec un pépiement doux, comme s'il voulait entendre
@@ -258,7 +257,7 @@
                   <p>M. Dumay, Jacques et Charlot, qui venaient ensemble du jardin,
                      approchèrent.</p>
                   <sp>
-                     <speaker> M.Dumay </speaker>
+                     <speaker n="M.Dumay"/>
                      <p>— Qui l’a tuée? </p>
                   </sp>
                   <stage> demanda M. Dumay,</stage>
@@ -270,29 +269,29 @@
                   <pb type="page" n="39"/>
 
                   <sp>
-                     <speaker> Jacques </speaker>
+                     <speaker n="Jacques"/>
                      <p>—Oui, qui l'a tuée? </p>
                   </sp>
                   <stage> répéta Jacques. </stage>
                   <p>Mais Suzette ne nomma pas le coupable.</p>
                   <sp>
-                     <speaker> Suzette </speaker>
+                     <speaker n="Suzette"/>
                      <p>— Il se tenait derrière la porte entrouverte, et elle l'avait aperçu. </p>
                   </sp>
                   <p>Elle dit seulement, d'une voix mouillée de larmes : </p>
                   <sp>
-                     <speaker> Suzette </speaker>
+                     <speaker n="Suzette"/>
                      <p>— Il y a un instant la pauvre créature vivait là, et chantait. Maintenant,
                         la vie et le chant sont finis; elle est morte! </p>
                   </sp>
                   <sp>
-                     <speaker> Jacques </speaker>
+                     <speaker n="Jacques"/>
                      <p>— C'était l'amie de la maison,</p>
                   </sp>
                   <stage> dit Jacques. </stage>
                   <stage>Le père ajouta : </stage>
                   <sp>
-                     <speaker> La père </speaker>
+                     <speaker n="La père"/>
                      <p>—Que de fois votre mère et moi nous avons, au printemps, guetté*
                            <gloss>Guetter. Observer quelqu'un ou quelque chose pour arriver à le
                            surprendre.</gloss> le retour des hirondelles en tremblant qu'elles ne
@@ -302,31 +301,32 @@
                   <p>Suzette tendit du côté de Charlot sa main, où l'oiseau, saignant de sa
                      blessure, la tête pendante, était étendu. </p>
                   <sp>
-                     <speaker> Charlot </speaker>
+                     <speaker n="Charlot"/>
                      <p>— Réchauffe-le bien, </p>
                      <stage> dit Charlot; </stage>
                      <p> peut-être il revivra. </p>
                   </sp>
                   <sp>
-                     <speaker> Suzette </speaker>
+                     <speaker n="Suzette"/>
                      <p>— Non; c'est fini, c'est la mort! Tu vois, on ôte la vie, mais on ne la rend
                         pas. Pauvre petite hirondelle ! </p>
                   </sp>
                   <sp>
-                     <speaker> Jacques </speaker>
+                     <speaker n="Jacques"/>
                      <p>— Enfin ! </p>
                      <stage> s'écria Jacques avec indignation, </stage>
                      <p> qui donc l'a tuée? </p>
                   </sp>
                   <sp>
-                     <speaker> La père </speaker>
+                     <speaker n="La père"/>
                      <p>— Où est François?</p>
                   </sp>
                   <stage> demanda le père, l'air soupçonneux.</stage>
-               </div3>
             </div2>
-            <div2 type="teacher_edition">
-               <div3 type="questionaire">
+            
+            
+
+               <div2 type="questionaire">
 
                   <head>Questionnaire.</head>
                   <list>
@@ -342,14 +342,15 @@
                         famille.</item>
                      <item>— Que demanda Jacques indigné?</item>
                   </list>
-               </div3>
-            </div2>
+               </div2>
+            
 
-            <div2 type="student_edition">
+            <div2 type="exercices">
                <head> DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES. </head>
 
-               <div3 type="sujets" subtype="morale">
+               <div3 morale="fréres_soeurs">
                   <head type="sujets"> Morale. </head>
+                  <div4 type="questions">
                   <list type="exercices">
                      <item>— Que pensez-vous de l'acte de François?</item>
                      <item>— Est-il permis de frapper, ou de tuer inutilement les animaux, et
@@ -358,11 +359,9 @@
                      <item>— Que feriez-vous si vous voyiez commettre à l'école une action
                         répréhensible?</item>
                   </list>
-               </div3>
-            </div2>
-
-            <div2 type="teacher_edition">
-               <div3 type="sujets" subtype="morale">
+                  </div4>
+      
+                  <div4 type="réponses">
                   <p>L'acte de François témoigne combien il est fâcheux d'agir sans prendre le temps
                      de réfléchir sur ce qu'on va faire. Que les enfants se défient d'une première
                      impulsion: rarement elle est bonne ou prudente, et ils se préparent ainsi
@@ -391,11 +390,11 @@
                      et qu'il en dût résulter de graves inconvénients, j'en préviendrais mes parents
                      ou madame l'institutrice, afin d'aviser aux mesures que réclamerait la
                      circonstance.</p>
-               </div3>
-            </div2>
-            <div2 type="student_edition">
-               <div3 type="sujets" subtype="sciences_naturelle">
+                  </div4>
+               
+               <div3 sciences_naturelles="animaux">
                   <head>Sciences naturelles.</head>
+                  <div4 type="questions">
                   <list type="exercices">
                      <item>—Quels oiseaux habitent nos contrées seulement pendant la belle
                         saison?</item>
@@ -404,10 +403,9 @@
                      <item>— Où les placent-ils?</item>
                      <item>— Détails sur les nids d'hirondelles.</item>
                   </list>
-               </div3>
-            </div2>
-            <div2 type="teacher_edition">
-               <div3 type="sujets" subtype="sciences_naturelle">
+               </div4>
+                  
+                  <div4 type="réponses">
                   <p>Certains oiseaux ne quittent jamais nos contrées; tels sont les moineaux, los
                      rouges-gorges, les chardonnerets, les corbeaux, les hiboux, D'autres les
                      abandonnent à la fin des beaux jours et ne reviennent qu'avec le printemps; par
@@ -428,22 +426,21 @@
                      supérieurs des fenêtres, soit aux entablements, aux solives des hangars et
                      d'autres lieux demi-clos dont l'accès est facile; ils durent plusieurs années
                      et servent au même couple.</p>
+                  </div4>
                </div3>
-            </div2>
-            <div2 type="student_edition">
-               <div3 type="sujets" subtype="agriculture">
+
+               <div3 agriculture="">
                   <head>Agriculture.</head>
+                  <div4 type="questions">
                   <list type="exercices">
                      <item>—De quoi se nourrissent les insectes? Citez quelques exemples.</item>
                      <item>— Qu'est-ce qui souffre des ravages des insectes ?</item>
                      <item>— Quels services rendent à l'homme les hirondelles en particulier et les
                         oiseaux en général?</item>
                   </list>
-               </div3>
-            </div2>
-
-            <div2 type="teacher_edition">
-               <div3 type="sujets" subtype="agriculture">
+                  </div4>
+                  
+                  <div4 type="réponses">
                   <p>Des milliers d'espèces d'insectes, toutes douées d'une effrayante fécondité,
                      vivont aux dépens des végétaux les plus utiles à l'homme : le blé, la vigne, la
                      pomma de terre, la betterave, sans compter les fruits des arbres. Plusieurs
@@ -465,6 +462,7 @@
                      chats.</p>
                   <p>Il est donc doublement imbécile et méchant celui qui tue ces utiles animaux, ou
                      détruit leurs nids..</p>
+                  </div4>
                </div3>
             </div2>
          </div1>
