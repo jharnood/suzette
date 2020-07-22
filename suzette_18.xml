@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="out/suzette_custom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -509,17 +509,17 @@
    </teiHeader>
    <text>
       <body>
-         <div1 type="chapter" xml:lang="fr" corresp="#ch018">
+         <div1 type="chapitre" xml:lang="fr" corresp="#ch018">
             <head type="chapter">18. — Laine et coton. (Élève, p. 45.)</head>
             <pb type="page" n="64"/>
             
-            <div2 type="student_edition">
-               <div3 type="récit">
+            <div2 type="récit">
+               
                   <p>Le soir même, après la rentrée au village, au bruit des trompettes de deux sous
                      dont sonnaient ses deux jeunes frères, Suzette alla montrer son achat à Mme
                      Valon.</p>
                   <sp>
-                     <speaker>Mme Valon</speaker>
+                     <speaker n="Mme Valon"/>
                      <p>— Est-ce là de la laine ?</p>
                   </sp>
                   <p>Mme Valon ayant examiné l’étoffe et parfilé* plusieurs</p>
@@ -545,7 +545,7 @@
                      fabrication étrangère ; mauvaise contrefaçon* de nos honnêtes tissus de Reims
                      et de Roubaix.</p>
                   <sp>
-                     <speaker>Mme Valon</speaker>
+                     <speaker n="Mme Valon"/>
                      <p>— Tu as payé cela de deux francs à deux francs vingt-cinq centimes?</p>
                   </sp>
                   <fw type="sig">4</fw>
@@ -564,7 +564,7 @@
                   <p>Elle se mit à pleurer sur sa sottise, sur son bon argent, sur son mauvais
                      cachemire vert-bouteille.</p>
                   <sp>
-                     <speaker>Mme Valon</speaker>
+                     <speaker n="Mme Valon"/>
                      <p>— On apprend à ses dépens comme le corbeau de la fable,</p>
                      <stage>lui dit Mme Valon.</stage>
                      <p>Tu as laissé tomber dans la gueule du renard un fromage d'une dizaine de
@@ -605,30 +605,29 @@
                      elles tous les acheteurs du monde. Aujourd'hui, les foires sont en permanence *
                      chaque jour dans chaque ville, en de beaux magasins.</p>
                   <sp>
-                     <speaker>Suzette</speaker>
+                     <speaker n="Suzette"/>
                      <p>— Hélas !</p>
                      <stage>dit tristement Suzette,</stage>
                      <p>j'ai aussi acheté à la foire des souliers pour Charlot, les souliers du
                         Juif-Errant.</p>
                   </sp>
                   <sp>
-                     <speaker>Mme Valon</speaker>
+                     <speaker n="Mme Valon"/>
                      <p>— Les souliers du Juif-Errant? Il les y avait donc laissés?</p>
                      <stage>dit en riant Mme Valon.</stage>
                   </sp>
                   <p>Puis, redevenue sérieuse : </p>
                   <sp>
-                     <speaker>Mme Valone</speaker>
+                     <speaker n="Mme Valone"/>
                      <p>— Ma chère enfant, il faut apprendre de tout côté ce qu'on doit savoir; il
                         faut se connaître en étoffes, en souliers, comme en pain, en légumes, en
                         viande; sans quoi, tu vois ce qui vous arrive.</p>
                   </sp>
-               </div3>
             </div2>
-            <div2 type="teacher_edition">  
-            <div3 type="questionnaire">
+
+            <div2 type="questionnaire">
                   <head>Questionnaire.</head>
-                  <list type="exercices">
+                  <list>
                      <item>— Quel était l'objet de la visite que fit Suzette à Mme Valon ?</item>
                      <item>— Comment cette dernière discerna-t-elle la nature de l'étoffe?</item>
                      <item>— Qu'eu conclut-elle?</item>
@@ -641,12 +640,13 @@
                      <item>— Quelles villes étaient renommées pour leurs foires?</item>
                      <item>— Quel dernier conseil donna Mme Valon à Suzette?</item>
                   </list>
-               </div3>
-            </div2>
-            <div2 type="student_edition">
+               </div2>
+            
+            <div2 type="exercices">
                <head type="exercice">DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES.</head>
-               <div3 type="sujets" subtype="economie_domestique">
+               <div3 économie_domestique="generale">
                   <head>Économie domestique.</head>
+                  <div4 type="questions">
                   <list type="exercices">
                      <item>— Qui est chargé des achats du ménage?</item>
                      <item>— Comment faut-il s'y prendre pour acheter en de bonnes
@@ -654,10 +654,9 @@
                      <item>— A quels marchands vous adresserez-vous de préférence?</item>
                      <item>— Est-il prudent de s'attacher à acheter à bon marché?</item>
                   </list>
-               </div3>
-            </div2>
-            <div2 type="teacher_edition">
-               <div3 type="sujets" subtype="economie_domestique">
+                  </div4>
+               
+          <div4 type="réponses">
                   <p>Dans chaque ménage, le soin des achats revient à la mère de famille ; par
                      conséquent, la bonne situation du budget de ménage dépend de l'intelligence
                      avec laquelle elle règle les dépenses. Il faut qu'elle sache acheter à propos;
@@ -669,15 +668,16 @@
                      satisfaire, puisqu'il ne reviendra jamais.</p>
                   <p>Voici une dernière condition pour n'être pas dupe : ne recherchez pas le
                      meilleur marché. Ce qui est bon coûte cher et doit coûter cher. Comme le dit un
-                     proverbe : <rs>On en a toujours pour son argent</rs>. Évitons donc ces
+                     proverbe : <term>On en a toujours pour son argent</term>. Évitons donc ces
                      soi-disant occasions, les annonces tapageuses ou les naïfs se laissent prendre
                      ; car, une fois le marché conclu, il n'y a plus à revenir, et l'argent si
                      péniblement gagné est irrévocablement perdu.</p>
+          </div4>
                </div3>
-            </div2>
-            <div2 type="student_edition">   
-            <div3 type="sujets" subtype="francais">
+  
+               <div3 français="generale">
                   <head>Français.</head>
+                  <div4 type="questions">
                   <list type="exercices">
                      <item>— Écrire et analyser tous les noms propres de la leçon.</item>
                      <item>EXEMPLE. — Suzette, n. pr. fém, sing. — Reims, n. pr, masc. sing.</item>
@@ -685,17 +685,17 @@
 
                <fw type="header">68 SUZETTE.</fw>    
                <pb type="page" n="68"/>
-            </div3>
-            </div2>
-            <div2 type="teacher_edition">
-               <div3 type="sujets" subtype="francais">
+                  </div4>
+                  
+            <div4 type="réponses">
                   <p>N. B. — Cet exercice sera fait oralement, de préférence. II donne un spécimen
                      des sujets d'analyses qu'on peut tirer du texte d'une leçon de lecture.</p>
+            </div4>
                </div3>
-            </div2>
-            <div2 type="student_edition">
-               <div3 type="sujets" subtype="sciences_naturelle">
+                       
+               <div3 sciences_naturelles="végétaux">
                   <head>Sciences naturelles.</head>
+                  <div4 type="questions">
                   <list type="exercices">
                      <item>— Qu'appelle-t-on ver à soie?</item>
                      <item>— A quel animal ressemble-t-il?</item>
@@ -706,11 +706,10 @@
                      <item>— Comment le nourrit-on?</item>
                      <item>— Qu'est-ce que les cocons?</item>
                   </list>
-               </div3>
-            </div2>
-            <div2 type="teacher_edition">
-               <div3 type="sujets" subtype="sciences_naturelle">
-                  <p><rs>Le ver à soie</rs> naît dès œufs que pond un joli petit papillon de couleur
+                  </div4>
+               
+            <div4 type="réponses">
+                  <p><term>Le ver à soie</term> naît dès œufs que pond un joli petit papillon de couleur
                      grise, originaire de la Chine et du Japon. On élève cet insecte, dans nos pays
                      du moins, à l'intérieur de salles chauffées, et on le nourrit avec les feuilles
                      du mûrier. Il croît rapidement et devient une chenille blanchâtre qui, au bout
@@ -726,7 +725,7 @@
                         teillage</item>
                      <item>— Comment peigne-t-on le chanvre?</item>
                   </list>
-                  <p><rs>Le chanvre</rs>, plante textile annuelle des régions tempérées, est une
+                  <p><term>Le chanvre</term>, plante textile annuelle des régions tempérées, est une
                      sorte d'arbuste qui atteint deux à trois mètres de hauteur et qui porte des
                      feuilles allongées dont l'odeur est pénétrante. Il donne des graines noirâtres
                      et luisantes, de nature huileuse, connues sous le nom de chènevis. On le
@@ -742,15 +741,16 @@
                      chanvre, deux ouvriers assis à chaque bout d'un banc passent à tour de rôle,
                      entre les dents de fer d'un peigne établi au milieu de ce banc, leur poignée de
                      chanvre.</p>
-                  <p><rs>Le lin</rs> est une autre plante textile de petite dimension, cultivée dans
+                  <p><term>Le lin</term> est une autre plante textile de petite dimension, cultivée dans
                      la région septentrionale de la France. On en fabrique des toiles estimées et
                      des dentelles.</p>
+            </div4>
                </div3>
-            </div2>
-            <div2 type="student_edition"> 
-            <div3 type="sujets" subtype="industrie">
+         
+            <div3 industrie="etoffes_habillement">
                   <head>Industrie.</head>
-                  <list>
+               <div4 type="questions">
+                  <list type="exercices">
                      <item>— Que fait-on des cocons, puis des fils de soie?</item>
                      <item>— Citer les étoffes fabriquées avec des fils de soie.</item>
                      <item>— Prix du mètre de chacune.</item>
@@ -758,11 +758,10 @@
                      <item>— Leurs avantages et leurs inconvénients.</item>
                      <item>— (Questions analogues sur le chanvre.)</item>
                   </list>
-            </div3>
-            </div2>
-            <div2 type="teacher_edition">
-               <div3 type="sujets" subtype="industrie">
-                  <p>Lorsque les cocons sont achevés, on en fait périr la chrysalide en les jetant
+            </div4>
+            
+            <div4 type="réponses">
+                     <p>Lorsque les cocons sont achevés, on en fait périr la chrysalide en les jetant
                      dans une chaudière d'eau bouillante. Lorsqu'ils sont retirés et séchés, des
                      femmes et des jeunes filles les dévident, et l'on obtient ainsi des écheveaux
                      d'une soie blanche ou jaune qu'on teint et qu'on tisse de manière à obtenir ces
@@ -781,22 +780,22 @@
                   <p>La filasse de chanvre donne des fils résistants avec lesquels on fabrique des
                      toiles de ménage, des toiles à voiles et les cordages employés dans la
                      navigation principalement.</p>
-               </div3>
-            </div2>
-            <div2 type="student_edition">
-               <div3 type="sujets" subtype="geographie">
+            </div4>
+            </div3>
+              
+               <div3 géographie="france">
                   <head>Géographie.</head>
+                  <div4 type="questions">
                   <list type="exercices">
                      <item>— Indiquer les provinces et les départements où sont situées les villes
                         françaises nommées dans la leçon,</item>
                   </list>
-               </div3>
-            </div2>
-            <div2 type="teacher_edition">
-               <div3 type="sujets" subtype="geographie">
+                  </div4>
+                  
+            <div4 type="réponses">
                      <p>EXEMPLE. — Reims, dép. de la Marne, Champagne. —Roubaix, dép. du Nord,
                         Flandre. — Elbeuf, dép. de la Seine-Inférieure, Normandie, etc. </p>
-                 
+            </div4>
                </div3>
             </div2>
          </div1>

@@ -123,7 +123,9 @@
    <text>
       <body>
          <div1 type="chapitre" xml:lang="fr" corresp="#ch007">
+
             <head> 7. — Le petit héroïsme. (Élève, p. 17.) </head>
+
             <pb type="page" n="22"/>
             <div2 type="récit">
 
@@ -135,6 +137,7 @@
                      Étendard. Pièce d'étoffe suspendus à une lance et
                      qui sert à rallier les soldats. </gloss> bourguignon déjà planté sur le rempart
                   et détermine la victoire. </p>
+
 
                <p>En 1870, en Lorraine, un régiment français, poursuivi, passe devant la ferme de
                   >Villedieu. Bientôt après <fw type="header"> LE PETIT HÉROÏSME. 23 </fw>
@@ -180,6 +183,7 @@
                   comme un balourd* <gloss> Balourd. Qui est grossier et maladroit. </gloss> et
                   accroche une pile d'assiettes. </p>
                <p> — Ah ! il y a des jours où tout va de travers ! </p>
+
             </div2>
 
             <div2 type="questionnaire">
@@ -197,11 +201,13 @@
                   <item>— Que pensez-vous d'elle ?</item>
                   <item>— Quel accident représente la gravure ?</item>
                </list>
+
             </div2>
 
             <div2 type="exercices">
                <head type="exercice"> DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES. </head>
                <div3 type="morale">
+
                   <head type="sujets"> Morale. </head>
                   <div4 type="questions">
                      <list type="exercices">
@@ -210,7 +216,9 @@
                      </list>
                   </div4>
 
+
                   <div4 type="réponses" ana="#âme #envers_dieu #patrie">
+
                      <p> Maman est occupée à un travail qu'elle ne peut abandonner un instant ; moi,
                         je joue dans le jardin avec mes amies, et voici que j'entends mon frère
                         crier dans son berceau. Je pourrais continuer à jouer, mais combien le
@@ -223,7 +231,9 @@
                   </div4>
                </div3>
 
+
                <div3 type="histoire">
+
                   <head type="sujets"> Histoire. </head>
                   <div4 type="questions">
                      <list type="exercices">
@@ -237,7 +247,9 @@
                      </list>
                   </div4>
 
+
                   <div4 type="réponses" ana="#histoire">
+
                      <p> Ma patrie est la France, cette belle et vaste contrée habitée par une
                         nation honnête, laborieuse et vaillante. Je l'aime, parce que sur son sol
                         habitent ceux qui sont l'objet de mes affections ; parce que c'est là que
@@ -264,7 +276,9 @@
                   </div4>
                </div3>
 
+
                <div3 type="sciences_naturelle">
+
                   <head type="sujets"> Sciences naturelles. </head>
                   <div4 type="questions">
                      <list type="exercices">
@@ -274,6 +288,7 @@
                         <item>— A quoi sert le bois des grands arbres?</item>
                      </list>
                   </div4>
+
 
                   <div4 type="réponses" ana="#arbres_non_cultivés">
                      <p><term>Un bois</term> est un espace de terrain couvert d'arbres que l'on

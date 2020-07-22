@@ -121,6 +121,7 @@
    <text>
       <body>
          <div1 type="chapitre" xml:lang="fr" corresp="#ch006">
+
             <head> 6. — Monsieur François est un homme ! (Él., p. 15.) </head>
             <pb type="page" n="19"/>
             <div2 type="récit">
@@ -177,8 +178,10 @@
                   <p> M. Dumay se tourna vers Suzette, et, les yeux mouillés : </p>
                      <p> — Est-ce que ta pauvre maman serait revenue ? </p>
 
-                  <fw type="header"> MONSIEUR FRANÇOIS EST UN HOMME ! 21 </fw>
-                  <pb type="page" n="21"/>
+
+               <fw type="header"> MONSIEUR FRANÇOIS EST UN HOMME ! 21 </fw>
+               <pb type="page" n="21"/>
+
 
                      <p> — Hélas ! non, papa, dit-elle, en se jetant dans ses bras ; mais si je pouvais lui ressembler ! </p>               
             </div2>
@@ -265,8 +268,9 @@
                      sécher. Lorsqu'elles sont sèches, on les frotte avec soin en n'oubliant pas de
                      débarrasser tous les angles des matières qui s'y accumulent. </p>
 
-                  <fw type="header"> 22 SUZETTE. </fw>
-                  <pb type="page" n="22"/>
+
+                     <fw type="header"> 22 SUZETTE. </fw>
+                     <pb type="page" n="22"/>
 
 
                   <p>2° On lave les vitres avec de l'eau contenant un vingtième d'eau-de-vie, et on
@@ -335,6 +339,8 @@
                      rapide. </p>
                   </div4>
 
+
+                  </div4>
                </div3>
             </div2>
          </div1>
