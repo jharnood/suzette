@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0"
+  xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Suzette ODD</title>
+        <author>Diane Jakacki</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>TEI Consortium</publisher>
+        <availability status="free">
+          <p>TEI material can be licensed differently depending on the use you intend to make of it.
+            Hence it is made available under both the CC+BY and BSD-2 licences. The CC+BY licence is
+            generally appropriate for usages which treat TEI content as data or documentation. The
+            BSD-2 licence is generally appropriate for usage of TEI content in a software
+            environment. For further information or clarification, please contact the TEI Consortium
+            (info@tei-c.org).</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Written from scratch.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <schemaSpec ident="suzette_NewCustom" start="TEI teiCorpus" targetLang="en" docLang="en">
+        <moduleRef key="tei"/>
+        <!-- required -->
+        <moduleRef key="core" />
+        <moduleRef key="analysis" />
+        <moduleRef key="certainty" />
+        <moduleRef key="corpus" />
+        <moduleRef key="dictionaries" />
+        <moduleRef key="drama" />
+        <moduleRef key="figures" />
+        <moduleRef key="header" />
+        <moduleRef key="linking"/>
+        <moduleRef key="msdescription"/>
+        <moduleRef key="namesdates"/>
+        <moduleRef key="textcrit" />
+        <moduleRef key="textstructure" />
+        <moduleRef key="transcr"/>
+        <moduleRef key="tagdocs"/>
+        
+        <!-- Customize DIV1 with @type chapter -->
+        <elementSpec ident="div1" mode="change">
+          <attList> 
+            <attDef ident="type" mode="change">
+              <valList type="closed" mode="change">
+                <valItem mode="add" ident="chapitre">
+                  <desc versionDate="2020-05-06">Chapitre</desc>
+                </valItem>
+                <valItem mode="add" ident="autre">
+                  <desc versionDate="2020-05-06">Autre (if used often, add another
+                    value)</desc>
+                </valItem>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
+        
+        <!-- Customize DIV2 to distinguish three kinds of content: Récit, Questionnaire, and Exercices -->        
+        <elementSpec ident="div2" mode="change">
+          <attList>
+            <attDef ident="type" mode="change">
+              <valList type="closed" mode="change">
+                <valItem ident="exercices" mode="add">
+                  <desc versionDate="2020-06-06" xml:lang="fr">Exercices</desc>
+                </valItem>
+                <valItem mode="add" ident="questionnaire">
+                  <desc versionDate="2020-06-06" xml:lang="fr">Questionnaire</desc>
+                </valItem>
+                <valItem mode="add" ident="récit">
+                  <desc versionDate="2020-06-06" xml:lang="fr">Récit</desc>
+                </valItem>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
+ 
+<!-- Customize DIV3 to add key terms from Classification -->
+        <elementSpec ident="div3" mode="change">
+          <attList>
+            <attDef ident="type" mode="change">
+              <valList type="closed" mode="change">
+                <valItem ident="morale" mode="add"/>
+                <valItem ident="instruction_civique" mode="add"/>
+                <valItem ident="civilité" mode="add"/>
+                <valItem ident="français" mode="add"/>
+                <valItem ident="composition" mode="add"/>
+                <valItem ident="histoire" mode="add"/>
+                <valItem ident="géographie" mode="add"/>
+                <valItem ident="sciences_naturelles" mode="add"/>
+                <valItem ident="sciences_physiques" mode="add"/>
+                <valItem ident="industrie" mode="add"/>
+                <valItem ident="économie_domestique" mode="add"/>
+                <valItem ident="hygiène" mode="add"/>
+                <valItem ident="complexe" mode="add"/>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
+        
+        <!-- Within DIV4 cutomize @type to distinguish questions and réponses -->
+        <elementSpec ident="div4" mode="change">
+          <attList>
+            <attDef ident="type" mode="change">
+              <valList type="closed" mode="change">
+                <valItem ident="questions" mode="add">
+                  <desc versionDate="2020-06-02" xml:lang="fr">Questions</desc>
+                </valItem>
+                <valItem ident="réponses" mode="add">
+                  <desc versionDate="2020-06-02" xml:lang="fr">Réponses</desc>
+                </valItem>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
+        
+        <!-- Customize FIGURE to include @type illustration or sujets -->
+        <elementSpec ident="figure" mode="change">
+          <attList>
+            <attDef ident="type" mode="change">
+              <valList mode="change" type="closed">
+                <valItem ident="illustration" mode="add">
+                  <desc versionDate="2020-06-07" xml:lang="fr">Illustration</desc>
+                </valItem>
+                <valItem ident="sujets" mode="add">
+                  <desc versionDate="2020-06-07" xml:lang="fr">Sujets</desc>
+                </valItem>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
+        
+        <!-- Customize LIST @type to distinguish between exercices and questionnaire  -->
+        <elementSpec ident="list" mode="change">
+          <attList>
+            <attDef ident="type" mode="change">
+              <valList mode="add" type="closed">
+                <valItem ident="exercices" mode="add">
+                  <desc versionDate="2020-06-02" xml:lang="fr">Exercices</desc>
+                </valItem>
+                <valItem ident="questionnaire" mode="add">
+                  <desc versionDate="2020-06-02" xml:lang="fr">Questionnaire</desc>
+                </valItem>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
+
+
+      </schemaSpec>
+
+    </body>
+  </text>
+</TEI>
