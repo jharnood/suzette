@@ -281,7 +281,7 @@
                                 <item>— Diverses sortes d'aiguilles.</item>
                                 <item>— Mêmes questions pour les épingles. </item>
                             </list>
-                        </div4>
+                        </div4> 
 
                         <div4 type="réponses" ana="#outils">
                             <head>AIGUILLES.</head>
@@ -353,7 +353,7 @@
                         </div4>
                     </div3>
 
-                    <div3 type="complexe">
+                    <div3 type="économie_domestique" subtype="calcul">
                         <head type="sujets">Calcul.</head>
                         <div4 type="questions">
                             <list type="exercices">
@@ -364,7 +364,7 @@
                             </list>
                         </div4>
 
-                        <div4 type="réponses" subtype="calcul">
+                        <div4 type="réponses" ana="#vêtements_domestiques">
                             <p>Un tablier non raccommodé, non rapiécé est hors de service après mois
                                 d'usage. Si on lo raccommode, si l'on y mot dos pièces, on dépensera
                                 on fil , on étoffe , etc.; total Mais le tablier pourra faire encore
