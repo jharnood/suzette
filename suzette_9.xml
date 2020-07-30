@@ -251,7 +251,7 @@
             <div2 type="exercices">
                <head> DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES. </head>
 
-               <div3 type="morale" ana="#enfant_école #enfant_famille">
+               <div3 type="morale">
                   <head type="sujets"> Morale. </head>
                   <div4 type="questions">
                      <list type="exercices">
@@ -262,7 +262,7 @@
                      </list>
                   </div4>
 
-                  <div4 type="réponses">
+                  <div4 type="réponses" ana="#enfant_école #enfant_famille">
                      <p>Les élèves voient arriver avec plaisir l'époque des vacances, parce qu'elles
                         sont fatiguées des études et des travaux de l'année scolaire ; rien
                         d'ailleurs n'est plus agréable que de se reposer lorsque, pendant de longs
@@ -286,7 +286,7 @@
                   </div4>
                </div3>
 
-               <div3 type="composition" ana="#sujets-moraux_imagination">
+               <div3 type="composition">
                   <head type="sujets"> Composition. </head>
                   <div4 type="questions">
                      <list type="exercices">
@@ -299,7 +299,7 @@
                      </list>
                   </div4>
 
-                  <div4 type="réponses">
+                  <div4 type="réponses" ana="#sujets-moraux_imagination">
                      <p>Les livres nous font connaître ce que savent et ce que pensent les hommes
                         les meilleurs ou les plus instruits ; le fruit des études d'une vie entière
                         s'y peut recueillir en quelques heures. Ils sont à l'âme ce que les aliments
@@ -320,7 +320,7 @@
                <fw type="header"> GROSSE AFFAIRE. 33 </fw>
                <pb type="page" n="33"/>
 
-               <div3 type="industrie" ana="#machines_appareils">
+               <div3 type="industrie">
                   <head type="sujets"> Industrie. </head>
                   <div4 type="questions">
                      <list type="exercices">
@@ -332,7 +332,7 @@
                      </list>
                   </div4>
 
-                  <div4 type="réponses">
+                  <div4 type="réponses" ana="#machines_appareils">
                      <p>Avant le quinzième siècle, on n'avait que des livres écrits à la main (les
                         manuscrits), ce qui les rendait à la fois rares et coûteux ; seuls, les
                         riches pouvaient s'en procurer. Grâce à l'imprimerie, il s'en trouve
