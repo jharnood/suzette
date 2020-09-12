@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -56,150 +54,60 @@
                </monogr>
             </biblStruct>
             <list>
-               <item xml:id="ch001" n="1">1. A l'abandon</item>
-               <item xml:id="ch002" n="5">2. Le grillon du foyer</item>
-               <item xml:id="ch003" n="8">3. Oú est la maman?</item>
-               <item xml:id="ch004" n="11">4. La femme de la caverne</item>
-               <item xml:id="ch005" n="15">5. Le bon chemin</item>
-               <item xml:id="ch006" n="19">6. Monsieur François est un homme!</item>
-               <item xml:id="ch007" n="22">7. Le petit hèroïsme</item>
-               <item xml:id="ch008" n="26">8. Tenons bon!</item>
-               <item xml:id="ch009" n="29">9. La clef du trésor</item>
-               <item xml:id="ch010" n="33">10. Grosse affaire</item>
-               <item xml:id="ch011" n="37">11. La petite hirondelle</item>
-               <item xml:id="ch012" n="41">12. On se débarhouille</item>
-               <item xml:id="ch013" n="44">13. Une bonne idée</item>
-               <item xml:id="ch014" n="47">14. Brunehaut</item>
-               <item xml:id="ch015" n="51">15. - La charte du comte Herbert</item>
-               <item xml:id="ch016" n="56">16. - Hésitations</item>
-               <item xml:id="ch017" n="61">17. - Tout laine</item>
-               <item xml:id="ch018" n="64">18. - Laine et coton</item>
-               <item xml:id="ch019" n="69">19. - Où ira Jacques?</item>
-               <item xml:id="ch020" n="72">20. - La veille du départ</item>
-               <item xml:id="ch021" n="75">21. - Une lettre de Jacques</item>
-               <item xml:id="ch022" n="78">22. - Un éteignoir à chandelle</item>
-               <item xml:id="ch023" n="81">23. - Le secret de Ludivine</item>
-               <item xml:id="ch024" n="85">24. - La bohémienne</item>
-               <item xml:id="ch025" n="90">25. - Un peu de lumière</item>
-               <item xml:id="ch026" n="93">26. - De l'eau!</item>
-               <item xml:id="ch027" n="96">27. - L'aveu</item>
-               <item xml:id="ch028" n="99">28. - Sous les arbres</item>
-               <item xml:id="ch029" n="102">29. - Grands projets</item>
-               <item xml:id="ch030" n="106">30. - Vive le blé de France!</item>
-               <item xml:id="ch031" n="110">31. - Le prince Kang-Hi</item>
-               <item xml:id="ch032" n="113">32. - Sélection</item>
-               <item xml:id="ch033" n="116">33. - Au feu!</item>
-               <item xml:id="ch034" n="120">34. - Enfant perdu</item>
-               <item xml:id="ch035" n="123">35. - Le chien Castor</item>
-               <item xml:id="ch036" n="125">36. - Pauvre petit!</item>
-               <item xml:id="ch037" n="129">37. - Fraternité</item>
-               <item xml:id="ch038" n="132">38. - Le nid familial</item>
-               <item xml:id="ch039" n="135">39. - La pièce de cent sous</item>
-               <item xml:id="ch040" n="138">40. - A l'oeuvre</item>
-               <item xml:id="ch041" n="142">41. - Veillons au grain</item>
-               <item xml:id="ch042" n="146">42. - Luttons!</item>
-               <item xml:id="ch043" n="150">43. - Cours, mon aiguille!</item>
-               <item xml:id="ch044" n="153">44. - Le vieil habit vert</item>
-               <item xml:id="ch045" n="157">45. - Veste, gilet, calotte</item>
-               <item xml:id="ch046" n="160">46. - Hier et aujourd'hui</item>
-               <item xml:id="ch047" n="163">47. - Récolte</item>
-               <item xml:id="ch048" n="168">48. - Au marché</item>
-               <item xml:id="ch049" n="171">49. - Il faut s'ingénier</item>
-               <item xml:id="ch050" n="174">50. - Faisons nos comptes</item>
-               <item xml:id="ch051" n="177">51. - Au gui l'an neuf!</item>
-               <item xml:id="ch052" n="181">52. - A table</item>
-               <item xml:id="ch053" n="185">53. - Au dessert</item>
-               <item xml:id="ch054" n="187">54. - Petits cochons de lait</item>
-               <item xml:id="ch055" n="191">55. - Les explorateurs</item>
-               <item xml:id="ch056" n="195">56. - Qui sont-ils?</item>
-               <item xml:id="ch057" n="199">57. - La tempête</item>
-               <item xml:id="ch058" n="201">58. - Un marché d'esclaves</item>
-               <item xml:id="ch059" n="206">59. - M. Pascal parle arabe</item>
-               <item xml:id="ch060" n="208">60. - A travers les jungles</item>
-               <item xml:id="ch061" n="212">61. - Un baobab</item>
-               <item xml:id="ch062" n="215">62. - Le pays de la peur</item>
-               <item xml:id="ch063" n="219">63. - Le simocaractères non reproduitsn</item>
-               <item xml:id="ch064" n="222">64. - Sous la tente</item>
-               <item xml:id="ch065" n="226">65. - Vivent les explorateurs!</item>
-               <item xml:id="ch066" n="231">66. - La montre d'argent</item>
-               <item xml:id="ch067" n="233">67. - L'interrogatoire</item>
-               <item xml:id="ch068" n="236">68. - Toute la vérité</item>
-               <item xml:id="ch069" n="239">69. - Le neveu</item>
-               <item xml:id="ch070" n="242">70. - Heureux foyer</item>
-               <item xml:id="ch071" n="245">71. - Il y a de bonnes gens</item>
-               <item xml:id="ch072" n="248">72. - Souvenirs d'histoire</item>
-               <item xml:id="ch073" n="251">73. - La dépêche</item>
-               <item xml:id="ch074" n="255">74. - Réconciliation</item>
-               <item xml:id="ch075" n="258">75. - Le beau temps</item>
-               <item xml:id="ch076" n="261">76. - Les adieux</item>
-               <item xml:id="ch077" n="265">77. - La salle d'attente</item>
-               <item xml:id="ch078" n="269">78. - A Paris</item>
-               <item xml:id="ch079" n="272">79. - Sur la Seine</item>
-               <item xml:id="ch080" n="276">80. - Monuments</item>
-               <item xml:id="ch081" n="279">81. - L'Exposition</item>
-               <item xml:id="ch082" n="283">82. - Pierre, bronze, fer</item>
-               <item xml:id="ch083" n="286">83. - Triomphe du travail</item>
-               <item xml:id="ch084" n="290">84. - Denis Papin</item>
-               <item xml:id="ch085" n="292">85. - Fulton</item>
-               <item xml:id="ch086" n="295">86. - Peinture</item>
-               <item xml:id="ch087" n="302">87. - Les fraises du bois joli</item>
-               <item xml:id="ch088" n="304">88. - En volei!</item>
-               <item xml:id="ch089" n="307">89. - Le pays de Gargantua</item>
-               <item xml:id="ch090" n="312">90. - Fleurs et verdures</item>
-               <item xml:id="ch091" n="315">91. - Asperges d'Argenteuil</item>
-               <item xml:id="ch092" n="318">92. - Trop cer</item>
-               <item xml:id="ch093" n="322">93. - Costumes</item>
-               <item xml:id="ch094" n="325">94. - Coiffures</item>
-               <item xml:id="ch095" n="328">95. - La reine Isabeau</item>
-               <item xml:id="ch096" n="332">96. - Robe neuve</item>
-               <item xml:id="ch097" n="335">97. - Machine à coudre</item>
-               <item xml:id="ch098" n="339">98. - Barthélemy Thimonier</item>
-               <item xml:id="ch099" n="344">99. - Marionnettes</item>
-               <item xml:id="ch100" n="348">100. - Explications</item>
-               <item xml:id="ch101" n="350">101. - Une nouvelle connaissance</item>
-               <item xml:id="ch102" n="355">102. - Un Américain</item>
-               <item xml:id="ch103" n="358">103. - Un grand magasin</item>
-               <item xml:id="ch104" n="363">104. - L'école professionnelle</item>
-               <item xml:id="ch105" n="367">105. - Jeunes travailleuses</item>
-               <item xml:id="ch106" n="372">106. - Au Jardin d'acclimatation</item>
-               <item xml:id="ch107" n="375">107. - La basse-cour</item>
-               <item xml:id="ch108" n="378">108. - Heureuses gens</item>
-               <item xml:id="ch109" n="382">109. - La vacherie</item>
-               <item xml:id="ch110" n="387">110. - Le rucher</item>
-               <item xml:id="ch111" n="391">111. - Notre amie l'abeille</item>
-               <item xml:id="ch112" n="393">112. - Un stimulant</item>
-               <item xml:id="ch113" n="396">113. - Le retour</item>
-               <item xml:id="ch114" n="400">114. - Un cadeau</item>
-               <item xml:id="ch115" n="404">115. - Apiculture</item>
-               <item xml:id="ch116" n="408">116. - Joli succès</item>
-               <item xml:id="ch117" n="410">117. - La conscription</item>
-               <item xml:id="ch118" n="413">118. - Les bras longs</item>
-               <item xml:id="ch119" n="417">119. - Chez le député</item>
-               <item xml:id="ch120" n="420">120. - La France!</item>
-               <item xml:id="ch121" n="424">121. - Nous entrerons dans la carrière</item>
-               <item xml:id="ch122" n="428">122. - Après le départ</item>
-               <item xml:id="ch123" n="430">123. - Un début</item>
-               <item xml:id="ch124" n="434">124. - Pauvre remplaçant</item>
-               <item xml:id="ch125" n="437">125. - L'étoffe d'un honnête homme</item>
-               <item xml:id="ch126" n="441">126. - Un mariage</item>
-               <item xml:id="ch127" n="445">127. - Vingt sous!</item>
-               <item xml:id="ch128" n="449">128. - Les Trois Agaces</item>
-               <item xml:id="ch129" n="452">129. - Le Galibis</item>
-               <item xml:id="ch130" n="456">130. - Terrible scène</item>
-               <item xml:id="ch131" n="459">131. - Conscience et volonté</item>
-               <item xml:id="ch132" n="463">132. - Une arrivée</item>
-               <item xml:id="ch133" n="467">133. - Un départ</item>
-               <item xml:id="ch134" n="469">134. - Plaisirs des champs</item>
-               <item xml:id="ch135" n="473">135. - Affaires de cuisine et de famille</item>
-               <item xml:id="ch136" n="478">136. - Extraits des lettres de Jacques</item>
-               <item xml:id="ch137" n="483">137. - Extraits des lettres de Jacques (suite)</item>
-               <item xml:id="ch138" n="488">138. - Mauvais temps</item>
-               <item xml:id="ch139" n="492">139. - Il se faut entr'aider</item>
-               <item xml:id="ch140" n="496">140. - En taillant une layette</item>
-               <item xml:id="ch141" n="502">141. - Quatre lavandières</item>
-               <item xml:id="ch142" n="508">142. - Un sauvetage</item>
-               <item xml:id="ch143" n="512">143. - Salut à la fermière!</item>
-               <item xml:id="ch144" n="">144. - Trois ans après</item>
+               <item xml:id="âme">L'âme</item>
+               <item xml:id="enfant_école"> L'enfant dans école </item>
+               <item xml:id="enfant_famille"> L'enfant dans la famille </item>
+               <item xml:id="envers_dieu"> Devoirs envers Dieu </item>
+               <item xml:id="envers_semblables"> Devoirs envers nos semblables </item>
+               <item xml:id="envers_serviteur"> Devoirs envers les serviteurs </item>
+               <item xml:id="envers_soi-même"> Devoirs envers soi-même </item>
+               <item xml:id="extérieurs"> Les biens extérieurs </item>
+               <item xml:id="fréres_soeurs"> Devoirs des frères et soeurs </item>
+               <item xml:id="patrie"> La patrie </item>
+               <item xml:id="instruction_civique"> Instruction civique </item>
+               <item xml:id="civilité"> Civilité </item>
+               <item xml:id="français"> Français </item>
+               <item xml:id="descriptions"> Descriptions </item>
+               <item xml:id="lettres"> Lettres </item>
+               <item xml:id="récits"> Récits </item>
+               <item xml:id="récits_historiques"> Récits historiques </item>
+               <item xml:id="sujets-moraux_imagination"> Sujets-moraux ou d'imagination </item>
+               <item xml:id="histoire"> Histoire </item>
+               <item xml:id="afrique"> Afrique </item>
+               <item xml:id="amérique"> Amérique </item>
+               <item xml:id="asie"> Asie </item>
+               <item xml:id="europe"> Europe </item>
+               <item xml:id="france"> France </item>
+               <item xml:id="géographie"> Géographie </item>
+               <item xml:id="océanie"> Océanie </item>
+               <item xml:id="minéraux"> Minéraux </item>
+               <item xml:id="sciences_naturelles"> Sciences Naturelles </item>
+               <item xml:id="végétaux"> Végétaux </item>
+               <item xml:id="arbres_non_cultivés"> 1° Arbres Non Cultivés </item>
+               <item xml:id="herbes_plantes_sauvages"> 2° Herbes ou Plantes Sauvages </item>
+               <item xml:id="arbres_cultivés"> 3° Arbres Cultivés </item>
+               <item xml:id="arbustes_cultivés"> 4° Arbustes Cultivés </item>
+               <item xml:id="céréales"> 5° Céréales </item>
+               <item xml:id="legumes_racines"> 6° Légumes, Racines, etc. </item>
+               <item xml:id="divers_végétaux"> 7° Divers (Vegetaux) </item>
+               <item xml:id="homme"> 1° L'Homme </item>
+               <item xml:id="animaux_domestiques"> 2° Animaux Domestiques </item>
+               <item xml:id="animaux_sauvages"> 3° Animaux Sauvages </item>
+               <item xml:id="sciences_physiques"> Notions Relatives aux Sciences Physiques </item>
+               <item xml:id="matières_objets_fabriques"> Matières et objets fabriqués </item>
+               <item xml:id="construction"> Construction </item>
+               <item xml:id="machines_appareils"> Machines, appareils, ustensiles, vases </item>
+               <item xml:id="outils"> Outils </item>
+               <item xml:id="etoffes_habillement"> Étoffes, habillement </item>
+               <item xml:id="divers_industrie"> Divers (Industrie) </item>
+               <item xml:id="économie_domestique"> Économie Domestique </item>
+               <item xml:id="aliments_cuisine"> Aliments et cuisine </item>
+               <item xml:id="vêtements_domestiques"> Vêtements </item>
+               <item xml:id="basse-cour"> Basse-cour </item>
+               <item xml:id="corps_habitations"> Corps et habitations </item>
+               <item xml:id="vêtements_hygiene"> Vêtements (Hygiene) </item>
+               <item xml:id="aliments"> Aliments </item>
+               <item xml:id="maladies_remèdes"> Maladies, etc.; remèdes </item>
             </list>
          </sourceDesc>
       </fileDesc>
@@ -212,275 +120,275 @@
    </teiHeader>
    <text>
       <body>
-         <div1 type="chapter" xml:lang="fr" corresp="#ch015">
-            <head>15. — La charte* <gloss> Charte. Acte écrit où l'on mentionnait, au moyen âge, les
-                  droits ou les redevances des vassaux ou des communes.</gloss>du comte Herbert
-               (Élève, p. 36.)</head>
+         <div1 type="chapitre" xml:lang="fr" corresp="#ch015">
+            <head type="chapter">15. — La charte* <gloss> Charte. Acte écrit où l'on mentionnait, au
+                  moyen âge, les droits ou les redevances des vassaux ou des communes.</gloss>du
+               comte Herbert (Élève, p. 36.)</head>
             <pb type="page" n="51"/>
 
-            <div2 type="student_edition">
-               <div3 type="récit">
-                  <p>Comme le carillon* <gloss>Carillon. Réunion de cloches de différents tons.
-                     </gloss> de Saint-Quentin entonnait sa chanson joyeuse, les voyageurs
-                     arrivaient sur la place de l'hôtel de ville* <gloss>Hôtel de ville. Édifice où
-                        délibèrent les autorités municipales.</gloss> et au même moment, d'un gros
-                     nuage menaçant, se mit à tomber une forte ondée.</p>
-                  <p>A peine avait-on eu le temps de jeter un coup d'œil au monument, à ses ogives*
-                        <gloss>Ogive. Arcade présentant deux lignes courbes se réunissant en
-                        pointe.</gloss>, à sa rosace* <gloss>Rosace. Ornement sculpté en forme de
-                        rose.</gloss> en dentelle de pierre, à ses sculptures, puis aux baraques de
-                     la foire qui formaient comme une ville de tentes* <gloss>Tente. Habitation de
-                        toile dont se servent les nomades.</gloss> sur toute l'étendue de la place,
-                     qu'on dut chercher un refuge.</p>
-                  <p>Assez souvent il ne faut pas moins d'une grosse averse pour inviter les gens à
-                     la visite d'un monument.</p>
-                  <p>Tous les Fragicourtois, sauf M. Dumay, en train d'abriter sa voiture et sa
-                     bête, se précipitèrent à l'intérieur de l'hôtel de ville et le
-                     parcoururent.</p>
-                  <p>Il n'est pas grand. On fut bientôt au premier étage, dans la salle du Conseil,
-                     une des plus belles salles qui nous restent de la Renaissance*
-                        <gloss>Renaissance. Partie du XVe et du XVIe siècle pendant laquelle les
-                        arts et les sciences semblèrent renaître.</gloss>, avec son immense cheminée
-                     de pierre toute décorée des plus délicates sculptures. On admira les grandes
-                     fenêtres aux vitraux peints qui furent données par les corporations*
-                        <gloss>Corporation. Association de gens de métier autorisée par
-                        l'Etat.</gloss> d'alors, dont elles portent les armoiries* <gloss>Armoiries.
-                        Figures peintes sur les armes, les boucliers et les édifices, comme signes
-                        distinctifs.</gloss>, et sa voûte de bois, aux charpentes apparentes,
-                     artistement ouvrées.</p>
-                  <p>On en fit le tour, puis on regarda une grande peinture décorative qui tenait
-                     tout le pan du mur en face des fenêtres.</p>
-                  <p>A gauche de la composition, un homme debout; il a à ses côtés un jeune enfant
-                     qui, très attentif, écoute la lecture d'un parchemin* <gloss>Parchemin. Peau de
-                        brebis ou de mouton préparée pour écrire.</gloss> que fait un scribe*
-                        <gloss>Scribe. Homme qui gagne sa vie à copier.</gloss>. Derrière ce groupe,
-                     une garde d'hommes d’armes massés, la lance</p>
+            <div2 type="récit">
 
-                  <fw type="header">52 SUZETTE.</fw>
-                  <pb type="page" n="52"/>
+               <p>Comme le carillon* <gloss>Carillon. Réunion de cloches de différents tons.
+                  </gloss> de Saint-Quentin entonnait sa chanson joyeuse, les voyageurs arrivaient
+                  sur la place de l'hôtel de ville* <gloss>Hôtel de ville. Édifice où délibèrent les
+                     autorités municipales.</gloss> et au même moment, d'un gros nuage menaçant, se
+                  mit à tomber une forte ondée.</p>
+               <p>A peine avait-on eu le temps de jeter un coup d'œil au monument, à ses ogives*
+                     <gloss>Ogive. Arcade présentant deux lignes courbes se réunissant en
+                     pointe.</gloss>, à sa rosace* <gloss>Rosace. Ornement sculpté en forme de
+                     rose.</gloss> en dentelle de pierre, à ses sculptures, puis aux baraques de la
+                  foire qui formaient comme une ville de tentes* <gloss>Tente. Habitation de toile
+                     dont se servent les nomades.</gloss> sur toute l'étendue de la place, qu'on dut
+                  chercher un refuge.</p>
+               <p>Assez souvent il ne faut pas moins d'une grosse averse pour inviter les gens à la
+                  visite d'un monument.</p>
+               <p>Tous les Fragicourtois, sauf M. Dumay, en train d'abriter sa voiture et sa bête,
+                  se précipitèrent à l'intérieur de l'hôtel de ville et le parcoururent.</p>
+               <p>Il n'est pas grand. On fut bientôt au premier étage, dans la salle du Conseil, une
+                  des plus belles salles qui nous restent de la Renaissance* <gloss>Renaissance.
+                     Partie du XVe et du XVIe siècle pendant laquelle les arts et les sciences
+                     semblèrent renaître.</gloss>, avec son immense cheminée de pierre toute décorée
+                  des plus délicates sculptures. On admira les grandes fenêtres aux vitraux peints
+                  qui furent données par les corporations* <gloss>Corporation. Association de gens
+                     de métier autorisée par l'Etat.</gloss> d'alors, dont elles portent les
+                  armoiries* <gloss>Armoiries. Figures peintes sur les armes, les boucliers et les
+                     édifices, comme signes distinctifs.</gloss>, et sa voûte de bois, aux
+                  charpentes apparentes, artistement ouvrées.</p>
+               <p>On en fit le tour, puis on regarda une grande peinture décorative qui tenait tout
+                  le pan du mur en face des fenêtres.</p>
+               <p>A gauche de la composition, un homme debout; il a à ses côtés un jeune enfant qui,
+                  très attentif, écoute la lecture d'un parchemin* <gloss>Parchemin. Peau de brebis
+                     ou de mouton préparée pour écrire.</gloss> que fait un scribe* <gloss>Scribe.
+                     Homme qui gagne sa vie à copier.</gloss>. Derrière ce groupe, une garde
+                  d'hommes d’armes massés, la lance</p>
+
+               <fw type="header">52 SUZETTE.</fw>
+               <pb type="page" n="52"/>
 
 
-                  <p>au poing, prouve qu'on a ici affaire à des personnages d'importance. En face,
-                     une foule de gens pauvrement vêtus de costumes divers, et aux visages exprimant
-                     l'émotion, lèvent la main droite, dans l'attitude du serment. </p>
-                  <sp>
-                     <speaker>Ludivine</speaker>
-                     <p>— Eh!</p>
-                     <stage>murmura Ludivine,</stage>
-                     <p>les yeux très écarquillés* <gloss>Ecarquillé. Se dit d'yeux largement
-                           ouverts.</gloss>,</p>
-                     <figure type="sujets">
-                        <caption>Hôtel de ville de Saint-Quentin.</caption>
-                     </figure>
-
-                     <fw type="header">LA CHARTE DU COMTE HERBERT. 53</fw>
-                     <pb type="page" n="53"/>
-
-                     <p>pour être habillés comme ça, c'est au moins des gens de l'Amérique !</p>
-                  </sp>
-                  <p>Elle dit l'Amérique comme elle eût dit la lune.</p>
-                  <p>M. Florentin Lejoly ricana de nouveau, Les pouces dans les entournures de son
-                     gilet, le chapeau en arrière, il semblait narguer* <gloss>Narguer. Braver avec
-                        mépris.</gloss> les personnages de la peinture et leurs costumes qui
-                     n'étaient pas à la dernière mode comme le sien.</p>
-                  <p>Mais nos jeunes écoliers venaient d'apprendre d'un visiteur le sujet du
-                     tableau: « Le comte Herbert IV de Vermandois* <gloss>Vermandois. Région du
-                        N.-E. de la France ayant Saint-Quentin pour capitale.</gloss> donnant la
-                     charte de commune aux Saint-Quentinois du onzième siècle. »</p>
-                  <p>Jacques, Suzette, même François évoquaient là devant leurs souvenirs*
-                        <gloss>Evoquer des souvenirs. Rappeler ce qu'on a vu ou appris.</gloss>
-                     historiques de l'école.</p>
-                  <p>Ce monde d'artisans, de manants * <gloss>Manant. Gens tenus d'habiter le
-                        domaine d'un seigneur.</gloss> en pauvres souquenilles* <gloss>Souquenille.
-                        Vêtement sale.</gloss> et mal chaussés, ne leur était ni si étrange, ni si
-                     étranger : c'étaient là les chaînons passés de la grande famille française dont
-                     ils étaient, eux, les chaînons vivants. Et ces pères avaient travaillé à
-                     l'œuvre de l'émancipation* <gloss>Emancipation. Mise en liberté.</gloss>, de
-                     l'amélioration de l'existence humaine, noble tâche continuée par leurs fils des
-                     derniers siècles et du siècle présent.</p>
-                  <p>Vis-à-vis, dominant les maisons de la place, la grosse tour carrée, le beffroi,
-                     qui rappelait le vieux beffroi* <gloss>Beffroi. Tour munie d'une cloche, où
-                        l'on faisait le guet.</gloss>, détruit aujourd'hui, le signe et le gage de
-                     l'indépendance des communes* <gloss>Commune. Ville dont les citoyens avaient le
-                        droit de s'administrer eux-mêmes.</gloss>. Là sonnait la « bancloque », la
-                     cloche banale* <gloss>Cloche banale. Cloche pour le service de la ville
-                        entière.</gloss> qui, pour le conseil ou pour le péril, convoquait les
-                     gardiens des droits de la cité* <gloss>Droits de la cité. Ce que pouvaient
-                        faire et exiger les habitants de la cité.</gloss>.</p>
-                  <p>Voilà aussi, à gauche, la vieille basilique gothique</p>
+               <p>au poing, prouve qu'on a ici affaire à des personnages d'importance. En face, une
+                  foule de gens pauvrement vêtus de costumes divers, et aux visages exprimant
+                  l'émotion, lèvent la main droite, dans l'attitude du serment. </p>
+               
+                  <p>— Eh! murmura Ludivine, les yeux très écarquillés* <gloss>Ecarquillé. Se dit d'yeux largement
+                        ouverts.</gloss>,
                   <figure type="sujets">
-                     <caption>Ogive et rosace (architecture du XIIe au XVe siècle). — Chambraute
-                        d'une cheminée style Renaissance (XVe et XVIe siècle).</caption>
+                     <caption>Hôtel de ville de Saint-Quentin.</caption>
                   </figure>
 
-                  <fw type="header">54 SUZETTE.</fw>
-                  <pb type="page" n="54"/>
+                  <fw type="header">LA CHARTE DU COMTE HERBERT. 53</fw>
+                  <pb type="page" n="53"/>
 
-                  <p>fondée par la sœur du comte Herbert IV, Adèle de Vermandois. L'église, le
-                     beffroi, l'hôtel de ville, c'étaient les monuments dont s'enorgueillissait le
-                     moyen âge. </p>
-                  <p>La pluie avait cessé, le soleil était de retour : on sortit.</p>
-                  <figure type="illustration">
-                     <caption>Beffroi de Douai.</caption>
-                  </figure>
-               </div3>
+                  pour être habillés comme ça, c'est au moins des gens de l'Amérique !</p>
+               <p>Elle dit l'Amérique comme elle eût dit la lune.</p>
+               <p>M. Florentin Lejoly ricana de nouveau, Les pouces dans les entournures de son
+                  gilet, le chapeau en arrière, il semblait narguer* <gloss>Narguer. Braver avec
+                     mépris.</gloss> les personnages de la peinture et leurs costumes qui n'étaient
+                  pas à la dernière mode comme le sien.</p>
+               <p>Mais nos jeunes écoliers venaient d'apprendre d'un visiteur le sujet du tableau: «
+                  Le comte Herbert IV de Vermandois* <gloss>Vermandois. Région du N.-E. de la France
+                     ayant Saint-Quentin pour capitale.</gloss> donnant la charte de commune aux
+                  Saint-Quentinois du onzième siècle. »</p>
+               <p>Jacques, Suzette, même François évoquaient là devant leurs souvenirs*
+                     <gloss>Evoquer des souvenirs. Rappeler ce qu'on a vu ou appris.</gloss>
+                  historiques de l'école.</p>
+               <p>Ce monde d'artisans, de manants * <gloss>Manant. Gens tenus d'habiter le domaine
+                     d'un seigneur.</gloss> en pauvres souquenilles* <gloss>Souquenille. Vêtement
+                     sale.</gloss> et mal chaussés, ne leur était ni si étrange, ni si étranger :
+                  c'étaient là les chaînons passés de la grande famille française dont ils étaient,
+                  eux, les chaînons vivants. Et ces pères avaient travaillé à l'œuvre de
+                  l'émancipation* <gloss>Emancipation. Mise en liberté.</gloss>, de l'amélioration
+                  de l'existence humaine, noble tâche continuée par leurs fils des derniers siècles
+                  et du siècle présent.</p>
+               <p>Vis-à-vis, dominant les maisons de la place, la grosse tour carrée, le beffroi,
+                  qui rappelait le vieux beffroi* <gloss>Beffroi. Tour munie d'une cloche, où l'on
+                     faisait le guet.</gloss>, détruit aujourd'hui, le signe et le gage de
+                  l'indépendance des communes* <gloss>Commune. Ville dont les citoyens avaient le
+                     droit de s'administrer eux-mêmes.</gloss>. Là sonnait la « bancloque », la
+                  cloche banale* <gloss>Cloche banale. Cloche pour le service de la ville
+                     entière.</gloss> qui, pour le conseil ou pour le péril, convoquait les gardiens
+                  des droits de la cité* <gloss>Droits de la cité. Ce que pouvaient faire et exiger
+                     les habitants de la cité.</gloss>.</p>
+               <p>Voilà aussi, à gauche, la vieille basilique gothique</p>
+               <figure type="sujets">
+                  <caption>Ogive et rosace (architecture du XIIe au XVe siècle). — Chambraute d'une
+                     cheminée style Renaissance (XVe et XVIe siècle).</caption>
+               </figure>
+
+               <fw type="header">54 SUZETTE.</fw>
+               <pb type="page" n="54"/>
+
+               <p>fondée par la sœur du comte Herbert IV, Adèle de Vermandois. L'église, le beffroi,
+                  l'hôtel de ville, c'étaient les monuments dont s'enorgueillissait le moyen âge. </p>
+               <p>La pluie avait cessé, le soleil était de retour : on sortit.</p>
+               <figure type="illustration">
+                  <caption>Beffroi de Douai.</caption>
+               </figure>
             </div2>
-            <div2 type="teacher_edition">
-               <div3 type="questionnaire">
-                  <head>Questionnaire.</head>
-                  <list>
-                     <item>— Quelle cause obligea les voyageurs de Fragicourt à entrer à l'hôtel de
-                        ville de Saint-Quentin?</item>
-                     <item>— Qu'avaient-ils eu à peine le temps de considérer dans ce moment, avant
-                        la chute de la pluie?</item>
-                     <item>— Que remarquèrent-ils dans la salle du conseil?</item>
-                     <item>— Que représentait une grande peinture décorative ?</item>
-                     <item>— Quelle remarque lit Ludivine et quelle altitude prit M. Lejoly?</item>
-                     <item>— Qu'est-<cb/>ce qu’un visiteur avait appris aux enfants touchant le
-                        sujet du tableau?</item>
-                     <item>— Qu'ont fait nos pères et qu'avaient fait les personnages populaires
-                        figurant sur la toile? </item>
-                     <item>— Que remarque-t-on à Saint-Quentin vis-à-vis de l'hôtel de ville?</item>
-                     <item>— Qu'est-ce qu'on sonnait au beffroi?</item>
-                     <item>— Quel édifice s'élève à gauche de l'hôtel de ville?</item>
-                  </list>
-               </div3>
+
+            <div2 type="questionnaire">
+               <head>Questionnaire.</head>
+               <list>
+                  <item>— Quelle cause obligea les voyageurs de Fragicourt à entrer à l'hôtel de
+                     ville de Saint-Quentin?</item>
+                  <item>— Qu'avaient-ils eu à peine le temps de considérer dans ce moment, avant la
+                     chute de la pluie?</item>
+                  <item>— Que remarquèrent-ils dans la salle du conseil?</item>
+                  <item>— Que représentait une grande peinture décorative ?</item>
+                  <item>— Quelle remarque lit Ludivine et quelle altitude prit M. Lejoly?</item>
+                  <item>— Qu'est-<cb/>ce qu’un visiteur avait appris aux enfants touchant le sujet
+                     du tableau?</item>
+                  <item>— Qu'ont fait nos pères et qu'avaient fait les personnages populaires
+                     figurant sur la toile? </item>
+                  <item>— Que remarque-t-on à Saint-Quentin vis-à-vis de l'hôtel de ville?</item>
+                  <item>— Qu'est-ce qu'on sonnait au beffroi?</item>
+                  <item>— Quel édifice s'élève à gauche de l'hôtel de ville?</item>
+               </list>
             </div2>
+
 
             <fw type="header">LA CHARTE DU COMTE HERBERT. 55</fw>
             <pb type="page" n="55"/>
 
-            <div2 type="student_edition">
+            <div2 type="exercices">
                <head>DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES.</head>
-               <div3 type="sujets" subtype="instruction_civique">
+               <div3 type="instruction_civique">
                   <head type="sujets">Instruction civique.</head>
-                  <list type="exercices">
-                     <item> — Quelle assemblée se réunit à l'hôtel de ville ou à la mairie pour
-                        s'occuper des affaires ou des intérêts de la commune? </item>
-                     <item>— Quelles fonctions remplit le maire ?</item>
-                     <item>— Quelles fonctions remplissent les adjoints?</item>
-                     <item>— Combien de conseillers municipaux dans votre commune?</item>
-                     <item>— Qui les nomme?</item>
-                  </list>
-               </div3>
-            </div2>
+                  <div4 type="questions">
+                     <list type="exercices">
+                        <item> — Quelle assemblée se réunit à l'hôtel de ville ou à la mairie pour
+                           s'occuper des affaires ou des intérêts de la commune? </item>
+                        <item>— Quelles fonctions remplit le maire ?</item>
+                        <item>— Quelles fonctions remplissent les adjoints?</item>
+                        <item>— Combien de conseillers municipaux dans votre commune?</item>
+                        <item>— Qui les nomme?</item>
+                     </list>
+                  </div4>
 
-            <div2 type="teacher_edition">
-               <div3 type="sujets" subtype="instruction_civique">
-                  <p>L'assemblée qui se réunit à l'hôtel de ville ou à la mairie est <rs>le conseil
-                        municipal</rs>, auquel appartient la direction des affaires communales :
-                     acquisition d'immeubles, baux de maisons à l'usage de la commune ou sa
-                     propriété, projets de travaux, plans et devis de bâtiments, tarif des droits de
-                     place et des concessions du cimetière, vote des contributions extraordinaires
-                     n'excédant pas cinq centimes par franc pendant cinq ans, vote des emprunts,
-                     octrois, examen des comptes d'administration présentés par le maire et le
-                     receveur municipal.</p>
-                  <p>Les conseillers municipaux sont élus par le suffrage universel et sont nommés
-                     pour trois ans.</p>
-                  <p><rs>Le maire</rs>, qui est choisi par le conseil municipal dont il fait
-                     nécessairement partie, reçoit les actes de naissance, de mariage et de décès.
-                     Il assiste le procureur de la République et le juge d'instruction dans la
-                     recherche des crimes, délits et contraventions. Il est chargé de la publication
-                     des lois et des règlements, ainsi que de l'exécution des mesures de sûreté
-                     générale C'est à lui que revient la confection des listes électorales ; enfin,
-                     il est le fidèle exécuteur des délibérations du conseil municipal.</p>
-                  <p><rs>Les adjoints</rs> secondent ou remplacent le maire empêché.</p>
+                  <div4 type="réponses" ana="#instruction_civique">
+                     <p>L'assemblée qui se réunit à l'hôtel de ville ou à la mairie est <term>le
+                           conseil municipal</term>, auquel appartient la direction des affaires
+                        communales : acquisition d'immeubles, baux de maisons à l'usage de la
+                        commune ou sa propriété, projets de travaux, plans et devis de bâtiments,
+                        tarif des droits de place et des concessions du cimetière, vote des
+                        contributions extraordinaires n'excédant pas cinq centimes par franc pendant
+                        cinq ans, vote des emprunts, octrois, examen des comptes d'administration
+                        présentés par le maire et le receveur municipal.</p>
+                     <p>Les conseillers municipaux sont élus par le suffrage universel et sont
+                        nommés pour trois ans.</p>
+                     <p><term>Le maire</term>, qui est choisi par le conseil municipal dont il fait
+                        nécessairement partie, reçoit les actes de naissance, de mariage et de
+                        décès. Il assiste le procureur de la République et le juge d'instruction
+                        dans la recherche des crimes, délits et contraventions. Il est chargé de la
+                        publication des lois et des règlements, ainsi que de l'exécution des mesures
+                        de sûreté générale C'est à lui que revient la confection des listes
+                        électorales ; enfin, il est le fidèle exécuteur des délibérations du conseil
+                        municipal.</p>
+                     <p><term>Les adjoints</term> secondent ou remplacent le maire empêché.</p>
+                  </div4>
                </div3>
-            </div2>
-            <div2 type="student_edition">
-               <div3 type="sujets" subtype="industrie">
+
+               <div3 type="industrie">
                   <head>Industrie.</head>
-                  <list type="exercices">
-                     <item>— LE VERRE.</item>
-                     <item>—Avec quelles matières se fait le verre?</item>
-                     <item>— Comment raconte-t-on qu'il fut découvert?</item>
-                     <item>— Quelles sont les propriétés du verre?</item>
-                     <item>— Quels sont ses usages?</item>
-                     <item>— Qu'appelle-t-on vitraux?</item>
-                     <item>— Où sont les plus anciens?</item>
-                     <item>— Que représentent-ils?</item>
-                     <item>— Comment fait-on les glaces;</item>
-                     <item>— une bouteille?</item>
-                  </list>
-               </div3>
-            </div2>
-            <div2 type="teacher_edition">
-               <div3 type="sujets" subtype="industrie">
-                  <p><rs>Le verre</rs> est un corps transparent et fragile produit par la fusion
-                     d'un mélange de sable blanc et très fin avec de la potasse ou de la soude.</p>
-                  <p>Dans le verre à bouteilles qui est verdâtre, il entre du fer; dans le cristal,
-                     de l'oxyde de plomb (1). Le verre blanc des vitres se fait avec 60 parties de
-                     sable, 30 de potasse, 15 de nitre, 2 à 2 1/2 de borax ou d'arsenic.</p>
-                  <p>On croit que le verre a été découvert par les Égyptiens. Les Phéniciens l'ont
-                     aussi connu très anciennement, et l'on raconte qu'ils l'obtinrent, pour la
-                     première fois, en faisant sur le sable un feu violent dans un foyer entouré do
-                     blocs de sel de nitre, substance que l'on trouve naturellement sur le bord de
-                     la mer, on Égypte. </p>
-                  <p>Le verre a pour <rs>propriétés</rs> principales sa transparence et sa dureté;
-                     il raye presque tous los corps, et l'on peut dire qu'il est inaltérable à l'air
-                     dans les circonstances ordinaires.l serte à clore les fenêtres, les châssis,
-                     les serres, et l'on en confectionne encore ces belles glaces qui ornent nos
-                     appartements, ainsi que nombre de vases : bouteilles, fioles, coupes, verres,
-                     cloches, enfin des tuyaux et des lentilles pour lunettes, etc. On l'applique
-                     devant les gravures pour les préserver des effets du contact de l'air.</p>
-                  <p>(1) <rs>Oxyde de plomb</rs>, corps gris noirâtre qui se forme à la surface du
-                     plomb exposé à l'air. Tous les oxydes de plomb sont de violents poisons.</p>
+                  <div4 type="questions">
+                     <list type="exercices">
+                        <item>— LE VERRE.</item>
+                        <item>—Avec quelles matières se fait le verre?</item>
+                        <item>— Comment raconte-t-on qu'il fut découvert?</item>
+                        <item>— Quelles sont les propriétés du verre?</item>
+                        <item>— Quels sont ses usages?</item>
+                        <item>— Qu'appelle-t-on vitraux?</item>
+                        <item>— Où sont les plus anciens?</item>
+                        <item>— Que représentent-ils?</item>
+                        <item>— Comment fait-on les glaces;</item>
+                        <item>— une bouteille?</item>
+                     </list>
+                  </div4>
+
+                  <div4 type="réponses" ana="#matières_objets_fabriques">
+                     <p><term>Le verre</term> est un corps transparent et fragile produit par la
+                        fusion d'un mélange de sable blanc et très fin avec de la potasse ou de la
+                        soude.</p>
+                     <p>Dans le verre à bouteilles qui est verdâtre, il entre du fer; dans le
+                        cristal, de l'oxyde de plomb (1). Le verre blanc des vitres se fait avec 60
+                        parties de sable, 30 de potasse, 15 de nitre, 2 à 2 1/2 de borax ou
+                        d'arsenic.</p>
+                     <p>On croit que le verre a été découvert par les Égyptiens. Les Phéniciens
+                        l'ont aussi connu très anciennement, et l'on raconte qu'ils l'obtinrent,
+                        pour la première fois, en faisant sur le sable un feu violent dans un foyer
+                        entouré do blocs de sel de nitre, substance que l'on trouve naturellement
+                        sur le bord de la mer, on Égypte. </p>
+                     <p>Le verre a pour <term>propriétés</term> principales sa transparence et sa
+                        dureté; il raye presque tous los corps, et l'on peut dire qu'il est
+                        inaltérable à l'air dans les circonstances ordinaires.l serte à clore les
+                        fenêtres, les châssis, les serres, et l'on en confectionne encore ces belles
+                        glaces qui ornent nos appartements, ainsi que nombre de vases : bouteilles,
+                        fioles, coupes, verres, cloches, enfin des tuyaux et des lentilles pour
+                        lunettes, etc. On l'applique devant les gravures pour les préserver des
+                        effets du contact de l'air.</p>
+                     <p>(1) <term>Oxyde de plomb</term>, corps gris noirâtre qui se forme à la
+                        surface du plomb exposé à l'air. Tous les oxydes de plomb sont de violents
+                        poisons.</p>
 
 
-                  <pb type="page" n="56"/>
-                  <fw type="header">56 SUZETTE.</fw>
-                  <p><rs>Les vitraux</rs> sont des clôtures de fenêtres formées de petits morceaux
-                     de verre de différentes couleurs qui représentent soit des personnages, soit
-                     des animaux, des plantes, ou qui offrent des combinaisons de lignes. Ils font
-                     le plus bel ornement des édifices religieux, et l'on commence à les adopter
-                     dans les appartements. Les plus anciens vitraux sont ceux de la cathédrale de
-                     Saint-Denis, qui remontent à 1140; les rosaces de Notre-Dame de Paris datent du
-                     troisième siècle, ainsi que les admirables vitraux de la Sainte-Chapelle.</p>
-                  <p>Pour <rs>fabriquer le verre</rs>, on réduit les matières premières en poudre et
-                     on les soumet à un feu violent dans des creusets rangés à l'intérieur de grands
-                     fours. Bientôt le mélange fond et se transforme en une substance pâteuse qui,
-                     étendue sur de grandes tables de métal, donne les vitres ou les glaces.</p>
-                  <p><rs>Le poli</rs> des glaces s'obtient en les appliquant deux à deux l'une sur
-                     l'autre, et on imprimant un mouvement de va-et-vient à celle qui occupe la
-                     position supérieure; puis on applique sur l'autre face un amalgame de mercure
-                     et d'étain qu'on nomme le <rs>tain</rs>.</p>
-                  <p>Quant aux <rs>bouteilles</rs>, l'ouvrier cueille la pâte dans le creuset au
-                     moyen d'un long tube creux, et l'égalise en le tournant sur une plaque de
-                     métal, Un second ouvrier lui donne une forme allongée par un mouvement
-                     circulaire rapide; enfin un troisième souffle dans le tuyau. Sa matière se
-                     gonfle et, introduite dans un moule, y prend la forme et les dimensions
-                     requises. Le creux du fond s'obtient avec une palette qu'on applique sur la
-                     base de la bouteille.</p>
-                  <p>Il est à remarquer que ces opérations n'exigent pas plus d'une minute</p>
+                     <pb type="page" n="56"/>
+                     <fw type="header">56 SUZETTE.</fw>
+                     <p><term>Les vitraux</term> sont des clôtures de fenêtres formées de petits
+                        morceaux de verre de différentes couleurs qui représentent soit des
+                        personnages, soit des animaux, des plantes, ou qui offrent des combinaisons
+                        de lignes. Ils font le plus bel ornement des édifices religieux, et l'on
+                        commence à les adopter dans les appartements. Les plus anciens vitraux sont
+                        ceux de la cathédrale de Saint-Denis, qui remontent à 1140; les rosaces de
+                        Notre-Dame de Paris datent du troisième siècle, ainsi que les admirables
+                        vitraux de la Sainte-Chapelle.</p>
+                     <p>Pour <term>fabriquer le verre</term>, on réduit les matières premières en
+                        poudre et on les soumet à un feu violent dans des creusets rangés à
+                        l'intérieur de grands fours. Bientôt le mélange fond et se transforme en une
+                        substance pâteuse qui, étendue sur de grandes tables de métal, donne les
+                        vitres ou les glaces.</p>
+                     <p><term>Le poli</term> des glaces s'obtient en les appliquant deux à deux
+                        l'une sur l'autre, et on imprimant un mouvement de va-et-vient à celle qui
+                        occupe la position supérieure; puis on applique sur l'autre face un amalgame
+                        de mercure et d'étain qu'on nomme le <term>tain</term>.</p>
+                     <p>Quant aux <term>bouteilles</term>, l'ouvrier cueille la pâte dans le creuset
+                        au moyen d'un long tube creux, et l'égalise en le tournant sur une plaque de
+                        métal, Un second ouvrier lui donne une forme allongée par un mouvement
+                        circulaire rapide; enfin un troisième souffle dans le tuyau. Sa matière se
+                        gonfle et, introduite dans un moule, y prend la forme et les dimensions
+                        requises. Le creux du fond s'obtient avec une palette qu'on applique sur la
+                        base de la bouteille.</p>
+                     <p>Il est à remarquer que ces opérations n'exigent pas plus d'une minute</p>
+                  </div4>
                </div3>
-            </div2>
-            <div2 type="student_edition">
-               <div3 type="sujets" subtype="histoire">
+
+               <div3 type="histoire">
                   <head>Histoire.</head>
-                  <list type="exercices">
-                     <item>—Qu'exigeaient continuellement les seigneurs des habitants des
-                        villes?</item>
-                     <item> — Quels pouvoirs avaient-ils sur ces derniers?</item>
-                     <item>— Dites comment ils en abusaient,</item>
-                     <item>— Que firent les habitants des villes pour être administrés selon la
-                        liberté et la justice?</item>
-                  </list>
-               </div3>
-            </div2>
-            <div2 type="teacher_edition">
-               <div3 type="sujets" subtype="histoire">
-                  <p>Les vassaux étaient frappés d'une multitude d'impôts: dimes ou dixièmes des
-                     récoltes, taille (impôt foncier) seigneuriale fournie en argent, corvées ou
-                     travaux gratuits et obligatoires, dans les champs et sur les chemins, droits
-                     sur la mouture du blé, sur la cuisson du pain, la fabrication du vin. Aux
-                     seigneurs appartenaient les terres, les eaux, les pacages, la forêt, l'air
-                     même; ils étaient seigneurs absolus dans leurs domaines.</p>
-                  <p>Le seigneur rendait la justice, conduisait les vassaux à la guerre, levait les
-                     impôts à sa guise et selon ses besoins; il héritait des biens des serfs.</p>
-                  <p>Pour se soustraire à ces maux, les habitants des villes se soulevèrent au
-                     onzième et au douzième siècle; après des luttes acharnées et moyennant finance,
-                     ils obtinrent de s'administrer eux-mêmes, à la seule condition de payer au
-                     seigneur un tribut annuel.</p>
+                  <div4 type="questions">
+                     <list type="exercices">
+                        <item>—Qu'exigeaient continuellement les seigneurs des habitants des
+                           villes?</item>
+                        <item> — Quels pouvoirs avaient-ils sur ces derniers?</item>
+                        <item>— Dites comment ils en abusaient,</item>
+                        <item>— Que firent les habitants des villes pour être administrés selon la
+                           liberté et la justice?</item>
+                     </list>
+                  </div4>
+
+                  <div4 type="réponses" ana="#histoire">
+                     <p>Les vassaux étaient frappés d'une multitude d'impôts: dimes ou dixièmes des
+                        récoltes, taille (impôt foncier) seigneuriale fournie en argent, corvées ou
+                        travaux gratuits et obligatoires, dans les champs et sur les chemins, droits
+                        sur la mouture du blé, sur la cuisson du pain, la fabrication du vin. Aux
+                        seigneurs appartenaient les terres, les eaux, les pacages, la forêt, l'air
+                        même; ils étaient seigneurs absolus dans leurs domaines.</p>
+                     <p>Le seigneur rendait la justice, conduisait les vassaux à la guerre, levait
+                        les impôts à sa guise et selon ses besoins; il héritait des biens des
+                        serfs.</p>
+                     <p>Pour se soustraire à ces maux, les habitants des villes se soulevèrent au
+                        onzième et au douzième siècle; après des luttes acharnées et moyennant
+                        finance, ils obtinrent de s'administrer eux-mêmes, à la seule condition de
+                        payer au seigneur un tribut annuel.</p>
+                  </div4>
                </div3>
             </div2>
          </div1>

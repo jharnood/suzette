@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="out/suzette_custom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -213,205 +213,201 @@
    <text>
       <body>
 
-         <div1 type="chapter" xml:lang="fr" corresp="#ch021">
+         <div1 type="chapitre" xml:lang="fr" corresp="#ch021">
             <head type="chapter"> 21. — Une lettre de Jacques. (Élève, p. 52.) </head>
             <pb type="page" n="75"/>
 
-            <div2 type="student_edition">
-               <div3 type="récit">
+            <div2 type="récit">
 
-                  <p>(LA FERME-ÉCOLE)</p>
-                  <p>« Cher père,</p>
-                  <p> « Sans le regret du village qui me tient toujours, je serais ici comme un
-                     poisson dans l'eau. </p>
+               <p>(LA FERME-ÉCOLE)</p>
+               <p>« Cher père,</p>
+               <p> « Sans le regret du village qui me tient toujours, je serais ici comme un poisson
+                  dans l'eau. </p>
 
-                  <fw type="header"> 76 SUZETTE. </fw>
-                  <pb type="page" n="76"/>
+               <fw type="header"> 76 SUZETTE. </fw>
+               <pb type="page" n="76"/>
 
 
-                  <p> « Le Paraclet est charmant*<gloss>Charmant. Très agréable.</gloss>. L'école,
-                     bâtie sur le flanc d'une colline, domine une belle vallée où coulent l'Avre et
-                     la Moye. Un petit village de maisonnettes rouges et blanches, avec son clocher
-                     qui ressemble à celui de Fragicourt, c'est notre horizon. </p>
-                  <p> « Cent vingt hectares, voilà mon domaine maintenant.</p>
-                  <p> « Quel grand propriétaire je fais, n'est-ce pas ? Il est vrai que je partage
-                     avec de nombreux camarades. </p>
-                  <p> « Et le travail des champs marche ici avec celui de l'esprit ; l'histoire, la
-                     chimie* <gloss>Chimie. Science qui étudie ce qui peut changer l'état des corps
-                        et les applications utiles qui en résultent.</gloss>, la physique*
-                        <gloss>Physique. Science qui étudie les propriétés des corps matériels sans
-                        les décomposer, comme on le fait en chimie.</gloss>, l'horticulture,
-                     l'arboriculture, nous occupent une partie du jour. </p>
-                  <p> « Des professeurs et un laboratoire* <gloss>Laboratoire. Local disposé pour
-                        faire les expériences de physique et de chimie.</gloss> ! rien ne nous,
-                     manque. Aux vacances, vous verrez comme on taillera, greffera* <gloss>Greffer.
-                        Fixer, dans la fente d'une tige d'arbre, une petite branche que l'on coupe
-                        sur un arbre de meilleure espèce.</gloss> ! Et quels beaux fruits mangeront
-                     ceux qui les aiment, par exemple, une jeune fermière de ma connaissance qu'on
-                     appelle Suzette ! </p>
-                  <p> « La chimie agricole surtout me passionne. Quelle ressource pour l'agronome*
-                        <gloss>Agronome. Celui qui s'occupe de perfectionner l'agriculture.</gloss>
-                     ! La chimie vous
-                     analyse*<!--Analyse has an asterisk but no definitin in the lexique--> une
-                     plante, en montre un à un les éléments* <gloss>Éléments. Les parties, les
-                        substances dont un corps est composé.</gloss> : tant d'azote* <gloss>Azote.
-                        L'un des deux gaz qui forment l'air; il ne peut entretenir la
-                        combustion.</gloss>, tant de carbone* <gloss>Carbone. Corps qui, à l'état de
-                        pureté, est le diamant, et qui constitue la base du bois et du
-                        charbon.</gloss>, tant de soufre, d'oxygène* <gloss>Oxygène. Celui des
-                        deux gaz de l'air qui peut entretenir la combustion.</gloss>,
-                        d'hydrogène*<gloss>Hydrogène. Gaz 14 fois et demie plus léger que
-                        l'air.</gloss>, etc. ; et le cultivateur ayant appris tout cela, sait encore
-                     que les plantes puisent ces éléments pour la plus grande partie dans le sol par
-                     leurs racines et radicelles* <gloss>Radicelles. Petites ramifications d'une
-                        racine.</gloss>. Il lui devient alors aisé de donner, par des engrais
-                     appropriés, à chacune la nourriture qui lui convient, et de la rendre ainsi
-                     belle et vigoureuse. </p>
-                  <p> « A étudier et à bêcher tour à tour, je me porte comme un
-                        charme*<gloss>Charme. Parfaitement bien.</gloss>. Un professeur nous disait
-                     hier que les hommes devraient à peu près tous pouvoir partager ainsi leur
-                     journée entre le travail des mains et celui de l'esprit. Ils s'en porteraient
-                     mieux intellectuellement, et peut-être en viendront-ils là dans l'avenir. </p>
-                  <p> « J'ai fait ici la connaissance d'un homme que vous aimeriez beaucoup, cher
-                     père : c'est Olivier de Serres* <gloss>Olivier de Serres. Grand agronome
-                        contemporain de Henri IV.</gloss>. Sa pensée vit, encore, quoiqu'il soit
-                     mort depuis à peu près trois cents ans. On l'appelle le père de l'agriculture.
-                     Il créa l'agronomie, il aima les champs, et, par grand désir d'être utile aux
-                     hommes, écrivit des livres <fw type="header"> UNE LETTRE DE JACQUES. 77 </fw>
-                     <pb type="page" n="77"/> qui, après trois siècles, continuent de nous éclairer. </p>
-                  <p> « Le directeur du Paraclet est un brave. En 1870, sergent de
-                        mobiles*<gloss>Mobiles. Les mobiles étaient de jeunes soldats qui n'avaient
-                        pas été formés au service militaire.</gloss>, en pleine bataille, il
-                     retourna sur ses pas et se rejeta dans la mitraille pour aller reprendre le
-                     drapeau de la compagnie aux mains de celui qui le portait et qu'une balle
-                     venait de frapper. Il sauva le drapeau. C'est beau, cela, n'est-ce pas ? </p>
-                  <p> « On appelle pour une promenade agricole. Nous allons visiter une ferme
-                     importante des environs. </p>
+               <p> « Le Paraclet est charmant*<gloss>Charmant. Très agréable.</gloss>. L'école,
+                  bâtie sur le flanc d'une colline, domine une belle vallée où coulent l'Avre et la
+                  Moye. Un petit village de maisonnettes rouges et blanches, avec son clocher qui
+                  ressemble à celui de Fragicourt, c'est notre horizon. </p>
+               <p> « Cent vingt hectares, voilà mon domaine maintenant.</p>
+               <p> « Quel grand propriétaire je fais, n'est-ce pas ? Il est vrai que je partage avec
+                  de nombreux camarades. </p>
+               <p> « Et le travail des champs marche ici avec celui de l'esprit ; l'histoire, la
+                  chimie* <gloss>Chimie. Science qui étudie ce qui peut changer l'état des corps et
+                     les applications utiles qui en résultent.</gloss>, la physique*
+                     <gloss>Physique. Science qui étudie les propriétés des corps matériels sans les
+                     décomposer, comme on le fait en chimie.</gloss>, l'horticulture,
+                  l'arboriculture, nous occupent une partie du jour. </p>
+               <p> « Des professeurs et un laboratoire* <gloss>Laboratoire. Local disposé pour faire
+                     les expériences de physique et de chimie.</gloss> ! rien ne nous, manque. Aux
+                  vacances, vous verrez comme on taillera, greffera* <gloss>Greffer. Fixer,
+                     dans la fente d'une tige d'arbre, une petite branche que l'on coupe sur un
+                     arbre de meilleure espèce.</gloss> ! Et quels beaux fruits mangeront ceux qui
+                  les aiment, par exemple, une jeune fermière de ma connaissance qu'on appelle
+                  Suzette ! </p>
+               <p> « La chimie agricole surtout me passionne. Quelle ressource pour l'agronome*
+                     <gloss>Agronome. Celui qui s'occupe de perfectionner l'agriculture.</gloss> !
+                  La chimie vous
+                  analyse*<!--Analyse has an asterisk but no definitin in the lexique--> une plante,
+                  en montre un à un les éléments* <gloss>Éléments. Les parties, les substances
+                     dont un corps est composé.</gloss> : tant d'azote* <gloss>Azote. L'un des
+                     deux gaz qui forment l'air; il ne peut entretenir la combustion.</gloss>, tant
+                  de carbone* <gloss>Carbone. Corps qui, à l'état de pureté, est le diamant, et qui
+                     constitue la base du bois et du charbon.</gloss>, tant de soufre, d'oxygène*
+                     <gloss>Oxygène. Celui des deux gaz de l'air qui peut entretenir la
+                     combustion.</gloss>, d'hydrogène*<gloss>Hydrogène. Gaz 14 fois et demie plus
+                     léger que l'air.</gloss>, etc. ; et le cultivateur ayant appris tout cela, sait
+                  encore que les plantes puisent ces éléments pour la plus grande partie dans le sol
+                  par leurs racines et radicelles* <gloss>Radicelles. Petites ramifications d'une
+                     racine.</gloss>. Il lui devient alors aisé de donner, par des engrais
+                  appropriés, à chacune la nourriture qui lui convient, et de la rendre ainsi belle
+                  et vigoureuse. </p>
+               <p> « A étudier et à bêcher tour à tour, je me porte comme un charme*<gloss>Charme.
+                     Parfaitement bien.</gloss>. Un professeur nous disait hier que les hommes
+                  devraient à peu près tous pouvoir partager ainsi leur journée entre le travail des
+                  mains et celui de l'esprit. Ils s'en porteraient mieux intellectuellement, et
+                  peut-être en viendront-ils là dans l'avenir. </p>
+               <p> « J'ai fait ici la connaissance d'un homme que vous aimeriez beaucoup, cher père
+                  : c'est Olivier de Serres* <gloss>Olivier de Serres. Grand agronome contemporain
+                     de Henri IV.</gloss>. Sa pensée vit, encore, quoiqu'il soit mort depuis à peu
+                  près trois cents ans. On l'appelle le père de l'agriculture. Il créa l'agronomie,
+                  il aima les champs, et, par grand désir d'être utile aux hommes, écrivit des
+                  livres <fw type="header"> UNE LETTRE DE JACQUES. 77 </fw>
+                  <pb type="page" n="77"/> qui, après trois siècles, continuent de nous éclairer. </p>
+               <p> « Le directeur du Paraclet est un brave. En 1870, sergent de
+                     mobiles*<gloss>Mobiles. Les mobiles étaient de jeunes soldats qui n'avaient pas
+                     été formés au service militaire.</gloss>, en pleine bataille, il retourna sur
+                  ses pas et se rejeta dans la mitraille pour aller reprendre le drapeau de la
+                  compagnie aux mains de celui qui le portait et qu'une balle venait de frapper. Il
+                  sauva le drapeau. C'est beau, cela, n'est-ce pas ? </p>
+               <p> « On appelle pour une promenade agricole. Nous allons visiter une ferme
+                  importante des environs. </p>
 
-                  <p>« Je vous quitte : je vous embrasse de tout mon cœur, cher papa, et toi,
-                     Suzette, et vous, François et Charlot. </p>
-                  <p>« JACQUES DUMAY. » </p>
+               <p>« Je vous quitte : je vous embrasse de tout mon cœur, cher papa, et toi, Suzette,
+                  et vous, François et Charlot. </p>
+               <p>« JACQUES DUMAY. » </p>
 
-               </div3>
             </div2>
 
-            <div2 type="teacher_edition">
-               <div3 type="questionnaire">
-                  <head> Questionnaire. </head>
-                  <list>
-                     <item>— Qu'adresseriez-vous à vos parents si vous étiez en pension depuis
-                        quelques jours ?</item>
-                     <item>— Donnez un aperçu de ce que contiendrait votre lettre ?</item>
-                     <item>— Comment la commenceriez-vous et l'achèveriez-vous ?</item>
-                     <item>— Que disait Jacques de la ferme-école du Paraclet ?</item>
-                     <item>— Quelle était l’étendue du domaine ?</item>
-                     <item>—<cb/>Quel était l'objet du travail de chaque jour ?</item>
-                     <item>— Quel résultat Jacques prévoyait-il pour la ferme de son père ?</item>
-                     <item>— Que disait un professeur de son école sur l'utilité du travail manuel
-                        ?</item>
-                     <item>— Qu'est-ce qu'Olivier de Serres ?</item>
-                     <item>— Quels détails Jacques donnait-il sur le directeur de l'école
-                        d'agriculture ?</item>
-                  </list>
-               </div3>
+            <div2 type="questionnaire">
+               <head> Questionnaire. </head>
+               <list>
+                  <item>— Qu'adresseriez-vous à vos parents si vous étiez en pension depuis quelques
+                     jours ?</item>
+                  <item>— Donnez un aperçu de ce que contiendrait votre lettre ?</item>
+                  <item>— Comment la commenceriez-vous et l'achèveriez-vous ?</item>
+                  <item>— Que disait Jacques de la ferme-école du Paraclet ?</item>
+                  <item>— Quelle était l’étendue du domaine ?</item>
+                  <item>—<cb/>Quel était l'objet du travail de chaque jour ?</item>
+                  <item>— Quel résultat Jacques prévoyait-il pour la ferme de son père ?</item>
+                  <item>— Que disait un professeur de son école sur l'utilité du travail manuel
+                     ?</item>
+                  <item>— Qu'est-ce qu'Olivier de Serres ?</item>
+                  <item>— Quels détails Jacques donnait-il sur le directeur de l'école d'agriculture
+                     ?</item>
+               </list>
             </div2>
 
-            <div2 type="student_edition">
+            <div2 type="exercices">
 
                <head type="exercice"> DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES. </head>
 
-               <div3 type="sujets" subtype="francais">
+               <div3 français="generale">
                   <head type="sujets"> Français. </head>
-                  <list type="exercices">
-                     <item>— Écrire en marge d'une feuille de papier, et les uns au-dessous des
-                        autres, tous les verbes de l'alinéa commençant par Aux vacances… et ceux des
-                        deux suivants.</item>
-                     <item>— Indiquer à côté de chacun de ces verbes le mode et le temps auxquels
-                        ils sont employés. </item>
-                  </list>
-               </div3>
-            </div2>
-            <div2 type="teacher_edition">
-               <div3 type="sujets" subtype="francais">
-                  <p>MODÈLE.— <rs>Verrez</rs>, mode indic., temps futur. <lb/>
-                     <rs>Taillera</rs>, mode indic., temps futur.</p>
+                  <div4 type="questions">
+                     <list type="exercices">
+                        <item>— Écrire en marge d'une feuille de papier, et les uns au-dessous des
+                           autres, tous les verbes de l'alinéa commençant par Aux vacances… et ceux
+                           des deux suivants.</item>
+                        <item>— Indiquer à côté de chacun de ces verbes le mode et le temps auxquels
+                           ils sont employés. </item>
+                     </list>
+                  </div4>
 
+                  <div4 type="réponses">
+                     <p>MODÈLE.— <rs>Verrez</rs>, mode indic., temps futur. <lb/>
+                        <rs>Taillera</rs>, mode indic., temps futur.</p>
+                  </div4>
                </div3>
-            </div2>
-            <div2 type="student_edition">
-               <div3 type="sujets" subtype="sciences_naturelles">
+
+               <div3 sciences_naturelles="mineraux">
                   <head type="sujets"> Sciences naturelles. </head>
-                  <list type="exercices">
-                     <item>— Rappelez ce que nous enseignent : 1° la physique,</item>
-                     <item>— 2° la chimie, et donnez une idée de l'utilité de ces sciences. </item>
-                     <item>— Qu'est-ce qu'un gaz ?</item>
-                     <item>— Quels gaz composent l'air ;</item>
-                     <item>— l'eau ?</item>
-                     <item>— Quel corps solide forme la matière de, tous les végétaux ?</item>
-                     <item>— Dans quels combustibles naturels se trouve encore le carbone ?</item>
-                  </list>
-               </div3>
-            </div2>
+                  <div4 type="questions">
+                     <list type="exercices">
+                        <item>— Rappelez ce que nous enseignent : 1° la physique,</item>
+                        <item>— 2° la chimie, et donnez une idée de l'utilité de ces sciences. </item>
+                        <item>— Qu'est-ce qu'un gaz ?</item>
+                        <item>— Quels gaz composent l'air ;</item>
+                        <item>— l'eau ?</item>
+                        <item>— Quel corps solide forme la matière de, tous les végétaux ?</item>
+                        <item>— Dans quels combustibles naturels se trouve encore le carbone
+                           ?</item>
+                     </list>
+                  </div4>
 
-            <div2 type="teacher_edition">
-               <div3 type="sujets" subtype="sciences_naturelles">
-                  <p><rs>La physique</rs> étudie les-propriétés des corps, telles que l'élasticité,
-                     la pesanteur, la divisibilité, ainsi que les phénomènes (1)<note type="foot"
-                        >(1) On appelle phénomène toute chose qui vient à apparaître dans les corps,
-                        comme, par exemple, la formation de la vapeur, la dilatation de l'eau
-                        chauffée, l'apparition de l'arc-en-ciel, l'ascension d'un liquide dans un
-                        morceau de sucre dont la base seule est en contact avec ce liquide, l'écho,
-                        le grossissement des objets à travers les lunettes.</note> qui ne changent
-                     pas leur nature. </p>
-                  <p><rs>La chimie</rs> étudie les combinaisons des corps, comme celle de l'huile et
-                     de la soude qui donne le savon, et les phénomènes qui modifient leur nature,
-                     par exemple celui de la fermentation du vin nouveau dans les fûts.</p>
-                  <p><rs>Un gaz</rs> est un corps semblable à l'air que nous respirons. Les gaz <fw
-                        type="header"> 78 SUZETTE. </fw>
-                     <pb type="page" n="78"/> sont élastiques, souvent invisibles, et les moins
-                     pesants de tous les, corps ; la plupart dégagent une odeur caractéristique. On
-                     connaît celle de l'acide sulfureux, gaz produit lorsque le soufre brûle et
-                     celle des gaz qui se dégagent des chairs en putréfaction.</p>
-                  <p><rs>L'air</rs> est composé de deux gaz ; l'oxygène et l'azote, tous deux
-                     inodores et invisibles.</p>
-                  <p><rs>Le carbone</rs> ou <rs>charbon</rs> est le corps solide qui forme les
-                     végétaux ; si on les soumet, en effet, à une forte chaleur dans un lieu clos,
-                     l'eau qu'ils contiennent s'évapore et il ne reste plus qu'une substance
-                     noirâtre : le charbon. </p>
+                  <div4 type="réponses">
+                     <p><rs>La physique</rs> étudie les-propriétés des corps, telles que
+                        l'élasticité, la pesanteur, la divisibilité, ainsi que les phénomènes
+                           (1)<note type="foot">(1) On appelle phénomène toute chose qui vient à
+                           apparaître dans les corps, comme, par exemple, la formation de la vapeur,
+                           la dilatation de l'eau chauffée, l'apparition de l'arc-en-ciel,
+                           l'ascension d'un liquide dans un morceau de sucre dont la base seule est
+                           en contact avec ce liquide, l'écho, le grossissement des objets à travers
+                           les lunettes.</note> qui ne changent pas leur nature. </p>
+                     <p><rs>La chimie</rs> étudie les combinaisons des corps, comme celle de l'huile
+                        et de la soude qui donne le savon, et les phénomènes qui modifient leur
+                        nature, par exemple celui de la fermentation du vin nouveau dans les
+                        fûts.</p>
+                     <p><rs>Un gaz</rs> est un corps semblable à l'air que nous respirons. Les gaz
+                           <fw type="header"> 78 SUZETTE. </fw>
+                        <pb type="page" n="78"/> sont élastiques, souvent invisibles, et les moins
+                        pesants de tous les, corps ; la plupart dégagent une odeur caractéristique.
+                        On connaît celle de l'acide sulfureux, gaz produit lorsque le soufre brûle
+                        et celle des gaz qui se dégagent des chairs en putréfaction.</p>
+                     <p><rs>L'air</rs> est composé de deux gaz ; l'oxygène et l'azote, tous deux
+                        inodores et invisibles.</p>
+                     <p><rs>Le carbone</rs> ou <rs>charbon</rs> est le corps solide qui forme les
+                        végétaux ; si on les soumet, en effet, à une forte chaleur dans un lieu
+                        clos, l'eau qu'ils contiennent s'évapore et il ne reste plus qu'une
+                        substance noirâtre : le charbon. </p>
+                  </div4>
                </div3>
-            </div2>
-            <div2 type="student_edition">
-               <div3 type="sujets" subtype="industrie">
+
+               <div3 industrie="machines_appareils">
                   <head type="sujets"> Industrie. </head>
-                  <list type="exercices">
-                     <item>— Quels vases, quels appareils, quels instruments voit-on dans un
-                        laboratoire ?</item>
-                  </list>
+                  <div4 type="questions">
+                     <list type="exercices">
+                        <item>— Quels vases, quels appareils, quels instruments voit-on dans un
+                           laboratoire ?</item>
+                     </list>
+                  </div4>
+
+                  <div4 type="réponses">
+                     <p>On remarque dans un laboratoire des fourneaux, des creusets, des fioles et
+                        des tubes de verre, des chalumeaux, des lampes à esprit-de-vin, des cornues,
+                        des appareils qui produisent de l'électricité. </p>
+                     <p>Les <rs>cornues</rs> ressemblent à des poires creuses de verre et se
+                        prolongent en un tube allongé.</p>
+                  </div4>
                </div3>
-            </div2>
-            <div2 type="teacher_edition">
-               <div3 type="sujets" subtype="industrie">
-                  <p>On remarque dans un laboratoire des fourneaux, des creusets, des fioles et des
-                     tubes de verre, des chalumeaux, des lampes à esprit-de-vin, des cornues, des
-                     appareils qui produisent de l'électricité. </p>
-                  <p>Les <rs>cornues</rs> ressemblent à des poires creuses de verre et se prolongent
-                     en un tube allongé.</p>
-               </div3>
-            </div2>
-            <div2 type="student_edition">
-               <div3 type="sujets" subtype="agriculture">
+
+               <div3 sciences_physiques="generale">
                   <head type="sujets"> Agriculture. </head>
-                  <list type="exercices">
-                     <item>— Que nous apprennent l'horticulture et l'arboriculture ?</item>
-                  </list>
-               </div3>
-            </div2>
-            <div2 type="teacher_edition">
-               <div3 type="sujets" subtype="agriculture">
-                  <p><rs>L'horticulture</rs>, branche de la science de l'agriculture, nous apprend
-                     quels soins il faut donner à un jardin (<rs>hortus</rs>, en latin) pour en
-                     obtenir de bons produits en abondance. <rs>L'arboriculture</rs> traite des
-                     arbres fruitiers et des moyens de les améliorer. </p>
+                  <div4 type="questions">
+                     <list type="exercices">
+                        <item>— Que nous apprennent l'horticulture et l'arboriculture ?</item>
+                     </list>
+                  </div4>
+
+                  <div4 type="réponses">
+                     <p><rs>L'horticulture</rs>, branche de la science de l'agriculture, nous
+                        apprend quels soins il faut donner à un jardin (<rs>hortus</rs>, en latin)
+                        pour en obtenir de bons produits en abondance. <rs>L'arboriculture</rs>
+                        traite des arbres fruitiers et des moyens de les améliorer. </p>
+                  </div4>
                </div3>
 
             </div2>

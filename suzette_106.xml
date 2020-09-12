@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="out/suzette_custom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -212,11 +212,10 @@
    </teiHeader>
    <text>
       <body>
-         <div1 type="chapter" xml:lang="fr" corresp="#ch106">
+         <div1 type="chapitre" xml:lang="fr" corresp="#ch106">
             <head> 106. — Au Jardin d'acclimatation*. (Élève, p. 227.) </head>
             <pb type="page" n="372"/>
-            <div2 type="student_edition">
-               <div3 type="récit">
+            <div2 type="récit">
 
                   <p> Nouvelle fête ! On traversa une riante partie du bois de Boulogne* <gloss>Bois
                         de Boulogne. Grand parc et lieu de promenade à l’O. de Paris.</gloss> ; on
@@ -269,11 +268,9 @@
 
                   <fw type="header"> 374 SUZETTE. </fw>
                   <pb type="page" n="374"/>
-               </div3>
             </div2>
 
-            <div2 type="teacher_edition">
-               <div3 type="questionnaire">
+               <div2 type="questionnaire">
                   <head> Questionnaire. </head>
                   <list>
                      <item>— Quel chemin suivit-on pour se rendre au Jardin d'acclimatation ?</item>
@@ -286,14 +283,15 @@
                      <item>— De quoi se souvenait la tante Richard et où conduisit-elle sa nièce
                         ?</item>
                   </list>
-               </div3>
-            </div2>
+               </div2>
+            
 
-            <div2 type="student_edition">
+            <div2 type="exercices">
                <head> DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES. </head>
 
-               <div3 type="sujets" subtype="histoire_naturelle">
+               <div3 histoire_naturelle="">
                   <head type="sujets"> Histoire naturelle. </head>
+                  <div4 type="questions">
                   <list type="exercices">
                      <item>— Que savez-vous de l'éléphant</item>
                      <item>— (origine, taille, aspect, qualités, défauts ; services qu'il rend)
@@ -301,18 +299,16 @@
                      <item>— des poneys ?</item>
                      <item>— de l'autruche ?</item>
                   </list>
-               </div3>
-            </div2>
-
-            <div2 type="teacher_edition">
-               <div3 type="sujets" subtype="histoire_naturelle">
-                  <p>L'<rs>éléphant</rs> est le plus grand des animaux terrestres ; ses proportions
+                  </div4>
+              
+              <div4 type="réponses">
+                  <p>L'<term>éléphant</term> est le plus grand des animaux terrestres ; ses proportions
                      sont lourdes, son corps épais, sa démarche pesante, mais sa physionomie est
                      imposante et noble. Il a une tête énorme avec deux immenses et minces oreilles
                      que l'animal fait remuer et claquer à plaisir ; l'œil est petit et la bouche
                      est armée de dents énormes dont deux font saillie et peuvent atteindre 2m,50 de
-                     longueur ; on les désigne sous le nom de <rs>défenses</rs>.</p>
-                  <p>La <rs>trompe</rs> de l'éléphant est le nez prolongé d'une façon démesurée en
+                     longueur ; on les désigne sous le nom de <term>défenses</term>.</p>
+                  <p>La <term>trompe</term> de l'éléphant est le nez prolongé d'une façon démesurée en
                      forme de tube, et qui se termine par les ouvertures des narines. Elle est à la
                      fois l'organe de l'odorat, un membre pour saisir et une arme redoutable ; elle
                      accomplit toutes les fonctions de la main, à ce point qu'avec son aide
@@ -331,11 +327,11 @@
                      les plus grands services pour le transport des hommes et des marchandises. Son
                      caractère est doux ; il est reconnaissant ; mais sa susceptibilité est extrême
                      et il sait se venger de ceux qui le taquinent ou le maltraitent. </p>
-                  <p>Les <rs>poneys</rs> sont une race étrangère de chevaux, originaire des îles
+                  <p>Les <term>poneys</term> sont une race étrangère de chevaux, originaire des îles
                      Shetland ; ce sont de véritables miniatures ; il en est qui
                      atteignent à peine à la hauteur des chiens de Terre-Neuve. Malgré leur petite
                      taille, ils sont robustes et résistent parfaitement à la fatigue. </p>
-                  <p>L'<rs>autruche</rs>, que l'on trouve seulement en Afrique et en Arabie, est le
+                  <p>L'<term>autruche</term>, que l'on trouve seulement en Afrique et en Arabie, est le
                      plus gros des oiseaux connus ; sa tête peut atteindre jusqu'à 2m,50 de hauteur.
                      Cet animal ne peut voler, mais il court très vite sur de longues et fortes
                      pattes armées d'ongles redoutables, surtout lorsque le vent gonfle les larges
@@ -345,11 +341,11 @@
                      cet animal, et on lui fait, pour cette raison, une chasse active. Cependant on
                      a essayé de le domestiquer, et déjà en Algérie et dans la colonie du Cap, son
                      élevage donne un revenu considérable.</p>
+              </div4>
                </div3>
-            </div2>
-
-            <div2 type="student_edition">
-               <div3 type="sujets" subtype="histoire_naturelle">
+          
+               <div3 histoire_naturelle="">
+                  <div4 type="questions">
                   <list type="exercices">
                      <item>PIERRES PRÉCIEUSES.</item>
                      <item>— Qu'entend-on par pierres précieuses ?</item>
@@ -359,20 +355,18 @@
                      <item>— Où trouve-t-on les diamants ?</item>
                      <item>— Connaissez-vous quelques diamants célèbres ?</item>
                   </list>
-               </div3>
-            </div2>
-
-            <div2 type="teacher_edition">
-               <div3 type="sujets" subtype="histoire_naturelle">
-                  <p>On entend par <rs>pierres précieuses</rs> des pierres d'une dureté et d'un
+                  </div4>
+              
+              <div4 type="réponses">
+                  <p>On entend par <term>pierres précieuses</term> des pierres d'une dureté et d'un
                      brillant extraordinaires, qualités auxquelles se joignent des couleurs
                      éclatantes, sauf chez les diamants. Elles sont recherchées pour leur éclat et
                      leur rareté. Plus communes et moins coûteuses, elles rendraient de grands
                      services dans l'industrie ; mais jusqu'ici on ne les emploie que dans la
                      confection des parures.</p>
                   <p>Les principales pierres précieuses sont : les diamants, les rubis, les
-                     émeraudes, les saphirs, les topazes, les améthystes. On entend par <rs>pierres
-                        fines</rs> celles qui approchent des pierres précieuses pour la dureté et le
+                     émeraudes, les saphirs, les topazes, les améthystes. On entend par <term>pierres
+                        fines</term> celles qui approchent des pierres précieuses pour la dureté et le
                      brillant : telles sont les agates, les onyx, les cornalines. </p>
                   <p>Les diamants sont limpides comme du cristal et jettent mille feux quand ils
                      sont taillés ; les rubis ont une couleur rouge ; les émeraudes sont vertes ;
@@ -381,32 +375,30 @@
                      se présente sous la forme de cristaux très brillants, limpides et transparents
                      ; mais, souvent, ils sont recouverts d'une gangue plus ou moins épaisse. On a
                      remarqué qu'ils accompagnent une sorte de terrain sablonneux et ferrugineux. </p>
-                  <p>Parmi les diamants les plus célèbres, il faut citer : le <rs>Régent</rs>, qui
+                  <p>Parmi les diamants les plus célèbres, il faut citer : le <term>Régent</term>, qui
                      pèse 31 grammes ; il appartient à la France et on estime sa valeur à 8 millions
-                     ; — le <rs>Koh-i-Noor</rs>, ou <rs>Montagne de lumière</rs>, qui est la
+                     ; — le <term>Koh-i-Noor</term>, ou <term>Montagne de lumière</term>, qui est la
                      propriété de la reine d'Angleterre et a été payé 6 millions ; — le plus beau
                      diamant de la couronne de Russie pèse près de 40 grammes.</p>
+              </div4>
                </div3>
-            </div2>
 
-            <div2 type="student_edition">
-               <div3 type="sujets" subtype="histoire_naturelle">
+               <div3 histoire_naturelle="">
+                  <div4 type="questions">
                   <list type="exercices">
                      <item>Qu'appelle-t-on faune, flore d'un pays ?</item>
                   </list>
+                  </div4>
+               
+               <div4 type="réponses">
+                  <p> On appelle <term>faune</term> d'un pays l'ensemble des animaux qui habitent ce
+                     pays, et <term>flore</term> l'ensemble des plantes qui y croissent. </p>
+               </div4>
                </div3>
-            </div2>
 
-            <div2 type="teacher_edition">
-               <div3 type="sujets" subtype="histoire_naturelle">
-                  <p> On appelle <rs>faune</rs> d'un pays l'ensemble des animaux qui habitent ce
-                     pays, et <rs>flore</rs> l'ensemble des plantes qui y croissent. </p>
-               </div3>
-            </div2>
-
-            <div2 type="student_edition">
-               <div3 type="sujets" subtype="économie_domestique">
+               <div3 économie_domestique="generale">
                   <head type="sujets"> Économie domestique. </head>
+                  <div4 type="questions">
                   <list type="exercices">
                      <item>— Qu'entend-on par climat ;</item>
                      <item>— par acclimater en France une plante, un animal ?</item>
@@ -414,15 +406,13 @@
                      <item>— Que peut-on retirer d'avantageux d'une visite au Jardin d'acclimatation
                         ?</item>
                   </list>
-               </div3>
-            </div2>
-
-            <div2 type="teacher_edition">
-               <div3 type="sujets" subtype="économie_domestique">
-                  <p> On entend par <rs>climat</rs> la région, le pays, principalement en égard à la
+                  </div4>
+               
+               <div4 type="réponses">
+                  <p> On entend par <term>climat</term> la région, le pays, principalement en égard à la
                      température de l'air ; on désigne encore, par ce mot, la température
                      particulière à une contrée.</p>
-                  <p><rs>Acclimater</rs> une plante, un animal en France, c'est accoutumer cette
+                  <p><term>Acclimater</term> une plante, un animal en France, c'est accoutumer cette
                      plante et cet animal à la température et à l'influence de notre pays.</p>
                   <p>Depuis quelques siècles, on a acclimaté en Europe le maïs, le tabac, la pomme
                      de terre, le dahlia, le dindon, qui viennent d'Amérique ; la pintade, que nous
@@ -434,6 +424,7 @@
                      meilleurs procédés d'élevage pour certaines races de volailles, de chiens, de
                      bestiaux qu'il y aurait intérêt à élever simultanément avec les nôtres dans les
                      fermes et autres exploitations agricoles. </p>
+               </div4>
                </div3>
 
             </div2>

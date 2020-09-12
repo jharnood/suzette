@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Suzette: a Digital Edition</title>
+                <respStmt>
+                    <persName>John Westbrook</persName>
+                    <orgName>Bucknell University</orgName>
+                    <resp>Editor</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Sarah Haber</persName>
+                    <orgName>Bucknell University</orgName>
+                    <resp>Research Assistant and Encoder, 2020 - Present</resp>
+                </respStmt>
+                <respStmt>
+                    <persName xml:id="JAKA1">Diane Jakacki</persName>
+                    <orgName>Bucknell University</orgName>
+                    <resp>Project Manager</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Annie Girton</persName>
+                    <orgName>Bucknell University</orgName>
+                    <resp>Research Assistant and Encoder, 2018-2020</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Bucknell University</distributor>
+                <pubPlace>
+                    <address>
+                        <addrLine>One Dent Drive</addrLine>
+                        <addrLine>Lewisburg, PA 17837</addrLine>
+                    </address>
+                </pubPlace>
+                <availability>
+                    <licence>Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles.
+                            Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine –
+                            Couture</title>
+                        <author>Robert Halt</author>
+                        <textLang>French</textLang>
+                        <imprint>
+                            <date>1889</date>
+                            <distributor>Libraire Classique Paul Delaplane</distributor>
+                            <pubPlace>Paris, France</pubPlace>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <list>
+                    <item xml:id="âme">L'âme</item>
+                    <item xml:id="enfant_école"> L'enfant dans école </item>
+                    <item xml:id="enfant_famille"> L'enfant dans la famille </item>
+                    <item xml:id="envers_dieu"> Devoirs envers Dieu </item>
+                    <item xml:id="envers_semblables"> Devoirs envers nos semblables </item>
+                    <item xml:id="envers_serviteur"> Devoirs envers les serviteurs </item>
+                    <item xml:id="envers_soi-même"> Devoirs envers soi-même </item>
+                    <item xml:id="extérieurs"> Les biens extérieurs </item>
+                    <item xml:id="fréres_soeurs"> Devoirs des frères et soeurs </item>
+                    <item xml:id="patrie"> La patrie </item>
+                    <item xml:id="instruction_civique"> Instruction civique </item>
+                    <item xml:id="civilité"> Civilité </item>
+                    <item xml:id="français"> Français </item>
+                    <item xml:id="descriptions"> Descriptions </item>
+                    <item xml:id="lettres"> Lettres </item>
+                    <item xml:id="récits"> Récits </item>
+                    <item xml:id="récits_historiques"> Récits historiques </item>
+                    <item xml:id="sujets-moraux_imagination"> Sujets-moraux ou d'imagination </item>
+                    <item xml:id="histoire"> Histoire </item>
+                    <item xml:id="afrique"> Afrique </item>
+                    <item xml:id="amérique"> Amérique </item>
+                    <item xml:id="asie"> Asie </item>
+                    <item xml:id="europe"> Europe </item>
+                    <item xml:id="france"> France </item>
+                    <item xml:id="géographie"> Géographie </item>
+                    <item xml:id="océanie"> Océanie </item>
+                    <item xml:id="minéraux"> Minéraux </item>
+                    <item xml:id="sciences_naturelles"> Sciences Naturelles </item>
+                    <item xml:id="végétaux"> Végétaux </item>
+                    <item xml:id="arbres_non_cultivés"> 1° Arbres Non Cultivés </item>
+                    <item xml:id="herbes_plantes_sauvages"> 2° Herbes ou Plantes Sauvages </item>
+                    <item xml:id="arbres_cultivés"> 3° Arbres Cultivés </item>
+                    <item xml:id="arbustes_cultivés"> 4° Arbustes Cultivés </item>
+                    <item xml:id="céréales"> 5° Céréales </item>
+                    <item xml:id="legumes_racines"> 6° Légumes, Racines, etc. </item>
+                    <item xml:id="divers_végétaux"> 7° Divers (Vegetaux) </item>
+                    <item xml:id="homme"> 1° L'Homme </item>
+                    <item xml:id="animaux_domestiques"> 2° Animaux Domestiques </item>
+                    <item xml:id="animaux_sauvages"> 3° Animaux Sauvages </item>
+                    <item xml:id="sciences_physiques"> Notions Relatives aux Sciences Physiques </item>
+                    <item xml:id="matières_objets_fabriques"> Matières et objets fabriqués </item>
+                    <item xml:id="construction"> Construction </item>
+                    <item xml:id="machines_appareils"> Machines, appareils, ustensiles, vases </item>
+                    <item xml:id="outils"> Outils </item>
+                    <item xml:id="etoffes_habillement"> Étoffes, habillement </item>
+                    <item xml:id="divers_industrie"> Divers (Industrie) </item>
+                    <item xml:id="économie_domestique"> Économie Domestique </item>
+                    <item xml:id="aliments_cuisine"> Aliments et cuisine </item>
+                    <item xml:id="vêtements_domestiques"> Vêtements </item>
+                    <item xml:id="basse-cour"> Basse-cour </item>
+                    <item xml:id="corps_habitations"> Corps et habitations </item>
+                    <item xml:id="vêtements_hygiene"> Vêtements (Hygiene) </item>
+                    <item xml:id="aliments"> Aliments </item>
+                    <item xml:id="maladies_remèdes"> Maladies, etc.; remèdes </item>
+                </list>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fr">French</language>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="chapitre" xml:lang="fr" n="#ch043">
+                <!-- within div1 add attributes for @n and @corresp (from which you will choose the listed chapter) -->
+                <head type="chapitre"> 43. — Cours, mon aiguille !... (Élève, p. 93.)</head>
+                <pb type="page" n="150"/>
+                <!-- there are three div2 types: récit, questionnaire, and exercices. When you add the @type attribute, you should be given all three options to choose from -->
+                <div2 type="récit">
+
+                    <!-- All of récit is contained within the div2 element (no nested div3s until the exercises portion of the chapter) -->
+
+                    <!-- There are two types of figures: illustration and sujets. Tagging should look like this:
+                            <figure type="illustration">
+                                <caption>[TEXT FROM PDF HERE]</caption>
+                            </figure>
+                        -->
+                    <p>« Cours, mon aiguille, dans la laine », et dans le coton et dans la toile,
+                        partout où tu as à faire! Car le rapiécetage* <gloss>Rapiécetage. Action de mettre des pièces à des vêtements.</gloss> d'une maisonnée de deux hommes
+                        et de deux gamins est une rude besogne.</p>
+                    <p>Le meilleur de la garde-robe* <gloss>Garde-robe. Les vêtements, les hardes de jour et de nuit. </gloss> avait brûlé; et ce qu'il en restait devait être
+                        soigné comme la prunelle des yeux, afin de pouvoir durer le plus longtemps
+                        possible, jusqu'à ce qu'on eût gagné quelque argent.</p>
+                    <p>De bon matin, avant le ménage, et tard, après la journée faite, la main
+                        industrieuse * <gloss>Main industrieuse. Qui sait faire les choses avec soin et économie.</gloss> de la couturière allait, vive et leste, décousant, rapiéçant,
+                        faufilant, cousant, sans débrider.</p>
+                    <p>M. François, à lui seul, l'eût empochée de chômer. Oublieux de son crime et
+                        aussi des constantes recommandations de ménager son pantalon, ses
+                        chaussures, sa veste, il reprenait bonne vie de coureur des bois. </p>
+                    <p>Suzette avait beau lever les bras au ciel, gémir, se <figure>
+                            <caption>La main industrieuse de |a couturière allait, vive et
+                                leste.</caption>
+                        </figure>
+                        <fw type="header">COURS, MON AIGUILLE! 151</fw>
+                        <pb type="page" n="151"/> fâcher devant chaque nouvelle déchirure; la
+                        déchirure ne guérissait pas sur de simples discours; il y fallait
+                        l'aiguille, François avait, d'ailleurs, sa façon de s'excuser:</p>
+                    <p>— Je t'assure, Suzette, qu'en grimpant à l'arbre, j'ai pris mille
+                        précautions! C'est le drap qui ne vaut rien.</p>
+                    <p>Cependant, Monsieur ne manquait pas de coquetterie. Un soir que sa soeur
+                        appliquait au bon endroit d'un pantalon gris une pièce verte, d'un vert
+                        assez passé :</p>
+                    <p>— Qu'est-ce que c'est que ça? demanda-t-il avec mauvaise humeur.</p>
+                    <p>— Ça, Monsieur? répondit-elle vivement, un peu piquée, car elle savait bien
+                        qu'elle ne faisait pas là un chef-d'oeuvre* <gloss>Chef-d'œuvre. Œuvre supérieure.</gloss>, ça, Monsieur, ce n'est pas de
+                        la tôle; et c'est grand dommage, la tôle étant le drap qui conviendrait à un
+                        muscadin * <gloss>Muscadin. Jeune homme prétentieux et élégant.</gloss> de votre sorte!</p>
+                    <p>— Je ne mettrai pas ce pantalon, je t'en réponds bien!... Je t'en fais
+                        cadeau.</p>
+                    <p>— Merci; je vous donnerai un jupon on échange, Le père, Jacques et Chariot
+                        venaient d'entrer pour le souper. M, Dumay regarda de loin le travail de
+                        Suzette, et s'approcha pour regarder encore :</p>
+                    <p>— Je ne me trompe pas, non, c'est l'habit vert! Où as-tu trouvé cette
+                        pièce-là, Suzette?</p>
+                    <p>— Dans un paquet de vieux chiffons sauvés de l'incendie.</p>
+                    <p>— Eh bien ! ma -fille, reprit-il en souriant, voilà le reste d'un vêtement
+                        célèbre.</p>
+                    <p>— Célèbre! Racontez-nous ça, père, je vous en prie!</p>
+                    <p>À ce moment parut le vieux Benoit, le père de Ludivine, un vieux, tout
+                        ratatiné* <gloss>Ratatiné, Rapetissé par l'âge, ridé.</gloss>, en bonnet de coton bleu, qui venait de temps en temps fumer sa
+                        pipe en compagnie. Dès qu'il fut assis :</p>
+                    <p>— Papa, racontez! répétèrent les enfants.</p>
+
+
+                    <!-- don't forget to include the <fw type="header">[SOME TEXT]</fw> for text at top of printed page -->
+                    <fw type="header">[TEXT FROM TOP OF PRINTED PAGE HERE]</fw>
+                    <!-- don't forget to include the page number in page break, so <pb type="page" n="##"/> -->
+                    <pb type="page" n="ADD PAGE NUMBER HERE"/>
+
+                </div2>
+
+                <div2 type="questionnaire">
+                    <!-- The Questionnaire is a list of items. When there is a column break in how they are presented on the page, just add a <cb /> to indicate where that break occurs -->
+                    <head>Questionnaire.</head>
+                    <list>
+                        <item>— Que disait Suzette pour s'encourager au raccommodage?</item>
+                        <item>— Que savez-vous de la garderobe de la famille?</item>
+                        <item>— Dites comment Suzette se montrait laborieuse.</item>
+                        <item>— Quelle était la façon d'agir do François?</item>
+                        <item>— Que faisait Suzette on constatant le mauvais état des vêtements de
+                            son frère?</item>
+                        <item>— Que <cb/> répondait ce dernier?</item>
+                        <item>— Reproduisez la conversation qu'ils eurent ensemble à propos d'une
+                            pièce verte.</item>
+                        <item>— Que dit le papa en regardant le travail de la jeune
+                            couturière?</item>
+                        <item>— Qui entra sur ces entrefaites?</item>
+                        <item>— Faites le portrait du père Benoît.</item>
+                    </list>
+
+                </div2>
+
+                <fw type="header"> 152 SUZETTE.</fw>
+                <pb type="page" n="152"/>
+                <div2 type="exercices">
+                    <head>DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES</head>
+
+                    <!-- in the div2 type="exercices" section, add div3 for the sujets as labelled in the chapter. Example: ...-->
+                    <div3 type="morale">
+                        <head type="sujets">Morale.</head>
+
+                        <!-- within the div3 there should be 2 div4 choices: questionnaire and réponses Each div3 should have at least one set of these div4 sections-->
+                        <div4 type="questions">
+                            <list type="exercices">
+                                <head>— DU TRAVAIL.</head>
+                                <item>— Quels travaux, quelles occupations sont le lot de la femme
+                                    dans son ménage, 1° si elle n'a pas de fortune,</item>
+                                <item>— 2° si elle est obligée de se faire servir?</item>
+                                <item>— Conséquences heureuses du travail de la femme et de la bonne
+                                    direction qu'elle donne à son intérieur.</item>
+                                <!-- Need to understand what this exchange means -->
+
+                            </list>
+                        </div4>
+
+                        <!-- In teacher edition (réponses) certain words and phrases refer either explicitly or implicitly to the Classification section.  You can connect all of these connections using pre-loaded xml:ids, for exmaple:-->
+                        <div4 type="réponses" ana="#extérieurs">
+                            <!-- using the xml:ids was the only way I could get at the complexity of multiple connections within a section -->
+                            <!-- for the italicized terms and phrases in a réponse, wrap it in a <term> tag. We'll figure out what to do with it later. -->
+                            <p>Parmi les femmes qui ont à coeur leurs devoirs et qui comprennent
+                                leurs responsabilités, il n'en est aucune qui reste oisive dans son
+                                ménage.</p>
+                            <p>Si elle ne peut se faire servir, quo d'occupations s'imposent à elle!
+                                Tenir propres les enfants, le linge, la maison; préparer la cuisine;
+                                mettre le couvert, laver la vaisselle; raccommoder les vêtements,
+                                faire les achats, enfin partager avec son mari les soins que
+                                réclament l'éducation des enfants et leur santé* Souvent, à cotto
+                                tâche écrasante s'ajoute, à la campagne, la tenue de la basse-cour
+                                et du potager ; à la ville; la pratique d'un métier. Dans ces
+                                conditions, la vie de la femme est bien méritoire et digne de tous
+                                les respects.</p>
+                            <p>La plupart des femmes qui peuvent se faire servir, sont déchargées
+                                des travaux les plus fatigants du ménage, mais leur responsabilité
+                                augmente par suite des devoirs que leur imposent la direction et la
+                                surveillance des domestiques, Cependant elles ne sauraient rester
+                                étrangères aux soins que réclament leurs enfants, quelque pénibles,
+                                qu'ils soient. Elles ont également à s'occuper de la tenue de leur
+                                maison, à régler les dépenses de façon à éviter le gaspillage, à
+                                recevoir les personnes avec lesquelles elles sont en relation, à
+                                participer aux bonnes oeuvres qui incombent à tous ceux que la
+                                fortune favorisé.</p>
+                            <p>C'est la femme qui fait la maison, c'est-à-dire qui l'enrichit ou la
+                                ruine. Le mari apporte le fruit de son travail et la femme
+                                administré. C'est à elle, qu'en tout temps, revient d'ailleurs la
+                                plus forte part dans l'éducation des enfants et le soin de former
+                                ses filles à leur rôle futur.</p>
+                            <p>Les femmes que rien ne saurait fixer dans leur intérieur et qui, pour
+                                leur distraction et leur agrément, passent la meilleure partie du
+                                jour en promenade et en visites, ne sont dignes ni du titre
+                                d'épouses ni du beau nom de mères.</p>
+                        </div4>
+                        <!-- you should follow the <div3> <div4> pattern for each of the categories listed in the chapter -->
+                    </div3>
+
+                    <div3 type="industrie">
+                        <head type="sujets">Industrie.</head>
+                        <div4 type="questions">
+                            <list type="exercices">
+                                <item>— Qu'est-ce qu'une aiguille ?</item>
+                                <item>— Comment fabrique-t-on les aiguilles?</item>
+                                <item>— Qualités d'une bonne aiguille à coudre.</item>
+                                <item>— Diverses sortes d'aiguilles.</item>
+                                <item>— Mêmes questions pour les épingles. </item>
+                            </list>
+                        </div4> 
+
+                        <div4 type="réponses" ana="#outils">
+                            <head>AIGUILLES.</head>
+                            <p>— Une <term>aiguille</term> est une petite tige d'acier ou d'un autre métal
+                                pointue par un bout et percée par l'autre; on s'en sert pour coudre,
+                                pour broder ou pour fixer les objets de toilette dans une position
+                                déterminée.</p>
+                            <p><term>La fabrication des aiguilles</term> est une opération compliquée qui
+                                nécessite le concours de nombreux ouvriers. On prépare des fils
+                                d'excellent acier qu'on assemble on bottes, et un ouvrier les coupe
+                                eh brins d'une longueur-égale à celle de deux aiguilles (1). Un
+                                second ouvrier placé devant une meule qui tourne rapidement, les
+                                aiguisé à chaque extrémité, et les passe à un autre qui les coupe
+                                par le milieu.</p>
+                            <p>Ensuite on aplatit l'extrémité opposée à la pointe au moyen d'un
+                                marteau, et l'on y pratique une rainure qui dirigera le fil et le
+                                maintient droit. Des enfants sont chargés de ropèràtion délicate de
+                                percer le trou ou chas par lequel passera le fil ; on polit-
+                                l'intérieur de cette ouverture et enfin, après avoir fait rougir les
+                                aiguilles on les jette <fw type="footer">(1) En une heure, il en
+                                    peut couper do 36 à 40,000.</fw>
+                                <fw type="header">LE VIEIL HABIT VERT. 153</fw>
+                                <pb type="page" n="153"/> toutes brillantes dans un bain d'eau
+                                glacée, ce qui leur donne une extrême dureté.</p>
+                            <p>Le dégraissage, le polissage et la mise en paquets sont les dernières
+                                opérations.</p>
+                            <!--<head>ÉPINGLES.</head>  -->
+                            <p>— <term>La fabrication des épingles</term>  est beaucoup moins compliquée ot
+                                analogue à celle qu'on a écrite pour les aiguilles.</p>
+                            <p>Un ouvrier coupe les fils de laiton en longueurs égales à celle de
+                                trois ou quatre épingles; un autre les divise ; un troisième forme
+                                la pointe sur une moulo ; d'autres font la tôte, soit on roulant un
+                                fil de laiton autour du sommet de la potito tige, soit en
+                                aplatissant une extrémité de cette dernière. Il ne reste plus qu'à
+                                nettoyer les épingles, à les ôter, à les polir et à les réunir on
+                                paquets, à moins qu'on ne les entasse dans des boîtes d'un poids
+                                déterminé.</p>
+                            <p>Les épingles d'acier sont d'un usage très restreint.</p>
+                        </div4>
+                    </div3>
+
+                    <div3 type="économie_domestique">
+                        <head type="sujets">Économie domestique.</head>
+                        <div4 type="questions">
+                            <list type="exercices">
+                                <item>— Quels travaux peut-on exécuter avec une aiguille à
+                                    coudre?</item>
+                                <item>— Quels travaux peut-on exécuter avec une aiguille à
+                                    tricoter?</item>
+                                <item>— Combien y a-t-il d'aiguilles dans un paquet?</item>
+                                <item>— Quel est le prix d'un paquet d'aiguilles de qualité
+                                    moyenne?</item>
+                                <item>— Quelles sont les qualités des épingles en acier?</item>
+                                <item>— Quelles épingles sont préférables pour les usages
+                                    ordinaires?</item>
+                            </list>
+                        </div4>
+
+                        <div4 type="réponses" ana="#vêtements_domestiques">
+                            <p>Les travaux que l'on peut exécuter avoc uno aiguille à coudre sont :
+                                les ourlets, les surjets, les reprises, les piqûres, los broderies,
+                                los boutonnières, etc.</p>
+                            <p>Avec une aiguille à tricoter, on confectionne des bas, des
+                                chaussettes, des mitaines, des poignets, des fichus, des cache-nez,
+                                des bretelles, des jupons, etc.</p>
+                            <p>N. B. — On a jugé stipo fiu do donner la matière des réponses qui
+                                terminent le paragraphe, mosdamos les institutrices étant
+                                d'excellents juges en la matière.</p>
+                        </div4>
+                    </div3>
+
+                    <div3 type="économie_domestique" subtype="calcul">
+                        <head type="sujets">Calcul.</head>
+                        <div4 type="questions">
+                            <list type="exercices">
+                                <item>— Que gagne-t-on à raccommoder, à repriser et à
+                                    rapiécer?</item>
+                                <item>— Prenez pour base de votre calcul un tablier, toi corsage,
+                                    six paires de bas de coton, une paire de chaussons.</item>
+                            </list>
+                        </div4>
+
+                        <div4 type="réponses" ana="#vêtements_domestiques">
+                            <p>Un tablier non raccommodé, non rapiécé est hors de service après mois
+                                d'usage. Si on lo raccommode, si l'on y mot dos pièces, on dépensera
+                                on fil , on étoffe , etc.; total Mais le tablier pourra faire encore
+                                un bon usage pendant mois. L'usage d'un tablier qu'on ne raccommode
+                                pas, revient à par mois.</p>
+                            <p>On le fait durer do plus. Bénéfice brut.......</p>
+                            <p>A déduire le prix du fil ot dos pièces. ..... ....</p>
+                            <p>Bénéfice net. . ....</p>
+                            <p>(Procéder de la même manière pour les autres objets.)</p>
+                        </div4>
+                    </div3>
+
+                </div2>
+            </div1>
+
+
+        </body>
+    </text>
+</TEI>
