@@ -717,7 +717,7 @@ lg{
 }
 list{
     display: block;
-    list-style-type: disc;
+    list-style-type: dash;
     list-style-position: outside;
     margin-bottom: 1em;
     margin-left: 2em;
