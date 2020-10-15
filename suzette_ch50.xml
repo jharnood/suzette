@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css" title="Suzette CWRC-Writer" alternate="no"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?><TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -138,79 +135,79 @@
                 <pb type="page" n="174"/>
                 <div2 type="récit">
                     <p> 
-                       <lb />Jusqu'à épuisement de la basse-cour, du clapier*, des 
-                    <lb />choux, des chrysanthèmes, ils retournèrent à la ville, le 
-                    <lb />samedi.
+                       <lb/>Jusqu'à épuisement de la basse-cour, du clapier*, des 
+                    <lb/>choux, des chrysanthèmes, ils retournèrent à la ville, le 
+                    <lb/>samedi.
                    </p>
                 <p>
-                    <lb />Et maintenant faisons nos comptes! d'abord ceux du
+                    <lb/>Et maintenant faisons nos comptes! d'abord ceux du
                     </p>
                     
-                <pb type="page" n='175'/>
+                <pb type="page" n="175"/>
                 <p>
                     
                         <fw>FAISONS NOS COMPTES. 175</fw> 
-                        <lb />ménage et de la ferme. Ils furent rendus en famille, un 
-                        <lb />soir, et joyeusement, par la ménagère. Pendant cette 
-                        <lb />dure année, elle avait nourri, blanchi, habillé la mai-
-                        <lb />sonnée, et, tous les frais déduits, elle posa sur la table 
-                        <lb />deux cent quarante francs de gain.
+                        <lb/>ménage et de la ferme. Ils furent rendus en famille, un 
+                        <lb/>soir, et joyeusement, par la ménagère. Pendant cette 
+                        <lb/>dure année, elle avait nourri, blanchi, habillé la mai-
+                        <lb/>sonnée, et, tous les frais déduits, elle posa sur la table 
+                        <lb/>deux cent quarante francs de gain.
                 </p>
                 <p>
-                        <lb />L'économie, l'ingéniosité, l'industrie* de Suzette fu-
-                        <lb />rent louées comme il convenait par le père.
+                        <lb/>L'économie, l'ingéniosité, l'industrie* de <persName type="Fictional">Suzette</persName> fu-
+                        <lb/>rent louées comme il convenait par le père.
                 </p>
                 <p>
-                        <lb />Mais François et Charlot réclamèrent leur part des 
-                        <lb />compliments : François, pour avoir confectionné les 
-                        <lb />cabanes à claire-voie* pour les lapins, de jolies petites 
-                        <lb />cabanes bièn élevées au-dessus du sol, très gentiment 
-                        <lb />exposées au midi, comme M. Valon lui avait dit de le 
-                        <lb />faire. Si les dames de Saint-Quentin s'étaient si bien 
-                        <lb />jetées sur les lapins, c'était en partie à lui, François, 
-                        <lb />qu'on le devait !
+                        <lb/>Mais François et Charlot réclamèrent leur part des 
+                        <lb/>compliments : François, pour avoir confectionné les 
+                        <lb/>cabanes à claire-voie* pour les lapins, de jolies petites 
+                        <lb/>cabanes bièn élevées au-dessus du sol, très gentiment 
+                        <lb/>exposées au midi, comme M. Valon lui avait dit de le 
+                        <lb/>faire. Si les dames de Saint-Quentin s'étaient si bien 
+                        <lb/>jetées sur les lapins, c'était en partie à lui, François, 
+                        <lb/>qu'on le devait !
                 </p>
                 <p>
-                        <lb />— Et à moi aussi ! ajouta Charlot ; car, qui est allé 
-                        <lb />chercher les herbes, les lacerons, les coquelicots, la 
-                        <lb />luzerne ?
+                        <lb/>— Et à moi aussi ! ajouta Charlot ; car, qui est allé 
+                        <lb/>chercher les herbes, les lacerons, les coquelicots, la 
+                        <lb/>luzerne ?
                 </p>
                 <p>
-                        <lb />MM. Charlot et François furent donc félicités, et ils 
-                        <lb />se rengorgèrent un peu. Après quoi Jacques, ouvrant 
-                        <lb />un grand livre posé devant lui sur la table, y lut l'énu-
-                        <lb />mération* des recettes et des dépenses. Parmi ces 
-                        <lb />dernières se trouvait l'intérêt* payé des 3,500 francs de 
-                        <lb />l'emprunt pour la reconstruction de la maison.
+                        <lb/>MM. Charlot et François furent donc félicités, et ils 
+                        <lb/>se rengorgèrent un peu. Après quoi Jacques, ouvrant 
+                        <lb/>un grand livre posé devant lui sur la table, y lut l'énu-
+                        <lb/>mération* des recettes et des dépenses. Parmi ces 
+                        <lb/>dernières se trouvait l'intérêt* payé des 3,500 francs de 
+                        <lb/>l'emprunt pour la reconstruction de la maison.
                 </p>
                 <p>
-                        <lb />Avec cela on joignait les deux bouts, et sans trop 
-                        <lb />tirer dessus*. Pour une année qui débuta par un in-
-                        <lb />cendie, n'était-ce pas admirable ?
+                        <lb/>Avec cela on joignait les deux bouts, et sans trop 
+                        <lb/>tirer dessus*. Pour une année qui débuta par un in-
+                        <lb/>cendie, n'était-ce pas admirable ?
                 </p>
                 <p>
-                        <lb />M. Dumay se frotta joyeusement les mains.
-                        <lb />— Voilà de bons chiffres, dit-il, et de braves enfants.
+                        <lb/>M. Dumay se frotta joyeusement les mains.
+                        <lb/>— Voilà de bons chiffres, dit-il, et de braves enfants.
                     </p>
                 <p>
-                        <lb />— Mon père, répondit Jacques, répétons-le encore :
+                        <lb/>— Mon père, répondit Jacques, répétons-le encore :
                 </p>
                 <p>
-                        <lb />celui qui possède un morceau, quelque petit qu'il soit, de 
-                        <lb />cette bonne, généreuse et nourricière terre de France, 
-                        <lb />n'a pas le droit de se dire sans ressources. Tant qu'il 
-                        <lb />nous en restera une motte, nous sommes sûrs de ne pas
-                        <lb />mourir de faim !
+                        <lb/>celui qui possède un morceau, quelque petit qu'il soit, de 
+                        <lb/>cette bonne, généreuse et nourricière terre de France, 
+                        <lb/>n'a pas le droit de se dire sans ressources. Tant qu'il 
+                        <lb/>nous en restera une motte, nous sommes sûrs de ne pas
+                        <lb/>mourir de faim !
                 </p>
                 <p>
-                        <lb />— Eh bien ! dit le père gaiement, c est le moment de 
-                        <lb />pendre la crémaillère ! Après-demain, le premier jan-
-                        <lb />vier, grande fête ! Nous avons le temps d'inviter des 
-                        <lb />amis.    
+                        <lb/>— Eh bien ! dit le père gaiement, c est le moment de 
+                        <lb/>pendre la crémaillère ! Après-demain, le premier jan-
+                        <lb/>vier, grande fête ! Nous avons le temps d'inviter des 
+                        <lb/>amis.    
                 </p>
                 </div2>
                 <div2 type="questionnaire">
-                <pb type="page" n='176'/>
+                <pb type="page" n="176"/>
                     <fw type="header">176 SUZETTE.</fw>
                     
                         <head>Questionnaire. </head>
@@ -234,10 +231,10 @@
                             <div4 type="questions">
                                 <head type="sujets">Morale. </head>
                                 <p>— Comment les plus jeunes enfants même peuvent-ils 
-                        <lb />se rendre utiles à la maison,  soit qu'ils habitent la campagne, soit 
-                        <lb />qu'ils résident à la ville ? — Doivent-ils attendre qu'on demande leurs 
-                        <lb />petits services, et pourquoi ? — Comment agira, dans ce cas, une jeune 
-                        <lb />fille prévenante ?</p>
+                        <lb/>se rendre utiles à la maison,  soit qu'ils habitent la campagne, soit 
+                        <lb/>qu'ils résident à la ville ? — Doivent-ils attendre qu'on demande leurs 
+                        <lb/>petits services, et pourquoi ? — Comment agira, dans ce cas, une jeune 
+                        <lb/>fille prévenante ?</p>
                             </div4>
                             
                             <!-- OR -->
@@ -255,41 +252,41 @@
                             </div4>
                      <div4 type="réponses"> 
                          <p>      
-                        <lb />Les enfants, même les plus jeunes, peuvent se rendre utiles de bien 
-                        <lb />des manières. A la campagne, imitant François et Charlot, ils arrache-
-                        <lb />ront les mauvaises herbes, surveilleront les volailles, nettoieront la 
-                        <lb />cour, arroseront les légumes et les fleurs, aideront leur père et leur 
-                        <lb />mère dans leurs travaux multiples. A la ville, les jeunes filles partici-
-                        <lb />peront aux soins du ménage et de la cuisine, garderont leurs plus 
-                        <lb />jeunes frères et soeurs, se chargeront sans murmurer des commissions 
-                        <lb />qu'on leur confiera, etc, etc. Leur concours sera d'autant plus méri-
-                        <lb />toire, qu'ils l'offriront de meilleur coeur; ils n'attendront donc point 
-                        <lb />qu'on le leur réclame, s'ils prévoient à l'avance ce à quoi ils peuvent 
-                        <lb />être employés.
+                        <lb/>Les enfants, même les plus jeunes, peuvent se rendre utiles de bien 
+                        <lb/>des manières. A la campagne, imitant François et Charlot, ils arrache-
+                        <lb/>ront les mauvaises herbes, surveilleront les volailles, nettoieront la 
+                        <lb/>cour, arroseront les légumes et les fleurs, aideront leur père et leur 
+                        <lb/>mère dans leurs travaux multiples. A la ville, les jeunes filles partici-
+                        <lb/>peront aux soins du ménage et de la cuisine, garderont leurs plus 
+                        <lb/>jeunes frères et soeurs, se chargeront sans murmurer des commissions 
+                        <lb/>qu'on leur confiera, etc, etc. Leur concours sera d'autant plus méri-
+                        <lb/>toire, qu'ils l'offriront de meilleur coeur; ils n'attendront donc point 
+                        <lb/>qu'on le leur réclame, s'ils prévoient à l'avance ce à quoi ils peuvent 
+                        <lb/>être employés.
                             </p>
                        <p>     
-                        <lb />Dans cet ordre d'idées, une jeune fille prévenante se rendra compte 
-                        <lb />chaque jour, et dès la première heure de la matinée, des travaux à la 
-                        <lb />charge de sa mère ; elle lui offrira immédiatement de la seconder ; 
-                        <lb />puis, au retour de la classe, elle agira de même aussitôt qu'elle aura 
-                        <lb />achevé le travail supplémentaire que madame l'institutrice aura prescrit.
+                        <lb/>Dans cet ordre d'idées, une jeune fille prévenante se rendra compte 
+                        <lb/>chaque jour, et dès la première heure de la matinée, des travaux à la 
+                        <lb/>charge de sa mère ; elle lui offrira immédiatement de la seconder ; 
+                        <lb/>puis, au retour de la classe, elle agira de même aussitôt qu'elle aura 
+                        <lb/>achevé le travail supplémentaire que madame l'institutrice aura prescrit.
                                             </p>
                      </div4>
                         </div3>
                     <div3 type="composition">
                         <div4 type="questions">
                         <p>
-                            <lb />Composition. — (A LA CAMPAGNE) Décrire un colombier que                     
-                        <lb />l'on devra visiter. — Parler non seulement de sa construction, de son 
-                        <lb />agencement, mais encore des oiseaux, de leurs nids et du produit.
+                            <lb/>Composition. — (A LA CAMPAGNE) Décrire un colombier que                     
+                        <lb/>l'on devra visiter. — Parler non seulement de sa construction, de son 
+                        <lb/>agencement, mais encore des oiseaux, de leurs nids et du produit.
 </p>                        
                         </div4>
                         <div4 type="réponses">
-                    <p><lb />(A LA VILLE). Décrire une cage avec ses oiseaux.
+                    <p><lb/>(A LA VILLE). Décrire une cage avec ses oiseaux.
                     
-                        <lb />(Voir comme modèles les exercices 1 et 2, pages 230 et 231 du COURS 
-                        <lb />DE COMPOSITION FRANÇAISE (Degré élémentaire et moyen, Partie du 
-                        <lb />maître), par E. LAPORTE.)
+                        <lb/>(Voir comme modèles les exercices 1 et 2, pages 230 et 231 du COURS 
+                        <lb/>DE COMPOSITION FRANÇAISE (Degré élémentaire et moyen, Partie du 
+                        <lb/>maître), par E. LAPORTE.)
                     </p>
                         </div4>
                     </div3>
@@ -297,9 +294,9 @@
                         <div4 type="questions">
                             <head type="sujets">Économie domestique. </head>
                         <p>— Combien se vendent : un bon poulet, 
-                        <lb />une douzaine d'oeufs frais en hiver et en été, deux poulets de l'année, 
-                        <lb />une oie grasse, un canard, un lapin d'un an, une couple de pigeons 
-                        <lb />de moyenne grosseur ?
+                        <lb/>une douzaine d'oeufs frais en hiver et en été, deux poulets de l'année, 
+                        <lb/>une oie grasse, un canard, un lapin d'un an, une couple de pigeons 
+                        <lb/>de moyenne grosseur ?
                         </p>
                         </div4>
                         <div4 type="réponses">
@@ -310,37 +307,37 @@
                                 <cell>....</cell>
                             </row>
                             <row>
-                                <cell></cell>
+                                <cell/>
                                 <cell>Prix d'un bon poulet en été </cell>
                                 <cell>....</cell>
                             </row>
                             <row>
-                                <cell></cell>
+                                <cell/>
                                 <cell>Prix d'une douzaine d'oeufs frais en hiver</cell>
                                 <cell>....</cell>
                             </row>
                             <row>
-                                <cell></cell>
+                                <cell/>
                                 <cell>Prix d'une couple de pigeons</cell>
                                 <cell>....</cell>
                             </row>
                             <row>
-                                <cell></cell>
+                                <cell/>
                                 <cell>Prix d'une douzaine d'oeufs, etc., etc.</cell>
                                 <cell>....</cell>
                             </row>
                             <row>
-                                <cell></cell>
+                                <cell/>
                                 <cell>TOTAL</cell>
                                 <cell> ....</cell>
                             </row>
                         </table>
 
 <p>
-                        <lb />Comment  sera établi le livre de comptes d'une ménagère soigneuse 
-                        <lb />et économe ? — En donner le modèle écrit et le remplir pour une se-
-                        <lb />maine de la saison oú l'on se trouve. (Prendre des renseignements 
-                        <lb />auprès de sa maman pour le prix des choses.)
+                        <lb/>Comment  sera établi le livre de comptes d'une ménagère soigneuse 
+                        <lb/>et économe ? — En donner le modèle écrit et le remplir pour une se-
+                        <lb/>maine de la saison oú l'on se trouve. (Prendre des renseignements 
+                        <lb/>auprès de sa maman pour le prix des choses.)
                     
                 </p>
                         </div4>
@@ -352,21 +349,21 @@
                                     <head>Livre de comptes d'une ménagère.</head>
                                     <row>
                                         <cell>DATES.</cell>
-                                        <cell></cell>
+                                        <cell/>
                                         <cell>OBJETS DES DÉPENSES ET DES RECETTES.</cell>
-                                        <cell></cell>
+                                        <cell/>
                                         <cell>DÉPENSES. </cell>
-                                        <cell></cell>
+                                        <cell/>
                                         <cell>RECETTES.</cell>
                                     </row>
                                     <row>
                                         <cell>1888.</cell>
-                                        <cell></cell>
-                                        <cell></cell>
-                                        <cell></cell>
-                                        <cell></cell>
-                                        <cell></cell>
-                                        <cell></cell>
+                                        <cell/>
+                                        <cell/>
+                                        <cell/>
+                                        <cell/>
+                                        <cell/>
+                                        <cell/>
                                     </row>
                                     <row>
                                         <cell>Juin.</cell>
@@ -378,7 +375,7 @@
                                         <cell>"</cell>
                                     </row>
                                     <row>
-                                        <cell></cell>
+                                        <cell/>
                                         <cell>"</cell>
                                         <cell>1kg,500 de boeuf à 2fr,10..........</cell>
                                         <cell>3</cell>
@@ -387,7 +384,7 @@
                                         <cell>"</cell>
                                     </row>
                                     <row>
-                                        <cell></cell>
+                                        <cell/>
                                         <cell>"</cell>
                                         <cell>Montant d'une semaine de mon mari.</cell>
                                         <cell>"</cell>
@@ -405,17 +402,17 @@
                                         <cell>"</cell>
                                     </row>
                                     <row>
-                                        <cell></cell>
+                                        <cell/>
                                         <cell>"</cell>
                                         <cell>Pain de la semaine précédente :
-                                            <lb />6 kilogrammes à 0fr,42......</cell>
+                                            <lb/>6 kilogrammes à 0fr,42......</cell>
                                         <cell>2</cell>
                                         <cell>52</cell>
                                         <cell>"</cell>
                                         <cell>"</cell>
                                     </row>
                                     <row>
-                                        <cell></cell>
+                                        <cell/>
                                         <cell>"</cell>
                                         <cell>Soldé la note de l'épicier.........</cell>
                                         <cell>17</cell>
@@ -433,7 +430,7 @@
                                         <cell>15</cell>
                                     </row>
                                     <row>
-                                        <cell></cell>
+                                        <cell/>
                                         <cell>"</cell>
                                         <cell>Lait, 0fr,15; crème, 0fr,30......... </cell>
                                         <cell>"</cell>
@@ -442,7 +439,7 @@
                                         <cell>15</cell>
                                     </row>
                                     <row>
-                                        <cell></cell>
+                                        <cell/>
                                         <cell>"</cell>
                                         <cell>Beurre et fromage......</cell>
                                         <cell>1</cell>
@@ -460,7 +457,7 @@
                                         <cell>"</cell>
                                     </row>
                                     <row>
-                                        <cell></cell>
+                                        <cell/>
                                         <cell>"</cell>
                                         <cell>4 côtelettes à 0fr,30 (pour mémoire) </cell>
                                         <cell>"</cell>
@@ -472,24 +469,24 @@
                             
                     
                     <p>
-                        <lb />A la fin de chaque mois, on totalise les recettes et les dépenses et 
-                        <lb />l'on calcule la diffèrence ; c'est ce qu'on appelle établir la balance. On 
-                        <lb />voit ainsi la situation où l'on se trouve. Les objets achetés à crédit 
-                        <lb />seront suivis de la mention pour mémoire et l'on n'en inscrira point le 
-                        <lb />montant dans la colonne des dépenses. A la fin du mois, on les tota-
-                        <lb />lisera à part et on les ajoutera aux dépenses pour reconnaître ce qu'on 
-                        <lb />possède net ou ce dont on est endetté.
+                        <lb/>A la fin de chaque mois, on totalise les recettes et les dépenses et 
+                        <lb/>l'on calcule la diffèrence ; c'est ce qu'on appelle établir la balance. On 
+                        <lb/>voit ainsi la situation où l'on se trouve. Les objets achetés à crédit 
+                        <lb/>seront suivis de la mention pour mémoire et l'on n'en inscrira point le 
+                        <lb/>montant dans la colonne des dépenses. A la fin du mois, on les tota-
+                        <lb/>lisera à part et on les ajoutera aux dépenses pour reconnaître ce qu'on 
+                        <lb/>possède net ou ce dont on est endetté.
                     </p>
                         </div4>   
                         
                         <div4 type="réponses">
                     <head>Modèle de reçu ou quittance.</head>
                         <p>    
-                        <lb />Je, soussignée, reconnais avoir reçu de mademoiselle Quignon (Sylvia), 
-                        <lb />la somme de dix-sept francs vingt-cinq centimes, pour solde de l'achat 
-                        <lb />de volailles que je lui ai fait le 2 avril courant.
-                        <lb />ESTELLE DERRIE.
-                        <lb />Bordeaux, le 15 avril 1888.                 
+                        <lb/>Je, soussignée, reconnais avoir reçu de mademoiselle Quignon (Sylvia), 
+                        <lb/>la somme de dix-sept francs vingt-cinq centimes, pour solde de l'achat 
+                        <lb/>de volailles que je lui ai fait le 2 avril courant.
+                        <lb/>ESTELLE DERRIE.
+                        <lb/>Bordeaux, le 15 avril 1888.                 
                         </p>   
                 
                         </div4>
