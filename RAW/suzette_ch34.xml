@@ -161,10 +161,10 @@
                     <pb type="page" n="121"/>
 
                     <fw type="header"><lb/>ENFANT PERDU. 121</fw>
-                    <p><lb/>Castor, le chien, avait aussi disparu. On l'avpela, il <lb/>nè révondit
+                    <p><lb/>Castor,<objectName type="animal"> le chien</objectName>, avait aussi disparu. On l'avpela, il <lb/>nè révondit
                         nas olus que Francois.</p>
                     <p><lb/>Ludivine se ravpela que, vers la fin du sinistre*, elle <lb/>avait vu
-                        Francois raser* la grange et s'en aller vers <lb/>le chamn de betteraves On
+                        Francois raser* <objectName type="Building">la grange</objectName> et s'en aller vers <lb/>le chamn de betteraves On
                         y courut ; on battit* les en- <lb/>virons en anpelant. Rien ! </p>
                     <p><lb/>— Et nous pleurions sur do la pierre et du bois <lb/>perdus ! Ah ! mon
                         fils ! mon cher fils ! disait le père.</p>
@@ -176,9 +176,9 @@
                 <div2 type="questionnaire">
                     <head><lb/>Questionnaire.</head>
                     <list type="questionnaire">
-                        <item>— Que ait M. Du- <lb/>may au matin du iour du désastre ?</item>
+                        <item>— Que ait <persName type="Fictional">M. Du- <lb/>may</persName> au matin du iour du désastre ?</item>
                         <item>— <lb/>Qu'est-ce qui marquait sa douieur.</item>
-                        <item>— <lb/>Que firent et dirent Suzette et Jacques ?</item>
+                        <item>— <lb/>Que firent et dirent <persName type="Fictional">Suzette</persName> et Jacques ?</item>
                         <lb/>
                         <item>— Que demanda-t-on à Charlet ?</item>
                         <item>— Où <lb/>allèrent-ils tous ?</item>
