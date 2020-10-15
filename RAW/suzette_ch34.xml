@@ -161,7 +161,7 @@
                     <pb type="page" n="121"/>
 
                     <fw type="header"><lb/>ENFANT PERDU. 121</fw>
-                    <p><lb/>Castor,<objectName type="animal"> le chien</objectName>, avait aussi disparu. On l'avpela, il <lb/>nè révondit
+                    <p>Castor,<objectName type="animal"> le chien</objectName>, avait aussi disparu. On l'avpela, il <lb/>nè révondit
                         nas olus que Francois.</p>
                     <p><lb/>Ludivine se ravpela que, vers la fin du sinistre*, elle <lb/>avait vu
                         Francois raser* <objectName type="Building">la grange</objectName> et s'en aller vers <lb/>le chamn de betteraves On
@@ -174,19 +174,17 @@
                 </div2>
 
                 <div2 type="questionnaire">
-                    <head><lb/>Questionnaire.</head>
+                    <head>Questionnaire.</head>
                     <list type="questionnaire">
-                        <item>— Que ait <persName type="Fictional">M. Du- <lb/>may</persName> au matin du iour du désastre ?</item>
-                        <item>— <lb/>Qu'est-ce qui marquait sa douieur.</item>
-                        <item>— <lb/>Que firent et dirent <persName type="Fictional">Suzette</persName> et Jacques ?</item>
-                        <lb/>
-                        <item>— Que demanda-t-on à Charlet ?</item>
-                        <item>— Où <lb/>allèrent-ils tous ?</item>
-                        <item>— Qui manquait eucore <lb/>à l'appel ?</item>
+                        <item>— Que ait <persName type="Fictional">M. Dumay</persName> au matin du iour du désastre ?</item>
+                        <item>— Qu'est-ce qui marquait sa douieur.</item>
+                        <item>— Que firent et dirent <persName type="Fictional">Suzette</persName> et Jacques ?</item><item>— Que demanda-t-on à Charlet ?</item>
+                        <item>— Où allèrent-ils tous ?</item>
+                        <item>— Qui manquait eucore à l'appel ?</item>
                         <item>— Que révéla Charlot ?</item>
-                        <item>— <lb/>Quel renseignement donna Ludivine ?</item>
-                        <item>— <lb/>Que craignait M. Dumay ?</item>
-                        <item>— Où fallut-il <lb/>ramener la lamnte desolée ?</item>
+                        <item>— Quel renseignement donna Ludivine ?</item>
+                        <item>— Que craignait M. Dumay ?</item>
+                        <item>— Où fallut-il ramener la lamnte desolée ?</item>
                     </list>
                 </div2>
 
