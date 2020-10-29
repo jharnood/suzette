@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css" title="Suzette CWRC-Writer" alternate="no"?>
+<?xml-model href="https://raw.githubusercontent.com/djakacki/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="http://moravianlives.bucknell.edu.s3.amazonaws.com/data/ml_cwrc.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -133,9 +133,8 @@
         <body>
             <div1 type="chapitre" xml:lang="fr" corresp="#ch050">
                 
-                    
-                    <head type="chapter">50. — Faisons nos comptes. (Élève, p. 110.)</head>
                 <pb type="page" n="174"/>
+                    <head type="chapter">50. — Faisons nos comptes. (Élève, p. 110.)</head>                
                 <div2 type="récit">
                     <p> 
                        <lb />Jusqu'à épuisement de la basse-cour, du clapier*, des 
@@ -233,11 +232,11 @@
                         <div3 type="morale">
                             <div4 type="questions">
                                 <head type="sujets">Morale. </head>
-                                <p>— Comment les plus jeunes enfants même peuvent-ils 
-                        <lb />se rendre utiles à la maison,  soit qu'ils habitent la campagne, soit 
-                        <lb />qu'ils résident à la ville ? — Doivent-ils attendre qu'on demande leurs 
-                        <lb />petits services, et pourquoi ? — Comment agira, dans ce cas, une jeune 
-                        <lb />fille prévenante ?</p>
+                                <list>
+                                    <item>— Comment les plus jeunes enfants même peuvent-ils se rendre utiles à la maison,  soit qu'ils habitent la campagne, soit qu'ils résident à la ville ?</item> 
+                                    <item>— Doivent-ils attendre qu'on demande leurs petits services, et pourquoi ? </item>
+                                    <item>— Comment agira, dans ce cas, une jeune fille prévenante ?</item>
+                                </list>
                             </div4>
                             
                             <!-- OR -->
