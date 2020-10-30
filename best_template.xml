@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/djakacki/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="http://moravianlives.bucknell.edu.s3.amazonaws.com/data/ml_cwrc.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -131,29 +132,8 @@
     <text>
         <body>
             <div>
-                <p><l>60. — A travers les jungles. (Élève, p. 129.)</l>
-                    <l>— Eh bien ! voici. Nous ne restâmes à Zanzibar que </l>
-                    <l>juste le temps de nous joindre à une caravane* qui </l>
-                    <l>partait pour le pays </l>
-                    <l>de Benguéla. Elle </l>
-                    <l>comptait soixante-</l>
-                    <l>quatre chameaux de </l>
-                    <l>robe* brune, blan-</l>
-                    <l>che ou cendrée, </l>
-                    <l>avec leurs beaux </l>
-                    <l>yeux doux de ga-</l>
-                    <l>zelle*. Nous mon-</l>
-                    <l>tions chacun le </l>
-                    <l>nôtre, assis entre </l>
-                    <l>les deux bosses, — </l>
-                    <l>on n&apos;est pas là aussi </l>
-                    <l>Les vovageurs s&apos;assemblent en troupes pour </l>
-                    <l>traverser les déserts avec plus de sûreté et forment </l>
-                    <l>ce qu&apos;on appelle une caravane.</l>
-                    <l>commodément que sur cette chaise, mais on s&apos;y fait; </l>
-                    <l>— et nous voilà partis avec une pacotille de calicot,</l>
-                
-                <!-- needs the rest of the chapter --></p>
+                <p>
+                </p>
             </div>
         </body>
     </text>
