@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/djakacki/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="http://moravianlives.bucknell.edu.s3.amazonaws.com/data/ml_cwrc.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -130,144 +131,158 @@
     </teiHeader>
     <text>
         <body>
-            <div>
-                <p><l>53. — Au dessert. (Élève, p. 116.)</l>
-                    <l>Rien n&apos;avait pu tirer de l&apos;esprit de Ludivine que la </l>
-                    <l>guérison du nez de François n&apos;eût été l&apos;effet de cet </l>
-                    <l>onguent, à l&apos;odeur effroyable. Rien non plus ne par-</l>
-                    <l>vint à lui mettre en tête qu&apos;il n&apos;existe pas de sort, bon </l>
-                    <l>ou mauvais. Mme Valon lui dit en vain que le travail, </l>
-                    <l>le courage, l&apos;honnêteté, la bonté, font surtout notre </l>
-                    <l>destinée*; elle abandonna </l>
-                    <l>l&apos;inutile discours à l&apos;appa-</l>
-                    <l>rition du rôti porté par </l>
-                    <l>Suzette.</l>
-                    <l>Ce rôti était un morceau </l>
-                    <l>de filet de porc, mais si</l>
-                    <l>doré, si joli, si odorant, si </l>
-                    <l>appétissant, que l&apos;eau en </l>
-                    <l>venait à la bouche. Et dès </l>
-                    <l>que les morceaux furent </l>
-                    <l>au bout des fourchettes, on </l>
-                    <l>félicita la cuisinière.</l>
-                    <l>Le porc est un des animaux les plus </l>
-                    <l>utiles pour l&apos;alimentation. Les soies du </l>
-                    <l>porc servent à confectionner des brosses </l>
-                    <l>fines et des pinceaux.</l>
-                    <l>— N&apos;est-ce pas, mon-</l>
-                    <l>sieur Benoît, demanda Mme  Valon, que voilà un rôti joli-</l>
-                    <l>ment  préparé ? Aussi y a-t-on  mis du temps et du soin.</l>
+            
+                <div1 type="chapitre"><head>53. — Au dessert. (Élève, p. 116.)</head>
+                </lb> Rien n&apos;avait pu tirer de l&apos;esprit de Ludivine que la 
+                    </lb>guérison du nez de François n&apos;eût été l&apos;effet de cet 
+                    </lb>onguent, à l&apos;odeur effroyable. Rien non plus ne par-
+                    </lb>vint à lui mettre en tête qu&apos;il n&apos;existe pas de sort, bon 
+                    </lb>ou mauvais. Mme Valon lui dit en vain que le travail, 
+                    </lb>le courage, l&apos;honnêteté, la bonté, font surtout notre 
+                    </lb>destinée*; elle abandonna 
+                    </lb>l&apos;inutile discours à l&apos;appa-
+                    </lb>rition du rôti porté par 
+                    </lb>Suzette.
+                    </lb>Ce rôti était un morceau 
+                    </lb>de filet de porc, mais si
+                    </lb>doré, si joli, si odorant, si 
+                    </lb>appétissant, que l&apos;eau en 
+                    </lb>venait à la bouche. Et dès 
+                    </lb>que les morceaux furent 
+                    </lb>au bout des fourchettes, on 
+                    </lb>félicita la cuisinière.
+                    </lb>Le porc est un des animaux les plus 
+                    </lb>utiles pour l&apos;alimentation. Les soies du 
+                    </lb>porc servent à confectionner des brosses 
+                    </lb>fines et des pinceaux.
+                    </lb>— N&apos;est-ce pas, mon-
+                    </lb>sieur Benoît, demanda Mme  Valon, que voilà un rôti joli-
+                    </lb>ment  préparé ? Aussi y a-t-on  mis du temps et du soin.
                     </lg>
-                </p>
+               
                 <pb n='13'/>
                 <p>
                     <lg>
-                        <l>186 SUZETTE.</l>
-                        <l>— Beaucoup trop ! beaucoup trop ! répondit le père </l>
-                        <l>Benoît. Voulez-vous que je vous dise ? je trouve qu&apos;à </l>
-                        <l>cette heure on fait bien des embarras pour rôtir un mor-</l>
-                        <l>ceau de cochon.</l>
-                        <l>— Des embarras ! dit Mme Valon ; mais on en faisait </l>
-                        <l>jadis cent et mille fois plus pour rôtir seulement un </l>
-                        <l>petit cochon de lait ! Voulez-vous l&apos;apprendre ? Mon </l>
-                        <l>mari va vous dire après dîner ce qu&apos;il lisait hier dans </l>
-                        <l>un auteur anglais, Charles Lamb. Pour la digestion*, </l>
-                        <l>d&apos;ailleurs, rien ne vaut une bonne histoire.</l>
-                        <l>Le rôti, les légumes, les flans* mangés, et le café servi, </l>
-                        <l>M. Valo commença :</l>
-                        <l>Questionnaire. — Quelles opi-</l>
-                        <l>nions ridicules avait Ludivine ? — Qu&apos;est-</l>
-                        <l>ce qui fait notre destinée ? — Quel nouveau </l>
-                        <l>plat apporta Suzette et quel en était </l>
-                        <l>l&apos;aspect ? — Que dit Mme Valon au père </l>
-                        <l>Benoît ? — Quelle remarque malveil-</l>
-                        <l>lante fit le vieillard ? — Reproduisez la </l>
-                        <l>réponse piquante de Mme Valon. — Que </l>
-                        <l>lui proposa-t-elle ? </l>
-                        <l>DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES.</l>
-                        <l>Sciences naturelles. — LE PORC. — Aspect repoussant de cet </l>
-                        <l>animal; sa brutalité; son utilité. — Facilités qu&apos;on trouve à le nour-</l>
-                        <l>rir. — Détails sur ta manière de le nourrir; les porchers. — Parler </l>
-                        <l>du porc sauvage ou sanglier. — Rappeler qu&apos;aux Etats-Unis, dans </l>
-                        <l>l&apos;État d&apos;Illinois, on élève des porcs en nombre prodigieux.</l>
-                        <l>Le porc, animal domestique, s&apos;élève pour sa chair et sa graisse. Sa </l>
-                        <l>tête énorme, sa gueule fendue, ses mouvements brusques, son cri </l>
-                        <l>perçant, joint à l&apos;habitude qu&apos;il contracte de se vautrer sur la terre </l>
-                        <l>humide, lui donnent un aspect repoussant. Toutefois, peu d&apos;animaux </l>
-                        <l>sont plus utiles ; on en tire une viande excellente et grasse qui s&apos;ac-</l>
-                        <l>commode avec les légumes les plus communs et constitue, dans ces </l>
-                        <l>conditions, un mets économique et nourrissant.</l>
-                        <l>On nourrit les porcs à l&apos;étable avec du son, les glutens des amidon-</l>
-                        <l>neries, les drèches des distilleries de grains, les pommes de terre, </l>
-                        <l>l&apos;orge, le sarrasin, les carottes et les débris de la cuisine. Dans les </l>
-                        <l>pays montagneux où la terre a peu de valeur, les porchers mènent </l>
-                        <l>paître ces animaux, réunis en bandes, sur les friches et les chaumes.</l>
-                        <l>Aux Etats-Unis, on élève les porcs en nombre prodigieux; la ville </l>
-                        <l>de Chicago et celle de Cincinnati en exportent plus d&apos;un million par an.</l>
-                        <l>Le porc vit, à l&apos;état sauvage, dans les bois et les forêts, sous le nom </l>
-                        <l>de sangtier : c&apos;est un animal dangereux et malfaisant, qui dévaste les </l>
-                        <l>terres cultivées voisines des bois et des forêts où il établit son gîte.</l>
-                        <l>Industrie. — Emploi des soies du porc pour la fabrication des </l>
-                        <l>brosses. — En quoi consiste une brosse ordinaire ? — Comment fabri-</l>
-                        <l>que-t-on une brosse ? — Nommer diverses sortes de brosses et les usages </l>
-                        <l>de chacune d&apos;elles.</l>
-                        <l>Les soies de porc ou de sanglier servent à la fabrication des brosses.</l>
-                        <l>Cet ustensile, employé pour le nettoyage des vêtements et des chaus-</l>
-                        <l>sures, se compose de deux parties : la patte et les soies. La patte est</l>
+                        </lb>186 SUZETTE.
+                        </lb>— Beaucoup trop ! beaucoup trop ! répondit le père 
+                        </lb>Benoît. Voulez-vous que je vous dise ? je trouve qu&apos;à 
+                        </lb>cette heure on fait bien des embarras pour rôtir un mor-
+                        </lb>ceau de cochon.
+                        </lb>— Des embarras ! dit Mme Valon ; mais on en faisait 
+                        </lb>jadis cent et mille fois plus pour rôtir seulement un 
+                        </lb>petit cochon de lait ! Voulez-vous l&apos;apprendre ? Mon 
+                        </lb>mari va vous dire après dîner ce qu&apos;il lisait hier dans 
+                        </lb>un auteur anglais, Charles Lamb. Pour la digestion*, 
+                        </lb>d&apos;ailleurs, rien ne vaut une bonne histoire.
+                        </lb>Le rôti, les légumes, les flans* mangés, et le café servi, 
+                        </lb>M. Valo commença :
+                        <div2 type="questionnaire">
+                        <head>Questionnaire.</head> <list>
+                            <item>— Quelles opinions ridicules avait Ludivine ?</item> 
+                            <item>— Qu&apos;est-ce qui fait notre destinée ?</item> 
+                           <item> — Quel nouveau plat apporta Suzette et quel en était l&apos;aspect ?</item> 
+                            <item>— Que dit Mme Valon au père Benoît ?</item> 
+                            <item>— Quelle remarque malveillante fit le vieillard ?</item> 
+                            <item>— Reproduisez la réponse piquante de Mme Valon. </item>
+                            <item>— Que lui proposa-t-elle ?</item>
+                        </list> </div2>
+                       <div2 type="exercices"> 
+                       <head> DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES.</head>
+                        <div3 type="sciences naturelles">
+                        <div4 type="questions">
+                        </lb><head>Sciences naturelles.</head> 
+                        <list><item>— LE PORC.</item> 
+                            <item>— Aspect repoussant de cet animal; sa brutalité; son utilité.</item> 
+                            <item>— Facilités qu&apos;on trouve à le nourrir. </item>
+                            <item>— Détails sur ta manière de le nourrir; les porchers.</item> 
+                            <item>— Parler du porc sauvage ou sanglier.</item> 
+                            <item>— Rappeler qu&apos;aux Etats-Unis, dans l&apos;État d&apos;Illinois, on élève des porcs en nombre prodigieux.</item></list></div4>
+                        <div4 type="réponses">
+                       <p> </lb>Le porc, animal domestique, s&apos;élève pour sa chair et sa graisse. Sa 
+                        </lb>tête énorme, sa gueule fendue, ses mouvements brusques, son cri 
+                        </lb>perçant, joint à l&apos;habitude qu&apos;il contracte de se vautrer sur la terre 
+                        </lb>humide, lui donnent un aspect repoussant. Toutefois, peu d&apos;animaux 
+                        </lb>sont plus utiles ; on en tire une viande excellente et grasse qui s&apos;ac-
+                        </lb>commode avec les légumes les plus communs et constitue, dans ces 
+                        </lb>conditions, un mets économique et nourrissant.
+                        </lb>On nourrit les porcs à l&apos;étable avec du son, les glutens des amidon-
+                        </lb>neries, les drèches des distilleries de grains, les pommes de terre, 
+                        </lb>l&apos;orge, le sarrasin, les carottes et les débris de la cuisine. Dans les 
+                        </lb>pays montagneux où la terre a peu de valeur, les porchers mènent 
+                        </lb>paître ces animaux, réunis en bandes, sur les friches et les chaumes.
+                        </lb>Aux Etats-Unis, on élève les porcs en nombre prodigieux; la ville 
+                        </lb>de Chicago et celle de Cincinnati en exportent plus d&apos;un million par an.
+                        </lb>Le porc vit, à l&apos;état sauvage, dans les bois et les forêts, sous le nom 
+                        </lb>de sangtier : c&apos;est un animal dangereux et malfaisant, qui dévaste les 
+                        </lb>terres cultivées voisines des bois et des forêts où il établit son gîte.</p></div4></div3>
+                        <div3 type="industrie">
+                        <div4 type="questions">
+                        </lb><head>Industrie.</head> 
+                            <list><item>— Emploi des soies du porc pour la fabrication des brosses.</item> 
+                                <item>— En quoi consiste une brosse ordinaire ? </item>
+                                <item>— Comment fabrique-t-on une brosse ? </item>
+                                <item>— Nommer diverses sortes de brosses et les usages de chacune d&apos;elles.</item>
+                            </list></div4>
+                        <div4 type="réponses">
+                        </lb>Les soies de porc ou de sanglier servent à la fabrication des brosses.
+                        </lb>Cet ustensile, employé pour le nettoyage des vêtements et des chaus-
+                        </lb>sures, se compose de deux parties : la patte et les soies. La patte est
                     </lg>
-                </p>
+              
                 <pb n='14'/>
-                <p>
+             
                     <lg>
-                        <l>PETITS COCHONS DE LAIT. 187</l>
-                        <l>une plaque de bois ou d&apos;os percée de trous par lesquels on enfile de </l>
-                        <l>petits paquets de soies reliés les uns aux autres par des fils de laiton.</l>
-                        <l>Le poil est égalisé ensuite pour former la surface avec laquelle on </l>
-                        <l>brosse.</l>
-                        <l>Il y a des brosses de diverses sortes : brosses à habits, brosses à </l>
-                        <l>chapeaux, brosses à dents, à meubles, etc. Celles qui sont destinées à </l>
-                        <l>des usages délicats sont confectionnées avec des poils plus fins que </l>
-                        <l>ceux dont il vient d&apos;être question.</l>
-                        <l>Économie domestique. — Indiquer comment on utilise la </l>
-                        <l>chair, le sang, la graisse du porc. — De quelle manière prépare-t-</l>
-                        <l>on un rôti en général? — Garniture d&apos;un rôti. — Manière de le ser-</l>
-                        <l>vir et de le découper.</l>
-                        <l>La chair du porc entre dans la confection de nombre de mets; elle </l>
-                        <l>est d&apos;autant meilleure qu&apos;elle paraît plus ferme et plus rougeâtre ; le </l>
-                        <l>meilleur lard provient d&apos;animaux âgés de 12 à 15 mois.</l>
-                        <l>On mange la viande de porc rôtie, bouillie ou accommodée en ragoût.</l>
-                        <l>Les rôtis, les côtelettes, la galantine de cochon de lait, le fromage de </l>
-                        <l>cochon, sont connus de tout le monde. On prépare encore, suivant </l>
-                        <l>divers procédés, les rognons, les pieds, la langue, la hure, et avec la </l>
-                        <l>viande hachée et assaisonnée les charcutiers font des cervelas, des </l>
-                        <l>saucisses et des andouilles. Les cuissots, salés et fumés, prennent </l>
-                        <l>le nom de jambons.</l>
-                        <l>La viande de porc et le lard se conservent longtemps lorsqu&apos;ils ont </l>
-                        <l>été salés ; dans cet état, ils forment la base de l&apos;alimentation dans les </l>
-                        <l>campagnes.</l>
-                        <l>La graisse de porc, à l&apos;état naturel, s&apos;appelle le lard ; alors elle est </l>
-                        <l>adhérente à la peau. Le saindoux provient de la graisse fondue ; l&apos;un </l>
-                        <l>et l&apos;autre entrent comme assaisonnements dans quantité de plats.</l>
-                        <l>Avec le sang du porc, mêlé à de la graisse coupée en menus mor-</l>
-                        <l>ceaux, et divers assaisonnements, on fabrique le boudin, qu&apos;on mange </l>
-                        <l>ordinairement grillé.</l>
-                        <l>DES RÔTIS. — Pour obtenir un bon rôti, le premier soin est de pro-</l>
-                        <l>portionner l&apos;ardeur du feu à la nature des viandes.</l>
-                        <l>Le boeuf et le mouton demandent à être saisis par un feu vif; cepen-</l>
-                        <l>dant on ne hâtera pas trop la cuisson et on diminuera le feu graduel-</l>
-                        <l>lement. Le veau, le porc exigent moins de feu. Dans tous cas, il faut </l>
-                        <l>arroser souvent le morceau qu&apos;on fait rôtir, et pour cela on verse dans </l>
-                        <l>le plat ou dans la lèchefrite un demi-verre de bouillon avec une pin-</l>
-                        <l>cée de sel.</l>
-                        <l>Le veau doit être bien cuit, et il est mieux de l&apos;oindre de beurre que </l>
-                        <l>de graisse.</l>
-                        <l>On sert les rôtis sur un plat garni soit de pommes de terre ou de </l>
-                        <l>carottes cuites dans le jus de la viande, soit de cresson. Ce jus, recueilli </l>
-                        <l>dans la lèchefrite, se sert à part dans une saucière.</l>
-                        <l>On découpe les rôtis en tranches minces disposées sur un plat qu&apos;on </l>
-                        <l>fait circuler autour de la table ; la saucière, où l&apos;on a placé une cuiller, </l>
-                        <l>vient ensuite.</l></p>
-            </div>
+                        <fw>PETITS COCHONS DE LAIT. 187</fw>
+                        </lb>une plaque de bois ou d&apos;os percée de trous par lesquels on enfile de 
+                        </lb>petits paquets de soies reliés les uns aux autres par des fils de laiton.
+                        </lb>Le poil est égalisé ensuite pour former la surface avec laquelle on 
+                        </lb>brosse.
+                        </lb>Il y a des brosses de diverses sortes : brosses à habits, brosses à 
+                        </lb>chapeaux, brosses à dents, à meubles, etc. Celles qui sont destinées à 
+                        </lb>des usages délicats sont confectionnées avec des poils plus fins que 
+                        </lb>ceux dont il vient d&apos;être question.</div4></div3>
+                        <div3 type="economie domestique">
+                        </lb><head>Économie domestique.</head> 
+                           <list> <item>— Indiquer comment on utilise la chair, le sang, la graisse du porc.</item> 
+                            <item>— De quelle manière prépare-t-on un rôti en général? </item>
+                            <item>— Garniture d&apos;un rôti. — Manière de le servir et de le découper.</item></list>
+                        <div4 type= "réponses">
+                        </lb>La chair du porc entre dans la confection de nombre de mets; elle 
+                        </lb>est d&apos;autant meilleure qu&apos;elle paraît plus ferme et plus rougeâtre ; le 
+                        </lb>meilleur lard provient d&apos;animaux âgés de 12 à 15 mois.
+                        </lb>On mange la viande de porc rôtie, bouillie ou accommodée en ragoût.
+                        </lb>Les rôtis, les côtelettes, la galantine de cochon de lait, le fromage de 
+                        </lb>cochon, sont connus de tout le monde. On prépare encore, suivant 
+                        </lb>divers procédés, les rognons, les pieds, la langue, la hure, et avec la 
+                        </lb>viande hachée et assaisonnée les charcutiers font des cervelas, des 
+                        </lb>saucisses et des andouilles. Les cuissots, salés et fumés, prennent 
+                        </lb>le nom de jambons.
+                        </lb>La viande de porc et le lard se conservent longtemps lorsqu&apos;ils ont 
+                        </lb>été salés ; dans cet état, ils forment la base de l&apos;alimentation dans les 
+                        </lb>campagnes.
+                        </lb>La graisse de porc, à l&apos;état naturel, s&apos;appelle le lard ; alors elle est 
+                        </lb>adhérente à la peau. Le saindoux provient de la graisse fondue ; l&apos;un 
+                        </lb>et l&apos;autre entrent comme assaisonnements dans quantité de plats.
+                        </lb>Avec le sang du porc, mêlé à de la graisse coupée en menus mor-
+                        </lb>ceaux, et divers assaisonnements, on fabrique le boudin, qu&apos;on mange 
+                        </lb>ordinairement grillé.
+                        </lb>DES RÔTIS. — Pour obtenir un bon rôti, le premier soin est de pro-
+                        </lb>portionner l&apos;ardeur du feu à la nature des viandes.
+                        </lb>Le boeuf et le mouton demandent à être saisis par un feu vif; cepen-
+                        </lb>dant on ne hâtera pas trop la cuisson et on diminuera le feu graduel-
+                        </lb>lement. Le veau, le porc exigent moins de feu. Dans tous cas, il faut 
+                        </lb>arroser souvent le morceau qu&apos;on fait rôtir, et pour cela on verse dans 
+                        </lb>le plat ou dans la lèchefrite un demi-verre de bouillon avec une pin-
+                        </lb>cée de sel.
+                        </lb>Le veau doit être bien cuit, et il est mieux de l&apos;oindre de beurre que 
+                        </lb>de graisse.
+                        </lb>On sert les rôtis sur un plat garni soit de pommes de terre ou de 
+                        </lb>carottes cuites dans le jus de la viande, soit de cresson. Ce jus, recueilli 
+                        </lb>dans la lèchefrite, se sert à part dans une saucière.
+                        </lb>On découpe les rôtis en tranches minces disposées sur un plat qu&apos;on 
+                        </lb>fait circuler autour de la table ; la saucière, où l&apos;on a placé une cuiller, 
+                        </lb>vient ensuite.</div4></div3></div2>
+                </div1>
         </body>
     </text>
 </TEI>
