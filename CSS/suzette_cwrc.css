@@ -413,6 +413,12 @@ extent{
 bibl extent{
     display: inline;
 }
+
+fw{
+   display:inline-block;
+   color: navy;
+   font-style: italic;
+}
 graphic{
     color: gray;
     background-color: inherit;
@@ -554,6 +560,13 @@ body > div > div > div > head:before{
 */
     color: black;
     background-color: inherit;
+}
+
+head {
+    background-color: gray;
+    color: black;
+    font-weight: bold;
+    font-size: large;
 }
 hi{
     display: inline;
