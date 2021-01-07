@@ -16,17 +16,19 @@
     **********    
  *
  */
-/* Use Georgia for default font */
+/* Use Arial for default font */
 TEI{
     margin: 10px 25px;
-    font-family: Georgia, serif;
+    font-family: Arial, sans_serif;
     line-height: 1.9em;
+    font-size: 1em;
 }
-
-/*  added <ab> styling - same as <p> */
+font
+/*  added <ab> styling - adding left margin */
 ab{
     display: block;
     margin-bottom: 0.5em;
+    margin-left: 2em;
 }
 
 abbr{
