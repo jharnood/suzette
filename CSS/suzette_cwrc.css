@@ -414,9 +414,10 @@ bibl extent{
     display: inline;
 }
 
+/* Suzette - formwords */
 fw{
    display:inline-block;
-   color: navy;
+   color: red;
    font-style: italic;
 }
 graphic{
@@ -562,11 +563,12 @@ body > div > div > div > head:before{
     background-color: inherit;
 }
 
+/* Suzette working on head section */
 head {
-    background-color: gray;
     color: black;
     font-weight: bold;
     font-size: large;
+    background-color: silver;
 }
 hi{
     display: inline;
