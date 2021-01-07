@@ -659,6 +659,7 @@ list item{
 item{
     display: list-item;
     margin-left: 12pt;
+    list-style-type: none;
 }
 item[n]:before{
     content: attr(n) ". ";
