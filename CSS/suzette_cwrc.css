@@ -16,17 +16,19 @@
     **********    
  *
  */
-/* Use Georgia for default font */
+/* Use Arial for default font */
 TEI{
     margin: 10px 25px;
-    font-family: Georgia, serif;
+    font-family: Arial, sans_serif;
     line-height: 1.9em;
+    font-size: 1.2em;
 }
-
-/*  added <ab> styling - same as <p> */
+font
+/*  added <ab> styling - adding left margin */
 ab{
     display: block;
     margin-bottom: 0.5em;
+    margin-left: 2em;
 }
 
 abbr{
@@ -413,6 +415,16 @@ extent{
 bibl extent{
     display: inline;
 }
+
+/* Suzette - formwords */
+fw{
+   display:inline-block;
+   color: gray;
+   font-style: italic;
+   margin-bottom: 1em;
+   margin-top: 1em;
+   font-size: 1em;
+}
 graphic{
     color: gray;
     background-color: inherit;
@@ -555,6 +567,22 @@ body > div > div > div > head:before{
     color: black;
     background-color: inherit;
 }
+
+/* Trying to add "Chapitre" before chapter # 
+head:before{
+    content: "Chapitre ";
+    font-weight: bold;
+    font-size: 1.2em; 
+}
+ * /
+/* Suzette working on head section */
+head {
+    color: black;
+    font-weight: bold;
+    font-size: 1.2em;
+        margin-bottom: 1em;
+}
+
 hi{
     display: inline;
     background-color: yellow;
@@ -642,6 +670,7 @@ list item{
 item{
     display: list-item;
     margin-left: 12pt;
+    list-style-type: none;
 }
 item[n]:before{
     content: attr(n) ". ";
