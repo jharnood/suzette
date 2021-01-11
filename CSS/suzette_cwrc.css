@@ -419,8 +419,11 @@ bibl extent{
 /* Suzette - formwords */
 fw{
    display:inline-block;
-   color: red;
+   color: gray;
    font-style: italic;
+   margin-bottom: 1em;
+   margin-top: 1em;
+   font-size: 1em;
 }
 graphic{
     color: gray;
