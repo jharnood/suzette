@@ -569,13 +569,17 @@ body > div > div > div > head:before{
 head:before{
     content: "Chapitre ";
     font-weight: bold;
-    font-size: 1em;
+    font-size: 1.2em;
 }
 /* Suzette working on head section */
 head {
     color: black;
     font-weight: bold;
-    font-size: 1em;
+    font-size: 1.2em;
+}
+
+head:after{
+    margin-bottom: 5em;
 }
 hi{
     display: inline;
