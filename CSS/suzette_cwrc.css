@@ -565,12 +565,17 @@ body > div > div > div > head:before{
     background-color: inherit;
 }
 
+/* Trying to add "Chapitre" before chapter # */
+head:before{
+    content: "Chapitre ";
+    font-weight: bold;
+    font-size: 1em;
+}
 /* Suzette working on head section */
 head {
     color: black;
     font-weight: bold;
-    font-size: large;
-    background-color: silver;
+    font-size: 1em;
 }
 hi{
     display: inline;
