@@ -133,21 +133,21 @@
         <body>
             <div1 type="chapitre" xml:lang="fr" corresp="#ch031">
 
-                <head type="chapitre"><lb/>31. — Le prince Kang-Hi. (Élève, p. 73.)</head>
+                <head type="chapitre">31. — Le prince Kang-Hi. (Élève, p. 73.)</head>
                 <pb type="110"/>
 
                 <div2 type="récit">
-                    <p><lb/>Ils rentrèrent. Suzette les attendait avec le diner prêt, <lb/>et un
+                    <p>Ils rentrèrent. Suzette les attendait avec le diner prêt, <lb/>et un
                         livre qui devait servir de dessert. Elle était allée <lb/>le demander à la
                         bibliothèque de l'école et l'avait déjà <lb/>parcouru aux trois quarts.</p>
 
-                    <p><lb/>Le repas achevé, elle s'empressa de l'ouvrir et lut <lb/>tout haut ceci
+                    <p>Le repas achevé, elle s'empressa de l'ouvrir et lut <lb/>tout haut ceci
                         :</p>
 
                     <p><lb/>« Histoire tirée du « Grand recueil sur l'agriculture », <lb/>livre
                         antique* chinois, d'après les Mémoires domestiques* <lb/>du prince.</p>
 
-                    <p><lb/>« Aux premiers jours de la sixième lune*, dit l'em- <lb/>pereur Kang-
+                    <p>« Aux premiers jours de la sixième lune<gloss>*</gloss>, dit l'em- <lb/>pereur Kang-
                         <lb/>Hi, je me pro- <lb/>menais dans <lb/>des champs où <lb/>l'on avait semé
                         <lb/>du riz qui ne <lb/>devait donner <lb/>sa moisson <lb/>qu'à la neuviè-
                         <lb/>me lune. Je re- <lb/>marquai par <lb/>hasard un pied <lb/>de riz. Il
@@ -161,22 +161,22 @@
                         </figure>
                         <lb/>Le grain en <lb/>était très beau et bien nourri. Cela me donna la
                         pensée <lb/>de le garder pour un essai, et de voir si, l'année sui-
-                        <lb/>vante, il conserverait ainsi sa précocité*.</p>
+                        <lb/>vante, il conserverait ainsi sa précocité<gloss>*</gloss>.</p>
 
 
 
-                    <fw type="header"><lb/>LE PRINCE KANG-HI. 111</fw>
+                    <fw type="header">LE PRINCE KANG-HI. 111</fw>
                     <pb type="page" n="111"/>
-                    <p><lb/>« Il la conserva en effet. Tous les pieds qui en étaient <lb/>provenus*
+                    <p>« Il la conserva en effet. Tous les pieds qui en étaient <lb/>provenus<gloss>*</gloss>
                         montèrent en épis avant le temps ordinaire, <lb/>et donnèrent leur moisson à
                         la sixième lune.</p>
                     <p><lb/>« Chaque année, dès lors, a accru la récolte de la <lb/>précédente, et,
                         depuis trente ans, c'est le riz qu'on sert <lb/>sur ma table.</p>
                     <p><lb/>« Le grain en est allongé, la couleur un peu rou- <lb/>geâtre ; il a un
                         parfum fort doux et une saveur très <lb/>agréable. On le nomme le riz
-                        impérial, Yu-mi, parce que <lb/>c'est dans mes jardins qu'il a commencé à
+                        impérial, <term>Yu-mi</term>, parce que <lb/>c'est dans mes jardins qu'il a commencé à
                         être cultivé.</p>
-                    <p><lb/>« C'est le seul qui puisse mûrir au nord de la grande <lb/>muraille*, où
+                    <p><lb/>« C'est le seul qui puisse mûrir au nord de la grande <lb/>muraille<gloss>*</gloss>, où
                         les froids finissent très tard et recommen- <lb/>cent de fort bonne heure.
                         Mais dans les provinces du <lb/>midi, où le climat est plus doux et la terre
                         plus fertile, <lb/>on peut aisément en avoir deux moissons par an. Et
@@ -185,31 +185,30 @@
                 </div2>
 
                 <div2 type="questionnaire">
-                    <head><lb/>Questionnaire — D'où provenait </head>
+                    <head>Questionnaire</head>
+                    
                     <list>
-                        <item><lb/>le livre que tenait Suzette ?</item>
-                        <item>— Quel était <lb/>le titre du chapitre qu'elle se disposait à
-                            <lb/>lire ?</item>
-                        <item>— Que remarqua l'empereur Kang- <lb/>Hi en se promenant parmi les
+                        <item>— D'où provenait le livre que tenait Suzette ?</item>
+                        <item>— Quel étaitle titre du chapitre qu'elle se disposait à
+                            lire ?</item>
+                        <item>— Que remarqua l'empereur Kang-Hi en se promenant parmi les
                             champs de <lb/>riz ?</item>
-                        <item>— Que fit-il du riz qu'il avait remar- <lb/>qué ?</item>
+                        <item>— Que fit-il du riz qu'il avait remarqué ?</item>
                         <item>— Que donnèrent les grains semés <lb/>par ordre de Kang-Hi ?</item>
-                        <item>— Comment ce <lb/>dernier parvint-il a multiplier cette nou-
-                            <lb/>velle espèce de riz ?</item>
-                        <item>— Quelles sont les <lb/>propriétés du riz impérial ?</item>
-                        <item>— Quels avan- <lb/>tages trouve-t-on à le cultiver ?</item>
+                        <item>— Comment ce dernier parvint-il a multiplier cette nouvelle espèce de riz ?</item>
+                        <item>— Quelles sont les propriétés du riz impérial ?</item>
+                        <item>— Quels avantages trouve-t-on à le cultiver ?</item>
                     </list>
                 </div2>
 
                 <div2 type="exercices">
-                    <head><lb/>DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES.</head>
+                    <head>DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES.</head>
                     <div3 type="morale">
-                        <head type="sujets"><lb/>Morale.</head>
+                        <head type="sujets">Morale.</head>
                         <div4 type="questions">
                             <list type="exercices">
                                 <item>— Quelle est la plus utile des professions manuelles ?</item>
-                                <item> — <lb/>Quels produits doit-on à ceux qui cultivent la terre
-                                    ?</item>
+                                <item>— Quels produits doit-on à ceux qui cultivent la terre ?</item>
                                 <item>— Tirez-en une <lb/>conclusion.</item>
                                 <item>— Que pensez-vous de ceux qui dédaignent les cultivateurs
                                     <lb/>et les personnes de leur famille ? </item>
@@ -217,22 +216,22 @@
                         </div4>
 
                         <div4 type="réponses" ana="#extérieurs">
-                            <p><lb/>La plus utile des protessions manuelles est celle d'agricuiteur.
+                            <p>La plus utile des protessions manuelles est celle d'agricuiteur.
                                 En <lb/>effet, le premier besoin auquel il faut pourvoir dans les
                                 sociétés <lb/>humaines est la nourriture de chaque individu ; d'où
                                 la nécessité indis- <lb/>pensable de cultiver le sol, puisque la
                                 chasse et la pèche scraient tout <lb/>a fait insuffisantes ; d'où
                                 encore l'importance des professions agricoles.</p>
-                            <p><lb/>On doit à ceux qui les exercent : le blé et les autres céréales,
+                            <p>On doit à ceux qui les exercent : le blé et les autres céréales,
                                 les <lb/>fourrages avec lesquels on nourrit le bétail et d'autres
                                 animaux domes- <lb/>tiques, la vigne dont nous vient le vin, puis
                                 les fruits et les racines <lb/>comestibles.</p>
-                            <p><lb/>Sans les agriculteurs, nous mourrions de faim, car ce n'est ni
+                            <p>Sans les agriculteurs, nous mourrions de faim, car ce n'est ni
                                 la <lb/>chair des bêtes sauvages, ni l'herbe des champs, ni le
                                 feuillage des <lb/>arbres qui pourraient entretenir notre vie.
                                 Honorons done cette utile <lb/>et nombreuse classe de
                                 travailleurs.</p>
-                            <p><lb/>Ceux qui dédaignent ces hommes laborieux montrent qu'ils
+                            <p>Ceux qui dédaignent ces hommes laborieux montrent qu'ils
                                 manquent <lb/>de jugement ; du reste, il n'y a que les sots, les
                                 gens superficiels et <lb/>ignorants qui se rendent coupables d'un
                                 tel oubli des convenances.</p>
@@ -243,14 +242,14 @@
                     <pb type="page" n="112"/>
 
                     <div3 type="géographie">
-                        <head type="sujets"><lb/>Géographie.</head>
+                        <head type="sujets">Géographie.</head>
                         <div4 type="questions">
                             <list type="exercices">
                                 <item>— Où se trouve la Chine ?</item>
-                                <item>— Donnez une idée de la <lb/>grandeur, de la population, des
+                                <item>— Donnez une idée de la grandeur, de la population, des
                                     produits de cet immense empire.</item>
-                                <item> — <lb/>Quels produits en retirons-nous ?</item>
-                                <item>— Que savez-vous du costume et des <lb/>usages des habitants
+                                <item> — Quels produits en retirons-nous ?</item>
+                                <item>— Que savez-vous du costume et des usages des habitants
                                     de la Chine ?</item>
                             </list>
                         </div4>
@@ -278,21 +277,21 @@
                     </div3>
 
                     <div3 type="complexe">
-                        <head type="sujets"><lb/>Agriculture.</head>
+                        <head type="sujets">Agriculture.</head>
                         <div4 type="questions">
                             <list type="exercices">
                                 <item>— Qu'est-ce que le riz?</item>
                                 <item>— Comment cultive-t-on <lb/>le riz ?</item>
                                 <item>— Quels terrains conviennent à cette plante ?</item>
-                                <item>— Quels peuples <lb/>en font la base de leur nourriture
+                                <item>— Quels peuples en font la base de leur nourriture
                                     ?</item>
-                                <item>— Dans quelles contrées de l'Eu- <lb/>rope cette céréale
+                                <item>— Dans quelles contrées de l'Europe cette céréale
                                     est-elle culiivée ?</item>
                             </list>
                         </div4>
 
                         <div4 type="réponses" ana="#céréales">
-                            <p><lb/><term>Le riz</term> est une céréale que l'on cultive dans les
+                            <p><term>Le riz</term> est une céréale que l'on cultive dans les
                                 terrains humides et <lb/>marécageux des pays chauds ; on en tire un
                                 grain farineux qu'on <lb/>appelle également riz, et qu'on mange cuit
                                 à l'état naturel ou en <lb/>farine. On le sème au printemps dans des
@@ -312,23 +311,22 @@
                                 <item>— Comment cuit-on le riz ?</item>
                                 <item>— Quels <lb/>mets prépare-t-on avec le riz ?</item>
                                 <item>— Comment fait-on un gdleau au riz ?</item>
-                                <lb/>
                                 <item>— Le riz est-il une denrée économique ? Dites-en le
                                     prix.</item>
                             </list>
                         </div4>
 
                         <div4 type="réponses" ana="#aliments_cuisine">
-                            <p><lb/>Le riz, après avoir été débarrassé de la pellicule qui recouvre
+                            <p>Le riz, après avoir été débarrassé de la pellicule qui recouvre
                                 <lb/>chaque grain, peut être cuit à l'eau ou au lait. Il se gonfle
                                 dans le <lb/>liquide et crève. On en prépare des potages.</p>
-                            <p><lb/>Pour cet objet, on fait fondre du beurre de bonne qualité dans
+                            <p>Pour cet objet, on fait fondre du beurre de bonne qualité dans
                                 une <lb/>casserole, et l'on y met cuire et roussir un oignon afin de
                                 pouvoir le <lb/>passer. Ajoutez la quantité d’eau nécessaire pour le
                                 bouillon avec du <lb/>sel, du poivre, et jetez-y ensuite le riz qui
                                 doit y crever entièrement.</p>
-                            <p><lb/>On accommode au riz les volailles, comme les poules, les
-                                canards. <lb/>Pour préparer un gâteau de riz, épluchez, lavez et
+                            <p>On accommode au riz les volailles, comme les poules, les
+                                canards. <lb/>Pour préparer un <term>gâteau de riz</term>, épluchez, lavez et
                                 faites crever <lb/>dans du lait 250 grammes de riz avec un zeste de
                                 citron râpé et un <lb/>peu de sel. Mouillez avec du lait à mesure
                                 qu'il crève, et sans le <lb/>remuer, car il brûlerait. Lorsque le
@@ -338,7 +336,7 @@
                                 ou de vanille. Enduisez après un moule avec du beurre <lb/>ou du
                                 sucre râpé ; remplissez-le de votre préparation jusqu'aux trois
                                 <lb/>quarts ; faites cuire au four une demi-heure environ.</p>
-                            <p><lb/>Le riz est une denrée économique ; il coûte, selon la qualité,
+                            <p>Le riz est une denrée économique ; il coûte, selon la qualité,
                                 de <lb/>0 fr. 25 à 0 fr. 70 le demi-kilogramme.</p>
                         </div4>
                     </div3>

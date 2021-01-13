@@ -419,11 +419,12 @@ bibl extent{
 /* Suzette - formwords */
 fw{
    display:inline-block;
-   color: gray;
+   color: black;
    font-style: italic;
    margin-bottom: 1em;
    margin-top: 1em;
-   font-size: 1em;
+   font-size: 1.2em;
+   text-align:center;
 }
 graphic{
     color: gray;
@@ -908,12 +909,17 @@ p{
 
 pb{
     display: block;
+    color: gray;
+    font-style: italic;
+    font-size: .9em;
 }
 
 /* Trying to add "Page" before page # */
 pb:before{
     content: "Page ";
-    font-weight: bold;
+    color: gray;
+    font-style: italic;
+    font-size: .9em;
 }
 
 pb:after{
