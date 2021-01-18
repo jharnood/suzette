@@ -43,7 +43,7 @@
         <moduleRef key="transcr"/>
         <moduleRef key="tagdocs"/>
         
-        <!-- Customize DIV1 with @type chapter -->
+        <!-- Customize DIV1 with @type chapitre -->
         <elementSpec ident="div1" mode="change">
           <attList> 
             <attDef ident="type" mode="change">
@@ -112,6 +112,34 @@
                 </valItem>
                 <valItem ident="réponses" mode="add">
                   <desc versionDate="2020-06-02" xml:lang="fr">Réponses</desc>
+                </valItem>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
+        
+        <!-- Customize rs @ana to reference thematic components of the book -->
+        <elementSpec ident="rs" mode="change">
+          <attList>
+            <attDef ident="ana" mode="change">
+              <valList type="closed" mode="change">
+                <valItem ident="plats" mode="add">
+                  <desc xml:lang="fr">Plats</desc>
+                </valItem>
+                <valItem ident="techniques" mode="add">
+                  <desc xml:lang="fr">Techniques</desc>
+                </valItem>
+                <valItem ident="manière_de_table" mode="add">
+                  <desc xml:lang="fr">Manière de table</desc>
+                </valItem>
+                <valItem ident="produits">
+                  <desc xml:lang="fr">Produits</desc>
+                </valItem>
+                <valItem ident="sens" mode="add">
+                  <desc xml:lang="fr">Sense</desc>
+                </valItem>
+                <valItem ident="nutrition" mode="add">
+                  <desc xml:lang="fr">Nutrition</desc>
                 </valItem>
               </valList>
             </attDef>
