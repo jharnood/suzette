@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -122,7 +119,8 @@
             </list>
          </sourceDesc>
       </fileDesc>
-      <profileDesc>
+      <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+</rdf:RDF></xenoData><profileDesc>
          <langUsage>
             <language ident="fr">French</language>
             <language ident="en">English</language>
@@ -154,10 +152,10 @@
                      Ragoût. Mets assaisonné, composé de légumes et de viande découpée. </gloss>
                   clapotant* <gloss> Clapoter. Un liquide clapote quand il fait du bruit par suite
                      d'une légère agitation. </gloss> là sur le poêle ! </p>
-               <p> M. et Mme Valon passent avec leurs bébés et s'arrêtent : </p>
+               <p> M. et <persName type="Fictional">Mme Valon</persName> passent avec leurs bébés et s'arrêtent : </p>
 
                
-                  <p> — Eh ! Suzette, ton ragoût brûle ! vite de l'eau !... </p>
+                  <p> — Eh ! <persName type="Fictional">Suzette</persName>, ton ragoût brûle ! vite de l'eau !... </p>
               
                   <p> — Madame, aujourd'hui, je ne sais pas ce que je fais ! </p>
                
@@ -270,8 +268,7 @@
                   <div4 type="réponses" ana="#aliments_cuisine">
                      <p> Il est prudent, lorsqu'on fait cuire un mets ou bouillir du lait, de ne pas
                         pousser le feu trop vivement, car la partie voisine du fond du vase serait
-                        exposée à brûler. Le lait déborderait alors et se perdrait en <fw
-                           type="header"> LA CLEF DU TRÉSOR. 29 </fw>
+                        exposée à brûler. Le lait déborderait alors et se perdrait en <fw type="header"> LA CLEF DU TRÉSOR. 29 </fw>
                         <pb type="page" n="29"/> partie, tandis que le reste contracterait un goût
                         détestable ; il ne faut donc jamais le perdre de vue, ce qu'oublie plus
                         d'une petite fille à qui la maman a donné commission de veiller au fourneau. </p>
