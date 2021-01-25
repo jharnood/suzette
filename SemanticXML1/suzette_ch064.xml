@@ -132,10 +132,9 @@
     <text>
         <body>
             <div1 type="chapitre" n="064">
-                    <pb type="page" n="222"/>
-                    <fw>222 SUZETTE.</fw>
-                    <head>64. — Sous la tente. (Élève, p. 137.)</head>              
-                   
+                <head>64. — Sous la tente. (Élève, p. 137.)</head>                        
+                <pb type="page" n="222"/>          
+                <fw>222 SUZETTE.</fw>                   
                             <div2 type="récit"><p>— Nous avions été plus heureux qu'un pauvre cheval 
                             <lb/>dont nous rencontrâmes 
                             <lb/>la dépouille à quelque dis-
