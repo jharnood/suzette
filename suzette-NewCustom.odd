@@ -118,8 +118,8 @@
           </attList>
         </elementSpec>
         
-        <!-- Customize rs @ana to reference thematic components of the book -->
-        <elementSpec ident="rs" mode="change">
+        <!-- Customize span @ana to reference thematic components of the book -->
+        <elementSpec ident="span" mode="change">
           <attList>
             <attDef ident="ana" mode="change">             
               <valList type="closed" mode="change">
@@ -137,6 +137,9 @@
                 </valItem>
                 <valItem ident="recette">
                   <desc xml:lang="fr">Recette</desc>
+                </valItem>
+                <valItem ident="repas">
+                  <desc>Repas</desc>
                 </valItem>
                 <valItem ident="sens" mode="add">
                   <desc xml:lang="fr">Sens</desc>
