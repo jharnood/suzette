@@ -12,11 +12,6 @@
                     <resp>Editor</resp>
                 </respStmt>
                 <respStmt>
-                    <persName>Sarah Haber</persName>
-                    <orgName>Bucknell University</orgName>
-                    <resp>Research Assistant and Encoder, 2020 - Present</resp>
-                </respStmt>
-                <respStmt>
                     <persName xml:id="JAKA1">Diane Jakacki</persName>
                     <orgName>Bucknell University</orgName>
                     <resp>Project Manager</resp>
@@ -131,30 +126,31 @@
     </teiHeader>
     <text>
         <body>
-            <div1 type="chapitre" n="057">
-                
-                    
-                        <fw><lb/>LA TEMPÊTE. 199</fw>
-                        <head><lb/>57. — La tempête. (Élève, p, 124.)</head>
-                        <div2 type="récit"><p><lb/>Tous deux travaillèrent des dents et des fourchettes 
+            <div1 type="chapitre" n="057">                
+                <head><lb/>57. — La tempête. (Élève, p, 124.)</head>                    
+                        <fw>LA TEMPÊTE. 199</fw>
+
+                        <div2 type="récit">
+                            <p>
+                                Tous deux travaillèrent des dents et des fourchettes 
                         <lb/>avec tant de vivacité que, comme le dit un vieux ri-
                         <lb/>meur :</p>
-                        <p><lb/>« Les miettes de chaque morceau 
+                        <p>« Les miettes de chaque morceau 
                         <lb/>« Sautaient par dessus leur chapeau ! »</p>
-                        <p><lb/>Leur appétit à moitié satisfait, M. Dumay demanda : </p>
-                        <p><lb/>— Mais, s&apos;il vous plait, et sans vous déranger, mes 
+                        <p>Leur appétit à moitié satisfait, M. Dumay demanda : </p>
+                        <p>— Mais, s&apos;il vous plait, et sans vous déranger, mes 
                         <lb/>amis, quel age avez-vous donc?</p>
-                        <p><lb/>Caquet-Bon-Bec* répondit aussitôt :</p>
-                        <p><lb/>— Je parie que vous ne me donnez pas plus de 
+                        <p>Caquet-Bon-Bec* répondit aussitôt :</p>
+                        <p>— Je parie que vous ne me donnez pas plus de 
                         <lb/>quatorze ans !</p>
-                        <p><lb/>— Oui, à peu près quatorze.</p>  
-                        <p><lb/>— Bon, j&apos;en ai dix-huit ; et Sylvain, mon compagnon, 
+                        <p>— Oui, à peu près quatorze.</p>  
+                        <p>— Bon, j&apos;en ai dix-huit ; et Sylvain, mon compagnon, 
                         <lb/>va atteindre ses vingt ans.</p>
-                        <p><lb/>A ce chiffre, le compagnon resta le nez sur son assiette.</p>
-                        <p><lb/>— Et vos parents?</p>
-                       <p> <lb/>— Nos parents ? hélas !... morts... dans un naufrage.</p>
-                        <p><lb/>— Dans un naufrage !</p>
-                        <p><lb/>— Oui, une tempête horrible ! — il soupira. — Vous 
+                        <p>A ce chiffre, le compagnon resta le nez sur son assiette.</p>
+                        <p>— Et vos parents?</p>
+                       <p>— Nos parents ? hélas !... morts... dans un naufrage.</p>
+                        <p>— Dans un naufrage !</p>
+                        <p>— Oui, une tempête horrible ! — il soupira. — Vous 
                         <lb/>n&apos;avez jamais vu de tempête ?... non ?... Eh bien ! voilà !
                         <lb/>Les passagers ont bien tranquilles dans les cabines; * 
                         <lb/>ou sur le pont*; ils causent, ils rient. Tout à coup le 
@@ -171,15 +167,15 @@
                         <lb/>chon sur un débris de mât, les deux seuls survivants 
                         <lb/>de l&apos;épouvantable désastre... ! comment, dans notre 
                         <lb/>malheur, ce débris de mât nous porta-t-il sains et 
-                        <lb/>saufs sur la côte de Zanzibar, ne me le demandez pas
+                        <lb/>saufs sur la côte de Zanzibar, ne me le demandez pas,
                     
                 
                     <pb type="page" n="200"/>
                    
                         
-                            <fw><lb/>200 SUZETTE.</fw>
+                            <fw>200 SUZETTE.</fw>
                             <lb/>je n&apos;en sais rien ! Mais les journaux en ont parlé.</p>
-                            <p><lb/>Il paraissait très ému ; on se regarda. Qu&apos;y avait-il 
+                            <p>Il paraissait très ému ; on se regarda. Qu&apos;y avait-il 
                             <lb/>de vrai dans cet 
                             <lb/>étrange discours ?
                             <lb/>M. Dumay dit tout 
@@ -189,44 +185,65 @@
                             <lb/>porte ? écoutons l&apos;his-
                             <lb/>toire, si elle est inté-
                             <lb/>ressante.</p>
-                            <p><lb/>Et comme les deux 
+                            <p>Et comme les deux 
                             <lb/>voyageurs venaient 
                             <lb/>de se remettre à 
                             <lb/>manger silencieuse-
                             <lb/>ment, il leur dit :</p>
-                            <figure><caption><lb/>Le vaisseau désemparé,  ballotté, va, vient, 
+                            <figure><caption>Le vaisseau désemparé,  ballotté, va, vient, 
                             <lb/>à gauche, à droite, à l&apos;aventure.</caption></figure>
-                            <p><lb/>— Vous nous conterez vos voyages en Afrique ?</p>
-                            <p><lb/>Parfaitement, Monsieur ; tout à vos ordres, ré-
+                            <p>— Vous nous conterez vos voyages en Afrique ?</p>
+                            <p>Parfaitement, Monsieur ; tout à vos ordres, ré-
                             <lb/>pondit l&apos;orateur. D&apos;ailleurs, — il leva le nez vers l&apos;hor-
                             <lb/>loge — je crois bien qu&apos;il est trop tard pour gagner 
                             <lb/>ce soir la source de l&apos;Escaut. Nous pouvons donc rester 
                             <lb/>avec vous un peu plus longtemps ; après quoi nous vous 
                             <lb/>prierons de nous indiquer une auberge pour y passer la 
                             <lb/>nuit.</p></div2>
-                            <div2 type="questionnaire"><head><lb/>Questionnaire.</head> <list><item>— Donnez une 
-                            idée de l&apos;appétit des explorateurs.</item> <item>— 
+                            <div2 type="questionnaire">
+                                <head>Questionnaire.</head> 
+                                <list>
+                                    <item>— Donnez une 
+                            idée de l&apos;appétit des explorateurs.</item> 
+                                    <item>— 
                             Que répondirent-ils à M. Dumay relati-
                             vement à leur age, — à leurs pa-
-                            rents ?</item> <item>— Racontez la tempête jusqu&apos;au 
-                            moment où le navire fut englouti.</item> <item>— 
+                            rents ?</item> 
+                                    <item>— Racontez la tempête jusqu&apos;au 
+                            moment où le navire fut englouti.</item> 
+                                    <item>— 
                             Comment les deux enfants furent-ils 
-                            sauvés ?</item> <item>— Quelle observation fit le fer-
-                            mier à Jacques ?</item> <item>— Que répondit le plus 
+                            sauvés ?</item> 
+                                    <item>— Quelle observation fit le fer-
+                            mier à Jacques ?</item> 
+                                    <item>— Que répondit le plus 
                             jeune des explorateurs lorsque M. Dumay 
                             demanda qu&apos;il lui contât ses voyages en 
-                            Afrique ?</item></list></div2>
-                            <div2 type="exercices"><head><lb/>DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES.</head>
-                            <div3 type="morale"><head><lb/>Morale.</head> <div4 type="questions"><list><item>— LE MENSONGE. </item>
+                            Afrique ?</item>
+                                </list>
+                            </div2>
+                            <div2 type="exercices">
+                                <head>DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES.</head>
+                            <div3 type="morale">
+                                <head>Morale.</head> 
+                                <div4 type="questions">
+                                    <list>
+                                        <item>— LE MENSONGE. </item>
                                 <item>— Qu&apos;est-ce que mentir ? </item>
                                 <item>— Pourquoi 
-                            ment-on ?</item> <item>— Est-il permis de mentir ?</item> <item>— Que faut-il faire lorsqu&apos;on 
-                            a commis une faute ?</item> <item>— Pourquoi est-il prudent de fuir les menteurs?</item>
-                           <item>— Pourquoi le menteur est-il un lâche ? </item></list></div4>
-                            <div4 type="réponses"><p><lb/>Mentir, c&apos;est parler contrairement à la vérité et avec l&apos;intention de 
+                            ment-on ?</item> 
+                                        <item>— Est-il permis de mentir ?</item> 
+                                        <item>— Que faut-il faire lorsqu&apos;on 
+                            a commis une faute ?</item> 
+                                        <item>— Pourquoi est-il prudent de fuir les menteurs?</item>
+                           <item>— Pourquoi le menteur est-il un lâche ? </item>
+                                    </list>
+                                </div4>
+                            <div4 type="réponses">
+                                <p>Mentir, c&apos;est parler contrairement à la vérité et avec l&apos;intention de 
                             <lb/>tromper ; cet acte est odieux parce qu&apos;il porte préjudice à autrui et 
                             <lb/>qu&apos;il suppose de la bassesse et de la lâcheté dans le coeur.</p>
-                            <p><lb/>En général, les enfants mentent soit par crainte du châtiment, soit 
+                            <p>En général, les enfants mentent soit par crainte du châtiment, soit 
                             <lb/>par amour-propre, rarement avec l&apos;intention de nuire. Ils oublient que 
                             <lb/>tôt ou tard la vérité se découvre, et que le châtiment et la honte 
                             <lb/>qu&apos;ils voulaient éviter retombent sur eux augmentés du mépris que 
@@ -236,35 +253,47 @@
                     <pb type="page" n="201"/>
                     
                         
-                            <fw><lb/>UN MARCHÉ D&apos;ESCLAVES. 201</fw>
-                           <p> <lb/>Il n&apos;est jamais permis de mentir. Lorsqu&apos;on a commis un acte blâ-
+                            <fw>UN MARCHÉ D&apos;ESCLAVES. 201</fw>
+                           <p>Il n&apos;est jamais permis de mentir. Lorsqu&apos;on a commis un acte blâ-
                             <lb/>mable, ce qu&apos;il convient de faire, c&apos;est d&apos;avouer sa faute : on sera puni 
                             <lb/>certainement, mais aussi quel fardeau de moins sur la conscience ! 
                             <lb/>D&apos;ailleurs, la personne qui a reçu l&apos;aveu estimera le coupable en raison 
                             <lb/>de sa franchise et peut-être sera-t-elle mieux disposée à l&apos;indulgence.</p>
-                            <p><lb/>Le menteur est lâche, avons-nous dit ; il contracte l&apos;habitude de la 
+                            <p>Le menteur est lâche, avons-nous dit ; il contracte l&apos;habitude de la 
                             <lb/>dissimulation et de l&apos;hypocrisie ; quelle confiance alors pourra-t-il 
                             <lb/>inspirer ? quels exemples donne-t-il ? Aussi doit-on le fuir jusqu&apos;à ce 
-                            <lb/>qu&apos;il soit corrigé de son odieux défaut.</p></div4></div3>
-                            <div3 type="sciences_naturelles"><head><lb/>Sciences naturelles.</head> <div4 type="questions"><list>
-                                <item>— Qu&apos;est-ce que le vent ?</item> <item>— A quoi est-il 
-                            dû ?</item> <item>— Que produit sur terre un vent violent ?</item> <item>— Que produit sur 
-                            mer un vent violent ?</item> <item>— Qu&apos;arrive-t-il alors aux pécheurs de la côte ?</item>
-                          <item>— Quel instrument indique l&apos;approche d&apos;une lempéte ?</item></list></div4>
-                           <div4 type="réponses"> <p><lb/>Le vent n&apos;est pas autre chose que de l&apos;air en mouvement ; il est dû 
+                            <lb/>qu&apos;il soit corrigé de son odieux défaut.</p>
+                            </div4>
+                            </div3>
+                            <div3 type="sciences_naturelles">
+                                <head>Sciences naturelles.</head> 
+                                <div4 type="questions">
+                                    <list>
+                                <item>— Qu&apos;est-ce que le vent ?</item> 
+                                        <item>— A quoi est-il 
+                            dû ?</item> 
+                                        <item>— Que produit sur terre un vent violent ?</item> 
+                                        <item>— Que produit sur 
+                            mer un vent violent ?</item> 
+                                        <item>— Qu&apos;arrive-t-il alors aux pécheurs de la côte ?</item>
+                          <item>— Quel instrument indique l&apos;approche d&apos;une lempéte ?</item>
+                                    </list>
+                                </div4>
+                           <div4 type="réponses"> 
+                               <p>Le vent n&apos;est pas autre chose que de l&apos;air en mouvement ; il est dû 
                             <lb/>au déplacement des couches d&apos;air inégalement échauffées; les plus 
                             <lb/>froides tendent à descendre des régions supérieures de l&apos;atmosphère, 
                             <lb/>tandis que les plus chaudes s&apos;élèvent. Il en résulte des courants dont 
                             <lb/>les girouettes indiquent la direction.</p>
-                            <p><lb/>La vitesse moyenne du vent, dans nos climats, est de 5 à 6 mètres, 
+                            <p>La vitesse moyenne du vent, dans nos climats, est de 5 à 6 mètres, 
                             <lb/>par seconde ; à 10 mètres, on dit que le vent est frais ; avec 20 mètres, 
                             <lb/>o est fort; de 25 à 30 mètres, il y a tempête ; de 30 à 150, c&apos;est un 
                             <lb/>iluragan.</p>
-                            <p><lb/>L&apos;ouragan est un phénomène redoutable. Sur terre, les arbres se 
+                            <p>L&apos;ouragan est un phénomène redoutable. Sur terre, les arbres se 
                             <lb/>courbent, craquent et se brisent ; les champs sont dévastés; les bâti-
                             <lb/>ments s&apos;écroulent, et en quelques instants la ruine succède à la 
                             <lb/>richesse.</p>
-                            <p><lb/>En plein océan, la scène est encore plus terrible. Le navire, ébranlé 
+                            <p>En plein océan, la scène est encore plus terrible. Le navire, ébranlé 
                             <lb/>jusque dans ses fondements, devient le jouet des vagues furieuses; 
                             <lb/>l&apos;eau de la mer, réduite en pluie fine et pressée, aveugle et ensevelit 
                             <lb/>sous ses torrents. On ne voit rien autour de soi ; des bruits formidables 
@@ -273,19 +302,31 @@
                             <lb/>ne sait plus si l&apos;on est sur ou sous les flots. Les pécheurs de la côte, 
                             <lb/>entraînés en pleine mer, périssent engloutis, et leurs frêles barques 
                             <lb/>viennent s&apos;écraser contre les falaises.</p>
-                            <p><lb/>Il existe un instrument qui révèle, vingt-quatre ou trente-six heures 
+                            <p>Il existe un instrument qui révèle, vingt-quatre ou trente-six heures 
                             <lb/>à l&apos;avance, ce terrible phénomène : c&apos;est le baromètre ; lorsqu’on le 
                             <lb/>consulte, on reconnaît facilement s&apos;il y a danger à s&apos;aventurer sur la 
                             <lb/>mer ou si l&apos;on doit rentrer au port.</p>
-                            <p><lb/>Le simoun est un vent violent et empoisonné qui souffle dans les 
+                            <p>Le simoun est un vent violent et empoisonné qui souffle dans les 
                             <lb/>déserts des tropiques ; il brûle comme l&apos;air d&apos;un four béant qui vomi-
                             <lb/>rait sa chaleur. Alors le chameau met sa tête contre le sol ; les hommes 
                             <lb/>s&apos;affaissent avec désespoir et leurs forces les abandonnent. Quand la 
-                            <lb/>tempête dure plus d&apos;un quart d&apos;heure, tout périt.</p></div4></div3>
-                            <div3 type="géographie"><head><lb/>Géographie. </head><div4 type="questions"><list><item>— Tracez le croquis de l&apos;île de Zanzibar et celui 
-                            <lb/>de la côte avoisinante.</item></list></div4>
-                            <div4 type="réponses"><p><lb/>(Zanzibar est une île, avec une capitale du même nom, située à l&apos;est 
-                            <lb/>de l&apos;Afrique, à peu de distance de la côte.)</p></div4></div3></div2>
+                            <lb/>tempête dure plus d&apos;un quart d&apos;heure, tout périt.</p>
+                           </div4>
+                            </div3>
+                            <div3 type="géographie">
+                                <head>Géographie. </head>
+                                <div4 type="questions">
+                                    <list>
+                                        <item>— Tracez le croquis de l&apos;île de Zanzibar et celui 
+                            <lb/>de la côte avoisinante.</item>
+                                    </list>
+                                </div4>
+                            <div4 type="réponses">
+                                <p>(Zanzibar est une île, avec une capitale du même nom, située à l&apos;est 
+                            <lb/>de l&apos;Afrique, à peu de distance de la côte.)</p>
+                            </div4>
+                            </div3>
+                            </div2>
             </div1>
         </body>
     </text>

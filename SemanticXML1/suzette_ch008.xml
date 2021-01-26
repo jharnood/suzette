@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -7,11 +8,6 @@
                <persName>John Westbrook</persName>
                <orgName>Bucknell University</orgName>
                <resp>Editor</resp>
-            </respStmt>
-            <respStmt>
-               <persName>Sarah Haber</persName>
-               <orgName>Bucknell University</orgName>
-               <resp>Research Assistant and Encoder, 2020 - Present</resp>
             </respStmt>
             <respStmt>
                <persName xml:id="JAKA1">Diane Jakacki</persName>
@@ -119,8 +115,15 @@
             </list>
          </sourceDesc>
       </fileDesc>
-      <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
-</rdf:RDF></xenoData><profileDesc>
+      <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+            xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+            xmlns:as="http://www.w3.org/ns/activitystreams#"
+            xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#"
+            xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#"
+            xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/"
+            xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> </rdf:RDF></xenoData>
+      <profileDesc>
          <langUsage>
             <language ident="fr">French</language>
             <language ident="en">English</language>
@@ -134,66 +137,75 @@
             <pb type="page" n="26"/>
             <div2 type="récit">
 
-               <p> Un joli papillon, fleur ailée, vient voltiger devant la fenêtre ; sur les arbres
-                  voisins, les oiseaux se répondent ; au-dessous, les voix des fillettes en font
-                  autant : </p>
+               <p> Un joli papillon, fleur ailée, vient voltiger devant la
+                  <lb/>fenêtre ; sur les arbres voisins, les oiseaux se répon-
+                  <lb/>dent ; au-dessous, les voix des fil-
+                  <lb/>lettes en font autant : </p>
 
                <figure type="sujets">
                   <caption>Le papillon. </caption>
                </figure>
 
-               
-                  <lg type="song">
-                     <l> « Entrez dans la danse ! </l>
-                     <l> « Voyez comme on danse. » </l>
-                  </lg>
 
-               <p> Que cette chanson est autrement gentille et gaie que celle du ragoût* <gloss>
-                     Ragoût. Mets assaisonné, composé de légumes et de viande découpée. </gloss>
-                  clapotant* <gloss> Clapoter. Un liquide clapote quand il fait du bruit par suite
-                     d'une légère agitation. </gloss> là sur le poêle ! </p>
-               <p> M. et <persName type="Fictional">Mme Valon</persName> passent avec leurs bébés et s'arrêtent : </p>
+               <lg type="song">
+                  <l> « Entrez dans la danse ! </l>
+                  <l> « Voyez comme on danse. » </l>
+               </lg>
 
-               
-                  <p> — Eh ! <persName type="Fictional">Suzette</persName>, ton ragoût brûle ! vite de l'eau !... </p>
-              
-                  <p> — Madame, aujourd'hui, je ne sais pas ce que je fais ! </p>
-               
-               
-                  <p> — Ma chère enfant, il faut toujours savoir ce qu'on fait. Tenons bon ! </p>
+               <p> Que cette chanson est autre-
+                  <lb/>ment gentille et gaie que celle du
+                  <lb/>ragoût* <gloss> Ragoût. Mets assaisonné, composé de légumes et de viande
+                     découpée. </gloss> clapotant* <gloss> Clapoter. Un liquide clapote quand il
+                     fait du bruit par suite d'une légère agitation. </gloss> là sur le poêle ! </p>
+               <p> M. et <persName type="Fictional">Mme Valon</persName> passent avec
+                  <lb/>leurs bébés et s'arrêtent : </p>
+
+
+               <p> — Eh ! <persName type="Fictional">Suzette</persName>, ton ragoût brûle ! 
+                  <lb/>vite de l'eau !... </p>
+
+               <p> — Madame, aujourd'hui, je ne sais pas ce que je fais ! </p>
+
+
+               <p> — Ma chère enfant, il faut toujours savoir ce qu'on
+                  <lb/>fait. Tenons bon ! </p>
 
                <fw type="header"> TENONS BON ! 27 </fw>
                <pb type="page" n="27"/>
 
 
-               <p> Suzette est désolée, car elle connaît déjà l'importance de la cuisine qui donne
-                  les bonnes ou les mauvaises digestions, le plaisir ou le dégoût de la table. Gâter
-                  un morceau de viande, un légume frais, les transformer en charbon ou même manquer
-                  de leur faire rendre toute leur qualité nutritive, toute leur saveur*<gloss>
-                     Saveur. Qualité qu'on apprécie par le goût. </gloss>, ce sont là de grosses
-                  fautes. Elle a heureusement du nez, du </p>
+               <p> Suzette est désolée, car elle connaît déjà l'importance
+                  <lb/>de la cuisine qui donne les bonnes ou les mauvaises
+                  <lb/>digestions, le plaisir ou le dégoût de la table. Gâter un
+                  <lb/>morceau de viande, un légume frais, les transformer
+                  <lb/>en charbon ou même manquer de leur faire rendre toute leur qualité nutritive,
+                  <lb/>toute leur saveur*<gloss> Saveur. Qualité qu'on apprécie par le goût.
+                  </gloss>, ce sont
+                  <lb/>là de grosses fautes. Elle a heureusement du nez, du </p>
 
                <figure type="illustration">
                   <caption> Elle le transvase, le rafraîchit de quelques aromates nouveaux : il sera
                      presque mangeable. </caption>
                </figure>
 
-               <p> palais ; c'est avec cela et de l'attention que se fait la bonne soupe, et le
-                  reste. Mme Liénard, la mère de Mme Valon, qui s'y entend, conseille Suzette. </p>
-               <p> On sait donc ici le moyen de sauver à peu près le ragoût brûlé. Sous les yeux de
-                  Mme Valon, elle le transvase, le rafraîchit de quelques aromates*<gloss> Aromate.
-                     Substance à odeur forte dont on parfume les mets. </gloss> nouveaux : il sera
-                  presque mangeable. </p>
+               <p> palais ; c'est avec cela et de l'attention que se fait la
+                  <lb/>bonne soupe, et le reste. Mme Liénard, la mère de 
+                  <lb/>Mme Valon, qui s'y entend, conseille Suzette. </p>
+               <p> On sait donc ici le moyen de sauver à peu près le
+                  <lb/>ragoût brûlé. Sous les yeux de Mme Valon, elle le trans-
+                  <lb/>vase, le rafraîchit de quelques aromates*<gloss> Aromate. Substance à odeur
+                     forte dont on parfume les mets. </gloss> nouveaux : il sera presque mangeable. </p>
                <p> Pourtant elle se sent le cœur gros. Et il faut la consoler : </p>
-               
-                  <p> — Courage, ma mignonne ! Tenons bon ! </p>
+
+               <p> — Courage, ma mignonne ! Tenons bon ! </p>
 
                <fw type="header"> 28 SUZETTE. </fw>
                <pb type="page" n="28"/>
 
 
-               <p> Mais il y a aussi des jours heureux, et ils sont de plus en plus nombreux, à
-                  mesure que le temps s'écoule et que Suzette grandit en taille et en bon vouloir. </p>
+               <p> Mais il y a aussi des jours heureux, et ils sont de
+                  <lb/>plus en plus nombreux, à mesure que le temps s'écoule
+                  <lb/>et que Suzette grandit en taille et en bon vouloir. </p>
 
                <figure type="illustration">
                   <caption> Les aromates les plus employés en cuisine sont : 1° le thym, plante
@@ -202,15 +214,25 @@
                      plante qui croît dans 'Inde. </caption>
                </figure>
 
-               <p> Par l'habitude, le ménage, si long au début, est troussé maintenant en quelques
-                  tours de main ; et la marmite, qui obéit au doigt et à l'œil, jette de bonnes
-                  senteurs réconfortantes*<gloss> Réconfortant. Qui fortifie. </gloss>. Suzette n'a
-                  pas abandonné le devoir. Elle a à cœur de continuer le beau, le noble rôle de sa
-                  maman et de la femme de la caverne : l'embellissement et la joie du foyer. </p>
-               <p> Et, à cette heure, la maison est toute gaie de propreté et de fraîcheur ; aux
-                  repas, la famille se régale de mieux en mieux ; le père, rasséréné* <gloss>
-                     Rasséréné. Qui n'a plus ni crainte ni chagrin. </gloss>, sourit à la petite
-                  ménagère, qui même, aujourd'hui, trouve encore le temps de jouer. </p>
+               <p> Par l'habitude, le ménage,
+                  <lb/>si long au début, est troussé
+                  <lb/>maintenant en quelques tours
+                  <lb/>de main ; et la marmite, qui
+                  <lb/>obéit au doigt et à l'œil, jette
+                  <lb/>de bonnes senteurs réconfor-
+                  <lb/>tantes*<gloss> Réconfortant. Qui fortifie. </gloss>. Suzette n'a pas aban-
+                  <lb/>donné le devoir. Elle a à cœur
+                  <lb/>de continuer le beau, le noble
+                  <lb/>rôle de sa maman et de la
+                  <lb/>femme de la caverne : l'embel-
+                  <lb/>lissement et la joie du foyer. </p>
+               <p> Et, à cette heure, la maison
+                  <lb/>est toute gaie de propreté et
+                  <lb/>de fraîcheur ; aux repas, la
+                  <lb/>famille se régale de mieux en mieux ; le père, rasséréné* <gloss> Rasséréné.
+                     Qui n'a plus ni crainte ni chagrin. </gloss>,
+                  <lb/>sourit à la petite ménagère,
+                  <lb/>qui même, aujourd'hui, trouve encore le temps de jouer. </p>
             </div2>
 
             <div2 type="questionnaire">
@@ -266,29 +288,39 @@
                   </div4>
 
                   <div4 type="réponses" ana="#aliments_cuisine">
-                     <p> Il est prudent, lorsqu'on fait cuire un mets ou bouillir du lait, de ne pas
-                        pousser le feu trop vivement, car la partie voisine du fond du vase serait
-                        exposée à brûler. Le lait déborderait alors et se perdrait en <fw type="header"> LA CLEF DU TRÉSOR. 29 </fw>
-                        <pb type="page" n="29"/> partie, tandis que le reste contracterait un goût
-                        détestable ; il ne faut donc jamais le perdre de vue, ce qu'oublie plus
-                        d'une petite fille à qui la maman a donné commission de veiller au fourneau. </p>
+                     <p> Il est prudent, lorsqu'on fait cuire un mets ou bouillir du lait, de ne
+                        <lb/>pas pousser le feu trop vivement, car la partie voisine du fond du vase
+                        <lb/>serait exposée à brûler. Le lait déborderait alors et se perdrait en
+                           <pb type="page" n="29"/>
+                        <fw type="header"> LA CLEF DU TRÉSOR. 29 </fw>
+                        <lb/>partie, tandis que le reste contracterait un goût détestable ; il ne
+                        faut
+                        <lb/>donc jamais le perdre de vue, ce qu'oublie plus d'une petite fille à
+                        <lb/>qui la maman a donné commission de veiller au fourneau. </p>
                      <p>On rend <term>mangeable</term> un mets brûlé en le plaçant dans un autre
-                        vase après avoir enlevé du morceau la viande détériorée ; on fait cuire ce
-                        qui reste sur un feu doux, en ayant soin de le couvrir de nouveaux aromates
-                        et de mettre soit du beurre frais, soit quelques tranches de lard au fond de
-                        la casserole. </p>
+                        vase
+                        <lb/>après avoir enlevé du morceau la viande détériorée ; on fait cuire ce
+                        <lb/>qui reste sur un feu doux, en ayant soin de le couvrir de nouveaux aro-
+                        <lb/>mates et de mettre soit du beurre frais, soit quelques tranches de lard
+                        <lb/>au fond de la casserole. </p>
                      <p>Les <term>aromates</term> ou <term>condiments</term> communiquent à la
-                        viande quelque chose de l'odeur forte et agréable qui leur est particulière,
-                        et en rendent la digestion plus prompte et plus facile. Tels sont : l'ail,
-                        la ciboule, l'oignon, l'échalote, le laurier, le poireau, les câpres, les
-                        capucines, le persil, le cerfeuil, l'anis, l'estragon, le thym, le serpolet.
-                        Sur la même ligne, nous mettrons les <term>épices</term>, c'est-à-dire le
-                        poivre, le piment, la vanille, la cannelle, le girofle, la muscade. La
-                        plupart viennent de la Malaisie. </p>
-                     <p>On se procure les aromates ou condiments ainsi que les épices, soit en les
-                        cultivant dans son jardin, soit en les achetant chez les épiciers. </p>
-                     <p>Les cuisinières mettent du thym et du laurier dans les ragoûts et sur les
-                        viandes qu'on fait cuire dans leur jus. </p>
+                        viande quelque
+                        <lb/>chose de l'odeur forte et agréable qui leur est particulière, et en
+                        <lb/>rendent la digestion plus prompte et plus facile. Tels sont : l'ail, la
+                        <lb/>ciboule, l'oignon, l'échalote, le laurier, le poireau, les câpres, les
+                        capu-
+                        <lb/>cines, le persil, le cerfeuil, l'anis, l'estragon, le thym, le
+                        serpolet. Sur
+                        <lb/>la même ligne, nous mettrons les <term>épices</term>, c'est-à-dire le
+                        poivre, le pi-
+                        <lb/>ment, la vanille, la cannelle, le girofle, la muscade. La plupart
+                        viennent
+                        <lb/>de la Malaisie. </p>
+                     <p>On se procure les aromates ou condiments ainsi que les épices, soit
+                        <lb/>en les cultivant dans son jardin, soit en les achetant chez les
+                        épiciers. </p>
+                     <p>Les cuisinières mettent du thym et du laurier dans les ragoûts et
+                        <lb/>sur les viandes qu'on fait cuire dans leur jus. </p>
                   </div4>
                </div3>
 
@@ -308,32 +340,43 @@
                   <div4 type="réponses" ana="#homme #animaux_sauvages">
                      <p>
                         <term>Le palais</term> est la partie supérieure de l'intérieur de la bouche
-                        ; on le regarde comme le siège du goût. </p>
+                        ; on
+                        <lb/>le regarde comme le siège du goût. </p>
                      <p><term>Le nez</term> est l'organe de l'odorat ; par lui nous avons la
-                        sensation des odeurs. Il forme saillie sur la face de l'homme, et les deux
-                        trous ou narines qui se trouvent à sa base donnent passage à l'air, lorsque
-                        ce gaz pénètre dans l'intérieur de la poitrine ou en est expulsé.
-                        Intérieurement, le nez est tapissé d'une membrane sécrétant continuellement
-                        une humeur particulière qui maintient à l'organe toute sa sensibilité. </p>
+                        sensation des
+                        <lb/>odeurs. Il forme saillie sur la face de l'homme, et les deux trous ou
+                        <lb/>narines qui se trouvent à sa base donnent passage à l'air, lorsque ce
+                        <lb/>gaz pénètre dans l'intérieur de la poitrine ou en est expulsé.
+                        Intérieu-
+                        <lb/>rement, le nez est tapissé d'une membrane sécrétant continuellement
+                        <lb/>une humeur particulière qui maintient à l'organe toute sa sensibilité. </p>
                      <p><term>Le papillon</term> est un insecte dont la bouche en forme de trompe a
-                        une conformation telle que l'animal peut aspirer le suc des fleurs ; ses
-                        deux paires d'ailes sont membraneuses et souvent ornées des plus riches
-                        couleurs. </p>
-                     <p>Le papillon provient d'un œuf qui bientôt donne naissance à une larve ou
-                        chenille. La chenille, à son tour, change d'état et se transforme en
-                           <term>nymphe</term> ou <term>chrysalide</term> après avoir filé un cocon
-                        où elle repose privée de mouvement jusqu'à l'instant où, une nouvelle
-                        métamorphose s'étant produite, on en voit sortir un papillon qui prend
-                        immédiatement son essor dans les airs. </p>
+                        une
+                        <lb/>conformation telle que l'animal peut aspirer le suc des
+                        <lb/>fleurs ; ses deux
+                        <lb/>paires d'ailes sont membraneuses et souvent ornées des plus riches
+                        <lb/>couleurs. </p>
+                     <p>Le papillon provient d'un œuf qui bientôt donne naissance à une
+                        <lb/>larve ou chenille. La chenille, à son tour, change d'état et se trans-
+                        <lb/>forme en <term>nymphe</term> ou <term>chrysalide</term> après avoir
+                        filé un cocon où elle repose
+                        <lb/>privée de mouvement jusqu'à l'instant où, une nouvelle métamorphose
+                        <lb/>s'étant produite, on en voit sortir un papillon qui prend immédiatement
+                        <lb/>son essor dans les airs. </p>
                      <p>Les papillons se divisent en un très grand nombre d'espèces ; nous
-                        indiquerons le <term>Vulcain</term>, à bandes de feu ; le <term>Paon de
-                           jour</term>, avec quatre superbes yeux d'un bleu violet ; la
-                           <term>Belle-Dame</term>, les <term>Piérides</term>, papillons blancs
-                        funestes aux choux, navets, radis, etc. ; le <term>Sphinx</term>, très
-                        nuisible aux abeilles, dont il mange le miel. Parmi les papillons utiles,
-                        nous citerons le <term>bombyx</term> du ver à soie, dont la chenille tisse
-                        un cocon formé par un fil brillant et solide, la soie, avec lequel on
-                        confectionne de superbes étoffes. </p>
+                        <lb/>indiquerons le <term>Vulcain</term>, à bandes de feu ; le <term>Paon de
+                           jour</term>, avec quatre
+                        <lb/>superbes yeux d'un bleu violet ; la <term>Belle-Dame</term>, les
+                           <term>Piérides</term>, pa-
+                        <lb/>pillons blancs funestes aux choux, navets, radis, etc. ; le
+                           <term>Sphinx</term>, très
+                        <lb/>nuisible aux abeilles, dont il mange le miel. Parmi les papillons
+                        utiles,
+                        <lb/>nous citerons le <term>bombyx</term> du ver à soie, dont la chenille
+                        tisse un cocon
+                        <lb/>formé par un fil brillant et solide, la soie, avec lequel on
+                        confectionne
+                        <lb/>de superbes étoffes. </p>
 
                   </div4>
                </div3>
