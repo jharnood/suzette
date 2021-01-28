@@ -43,7 +43,7 @@
         <moduleRef key="transcr"/>
         <moduleRef key="tagdocs"/>
         
-        <!-- Customize DIV1 with @type chapter -->
+        <!-- Customize DIV1 with @type chapitre -->
         <elementSpec ident="div1" mode="change">
           <attList> 
             <attDef ident="type" mode="change">
@@ -84,7 +84,7 @@
           <attList>
             <attDef ident="type" mode="change">
               <valList type="closed" mode="change">
-                <valItem ident="morale" mode="add"/>
+                <valItem ident="morale" mode="add"/>                
                 <valItem ident="instruction_civique" mode="add"/>
                 <valItem ident="civilité" mode="add"/>
                 <valItem ident="français" mode="add"/>
@@ -113,6 +113,40 @@
                 <valItem ident="réponses" mode="add">
                   <desc versionDate="2020-06-02" xml:lang="fr">Réponses</desc>
                 </valItem>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
+        
+        <!-- Customize span @ana to reference thematic components of the book -->
+        <elementSpec ident="span" mode="change">
+          <attList>
+            <attDef ident="ana" mode="change">             
+              <valList type="closed" mode="change">
+                <valItem ident="manière_de_table" mode="add">
+                  <desc xml:lang="fr">Manière de table</desc>
+                </valItem>
+                <valItem ident="nutrition" mode="add">
+                  <desc xml:lang="fr">Nutrition</desc>
+                </valItem>
+                <valItem ident="plat" mode="add">
+                  <desc xml:lang="fr">Plat</desc>
+                </valItem>
+                <valItem ident="produit">
+                  <desc xml:lang="fr">Produit</desc>
+                </valItem>
+                <valItem ident="recette">
+                  <desc xml:lang="fr">Recette</desc>
+                </valItem>
+                <valItem ident="repas">
+                  <desc>Repas</desc>
+                </valItem>
+                <valItem ident="sens" mode="add">
+                  <desc xml:lang="fr">Sens</desc>
+                </valItem> 
+                <valItem ident="technique" mode="add">
+                  <desc xml:lang="fr">Technique</desc>
+                </valItem>              
               </valList>
             </attDef>
           </attList>
