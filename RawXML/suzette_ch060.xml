@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -122,7 +119,8 @@
                 </list>
             </sourceDesc>
         </fileDesc>
-        <profileDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+</rdf:RDF></xenoData><profileDesc>
             <langUsage>
                 <language ident="fr">French</language>
                 <language ident="en">English</language>
@@ -165,9 +163,10 @@
                     <lb/>d'affaires. On n'a pas besoin alors de l'aide dispendieuse d'un interprète.
                     <lb/>Celui qui parcourt les contrées étrangères sans on avoir étudié préala-
                     <lb/>blement les langues, est tel qu'un sourd-muet ; on ne saurait donc trop 
-                    <lb/>encourager la jeunesse à s'exercer à l'étude des langues. En Angle-
-                    <lb/>terre, en Allemagne, en Russie, en Hongrie, en Belgique, en Hollande, 
-                    <lb/>en Suisse, etc., il n'est pas de personne quelque peu aisée qui ne 
+                    <lb/>encourager la jeunesse à s'exercer à l'étude des langues. En <placeName type="Country">Angle-
+<lb/>
+terre</placeName>, en Allemagne, en <placeName type="Country">Russie</placeName>, en Hongrie, en <placeName type="Country">Belgique</placeName>, en Hollande, 
+                    <lb/>en <placeName type="Country">Suisse</placeName>, etc., il n'est pas de personne quelque peu aisée qui ne 
                     <lb/>connaisse au moins deux langues.
                     <lb/>Les deux langues vivantes les plus répandues dans le monde civi-
                     <lb/>lisé sont l'anglais, pour les usages du commerce, et le français pour 
@@ -178,7 +177,7 @@
                     <lb/>que l'on ne parle plus.
                     <lb/>Géographie. — Dessiner la côte d'Afrique appelée côte du Ga-
                     <lb/>bon. — Tracer le cours de l'Ogoué, el du Congo qui borne la région 
-                    <lb/>soumise au prolectorat de la France, au sud et à l'est.
+                    <lb/>soumise au prolectorat de la <placeName type="Country">France</placeName>, au sud et à l'est.
                     <lb/>(Le tracé de cette carte n'occupera pas moins d'une demi-feuille de 
                     <lb/>cahier ; on n'y omettra pas Franceville, Brazzaville et, vis-à-vis cette 
                     <lb/>dernière, Stanley-Pool.)
@@ -203,9 +202,8 @@
                     <lb/>ce qu'on appelle une caravane.
                     <lb/>commodément que sur cette chaise, mais on s'y fait; 
                     <lb/>— et nous voilà partis avec un pacotille de calicot,
-
                 </p>
-                <pb xml:id='Suzette_50-70-0036.jpg' n='2'/>
+                <pb xml:id="Suzette_50-70-0036.jpg" n="2"/>
                 <p>
                   
                         <lb/>A TRAVERS LES JUNGLES. 209
@@ -217,7 +215,7 @@
                         <lb/>étaient ?
                         <lb/>— Des chasseurs de noirs? ré-
                         <lb/>pondit Jacques.
-                        <lb/>Hippopotame.
+                        <lb/><objectName type="Animal">Hippopotam</objectName>e.
                         <lb/>C'est un énorme mammifère qui habite le centre 
                         <lb/>et le midi de l'Afrique. Son poids peut atteindre 
                         <lb/>2, 500 kilog. ; ses dents fournissent un ivoire plus 
@@ -249,13 +247,14 @@
                         <lb/>— C'est une sin-
                         <lb/>gulière façon d'en-
                         <lb/>tendre ces devoirs que de pratiquer la chasse aux hommes 
-                        <lb/>Les crocodiles, reptiles de grande taille, sont 
+                        <lb/>Les <objectName type="Animal">crocodiles</objectName>, reptiles de grande taille, sont 
                         <lb/>organisés pour vivre dans l'eau, où ils se meuvent 
                         <lb/>avec une agilité extraordinaire. C'est en Afrique 
                         <lb/>qu'ils sont le plus nombreux. 
                     
                 </p>
-                <pb xml:id='Suzette_50-70-0037.jpg' n='3'/>
+
+                <pb xml:id="Suzette_50-70-0037.jpg" n="3"/>
                 <p>
                    
                         <lb/>210 SUZETTE.
@@ -313,7 +312,9 @@
                         <lb/>Leur corps est remarquable par la bosse ou les deux bosses qu'il pré-
                     
                 </p>
-                <pb xml:id='Suzette_50-70-0038.jpg' n='4'/>
+
+                <pb xml:id="Suzette_50-70-0038.jpg" n="4"/>
+
                 <p>
                    
                         <lb/>A TRAVERS LES JUNGLES. 211
@@ -375,7 +376,9 @@
                         <lb/>La chasse du tigre se fait avec des éléphants dressés, sur lesquels 
                     
                 </p>
-                <pb xml:id='Suzette_50-70-0039.jpg' n='5'/>
+
+                <pb xml:id="Suzette_50-70-0039.jpg" n="5"/>
+
                 <p>
                     
                         <lb/>212 SUZETTE.

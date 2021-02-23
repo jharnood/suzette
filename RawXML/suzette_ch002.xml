@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -201,7 +200,8 @@
             </list>
          </sourceDesc>
       </fileDesc>
-      <profileDesc>
+      <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+</rdf:RDF></xenoData><profileDesc>
          <langUsage>
             <language ident="fr">French</language>
             <language ident="en">English</language>
@@ -249,13 +249,13 @@
                      dans la lumière qu'il envoie.</gloss> et doux d'un beau regard. </p>
                <p> Envahis par le calme du soir, tous se taisaient. </p>
                <p> A la fin, le père dit : </p>
-
-               <p> — Suzette, va chercher la lampe. </p>
+               <p> — <persName type="Fictional">Suzette</persName>, va chercher la <objectName type="Furniture">lampe</objectName>. </p>
                <p> Les enfants, se levant alors, se rapprochèrent du chat, du chien, des bottes, du
                   chaudron, de la soupière à ramages, devant l'âtre. </p>
-               <p> Suzette revint de la pièce à côté. </p>
+               <p> <persName type="Fictional">Suzette</persName> revint de la pièce à côté. </p>
                <p> — Eh bien ! et la lampe ?</p>
-               <p> — La voici, papa, sur la table. </p>
+               <p> — La voici, papa, sur la <objectName type="Furniture">table</objectName>. </p>
+
 
 
                <figure type="sujets">
@@ -263,7 +263,8 @@
                   <caption>Le pétrole brut, qui est extrait du sol au moyen de puits forés, est
                      soumis à la distillation avant de servir à l'éclairage, il faut prendre les
                      plus grandes précautions lorsqu’on emploie des lampes à pétrole et ne jamais
-                     transvaser ce liquide à la lumière. </caption>
+                     transvaser ce liquide à la <objectType>lumière</objectType>. </caption>
+
                </figure>
 
 
