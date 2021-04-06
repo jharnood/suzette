@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="undefined"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -121,7 +119,8 @@
                 </list>
             </sourceDesc>
         </fileDesc>
-        <profileDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+</rdf:RDF></xenoData><profileDesc>
             <langUsage>
                 <language ident="fr">French</language>
                 <language ident="en">English</language>
@@ -136,7 +135,7 @@
                 <pb type="110"/>
 
                 <div2 type="récit">
-                    <p><lb/>Ils rentrèrent. Suzette les attendait avec le diner prêt, <lb/>et un
+                    <p><lb/>Ils rentrèrent. <persName type="Fictional">Suzette</persName> les attendait avec le diner prêt, <lb/>et un
                         livre qui devait servir de dessert. Elle était allée <lb/>le demander à la
                         bibliothèque de l'école et l'avait déjà <lb/>parcouru aux trois quarts.</p>
 
@@ -151,8 +150,7 @@
                         <lb/>du riz qui ne <lb/>devait donner <lb/>sa moisson <lb/>qu'à la neuviè-
                         <lb/>me lune. Je re- <lb/>marquai par <lb/>hasard un pied <lb/>de riz. Il
                         s'éle- <lb/>vait au-dessus <lb/>de tous les au- <lb/>tres, était déjà
-                        <lb/>monté en épi <lb/>et mûr. Je me <lb/>le fis apporter. <figure
-                            type="illustration">
+                        <lb/>monté en épi <lb/>et mûr. Je me <lb/>le fis apporter. <figure type="illustration">
                             <caption><lb/>Cuiture et récolte du riz, <lb/>en Chine. <lb/>—Le riz est
                                 un farineux <lb/>dont on fait une excellente <lb/>nourriture, en
                                 outre de ses <lb/>nombreuses applications à
@@ -186,7 +184,7 @@
                 <div2 type="questionnaire">
                     <head><lb/>Questionnaire — D'où provenait </head>
                     <list>
-                        <item><lb/>le livre que tenait Suzette ?</item>
+                        <item><lb/>le livre que tenait <persName type="Fictional">Suzette</persName> ?</item>
                         <item>— Quel était <lb/>le titre du chapitre qu'elle se disposait à
                             <lb/>lire ?</item>
                         <item>— Que remarqua l'empereur Kang- <lb/>Hi en se promenant parmi les
