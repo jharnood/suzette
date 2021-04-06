@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="undefined"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -113,7 +109,8 @@
             </list>
          </sourceDesc>
       </fileDesc>
-      <profileDesc>
+      <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+</rdf:RDF></xenoData><profileDesc>
          <langUsage>
             <language ident="fr">French</language>
             <language ident="en">English</language>
@@ -127,8 +124,8 @@
             <pb type="page" n="26"/>
             <div2 type="récit">
 
-               <p> Un joli papillon, fleur ailée, vient voltiger devant la fenêtre ; sur les arbres
-                  voisins, les oiseaux se répondent ; au-dessous, les voix des fillettes en font
+               <p> Un joli <term type="Animal">papillon</term>, fleur ailée, vient voltiger devant la <term type="Furniture">fenêtre</term> ; sur les arbres
+                  voisins, les <term type="Furniture">oiseaux</term> se répondent ; au-dessous, les voix des fillettes en font
                   autant : </p>
 
                <figure type="sujets">
@@ -145,10 +142,10 @@
                      Ragoût. Mets assaisonné, composé de légumes et de viande découpée. </gloss>
                   clapotant* <gloss> Clapoter. Un liquide clapote quand il fait du bruit par suite
                      d'une légère agitation. </gloss> là sur le poêle ! </p>
-               <p> M. et Mme Valon passent avec leurs bébés et s'arrêtent : </p>
+               <p> M. et <persName type="Fictional">Mme Valon</persName> passent avec leurs bébés et s'arrêtent : </p>
 
                
-                  <p> — Eh ! Suzette, ton ragoût brûle ! vite de l'eau !... </p>
+                  <p> — Eh ! <persName type="Fictional">Suzette</persName>, ton ragoût brûle ! vite de l'eau !... </p>
               
                   <p> — Madame, aujourd'hui, je ne sais pas ce que je fais ! </p>
                
@@ -159,7 +156,7 @@
                <pb type="page" n="27"/>
 
 
-               <p> Suzette est désolée, car elle connaît déjà l'importance de la cuisine qui donne
+               <p> <persName type="Fictional">Suzette</persName> est désolée, car elle connaît déjà l'importance de la cuisine qui donne
                   les bonnes ou les mauvaises digestions, le plaisir ou le dégoût de la table. Gâter
                   un morceau de viande, un légume frais, les transformer en charbon ou même manquer
                   de leur faire rendre toute leur qualité nutritive, toute leur saveur*<gloss>
@@ -261,8 +258,7 @@
                   <div4 type="réponses" ana="#aliments_cuisine">
                      <p> Il est prudent, lorsqu'on fait cuire un mets ou bouillir du lait, de ne pas
                         pousser le feu trop vivement, car la partie voisine du fond du vase serait
-                        exposée à brûler. Le lait déborderait alors et se perdrait en <fw
-                           type="header"> LA CLEF DU TRÉSOR. 29 </fw>
+                        exposée à brûler. Le lait déborderait alors et se perdrait en <fw type="header"> LA CLEF DU TRÉSOR. 29 </fw>
                         <pb type="page" n="29"/> partie, tandis que le reste contracterait un goût
                         détestable ; il ne faut donc jamais le perdre de vue, ce qu'oublie plus
                         d'une petite fille à qui la maman a donné commission de veiller au fourneau. </p>
