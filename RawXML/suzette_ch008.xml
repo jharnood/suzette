@@ -183,7 +183,7 @@
 
 
                <p> Mais il y a aussi des jours <term type="Emotion">heureux</term>, et ils sont de plus en plus nombreux, à
-                  mesure que le temps s'écoule et que Suzette grandit en taille et en bon vouloir. </p>
+                  mesure que le temps s'écoule et que <persName type="Fictional">Suzette</persName> grandit en taille et en bon vouloir. </p>
 
                <figure type="illustration">
                   <caption> Les aromates les plus employés en cuisine sont : 1° le thym, plante
@@ -206,15 +206,15 @@
             <div2 type="questionnaire">
                <head> Questionnaire. </head>
                <list>
-                  <item>— Que faisaient un joli papillon, les oiseaux et les fillettes, pendant que
-                     Suzette préparait le repas de famille ?</item>
+                  <item>— Que faisaient un joli <term type="Insect">papillon</term>, <term type="Animal">les oiseaux</term> et les fillettes, pendant que
+                     <persName type="Fictional">Suzette</persName> préparait le repas de famille ?</item>
                   <item>— Que direz-vous de la chanson ?</item>
-                  <item>— Pourquoi Suzette agissait-elle ainsi ?</item>
+                  <item>— Pourquoi <persName type="Fictional">Suzette</persName> agissait-elle ainsi ?</item>
                   <item>— Quel accident survint pendant qu'elle cuisinait ?</item>
                   <item>— En quoi est-il fâcheux de laisser brûler un mets qu'on<cb/>accommode
                      ?</item>
-                  <item>— Quel conseil fut donné à Suzette par Mme Liénard ?</item>
-                  <item>— Pourquoi était-elle triste ?</item>
+                  <item>— Quel conseil fut donné à <persName type="Fictional">Suzette</persName> par <term type="Fictional">Mme Liénard</term> ?</item>
+                  <item>— Pourquoi était-elle <term type="Emotion">triste</term> ?</item>
                   <item>— Dites un mot de ses progrès dans la tenue du ménage.</item>
                   <item>— Pourquoi la chère petite a-t-elle réussi de la sorte ?</item>
                   <item>— Quelle heureuse transformation avait subie la maison ?</item>
@@ -236,8 +236,8 @@
                   </div4>
 
                   <div4 type="réponses" ana="#français">
-                     <p> Le papillon voltigeait devant la fenêtre. — Les oiseaux se répondaient. —
-                        Les fillettes dansaient en chantant une ronde, etc., etc. </p>
+                     <p> <term type="Insect">Le papillon</term> voltigeait devant la <term type="Furniture">fenêtre</term>. — <term type="Animal">Les oiseaux</term> se répondaient. —
+                        <term type="Animal">Les fillettes</term> dansaient en chantant une ronde, etc., etc. </p>
                   </div4>
                </div3>
 
@@ -246,12 +246,12 @@
                   <div4 type="questions">
                      <list type="exercices">
                         <item>— Quelles précautions faut-il prendre lorsqu'on fait cuire de la
-                           viande ou bouillir du lait ?</item>
-                        <item>— Comment rend-on mangeable un mets brûlé ?</item>
+                           <term type="Food">viande</term> ou bouillir du <term type="Beverage">lait</term> ?</item>
+                        <item>— Comment rend-on mangeable un mets <term type="Cooking">brûlé</term> ?</item>
                         <item>— A quoi servent les aromates dans la cuisine ?</item>
                         <item>— Quels sont les principaux ?</item>
                         <item>— Où se les procure-t-on ?</item>
-                        <item>— Où met-on du thym, du laurier ?</item>
+                        <item>— Où met-on du <term type="Food">thym</term>, du laurier ?</item>
                      </list>
                   </div4>
 
@@ -274,11 +274,10 @@
                         capucines, le persil, le cerfeuil, l'anis, l'estragon, le thym, le serpolet.
                         Sur la même ligne, nous mettrons les <term>épices</term>, c'est-à-dire le
                         poivre, le piment, la vanille, la cannelle, le girofle, la muscade. La
-                        plupart viennent de la Malaisie. </p>
+                        plupart viennent de <placeName type="Country">la Malaisie</placeName>. </p>
                      <p>On se procure les aromates ou condiments ainsi que les épices, soit en les
                         cultivant dans son jardin, soit en les achetant chez les épiciers. </p>
-                     <p>Les cuisinières mettent du thym et du laurier dans les ragoûts et sur les
-                        viandes qu'on fait cuire dans leur jus. </p>
+                     <p>Les cuisinières mettent du thym et du laurier dans <term type="Food">les ragoûts</term> et sur <term type="Food">les viandes</term> qu'on fait cuire dans leur jus. </p>
                   </div4>
                </div3>
 
