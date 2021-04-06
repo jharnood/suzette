@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/djakacki/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="http://moravianlives.bucknell.edu.s3.amazonaws.com/data/ml_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Suzette: a Digital Edition</title>
+            <respStmt>
+               <persName>John Westbrook</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sarah Haber</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and Encoder, 2020 - Present</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="JAKA1">Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Annie Girton</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and Encoder, 2018-2020</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sarah Haber</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and Encoder, 2020-Present</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rebecca Heintzelman</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and Encoder, 2020-Present</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>Bucknell University</distributor>
+            <pubPlace>
+               <address>
+                  <addrLine>One Dent Drive</addrLine>
+                  <addrLine>Lewisburg, PA 17837</addrLine>
+               </address>
+            </pubPlace>
+            <availability>
+               <licence>Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles.
+                     Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine –
+                     Couture</title>
+                  <author>Robert Halt</author>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <date>1889</date>
+                     <distributor>Libraire Classique Paul Delaplane</distributor>
+                     <pubPlace>Paris, France</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+            <list>
+               <item xml:id="âme">L'âme</item>
+               <item xml:id="enfant_école"> L'enfant dans école </item>
+               <item xml:id="enfant_famille"> L'enfant dans la famille </item>
+               <item xml:id="envers_dieu"> Devoirs envers Dieu </item>
+               <item xml:id="envers_semblables"> Devoirs envers nos semblables </item>
+               <item xml:id="envers_serviteur"> Devoirs envers les serviteurs </item>
+               <item xml:id="envers_soi-même"> Devoirs envers soi-même </item>
+               <item xml:id="extérieurs"> Les biens extérieurs </item>
+               <item xml:id="fréres_soeurs"> Devoirs des frères et soeurs </item>
+               <item xml:id="patrie"> La patrie </item>
+               <item xml:id="instruction_civique"> Instruction civique </item>
+               <item xml:id="civilité"> Civilité </item>
+               <item xml:id="français"> Français </item>
+               <item xml:id="descriptions"> Descriptions </item>
+               <item xml:id="lettres"> Lettres </item>
+               <item xml:id="récits"> Récits </item>
+               <item xml:id="récits_historiques"> Récits historiques </item>
+               <item xml:id="sujets-moraux_imagination"> Sujets-moraux ou d'imagination </item>
+               <item xml:id="histoire"> Histoire </item>
+               <item xml:id="afrique"> Afrique </item>
+               <item xml:id="amérique"> Amérique </item>
+               <item xml:id="asie"> Asie </item>
+               <item xml:id="europe"> Europe </item>
+               <item xml:id="france"> France </item>
+               <item xml:id="géographie"> Géographie </item>
+               <item xml:id="océanie"> Océanie </item>
+               <item xml:id="minéraux"> Minéraux </item>
+               <item xml:id="sciences_naturelles"> Sciences Naturelles </item>
+               <item xml:id="végétaux"> Végétaux </item>
+               <item xml:id="arbres_non_cultivés"> 1° Arbres Non Cultivés </item>
+               <item xml:id="herbes_plantes_sauvages"> 2° Herbes ou Plantes Sauvages </item>
+               <item xml:id="arbres_cultivés"> 3° Arbres Cultivés </item>
+               <item xml:id="arbustes_cultivés"> 4° Arbustes Cultivés </item>
+               <item xml:id="céréales"> 5° Céréales </item>
+               <item xml:id="legumes_racines"> 6° Légumes, Racines, etc. </item>
+               <item xml:id="divers_végétaux"> 7° Divers (Vegetaux) </item>
+               <item xml:id="homme"> 1° L'Homme </item>
+               <item xml:id="animaux_domestiques"> 2° Animaux Domestiques </item>
+               <item xml:id="animaux_sauvages"> 3° Animaux Sauvages </item>
+               <item xml:id="sciences_physiques"> Notions Relatives aux Sciences Physiques </item>
+               <item xml:id="matières_objets_fabriques"> Matières et objets fabriqués </item>
+               <item xml:id="construction"> Construction </item>
+               <item xml:id="machines_appareils"> Machines, appareils, ustensiles, vases </item>
+               <item xml:id="outils"> Outils </item>
+               <item xml:id="etoffes_habillement"> Étoffes, habillement </item>
+               <item xml:id="divers_industrie"> Divers (Industrie) </item>
+               <item xml:id="économie_domestique"> Économie Domestique </item>
+               <item xml:id="aliments_cuisine"> Aliments et cuisine </item>
+               <item xml:id="vêtements_domestiques"> Vêtements </item>
+               <item xml:id="basse-cour"> Basse-cour </item>
+               <item xml:id="corps_habitations"> Corps et habitations </item>
+               <item xml:id="vêtements_hygiene"> Vêtements (Hygiene) </item>
+               <item xml:id="aliments"> Aliments </item>
+               <item xml:id="maladies_remèdes"> Maladies, etc.; remèdes </item>
+            </list>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fr">French</language>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb xml:id='Suzette_ch87-92-0011.jpg' n='11'/>
+            <p>
+               <lg>
+                  <l>312 SUZETTE.</l>
+                  <l>90. — Fleurs et verdures. (Élève, p. 188.)</l>
+                  <l>— Suzette, regarde ! dit-elle.</l>
+                  <l>C&apos;était un enchantement : des gardénias, des azalées, </l>
+                  <l>des camélias, des tubéreuses, des glaeuls, du mimosa, </l>
+                  <l>de l&apos;oranger, des anémones, des roses, des bégonias </l>
+                  <l>venus des pays du soleil ; puis les fleurs plus connues </l>
+                  <l>des gens de Fragicourt : la giroflée, la pervenche, la </l>
+                  <l>primevère, la jacinthe, le narcisse, le muguet des bois.</l>
+                  <l>Et tout cela par énormes bottées, par charretées !</l>
+                  <l>— Quelle splendeur ! dit Suzette ravie.</l>
+               </lg>
+            </p>
+            <p>
+               <lg>
+                  <l>— Et si tu crois voir ici </l>
+                  <l>le dessus du panier, dit </l>
+                  <l>Mme Richard, détrompe-toi, </l>
+                  <l>les plus jolies fleurs s&apos;en </l>
+                  <l>vont directement des serres </l>
+                  <l>et des jardins de Nice aux </l>
+                  <l>grands fleuristes de Paris, </l>
+               </lg>
+            </p>
+            <p>
+               <lg>
+                  <l>chez qui il faut voir </l>
+                  <l>ces merveilles et le </l>
+                  <l>prix qu&apos;elles coû-</l>
+                  <l>tent. Les Parisiens </l>
+                  <l>sont fous de fleurs.</l>
+                  <l>Ils en remplissent </l>
+                  <l>leurs salons, leurs </l>
+                  <l>fêtes et leurs tom-</l>
+                  <l>bes. Ils payent </l>
+                  <l>vingt, trente francs </l>
+                  <l>un tout petit bou-</l>
+                  <l>quet de mariée et </l>
+                  <l>cinquante, deux cents, trois cents  une couronne funé-</l>
+               </lg>
+            </p>
+            <p>
+               <lg>
+                  <l>Ce sont des fémmes, des ouvrières qui montent </l>
+                  <l>les fleurs naturelles et composent les bouquets et </l>
+                  <l>les couronnes.</l>
+               </lg>
+            </p>
+            <p>
+               <lg>
+                  <l>raire*. Ce sont des femmes, des ouvrières qui montent </l>
+                  <l>les fleurs naturelles et composent les bouquets, les </l>
+                  <l>couronnes. Il n&apos;y a pas de travail plus joli. Il y faut un </l>
+                  <l>goût délicat, et ce goût n&apos;est pas donné à tout le monde, </l>
+                  <l>aussi paye-t-on ces ouvrières assez largement.</l>
+                  <l>Tout en causant de ce bon et gracieux métier féminin, </l>
+                  <l>et en regardant ces magnificences fleuries, dont heureu-</l>
+                  <l>sement là vue et le parfum ne coûtaient rien, on at-</l>
+                  <l>teignit le pavillon des légumes.</l>
+               </lg>
+            </p>
+            <pb xml:id='Suzette_ch87-92-0012.jpg' n='12'/>
+            <p>
+               <lg>
+                  <l>FLEURS ET VERDURES. 313</l>
+                  <l>— Ah ! les réjouissantes montagnes de radis, d&apos;asperges, </l>
+                  <l>de petits pois, de carottes, de choux ! tout cela frais </l>
+                  <l>comme l&apos;oeil, et se prolongeant jusqu&apos;au dehors, où </l>
+                  <l>s’alignait une procession de chariots de verdure !</l>
+               </lg>
+            </p>
+            <p>
+               <lg>
+                  <l>Là, à droite, qu&apos;est-ce que </l>
+                  <l>c&apos;est ? C&apos;est du cresson, du </l>
+                  <l>cresson de fontaine, « la santé </l>
+                  <l>du corps », comme crient dans </l>
+                  <l>les rues les marchands des </l>
+                  <l>quatre saisons . Il est venu en </l>
+                  <l>chemin de fer de lointaines </l>
+                  <l>cressonnières. Quelle provi-</l>
+                  <l>sion !</l>
+                  <l>— De quoi garnir les plats </l>
+                  <l>de rôti pour quelques se</l>
+                  <l>maines au moins, dit Suzette.</l>
+                  <l>— Pour quelques semaines !</l>
+                  <l>répondit la tante ; c&apos;est simple-</l>
+               </lg>
+            </p>
+            <p>
+               <lg>
+                  <l>Asperge.</l>
+                  <l>C&apos;est une plante potagère dont les </l>
+                  <l>jeunes pousses, cuites dans l&apos;eau </l>
+                  <l>bouillante, sont mangées soit à </l>
+                  <l>l&apos;huile, soit à la sauce blanche.</l>
+               </lg>
+            </p>
+            <p>
+               <lg>
+                  <l>ment la ration d&apos;un jour, </l>
+                  <l>comme toute l&apos;abon-</l>
+                  <l>dance que tu viens de </l>
+                  <l>voir. Et que de gens en</l>
+                  <l>core ne déjeuneront pas </l>
+                  <l>ce matin, ou se couche-</l>
+                  <l>ront ce soir sans diner !</l>
+                  <l>Paris, cette mère Gigo-</l>
+                  <l>gne, a plus de deux mil-</l>
+                  <l>lions d&apos;enfants à nourrir.</l>
+                  <l>Et, en réalité, malgré </l>
+                  <l>cette apparence magni-</l>
+                  <l>fique des Halles, les vi-</l>
+                  <l>vres y sont rares, puis-</l>
+                  <l>qu&apos;ils y sont chers.</l>
+                  <l>Ce dernier mot sonna </l>
+                  <l>plus haut que les au-</l>
+                  <l>tres.</l>
+               </lg>
+            </p>
+            <p>
+               <lg>
+                  <l>Pois.</l>
+                  <l>Les pois, qu&apos;on mange généralement à l&apos;état </l>
+                  <l>de primeur et qu&apos;on nomme alors petits pois, </l>
+                  <l>sont cuits le plus souvent dans du beurre.</l>
+                  <l>On en fait, aussi bien que des asperges </l>
+                  <l>et des haricots verts, des conserves qui sont </l>
+                  <l>une précieuse ressource en hiver.</l>
+               </lg>
+            </p>
+            <p>
+               <lg>
+                  <l>Questionnaire. — Nommez les </l>
+                  <l>fleurs que Suzette admirait sur le car</l>
+                  <l>reau des Halles et aux étaux. — Où vont </l>
+                  <l>les plus jolies fleurs envoyées de Nice </l>
+               </lg>
+            </p>
+            <p>
+               <lg>
+                  <l>et d&apos;ailleurs ? — Qu&apos;en font les riches </l>
+                  <l>Parisiennes ? — Que payent-elles les </l>
+                  <l>beaux bouquets ? — Qui compose ces </l>
+                  <l>bouquets élégants ? — Qu&apos;est-ce qui se </l>
+                  <l>SUZETTE (Maitresse)  18</l>
+               </lg>
+            </p>
+            <pb xml:id='Suzette_ch87-92-0013.jpg' n='13'/>
+            <p>
+               <lg>
+                  <l>314  SUZETTE.</l>
+               </lg>
+            </p>
+            <p>
+               <lg>
+                  <l>présentait aux regards dans le pavillon </l>
+                  <l>des légumes ? — Donnez quelques détails </l>
+                  <l>sur le cresson. — Quelle réflexion fit </l>
+               </lg>
+            </p>
+            <p>
+               <lg>
+                  <l>Suzette sur l&apos;abondance de ces provi</l>
+                  <l>sions ? — Que répondit la tante ? — Que </l>
+                  <l>savez-vous des asperges et des petits pois ?</l>
+               </lg>
+            </p>
+            <p>
+               <lg>
+                  <l>DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES.</l>
+                  <l>Composition. — Décrire soit le marché du pays que vous habi-</l>
+                  <l>tez, soit celui d&apos;une localité voisine où vous vous étes rendue. —- Prendre </l>
+                  <l>pour modèle la description des Halles, telle que vous venez de la lire.</l>
+                  <l>(Voir encore la Deseription d&apos;un marché, COURS DE COMPOSITION FRAN-</l>
+                  <l>ÇAISE (Degré supérieur), par E. LAPORTE, page 315, Partie du maître.)</l>
+                  <l>Horticulture. — LES LÉGUMES. — Ce qu&apos;on entend par légumes.</l>
+                  <l>— Citer les principaux. — Décrire un radis rose, un radis noir, une </l>
+                  <l>tige de pois, un pied de cresson. — Où cultive-t-on celui-ci ? — Quand </l>
+                  <l>les récolte-t-on : </l>
+                  <l>On donne le nom de légumes d&apos;abord à certaines graines qui viennent </l>
+                  <l>dans des gousses, comme les pois et les fèves, puis à toute sorte d&apos;herbes </l>
+                  <l>potagères, de plantes et de racines bonnes à manger.</l>
+                  <l>Les principaux légumes sont : l° les pois, les haricots, les fèves, les </l>
+                  <l>asperges, les artichauts ; — 2° les choux, les choux-fleurs, les épi-</l>
+                  <l>nards, l&apos;oseille, le persil, le cerfeuil ; — 3° le cresson, la laitue, la </l>
+                  <l>romaine, le céleri, la chicorée, la mâche, le pissenlit, désignés sous le </l>
+                  <l>nom général de salades ; — 4° l&apos;ail, l&apos;échalote, la ciboule, le poireau, </l>
+                  <l>la carotte, le navet, l&apos;oignon, la tomate, le panais, les radis.</l>
+                  <l>Les radis sont des plantes racines de saveur forte qu&apos;on mange crues </l>
+                  <l>et assaisonnées avec du sel. La variété appelée radis rose a de très </l>
+                  <l>petites dimensions et se cultive sur couche ; elle est ainsi nommée en </l>
+                  <l>raison de la couleur de sa partie comestible. Les radis noirs ont de 10 à </l>
+                  <l>15 centimêtres de longueur ; leur racine est allongée, et on peut les </l>
+                  <l>cultiver en pleine terre dans un sol bien fumé.</l>
+                  <l>Un pied de pois donne naissance à une tige mince qui atteint des </l>
+                  <l>dimensions considérables en hauteur, à ce point qu&apos;on est obligé de </l>
+                  <l>la soutenir avec des rames. Elle porte des feuilles, et il naît à l&apos;aisselle </l>
+                  <l>de la plupart de ces feuilles des fleurs blanches d&apos;où proviennent les </l>
+                  <l>gousses qui renferment les pois.</l>
+                  <l>Le cresson est une plante herbacée à feuilles rondes supportées </l>
+                  <l>par des rameaux verts qui sortent d&apos;un même pied. Cette plante croit </l>
+                  <l>dans l&apos;eau et principalement au bord des ruisseaux et des sources.</l>
+                  <l>On récolte les radis roses à partir du mois de mars et jusqu&apos;à la </l>
+                  <l>mauvaise saison ; les radis noirs, à partir de juillet ou d&apos;août ; le cres-</l>
+                  <l>son, pendant toute l&apos;année.</l>
+                  <l>Économie domestique. — Etablir d&apos;après les prix du dernier </l>
+                  <l>marché, une facture qui mentionnera l&apos;achat d&apos;un chou ordinaire, </l>
+                  <l>d&apos;un chou-fleur, d&apos;un demi-kilogramme de choux de Bruxelles, d&apos;une </l>
+                  <l>botte de radis roses, d&apos;un paquet de radis noirs, d&apos;un kilogramme de </l>
+                  <l>petits pois, d&apos;une salade au cresson pour cinq personnes.</l>
+                  <l>MODÉLE DE LA FACTURE.</l>
+                  <l>M. Prud&apos;homme, jardinier à Saint-Laurent-de-Gorre.</l>
+                  <l>Doit Mlle ZOE GOSSELIN, institutrice.</l>
+               </lg>
+            </p>
+            <pb xml:id='Suzette_ch87-92-0014.jpg' n='14'/>
+            <p>
+               <lg>
+                  <l>ASPERGES D&apos;ARGENTEUIL. 315</l>
+                  <l>Comment prépare-t-on une salade au cresson ? — Comment se </l>
+                  <l>mangent les radis roses et comment les sert-on ? (Mémes questions </l>
+                  <l>pour les autres légumes.)</l>
+                  <l>On lave le cresson à grande eau après l&apos;avoir soigneusement épluché </l>
+                  <l>et en avoir mis de côté les plus grosses tiges. On sert alors dans un </l>
+                  <l>saladier et l&apos;on assaisonne comme pour les autres sortes de salades.</l>
+                  <l>Les radis roses se mangent crus et assaisonnés avec du sel, après </l>
+                  <l>qu&apos;on a eu soin de les bien laver et d&apos;en couper les feuilles. On doit les </l>
+                  <l>servir sur un de ces plats allongés qu&apos;on appelle raviers en raison de </l>
+                  <l>l&apos;usage auquel ils sont exclusivement destinés. </l>
+               </lg>
+            </p>
+         </div>
+      </body>
+  </text>
+</TEI>

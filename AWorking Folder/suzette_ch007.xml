@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="out/suzette_custom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/djakacki/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="http://moravianlives.bucknell.edu.s3.amazonaws.com/data/ml_cwrc.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -13,11 +12,6 @@
                <resp>Editor</resp>
             </respStmt>
             <respStmt>
-               <persName>Sarah Haber</persName>
-               <orgName>Bucknell University</orgName>
-               <resp>Research Assistant and Encoder, 2020 - Present</resp>
-            </respStmt>
-            <respStmt>
                <persName xml:id="JAKA1">Diane Jakacki</persName>
                <orgName>Bucknell University</orgName>
                <resp>Project Manager</resp>
@@ -26,6 +20,16 @@
                <persName>Annie Girton</persName>
                <orgName>Bucknell University</orgName>
                <resp>Research Assistant and Encoder, 2018-2020</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sarah Haber</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and Encoder, 2020-Present</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rebecca Heintzelman</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and Encoder, 2020-Present</resp>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -277,7 +281,7 @@
                </div3>
 
 
-               <div3 type="sciences_naturelle">
+               <div3 type="sciences_naturelles">
 
                   <head type="sujets"> Sciences naturelles. </head>
                   <div4 type="questions">
