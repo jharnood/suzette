@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="undefined"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -113,7 +109,8 @@
             </list>
          </sourceDesc>
       </fileDesc>
-      <profileDesc>
+      <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+</rdf:RDF></xenoData><profileDesc>
          <langUsage>
             <language ident="fr">French</language>
             <language ident="en">English</language>
@@ -127,8 +124,8 @@
             <pb type="page" n="26"/>
             <div2 type="récit">
 
-               <p> Un joli papillon, fleur ailée, vient voltiger devant la fenêtre ; sur les arbres
-                  voisins, les oiseaux se répondent ; au-dessous, les voix des fillettes en font
+               <p> Un joli <term type="Animal">papillon</term>, fleur ailée, vient voltiger devant la <term type="Furniture">fenêtre</term> ; sur les arbres
+                  voisins, les <term type="Furniture">oiseaux</term> se répondent ; au-dessous, les voix des fillettes en font
                   autant : </p>
 
                <figure type="sujets">
@@ -141,14 +138,14 @@
                      <l> « Voyez comme on danse. » </l>
                   </lg>
 
-               <p> Que cette chanson est autrement gentille et gaie que celle du ragoût* <gloss>
+               <p> Que cette chanson est autrement gentille et gaie que celle du <term type="Food">ragoût</term>* <gloss>
                      Ragoût. Mets assaisonné, composé de légumes et de viande découpée. </gloss>
                   clapotant* <gloss> Clapoter. Un liquide clapote quand il fait du bruit par suite
                      d'une légère agitation. </gloss> là sur le poêle ! </p>
-               <p> M. et Mme Valon passent avec leurs bébés et s'arrêtent : </p>
+               <p> M. et <persName type="Fictional">Mme Valon</persName> passent avec leurs bébés et s'arrêtent : </p>
 
                
-                  <p> — Eh ! Suzette, ton ragoût brûle ! vite de l'eau !... </p>
+                  <p> — Eh ! <persName type="Fictional">Suzette</persName>, ton ragoût brûle ! vite de l'eau !... </p>
               
                   <p> — Madame, aujourd'hui, je ne sais pas ce que je fais ! </p>
                
@@ -159,9 +156,9 @@
                <pb type="page" n="27"/>
 
 
-               <p> Suzette est désolée, car elle connaît déjà l'importance de la cuisine qui donne
+               <p> <persName type="Fictional">Suzette</persName> est désolée, car elle connaît déjà l'importance de la cuisine qui donne
                   les bonnes ou les mauvaises digestions, le plaisir ou le dégoût de la table. Gâter
-                  un morceau de viande, un légume frais, les transformer en charbon ou même manquer
+                  un <term type="Food">morceau de viande</term>, <term type="Food">un légume frais</term>, les transformer en charbon ou même manquer
                   de leur faire rendre toute leur qualité nutritive, toute leur saveur*<gloss>
                      Saveur. Qualité qu'on apprécie par le goût. </gloss>, ce sont là de grosses
                   fautes. Elle a heureusement du nez, du </p>
@@ -171,9 +168,9 @@
                      presque mangeable. </caption>
                </figure>
 
-               <p> palais ; c'est avec cela et de l'attention que se fait la bonne soupe, et le
-                  reste. Mme Liénard, la mère de Mme Valon, qui s'y entend, conseille Suzette. </p>
-               <p> On sait donc ici le moyen de sauver à peu près le ragoût brûlé. Sous les yeux de
+               <p> palais ; c'est avec cela et de l'attention que se fait la bonne <term type="Food">soupe</term>, et le
+                  reste. <persName type="Fictional">Mme Liénard</persName>, <persName type="Fictional">la mère de Mme Valon</persName>, qui s'y entend, conseille <persName type="Fictional">Suzette</persName>. </p>
+               <p> On sait donc ici le moyen de sauver à peu près le <term type="Food">ragoût</term> brûlé. Sous les yeux de
                   Mme Valon, elle le transvase, le rafraîchit de quelques aromates*<gloss> Aromate.
                      Substance à odeur forte dont on parfume les mets. </gloss> nouveaux : il sera
                   presque mangeable. </p>
@@ -185,8 +182,8 @@
                <pb type="page" n="28"/>
 
 
-               <p> Mais il y a aussi des jours heureux, et ils sont de plus en plus nombreux, à
-                  mesure que le temps s'écoule et que Suzette grandit en taille et en bon vouloir. </p>
+               <p> Mais il y a aussi des jours <term type="Emotion">heureux</term>, et ils sont de plus en plus nombreux, à
+                  mesure que le temps s'écoule et que <persName type="Fictional">Suzette</persName> grandit en taille et en bon vouloir. </p>
 
                <figure type="illustration">
                   <caption> Les aromates les plus employés en cuisine sont : 1° le thym, plante
@@ -201,7 +198,7 @@
                   pas abandonné le devoir. Elle a à cœur de continuer le beau, le noble rôle de sa
                   maman et de la femme de la caverne : l'embellissement et la joie du foyer. </p>
                <p> Et, à cette heure, la maison est toute gaie de propreté et de fraîcheur ; aux
-                  repas, la famille se régale de mieux en mieux ; le père, rasséréné* <gloss>
+                  repas, la famille se régale de mieux en mieux ; <persName type="Fictional">le père</persName>, rasséréné* <gloss>
                      Rasséréné. Qui n'a plus ni crainte ni chagrin. </gloss>, sourit à la petite
                   ménagère, qui même, aujourd'hui, trouve encore le temps de jouer. </p>
             </div2>
@@ -209,15 +206,15 @@
             <div2 type="questionnaire">
                <head> Questionnaire. </head>
                <list>
-                  <item>— Que faisaient un joli papillon, les oiseaux et les fillettes, pendant que
-                     Suzette préparait le repas de famille ?</item>
+                  <item>— Que faisaient un joli <term type="Insect">papillon</term>, <term type="Animal">les oiseaux</term> et les fillettes, pendant que
+                     <persName type="Fictional">Suzette</persName> préparait le repas de famille ?</item>
                   <item>— Que direz-vous de la chanson ?</item>
-                  <item>— Pourquoi Suzette agissait-elle ainsi ?</item>
+                  <item>— Pourquoi <persName type="Fictional">Suzette</persName> agissait-elle ainsi ?</item>
                   <item>— Quel accident survint pendant qu'elle cuisinait ?</item>
                   <item>— En quoi est-il fâcheux de laisser brûler un mets qu'on<cb/>accommode
                      ?</item>
-                  <item>— Quel conseil fut donné à Suzette par Mme Liénard ?</item>
-                  <item>— Pourquoi était-elle triste ?</item>
+                  <item>— Quel conseil fut donné à <persName type="Fictional">Suzette</persName> par <term type="Fictional">Mme Liénard</term> ?</item>
+                  <item>— Pourquoi était-elle <term type="Emotion">triste</term> ?</item>
                   <item>— Dites un mot de ses progrès dans la tenue du ménage.</item>
                   <item>— Pourquoi la chère petite a-t-elle réussi de la sorte ?</item>
                   <item>— Quelle heureuse transformation avait subie la maison ?</item>
@@ -239,8 +236,8 @@
                   </div4>
 
                   <div4 type="réponses" ana="#français">
-                     <p> Le papillon voltigeait devant la fenêtre. — Les oiseaux se répondaient. —
-                        Les fillettes dansaient en chantant une ronde, etc., etc. </p>
+                     <p> <term type="Insect">Le papillon</term> voltigeait devant la <term type="Furniture">fenêtre</term>. — <term type="Animal">Les oiseaux</term> se répondaient. —
+                        <term type="Animal">Les fillettes</term> dansaient en chantant une ronde, etc., etc. </p>
                   </div4>
                </div3>
 
@@ -249,20 +246,19 @@
                   <div4 type="questions">
                      <list type="exercices">
                         <item>— Quelles précautions faut-il prendre lorsqu'on fait cuire de la
-                           viande ou bouillir du lait ?</item>
-                        <item>— Comment rend-on mangeable un mets brûlé ?</item>
+                           <term type="Food">viande</term> ou bouillir du <term type="Beverage">lait</term> ?</item>
+                        <item>— Comment rend-on mangeable un mets <term type="Cooking">brûlé</term> ?</item>
                         <item>— A quoi servent les aromates dans la cuisine ?</item>
                         <item>— Quels sont les principaux ?</item>
                         <item>— Où se les procure-t-on ?</item>
-                        <item>— Où met-on du thym, du laurier ?</item>
+                        <item>— Où met-on du <term type="Food">thym</term>, du laurier ?</item>
                      </list>
                   </div4>
 
                   <div4 type="réponses" ana="#aliments_cuisine">
                      <p> Il est prudent, lorsqu'on fait cuire un mets ou bouillir du lait, de ne pas
                         pousser le feu trop vivement, car la partie voisine du fond du vase serait
-                        exposée à brûler. Le lait déborderait alors et se perdrait en <fw
-                           type="header"> LA CLEF DU TRÉSOR. 29 </fw>
+                        exposée à brûler. Le lait déborderait alors et se perdrait en <fw type="header"> LA CLEF DU TRÉSOR. 29 </fw>
                         <pb type="page" n="29"/> partie, tandis que le reste contracterait un goût
                         détestable ; il ne faut donc jamais le perdre de vue, ce qu'oublie plus
                         d'une petite fille à qui la maman a donné commission de veiller au fourneau. </p>
@@ -278,11 +274,10 @@
                         capucines, le persil, le cerfeuil, l'anis, l'estragon, le thym, le serpolet.
                         Sur la même ligne, nous mettrons les <term>épices</term>, c'est-à-dire le
                         poivre, le piment, la vanille, la cannelle, le girofle, la muscade. La
-                        plupart viennent de la Malaisie. </p>
+                        plupart viennent de <placeName type="Country">la Malaisie</placeName>. </p>
                      <p>On se procure les aromates ou condiments ainsi que les épices, soit en les
                         cultivant dans son jardin, soit en les achetant chez les épiciers. </p>
-                     <p>Les cuisinières mettent du thym et du laurier dans les ragoûts et sur les
-                        viandes qu'on fait cuire dans leur jus. </p>
+                     <p>Les cuisinières mettent du thym et du laurier dans <term type="Food">les ragoûts</term> et sur <term type="Food">les viandes</term> qu'on fait cuire dans leur jus. </p>
                   </div4>
                </div3>
 
