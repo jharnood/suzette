@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -115,15 +114,9 @@
             </list>
          </sourceDesc>
       </fileDesc>
-      <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-            xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-            xmlns:as="http://www.w3.org/ns/activitystreams#"
-            xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#"
-            xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
-            xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#"
-            xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/"
-            xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> </rdf:RDF></xenoData>
-      <profileDesc>
+      
+      <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+</rdf:RDF></xenoData><profileDesc>
          <langUsage>
             <language ident="fr">French</language>
             <language ident="en">English</language>
@@ -190,7 +183,7 @@
 
                <p> palais ; c'est avec cela et de l'attention que se fait la
                   <lb/>bonne soupe, et le reste. Mme Liénard, la mère de 
-                  <lb/>Mme Valon, qui s'y entend, conseille Suzette. </p>
+                  <lb/><persName type="Fictional">Mme Valon</persName>, qui s'y entend, conseille Suzette. </p>
                <p> On sait donc ici le moyen de sauver à peu près le
                   <lb/>ragoût brûlé. Sous les yeux de Mme Valon, elle le trans-
                   <lb/>vase, le rafraîchit de quelques aromates*<gloss> Aromate. Substance à odeur
