@@ -881,6 +881,11 @@ notesStmt{
 num{
     display: inline;
 }
+
+objectName{
+    color: green;
+    display: inline;
+}
 opener{
     display: block;
     margin-bottom: 0.5em;
@@ -933,10 +938,12 @@ pb:after{
 
 persName{
     color: blue;
+    display: inline;
 }
 
 placeName{
     color: blue;
+    display: inline;
 }
 
 div persName,
