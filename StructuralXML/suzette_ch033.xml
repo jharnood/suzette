@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
+<?xml-stylesheet type="text/css" href="http://moravianlives.bucknell.edu.s3.amazonaws.com/data/ml_cwrc.css"?>
+<?xml-model href="../out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -15,6 +15,7 @@
                     <persName>Sarah Haber</persName>
                     <orgName>Bucknell University</orgName>
                     <resp>Research Assistant and Encoder, 2020 - Present</resp>
+                </respStmt>
                   <respStmt>
                     <persName>Rebecca Heintzelman</persName>
                     <orgName> Bucknell University</orgName>
@@ -356,7 +357,7 @@
                     <lb/>la sensibilité ainsi que le jeu des organes respiratoires.</p>
                 </div4></div3></div2>
             </div1>
-            <div>
+            <div1>
                 <p>
                     <lb />33. — Au feu ! (Élève, p. 76.)
                     <lb />Mais le sommeil ne le continua  pas. Il apporta à 
@@ -580,7 +581,7 @@
                     <lb />cherchant, par des frictions et le mouvement lent des bras, à ranimer 
                     <lb />la sensibilité ainsi que le jeu des organes respiratoires.
                 </p>
-            </div>
+            </div1>
         </body>
     </text>
 </TEI>

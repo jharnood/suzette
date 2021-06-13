@@ -73,7 +73,7 @@
                     <item xml:id="envers_serviteur"> Devoirs envers les serviteurs </item>
                     <item xml:id="envers_soi-même"> Devoirs envers soi-même </item>
                     <item xml:id="extérieurs"> Les biens extérieurs </item>
-                    <item xml:id="fréres_soeurs"> Devoirs des frères et soeurs </item>
+                    <item xml:id="fréres_sœurs"> Devoirs des frères et sœurs </item>
                     <item xml:id="patrie"> La patrie </item>
                     <item xml:id="instruction_civique"> Instruction civique </item>
                     <item xml:id="civilité"> Civilité </item>
@@ -132,236 +132,236 @@
     <text>
         <body>
             <div>
-                <p><l>58. — Un marché d&apos;esclaves. (Élève, p. 125.) </l>
-                    <l>Il prit cependant le temps de donner quelques bons </l>
-                    <l>coups de fourchette ; puis, sans plus faire attendre : </l>
-                    </lg>
+                <p><lb/>58. — Un marché d&apos;esclaves. (Élève, p. 125.) 
+                    <lb/>Il prit cependant le temps de donner quelques bons 
+                    <lb/>coups de fourchette ; puis, sans plus faire attendre : 
+                    
                 </p>
                 <pb n='29'/>
                 <p>
-                    <lg>
-                        <l>202 SUZETTE.</l>
-                        <l>— Nous voilà donc à Zanzibar, à peu près mourants. </l>
-                        <l>Mais la douceur du climat, les oranges, les citrons, </l>
-                        <l>Citron.</l>
-                        <l>Orange.</l>
-                        <l>Les orangers et les citronniers sont deux arbres extrêmement précieux dont le </l>
-                        <l>bois est employé en tabletterie. Les feuilles d&apos;oranger infusées donnent une </l>
-                        <l>boisson calmante, ainsi que l&apos;eau distillée des fleurs. Quant à l&apos;orange, c&apos;est un </l>
-                        <l>fruit des plus doux et des plus estimés. — Le citron, fruit du citronnier, est </l>
-                        <l>employé dans la préparation de certains mets pour leur donner plus de goût.</l>
-                        <l>Etendu d&apos;eau avec un peu de sucre, il constitue une boisson très hygiénique et </l>
-                        <l>rafraichissante appelée limonade. — Les orangers et les citronniers sont cultivés </l>
-                        <l>dans le midi de la France et dans les pays chauds.</l>
-                        <l>les bananes, qu&apos;on cueille là comme les mûres ici, </l>
-                        <l>nous eurent bientôt rendu des forces. La ville est assez </l>
-                        <l>bien. Dans ses rues, vous vous croisez avec des Arabes </l>
-                        <l>en burnous* blanc, des nè-</l>
-                        <l>gres tatoués* de signes bi-</l>
-                        <l>zarres, des Persans au bon-</l>
-                        <l>net pointu, des Hindous aux </l>
-                        <l>somptueux vêtements, des</l>
-                        <l>Européens de toute nation ; </l>
-                        <l>vous entendez un charivari </l>
-                        <l>de langues à vous croire à </l>
-                        <l>la tour de Babel. Sylvain, </l>
-                        <l>tu te rappelles ?... </l>
-                        <l>Sylvain inclina la tête.</l>
-                        <l>— Mais sur la grande </l>
-                        <l>place de la ville, quel spec-</l>
-                        <l>tacle un matin !... T&apos;en </l>
-                        <l>souviens-tu, Sylvain ?</l>
-                        <l>Le bananier croit dans les régions </l>
-                        <l>tropicales; ses fruits, appelés bananes,</l>
-                        <l>se mangent cuits et ont un goût excel-</l>
-                        <l>lent. Avec ses tiges on fabrique des </l>
-                        <l>étoffes et du papier.</l>
-                        <l>Sylvain, qui regardait son </l>
-                        <l>camarade avec admiration, répondit doucement :</l>
-                    </lg>
+                    
+                        202 SUZETTE.
+                        <lb/>— Nous voilà donc à Zanzibar, à peu près mourants. 
+                        <lb/>Mais la douceur du climat, les oranges, les citrons, 
+                        <lb/>Citron.
+                        <lb/>Orange.
+                        <lb/>Les orangers et les citronniers sont deux arbres extrêmement précieux dont le 
+                        <lb/>bois est employé en tabletterie. Les feuilles d&apos;oranger infusées donnent une 
+                        <lb/>boisson calmante, ainsi que l&apos;eau distillée des fleurs. Quant à l&apos;orange, c&apos;est un 
+                        <lb/>fruit des plus doux et des plus estimés. — Le citron, fruit du citronnier, est 
+                        <lb/>employé dans la préparation de certains mets pour leur donner plus de goût.
+                        <lb/>Etendu d&apos;eau avec un peu de sucre, il constitue une boisson très hygiénique et 
+                        <lb/>rafraichissante appelée limonade. — Les orangers et les citronniers sont cultivés 
+                        <lb/>dans le midi de la France et dans les pays chauds.
+                        <lb/>les bananes, qu&apos;on cueille là comme les mûres ici, 
+                        <lb/>nous eurent bientôt rendu des forces. La ville est assez 
+                        <lb/>bien. Dans ses rues, vous vous croisez avec des Arabes 
+                        <lb/>en burnous* blanc, des nè-
+                        <lb/>gres tatoués* de signes bi-
+                        <lb/>zarres, des Persans au bon-
+                        <lb/>net pointu, des Hindous aux 
+                        <lb/>somptueux vêtements, des
+                        <lb/>Européens de toute nation ; 
+                        <lb/>vous entendez un charivari 
+                        <lb/>de langues à vous croire à 
+                        <lb/>la tour de Babel. Sylvain, 
+                        <lb/>tu te rappelles ?... 
+                        <lb/>Sylvain inclina la tête.
+                        <lb/>— Mais sur la grande 
+                        <lb/>place de la ville, quel spec-
+                        <lb/>tacle un matin !... T&apos;en 
+                        <lb/>souviens-tu, Sylvain ?
+                        <lb/>Le bananier croit dans les régions 
+                        <lb/>tropicales; ses fruits, appelés bananes,
+                        <lb/>se mangent cuits et ont un goût excel-
+                        <lb/>lent. Avec ses tiges on fabrique des 
+                        <lb/>étoffes et du papier.
+                        <lb/>Sylvain, qui regardait son 
+                        <lb/>camarade avec admiration, répondit doucement :
+                    
                 </p>
                 <pb n='30'/>
                 <p>
-                    <lg>
-                        <l>UN MARCHÉ D&apos;ESCLAVES. 203</l>
-                        <l>— Oui, Pascal.</l>
-                        <l>Et Pascal reprit :</l>
-                        <l>— Figurez-vous une sombre procession de nègres, </l>
-                        <l>hommes, femmes, enfants. Elle s&apos;avance vers nous, </l>
-                        <l>les hommes attachés deux à deux par des fourches qui </l>
-                        <l>leur enserrent le cou, les femmes et les enfants liés aux </l>
-                        <l>hommes par des longes. Tous paraissent hébétés de </l>
-                        <l>fatigue et de douleur, et incapables </l>
-                        <l>de la moindre résistance. La proces-</l>
-                        <l>sion, escortée d&apos;Arabes, s&apos;arrête au </l>
-                        <l>milieu de la place. Là, attendent, </l>
-                        <l>allant et venant ou assis en rond, </l>
-                        <l>d&apos;autres Arabes en burnous, au visage </l>
-                        <l>placide*, indifférent. Quelques-uns </l>
-                        <l>se lèvent, vont regarder de près le </l>
-                        <l>noir troupeau. Sur un signe, on </l>
-                        <l>détache trois hommes et deux jeunes </l>
-                        <l>filles ; on leur fait faire des exercices, </l>
-                        <l>lever la tête, les bras, puis on jette </l>
-                        <l>un bâton assez loin, avec comman-</l>
-                        <l>dement de courir le chercher. Ils </l>
-                        <l>courent, ils reviennent : — Mon-</l>
-                        <l>sieur le marchand, combien vou-</l>
-                        <l>lez-vous de ce jeune homme ? — Trois cents francs.</l>
-                        <l>Le burnous est un </l>
-                        <l>grand manteau de laine </l>
-                        <l>à capuchon que portent </l>
-                        <l>les Arabes.</l>
-                        <l>— Combien de cette jeune fille ? — Deux cents francs.</l>
-                        <l>— Êtes-vous fou ? — Le marchand se fâche, crie qu&apos;il </l>
-                        <l>vient de faire trois cents lieues à cette chasse aux </l>
-                        <l>nègres, de traverser des torrents, des jungles*, des </l>
-                        <l>forêts vierges*; donc il ne rabattra pas un sou ! On </l>
-                        <l>discute longtemps ; on finit par s&apos;entendre. Les ache-</l>
-                        <l>teurs emmènent les trois jeunes gens et les deux </l>
-                        <l>jeunes filles. Les mères, encore attachées et à vendre, </l>
-                        <l>pleurent et se désolent en vain.</l>
-                        <l>— Mais c&apos;est horrible ! c&apos;est affreux ! s&apos;écria Su-</l>
-                        <l>zette.</l>
-                        <l>— Vous n&apos;avez pas crié au voleur ? dit François.</l>
-                        <l>— Il fallait au moins prévenir la gendarmerie, ajouta </l>
-                        <l>Charlot.</l>
-                        <l>M. Pascal se mit à rire, puis répondit :</l>
-                    </lg>
+                    
+                        UN MARCHÉ D&apos;ESCLAVES. 203
+                        <lb/>— Oui, Pascal.
+                        <lb/>Et Pascal reprit :
+                        <lb/>— Figurez-vous une sombre procession de nègres, 
+                        <lb/>hommes, femmes, enfants. Elle s&apos;avance vers nous, 
+                        <lb/>les hommes attachés deux à deux par des fourches qui 
+                        <lb/>leur enserrent le cou, les femmes et les enfants liés aux 
+                        <lb/>hommes par des longes. Tous paraissent hébétés de 
+                        <lb/>fatigue et de douleur, et incapables 
+                        <lb/>de la moindre résistance. La proces-
+                        <lb/>sion, escortée d&apos;Arabes, s&apos;arrête au 
+                        <lb/>milieu de la place. Là, attendent, 
+                        <lb/>allant et venant ou assis en rond, 
+                        <lb/>d&apos;autres Arabes en burnous, au visage 
+                        <lb/>placide*, indifférent. Quelques-uns 
+                        <lb/>se lèvent, vont regarder de près le 
+                        <lb/>noir troupeau. Sur un signe, on 
+                        <lb/>détache trois hommes et deux jeunes 
+                        <lb/>filles ; on leur fait faire des exercices, 
+                        <lb/>lever la tête, les bras, puis on jette 
+                        <lb/>un bâton assez loin, avec comman-
+                        <lb/>dement de courir le chercher. Ils 
+                        <lb/>courent, ils reviennent : — Mon-
+                        <lb/>sieur le marchand, combien vou-
+                        <lb/>lez-vous de ce jeune homme ? — Trois cents francs.
+                        <lb/>Le burnous est un 
+                        <lb/>grand manteau de laine 
+                        <lb/>à capuchon que portent 
+                        <lb/>les Arabes.
+                        <lb/>— Combien de cette jeune fille ? — Deux cents francs.
+                        <lb/>— Êtes-vous fou ? — Le marchand se fâche, crie qu&apos;il 
+                        <lb/>vient de faire trois cents lieues à cette chasse aux 
+                        <lb/>nègres, de traverser des torrents, des jungles*, des 
+                        <lb/>forêts vierges*; donc il ne rabattra pas un sou ! On 
+                        <lb/>discute longtemps ; on finit par s&apos;entendre. Les ache-
+                        <lb/>teurs emmènent les trois jeunes gens et les deux 
+                        <lb/>jeunes filles. Les mères, encore attachées et à vendre, 
+                        <lb/>pleurent et se désolent en vain.
+                        <lb/>— Mais c&apos;est horrible ! c&apos;est affreux ! s&apos;écria Su-
+                        <lb/>zette.
+                        <lb/>— Vous n&apos;avez pas crié au voleur ? dit François.
+                        <lb/>— Il fallait au moins prévenir la gendarmerie, ajouta 
+                        <lb/>Charlot.
+                        <lb/>M. Pascal se mit à rire, puis répondit :
+                    
                 </p>
                 <pb n='31'/>
                 <p>
-                    <lg>
-                        <l>204  SUZETTE.</l>
-                        <l>Questionnaire. — Que raconta </l>
-                        <l>Pascal : 1° des productions de Zanzibar* </l>
-                        <l>— 2° des habitants et des étrangers qui </l>
-                        <l>fréquentent le port ; — 3° des langues </l>
-                        <l>qu&apos;on y parle ? — Comment les esclaves </l>
-                        <l>sont-ils amenés sur le lieu où ils sont </l>
-                        <l>vendus ? — A quelles épreuves les sou-</l>
-                        <l>met-on ?—— Comment se conclut la vente ?</l>
-                        <l>Quelles réflexions naives firent Fran-</l>
-                        <l>çois et Charlot ?</l>
-                        <l>DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES.</l>
-                        <l>Sciences naturelles. — Décrire une orange, un citron, une </l>
-                        <l>banane. — Quel est l&apos;usage de chacun de ces fruits ? —D&apos;où les tirons-</l>
-                        <l>nous?</l>
-                        <l>L&apos;orange, comme le citron et la banane, se récolte dans les pays </l>
-                        <l>chauds ; on l&apos;obtient aussi, en Europe, sur les côtes de la Provence, et </l>
-                        <l>l&apos;Espagne en exporte des quantités considérables. Ce fruit est d&apos;une </l>
-                        <l>forme sphérique et de couleur jaune rougeâtre ; une écorce épaisse </l>
-                        <l>le recouvre, et, lorsqu’on la presse, elle projette par ses pores un </l>
-                        <l>liquide odorant. L&apos;intérieur de l&apos;orange se divise en tranches régulières </l>
-                        <l>qu&apos;on sépare facilement avec les doigts ; le suc est doux, sucré, légè-</l>
-                        <l>rement acide et rafraîchissant. On remarque au milieu de chaque </l>
-                        <l>tranche, et dans la partie centrale du fruit, cinq ou six noyaux.</l>
-                        <l>Le citron a une forme ovale et beaucoup d&apos;analogie avec l&apos;orange ; </l>
-                        <l>mais le suc en est fortement acide et astringent. On tire ce fruit des </l>
-                        <l>mêmes contrées que l&apos;orange.</l>
-                        <l>(Pour l&apos;usage de l&apos;orange et du citron, se reporter à la note expli-</l>
-                        <l>cative des gravures de la leçon.)</l>
-                        <l>Les bananes sont des fruits qui croissent seulement dans la zone </l>
-                        <l>torride; ils ont la forme de petits concombres, une couleur jaunâtre </l>
-                        <l>et renferment une chair molle et très sucrée ; elles entrent pour une </l>
-                        <l>part considérable dans la nourriture des Hindous et des Africains.</l>
-                        <l>LES RACES HUMAINES. — Comment sont les hommes de chacune des </l>
-                        <l>quatre grandes races humaines : blanche, jaune, rouge, noire ? — Où </l>
-                        <l>habite principalement chaque race ?</l>
-                        <l>Les hommes des différentes régions du globe se distinguent par la </l>
-                        <l>teinte de leur peau, et on les répartit en quatre classes ou races prin-</l>
-                        <l>cipales : blanche, jaune, rouge, noire.</l>
-                        <l>La race blanche, originaire du plateau central de l&apos;Asie, s&apos;est ré-</l>
-                        <l>pandue à l&apos;ouest et au centre de cette partie du monde, v compris </l>
-                        <l>l&apos;Hindoustan, en Europe, dans le nord de l&apos;Afrique, dans l&apos;Amérique </l>
-                        <l>et l&apos;Australie, où elle compte beaucoup plus d&apos;individus que la race </l>
-                        <l>indigène.</l>
-                        <l>La race jaune a la tête ronde, les yeux bridés et obliques, les che-</l>
-                        <l>veux raides et noirs, la barbe rare. Elle habite la Chine, le Japon, </l>
-                        <l>l&apos;Indo-Chine et une partie de la Malaisie ainsi que de la Sibérie.</l>
-                        <l>La race rouge comprend la plupart des populations sauvages de </l>
-                        <l>l&apos;Amérique ; les hommes en sont grands, vigoureux ; ils ont les che-</l>
-                        <l>veux longs et noirs, mais point de barbe et le teint rouge brun.</l>
-                        <l>Quant à la race noire, elle se distingue par la couleur foncée de sa </l>
-                        <l>peau, qui passe du brun foncé aux teintes du bronze et au noir. En </l>
-                        <l>général, les nègres ont les cheveux frisés, le nez épaté, la bouche </l>
-                        <l>saillante, largement fendue et bordée de lèvres épaisses. On les </l>
-                        <l>trouve en Afrique, où ils dominent, dans les îles de l&apos;Océanie, en </l>
-                        <l>Australie; ils se sont muitipliés, à l&apos;état d&apos;esclaves, aux États-Unis, aux </l>
-                        <l>Antilles et au Brésil.</l>
-                        <l>Instruction civique. — Quel est le bien le plus cher à </l>
-                        <l>l&apos;homme ? — En quoi consiste la liberté? — Qui en sont privés ? — </l>
-                        <l>Qu&apos;est-ce qu&apos;un esclave ? — Comment certains peuples se procurent-ils  s </l>
-                    </lg>
+                    
+                        204  SUZETTE.
+                        <lb/>Questionnaire. — Que raconta 
+                        <lb/>Pascal : 1° des productions de Zanzibar* 
+                        <lb/>— 2° des habitants et des étrangers qui 
+                        <lb/>fréquentent le port ; — 3° des langues 
+                        <lb/>qu&apos;on y parle ? — Comment les esclaves 
+                        <lb/>sont-ils amenés sur le lieu où ils sont 
+                        <lb/>vendus ? — A quelles épreuves les sou-
+                        <lb/>met-on ?—— Comment se conclut la vente ?
+                        <lb/>Quelles réflexions naives firent Fran-
+                        <lb/>çois et Charlot ?
+                        <lb/>DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES.
+                        <lb/>Sciences naturelles. — Décrire une orange, un citron, une 
+                        <lb/>banane. — Quel est l&apos;usage de chacun de ces fruits ? —D&apos;où les tirons-
+                        <lb/>nous?
+                        <lb/>L&apos;orange, comme le citron et la banane, se récolte dans les pays 
+                        <lb/>chauds ; on l&apos;obtient aussi, en Europe, sur les côtes de la Provence, et 
+                        <lb/>l&apos;Espagne en exporte des quantités considérables. Ce fruit est d&apos;une 
+                        <lb/>forme sphérique et de couleur jaune rougeâtre ; une écorce épaisse 
+                        <lb/>le recouvre, et, lorsqu’on la presse, elle projette par ses pores un 
+                        <lb/>liquide odorant. L&apos;intérieur de l&apos;orange se divise en tranches régulières 
+                        <lb/>qu&apos;on sépare facilement avec les doigts ; le suc est doux, sucré, légè-
+                        <lb/>rement acide et rafraîchissant. On remarque au milieu de chaque 
+                        <lb/>tranche, et dans la partie centrale du fruit, cinq ou six noyaux.
+                        <lb/>Le citron a une forme ovale et beaucoup d&apos;analogie avec l&apos;orange ; 
+                        <lb/>mais le suc en est fortement acide et astringent. On tire ce fruit des 
+                        <lb/>mêmes contrées que l&apos;orange.
+                        <lb/>(Pour l&apos;usage de l&apos;orange et du citron, se reporter à la note expli-
+                        <lb/>cative des gravures de la leçon.)
+                        <lb/>Les bananes sont des fruits qui croissent seulement dans la zone 
+                        <lb/>torride; ils ont la forme de petits concombres, une couleur jaunâtre 
+                        <lb/>et renferment une chair molle et très sucrée ; elles entrent pour une 
+                        <lb/>part considérable dans la nourriture des Hindous et des Africains.
+                        <lb/>LES RACES HUMAINES. — Comment sont les hommes de chacune des 
+                        <lb/>quatre grandes races humaines : blanche, jaune, rouge, noire ? — Où 
+                        <lb/>habite principalement chaque race ?
+                        <lb/>Les hommes des différentes régions du globe se distinguent par la 
+                        <lb/>teinte de leur peau, et on les répartit en quatre classes ou races prin-
+                        <lb/>cipales : blanche, jaune, rouge, noire.
+                        <lb/>La race blanche, originaire du plateau central de l&apos;Asie, s&apos;est ré-
+                        <lb/>pandue à l&apos;ouest et au centre de cette partie du monde, v compris 
+                        <lb/>l&apos;Hindoustan, en Europe, dans le nord de l&apos;Afrique, dans l&apos;Amérique 
+                        <lb/>et l&apos;Australie, où elle compte beaucoup plus d&apos;individus que la race 
+                        <lb/>indigène.
+                        <lb/>La race jaune a la tête ronde, les yeux bridés et obliques, les che-
+                        <lb/>veux raides et noirs, la barbe rare. Elle habite la Chine, le Japon, 
+                        <lb/>l&apos;Indo-Chine et une partie de la Malaisie ainsi que de la Sibérie.
+                        <lb/>La race rouge comprend la plupart des populations sauvages de 
+                        <lb/>l&apos;Amérique ; les hommes en sont grands, vigoureux ; ils ont les che-
+                        <lb/>veux longs et noirs, mais point de barbe et le teint rouge brun.
+                        <lb/>Quant à la race noire, elle se distingue par la couleur foncée de sa 
+                        <lb/>peau, qui passe du brun foncé aux teintes du bronze et au noir. En 
+                        <lb/>général, les nègres ont les cheveux frisés, le nez épaté, la bouche 
+                        <lb/>saillante, largement fendue et bordée de lèvres épaisses. On les 
+                        <lb/>trouve en Afrique, où ils dominent, dans les îles de l&apos;Océanie, en 
+                        <lb/>Australie; ils se sont muitipliés, à l&apos;état d&apos;esclaves, aux États-Unis, aux 
+                        <lb/>Antilles et au Brésil.
+                        <lb/>Instruction civique. — Quel est le bien le plus cher à 
+                        <lb/>l&apos;homme ? — En quoi consiste la liberté? — Qui en sont privés ? — 
+                        <lb/>Qu&apos;est-ce qu&apos;un esclave ? — Comment certains peuples se procurent-ils  s 
+                    
                 </p>
                 <pb n='32'/>
                 <p>
-                    <lg>
-                        <l>UN MARCHÉ D&apos;ESCLAVES. 205</l>
-                        <l>des esclaves? — Détails sur la traite. — Comment et quand cet odieux </l>
-                        <l>trafic fut-il aboli ?</l>
-                        <l>Le bien le plus précieux à l&apos;homme est la liberté, c&apos;est-à-dire la </l>
-                        <l>faculté d&apos;agir selon sa volonté pour faire ce qui est utile et agréable, </l>
-                        <l>sans causer de préjudice à autrui.</l>
-                        <l>On distingue la liberté de conscience et la liberté individuelle.</l>
-                        <l>La liberté de conscience est le droit de choisir, en religion, les opi-</l>
-                        <l>nions qu&apos;on juge les plus conformes à la vérité, sans pouvoir être </l>
-                        <l>inquiété à ce sujet.</l>
-                        <l>La liberté individuelle est le droit reconnu à chaque citoyen de </l>
-                        <l>disposer de sa personne et de n&apos;être arrêté ou détenu que dans les </l>
-                        <l>circonstances et selon les formes déterminées par la loi. Les esclaves </l>
-                        <l>sont privés de la liberté. </l>
-                        <l>Un esclave est un homme acheté ou capturé par un autre homme </l>
-                        <l>qui prend le droit de le contraindre au travail et à toutes les exigences </l>
-                        <l>auxquelles il lui plaît de le soumettre. Autrefois, l&apos;esclavage était </l>
-                        <l>général ; actuellement, il n&apos;existe plus que dans les contrées barbares </l>
-                        <l>de l&apos;Afrique et chez la plupart des Etats musulmans.</l>
-                        <l>On se procure des esclaves par des expéditions sur le territoire de </l>
-                        <l>tribus où l&apos;on n&apos;a pas à craindre une défense bien organisée ; on pé-</l>
-                        <l>nètre de vive force dans les villages, et l&apos;on capture les hommes, les </l>
-                        <l>femmes et les enfants les plus robustes.</l>
-                        <l>Du seizième siècle aux premières années du dix-neuvième, des na-</l>
-                        <l>vires européens transportaient d&apos;Afrique, dans les colonies, des esclaves </l>
-                        <l>nègres achetés à prix d&apos;argent aux petits rois de la côte. Cet affreux </l>
-                        <l>commerce s&apos;appelait la traite, et il donnait lieu aux crimes les plus </l>
-                        <l>odieux : le nègre captif devenait quelque chose comme un animal </l>
-                        <l>domestique auquel on ne reconnaissait ni propriété, ni famille. Les </l>
-                        <l>nations civilisées de l&apos;Europe ont pris des mesures pour mettre fin </l>
-                        <l>à ce trafic abominable, et, à cet effet, des vaisseaux de guerre station-</l>
-                        <l>nent le long des côtes de l&apos;Afrique centrale pour saisir au passage </l>
-                        <l>les navires chargés d&apos;esclaves.</l>
-                        <l>Géographie. — Où habitent les Arabes, les Persans, les Hin-</l>
-                        <l>dous ? — Indiquer les principales villes de chacune de ces contrées.</l>
-                        <l>Les Arabes habitent une presqu&apos;île aride et sablonneuse, située à </l>
-                        <l>l&apos;est de la mer Rouge ; les villes principales de l&apos;Arabie sont : la Mecque, </l>
-                        <l>Médine et Moka; — les Persans forment une nation qui vit entre la mer </l>
-                        <l>Caspienne, le golfe Persique et le golfe d&apos;Oman : Téhéran et Ispahan </l>
-                        <l>sont leurs deux plus grandes villes; — les Hindous peuplent une grande </l>
-                        <l>et fertile contree de l&apos;Asie méridionale. L&apos;Inde se divise en Inde an-</l>
-                        <l>glaise (villes principales : Bombay, Calcutta, Madras, Hyderabad, </l>
-                        <l>Bénarès, Lahore, Surate, etc.); en États indépendants (villes prin-</l>
-                        <l>cipales : Katmandou, Pounaka); en possessions portugaises (territoires </l>
-                        <l>de Goa, Daman et Diu); en possessions françaises (villes principales : </l>
-                        <l>Pondichéry, Chandernagor, Yanaon, Karikal, Mahé). </l>
-                        <l>Économie domestique. — Comment s&apos;y prend-on pour pré-</l>
-                        <l>parer et servir une orange ? — Usages du citron et de son jus.</l>
-                        <l>Pour préparer une orange, on la débarrasse de son enveloppe jaune </l>
-                        <l>en pratiquant une entaille circulaire dans le sens du plus grand dia-</l>
-                        <l>mètre du fruit, on soulève l&apos;écorce avec le doigt, et l&apos;on obtient ainsi </l>
-                        <l>deux calottes demi-sphériques. Rien de plus facile que de séparer </l>
-                        <l>les tranches du fruit ; on les range ensuite sur le pourtour d&apos;une </l>
-                        <l>assiette au centre de laquelle on a mis du sucre en poudre. On fait </l>
-                        <l>alors circuler, et les personnes qui prennent successivement l&apos;assiette </l>
-                        <l>saisissent une tranche, la roulent dans le sucre et la mangent.</l>
-                        <l>SUZETTE (Maîtresse).  12</l>
-                    </lg>
+                    
+                        UN MARCHÉ D&apos;ESCLAVES. 205
+                        <lb/>des esclaves? — Détails sur la traite. — Comment et quand cet odieux 
+                        <lb/>trafic fut-il aboli ?
+                        <lb/>Le bien le plus précieux à l&apos;homme est la liberté, c&apos;est-à-dire la 
+                        <lb/>faculté d&apos;agir selon sa volonté pour faire ce qui est utile et agréable, 
+                        <lb/>sans causer de préjudice à autrui.
+                        <lb/>On distingue la liberté de conscience et la liberté individuelle.
+                        <lb/>La liberté de conscience est le droit de choisir, en religion, les opi-
+                        <lb/>nions qu&apos;on juge les plus conformes à la vérité, sans pouvoir être 
+                        <lb/>inquiété à ce sujet.
+                        <lb/>La liberté individuelle est le droit reconnu à chaque citoyen de 
+                        <lb/>disposer de sa personne et de n&apos;être arrêté ou détenu que dans les 
+                        <lb/>circonstances et selon les formes déterminées par la loi. Les esclaves 
+                        <lb/>sont privés de la liberté. 
+                        <lb/>Un esclave est un homme acheté ou capturé par un autre homme 
+                        <lb/>qui prend le droit de le contraindre au travail et à toutes les exigences 
+                        <lb/>auxquelles il lui plaît de le soumettre. Autrefois, l&apos;esclavage était 
+                        <lb/>général ; actuellement, il n&apos;existe plus que dans les contrées barbares 
+                        <lb/>de l&apos;Afrique et chez la plupart des Etats musulmans.
+                        <lb/>On se procure des esclaves par des expéditions sur le territoire de 
+                        <lb/>tribus où l&apos;on n&apos;a pas à craindre une défense bien organisée ; on pé-
+                        <lb/>nètre de vive force dans les villages, et l&apos;on capture les hommes, les 
+                        <lb/>femmes et les enfants les plus robustes.
+                        <lb/>Du seizième siècle aux premières années du dix-neuvième, des na-
+                        <lb/>vires européens transportaient d&apos;Afrique, dans les colonies, des esclaves 
+                        <lb/>nègres achetés à prix d&apos;argent aux petits rois de la côte. Cet affreux 
+                        <lb/>commerce s&apos;appelait la traite, et il donnait lieu aux crimes les plus 
+                        <lb/>odieux : le nègre captif devenait quelque chose comme un animal 
+                        <lb/>domestique auquel on ne reconnaissait ni propriété, ni famille. Les 
+                        <lb/>nations civilisées de l&apos;Europe ont pris des mesures pour mettre fin 
+                        <lb/>à ce trafic abominable, et, à cet effet, des vaisseaux de guerre station-
+                        <lb/>nent le long des côtes de l&apos;Afrique centrale pour saisir au passage 
+                        <lb/>les navires chargés d&apos;esclaves.
+                        <lb/>Géographie. — Où habitent les Arabes, les Persans, les Hin-
+                        <lb/>dous ? — Indiquer les principales villes de chacune de ces contrées.
+                        <lb/>Les Arabes habitent une presqu&apos;île aride et sablonneuse, située à 
+                        <lb/>l&apos;est de la mer Rouge ; les villes principales de l&apos;Arabie sont : la Mecque, 
+                        <lb/>Médine et Moka; — les Persans forment une nation qui vit entre la mer 
+                        <lb/>Caspienne, le golfe Persique et le golfe d&apos;Oman : Téhéran et Ispahan 
+                        <lb/>sont leurs deux plus grandes villes; — les Hindous peuplent une grande 
+                        <lb/>et fertile contree de l&apos;Asie méridionale. L&apos;Inde se divise en Inde an-
+                        <lb/>glaise (villes principales : Bombay, Calcutta, Madras, Hyderabad, 
+                        <lb/>Bénarès, Lahore, Surate, etc.); en États indépendants (villes prin-
+                        <lb/>cipales : Katmandou, Pounaka); en possessions portugaises (territoires 
+                        <lb/>de Goa, Daman et Diu); en possessions françaises (villes principales : 
+                        <lb/>Pondichéry, Chandernagor, Yanaon, Karikal, Mahé). 
+                        <lb/>Économie domestique. — Comment s&apos;y prend-on pour pré-
+                        <lb/>parer et servir une orange ? — Usages du citron et de son jus.
+                        <lb/>Pour préparer une orange, on la débarrasse de son enveloppe jaune 
+                        <lb/>en pratiquant une entaille circulaire dans le sens du plus grand dia-
+                        <lb/>mètre du fruit, on soulève l&apos;écorce avec le doigt, et l&apos;on obtient ainsi 
+                        <lb/>deux calottes demi-sphériques. Rien de plus facile que de séparer 
+                        <lb/>les tranches du fruit ; on les range ensuite sur le pourtour d&apos;une 
+                        <lb/>assiette au centre de laquelle on a mis du sucre en poudre. On fait 
+                        <lb/>alors circuler, et les personnes qui prennent successivement l&apos;assiette 
+                        <lb/>saisissent une tranche, la roulent dans le sucre et la mangent.
+                        <lb/>SUZETTE (Maîtresse).  12
+                    
                 </p>
                 <pb n='33'/>
                 <p>
-                    <lg>
-                        <l>206 SUZETTE.</l>
-                        <l>(Pour les usages du citron, voir la notice qui accompagne la gravure </l>
-                        <l>représentant ce fruit.)</l></p>
+                    
+                        206 SUZETTE.
+                        <lb/>(Pour les usages du citron, voir la notice qui accompagne la gravure 
+                        <lb/>représentant ce fruit.)</p>
             </div>
         </body>
     </text>
