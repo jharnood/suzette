@@ -68,7 +68,7 @@
                     <item xml:id="envers_serviteur"> Devoirs envers les serviteurs </item>
                     <item xml:id="envers_soi-même"> Devoirs envers soi-même </item>
                     <item xml:id="extérieurs"> Les biens extérieurs </item>
-                    <item xml:id="fréres_soeurs"> Devoirs des frères et soeurs </item>
+                    <item xml:id="fréres_sœurs"> Devoirs des frères et sœurs </item>
                     <item xml:id="patrie"> La patrie </item>
                     <item xml:id="instruction_civique"> Instruction civique </item>
                     <item xml:id="civilité"> Civilité </item>
@@ -209,7 +209,7 @@
                     
                         <head>Questionnaire. </head>
                     <list>
-                        <item>— Jusqu'à quelle époque le frère et la soeur retournèrentils à la ville ? </item>
+                        <item>— Jusqu'à quelle époque le frère et la sœur retournèrentils à la ville ? </item>
                     <item>— Qui avait tenu les comptes de la famille ? </item>
                     <item>— De quoi Suzette avait-elle été chargée ? </item>
                     <item>— Quel était le montant du gain définitif ? </item>
@@ -257,9 +257,9 @@
                         <lb/>cour, arroseront les légumes et les fleurs, aideront leur père et leur 
                         <lb/>mère dans leurs travaux multiples. A la ville, les jeunes filles partici-
                         <lb/>peront aux soins du ménage et de la cuisine, garderont leurs plus 
-                        <lb/>jeunes frères et soeurs, se chargeront sans murmurer des commissions 
+                        <lb/>jeunes frères et sœurs, se chargeront sans murmurer des commissions 
                         <lb/>qu'on leur confiera, etc, etc. Leur concours sera d'autant plus méri-
-                        <lb/>toire, qu'ils l'offriront de meilleur coeur; ils n'attendront donc point 
+                        <lb/>toire, qu'ils l'offriront de meilleur cœur; ils n'attendront donc point 
                         <lb/>qu'on le leur réclame, s'ils prévoient à l'avance ce à quoi ils peuvent 
                         <lb/>être employés.
                             </p>
@@ -293,7 +293,7 @@
                         <div4 type="questions">
                             <head type="sujets">Économie domestique. </head>
                         <p>— Combien se vendent : un bon poulet, 
-                        <lb/>une douzaine d'oeufs frais en hiver et en été, deux poulets de l'année, 
+                        <lb/>une douzaine d'œufs frais en hiver et en été, deux poulets de l'année, 
                         <lb/>une oie grasse, un canard, un lapin d'un an, une couple de pigeons 
                         <lb/>de moyenne grosseur ?
                         </p>
@@ -312,7 +312,7 @@
                             </row>
                             <row>
                                 <cell/>
-                                <cell>Prix d'une douzaine d'oeufs frais en hiver</cell>
+                                <cell>Prix d'une douzaine d'œufs frais en hiver</cell>
                                 <cell>....</cell>
                             </row>
                             <row>
@@ -322,7 +322,7 @@
                             </row>
                             <row>
                                 <cell/>
-                                <cell>Prix d'une douzaine d'oeufs, etc., etc.</cell>
+                                <cell>Prix d'une douzaine d'œufs, etc., etc.</cell>
                                 <cell>....</cell>
                             </row>
                             <row>
@@ -376,7 +376,7 @@
                                     <row>
                                         <cell/>
                                         <cell>"</cell>
-                                        <cell>1kg,500 de boeuf à 2fr,10..........</cell>
+                                        <cell>1kg,500 de bœuf à 2fr,10..........</cell>
                                         <cell>3</cell>
                                         <cell>15</cell>
                                         <cell>"</cell>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/djakacki/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="http://moravianlives.bucknell.edu.s3.amazonaws.com/data/ml_cwrc.css"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
@@ -76,7 +74,7 @@
   <text>
       <body>
          			<p>
-				<lb/>137. — Extraits des Lettres de Jacques (suite). 
+				137. — Extraits des Lettres de Jacques (suite). 
 				<lb/>(Élève, p. 290.)
 				<lb/>« Pour un homme de la plaine comme moi, la nature
 				<lb/>de ce sol est un étonnement. Partout soulevé, déchiré. 
@@ -91,7 +89,7 @@
 				<lb/>« La vanille, plante parasite comme le gui, vient enlacer 
 			</p>
 			<p>
-				<lb/>aux arbres 
+				aux arbres 
 				<lb/>ses tiges où 
 				<lb/>pendent des
 				<lb/>gousses par-
@@ -105,14 +103,14 @@
 				<lb/>les produc-
 				<lb/>tions de la 
 				<lb/>zone torri-
-				<lb/>de *. De tout 
+				<lb/>de*. De tout 
 				<lb/>côté, des 
 				<lb/>plantations 
 				<lb/>de grands 
 				<lb/>roseaux :
 			</p>
 			<p>
-				<lb/>Palmiers. Cocotiers.
+				Palmiers. Cocotiers.
 				<lb/>Le bois de ces arbres est employé pour l&apos;ébénisterie ; leurs 
 				<lb/>feuilles servent à couvrir les cases des indigènes, à fabriquer 
 				<lb/>des éventails, des paniers, des chapeaux, etc. L&apos;eaù ou lait 
@@ -120,15 +118,15 @@
 				<lb/>qui contiont ce lait, est de la grosseur de la tête d&apos;un homme.
 			</p>
 			<p>
-				<lb/>c&apos;est la canne à sucre, dont le produit n&apos;arrive guère en 
+				c&apos;est la canne à sucre, dont le produit n&apos;arrive guère en 
 			</p>
 			<pb n='16'/>
 			<p>
-				<lb/>484 SUZETTE.
+				484 SUZETTE.
 				<lb/>Europe que sons la forme de tatia et de rhum. D&apos;autres 
 			</p>
 			<p>
-				<lb/>plantations de grands 
+				plantations de grands 
 				<lb/>arbustes, à petites 
 				<lb/>feurs blanches, en
 				<lb/>voient au loin des 
@@ -147,23 +145,23 @@
 				<lb/>lange avec ceux de 
 			</p>
 			<p>
-				<lb/>Branche de vanillier,  
+				Branche de vanillier,  
 				<lb/>dont la graine, la vanille, 
 				<lb/>est utilisée pour les crè-
 				<lb/>mes et certains gâteaux.
 			</p>
 			<p>
-				<lb/>Branche de cacaoyer 
+				Branche de cacaoyer 
 				<lb/>et sa graine, le ca-
 				<lb/>cao, qui sert à fabri-
 				<lb/>quer le chocolat.
 			</p>
 			<p>
-				<lb/>Bourbon et de Moka. Malheureusement, il se fait rare.
+				Bourbon et de Moka. Malheureusement, il se fait rare.
 				<lb/>« J&apos;ai vu aussi un grand arbre tout chargé de longs 
 			</p>
 			<p>
-				<lb/>fruits, comme des con-
+				fruits, comme des con-
 				<lb/>combres, qui contien-
 				<lb/>nent, par trentaine, d&apos;as-
 				<lb/>sez grosses amandes :
@@ -183,11 +181,11 @@
 				<lb/>jeunent !
 			</p>
 			<p>
-				<lb/>Exploitation de la canne à sucre.
+				Exploitation de la canne à sucre.
 				<lb/>La canne à sucre est un grand roseau de 
 				<lb/>2 à 3 mêtres et plus. C&apos;est une plante vivace 
 				<lb/>dont la tige, garnie de nouds, est remplle 
-				<lb/>d&apos;une moelle contenant un liquide sucré qui 
+				<lb/>d&apos;une mœlle contenant un liquide sucré qui 
 				<lb/>fournit le sucre ; on la cultive dans tous les 
 				<lb/>pays chauds. Pour en extraire le jus, on 
 				<lb/>l&apos;effeuille et on en coupe les tiges. On fait 
@@ -196,7 +194,7 @@
 			</p>
 			<pb n='17'/>
 			<p>
-				<lb/>EXTRAITS DES LETTRES DE JACOUES. 485
+				EXTRAITS DES LETTRES DE JACOUES. 485
 				<lb/>« Il est quatre heures et c&apos;est dans la chambrée, où 
 				<lb/>l&apos;on cause et joue, que je vous écris. Vous, à cette heure, 
 				<lb/>vous dormez déjà, car votre horloge avance à peu près 
@@ -221,12 +219,12 @@
 				<lb/>parler ici d&apos;une libération anticipée* Oh ! si elle a lieu, 
 				<lb/>quelle fête au retour !
 				<lb/>« C&apos;est gaiement que je vous embrasse tous du fond 
-				<lb/>du coeur. Sylvain, que j&apos;aime comme un frère, se rap-
+				<lb/>du cœur. Sylvain, que j&apos;aime comme un frère, se rap-
 				<lb/>pelle à votre souvenir.
 				<lb/>« JACOUES DUMAY. »
 			</p>
 			<p>
-				<lb/>Questionnaire. — Donnez une 
+				Questionnaire. — Donnez une 
 				<lb/>idée du sol de l&apos;ile de la Martinique.
 				<lb/>— Qu&apos;est-il advenu des mornes avec le 
 				<lb/>temps ? — Quels arbres y croissent ? — 
@@ -238,7 +236,7 @@
 				<lb/>aspect présente le cacaoyer ? — D&apos;où tire
 			</p>
 			<p>
-				<lb/>t-on le meilleur cacao ? — Avec quels 
+				t-on le meilleur cacao ? — Avec quels 
 				<lb/>ingrédients compose-t-on les chocolats à 
 				<lb/>bas prix ? — Que disait Jacques au sujet 
 				<lb/>de l&apos;heure ? — Que demandait-il à Su
@@ -249,7 +247,7 @@
 				<lb/>parlait-on à la colonie ? 
 			</p>
 			<p>
-				<lb/>DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES.
+				DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES.
 				<lb/>Géographie. — Que remarque-t-on, au point de vue de la cha-
 				<lb/>leur à mesure qu&apos;on s&apos;enfonce dans le sol ? — Eaux thermales. — Que 
 				<lb/>produisent les eaux marines qui s&apos;infiltrent dans les profondeurs de la 
@@ -257,7 +255,7 @@
 			</p>
 			<pb n='18'/>
 			<p>
-				<lb/>486 SUZETTE.
+				486 SUZETTE.
 				<lb/>parler de ses ravages. — Rappelez la catastrophe de Pompéi, d&apos;Her-
 				<lb/>culanum.
 				<lb/>Lorsqu’on creuse le sol, par exemple pour l&apos;établissement d&apos;une 
@@ -316,7 +314,7 @@
 			</p>
 			<pb n='19'/>
 			<p>
-				<lb/>EXTRAITS DES LETTRES DE JACOUES. 487
+				EXTRAITS DES LETTRES DE JACOUES. 487
 				<lb/>« De sa bouche sortent de lourdes bouffées de vapeurs ; des craque-
 				<lb/>« ments effroyables se font entendre au sein du gouffre et un nuage 
 				<lb/>« de fumée en jaillit avec fracas. Il est aussitôt suivi d&apos;autres jets sem-
@@ -364,7 +362,7 @@
 				<lb/>sucre, thé, bananes, ananas, maîs, raisin exquis, oranges, citron, 
 				<lb/>vanille, etc., etc.
 				<lb/>Dans ces régions favorisées, on remarque une foule d&apos;animaux, parmi 
-				<lb/>lesquels l&apos;éléphant, le chameau, le cheval, le boeuf, la chèvre, l&apos;âne, 
+				<lb/>lesquels l&apos;éléphant, le chameau, le cheval, le bœuf, la chèvre, l&apos;âne, 
 				<lb/>domestiqués par l&apos;homme. Les bêtes féroces ou malfaisantes y abondent ; 
 				<lb/>nous citerons: les singes, les lions, les tigres, les hyènes, les panthères, 
 				<lb/>des serpents venimeux, le boa gigantesque, des oiseaux admirables 
@@ -375,7 +373,7 @@
 			</p>
 			<pb n='20'/>
 			<p>
-				<lb/>488 SUZETTE.
+				488 SUZETTE.
 				<lb/>points de vue ; elles sont admirablement dotées et leur climat ne con-
 				<lb/>naît pas les rigueurs de l&apos;hiver ; mais un long séjour y est presque 
 				<lb/>toujours mortel à l&apos;Européen, dont la vie n&apos;est qu&apos;une lutte continuelle 
