@@ -74,16 +74,16 @@
     <text>
         <body>
             <div1 type="chapitre" xml:lang="fr" corresp="#ch034">
-                <head type="chapitre"><lb/>34. — Enfant perdu. (Élève, p. 78.)</head>
                 <pb type="page" n="120"/>
+                <head type="chapitre"><lb/>34. — Enfant perdu. (Élève, p. 78.)</head>
                 <div2 type="récit">
                     <p><lb/>Le soleil, indifférent, se levait au-dessus de cette <lb/>douleur, aussi
-                        radieux* qu'il eût pu l'être au-dessus <lb/>de la joie. <persName type="Fictional">Le père</persName> contempla
+                        radieux*<gloss>Radieux. Qui brille en jetant des rayons de lumière.</gloss> qu'il eût pu l'être au-dessus <lb/>de la joie. <persName type="Fictional">Le père</persName> contempla
                         tout le désastre et tomba <lb/>assis sur une pierre du chemin. De grosses
                         larmes rou- <lb/>laient le long de ses joues ; un tremblement nerveux
                         <lb/>le secouait de la tête aux pieds.</p>
                     <p><lb/>Alors sur son épaule se posa doucement une tendre <lb/>main. De son
-                        visage navré*, <persName type="Fictional">Suzette</persName> essayait de sourire :</p>
+                        visage navré*<gloss>Navré. Qui montre une vive et profonde affliction.</gloss>, <persName type="Fictional">Suzette</persName> essayait de sourire :</p>
                     <p><lb/>— <persName type="Fictional">Père</persName>, dit-elle, ce que l'ancêtre fit, l'enfant peut le
                         <lb/>refaire.</p>
                     <p><lb/>— Qui, <persName type="Fictional">père</persName>, ne vous laissez pas abattre ; nous vous <lb/>aimons, nous
@@ -95,7 +95,7 @@
                     <p><lb/>Tous les quatre se dirent qu'ils ne l'avaient pas vu <lb/>depuis
                         l'arrivée de la pompe à incendie. <persName type="Fictional">Le père</persName> se <lb/>dressa, appela l'enfant de
                         toute sa voix. Puis vivement, <lb/>dans une même pensée, ils allèrent tous
-                        regarder aux <lb/>décombres*, y fouiller.</p>
+                        regarder aux <lb/>décombres*<gloss>Décombres. A mas de matériaux inutiles qui restent sur le terrain après une démolition ou un écroutement.</gloss>, y fouiller.</p>
                     <p><lb/>— <persName type="Fictional">Charlot</persName>, ce sont des allumettes que, du fournil, tu <lb/>es venu
                         prendre hier ?</p>
                     <p><lb/>— Qui, <persName type="Fictional">papa</persName>. <persName type="Fictional">François</persName> voulait des allumettes.</p>
@@ -108,9 +108,9 @@
                     <fw type="header"><lb/>ENFANT PERDU. 121</fw>
                     <p>Castor,<objectName type="animal"> le chien</objectName>, avait aussi disparu. On l'avpela, il <lb/>nè révondit
                         nas olus que <persName type="Fictional">Francois</persName>.</p>
-                    <p><lb/><persName type="Fictional">Ludivine</persName> se ravpela que, vers la fin du sinistre*, elle <lb/>avait vu
-                        <persName type="Fictional">Francois</persName> raser* <objectName type="Building">la grange</objectName> et s'en aller vers <lb/>le chamn de betteraves On
-                        y courut ; on battit* les en- <lb/>virons en anpelant. Rien ! </p>
+                    <p><lb/><persName type="Fictional">Ludivine</persName> se ravpela que, vers la fin du sinistre*<gloss> Sinistre. Ici. l'incendie.</gloss>, elle <lb/>avait vu
+                        <persName type="Fictional">Francois</persName> raser*<gloss> Raser. Passe très près d'une construction.</gloss> <objectName type="Building">la grange</objectName> et s'en aller vers <lb/>le chamn de betteraves On
+                        y courut ; on battit*<gloss>Battre les environs. Courir de tous les côtés.</gloss> les en- <lb/>virons en anpelant. Rien ! </p>
                     <p><lb/>— Et nous pleurions sur de la pierre et du bois <lb/>perdus ! Ah ! mon
                         fils ! mon cher fils ! disait <persName type="Fictional">le père</persName>.</p>
                     <p><lb/>Il fallut les ramener tous les quatre au <placeName type="Town">village</placeName>, les <lb/>forcer à
