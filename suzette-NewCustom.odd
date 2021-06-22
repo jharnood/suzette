@@ -96,6 +96,8 @@
                 <valItem ident="industrie" mode="add"/>
                 <valItem ident="économie_domestique" mode="add"/>
                 <valItem ident="hygiène" mode="add"/>
+                <valItem ident="agriculture" mode="add"/>
+                <valItem ident="calcul" mode="add"/>
                 <valItem ident="complexe" mode="add"/>
               </valList>
             </attDef>
