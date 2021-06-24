@@ -126,24 +126,21 @@
     </teiHeader>
     <text>
         <body>
-            <div1 type="chapitre" xml:lang="fr" corresp="#ch050">
+            <div1 type="chapitre" n="050">
                 
                 <pb type="page" n="174"/>
                     <head>50. — Faisons nos comptes. (Élève, p. 110.)</head>                
                 <div2 type="récit">
-                    <p> 
-                       
-                       Jusqu'à épuisement de la basse-cour, du clapier*, des 
+                    <p>Jusqu'à épuisement de la basse-cour, du clapier*<gloss>Clapier. Lieu où l'on élève des lapins.</gloss>, des 
                     <lb/>choux, des chrysanthèmes, ils retournèrent à la ville, le 
                     <lb/>samedi.
                    </p>
                 <p>
                     <lb/>Et maintenant faisons nos comptes! d'abord ceux du
-                    </p>
+                    
                     
                 <pb type="page" n="175"/>
-                <p>
-                    
+                
                         <fw>FAISONS NOS COMPTES. 175</fw> 
                         <lb/>ménage et de la ferme. Ils furent rendus en famille, un 
                         <lb/>soir, et joyeusement, par la ménagère. Pendant cette 
@@ -152,13 +149,13 @@
                         <lb/>deux cent quarante francs de gain.
                 </p>
                 <p>
-                        <lb/>L'économie, l'ingéniosité, l'industrie* de Suzette fu-
+                        L'économie, l'ingéniosité, l'industrie*<gloss>Industrie. Habiteté.</gloss> de Suzette fu-
                         <lb/>rent louées comme il convenait par le père.
                 </p>
                 <p>
-                        <lb/>Mais François et Charlot réclamèrent leur part des 
+                        Mais François et Charlot réclamèrent leur part des 
                         <lb/>compliments : François, pour avoir confectionné les 
-                        <lb/>cabanes à claire-voie* pour les lapins, de jolies petites 
+                        <lb/>cabanes à claire-voie*<gloss>Claire-voie. Clôture dont les planches laissent du jour entre elles.</gloss> pour les lapins, de jolies petites 
                         <lb/>cabanes bièn élevées au-dessus du sol, très gentiment 
                         <lb/>exposées au midi, comme M. Valon lui avait dit de le 
                         <lb/>faire. Si les dames de Saint-Quentin s'étaient si bien 
@@ -166,31 +163,30 @@
                         <lb/>qu'on le devait !
                 </p>
                 <p>
-                        <lb/>— Et à moi aussi ! ajouta Charlot ; car, qui est allé 
+                        — Et à moi aussi ! ajouta Charlot ; car, qui est allé 
                         <lb/>chercher les herbes, les lacerons, les coquelicots, la 
                         <lb/>luzerne ?
                 </p>
                 <p>
-                        <lb/>MM. Charlot et François furent donc félicités, et ils 
+                        MM. Charlot et François furent donc félicités, et ils 
                         <lb/>se rengorgèrent un peu. Après quoi Jacques, ouvrant 
                         <lb/>un grand livre posé devant lui sur la table, y lut l'énu-
-                        <lb/>mération* des recettes et des dépenses. Parmi ces 
-                        <lb/>dernières se trouvait l'intérêt* payé des 3,500 francs de 
+                        <lb/>mération*<gloss>Enumération. Action de compter, de dénombrer les choses.</gloss> des recettes et des dépenses. Parmi ces 
+                        <lb/>dernières se trouvait l'intérêt*<gloss>Intérêt. Revenu qu'on tire d'une somme prêtée ou placée.</gloss> payé des 3,500 francs de 
                         <lb/>l'emprunt pour la reconstruction de la maison.
                 </p>
                 <p>
-                        <lb/>Avec cela on joignait les deux bouts, et sans trop 
-                        <lb/>tirer dessus*. Pour une année qui débuta par un in-
+                        Avec cela on joignait les deux bouts, et sans trop 
+                        <lb/>tirer dessus*<gloss>Sans trop tirer dessus. Sans trop d'effort.</gloss>. Pour une année qui débuta par un in-
                         <lb/>cendie, n'était-ce pas admirable ?
                 </p>
                 <p>
-                        <lb/>M. Dumay se frotta joyeusement les mains.
-                        <lb/>— Voilà de bons chiffres, dit-il, et de braves enfants.
-                    </p>
-                <p>
-                        <lb/>— Mon père, répondit Jacques, répétons-le encore :
+                        M. Dumay se frotta joyeusement les mains.
                 </p>
+                        <p>— Voilà de bons chiffres, dit-il, et de braves enfants.</p>
+                    
                 <p>
+                        — Mon père, répondit Jacques, répétons-le encore :
                         <lb/>celui qui possède un morceau, quelque petit qu'il soit, de 
                         <lb/>cette bonne, généreuse et nourricière terre de France, 
                         <lb/>n'a pas le droit de se dire sans ressources. Tant qu'il 
