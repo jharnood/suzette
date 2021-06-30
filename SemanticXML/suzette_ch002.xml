@@ -152,7 +152,7 @@
                <p> Envahis par le calme du soir, tous se taisaient. </p>
                <p> A la fin, le père dit : </p>
 
-               <p> — Suzette, va chercher la lampe. </p>
+               <p> — <persName type="fictif">Suzette,</persName> va chercher la lampe. </p>
                <p> Les enfants, se 
                   <lb/>levant alors, se 
                   <lb/>rapprochèrent du 
@@ -162,7 +162,7 @@
                   <lb/>dron, de la sou-
                   <lb/>pière à ramages, 
                   <lb/>devant l'âtre. </p>
-               <p> Suzette revint de 
+               <p> <persName type="fictif">Suzette</persName> revint de 
                   <lb/>la pièce à côté. </p>
                <p> — Eh bien ! et la 
                   <lb/>lampe ?</p>
@@ -186,8 +186,8 @@
                <p> — Bon. Mais te 
                   <lb/>voilà, toi, comme 
                   <lb/>un bourgeois de 
-                  <lb/>Falaise *<gloss>Falaise. Ville
-                     de Normandie.</gloss>; ce n'est pas tout de porter la lanterne, il faut
+                  <lb/><placeName>Falaise</placeName> *<gloss><placeName>Falaise</placeName>. Ville
+                     de <placeName>Normandie</placeName>.</gloss>; ce n'est pas tout de porter la lanterne, il faut
                   <lb/>l’allumer ! </p>
                <p> — C'est qu'il n'y a plus de pétrole. </p>
                <p> — Ah ! oui,  soupira le père, j'ai oublié. Trop de 
@@ -220,7 +220,7 @@
 
 
 
-               <p> Suzette prit le tisonnier, en frappa la braise : une 
+               <p> <persName type="fictif">Suzette</persName> prit le tisonnier, en frappa la braise : une 
                   <lb/>gerbe d'étincelles monta,
                   qui éclaira tous les visages. 
                   <lb/>Et alors, comme à un signal, descendit de la
@@ -262,7 +262,7 @@
                            étaient la chambre, les volubilis, les haricots, le bahut, les colonnes,
                            les pols, l'horizon, l'éclat de l'étoile.</item>
                         <item><note type="reference"> (Voir COURS DE GRAMMAIRE, degré élémentaire,
-                              par E. LAPORTE, chap. Ier, page 9, 1er exercice.) </note>
+                              par <persName type="historique">E. LAPORTE</persName>, chap. Ier, page 9, 1er exercice.) </note>
                         </item>
                      </list>
                   </div4>
@@ -280,7 +280,7 @@
                   <head type="sujets"> Composition. </head>
                   <div4 type="questions">
                      <list type="exercices">
-                        <item>— Racontez l'anecdote relative au bourgeois de Falaise et à sa
+                        <item>— Racontez l'anecdote relative au bourgeois de <placeName>Falaise</placeName> et à sa
                            lanterne.</item>
                      </list>
                   </div4>
@@ -288,7 +288,7 @@
 
                   <div4 type="réponses">
 
-                     <p> Un duc de Normandie avait prescrit aux bourgeois de Falaise de ne 
+                     <p> Un duc de <placeName>Normandie</placeName> avait prescrit aux bourgeois de <placeName>Falaise</placeName> de ne 
                         <lb/>sortir la
                         nuit que porteurs d'une lanterne. Ils obéirent, mais leurs 
                         <lb/>lanternes étaient
@@ -298,7 +298,7 @@
                         <lb/>l'ordre du duc l'indiquait, mais
                         ils se gardèrent de l'allumer. D'où le 
                         <lb/>proverbe : Il est comme le bourgeois
-                        de Falaise ; il n'allume pas sa 
+                        de <placeName>Falaise</placeName> ; il n'allume pas sa 
                         <lb/>chandelle. </p>
                   </div4>
                </div3>
@@ -342,11 +342,11 @@
                         <lb/>de quatre montants reliés par de solides traverses. <note> (Voir la
                            gravure.) </note>
                      </p>
-                     <p>Les principaux puits et sources de pétrole se trouvent aux États-
-                        <lb/>Unis, dans
-                        les vallées des monts Alleghany. On en trouve, en Europe, 
-                        <lb/>dans la Valachie
-                        et sur les bords de la mer Caspienne. </p>
+                     <p>Les principaux puits et sources de pétrole se trouvent aux <placeName>États-
+                        <lb/>Unis</placeName>, dans
+                        les vallées des monts <placeName>Alleghany</placeName>. On en trouve, en <placeName>Europe</placeName>, 
+                        <lb/>dans la <placeName>Valachie</placeName>
+                        et sur les bords de la mer <placeName>Caspienne</placeName>. </p>
                      <p>Le pétrole sert à l'alimentation des lampes au lieu et place des 
                         <lb/>huiles
                         végétales ; il donne une lumière brillante et de moitié moins 

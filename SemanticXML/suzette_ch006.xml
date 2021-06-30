@@ -77,7 +77,7 @@
       <body>
          <div1 type="chapitre" xml:lang="fr" corresp="#ch006">
 
-            <head> 6. — Monsieur François est un homme ! (Él., p. 15.) </head>
+            <head> 6. — <persName type="fictif">Monsieur François</persName> est un homme ! (Él., p. 15.) </head>
             <pb type="page" n="19"/>
             <div2 type="récit">
                   <p> Le lendemain, jeudi, fut un jeudi fameux en balayage 
@@ -94,7 +94,7 @@
                      	<lb/>vice ! Tout le reste de l'encombrement*<gloss> Encombrement. Amas d'objets qui occupent une place
                            qui n'est pas la leur. </gloss>, à la porte ! 
                      	<lb/>En avant le balai ! Et de l'eau à pleins seaux ! </p>
-                  <p> Tout animée, les joues rouges, Suzette allait, allait ! </p>
+                  <p> Tout animée, les joues rouges, <persName type="fictif">Suzette</persName> allait, allait ! </p>
                   <p> Elle s'était mise au ménage à six heures, après le 
                   	<lb/>départ du père pour les champs, et sans le prévenir. 
                   	
@@ -102,16 +102,16 @@
                      <pb type="page" n="20"/> 
                   	
                   	<lb/>Vers dix heures, toute haletante, n'en pouvant plus, elle 
-                  	<lb/>appela François, qui, revenant d’on ne sait où, passait 
+                  	<lb/>appela <persName type="fictif">François</persName>, qui, revenant d’on ne sait où, passait 
                   	<lb/>en sifflant comme un merle. </p>
-                     <p> — François, où sont Jacques et Charlot ? </p>
+                     <p> — <persName type="fictif">François</persName>, où sont <persName type="fictif">Jacques</persName> et <persName type="fictif">Charlot</persName> ? </p>
                      <p> — Ils se promènent. </p>
                      <p> — Ne pourrais-tu m'aider un peu ? </p>
                      <p> — A quoi ? </p>
                      <p> — Au ménage. </p>
                      <p> — Tu dis ? </p>
                      <p> — Au ménage. </p>
-                  <p> François releva la tête en arrière ; son nez, déjà si 
+                  <p> <persName type="fictif">François</persName> releva la tête en arrière ; son nez, déjà si 
                   	<lb/>bien retroussé, se retroussa encore plus, sa bouche se 
                   	<lb/>fendit jusqu'aux oreilles : il en sortit un grand éclat de 
                   	<lb/>rire. </p>
@@ -137,14 +137,14 @@
                            faire une chose, avec l'intention de ne pas l'exécuter. </gloss> d'être muets, craignant que 
                      	<lb/>l'homme ne les mette à la besogne ! </p>
 
-                  <p> François haussa les épaules et tourna les talons. </p>
+                  <p> <persName type="fictif">François</persName> haussa les épaules et tourna les talons. </p>
                   <p> Cependant le grand nettoyage s'acheva. Le soir, le 
                   	<lb/>père, au retour des champs, s'arrêta sur le seuil de la 
                   	<lb/>porte, regarda autour de lui, aspira l'odeur d'une fri-
                   	<lb/>cassée de pommes de terre, une bonne odeur depuis 
                   	<lb/>longtemps oubliée ; son visage s'éclaira : voilà le sou-
                   	<lb/>rire attendu ! </p>
-                  <p> M. Dumay se tourna vers Suzette, et, les yeux mouillés : </p>
+                  <p> <persName type="fictif">M. Dumay</persName> se tourna vers <persName type="fictif">Suzette</persName>, et, les yeux mouillés : </p>
                      <p> — Est-ce que ta pauvre maman serait revenue ? </p>
 
 
@@ -159,18 +159,18 @@
             <div2 type="questionnaire">
                   <head> Questionnaire. </head>
                   <list>
-                     <item>— Que disait Suzette animée de zèle pour le nettoyage de la maison
+                     <item>— Que disait <persName type="fictif">Suzette</persName> animée de zèle pour le nettoyage de la maison
                         ?</item>
                      <item>— Racontez comment elle s'acquitta de ce travail.</item>
                      <item>— Que pensez-vous de cette jeune enfant ?</item>
                      <item>— Reproduisez de votre mieux le dialogue qui s'engagea entre elle et
-                        François.</item>
+                        <persName type="fictif">François</persName>.</item>
                      <item>— Quelles vilaines choses fit-il au moment<cb/>de quitter la maison
                         ?</item>
-                     <item>— Que pensez-vous de la manière de répondre et d'agir de François
+                     <item>— Que pensez-vous de la manière de répondre et d'agir de <persName type="fictif">François</persName>
                         ?</item>
                      <item>— Qu'aurait fait, à sa place, un bon petit frère ?</item>
-                     <item>— Que lui dit Suzette indignée ?</item>
+                     <item>— Que lui dit <persName type="fictif">Suzette</persName> indignée ?</item>
                      <item>— Quel effet produisit sur le père la vue de la cuisine nettoyée et
                         rangée ?</item>
                   </list>
@@ -304,12 +304,12 @@
                      <p>
                      <term>La pomme de terre</term> est un tubercule rempli de fécule qui est pro-
                      	<lb/>duit par le renflement de la tige souterraine. Elle provient des plateaux 
-                     	<lb/>du Chili et du Pérou. Les feuilles de cette plante sont cotonneuses au-
+                     	<lb/>du <placeName>Chili</placeName> et du <placeName>Pérou</placeName>. Les feuilles de cette plante sont cotonneuses au-
                      	<lb/>dessous et d'un vert pâle au-dessus ; elle porte des fleurs blanches, 
                      	<lb/>violettes et roses qui peuvent passer pour jolies ; quant aux fruits, ce 
                      	<lb/>sont des baies sphériques et verdâtres grosses comme des marrons. </p>
                   <p>La pomme de terre entre pour une part importante dans l'alimen-
-                  	<lb/>tation de l'homme en Europe et en Amérique ; on l'a introduite dans le 
+                  	<lb/>tation de l'homme en <placeName>Europe</placeName> et en <placeName>Amérique</placeName> ; on l'a introduite dans le 
                   	<lb/>régime des animaux de la basse-cour, du porc, par exemple, auquel elle 
                   	<lb/>procure un engraissement rapide. </p>
                   </div4>
