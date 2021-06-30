@@ -108,7 +108,7 @@
 
 
                <figure type="illustration">
-                  <caption> a salle de classe de Mme Valon. </caption>
+                  <caption> a salle de classe de <persName type="fictif">Mme Valon</persName>. </caption>
                </figure>
 
                <p> Les leçons 
@@ -119,10 +119,10 @@
                      type="header"> 12 SUZETTE. </fw>
                   <pb type="page" n="12"/> 
                   
-                  <lb/>toutes couleurs regardaient Mme Valon en train de
+                  <lb/>toutes couleurs regardaient <persName type="fictif">Mme Valon</persName> en train de
                   feuil-
                   <lb/>leter un livre. </p>
-               <p> Mme Valon était l'institutrice nouvelle de Fragicourt, 
+               <p> <persName type="fictif">Mme Valon</persName> était l'institutrice nouvelle de Fragicourt, 
                   <lb/>arrivée depuis un mois à
                   peine avec son mari, le 
                   <lb/>maître de l'école des garçons. Elle leva son visage 
@@ -156,7 +156,7 @@
                   <caption>Ce quadrupède est carnassier et d'une 
                      <lb/>très grande force ; il habite nos
                      régions et 
-                     <lb/>on le rencontre fréquemment en France. </caption>
+                     <lb/>on le rencontre fréquemment en <placeName>France</placeName>. </caption>
                </figure>
 
                <p> Au profond de la forêt 
@@ -178,7 +178,7 @@
                   <caption>Ce quadrupède, également carnassier, 
                      <lb/>est du genre chat ; on le trouve
                      principale-
-                     <lb/>ment en Sibérie et au Canada. </caption>
+                     <lb/>ment en <placeName>Sibérie</placeName> et au <placeName>Canada</placeName>. </caption>
                </figure>
 
                <p> Tout à coup, dans le 
@@ -272,7 +272,7 @@
                   <head> Questionnaire. </head>
                   <list>
                      <item>— Quel était l’aspect intérieur de l'école ?</item>
-                     <item>— Que savez-vous de Mme Valon ?</item>
+                     <item>— Que savez-vous de <persName type="fictif">Mme Valon</persName> ?</item>
                      <item>— Que fit-elle avant de commencer sa leçon ?</item>
                      <item>— Comment étaient les alentours de l'habitation de la famille
                         préhistorique ?</item>
@@ -358,7 +358,7 @@
                   <head type="sujets"> Histoire. </head>
                   <div4 type="questions">
                      <list type="exercices">
-                     <item>— Comment étaient les premiers habitants de notre France ?</item>
+                     <item>— Comment étaient les premiers habitants de notre <placeName>France</placeName> ?</item>
                      <item>— De quoi vivaient-ils ?</item>
                      <item>— Où habitaient-ils ?</item>
                      <item>— Comment étaient ces abris ?</item>
@@ -368,14 +368,14 @@
 
                   <div4 type="réponses">
                      <p> Les premiers hommes qui habitèrent sur le sol de notre
-                     France, y 
+                     <placeName>France</placeName>, y 
                         <lb/>apparurent à une époque prodigieusement éloignée dite <term>âge
                         quater-
                            <lb/>naire</term>, et en même temps que d'énormes animaux, aujourd'hui
                      disparus, tels que le mammouth, le rhinocéros, l'ours des cavernes (1) <note
-                        type="foot"> (1) Les musées d'histoire naturelle de Paris et des grandes
+                        type="foot"> (1) Les musées d'histoire naturelle de <placeName>Paris</placeName> et des grandes
                         villes renferment des squelettes de ces animaux. Le mammouth était un
-                        éléphant gigantesque à longs poils ; on en a trouvé de congelés en Sibérie.
+                        éléphant gigantesque à longs poils ; on en a trouvé de congelés en <placeName>Sibérie</placeName>.
                      </note>. </p>
                   <p>C'étaient des sauvages ; armés de silex taillés et grossièrement 
                      <lb/>emmanchés, ils
