@@ -76,7 +76,7 @@
    <text>
       <body>
          <div1 type="chapitre">
-            <head type="chapter"> 12. — On se débarbouille. (Élève, p. 30.) </head>
+            <head > 12. — On se débarbouille. (Élève, p. 30.) </head>
             <pb type="page" n="41"/>
 
             <div2 type="récit">
@@ -161,7 +161,7 @@
                <div3 type="hygiène">
                   <head> Hygiène.</head>
                   <div4 type="questions">
-                     <list type="exercices">
+                     <list>
                         <item>— Au point de vue des soins de propreté, que doit faire une jeune
                            fille après son lever, pour ce que réclament le corps, ses vêtements et
                            sa chambre?</item>
@@ -226,7 +226,7 @@
                <div3 type="industrie">
                   <head>Industrie.</head>
                   <div4 type="questions">
-                     <list type="exercices">
+                     <list >
                         <item>— LE SAVON.</item>
                         <item>— De quelles matières se compose-t-il?</item>
                         <item>—Où le fabrique-t-on en grand?</item>
