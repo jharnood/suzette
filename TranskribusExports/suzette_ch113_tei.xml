@@ -1,77 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title type="main">Suzette: a Digital Edition</title>
-				<respStmt>
-					<persName>John Westbrook</persName>
-					<orgName>Bucknell University</orgName>
-					<resp>Editor</resp>
-				</respStmt>
-				<respStmt>
-					<persName>Diane Jakacki</persName>
-					<orgName>Bucknell University</orgName>
-					<resp>Project Manager</resp>
-				</respStmt>
-				<respStmt>
-					<persName>Annie Girton</persName>
-					<orgName>Bucknell University</orgName>
-					<resp>Research Assistant and Encoder, 2018-2020</resp>
-				</respStmt>
-				<respStmt>
-					<persName>Sarah Haber</persName>
-					<orgName>Bucknell University</orgName>
-					<resp>Research Assistant and Encoder, 2020-Present</resp>
-				</respStmt>
-				<respStmt>
-					<persName>Rebecca Heintzelman</persName>
-					<orgName>Bucknell University</orgName>
-					<resp>Research Assistant and Encoder, 2020-Present</resp>
-				</respStmt>
-				<respStmt>
-					<persName>Juliya Harnood</persName>
-					<orgName>Bucknell University</orgName>
-					<resp>Research Assistant and Encoder, 2021-Present</resp>
-				</respStmt>
+				<title type='main'>suzette_ch113</title>
 			</titleStmt>
 			<publicationStmt>
-				<distributor>Bucknell University</distributor>
-				<pubPlace>
-					<address>
-						<addrLine>One Dent Drive</addrLine>
-						<addrLine>Lewisburg, PA 17837</addrLine>
-					</address>
-				</pubPlace>
-				<availability>
-					<licence>Attribution-NonCommercial-ShareAlike 4.0 International</licence>
-				</availability>
+				<publisher>tranScriptorium</publisher>
 			</publicationStmt>
 			<sourceDesc>
-				<biblStruct>
-					<monogr>
-						<title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles.
-							Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine –
-							Couture</title>
-						<author>Robert Halt</author>
-						<textLang>French</textLang>
-						<imprint>
-							<date>1889</date>
-							<distributor>Libraire Classique Paul Delaplane</distributor>
-							<pubPlace>Paris, France</pubPlace>
-						</imprint>
-					</monogr>
-				</biblStruct>
+				<bibl><publisher>TRP document creator: dkj004@bucknell.edu</publisher></bibl>
 			</sourceDesc>
 		</fileDesc>
-		<profileDesc>
-			<langUsage>
-				<language ident="fr">French</language>
-				<language ident="en">English</language>
-			</langUsage>
-		</profileDesc>
 	</teiHeader>
 	<text>
 		<body>
@@ -112,9 +52,7 @@
 				<lb/>Oui, sans vous, petite ménagère, rien ne va plus ici.
 				<lb/>Reparaissez, et, par la vertu de votre baguette, tout 
 				<lb/>redeviendra propre et délicat !
-				<figure>
-					<caption>La voici ! la voici !... Ma fille ! </caption>
-				</figure>
+				<lb/>La voici ! la voici !... Ma fille ! 
 				<lb/>Les bottes, le chaudron n&apos;ont qu&apos;à se bien tenir, 
 				<lb/>hein ? dit en riant doucement M. Dumay, qui lisait sur 
 				<lb/>le visage de sa fille. Ce sont ces vilains garçons qui ont 
@@ -293,7 +231,12 @@
 				<lb/>autres ustensiles se nettoient de préférence avec de l&apos;eau de cuivre.
 				<lb/>On verse un peu de cette eau sur un chiffon de laine et on en frotte 
 				<lb/>le cuivre, dont on a enlevé les matières grasses ; quand il est bien 
-				<lb/>éclairci, on achève au moyen du tripoli sec en frottant avec un chiffon.				
+				<lb/>éclairci, on achève au moyen du tripoli sec en frottant avec un chiffon.
+				<lb/>114. — Un cadeau. (Élève, p. 243.)
+				<lb/>Le surlendemain, à la fin du jour, M. Dumay, rentré des 
+				<lb/>champs, les pieds dans de bons et spacieux sabots qu&apos;il 
+				<lb/>appelait ses pantoufles, regardait paternellement Suzette. 
+				<lb/>En robe claire et tablier à carreaux, elle vaquait au 
 			</p>
 		</body>
 	</text>
