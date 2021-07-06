@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/djakacki/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="http://moravianlives.bucknell.edu.s3.amazonaws.com/data/ml_cwrc.css"?>
+<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -12,12 +12,7 @@
                <resp>Editor</resp>
             </respStmt>
             <respStmt>
-               <persName>Sarah Haber</persName>
-               <orgName>Bucknell University</orgName>
-               <resp>Research Assistant and Encoder, 2020 - Present</resp>
-            </respStmt>
-            <respStmt>
-               <persName xml:id="JAKA1">Diane Jakacki</persName>
+               <persName>Diane Jakacki</persName>
                <orgName>Bucknell University</orgName>
                <resp>Project Manager</resp>
             </respStmt>
@@ -35,6 +30,11 @@
                <persName>Rebecca Heintzelman</persName>
                <orgName>Bucknell University</orgName>
                <resp>Research Assistant and Encoder, 2020-Present</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Juliya Harnood</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and Encoder, 2021-Present</resp>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -64,62 +64,6 @@
                   </imprint>
                </monogr>
             </biblStruct>
-            <list>
-               <item xml:id="âme">L'âme</item>
-               <item xml:id="enfant_école"> L'enfant dans école </item>
-               <item xml:id="enfant_famille"> L'enfant dans la famille </item>
-               <item xml:id="envers_dieu"> Devoirs envers Dieu </item>
-               <item xml:id="envers_semblables"> Devoirs envers nos semblables </item>
-               <item xml:id="envers_serviteur"> Devoirs envers les serviteurs </item>
-               <item xml:id="envers_soi-même"> Devoirs envers soi-même </item>
-               <item xml:id="extérieurs"> Les biens extérieurs </item>
-               <item xml:id="fréres_sœurs"> Devoirs des frères et sœurs </item>
-               <item xml:id="patrie"> La patrie </item>
-               <item xml:id="instruction_civique"> Instruction civique </item>
-               <item xml:id="civilité"> Civilité </item>
-               <item xml:id="français"> Français </item>
-               <item xml:id="descriptions"> Descriptions </item>
-               <item xml:id="lettres"> Lettres </item>
-               <item xml:id="récits"> Récits </item>
-               <item xml:id="récits_historiques"> Récits historiques </item>
-               <item xml:id="sujets-moraux_imagination"> Sujets-moraux ou d'imagination </item>
-               <item xml:id="histoire"> Histoire </item>
-               <item xml:id="afrique"> Afrique </item>
-               <item xml:id="amérique"> Amérique </item>
-               <item xml:id="asie"> Asie </item>
-               <item xml:id="europe"> Europe </item>
-               <item xml:id="france"> France </item>
-               <item xml:id="géographie"> Géographie </item>
-               <item xml:id="océanie"> Océanie </item>
-               <item xml:id="minéraux"> Minéraux </item>
-               <item xml:id="sciences_naturelles"> Sciences Naturelles </item>
-               <item xml:id="végétaux"> Végétaux </item>
-               <item xml:id="arbres_non_cultivés"> 1° Arbres Non Cultivés </item>
-               <item xml:id="herbes_plantes_sauvages"> 2° Herbes ou Plantes Sauvages </item>
-               <item xml:id="arbres_cultivés"> 3° Arbres Cultivés </item>
-               <item xml:id="arbustes_cultivés"> 4° Arbustes Cultivés </item>
-               <item xml:id="céréales"> 5° Céréales </item>
-               <item xml:id="legumes_racines"> 6° Légumes, Racines, etc. </item>
-               <item xml:id="divers_végétaux"> 7° Divers (Vegetaux) </item>
-               <item xml:id="homme"> 1° L'Homme </item>
-               <item xml:id="animaux_domestiques"> 2° Animaux Domestiques </item>
-               <item xml:id="animaux_sauvages"> 3° Animaux Sauvages </item>
-               <item xml:id="sciences_physiques"> Notions Relatives aux Sciences Physiques </item>
-               <item xml:id="matières_objets_fabriques"> Matières et objets fabriqués </item>
-               <item xml:id="construction"> Construction </item>
-               <item xml:id="machines_appareils"> Machines, appareils, ustensiles, vases </item>
-               <item xml:id="outils"> Outils </item>
-               <item xml:id="etoffes_habillement"> Étoffes, habillement </item>
-               <item xml:id="divers_industrie"> Divers (Industrie) </item>
-               <item xml:id="économie_domestique"> Économie Domestique </item>
-               <item xml:id="aliments_cuisine"> Aliments et cuisine </item>
-               <item xml:id="vêtements_domestiques"> Vêtements </item>
-               <item xml:id="basse-cour"> Basse-cour </item>
-               <item xml:id="corps_habitations"> Corps et habitations </item>
-               <item xml:id="vêtements_hygiene"> Vêtements (Hygiene) </item>
-               <item xml:id="aliments"> Aliments </item>
-               <item xml:id="maladies_remèdes"> Maladies, etc.; remèdes </item>
-            </list>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
@@ -145,7 +89,7 @@
                <p>— Ça ne brûle pas ! c&apos;est le caramel !</p>
                <p>C&apos;était le caramel, en effet. Il était là transparent, 
                <lb/>joliment vitriflé autour du moule.</p>
-               <p>Un moment plus tard, la crème se coagulait<gloss> * </gloss> irré-
+                  <p>Un moment plus tard, la crème se coagulait*<gloss> Coaguler. Se dit d'un liquide épais qui prend de la consistance. </gloss> irré-
                <lb/>prochable, dans le four du pole. Et, bientôt, une main 
                <lb/>légère et vive la renversait sur le plat, tout d&apos;une pièce, 
                <lb/>admirablement moulée, onctueuse, brune, caramélisée.</p>
@@ -160,7 +104,7 @@
                <lb/>enfarinées qui pétrissaient, allaient, voltigeaient, jouant 
                <lb/>du rouleau, du couteau ; et ce fut ensuite une jolie 
                <lb/>assiette de pâte au triple bord gentiment tuyauté, et 
-               <lb/>relevé encore d&apos;un savant petit coup de doroir<gloss> * </gloss>. Les 
+                  <lb/>relevé encore d&apos;un savant petit coup de doroir*<gloss> Doroir. Sorte de plume avec laquelle on dore les pâtisseries. </gloss>. Les 
                <figure><caption>Moules à pâtisserie.
                <lb/>1. Moule pour fromages et crèmes ; — 2. Moule, 
                <lb/>pour gâteau de riz ; — 3. Moule pour gâteaux 
@@ -208,13 +152,13 @@
                <p>— Eh bien, soit ! puisque tout le monde le veut, dit 
                <lb/>enfin le père.</p>
                <p>M. François, qui, averti de la délibération, se tenait 
-               <lb/>fort anxieux<gloss> * </gloss> au jardin, fut appelé. On l&apos;informa de la 
+                  <lb/>fort anxieux*<gloss>Anxieux. Qui est en peine, embarrassé d’esprit.  </gloss> au jardin, fut appelé. On l&apos;informa de la 
                <lb/>décision. Tout ému de joie, il sauta successivement au 
                <lb/>cou de tout le monde.</p>
                <p>On se mit alors à table, où l&apos;on prit une autre déci-
                <lb/>sion, également unanime, sur la question de la crème 
                <lb/>renversée et de la tarte aux reines-Claude.</p>
-               <p>Toutes deux furent couronnées ex quo<gloss> * </gloss> — et ache-
+                  <p>Toutes deux furent couronnées ex æquo*<gloss> Ex æquo. A mérite égal. </gloss> — et ache-
                <lb/>vées jusqu&apos;à la dernière miette.</p>
                <p>Deux jours après, M. François bien chapitré, bien 
                <lb/>embrassé, partait pour la capitale avec Louis et Ma-

@@ -119,6 +119,21 @@
             </attDef>
           </attList>
         </elementSpec>
+      	
+      	<elementSpec ident="persName" mode="change">
+      		<attList>
+      			<attDef ident="type" mode="change">
+      				<valList type="closed" mode="change">
+      					<valItem ident="historique" mode="add">
+      						<desc xml:lang="fr">historique</desc>
+      					</valItem>
+      					<valItem ident="fictif" mode="add">
+      						<desc xml:lang="fr">fictif</desc>
+      					</valItem>
+      				</valList>
+      			</attDef>
+      		</attList>
+      	</elementSpec>
         
         <!-- Customize span @ana to reference thematic components of the book -->
         <elementSpec ident="span" mode="change">
@@ -186,8 +201,8 @@
           </attList>
         </elementSpec>
       	
-      	<!-- Customize RS @ana to distinguish among categorical information -->
-      	<elementSpec ident="rs" mode="change">
+      	<!-- Customize objectName @ana to distinguish among categorical information -->
+      	<elementSpec ident="objectName" mode="change">
       		<attList>
       			<attDef ident="ana" mode="change">
       				<valList mode="add" type="closed">
