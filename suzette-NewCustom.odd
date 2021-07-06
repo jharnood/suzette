@@ -201,8 +201,8 @@
           </attList>
         </elementSpec>
       	
-      	<!-- Customize RS @ana to distinguish among categorical information -->
-      	<elementSpec ident="rs" mode="change">
+      	<!-- Customize objectName @ana to distinguish among categorical information -->
+      	<elementSpec ident="objectName" mode="change">
       		<attList>
       			<attDef ident="ana" mode="change">
       				<valList mode="add" type="closed">
