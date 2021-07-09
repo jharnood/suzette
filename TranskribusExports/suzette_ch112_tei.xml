@@ -1,77 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title type="main">Suzette: a Digital Edition</title>
-				<respStmt>
-					<persName>John Westbrook</persName>
-					<orgName>Bucknell University</orgName>
-					<resp>Editor</resp>
-				</respStmt>
-				<respStmt>
-					<persName>Diane Jakacki</persName>
-					<orgName>Bucknell University</orgName>
-					<resp>Project Manager</resp>
-				</respStmt>
-				<respStmt>
-					<persName>Annie Girton</persName>
-					<orgName>Bucknell University</orgName>
-					<resp>Research Assistant and Encoder, 2018-2020</resp>
-				</respStmt>
-				<respStmt>
-					<persName>Sarah Haber</persName>
-					<orgName>Bucknell University</orgName>
-					<resp>Research Assistant and Encoder, 2020-Present</resp>
-				</respStmt>
-				<respStmt>
-					<persName>Rebecca Heintzelman</persName>
-					<orgName>Bucknell University</orgName>
-					<resp>Research Assistant and Encoder, 2020-Present</resp>
-				</respStmt>
-				<respStmt>
-					<persName>Juliya Harnood</persName>
-					<orgName>Bucknell University</orgName>
-					<resp>Research Assistant and Encoder, 2021-Present</resp>
-				</respStmt>
+				<title type='main'>suzette_ch112</title>
 			</titleStmt>
 			<publicationStmt>
-				<distributor>Bucknell University</distributor>
-				<pubPlace>
-					<address>
-						<addrLine>One Dent Drive</addrLine>
-						<addrLine>Lewisburg, PA 17837</addrLine>
-					</address>
-				</pubPlace>
-				<availability>
-					<licence>Attribution-NonCommercial-ShareAlike 4.0 International</licence>
-				</availability>
+				<publisher>tranScriptorium</publisher>
 			</publicationStmt>
 			<sourceDesc>
-				<biblStruct>
-					<monogr>
-						<title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles.
-							Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine –
-							Couture</title>
-						<author>Robert Halt</author>
-						<textLang>French</textLang>
-						<imprint>
-							<date>1889</date>
-							<distributor>Libraire Classique Paul Delaplane</distributor>
-							<pubPlace>Paris, France</pubPlace>
-						</imprint>
-					</monogr>
-				</biblStruct>
+				<bibl><publisher>TRP document creator: dkj004@bucknell.edu</publisher></bibl>
 			</sourceDesc>
 		</fileDesc>
-		<profileDesc>
-			<langUsage>
-				<language ident="fr">French</language>
-				<language ident="en">English</language>
-			</langUsage>
-		</profileDesc>
 	</teiHeader>
 	<text>
 		<body>
@@ -240,33 +180,11 @@
 				<lb/>seulement une ruche et que cette ruche donnât 8 kilogrammes de 
 				<lb/>miet à 2 fr. 25 et 1 kilog. 750 de cire à 3 fr. 60, quel serait le pro-
 				<lb/>dait total ?
-				<table>
-					<row>
-						<cell>Le miel serait vendu</cell>
-						<cell>2 fr. 25 X</cell>
-						<cell>8</cell>
-						<cell>= 18 fr. »</cell>
-					</row>
-					<row>
-						<cell>La cire</cell>
-						<cell>3 fr. 60 X</cell>
-						<cell>1,750</cell>
-						<cell>= <hi rend="underline">6 fr. 30</hi></cell>
-					</row>
-					<row>
-						<cell>Le produit total de la ruche</cell>
-						<cell></cell>
-						<cell></cell>
-						<cell>= 24 fr. 30</cell>
-					</row>
-					<row>
-						<cell>Celui des 3.000.000 de ruches</cell>
-						<cell>= 24 fr. 30 X 3.000.000</cell>
-						<cell></cell>
-						<cell>= 72.900.000 fr.</cell>
-					</row>
-				</table>
-				
+				<lb/>Le miel serait vendu......... 2 fr. 25 X 8 = 18 fr. »
+				<lb/>La cire... 3 fr. 60X 1,750 = 6 fr. 30
+				<lb/>_____________
+				<lb/>Le produit total de la ruche.... = 24 fr. 30
+				<lb/>Celui des 3.000.000 de ruches = 24 fr. 30 X 3.000.000 = 72.900.000 fr.
 				<lb/>QUITTANCE DE LOYER.
 				<lb/>Je, soussignée, propriétaire d&apos;une maison située à Montauban, rue 
 				<lb/>de Bordeaux, numéro 7, reconnais avoir reçu de M. MAUDUIT, loca-

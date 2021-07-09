@@ -1,77 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title type="main">Suzette: a Digital Edition</title>
-				<respStmt>
-					<persName>John Westbrook</persName>
-					<orgName>Bucknell University</orgName>
-					<resp>Editor</resp>
-				</respStmt>
-				<respStmt>
-					<persName>Diane Jakacki</persName>
-					<orgName>Bucknell University</orgName>
-					<resp>Project Manager</resp>
-				</respStmt>
-				<respStmt>
-					<persName>Annie Girton</persName>
-					<orgName>Bucknell University</orgName>
-					<resp>Research Assistant and Encoder, 2018-2020</resp>
-				</respStmt>
-				<respStmt>
-					<persName>Sarah Haber</persName>
-					<orgName>Bucknell University</orgName>
-					<resp>Research Assistant and Encoder, 2020-Present</resp>
-				</respStmt>
-				<respStmt>
-					<persName>Rebecca Heintzelman</persName>
-					<orgName>Bucknell University</orgName>
-					<resp>Research Assistant and Encoder, 2020-Present</resp>
-				</respStmt>
-				<respStmt>
-					<persName>Juliya Harnood</persName>
-					<orgName>Bucknell University</orgName>
-					<resp>Research Assistant and Encoder, 2021-Present</resp>
-				</respStmt>
+				<title type='main'>suzette_ch110</title>
 			</titleStmt>
 			<publicationStmt>
-				<distributor>Bucknell University</distributor>
-				<pubPlace>
-					<address>
-						<addrLine>One Dent Drive</addrLine>
-						<addrLine>Lewisburg, PA 17837</addrLine>
-					</address>
-				</pubPlace>
-				<availability>
-					<licence>Attribution-NonCommercial-ShareAlike 4.0 International</licence>
-				</availability>
+				<publisher>tranScriptorium</publisher>
 			</publicationStmt>
 			<sourceDesc>
-				<biblStruct>
-					<monogr>
-						<title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles.
-							Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine –
-							Couture</title>
-						<author>Robert Halt</author>
-						<textLang>French</textLang>
-						<imprint>
-							<date>1889</date>
-							<distributor>Libraire Classique Paul Delaplane</distributor>
-							<pubPlace>Paris, France</pubPlace>
-						</imprint>
-					</monogr>
-				</biblStruct>
+				<bibl><publisher>TRP document creator: dkj004@bucknell.edu</publisher></bibl>
 			</sourceDesc>
 		</fileDesc>
-		<profileDesc>
-			<langUsage>
-				<language ident="fr">French</language>
-				<language ident="en">English</language>
-			</langUsage>
-		</profileDesc>
 	</teiHeader>
 	<text>
 		<body>
@@ -97,21 +37,13 @@
 				<lb/>mier ; la famille suivit.
 				<lb/>Le monsieur les mit aussitôt au fait en leur disant : 
 				<lb/>— Il s&apos;agit d&apos;apiculture, de culture des abeilles.
-				<figure>
-					<caption>
-					Larve de l&apos;abeille.
+				<lb/>Larve de l&apos;abeille.
 				<lb/>Reste six jours dans cet état 
 				<lb/>avant de devenir nymphe.
-					</caption>
-				</figure>
-				<figure>
-					<caption>
-						Abeilles.
+				<lb/>Abeilles.
 				<lb/>l. Reine. — 
 				<lb/>2. Mâle ou faux-bourdon.
 				<lb/>3. Ouvrière.
-					</caption>
-				</figure>
 				<lb/>Et montrant les maisonnettes : 
 				<lb/>— Vous voyez le rucher. J&apos;étais en train de demander 
 				<lb/>si, parmi les personnes qui m&apos;écoutent, il y a un habi-
@@ -147,9 +79,7 @@
 				<lb/>à vivre ?... Eh bien ! Mademoiselle, 
 				<lb/>reprit-il, si vous aviez mon âge, je 
 				<lb/>me fâcherais tout rouge contre vous !
-				<figure>
-					<caption>
-					Abeille butineuse.
+				<lb/>Abeille butineuse.
 				<lb/>Elle s&apos;introduit dans la 
 				<lb/>fleur, y plonge sa trompe, 
 				<lb/>espèce de langue qui as-
@@ -159,9 +89,7 @@
 				<lb/>ainsi que dans les brosses 
 				<lb/>et les corbeilles de ses pat-
 				<lb/>tes, le pollen de la fleur, 
-				<lb/>sous forme de pelote.
-					</caption>
-				</figure> 
+				<lb/>sous forme de pelote, 
 				<lb/>Il se fâchait, et comme il faut, 
 				<lb/>mais c&apos;était la très pardonnable fâche-
 				<lb/>rie de la science contre l&apos;ignorance :
@@ -176,15 +104,11 @@
 				<lb/>de compliments, vous plaît-il, Made-
 				<lb/>moiselle, d&apos;écouter, de regarder un 
 				<lb/>moment ?
-				<figure>
-					<caption>
-						Pattes d&apos;une abeille.
+				<lb/>Pattes d&apos;une abeille.
 				<lb/>Brosses (1) et cor-
 				<lb/>beilles (2) dans les
 				<lb/>quelles l&apos;abeille emma-
 				<lb/>gasine le pollen.
-					</caption>
-				</figure>
 				<lb/>Toute cette brusquerie ne déplut pas 
 				<lb/>à Mlle Suzette, qui, quoique un peu gênée, voyait bien 
 				<lb/>d&apos;où elle partait.
