@@ -75,38 +75,33 @@
 	</teiHeader>
    <text>
       <body>
-         <div1 type="chapitre" xml:lang="fr" corresp="#ch009">
-
-            <head> 9. — La clef du trésor. (Élève, p. 22.) </head>
+         <div1 type="chapitre" n="009">
             <pb type="page" n="29"/>
+            <head> 9. — La clef du trésor. (Élève, p. 22.) </head>
             <div2 type="récit">
 
                <p>Suzette avait maintenant douze ans, et c'était pour elle 
-               	<lb/>la fin des classes qui
-                  arrive toujours un peu trop vite. </p>
-
-               <fw type="sig"> 2. </fw>
+               <lb/>la fin des classes qui arrive toujours un peu trop vite.</p>
+               
+               <fw type="footer"><fw type="sig"> 2. </fw></fw>
 
                <fw type="header"> 30 SUZETTE. </fw>
                <pb type="page" n="30"/>
 
 
                <p> A ces douze ans-là s'ajoutaient un teint clair, des 
-               	<lb/>dents blanches et propres,
-                  une souple et longue cheve
-                  <lb/>lure ornant un visage à l'air ouvert et avenant. Le jour
-                  de 
-                  <lb/>son anniversaire*<gloss> Anniversaire. Époque ou cérémonie que ramène le
-                     souvenir d'un événement arrivé à pareil jour. </gloss> tombait juste la veille
-                  des vacances. </p>
-               <p> Comme les élèves, assez pressées de les commen-
+               	<lb/>dents blanches et propres, une souple et longue cheve
+                  <lb/>lure ornant un visage à l'air ouvert et avenant. Le jour de 
+                  <lb/>son anniversaire* <gloss> Anniversaire. Époque ou cérémonie que ramène le
+                     souvenir d'un événement arrivé à pareil jour. </gloss> tombait juste la veille des vacances. </p>
+               <p>Comme les élèves, assez pressées de les commen-
                	<lb/>cer, se levaient, 
                	<lb/>sans attendre le
                   <lb/>coup de l'hor-
                	<lb/>loge, Mme Valon 
                	<lb/>les fit rasseoir. </p>
 
-               <figure type="sujets">
+               <figure>
                   <caption>L'art du livre.</caption>
                   <caption>Les caractères d'im-
                   	<lb/>primerie sont de petites 
@@ -185,7 +180,8 @@
 
                   <p> — Moi, quatre, dit Suzette. </p>
 
-                  <p> — En y comprenant l’almanach, reprit en souriant Mme Valon, cela fait déjà huit. Et vous autres ? </p>
+                  <p> — En y comprenant l’almanach, reprit en souriant 
+                     <lb/>Mme Valon, cela fait déjà huit. Et vous autres ? </p>
 
                <p> Chacune dit son chiffre, et l'addition donna soixante-
                	<lb/>trois livres. </p>
@@ -196,21 +192,15 @@
                         on réunit beaucoup de livres. </gloss> que 
                   	<lb/>j'ajouterai, voilà le trésor
                      commun à vous toutes ; vous 
-                     <lb/>y puiserez librement et nous l'accroîtrons avec un
-                     peu 
+                     <lb/>y puiserez librement et nous l'accroîtrons avec un peu 
                      <lb/>de bonne volonté. Ce sera le commencement de la 
-                     <lb/>bibliothèque scolaire du
-                     village. J'attends vos livres 
-                     <lb/>demain... Et maintenant, séparons-nous sans
-                     adieu. 
+                     <lb/>bibliothèque scolaire du village. J'attends vos livres 
+                     <lb/>demain... Et maintenant, séparons-nous sans adieu. 
                      <lb/>Vous, grandes filles, qui quittez l'école, n'oubliez pas qu'a-
-                     <lb/>vec cette
-                     bibliothèque, vous avez encore ici une amie. </p>
+                     <lb/>vec cette bibliothèque, vous avez encore ici une amie. </p>
                <p> Spontanément les grandes filles se levèrent de leurs 
-                  <lb/>bancs, et entourèrent Mme
-                  Valon. Les petites, celles qui 
-                  <lb/>devaient revenir dans six semaines, firent de même.
-                  On 
+                  <lb/>bancs, et entourèrent Mme Valon. Les petites, celles qui 
+                  <lb/>devaient revenir dans six semaines, firent de même. On 
                   <lb/>embrassa l'institutrice, car on l'aimait. </p>
 
                   <p> — Allons, hop ! en vacances ! dit-elle avec un sourire ému. </p>
@@ -222,8 +212,7 @@
 
                <p> >Suzette, qui avait le cœur tendre et réfléchi* <gloss> Réfléchi. Le contraire
                      d'étourdi. </gloss>, dit adieu 
-                  <lb/>d'un mélancolique regard à ces murs, à son banc,
-                  aux 
+                  <lb/>d'un mélancolique regard à ces murs, à son banc, aux
                   <lb/>six années de sa jeune vie déjà passées là. </p>
             </div2>
 
@@ -231,20 +220,16 @@
                <head> Questionnaire. </head>
                <list>
                   <item>— Faites le portrait de Suzette à douze ans.</item>
-                  <item>— Qu'entendez-vous par anniversaire, par vacances ?</item>
-                  <item>— Quelle question adressa Mme Valon à ses élèves sur l'utilité de la lecture
-                     ?</item>
-                  <item>— Pourquoi tant d'élèves oublient-elles ce qu'elles ont appris à l'école
-                     ?</item>
-                  <item>— A quelle condition peut-on lire ?</item>
-                  <item>— Que proposa madame l'institu-<cb/>trice pour former une bibliothèque
-                     scolaire ?</item>
+                  <item>— Qu'entendez-vous par anniversaire, par vacances ? </item>
+                  <item>— Quelle question adressa Mme Valon à ses élèves sur l'utilité de la lecture ? </item>
+                  <item>— Pourquoi tant d'élèves oublient-elles ce qu'elles ont appris à l'école ? </item>
+                  <item>— A quelle condition peut-on lire ? </item>
+                  <item>— Que proposa madame l'institu-<cb/>trice pour former une bibliothèque scolaire ? </item>
                   <item>— Quels avantages présente une bibliothèque scolaire ?</item>
-                  <item>— Quel mot affectueux dit Mme Valon aux enfants ?</item>
-                  <item>— Comment celles-ci prirent-elles congé d'elle ?</item>
+                  <item>— Quel mot affectueux dit Mme Valon aux enfants ? </item>
+                  <item>— Comment celles-ci prirent-elles congé d'elle ? </item>
                   <item>— Pourquoi aimaient-elles Mme Valon ?</item>
-                  <item>— Quelle pensée attristait Suzette en reprenant le chemin de la maison
-                     ?</item>
+                  <item>— Quelle pensée attristait Suzette en reprenant le chemin de la maison ? </item>
                </list>
             </div2>
 
@@ -264,40 +249,25 @@
 
                   <div4 type="réponses">
                      <p>Les élèves voient arriver avec plaisir l'époque des vacances, parce 
-                        <lb/>qu'elles
-                        sont fatiguées des études et des travaux de l'année scolaire ; rien
+                        <lb/>qu'elles sont fatiguées des études et des travaux de l'année scolaire ; rien
                         <lb/>d'ailleurs n'est plus agréable que de se reposer lorsque, pendant de longs
                         <lb/>mois, on s'est montrée laborieuse et appliquée. C'est pour elles un bon-
-                        <lb/>heur
-                        de rester tout le jour à la maison paternelle ou à la campagne, au 
-                        <lb/>moment de
-                        la récolte des fruits et des vendanges. A la ville, elles ont 
-                        <lb/>la perspective
-                        de promenades dans les jardins publics, dans les musées 
-                        <lb/>et dans les beaux
-                        édifices qui ornent les grands centres de population. </p>
+                        <lb/>heur de rester tout le jour à la maison paternelle ou à la campagne, au
+                        <lb/>moment de la récolte des fruits et des vendanges. A la ville, elles ont 
+                        <lb/>la perspective de promenades dans les jardins publics, dans les musées 
+                        <lb/>et dans les beaux édifices qui ornent les grands centres de population. </p>
                      <p>Au moment de prendre congé de la classe, à la fin de l'année sco-
-                        <lb/>laire, les
-                        élèves pensent avec reconnaissance aux sacrifices de leurs 
-                        <lb/>parents, qui ne
-                        ménagent rien pour que livres, cahiers, plumes ne 
-                        <lb/>fassent pas défaut, et qui
-                        sont frappés par l'État de lourds impôts à 
-                        <lb/>l'occasion de la bonne
-                        installation des écoles et du traitement du per-
-                        <lb/>sonnel enseignant. Elles se
-                        rappellent encore avec attendrissement les 
-                        <lb/>soins dévoués de madame
-                        l'institutrice, ses fatigues, ses préoccupations, 
-                        <lb/>et la tendre sollicitude
-                        dont elle entoure chacune d'entre elles. </p>
+                        <lb/>laire, les élèves pensent avec reconnaissance aux sacrifices de leurs 
+                        <lb/>parents, qui ne ménagent rien pour que livres, cahiers, plumes ne 
+                        <lb/>fassent pas défaut, et qui sont frappés par l'État de lourds impôts à 
+                        <lb/>l'occasion de la bonne installation des écoles et du traitement du per-
+                        <lb/>sonnel enseignant. Elles se rappellent encore avec attendrissement les 
+                        <lb/>soins dévoués de madame l'institutrice, ses fatigues, ses préoccupations, 
+                        <lb/>et la tendre sollicitude dont elle entoure chacune d'entre elles. </p>
                      <p>Une jeune fille raisonnable emploiera ses vacances à seconder sa mère 
-                        <lb/>dans
-                        les travaux du ménage, à lire de bons livres, à revoir le texte de 
-                        <lb/>quelques
-                        leçons importantes, et enfin à jouer avec ses compagnes dans 
-                        <lb/>le lieu et
-                        pendant le temps que ses parents fixeront. </p>
+                        <lb/>dans les travaux du ménage, à lire de bons livres, à revoir le texte de 
+                        <lb/>quelques leçons importantes, et enfin à jouer avec ses compagnes dans 
+                        <lb/>le lieu et pendant le temps que ses parents fixeront. </p>
                   </div4>
                </div3>
 
@@ -316,29 +286,19 @@
 
                   <div4 type="réponses">
                      <p>Les livres nous font connaître ce que savent et ce que pensent les 
-                        <lb/>hommes
-                        les meilleurs ou les plus instruits ; le fruit des études d'une 
-                        <lb/>vie entière
-                        s'y peut recueillir en quelques heures. Ils sont à l'âme ce 
-                        <lb/>que les aliments
-                        sont au corps.</p>
+                        <lb/>hommes les meilleurs ou les plus instruits ; le fruit des études d'une 
+                        <lb/>vie entière s'y peut recueillir en quelques heures. Ils sont à l'âme ce 
+                        <lb/>que les aliments sont au corps.</p>
                      <p>Un auteur célèbre, Pétrarque, parlait ainsi des livres : « Ce sont des 
-                        <lb/>amis
-                        dont la société m'est fort agréable, des amis de tous les pays et 
-                        <lb/>de tous
-                        les temps. Les uns me racontent les événements des siècles 
-                        <lb/>passés ; d'autres
-                        me révèlent les secrets de la nature. Celui-ci m'en-
-                        <lb/>seigne le moyen de bien
-                        vivre et de bien mourir ; celui-là dissipe mes 
-                        <lb/>soucis par son enjouement ;
-                        il en est qui m'apprennent à maîtriser mes 
-                        <lb/>désirs, à me supporter moi-même ;
-                        enfin, ils me conduisent sur la route 
-                        <lb/>de la science et satisfont à tous les
-                        besoins de mon esprit. » </p>
-                     <p>(Donner ici le résumé d'un livre qu'on aura lu. Voir, page 407, le COURS
-                        DE COMPOSITION (degré supérieur, Maître), par E. LAPORTE.) </p>
+                        <lb/>amis dont la société m'est fort agréable, des amis de tous les pays et 
+                        <lb/>de tous les temps. Les uns me racontent les événements des siècles 
+                        <lb/>passés ; d'autres me révèlent les secrets de la nature. Celui-ci m'en-
+                        <lb/>seigne le moyen de bien vivre et de bien mourir ; celui-là dissipe mes 
+                        <lb/>soucis par son enjouement ; il en est qui m'apprennent à maîtriser mes 
+                        <lb/>désirs, à me supporter moi-même ; enfin, ils me conduisent sur la route 
+                        <lb/>de la science et satisfont à tous les besoins de mon esprit. » </p>
+                     <p>(Donner ici le résumé d'un livre qu'on aura lu. Voir, page 407, le
+                        <lb/>COURS DE COMPOSITION (degré supérieur, Maître), par E. LAPORTE.) </p>
                   </div4>
                </div3>
 
@@ -362,59 +322,36 @@
                         <lb/>manuscrits), ce qui les rendait à la fois rares et coûteux ; seuls, les
                         <lb/>riches pouvaient s'en procurer. Grâce à l'imprimerie, il s'en trouve
                         <lb/>aujourd'hui dans toutes les mains, et l'on en a composé sur tous les 
-                        <lb/>objets
-                        des connaissances humaines. </p>
-                     <p>Pour <term>imprimer un livre</term>, on reproduit le texte du manuscrit de
-                        l'auteur 
-                        <lb/>au moyen de lettres de métal alignées les unes à côté des autres,
-                        de 
+                        <lb/>objets des connaissances humaines. </p>
+                     <p>Pour <term>imprimer un livre</term>, on reproduit le texte du manuscrit de l'auteur 
+                        <lb/>au moyen de lettres de métal alignées les unes à côté des autres, de 
                         <lb/>manière à former les mots. L'ouvrier prend les lettres dans de petites
                         <lb/>cases, et il les dispose sur un cadre ayant les dimensions d'une feuille 
-                        <lb/>de
-                        papier. (Voir, pour la suite, la légende de la gravure de la page 30.) </p>
-                     <p>L'<term>imprimerie</term> fut découverte en 1434, à Strasbourg, par Jean
-                        Gu-
+                        <lb/>de papier. (Voir, pour la suite, la légende de la gravure de la page 30.) </p>
+                     <p>L'<term>imprimerie</term> fut découverte en 1434, à Strasbourg, par Jean Gu-
                         <lb/>tenberg, né à Mayence en 1400 : c'était alors un riche bourgeois. Ruiné
                         <lb/>par les frais de sa découverte, il retourna à Mayence vers 1444 et, en 
-                        <lb/>1450,
-                        s'y associa avec Jean Fust. Tous deux publièrent la Bible : mais 
-                        <lb/>dès que
-                        Fust connut les procédés de l'art nouveau, il poursuivit Gu-
-                        <lb/>tenberg afin
-                        d'obtenir le remboursement des avances qu'il lui avait 
-                        <lb/>faites, puis
-                        l'abandonna sans ressources pour s'adjoindre Pierre Schæffer, 
-                        <lb/>Le malheureux
-                        inventeur parvint néanmoins à fonder une imprimerie 
-                        <lb/>qu'il posséda jusqu'à la
-                        fin de sa vie (1468). </p>
+                        <lb/>1450, s'y associa avec Jean Fust. Tous deux publièrent la Bible : mais 
+                        <lb/>dès que Fust connut les procédés de l'art nouveau, il poursuivit Gu-
+                        <lb/>tenberg afin d'obtenir le remboursement des avances qu'il lui avait 
+                        <lb/>faites, puis l'abandonna sans ressources pour s'adjoindre Pierre Schæffer. 
+                        <lb/>Le malheureux inventeur parvint néanmoins à fonder une imprimerie 
+                        <lb/>qu'il posséda jusqu'à la fin de sa vie (1468). </p>
                      <p>Une fois composés en lettres métalliques, les livres peuvent être 
-                        <lb/>reproduits
-                        à peu de frais à un nombre considérable, ce qui explique leur bon marché. </p>
+                        <lb/>reproduits à peu de frais à un nombre considérable, ce qui explique 
+                        <lb/>leur bon marché. </p>
                      <p>Les feuilles de papier sur lesquelles on imprime ont de grandes
                         <lb/>dimensions (0m, 80 sur 0m, 60 environ). Si on plie chacune d'elles en
-                           <lb/><term>deux</term> 
-                        <lb/>pour former le livre, on dit que l'ouvrage est du
-                        format <rs>in-folio</rs> ; 
-                        <lb/>si on la plie en <term>quatre</term>, on obtient
-                           l'<term>in-quarto</term> ; en <term>huit</term>,
-                        l'<term>in-octavo</term>, etc., 
-                        <lb/>et comme chacune de ces feuilles est
-                        imprimée sur les deux faces, le 
-                        <lb/>nombre de pages de chaque format est
-                        toujours le double de la quan-
-                        <lb/>tité qu'indique le nom du format lui-même ;
-                        ainsi l'in-folio comprend 
-                        <lb/>4 pages (2 fois 2 pages) ; l'in-quarto, 8 pages (2
-                        fois 4 pages) ; l'in-octavo, 
-                        <lb/>16 pages (2 fois 8 pages) ; l'in-douze, 24
-                        pages ; l'in-18, 36 pages, etc. 
-                        <lb/>Ces différents formats comprennent un ou
-                        plusieurs cahiers portant 
-                        <lb/>chacun un numéro d'ordre particulier, lequel sert
-                        surtout à classer mé-
-                        <lb/>thodiquement à la suite l'une de l'autre les feuilles
-                        d'un même livre. </p>
+                        <lb/><term>deux</term> pour former le livre, on dit que l'ouvrage est du format <rs>in-folio</rs> ; 
+                        <lb/>si on la plie en <term>quatre</term>, on obtient l'<term>in-quarto</term> ; en <term>huit</term>, l'<term>in-octavo</term>, etc., 
+                        <lb/>et comme chacune de ces feuilles est imprimée sur les deux faces, le 
+                        <lb/>nombre de pages de chaque format est toujours le double de la quan-
+                        <lb/>tité qu'indique le nom du format lui-même ; ainsi l'in-folio comprend 
+                        <lb/>4 pages (2 fois 2 pages) ; l'in-quarto, 8 pages (2 fois 4 pages) ; l'in-octavo, 
+                        <lb/>16 pages (2 fois 8 pages) ; l'in-douze, 24 pages ; l'in-18, 36 pages, etc. 
+                        <lb/>Ces différents formats comprennent un ou plusieurs cahiers portant 
+                        <lb/>chacun un numéro d'ordre particulier, lequel sert surtout à classer mé-
+                        <lb/>thodiquement à la suite l'une de l'autre les feuilles d'un même livre. </p>
                   </div4>
                </div3>
             </div2>
