@@ -77,11 +77,11 @@
         <body>
             <div1 type="chapitre" xml:lang="fr" corresp="#ch031">
 
-                <head type="chapitre">31. — Le prince Kang-Hi. (Élève, p. 73.)</head>
+                <head type="chapitre">31. — Le prince <persName type="historique">Kang-Hi</persName>. (Élève, p. 73.)</head>
                 <pb type="110"/>
 
                 <div2 type="récit">
-                    <p>Ils rentrèrent. Suzette les attendait avec le diner prêt,
+                    <p>Ils rentrèrent. <persName type="fictif">Suzette</persName> les attendait avec le diner prêt,
                         <lb/>et un livre qui devait servir de dessert. Elle était allée
                         <lb/>le demander à la bibliothèque de l'école et l'avait déjà
                         <lb/>parcouru aux trois quarts.</p>
@@ -95,8 +95,8 @@
                         <lb/>du prince.</p>
 
                     <p>« Aux premiers jours de la sixième lune*<gloss>Lune. Le temps pendant lequel la lune effectue sa révolution autour de la terre; il dure 27 jours et demi.</gloss>, dit l'em-
-                        <lb/>pereur Kang-
-                        <lb/>Hi, je me pro-
+                        <lb/>pereur <persName type="historique">Kang-
+                        <lb/>Hi</persName>, je me pro-
                         <lb/>menais dans
                         <lb/>des champs où
                         <lb/>l'on avait semé
@@ -116,7 +116,7 @@
                         <lb/>le fis apporter. <figure type="illustration">
                             <caption>
                                 <lb/>Cuiture et récolte du riz,
-                                <lb/>en Chine.
+                                <lb/>en <placeName>Chine</placeName>.
                                 <lb/>—Le riz est un farineux
                                 <lb/>dont on fait une excellente
                                 <lb/>nourriture, en outre de ses
@@ -146,7 +146,7 @@
                         <lb/>c'est dans mes jardins qu'il a commencé à être cultivé.</p>
                     <p>
                         <lb/>« C'est le seul qui puisse mûrir au nord de la grande
-                        <lb/>muraille*<gloss>Grande muraille. Mur fortifié de plus de 2,000 kilomètres de long, entre la Chine et la Mongolie.</gloss>, où les froids finissent très tard et
+                        <lb/>muraille*<gloss>Grande muraille. Mur fortifié de plus de 2,000 kilomètres de long, entre la <placeName>Chine</placeName> et la <placeName>Mongolie</placeName>.</gloss>, où les froids finissent très tard et
                         recommen-
                         <lb/>cent de fort bonne heure. Mais dans les provinces du
                         <lb/>midi, où le climat est plus doux et la terre plus fertile,
@@ -159,12 +159,12 @@
                     <head>Questionnaire</head>
 
                     <list>
-                        <item>— D'où provenait le livre que tenait Suzette ?</item>
+                        <item>— D'où provenait le livre que tenait <persName type="fictif">Suzette</persName> ?</item>
                         <item>— Quel étaitle titre du chapitre qu'elle se disposait à lire ?</item>
-                        <item>— Que remarqua l'empereur Kang-Hi en se promenant parmi les champs de
+                        <item>— Que remarqua l'empereur <persName type="historique">Kang-Hi</persName> en se promenant parmi les champs de
                             riz ?</item>
                         <item>— Que fit-il du riz qu'il avait remarqué ?</item>
-                        <item>— Que donnèrent les grains semés par ordre de Kang-Hi ?</item>
+                        <item>— Que donnèrent les grains semés par ordre de <persName type="historique">Kang-Hi</persName> ?</item>
                         <item>— Comment ce dernier parvint-il a multiplier cette nouvelle espèce de
                             riz ?</item>
                         <item>— Quelles sont les propriétés du riz impérial ?</item>
@@ -225,33 +225,33 @@
                         <head type="sujets">Géographie.</head>
                         <div4 type="questions">
                             <list type="exercices">
-                                <item>— Où se trouve la Chine ?</item>
+                                <item>— Où se trouve la <placeName>Chine</placeName> ?</item>
                                 <item>— Donnez une idée de la grandeur, de la population, des
                                     produits de cet immense empire.</item>
                                 <item> — Quels produits en retirons-nous ?</item>
                                 <item>— Que savez-vous du costume et des usages des habitants de la
-                                    Chine ?</item>
+                                    <placeName>Chine</placeName> ?</item>
                             </list>
                         </div4>
 
                         <div4 type="réponses" ana="#asie">
                             <p>
-                                <lb/>La Chine, située à l'est de l'Asie, a une étendue à peu près
+                                <lb/>La <placeName>Chine</placeName>, située à l'est de l'<placeName>Asie</placeName>, a une étendue à peu près
                                 égale à
-                                <lb/>celle de l'Europe, et sa population dépasse trois cents
+                                <lb/>celle de l'<placeName>Europe</placeName>, et sa population dépasse trois cents
                                 millions d'habi-
                                 <lb/>tants. Elle renferme un grand nombre de villes populeuses,
                                 indus-
-                                <lb/>trielles, commerçantes ; telles sont : Péhing, 1, 200,000 âmes
-                                ; Han-
-                                <lb/>kéou, 4,000,000; Nan-king, 1,000,000; Nan-tchang, 1,000,000;
-                                Sou-
-                                <lb/>tchéou, 3,000,000; Shang-haî, 800,000; cette ville fait un
+                                <lb/>trielles, commerçantes ; telles sont : <placeName>Péhing</placeName>, 1, 200,000 âmes
+                                ; <placeName>Han-
+                                <lb/>kéou</placeName>, 4,000,000; <placeName>Nan-king</placeName>, 1,000,000; <placeName>Nan-tchang</placeName>, 1,000,000;
+                                <placeName>Sou-
+                                <lb/>tchéou</placeName>, 3,000,000; <placeName>Shang-haî</placeName>, 800,000; cette ville fait un
                                 commerce
-                                <lb/>annuel qui dépasse 700 millions ; Canton, 1,200,000; Tien-Tsin,
+                                <lb/>annuel qui dépasse 700 millions ; <placeName>Canton</placeName>, 1,200,000; <placeName>Tien-Tsin</placeName>,
                                 400,000.</p>
                             <p>
-                                <lb/>Nul pays au monde n'est mieux cultivé que la Chine, et ne
+                                <lb/>Nul pays au monde n'est mieux cultivé que la <placeName>Chine</placeName>, et ne
                                 renferme
                                 <lb/>de plus riches mines de houille. Nous en tirons du riz, du thé,
                                 de la
@@ -279,8 +279,8 @@
                                 <item>— Comment cultive-t-on le riz ?</item>
                                 <item>— Quels terrains conviennent à cette plante ?</item>
                                 <item>— Quels peuples en font la base de leur nourriture ?</item>
-                                <item>— Dans quelles contrées de l'Europe cette céréale est-elle
-                                    culiivée ?</item>
+                                <item>— Dans quelles contrées de l'<placeName>Europe</placeName> cette céréale est-elle
+                                    cultivée ?</item>
                             </list>
                         </div4>
 
@@ -294,13 +294,13 @@
                                 inonde le
                                 <lb/>sol à diverses reprises, et au milieu de l'été ou au
                                 commencement de
-                                <lb/>l'automne, on le récolte. L'Hindoustan, la Chine, l'Indo-Chine,
-                                le Japon
+                                <lb/>l'automne, on le récolte. L'<placeName>Hindoustan</placeName>, la <placeName>Chine</placeName>, l'<placeName>Indo-Chine</placeName>,
+                                le <placeName>Japon</placeName>
                                 <lb/>en produisent des quantités considérables et il y forme la base
                                 de la
                                 <lb/>nourriture des habitants ; on cultive encore cette plante dans
                                 les riches
-                                <lb/>plaines de la Lombardie qu'arrose le Pô.</p>
+                                <lb/>plaines de la <placeName>Lombardie</placeName> qu'arrose le <placeName>Pô</placeName>.</p>
                         </div4>
                     </div3>
 

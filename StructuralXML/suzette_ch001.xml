@@ -75,7 +75,7 @@
     </teiHeader>
     <text>
         <body>
-            <div1 type="chapitre" xml:lang="fr" corresp="#ch001">
+            <div1 type="chapitre">
                 <head type="chapter">1. — A l'abandon. (Élève, p. 3.)</head>
                 <pb type="page" n="1"/>
                 <div2 type="récit">
@@ -113,7 +113,7 @@
                         <lb/>nance des deux bêtes,
                         <lb/>car elles ne bougeaient
                         <lb/>pas. </p>
-                    <figure type="sujets">
+                    <figure>
                         <caption> Le chien de garde. </caption>
                     </figure>
                     <p> Il y avait là cinq con-
@@ -135,7 +135,7 @@
                         <lb/>haricots égarés parmi le pain trempé et les avalait un à un en les
                         comptant.</p>
 
-                    <figure type="sujets">
+                    <figure >
                         <caption> Le chat de la maison. </caption>
                     </figure>
 
