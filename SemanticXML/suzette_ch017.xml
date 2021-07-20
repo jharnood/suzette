@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/djakacki/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="http://moravianlives.bucknell.edu.s3.amazonaws.com/data/ml_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title type="main">Suzette: a Digital Edition</title>
+               <respStmt>
+                  <persName>John Westbrook</persName>
+                  <orgName>Bucknell University</orgName>
+                  <resp>Editor</resp>
+               </respStmt>
+               <respStmt>
+                  <persName>Diane Jakacki</persName>
+                  <orgName>Bucknell University</orgName>
+                  <resp>Project Manager</resp>
+               </respStmt>
+               <respStmt>
+                  <persName>Annie Girton</persName>
+                  <orgName>Bucknell University</orgName>
+                  <resp>Research Assistant and Encoder, 2018-2020</resp>
+               </respStmt>
+               <respStmt>
+                  <persName>Sarah Haber</persName>
+                  <orgName>Bucknell University</orgName>
+                  <resp>Research Assistant and Encoder, 2020-Present</resp>
+               </respStmt>
+               <respStmt>
+                  <persName>Rebecca Heintzelman</persName>
+                  <orgName>Bucknell University</orgName>
+                  <resp>Research Assistant and Encoder, 2020-Present</resp>
+               </respStmt>
+               <respStmt>
+                  <persName>Juliya Harnood</persName>
+                  <orgName>Bucknell University</orgName>
+                  <resp>Research Assistant and Encoder, 2021-Present</resp>
+               </respStmt>
+            </titleStmt>
+            <publicationStmt>
+               <distributor>Bucknell University</distributor>
+               <pubPlace>
+                  <address>
+                     <addrLine>One Dent Drive</addrLine>
+                     <addrLine>Lewisburg, PA 17837</addrLine>
+                  </address>
+               </pubPlace>
+               <availability>
+                  <licence>Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <biblStruct>
+                  <monogr>
+                     <title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles.
+                        Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine –
+                        Couture</title>
+                     <author>Robert Halt</author>
+                     <textLang>French</textLang>
+                     <imprint>
+                        <date>1889</date>
+                        <distributor>Libraire Classique Paul Delaplane</distributor>
+                        <pubPlace>Paris, France</pubPlace>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+            </sourceDesc>
+         </fileDesc>
+         <profileDesc>
+            <langUsage>
+               <language ident="fr">French</language>
+               <language ident="en">English</language>
+            </langUsage>
+         </profileDesc>
+      </teiHeader>
+   <text>
+      <body>
+         <div1 type="chapitre" n="017">
+            <pb type="page" n="61"/>
+            <head>17. — Tout laine. (Élève, p. 43.)</head>
+            <div2 type="récit">
+            <p>Tout à coup elle se sentit attrapée par la manche, 
+            <lb/>en même temps qu'une voix très caressante lui disait : </p>
+            <p>— Ah! la jolie robe que j'ai 
+            <lb/>pour vous, ma petite dame!</p>
+            <p>À quatorze ans, s'enten-
+            <lb/>dre traiter de dame, c'est 
+            <lb/>toujours flatteur.</p>
+            <p>— Du sergé, Ma-
+            <lb/>dame : en avez-vous ? </p>
+            <p>— Du sergé ? Ma-
+            <lb/>dame... mais le sergé 
+            <lb/>ne se porte pas du 
+            <lb/>tout cette année ; l'i-
+            <lb/>gnorez-vous ? Voici 
+            <lb/>ce qui se porte.</p>
+            <p>Solennellement elle 
+            <lb/>déplia, étala une pièce 
+            <lb/>de cachemire vert-
+            <lb/>bouteille, tapa dessus : </p>
+            <p>— Voilà la nouveau-
+            <lb/>té de la saison ! </p>      
+            <p>— Oui, dit douce-
+            <lb/>ment Suzette, mais 
+            <lb/>le cachemire prend 
+            <lb/>du luisant* <gloss>Luisant. Éclat que donne aux étoiles un certain degré d'usure</gloss>.</p>
+            <p>— Du luisant! Vous 
+            <lb/>prendriez plutôt la 
+            <lb/>lune que ce cachemire du luisant ! Madame, vous 
+            <lb/>porterez cela dix saisons, aussi frais que le voilà.</p>
+            <p><lb/>— Je le voudrais au moins bleu marine.</p>
+            <p>— Bleu marine, Madame? mais c'est une couleur du 
+            <lb/>temps de ma tante Aurore* <gloss>Tante Aurore. Bonne vieille dont il est question dans certains contes enfantins.</gloss>! Bleu marine? dites cela tout
+            <lb/>bas, vous l'eriez rire, Vert, Madame, vert ! cette année, 
+            <lb/>tous les gens comme il faut portent du vert : chapeau, 
+            <lb/>vert, manteau vert, robe verte, bas verts, voilà la toi-
+            <lb/>lette d'une Parisienne!</p>
+            
+            <fw type="footer">SUZETTE (Maîtresse) <fw type="sig">4</fw></fw>
+            <figure>
+            <caption>Voilà la nouveauté de la saison.</caption>
+            </figure>
+               
+            <pb type="page" n="62"/>
+            <fw>62 SUZETTE.</fw>
+            
+            <p>Assez embarrassée, Suzette regarda autour d'elle. 
+            <lb/>Ses trois frères étaient en ce moment à quatre pas 
+            <lb/>occupés par les lazzi* <gloss>Lazzi. Gestes et propos plaisants.</gloss> d'un paillasse faisant la parade*<gloss>Parade. Scène burlesque qu'on donne à la porte des théâtres forains.</gloss> ; 
+            <lb/>et d'ailleurs, qu'entendraient-ils au vert et au bleu ? </p>
+            <p>La marchande continuait de chanter les mérites de 
+            <lb/>sa marchandise, et la portait aux nues*<gloss>Porter aux nues. Attribuer de grands mérites.</gloss>.</p>
+            <p>— Est-elle tout laine? demanda Suzette.</p> 
+            <p>Vivement on la lui tendit.</p>
+            <p>— Pure laine! Touchez-moi ça. Et quatre francs le 
+            <lb/>mètre! c'est donné ! </p>
+            <p>De l'air le plus délibéré * <gloss>Air délibéré. Qui a de l'aplomb.</gloss>, elle prit ses ciseaux.</p>
+            <p>Eh bien! voyons, quand on a marchandé depuis dix 
+            <lb/>minutes, sans être faite à cet exercice, est-il possible de 
+            <lb/>laisser là la marchandise, même celle qui ne vous plaît 
+            <lb/>qu'à moitié ? </p>
+            <p>Suzette cependant essaya de se tirer de cette glu-là : </p>
+            <p>— Madame, dit-elle, je n'ai que trente francs à mettre 
+            <lb/>à l'étoffe ; il m'en faut dix mètres.</p>
+            <p>Comme à une terrible nouvelle, la marchande leva 
+            <lb/>les bras au ciel, avec des exclamations, puis, les laissant 
+            <lb/>retomber, coupa dans la pièce, empaqueta : </p>
+            <p>— Voilà, ma petite dame! mais si ce n'avait pas été 
+            <lb/>pour vous !...</p>
+            <p>Suzette rejoignit les siens avec son paquet au bras et 
+            <lb/>quelque inquiétude en tête.</p>
+            <p>Charlot, qu'elle prit par la main, l'entendit murmurer : </p>
+            <p>— Au moins est-ce bon teint * <gloss>Bon teint. Dans ce sens; bien teinte.</gloss>? Est-ce tout laine ? </p>
+            </div2>
+            <div2 type="questionnaire">
+            <head>Questionnaire.</head>
+            <list>
+            <item>— Que sentit et qu'entendit tout à coup Suzette ? </item>
+            <item>— Quel mot la flatta ? </item>
+            <item>— Que demanda-t-elle ? </item>
+            <item>— Que fit la marchande ? </item>
+            <item>— Reproduisez les observations de la jeune fille sur le cachemire et les répliques de la marchande.</item>
+            <item>— Quelle couleur désigna Suzette ? </item>
+            <item>— Quelle couleur la femme lui vanta-t-elle ? </item>
+            <item>— Comment se faisait-il que personne ne se trouvait là pour la conseiller ? </item>
+            <item>— Quelles questions Suzette adressa-t-elle concernant la nature de l'étoffe proposée ? </item>
+            <item>— Comment la femme parvint-elle à lui faire prendre un coupon d'étoffe verte ? </item>
+            <item>— Qu'aurait dû faire la jeune fille ? </item>
+            <item>— Montra-t-elle seulement de la timidité ? </item>
+            </list>
+            </div2>
+            <div2 type="exercices">
+            <head>DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES.</head>
+            <div3 type="morale">
+            <head>Morale.</head>
+            <div4 type="questions">
+            <list>
+            <item>— Quels motifs portent certaines gens à flatter les autres ? </item>
+            <item>— Qu'est-ce que les flatteurs ? </item>
+            <item>— Devons-nous accueillir les flatteries avec plaisir, et pour quelle raison ? </item>
+            <item>— Pourquoi est-il bon de ne pas prodiguer les compliments aux enfants ? </item>
+            <item>— Citez une fable où il est question d'un flatteur.</item>
+            </list>
+            </div4>
+               
+            <pb type="page" n="63"/>  
+            <fw>TOUT LAINE. 63</fw> 
+               
+            <div4 type="réponses">
+            <p><term>Flatter</term>, c'est donner à quelqu'un des louanges excessives dans le but
+            <lb/>de lui plaire et d'en obtenir quelque avantage Le flatteur est celui qui 
+            <lb/>se fait une habitude de dire aux autres des choses agréables, vraies ou 
+            <lb/>non ; il nous trompe et nous corrompt pour avoir ce qu'il souhaite tirer 
+            <lb/>de nous. Défions-nous des gens qui complimentent, qui exagèrent nos 
+            <lb/>faibles mérites et qui font, en notre présence, ressortir nos belles
+            <lb/>actions. Répondons froidement à leurs avances, et ne craignons pas 
+            <lb/>de laisser voir que nous regardons leurs louanges comme une mar-
+            <lb/>chandise. Le flatteur est généralement doublé d'un menteur, et celui 
+            <lb/>qui l'écoute montre peu de jugement : souvenons-nous du corbeau de 
+            <lb/>la fable.</p>
+            <p>Prodiguer des compliments aux enfants, comme le font tant de pa-
+            <lb/>rents, leur rondle pire des services; que de jeunes filles accoutumées 
+            <lb/>à entendre des éloges flatteurs sont devenues orgueilleuses et égoïstes ! </p>
+            </div4>
+            </div3>
+            <div3 type="complexe">
+            <head>Sciences naturelles et Industrie.</head>
+            <div4 type="questions">
+            <list type="exercices">
+            <item>— LA LAINE. </item>
+            <item>— D'où provient la laine ? </item>
+            <item>— A quelle époque se pratique la tonte des moutons ? </item>
+            <item>— Comment a lieu cette opération ? </item>
+            <item>— Comment arrive-t-on à obtenir des fils de laine ? </item>
+            <item>—Quelle est la meilleure laine, et pourquoi ? </item>
+            <item>— D’où viennent les mérinos ? </item>
+            <item>— Comment élève-t-on, nourrit-on et soigne-t-on les moutons ? </item>
+            <item>— Quelles étoffes fabrique-t-on avec la laine ? </item>
+            <item>— Prix du mètre de chacune.</item>
+            </list>
+            </div4>      
+            <div4 type="réponses">
+            <p><term>La laine</term> provient de l'épaisse toison des moutons, qui est composée
+            <lb/>d'une multitude de fils frisés et très lins, do couleur blanche ou brune.</p>
+            <p>On tond les moutons une fois l'année, lors des premières chaleurs 
+            <lb/>de l'été. Le troupeau est alors amené sur les rives d'un cours d'eau ou 
+            <lb/>d'un étang ; on fait entrer dans l'eau les animaux par petites bandes ; 
+            <lb/>puis chaque bête est lavée et frottée, pour débarrasser sa toison des 
+            <lb/>souillures et d'une matière grasse, appelée <term>suint</term>, sécrétée par la peau. 
+            <lb/>Lorsque la toison est sèche, les bergers étendent l'animal sur une table 
+            <lb/>et le tondent avec de grands ciseaux.</p>
+            <p>La laine ainsi recueillie se lave une première fois à l'eau chaude et 
+            <lb/>une seconde dans de l'eau acidulée presque bouillante, enfin dans 
+            <lb/>une dissolution de savon. Elle devient alors blanche et soyeuse.</p>
+            <p>Pour obtenir des <term>fils</term>, on la carde en la faisant passer entre de gros
+            <lb/>tambours armés de pointes d'acier très fines, d'où elle arrive par des 
+            <lb/>bobines ou des entonnoirs de fer-blanc sur un autre machine appelée 
+            <lb/><term>la peigneuse</term>.</p>
+            <p>Au sortir de la peigneuse, la laine apparaît sous la forme de longues 
+            <lb/>mèches qui se rendent sur un cylindre recouvert d'une étoffe épaisse, 
+            <lb/>et elles s'y joignent bout à bout. A la filature, ces mèches, amincies, 
+            <lb/>étirées lentement, se transforment en fils blancs qui s'enroulent autour 
+            <lb/>de bobines et sont propres alors à être tricotés ou tissés.</p>
+            <p>La meilleure laine provient des moutons <term>mérinos</term>. Cette race, origi-
+            <lb/>naire d'Espagne, est perfectionnée et améliorée dans la magnifique
+            <lb/>bergerie de Rambouillet. On estime à 6 ou 700,000 le nombre des 
+            <lb/>mérinos de race pure en France.</p>
+            <p><term>Les moutons</term> sont des animaux domestiques qu'on élève pour leur 
+            <lb/>chair et leur laine ; durant le jour on les conduit au pâturage et, pen-
+            <lb/>dant la nuit, on les abrite dans de grands bâtiments connus sous le nom 
+            <lb/>de <term>bergeries</term>. Ils y séjournent également lorsque le temps est pluvieux.</p>
+            <p>La nourriture des moutons se compose de l'herbe des champs et 
+            <lb/>de celle qui croit spontanément sur les friches et sur les bords des 
+            <lb/>chemins. En toute saison, on y ajoute de la paille, du foin et, parfois, 
+            <lb/>des feuilles d'arbres.</p>
+            <p>(Pour les étoffes tissées de laine, voir le lexique de la 16e leçon.)</p>
+            </div4>
+               
+            <pb type="page" n="64"/>
+            <fw type="header">64 SUZETTE.</fw>
+                  
+            <div4 type="questions">
+            <list>
+            <item>LE COTON.</item>
+            <item>— Qu'est-ce que le coton ? </item>
+            <item>— De quelles contrées le tirons-nous ? </item>
+            <item>— Que savez-vous de la culture et de la récolte du coton ? </item>
+            <item>— Comment est-il expédié en Europe ? </item>
+            <item>— Quelles étoffes fabrique-t-on avec le coton ? </item>
+            <item>— Prix du mètre de chacune.</item>
+            <item>— Quelles sont les qualités et les inconvénients des étoffes de coton ? </item>
+            </list>
+            </div4>
+            <div4 type="réponses">
+            <p><term>Le coton</term> est la bourre qui enveloppe les graines d'un arbre appelé
+            <lb/>cotonnier ; elle s'échappe des gousses sous forme de flocons blancs, 
+            <lb/>dont la ouate nous donne l'idée. Nous tirons cette matière textile des 
+            <lb/>États-Unis, de l'Égypte, de l'Hindoustan, de l'Algérie, où on la cultive 
+            <lb/>dans de vastes plantations. Lorsque le coton est recueilli, on l'amasse 
+            <lb/>en balles qui, fortement pressées et cousues, sont expédiées en Europe, 
+            <lb/>où ce produit est employé à la confection de nombre d'étoffes : calicot, 
+            <lb/>mousseline, indienne, jaconas, velours, dentelle, bonneterie, etc.</p>
+            <p>L'industrie du coton occupe en Europe plus de cinq millions d'hommes. 
+            <lb/>Les étoffes qu'on en tire sont légères, chaudes, mais d'une résistance 
+            <lb/>inférieure à celle du chanvre ou du lin; leur extrême bon marché en 
+            <lb/>rend l'usage général.</p>
+            </div4>
+            </div3>
+            <div3 type="géographie">
+            <head>Géographie.</head>
+            <div4 type="questions">
+            <list type="exercices">
+            <item>— Dans quelles villes de France fabrique-t-on des étoffes de laine; — des étoffes de coton?</item>
+            </list>
+            </div4>
+            <div4 type="réponses">
+            <p>Les villes de Franco où l'on fabriques des draps et d'autres étoffes de 
+            <lb/>laine sont : Elbeuf, Louviers, Sedan, Mazamet, Castres, Roubaix, 
+            <lb/>Tourcoing, Amiens, Troyes, Lodève, Rethel, Privas, Carcassonne, Or-
+            <lb/>léans, Tours, Beauvais, Aubusson, Puteaux.</p>
+            <p>Les villes où se développe l'industrie du coton sont : Rouen et les 
+            <lb/>localités environnantes, Reims, Chantilly, Saint-Omer, Arras, Armen-
+            <lb/>tières, Épinal et toute la vallée de la Moselle, Lavaur, Valence, Gre-
+            <lb/>noble, Le Puy, Roanne, Laval, Cholet, Le Mans, Angers, Condé-sur-
+            <lb/>Noireau, Flers, Lisieux, Bernay, Cambrai.</p>
+            </div4>
+            </div3>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI>
