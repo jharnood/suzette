@@ -119,7 +119,151 @@
             </attDef>
           </attList>
         </elementSpec>
-      	
+
+      	<!-- objectName: @key @type @subtype to distinguish among categorical information -->
+      	<elementSpec ident="objectName" mode="change">
+      		<attList>
+      			<attDef ident="key" mode="change">
+      				<valList mode="add" type="closed">
+      					<valItem ident="économie_domestique" mode="add">
+      						<desc>Économie Domestique</desc>
+      					</valItem>
+      					<valItem ident="industrie" mode="add">
+      						<desc>Industrie</desc>
+      					</valItem>
+      					<valItem ident="sciences_naturelles" mode="add">
+      						<desc>Sciences Naturelles</desc>
+      					</valItem>
+      					<valItem ident="sciences_physiques" mode="add">
+      						<desc>Notions Relatives aux Sciences Physiques</desc>
+      					</valItem>
+      				</valList>
+      			</attDef>
+      			<attDef ident="type" mode="change">
+      				<valList mode="add" type="closed">
+      					<valItem ident="animaux" mode="add">
+      						<desc>Animaux</desc>
+      					</valItem>
+      					<valItem ident="constructions">
+      						<desc>Constructions</desc>
+      					</valItem>
+      					<valItem ident="minéraux" mode="add">
+      						<desc>Minéraux</desc>
+      					</valItem>
+      					<valItem ident="végétaux" mode="add">
+      						<desc>Végétaux</desc>
+      					</valItem>
+      					<valItem ident="matières_objets_fabriques" mode="add">
+      						<desc>Matières et objets fabriqués</desc>
+      					</valItem>
+      					<valItem ident="machines_appareils" mode="add">
+      						<desc>Machines, appareils, ustensiles, vases</desc>
+      					</valItem>
+      					<valItem ident="outils" mode="add">
+      						<desc>Outils</desc>
+      					</valItem>
+      					<valItem ident="etoffes_habillement" mode="add">
+      						<desc>Étoffes, habillement</desc>
+      					</valItem>
+      					<valItem ident="divers_industrie" mode="add">
+      						<desc>Divers (Industrie)</desc>
+      					</valItem>
+      				</valList>
+      			</attDef>
+      			<attDef ident="subtype" mode="change">
+      				<valList mode="add" type="closed">
+      					<valItem ident="arbres_non_cultivés" mode="add">
+      						<desc>1° Arbres Non Cultivés</desc>
+      					</valItem>
+      					<valItem ident="herbes_plantes_sauvages" mode="add">
+      					<desc>2° Herbes ou Plantes Sauvages</desc>
+      				</valItem>
+      				<valItem ident="arbres_cultivés" mode="add">
+      					<desc>3° Arbres Cultivés</desc>
+      				</valItem>
+      				<valItem ident="arbustes_cultivés" mode="add">
+      					<desc>4° Arbustes Cultivés</desc>
+      				</valItem>
+      				<valItem ident="céréales" mode="add">
+      					<desc>5° Céréales</desc>
+      				</valItem>
+      				<valItem ident="legumes_racines" mode="add">
+      					<desc>6° Légumes, Racines, etc.</desc>
+      				</valItem>
+      				<valItem ident="divers_végétaux" mode="add">
+      					<desc>7° Divers (Vegetaux)</desc>
+      				</valItem>
+      					<valItem ident="homme" mode="add">
+      						<desc>1° L'Homme</desc>
+      					</valItem>      					
+      				<valItem ident="animaux_domestiques" mode="add">
+      					<desc>2° Animaux Domestiques</desc>
+      				</valItem>
+      				<valItem ident="animaux_sauvages" mode="add">
+      					<desc>3° Animaux Sauvages</desc>
+      				</valItem>
+      				</valList>
+      			</attDef>
+      		</attList>
+      	</elementSpec>
+      </schemaSpec>
+    	
+    	<!-- objectName: delete lots of attributes -->
+    	<elementSpec ident="objectName" mode="change" module="namesdates">
+    		<attList>
+    			<attDef ident="calendar" mode="delete"/>
+    			<attDef ident="cert" mode="delete"/>
+    			<attDef ident="change" mode="delete"/>
+    			<attDef ident="copyOf" mode="delete"/>
+    			<attDef ident="corresp" mode="delete"/>
+    			<attDef ident="datingMethod" mode="delete"/>
+    			<attDef ident="datingPoint" mode="delete"/>
+    			<attDef ident="evidence" mode="delete"/>
+    			<attDef ident="exclude" mode="delete"/>
+    			<attDef ident="extent" mode="delete"/>
+    			<attDef ident="facs" mode="delete"/>
+    			<attDef ident="from" mode="delete"/>
+    			<attDef ident="from-iso" mode="delete"/>
+    			<attDef ident="from-custom" mode="delete"/>
+    			<attDef ident="full" mode="delete"/>
+    			<attDef ident="instant" mode="delete"/>
+    			<attDef ident="next" mode="delete"/>
+    			<attDef ident="notAfter" mode="delete"/>
+    			<attDef ident="notAfter-iso" mode="delete"/>
+    			<attDef ident="notAfter-custom" mode="delete"/>
+    			<attDef ident="notBefore" mode="delete"/>
+    			<attDef ident="notBefore-iso" mode="delete"/>
+    			<attDef ident="notBefore-custom" mode="delete"/>
+    			<attDef ident="nymRef" mode="delete"/>
+    			<attDef ident="period" mode="delete"/>
+    			<attDef ident="prev" mode="delete"/>
+    			<attDef ident="quantity" mode="delete"/>
+    			<attDef ident="ref" mode="delete"/>
+    			<attDef ident="rend" mode="delete"/>
+    			<attDef ident="rendition" mode="delete"/>
+    			<attDef ident="sameAs" mode="delete"/>
+    			<attDef ident="scope" mode="delete"/>
+    			<attDef ident="select" mode="delete"/>
+    			<attDef ident="sort" mode="delete"/>
+    			<attDef ident="source" mode="delete"/>
+    			<attDef ident="style" mode="delete"/>
+    			<attDef ident="synch" mode="delete"/>
+    			<attDef ident="to" mode="delete"/>
+    			<attDef ident="to-iso" mode="delete"/>
+    			<attDef ident="to-custom" mode="delete"/>
+    			<attDef ident="unit" mode="delete"/>
+    			<attDef ident="when" mode="delete"/>
+    			<attDef ident="when-iso" mode="delete"/>
+    			<attDef ident="when-custom" mode="delete"/>
+    			<attDef ident="xml:base" mode="delete"/>
+    			<attDef ident="xml:id" mode="delete"/>
+    			<attDef ident="xml:lang" mode="delete"/>
+    			<attDef ident="xml:space" mode="delete"/>
+    		</attList>
+    	</elementSpec>
+    	
+    	
+<!-- persName: add  @type and @key attributes (character list) -->
       	<elementSpec ident="persName" mode="change">
       		<attList>
       			<attDef ident="type" mode="change">
@@ -132,6 +276,28 @@
       					</valItem>
       				</valList>
       			</attDef>
+      			<attDef ident="keyy" mode="change">
+      				<valList type="closed" mode="change">
+      					<valItem ident="suzette" mode="add">
+      						<desc>Suzette</desc>
+      					</valItem>
+      					<valItem ident="mme_valon" mode="add">
+      						<desc>Mme Valon</desc>
+      					</valItem>
+      					<valItem ident="m_valon" mode="add">
+      						<desc>M Valon</desc>
+      					</valItem>
+      					<valItem ident="jacques" mode="add">
+      						<desc>Jacques</desc>
+      					</valItem>
+      					<valItem ident="charlot" mode="add">
+      						<desc>Charlot</desc>
+      					</valItem>
+      					<valItem ident="pascal" mode="add">
+      						<desc>Pascal</desc>
+      					</valItem>
+      				</valList>
+      			</attDef>
       		</attList>
       	</elementSpec>
       	      	
@@ -139,8 +305,10 @@
       	<elementSpec ident="persName" mode="change" module="namesdates">
       		<attList>
       			<attDef ident="calendar" mode="delete"/>
+      			<attDef ident="cert" mode="delete"/>
       			<attDef ident="change" mode="delete"/>
       			<attDef ident="copyOf" mode="delete"/>
+      			<attDef ident="corresp" mode="delete"/>
       			<attDef ident="datingMethod" mode="delete"/>
       			<attDef ident="datingPoint" mode="delete"/>
       			<attDef ident="evidence" mode="delete"/>
@@ -149,6 +317,7 @@
       			<attDef ident="facs" mode="delete"/>
       			<attDef ident="from" mode="delete"/>
       			<attDef ident="from-iso" mode="delete"/>
+      			<attDef ident="from-custom" mode="delete"/>
       			<attDef ident="full" mode="delete"/>
       			<attDef ident="instant" mode="delete"/>
       			<attDef ident="next" mode="delete"/>
@@ -162,8 +331,10 @@
       			<attDef ident="period" mode="delete"/>
       			<attDef ident="prev" mode="delete"/>
       			<attDef ident="quantity" mode="delete"/>
+      			<attDef ident="ref" mode="delete"/>
       			<attDef ident="rend" mode="delete"/>
       			<attDef ident="rendition" mode="delete"/>
+      			<attDef ident="sameAs" mode="delete"/>
       			<attDef ident="scope" mode="delete"/>
       			<attDef ident="select" mode="delete"/>
       			<attDef ident="sort" mode="delete"/>
@@ -172,17 +343,102 @@
       			<attDef ident="synch" mode="delete"/>
       			<attDef ident="to" mode="delete"/>
       			<attDef ident="to-iso" mode="delete"/>
+      			<attDef ident="to-custom" mode="delete"/>
       			<attDef ident="unit" mode="delete"/>
       			<attDef ident="when" mode="delete"/>
       			<attDef ident="when-iso" mode="delete"/>
       			<attDef ident="when-custom" mode="delete"/>
       			<attDef ident="xml:base" mode="delete"/>
+      			<attDef ident="xml:id" mode="delete"/>
       			<attDef ident="xml:lang" mode="delete"/>
       			<attDef ident="xml:space" mode="delete"/>
       		</attList>
       	</elementSpec>
         
-        <!-- Customize span @ana to reference thematic components of the book -->
+      	<!-- placeName: add  @type (list of places from classification) -->
+      	<elementSpec ident="placeName" mode="change">
+      		<attList>
+      			<attDef ident="type" mode="change">
+      				<valList type="closed" mode="change">
+      					<valItem ident="afrique" mode="add">
+      						<desc>Afrique</desc>
+      					</valItem>
+      					<valItem ident="amérique" mode="add">
+      						<desc>Amérique</desc>
+      					</valItem>
+      					<valItem ident="asie" mode="add">
+      						<desc>Asie</desc>
+      					</valItem>
+      					<valItem ident="europe" mode="add">
+      						<desc>Europe</desc>
+      					</valItem>
+      					<valItem ident="france" mode="add">
+      						<desc>France</desc>
+      					</valItem>
+      					<valItem ident="océanie" mode="add">
+      						<desc>Océanie</desc>
+      					</valItem>
+
+      				</valList>
+      			</attDef>      			
+      		</attList>
+      	</elementSpec>
+      	
+      	<!-- placeName: delete lots of attributes -->
+      	<elementSpec ident="placeName" mode="change" module="namesdates">
+      		<attList>
+      			<attDef ident="calendar" mode="delete"/>
+      			<attDef ident="cert" mode="delete"/>
+      			<attDef ident="change" mode="delete"/>
+      			<attDef ident="copyOf" mode="delete"/>
+      			<attDef ident="corresp" mode="delete"/>
+      			<attDef ident="datingMethod" mode="delete"/>
+      			<attDef ident="datingPoint" mode="delete"/>
+      			<attDef ident="evidence" mode="delete"/>
+      			<attDef ident="exclude" mode="delete"/>
+      			<attDef ident="extent" mode="delete"/>
+      			<attDef ident="facs" mode="delete"/>
+      			<attDef ident="from" mode="delete"/>
+      			<attDef ident="from-iso" mode="delete"/>
+      			<attDef ident="from-custom" mode="delete"/>
+      			<attDef ident="full" mode="delete"/>
+      			<attDef ident="instant" mode="delete"/>
+      			<attDef ident="next" mode="delete"/>
+      			<attDef ident="notAfter" mode="delete"/>
+      			<attDef ident="notAfter-iso" mode="delete"/>
+      			<attDef ident="notAfter-custom" mode="delete"/>
+      			<attDef ident="notBefore" mode="delete"/>
+      			<attDef ident="notBefore-iso" mode="delete"/>
+      			<attDef ident="notBefore-custom" mode="delete"/>
+      			<attDef ident="nymRef" mode="delete"/>
+      			<attDef ident="period" mode="delete"/>
+      			<attDef ident="prev" mode="delete"/>
+      			<attDef ident="quantity" mode="delete"/>
+      			<attDef ident="ref" mode="delete"/>
+      			<attDef ident="rend" mode="delete"/>
+      			<attDef ident="rendition" mode="delete"/>
+      			<attDef ident="sameAs" mode="delete"/>
+      			<attDef ident="scope" mode="delete"/>
+      			<attDef ident="select" mode="delete"/>
+      			<attDef ident="sort" mode="delete"/>
+      			<attDef ident="source" mode="delete"/>
+      			<attDef ident="style" mode="delete"/>
+      			<attDef ident="synch" mode="delete"/>
+      			<attDef ident="to" mode="delete"/>
+      			<attDef ident="to-iso" mode="delete"/>
+      			<attDef ident="to-custom" mode="delete"/>
+      			<attDef ident="unit" mode="delete"/>
+      			<attDef ident="when" mode="delete"/>
+      			<attDef ident="when-iso" mode="delete"/>
+      			<attDef ident="when-custom" mode="delete"/>
+      			<attDef ident="xml:base" mode="delete"/>
+      			<attDef ident="xml:id" mode="delete"/>
+      			<attDef ident="xml:lang" mode="delete"/>
+      			<attDef ident="xml:space" mode="delete"/>
+      		</attList>
+      	</elementSpec>
+      	
+      	<!-- Customize span @ana to reference thematic components of the book -->
         <elementSpec ident="span" mode="change">
           <attList>
             <attDef ident="ana" mode="change">             
@@ -247,179 +503,7 @@
             </attDef>
           </attList>
         </elementSpec>
-      	
-      	<!-- Customize objectName @ana to distinguish among categorical information -->
-      	<elementSpec ident="objectName" mode="change">
-      		<attList>
-      			<attDef ident="ana" mode="change">
-      				<valList mode="add" type="closed">
-      					<valItem ident="âme" mode="add">
-      						<desc xml:lang="fr">L'âme</desc>
-      					</valItem>
-      					<valItem ident="enfant_école" mode="add">
-      						<desc>L'enfant dans école</desc>
-      					</valItem>
-      					<valItem ident="enfant_famille"  mode="add">
-      						<desc>L'enfant dans la famille</desc>
-      					</valItem>
-      					<valItem ident="envers_dieu" mode="add">
-      						<desc>Devoirs envers Dieu</desc>
-      					</valItem>
-      					<valItem ident="envers_semblables" mode="add">
-      						<desc>Devoirs envers nos semblables</desc>
-      					</valItem>
-      					<valItem ident="envers_serviteur" mode="add">
-      						<desc>Devoirs envers les serviteurs</desc>
-      					</valItem>
-      					<valItem ident="envers_soi-même" mode="add">
-      						<desc>Devoirs envers soi-même</desc>
-      					</valItem>
-      					<valItem ident="extérieurs" mode="add">
-      						<desc>Les biens extérieurs</desc>
-      					</valItem>
-      					<valItem ident="fréres_soeurs" mode="add">
-      						<desc>Devoirs des frères et soeurs</desc>
-      					</valItem>
-      					<valItem ident="patrie" mode="add">
-      						<desc>La patrie</desc>
-      					</valItem>
-      					<valItem ident="instruction_civique" mode="add">
-      						<desc>Instruction civique</desc>
-      					</valItem>
-      					<valItem ident="civilité" mode="add">
-      						<desc>Civilité</desc>
-      					</valItem>
-      					<valItem ident="français" mode="add">
-      						<desc>Français</desc>
-      					</valItem>
-      					<valItem ident="descriptions" mode="add">
-      						<desc>Descriptions</desc>
-      					</valItem>
-      					<valItem ident="lettres" mode="add">
-      						<desc>Lettres</desc>
-      					</valItem>
-      					<valItem ident="récits" mode="add">
-      						<desc>Récits</desc>
-      					</valItem>
-      					<valItem ident="récits_historiques" mode="add">
-      						<desc>Récits historiques</desc>
-      					</valItem>
-      					<valItem ident="sujets-moraux_imagination" mode="add">
-      						<desc>Sujets-moraux ou d'imagination</desc>
-      					</valItem>
-      					<valItem ident="histoire" mode="add">
-      						<desc>Histoire</desc>
-      					</valItem>
-      					<valItem ident="afrique" mode="add">
-      						<desc>Afrique</desc>
-      					</valItem>
-      					<valItem ident="amérique" mode="add">
-      						<desc>Amérique</desc>
-      					</valItem>
-      					<valItem ident="asie" mode="add">
-      						<desc>Asie</desc>
-      					</valItem>
-      					<valItem ident="europe" mode="add">
-      						<desc>Europe</desc>
-      					</valItem>
-      					<valItem ident="france" mode="add">
-      						<desc>France</desc>
-      					</valItem>
-      					<valItem ident="géographie" mode="add">
-      						<desc>Géographie</desc>
-      					</valItem>
-      					<valItem ident="océanie" mode="add">
-      						<desc>Océanie</desc>
-      					</valItem>
-      					<valItem ident="minéraux" mode="add">
-      						<desc>Minéraux</desc>
-      					</valItem>
-      					<valItem ident="sciences_naturelles" mode="add">
-      						<desc>Sciences Naturelles</desc>
-      					</valItem>
-      					<valItem ident="végétaux" mode="add">
-      						<desc>Végétaux</desc>
-      					</valItem>
-      					<valItem ident="arbres_non_cultivés" mode="add">
-      						<desc>1° Arbres Non Cultivés</desc>
-      					</valItem>
-      					<valItem ident="herbes_plantes_sauvages" mode="add">
-      						<desc>2° Herbes ou Plantes Sauvages</desc>
-      					</valItem>
-      					<valItem ident="arbres_cultivés" mode="add">
-      						<desc>3° Arbres Cultivés</desc>
-      					</valItem>
-      					<valItem ident="arbustes_cultivés" mode="add">
-      						<desc>4° Arbustes Cultivés</desc>
-      					</valItem>
-      					<valItem ident="céréales" mode="add">
-      						<desc>5° Céréales</desc>
-      					</valItem>
-      					<valItem ident="legumes_racines" mode="add">
-      						<desc>6° Légumes, Racines, etc.</desc>
-      					</valItem>
-      					<valItem ident="divers_végétaux" mode="add">
-      						<desc>7° Divers (Vegetaux)</desc>
-      					</valItem>
-      					<valItem ident="homme" mode="add">
-      						<desc>1° L'Homme</desc>
-      					</valItem>
-      					<valItem ident="animaux_domestiques" mode="add">
-      						<desc>2° Animaux Domestiques</desc>
-      					</valItem>
-      					<valItem ident="animaux_sauvages" mode="add">
-      						<desc>3° Animaux Sauvages</desc>
-      					</valItem>
-      					<valItem ident="sciences_physiques" mode="add">
-      						<desc>Notions Relatives aux Sciences Physiques</desc>
-      					</valItem>
-      					<valItem ident="matières_objets_fabriques" mode="add">
-      						<desc>Matières et objets fabriqués</desc>
-      					</valItem>
-      					<valItem ident="construction" mode="add">
-      						<desc>Construction</desc>
-      					</valItem>
-      					<valItem ident="machines_appareils" mode="add">
-      						<desc>Machines, appareils, ustensiles, vases</desc>
-      					</valItem>
-      					<valItem ident="outils" mode="add">
-      						<desc>Outils</desc>
-      					</valItem>
-      					<valItem ident="etoffes_habillement" mode="add">
-      						<desc>Étoffes, habillement</desc>
-      					</valItem>
-      					<valItem ident="divers_industrie" mode="add">
-      						<desc>Divers (Industrie)</desc>
-      					</valItem>
-      					<valItem ident="économie_domestique" mode="add">
-      						<desc>Économie Domestique</desc>
-      					</valItem>
-      					<valItem ident="aliments_cuisine" mode="add">
-      						<desc>Aliments et cuisine</desc>
-      					</valItem>
-      					<valItem ident="vêtements_domestiques" mode="add">
-      						<desc>Vêtements</desc>
-      					</valItem>
-      					<valItem ident="basse-cour" mode="add">
-      						<desc>Basse-cour</desc>
-      					</valItem>
-      					<valItem ident="corps_habitations" mode="add">
-      						<desc>Corps et habitations</desc>
-      					</valItem>
-      					<valItem ident="vêtements_hygiene" mode="add">
-      						<desc>Vêtements (Hygiene)</desc>
-      					</valItem>
-      					<valItem ident="aliments" mode="add">
-      						<desc>Aliments</desc>
-      					</valItem>
-      					<valItem ident="maladies_remèdes" mode="add">
-      						<desc>Maladies, etc.; remèdes</desc>
-      					</valItem>      					
-      				</valList>
-      			</attDef>
-      		</attList>
-      	</elementSpec>
-      </schemaSpec>
+
 
     </body>
   </text>
