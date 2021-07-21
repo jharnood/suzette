@@ -121,7 +121,7 @@
         </elementSpec>
 
       	<!-- objectName: @key @type @subtype to distinguish among categorical information -->
-<!--      	<elementSpec ident="objectName" mode="change">
+    	<elementSpec ident="objectName" mode="change">
       		<attList>
       			<attDef ident="key" mode="change">
       				<valList mode="add" type="closed">
@@ -205,10 +205,10 @@
       				</valList>
       			</attDef>
       		</attList>
-      	</elementSpec>-->
+      	</elementSpec>
     	
     	<!-- objectName: delete lots of attributes -->
-<!--    	<elementSpec ident="objectName" mode="change" module="namesdates">
+   	<elementSpec ident="objectName" mode="change" module="namesdates">
     		<attList>
     			<attDef ident="calendar" mode="delete"/>
     			<attDef ident="cert" mode="delete"/>
@@ -261,8 +261,8 @@
     		</attList>
     	</elementSpec>
     	
--->    	
-<!-- persName: add  @type -->
+
+<!-- persName: add  @type and @key (for character list)-->
       	<elementSpec ident="persName" mode="change">
       		<attList>
       			<attDef ident="type" mode="change">
@@ -300,35 +300,7 @@
       		</attList>
       	</elementSpec>
 
-    	<!-- persName: add  @key attributes (character list) -->
-<!--    	<elementSpec ident="persName" mode="change">
-    		<attList>
-      			<attDef ident="key" mode="change">
-      				<valList type="closed" mode="change">
-      					<valItem ident="suzette" mode="add">
-      						<desc>Suzette</desc>
-      					</valItem>
-      					<valItem ident="mme_valon" mode="add">
-      						<desc>Mme Valon</desc>
-      					</valItem>
-      					<valItem ident="m_valon" mode="add">
-      						<desc>M Valon</desc>
-      					</valItem>
-      					<valItem ident="jacques" mode="add">
-      						<desc>Jacques</desc>
-      					</valItem>
-      					<valItem ident="charlot" mode="add">
-      						<desc>Charlot</desc>
-      					</valItem>
-      					<valItem ident="pascal" mode="add">
-      						<desc>Pascal</desc>
-      					</valItem>
-      				</valList>
-      			</attDef>
-      		</attList>
-      	</elementSpec>
-      	      	
--->      	<!-- persName: delete lots of attributes -->
+     	<!-- persName: delete lots of attributes -->
       	<elementSpec ident="persName" mode="change" module="namesdates">
       		<attList>
       			<attDef ident="calendar" mode="delete"/>
