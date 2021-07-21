@@ -75,13 +75,21 @@
 	</teiHeader>
 	<text>
 		<body>
+<<<<<<< HEAD
+			<div1 type="chapitre" xml:lang="fr" corresp="#ch113">
+				<head>113. — Le retour. (Elève, p. 241.)</head>
+			<pb n='396'/>			
+				<div2 type="récit">
+				<p>
+=======
 			<pb n='1'/>
 			<p>
 				113. — Le retour. (Elève, p. 241.)
+>>>>>>> 698d372b08dff3f8d0b591f3dc49a91a66dec78a
 				<lb/>— La voici ! la voici ! crièrent Charlot et François.
 				<lb/>Suivis de M. Dumay, ils coururent à la porte de la cour, 
 				<lb/>où arrivait la carriole que menait Jacques, assis auprès 
-				<lb/>de sa sœur.
+				<lb/>de sa sœur.</p>
 				<lb/>— Bonjour ! bonjour !
 				<lb/>— Ma fille !
 				<lb/>— Papa !
