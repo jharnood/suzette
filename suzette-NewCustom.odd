@@ -206,7 +206,6 @@
       			</attDef>
       		</attList>
       	</elementSpec>
-      </schemaSpec>
     	
     	<!-- objectName: delete lots of attributes -->
     	<elementSpec ident="objectName" mode="change" module="namesdates">
@@ -263,7 +262,7 @@
     	</elementSpec>
     	
     	
-<!-- persName: add  @type and @key attributes (character list) -->
+<!-- persName: add  @type -->
       	<elementSpec ident="persName" mode="change">
       		<attList>
       			<attDef ident="type" mode="change">
@@ -276,7 +275,13 @@
       					</valItem>
       				</valList>
       			</attDef>
-      			<attDef ident="keyy" mode="change">
+      		</attList>
+      	</elementSpec>
+
+    	<!-- persName: add  @key attributes (character list) -->
+    	<elementSpec ident="persName" mode="change">
+    		<attList>
+      			<attDef ident="key" mode="change">
       				<valList type="closed" mode="change">
       					<valItem ident="suzette" mode="add">
       						<desc>Suzette</desc>
@@ -504,7 +509,7 @@
           </attList>
         </elementSpec>
 
-
+      </schemaSpec>
     </body>
   </text>
 </TEI>
