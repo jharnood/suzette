@@ -121,7 +121,7 @@
         </elementSpec>
 
       	<!-- objectName: @key @type @subtype to distinguish among categorical information -->
-<!--    	<elementSpec ident="objectName" mode="change">
+  	<elementSpec ident="objectName" mode="change">
       		<attList>
       			<attDef ident="key" mode="change">
       				<valList mode="add" type="closed">
@@ -206,7 +206,7 @@
       			</attDef>
       		</attList>
       	</elementSpec>
-    	-->
+
       	
 <!-- persName: add  @type and @key (for character list)-->
       	<elementSpec ident="persName" mode="change">
