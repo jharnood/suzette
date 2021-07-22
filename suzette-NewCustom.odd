@@ -120,7 +120,7 @@
           </attList>
         </elementSpec>
 
-      	<!-- objectName: @key @type @subtype to distinguish among categorical information -->
+      	<!-- objectName: @key to distinguish among categorical information -->
   	<elementSpec ident="objectName" mode="change">
       		<attList>
       			<attDef ident="key" mode="change">
@@ -139,6 +139,12 @@
       					</valItem>
       				</valList>
       			</attDef>
+      		</attList>
+  	</elementSpec>
+
+      	<!-- objectName: @type to distinguish among categorical information -->
+      	<elementSpec ident="objectName" mode="change">
+      		<attList>
       			<attDef ident="type" mode="change">
       				<valList mode="add" type="closed">
       					<valItem ident="animaux" mode="add">
@@ -170,6 +176,12 @@
       					</valItem>
       				</valList>
       			</attDef>
+      		</attList>
+      	</elementSpec>
+
+      	<!-- objectName: @subtype to distinguish among categorical information -->
+      	<elementSpec ident="objectName" mode="change">
+      		<attList>
       			<attDef ident="subtype" mode="change">
       				<valList mode="add" type="closed">
       					<valItem ident="arbres_non_cultivés" mode="add">
