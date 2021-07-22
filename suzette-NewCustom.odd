@@ -221,7 +221,7 @@
 
 <!-- removing lots of attributes for persName -->
       	
-      	<elementSpec ident="persName" mode="change">
+<!--      	<elementSpec ident="persName" mode="change">
       		<classes mode="change">
       			<memberOf key="att.editLike" mode="delete"/>
       			<memberOf key="att.personal" mode="delete"/>
@@ -260,9 +260,9 @@
       			<attDef ident="resp" mode="delete"/>
       			<attDef ident="nymRef" mode="delete"/>
       		</attList>
-      	</elementSpec>
+      	</elementSpec>-->
       	
-<!-- persName: add  @type and @key (for character list)-->
+<!-- persName: add  @type -->
       	<elementSpec ident="persName" mode="change">
       		<attList>
       			<attDef ident="type" mode="change">
@@ -275,6 +275,12 @@
       					</valItem>
       				</valList>
       			</attDef>
+      		</attList>
+      	</elementSpec>
+
+      	<!-- persName: add  @key (for character list)-->
+      	<elementSpec ident="persName" mode="change">
+      		<attList>
       			<attDef ident="key" mode="change">
       				<valList type="closed" mode="change">
       					<valItem ident="suzette" mode="add">
