@@ -37,7 +37,7 @@
         <moduleRef key="header" />
         <moduleRef key="linking"/>
         <moduleRef key="msdescription"/>
-        <moduleRef key="namesdates"/>
+        <moduleRef key="namesdates" include="type subtype"/>
         <moduleRef key="textcrit" />
         <moduleRef key="textstructure" />
         <moduleRef key="transcr"/>
@@ -121,7 +121,7 @@
         </elementSpec>
 
       	<!-- objectName: @key @type @subtype to distinguish among categorical information -->
-    	<elementSpec ident="objectName" mode="change">
+<!--    	<elementSpec ident="objectName" mode="change">
       		<attList>
       			<attDef ident="key" mode="change">
       				<valList mode="add" type="closed">
@@ -206,9 +206,9 @@
       			</attDef>
       		</attList>
       	</elementSpec>
-    	
+    	-->
     	<!-- objectName: delete lots of attributes -->
-   	<elementSpec ident="objectName" mode="change" module="namesdates">
+<!--   	<elementSpec ident="objectName" mode="change" module="namesdates">
     		<attList>
     			<attDef ident="calendar" mode="delete"/>
     			<attDef ident="cert" mode="delete"/>
@@ -261,7 +261,7 @@
     		</attList>
     	</elementSpec>
     	
-
+-->
 <!-- persName: add  @type and @key (for character list)-->
       	<elementSpec ident="persName" mode="change">
       		<attList>
@@ -301,7 +301,7 @@
       	</elementSpec>
 
      	<!-- persName: delete lots of attributes -->
-      	<elementSpec ident="persName" mode="change" module="namesdates">
+<!--      	<elementSpec ident="persName" mode="change" module="namesdates">
       		<attList>
       			<attDef ident="calendar" mode="delete"/>
       			<attDef ident="cert" mode="delete"/>
@@ -352,7 +352,7 @@
       			<attDef ident="xml:lang" mode="delete"/>
       			<attDef ident="xml:space" mode="delete"/>
       		</attList>
-      	</elementSpec>
+      	</elementSpec>-->
         
       	<!-- placeName: add  @type (list of places from classification) -->
 <!--      	<elementSpec ident="placeName" mode="change">
