@@ -80,7 +80,7 @@
             <pb type="page" n="41"/>
 
             <div2 type="récit">
-               <p>Alors la porte s'ouvrit tout à fait; François s'avança 
+               <p>Alors la porte s'ouvrit tout à fait; <persName type='fictif' >François</persName> s'avança 
                   <lb/>en sanglotant*
                      <gloss>Sanglot. Soupir poussé avec une voix entrecoupée.</gloss>.</p>
                
@@ -100,8 +100,8 @@
                      <lb/>dénoncé... — Puis, avecun geste brusque : — Tiens! je 
                      <lb/>vais me débarbouiller.</p>
                
-                  <p>— J'y vais aussi! dit Charlot en suivant son cadet.</p>
-               <p>Et voilà! Suzette avait trouvé le joint* <gloss>Trouver le jointe Trouver le
+                  <p>— J'y vais aussi! dit <persName type= 'fictif' key='charlot'>Charlot</persName> en suivant son cadet.</p>
+               <p>Et voilà! <persName type='fictif' key='suzette'>Suzette</persName> avait trouvé le joint* <gloss>Trouver le jointe Trouver le
                      meilleur moyen de réussir.</gloss>; la bonté, 
                   <lb/>l'appel à la raison et au cœur
                   valent mieux, pour se faire obéir, que la rudesse du commandement ou le reproche
@@ -123,17 +123,17 @@
                   <lb/>robes du dimanche, par exemple. Il arriva un
                   moment 
                   <lb/>où, après cent nettoyages, repassages, raccommo
-                  <lb/>dages, Suzette dut renoncer
+                  <lb/>dages, <persName type='fictif' key='suzette'>Suzette</persName> dut renoncer
                   à la sienne.</p>
                <p>Et quelle grosse affaire que la robe du dimanche 
                   <lb/>quand on atteint ses quatorze
-                  ans! Suzette y était; elle 
+                  ans! <persName type='fictif' key='suzette'>Suzette</persName> y était; elle 
                   <lb/>poussait comme une asperge. Mais la robe, tout en pre-
                   <lb/>nant de l'âge comme elle, suivait une marche inverse * <gloss>Inverse. Opposée
                      à ce qu'on cite ou voit.</gloss> 
                   <lb/>et lui découvrait de plus en plus les
                   chevilles.</p>
-               <p>De leur côté, les souliers de Charlot ne voulaient 
+               <p>De leur côté, les souliers de <persName type='fictif' key='charlot'>Charlot</persName> ne voulaient 
                   <lb/>rien entendre à l'allongement
                   des pieds du bonhomme. 
                   <lb/>Un beau jour, ils crevèrent à l'empeigne* <gloss>Empeigne.
@@ -144,12 +144,12 @@
             <div2 type="questionnaire">
                <head>Questionnaire.</head>
                <list>
-                  <item>— Dans quels termes François fit-il l'aveu de sa faute?</item>
+                  <item>— Dans quels termes <persName type='fictif' key='françois'>François</persName> fit-il l'aveu de sa faute?</item>
                   <item>— Que peut-on penser de cet enfant ?</item>
                   <item>— Comment prouva-t-il qu'il avait bon cœur?</item>
                   <item>— Quelle est la meilleure man<cb/> ière de se faire obéir?</item>
                   <item>— Quelle chose doit, croître, avec la taille, chez l'enfant ?</item>
-                  <item>— En quel état se trouvait la robe de Suzette, et pourquoi?</item>
+                  <item>— En quel état se trouvait la robe de <persName type='fictif' key='suzette'>Suzette</persName>, et pourquoi?</item>
                   <item>— N'y avait-il que ce vêtement à renouveler?</item>
                </list>
             </div2>
@@ -243,8 +243,8 @@
                         <lb/>de temps à autre. Le savon se forme et surnage en grumeaux; on 
                         <lb/>l'enlève, on le lave et il ne reste plus qu'à l'introduire dans des moules 
                         <lb/>où, sous une forte pression, il prend les formes les plus variées. Le 
-                        <lb/>savon se fabrique principalement à Paris, à Rouen, à Nantes, à Reims, 
-                        <lb/>à Marseille. Dans cette dernière ville, on en produit près de 100 mil-
+                        <lb/>savon se fabrique principalement à <placeName type='france'>Paris</placeName>, à <placeName type='france'>Rouen</placeName>, à <placeName type='france'>Nantes</placeName>, à <placeName type='france'>Reims</placeName>, 
+                        <lb/>à <placeName type='france'>Marseille</placeName>. Dans cette dernière ville, on en produit près de 100 mil-
                         <lb/>lions de kilos par an.</p>
                      <p>Le <term>savon de toilette</term>, dur et transparent, est préparé avec de la 
                         <lb/>graisse de rognons et de la soude. On dessèche le produit obtenu et 
