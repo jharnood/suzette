@@ -286,6 +286,9 @@
       					<valItem ident="suzette" mode="add">
       						<desc>Suzette</desc>
       					</valItem>
+      					<valItem ident="m_dumay" mode="add">
+      						<desc>M Dumay</desc>
+      					</valItem>
       					<valItem ident="mme_valon" mode="add">
       						<desc>Mme Valon</desc>
       					</valItem>
@@ -301,6 +304,9 @@
       					<valItem ident="pascal" mode="add">
       						<desc>Pascal</desc>
       					</valItem>
+      				  <valItem ident="françois" mode="add">
+      				    <desc>François</desc>
+      				  </valItem>
       				</valList>
       			</attDef>
       		</attList>
