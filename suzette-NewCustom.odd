@@ -326,6 +326,11 @@
         
       	<!-- placeName: add  @type (list of places from classification) -->
      	<elementSpec ident="placeName" mode="change">
+     	  <classes mode="change">
+     	    <memberOf key="att.datable" mode="delete"/>
+     	    <memberOf key="att.editLike" mode="delete"/>
+     	    <memberOf key="att.personal" mode="delete"/>
+     	  </classes>
       		<attList>
       			<attDef ident="type" mode="change">
       				<valList type="closed" mode="change">
@@ -347,9 +352,28 @@
       					<valItem ident="océanie" mode="add">
       						<desc>Océanie</desc>
       					</valItem>
-
       				</valList>
-      			</attDef>      			
+      			</attDef> 
+      		  <attDef ident="corresp" mode="delete"/>
+      		  <attDef ident="synch" mode="delete"/>
+      		  <attDef ident="sameAs" mode="delete"/>
+      		  <attDef ident="copyOf" mode="delete"/>
+      		  <attDef ident="next" mode="delete"/>
+      		  <attDef ident="prev" mode="delete"/>
+      		  <attDef ident="exclude" mode="delete"/>
+      		  <attDef ident="select" mode="delete"/>
+      		  <attDef ident="ana" mode="delete"/>
+      		  <attDef ident="facs" mode="delete"/>
+      		  <attDef ident="change" mode="delete"/>
+      		  <attDef ident="cert" mode="delete"/>
+      		  <attDef ident="resp" mode="delete"/>
+      		  <attDef ident="source" mode="delete"/>
+      		  <attDef ident="xml:space" mode="delete"/>
+      		  <attDef ident="xml:base" mode="delete"/>
+      		  <attDef ident="xml:lang" mode="delete"/>
+      		  <attDef ident="rend" mode="delete"/>
+      		  <attDef ident="style" mode="delete"/>
+      		  <attDef ident="rendition" mode="delete"/>
       		</attList>
       	</elementSpec>
 
