@@ -287,7 +287,7 @@
       						<desc>Suzette</desc>
       					</valItem>
       					<valItem ident="m_dumay" mode="add">
-      						<desc>M Dumay</desc>
+      						<desc>M Denis Dumay</desc>
       					</valItem>
       					<valItem ident="mme_valon" mode="add">
       						<desc>Mme Valon</desc>
@@ -306,6 +306,18 @@
       					</valItem>
       				  <valItem ident="françois" mode="add">
       				    <desc>François</desc>
+      				  </valItem>
+      				  <valItem ident="castor" mode="add">
+      				    <desc>Castor</desc>
+      				  </valItem>
+      				  <valItem ident="ludivine" mode="add">
+      				    <desc>Ludivine</desc>
+      				  </valItem>
+      				  <valItem ident="jeanne" mode="add">
+      				    <desc>Jeanne</desc>
+      				  </valItem>
+      				  <valItem ident="madeleine" mode="add">
+      				    <desc>Madeleine</desc>
       				  </valItem>
       				</valList>
       			</attDef>
