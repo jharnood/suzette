@@ -75,12 +75,12 @@
    </teiHeader>
    <text>
       <body>
-         <div1 type="chapitre" >
+         <div1 type="chapitre" n='013'>
             <head>13. — Une bonne idée. (Élève, p. 31.)</head>
             <pb type="page" n="44"/>
 
             <div2 type="récit">
-                  <p>Suzette exposa la double question au papa.</p>
+                  <p><persName type='fictif' key='suzette'>Suzette</persName> exposa la double question au papa.</p>
                   
                      <p>— Hum! hum! répondit-il en se grattant l'oreille, des 
                         <lb/>souliers, une robe, tout à la fois! Si tu attendais que 
@@ -102,12 +102,12 @@
                         <lb/>café que nous dépensons
                         chaque matin coûtent dix cen-
                         <lb/>times; à ce prix-là, combien coûte le demi-kilogramme?</p>
-                  <p>Elle attendit la réponse, qui ne vint pas vite : M. Dumay 
+                  <p>Elle attendit la réponse, qui ne vint pas vite : <persName type='fictif'>M. Dumay</persName> 
                      <lb/>ne se piquait pas d'arithmétique* <gloss>Se piquer d'une chose. Se glorifier de la bien
                         connaîtra.</gloss>.</p>
                   
                      <p>— Il coûte trois francs trente-
-                        <lb/>trois centimes, reprit Suzette. Or 
+                        <lb/>trois centimes, reprit <persName type='fictif'>Suzette</persName>. Or 
                         <lb/>j'ai eu, depuis quelque temps, 
                         <lb/>l’idée de l'acheter, non plus par miettes, mais par
                   <figure>
@@ -145,7 +145,7 @@
                         <lb/>viennent un peu plus d'abondance, de bien-être* <gloss>Bien-être. Ce qui contribue à rendre l'existence
                            commode ou agréable.</gloss>. Et 
                         <lb/>vive ma fillette qui est une bonne petite mère!</p>
-                  <p>Les yeux de Suzette brillaient joyeusement. Il lui 
+                  <p>Les yeux de <persName type='fictif'>Suzette</persName> brillaient joyeusement. Il lui 
                      <lb/>caressait doucement les
                      cheveux :</p>
                   
@@ -153,8 +153,8 @@
                         <lb/>et elle l'achètera elle-même, dès demain ;
                         j'attellerai 
                         <lb/>le char à bancs * <gloss>Char à bancs. Voiture longue et légère
-                           garnie de plusieurs bancs.</gloss> pour la conduire à la foire de Saint-
-                        <lb/>Quentin!</p>
+                           garnie de plusieurs bancs.</gloss> pour la conduire à la foire de <placeName type='france'>Saint-
+                        <lb/>Quentin</placeName>!</p>
                   <figure>
                      <caption>La préparation du café. Il faut avoir soin de moudre le café soi-même
                         pour que l'arôme se conserve plus longtemps; faites bouillir de l'eau,
@@ -172,7 +172,7 @@
                   <list>
                      <item>— Que répondit le père lorsqu'il fut question de l'achat d'une robe et de
                         souliers ?</item>
-                     <item>— Comment Suzette s'était-elle procuré les 30 francs nécessaires aux
+                     <item>— Comment <persName type='fictif' key='suzette'>Suzette</persName> s'était-elle procuré les 30 francs nécessaires aux
                         achats en question?</item>
                      <item>—Donnez, des détails sur le genre d'écono- <cb/> mies qu’elle avait
                         pratiqué ?</item>
