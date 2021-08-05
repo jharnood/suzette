@@ -264,6 +264,11 @@
       	
 <!-- persName: add  @type -->
       	<elementSpec ident="persName" mode="change">
+      	  <classes mode="change">
+      	    <memberOf key="att.datable" mode="delete"/>
+      	    <memberOf key="att.editLike" mode="delete"/>
+      	    <memberOf key="att.personal" mode="delete"/>
+      	  </classes>
       		<attList>
       			<attDef ident="type" mode="change">
       				<valList type="closed" mode="change">
@@ -275,12 +280,6 @@
       					</valItem>
       				</valList>
       			</attDef>
-      		</attList>
-      	</elementSpec>
-
-      	<!-- persName: add  @key (for character list)-->
-      	<elementSpec ident="persName" mode="change">
-      		<attList>
       			<attDef ident="key" mode="change">
       				<valList type="closed" mode="change">
       					<valItem ident="suzette" mode="add">
@@ -319,8 +318,43 @@
       				  <valItem ident="madeleine" mode="add">
       				    <desc>Madeleine</desc>
       				  </valItem>
+      				  <valItem ident="benoît" mode="add">
+      				    <desc>Benoît</desc>
+      				  </valItem>
+      				  <valItem ident="mme_liénard" mode="add">
+      				    <desc>Mme Liénard</desc>
+      				  </valItem>
+      				  <valItem ident="mme_richard" mode="add">
+      				    <desc>Mme Richard</desc>
+      				  </valItem>
+      				  <valItem ident="sylvain" mode="add">
+      				    <desc>Sylvain</desc>
+      				  </valItem>
+      				  <valItem ident="vincent" mode="add">
+      				    <desc>Vincent</desc>
+      				  </valItem>
       				</valList>
       			</attDef>
+      		  <attDef ident="corresp" mode="delete"/>
+      		  <attDef ident="synch" mode="delete"/>
+      		  <attDef ident="sameAs" mode="delete"/>
+      		  <attDef ident="copyOf" mode="delete"/>
+      		  <attDef ident="next" mode="delete"/>
+      		  <attDef ident="prev" mode="delete"/>
+      		  <attDef ident="exclude" mode="delete"/>
+      		  <attDef ident="select" mode="delete"/>
+      		  <attDef ident="ana" mode="delete"/>
+      		  <attDef ident="facs" mode="delete"/>
+      		  <attDef ident="change" mode="delete"/>
+      		  <attDef ident="cert" mode="delete"/>
+      		  <attDef ident="resp" mode="delete"/>
+      		  <attDef ident="source" mode="delete"/>
+      		  <attDef ident="xml:space" mode="delete"/>
+      		  <attDef ident="xml:base" mode="delete"/>
+      		  <attDef ident="xml:lang" mode="delete"/>
+      		  <attDef ident="rend" mode="delete"/>
+      		  <attDef ident="style" mode="delete"/>
+      		  <attDef ident="rendition" mode="delete"/>
       		</attList>
       	</elementSpec>
         
@@ -354,6 +388,22 @@
       					</valItem>
       				</valList>
       			</attDef> 
+      		  <attDef ident="subtype" mode="change">
+      		    <valList type="closed" mode="change">
+      		      <valItem ident="pays" mode="add">
+      		        <desc>Pays</desc>
+      		      </valItem>
+      		      <valItem ident="région" mode="add">
+      		        <desc>Région</desc>
+      		      </valItem>
+      		      <valItem ident="département" mode="add">
+      		        <desc>Département</desc>
+      		      </valItem>
+      		      <valItem ident="commune" mode="add">
+      		        <desc>Commune</desc>
+      		      </valItem>
+      		    </valList>
+      		  </attDef>
       		  <attDef ident="corresp" mode="delete"/>
       		  <attDef ident="synch" mode="delete"/>
       		  <attDef ident="sameAs" mode="delete"/>
@@ -376,14 +426,57 @@
       		  <attDef ident="rendition" mode="delete"/>
       		</attList>
       	</elementSpec>
+        
+        <!-- Add geogFeat values -->
+        <elementSpec ident="geogFeat" mode="change">
+          <attList>
+            <attDef ident="type" mode="change">
+              <valList mode="change" type="closed">
+                <valItem ident="riviére" mode="add">
+                  <desc>Rivière</desc>
+                </valItem>
+                <valItem ident="désert" mode="add">
+                  <desc>Désert</desc>
+                </valItem>
+                <valItem ident="montagne" mode="add">
+                  <desc>Montagne</desc>
+                </valItem>
+                <valItem ident="fleuve" mode="add">
+                  <desc>Fleuve</desc>
+                </valItem>
+                <valItem ident="plaine" mode="add">
+                  <desc>Plaine</desc>
+                </valItem>
+                <valItem ident="forêt" mode="add">
+                  <desc>Forêt</desc>
+                </valItem>
+                <valItem ident="mer" mode="add">
+                  <desc>Mer</desc>
+                </valItem>
+                <valItem ident="océan" mode="add">
+                  <desc>Océan</desc>
+                </valItem>
+                <valItem ident="lac" mode="add">
+                  <desc>Lac</desc>
+                </valItem>
+                <valItem ident="étang" mode="add">
+                  <desc>Étang</desc>
+                </valItem>
+                <valItem ident="bois" mode="add">
+                  <desc>Bois</desc>
+                </valItem>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
 
       	<!-- Customize span @ana to reference thematic components of the book -->
-<!--        <elementSpec ident="span" mode="change">
+ <elementSpec ident="span" mode="change">
           <attList>
             <attDef ident="ana" mode="change">             
               <valList type="closed" mode="change">
-                <valItem ident="manière_de_table" mode="add">
-                  <desc xml:lang="fr">Manière de table</desc>
+                <valItem ident="manières_de_table" mode="add">
+                  <desc xml:lang="fr">Manières de table</desc>
                 </valItem>
                 <valItem ident="nutrition" mode="add">
                   <desc xml:lang="fr">Nutrition</desc>
@@ -410,7 +503,8 @@
             </attDef>
           </attList>
         </elementSpec>
--->        
+
+
         <!-- Customize FIGURE to include @type illustration or sujets -->
         <elementSpec ident="figure" mode="change">
           <attList>
