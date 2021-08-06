@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
@@ -81,9 +81,9 @@
            <div2 type="récit">
            <p>— Voilà une bonne lettre ! dit le père, celle d'un 
            <lb/>garçon qui a déjà du cœur au métier. </p>
-           <p>— Et regardant M. François : — Jacques 
-           <lb/>est un brave enfant ; Suzette, une brave fille ; Char-
-           <lb/>lot... euh ! euh !... mais François est un polisson ! </p>
+           <p>— Et regardant M. <persName type="fictif" key="françois">François</persName> : — <persName type="fictif" key="jacques">Jacques</persName> 
+           <lb/>est un brave enfant ; <persName type="fictif" key="suzette">Suzette</persName>, une brave fille ; <persName type="fictif" key="charlot">Char-
+           <lb/>lot</persName>... euh ! euh !... mais <persName type="fictif" key="françois">François</persName> est un polisson ! </p>
            <figure>
            <caption>
            Cerises.
@@ -107,7 +107,7 @@
            <pb type="page" n="79"/>   
            <fw>UN ÉTEIGNOIR A CHANDELLE.	79</fw>
                  
-           <p>Une demi-heure auparavant, François avait détruit 
+           <p>Une demi-heure auparavant, <persName type="fictif" key="françois">François</persName> avait détruit 
            <lb/>une chaise, — c'était la troisième ; l'horloge, le bac à 
            <lb/>charbon*<gloss>Bac à charbon. Caisse où l'on place le charbon.</gloss> avaient péri de sa main ; le jardin montrait un 
            <lb/>cerisier, deux poiriers et trois pommiers fort éclopés*<gloss> Eclopé. Celui dont l'ètat n'est pas satisfaisant.</gloss> 
@@ -127,37 +127,37 @@
            </figure>
            <p> La curiosité n'est cependant 
            <lb/>pas toujours mauvaise, et celle 
-           <lb/>de François avait un côté assez 
+           <lb/>de <persName type="fictif" key="françois">François</persName> avait un côté assez 
            <lb/>intéressant. Il en tirait, quoique à grands frais*<gloss>Grands frais. Avec grande dépense.</gloss>, des idées parfois ingénieuses*<gloss>Idée ingénieuse. Idée qui inspire des amèlioations auxquelles on ne sougeait pas.</gloss>.</p>
-           <p>Une nuit de jeudi, Suzette, affairée à ses couveuses*<gloss>Couveuses. Poule qui couve.</gloss>, 
+           <p>Une nuit de jeudi, <persName type="fictif" key="suzette">Suzette</persName>, affairée à ses couveuses*<gloss>Couveuses. Poule qui couve.</gloss>, 
            <lb/>qui lui donnaient en ce moment pas mal de surcroît*<gloss>Surcroît. Ce qui s'ajoute à quelque chose pour en augmenter le poids ou l'importance.</gloss> de 
            <lb/>besogne, n'avait pu regarder que d'un œil aux agisse-
            <lb/>ments du galopin. Sur le coup de onze heures, toute la 
            <lb/>famille étant au lit depuis longtemps, un grand fracas 
            <lb/>d'écroulement s'entendit soudain.</p>
-           <p>Suzette, M. Dumay, se levèrent, accoururent :</p>                       
+           <p><persName type="fictif" key="suzette">Suzette</persName>, <persName type="fictif" key="m_dumay">M. Dumay</persName>, se levèrent, accoururent :</p>                       
            <p>— Qu'est cela ? Qui va là ? </p>
-           <p>Profond silence. Castor, le chien de garde, n'aboyait 
+           <p>Profond silence. <persName type="fictif" key="castor">Castor</persName>, le chien de garde, n'aboyait 
            <lb/>que légèrement.</p>
-           <p>M. Dumay ouvrit la seconde porte, celle de la cham-
-           <lb/>bre de MM. François et Charlot. Si Charlot s'était 
+           <p><persName type="fictif" key="m_dumay">M. Dumay</persName> ouvrit la seconde porte, celle de la cham-
+           <lb/>bre de MM. <persName type="fictif" key="françois">François</persName> et <persName type="fictif" key="charlot">Charlot</persName>. Si <persName type="fictif" key="charlot">Charlot</persName> s'était 
            <lb/>réveillé au bruit, il ronflait maintenant.</p>
-           <p>Mais M. François s'épongeait le nez au-dessus de sa 
+           <p>Mais M. <persName type="fictif" key="françois">François</persName> s'épongeait le nez au-dessus de sa 
            <lb/>cuvette, et le nez saignait beaucoup.</p>
            <p>— Eh bien ! qu'est-ce que c'est ? </p>
-           <p>— La machine, papa, c'est la machine...</p>
+           <p>— La machine, <persName type="fictif" key="m_dumay">papa</persName>, c'est la machine...</p>
            <p>— Quelle machine, Monsieur?</p>
-           <p>— La machine à éteindre la chandelle, papa.</p>
+           <p>— La machine à éteindre la chandelle, <persName type="fictif" key="m_dumay">papa</persName>.</p>
            </div2>
            <div2 type="questionnaire">
            <head>Questionnaire.</head>
            <list>
-           <item>— Quelles réflexions fit M. Dumay après avoir lu la lettre de son fils ?</item> 
-           <item>— Pourquoi disait-il que François était un polisson ?</item> <cb/>
+           <item>— Quelles réflexions fit <persName type="fictif" key="m_dumay">M. Dumay</persName> après avoir lu la lettre de son fils ?</item> 
+           <item>— Pourquoi disait-il que <persName type="fictif" key="françois">François</persName> était un polisson ?</item> 
            <item>— Qu'indiquaient les polissonneries de cet enfant ?</item> 
            <item>— Qu'est-ce qu'on entendit, une nuit, vers onze heures ?</item> 
-           <item>— Qu'aperçut M. Dumay en pénétrant dans la chambre de ses garçons ?</item> 
-           <item>— Comment François expliqua-t-il l'accident ?</item>
+           <item>— Qu'aperçut <persName type="fictif" key="m_dumay">M. Dumay</persName> en pénétrant dans la chambre de ses garçons ?</item> 
+           <item>— Comment <persName type="fictif" key="françois">François</persName> expliqua-t-il l'accident ?</item>
            </list>
            </div2>
             
@@ -203,7 +203,8 @@
            <item>— Quels soins réclament-ils ? </item> 
            <item>— Décrire un cerisier : tronc, feuilles, fleurs, fruits.</item> 
            <item>— Récolte des cerises ; leur vente ; qualités de ces fruits.</item> 
-           <item>— Espèces de cerisiers. — Prix d'un kilogramme de fruits de chaque espèce.</item> 
+           <item>— Espèces de cerisiers. </item>
+           <item>— Prix d'un kilogramme de fruits de chaque espèce.</item> 
            <item>— (Mêmes questions pour le poirier et le pommier).</item>
            </list>
            </div4>
@@ -229,17 +230,17 @@
            <lb/>raissent de bonne heure, sous la forme de petites boules vertes qui, 
            <lb/>peu à peu, se gonflent d'un suc frais et sucre, et qui prennent une 
            <lb/>belle couleur rouge. On cueille les cerises au mois de juin dans la 
-           <lb/>plus grande partie de la France, et elles sont recherchées pour leur 
+           <lb/>plus grande partie de la <placeName type="france">France</placeName>, et elles sont recherchées pour leur 
            <lb/>saveur délicieuse comme pour leurs propriétés rafraîchissantes.</p>
            <p>Les <term>principales espèces de cerises</term> sont : les cerises douces, dont les 
-           <lb/>meilleures se cultivent à Montmorency et dans les environs d'Auxerre, 
+           <lb/>meilleures se cultivent à <placeName type="france">Montmorency</placeName> et dans les environs d'<placeName type="france">Auxerre</placeName>, 
            <lb/>les bigarreaux, les cerises jaunes, les cerises aigres et les merises, au 
            <lb/>suc presque noir.</p>
            </div4>
            </div3>
            
            <pb type="page" n="81"/>
-           <fw type="header">LE SECRET DE LUDIVINE.	81</fw>
+           <fw type="header">LE SECRET DE LUDIVINE. 81</fw>
               
            <div3 type="économie_domestique">
            <head>Économie domestique.</head> 
@@ -302,7 +303,7 @@
            <head>Hygiène.</head> 
            <div4 type="questions">
            <list>
-           <item>— A quel moment faut-il manger les fruits?</item> 
+           <item>— A quel moment faut-il manger les fruits ? </item> 
            <item>— Quelles suites fâcheuses résultent, pour la nourriture des enfants, de l'usage des fruits à demi mûrs ? </item>
            </list>
            </div4>
