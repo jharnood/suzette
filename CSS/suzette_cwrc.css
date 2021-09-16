@@ -540,12 +540,22 @@ div1 > head:before{
     color: black;
     background-color: inherit;
 }
+div1 > lb{ /* DKJ trying to get line breaks to render 09/16/21 */
+	display:block;
+	line-height: .5em;
+}
 div2 > head:before{
     /*    content : counter(div1) "." counter(div2) ". ";
 */
     color: black;
     background-color: inherit;
 }
+
+div2 > lb{ /* DKJ trying to get line breaks to render 09/16/21 */
+	display:block;
+	line-height: .5em;
+}
+
 div3 > head:before{
     /*    content : counter(div1) "." counter(div2) "." counter(div3) ". ";
 */
@@ -571,13 +581,6 @@ body > div > div > div > head:before{
     background-color: inherit;
 }
 
-/* Trying to add "Chapitre" before chapter # 
-head:before{
-    content: "Chapitre ";
-    font-weight: bold;
-    font-size: 1.2em; 
-}
- * /
 /* Suzette working on head section */
 head {
     color: black;
@@ -739,7 +742,7 @@ langUsage{
 
 lb{
     display: block;
-    margin-bottom: -1.2em; /* shrinks white space between lines */
+    margin-bottom: -1em; /* shrinks white space between lines */
 }
 
 lb:before{
