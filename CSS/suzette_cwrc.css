@@ -742,9 +742,9 @@ lb{
     margin-bottom: -1.2em; /* shrinks white space between lines */
 }
 
-/*  lb:before{
+lb:before{
     content: "";
-}*/
+}
 
 lg{
     display: block;
