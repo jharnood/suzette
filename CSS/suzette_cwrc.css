@@ -1248,9 +1248,9 @@ unclear{
     background-color: inherit;
     font-style: italic;
 }
-/* header-related material */
+/* header-related material -- DKJ testing hide teiHeader 09/19/21 */
 teiHeader{
-    display: block;
+    display: none;
     color: gray;
     background-color: rgb(251, 242, 234);
     padding: .5em;

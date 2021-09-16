@@ -291,6 +291,9 @@
       				  <valItem ident="vincent" mode="add">
       				    <desc>Vincent</desc>
       				  </valItem>
+      				  <valItem ident="lejoly" mode="add">
+      				    <desc>Florentin Lejoly</desc>
+      				  </valItem>
       				</valList>
       			</attDef>
 <!--      		  <attDef ident="corresp" mode="delete"/>
