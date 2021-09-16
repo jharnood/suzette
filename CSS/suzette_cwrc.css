@@ -741,9 +741,11 @@ lb{
     display: inline;
     margin-bottom: -1em; /* shrinks white space between lines */
 }
-lb:before{
+
+/*  lb:before{
     content: "";
-}
+}*/
+
 lg{
     display: block;
     margin-bottom: 0.5em;
@@ -878,11 +880,11 @@ orgName{
     display: inline;
     color: red;
 }
-
+/* Experimenting with hiding bottom margin and line height to shrink space between lines */
 p{
     display: block;
-    margin-bottom: 0.5em;
-    line-height: 2em;
+    /*  margin-bottom: 0.5em;
+    line-height: 2em;*/
 }
 
 pb{
