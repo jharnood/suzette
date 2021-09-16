@@ -736,10 +736,10 @@ langUsage{
     display: block;
     margin-bottom: 1em;
 }
-/* testing change from block to inline to shrink space */
+
 lb{
-    display: inline;
-    margin-bottom: -1em; /* shrinks white space between lines */
+    display: block;
+    margin-bottom: -1.2em; /* shrinks white space between lines */
 }
 
 /*  lb:before{
