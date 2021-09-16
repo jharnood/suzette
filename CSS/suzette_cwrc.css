@@ -484,6 +484,8 @@ gloss{
     display: inline;
     font-style: italic;
     color: #999;
+    vertical-align: super;
+    font-size: smaller;
 }
 group{
     display: block;
@@ -786,36 +788,6 @@ mentioned{
 milestone{
     display: none;
 }
-/* IF WE WANT TO FIND AN OFFSET COLOR FOR SOME OF THE TAGGED NAMES 
-name{ 
-    display: inline;
-    color: purple;    testing adding color for names in documents 
-}*/
-
-name[event] {
-    display: inline;
-    color: green;
-}
-
-name[health] {
-    display: inline;
-    color: purple;
-}
-
-name[occupation] {
-    display: inline;
-    color: orange;
-}
-
-name[office] {
-    display: inline;
-    color: orange;
-}
-
-name[emotion] {
-    display: inline;
-    color: #eb34a8;
-}
 
 note{
     display: block;
@@ -869,9 +841,9 @@ note[place = "inline"]:after{
     content: ')'
 }
 
-/* added foot note type as inline rather than block */
+/* added foot note type as inline rather than block - testing back as "block" DKJ 09/16/21 */
 note[type = "foot"]{
-    display: inline;
+    display: block;
     vertical-align: super;
     font-size: smaller;
 }
