@@ -85,8 +85,8 @@
             <lb/>donnait ses ordres à l'équipe*<gloss>Equipe. Compagnie d'ouvriers réunis pour un même travail.</gloss>.</p>
             <p>La maison s'élevait, le Crédit foncier ayant prêté trois 
             <lb/>mille cinq cents francs sur les terres.</p>
-            <p>On rebâtissait suivant un plan nouveau ; Jacques et 
-            <lb/>Suzette avaient voulu, contre l'humidité, l'exhaussement*<gloss>Exhausser. Elever en hauteur.</gloss> 
+            <p>On rebâtissait suivant un plan nouveau ; <persName type="fictif" key="jacques">Jacques</persName> et 
+            <lb/><persName type="fictif" key="suzette">Suzette</persName> avaient voulu, contre l'humidité, l'exhaussement*<gloss>Exhausser. Elever en hauteur.</gloss> 
             <lb/>sur quelques marches, l'exposition au midi, l'aérage*<gloss>Aérage. Renouvellement de l’air d'un lieu.</gloss> 
             <lb/>par des fenêtres opposées, enfin des prises d'air aussi 
             <lb/>hautes et aussi larges que possible, l'air et la lumière
@@ -102,9 +102,9 @@
             <p>Mais aussi on gagnait soi-même son argent. Aux 
             <lb/>heures de liberté que laissaient le travail des champs 
             <lb/>et celui de l'école, tout le monde se mettait au service 
-            <lb/>du maçon. François, surtout, s'en donnait là comme 
+            <lb/>du maçon. <persName type="fictif" key="françois">François</persName>, surtout, s'en donnait là comme 
             <lb/>quatre.</p>
-            <p>Pendant ce temps, Suzette faisait la cuisine chez Lu-
+            <p>Pendant ce temps, <persName type="fictif" key="suzette">Suzette</persName> faisait la cuisine chez Lu-
             <lb/>divine pour la nourriture des travailleurs.</p>
             <p>Enfin le toit se couronna, d'un « mai », une branche 
             <lb/>de verdure ; le nou-
@@ -131,8 +131,8 @@
             <lb/>selon l'emploi de leurs rayons, un dressoir à vaisselle 
             <lb/>et une bibliothèque.</p>
             <p>La seule dépense un peu grosse fut celle d'une pièce de 
-            vingt francs, qu'on échangea, dans une vente, pour un 
-            gros bahut tant soit peu bancal*<gloss>Bancal. Qui' n'est pas d'aplomb sur ses pieds.</gloss> et disloqué*<gloss>Disloqué. A moitié brisé.</gloss>. Mais ses
+            <lb/>vingt francs, qu'on échangea, dans une vente, pour un 
+            <lb/>gros bahut tant soit peu bancal*<gloss>Bancal. Qui' n'est pas d'aplomb sur ses pieds.</gloss> et disloqué*<gloss>Disloqué. A moitié brisé.</gloss>. Mais ses
                 
             <figure>
             <caption>Les corps de métiers 
@@ -148,10 +148,10 @@
                         
             <lb/>moulures et quelques fioritures*<gloss>Fioritures. Ornements de peu d'importance.</gloss> qu'une couche de 
             <lb/>couleur jaune clair, ne parvenait pas à dissimuler 
-            <lb/>entièrement, rappelaient à Suzette celui d'autrefois, le 
+            <lb/>entièrement, rappelaient à <persName type="fictif" key="suzette">Suzette</persName> celui d'autrefois, le 
             <lb/>bahut de famille envolé en fumée.</p>
             <p>Et voici qu'une fois lessivé de son jaune, guéri de sa 
-            <lb/>boiterie par les bons soins de Jacques et de François, 
+            <lb/>boiterie par les bons soins de <persName type="fictif" key="jacques">Jacques</persName> et de <persName type="fictif" key="françois">François</persName>, 
             <lb/>bien rassis sur ses gonds, tout brillant d'encaustique*<gloss>Encaustique. Mélange de cire et d'essence de térébenthine.</gloss>,
             <lb/>caressé artistement de la brosse et de la flanelle, ce fut 
             <lb/>un bahut de noyer façonné de la bonne manière, et qui 
@@ -175,7 +175,7 @@
             <item>— Comment le fermier s'était-il procuré les fonds nécessaires à la reconstruction de sa maison ? </item>
             <item>— Quel plan avait-on adopté ? Donnez quelques détails à cet égard.</item>
             <item>— Quand et comment aidait-on les maçons ? </item>
-            <item>— A quoi s'occupait Suzette ? </item>
+            <item>— A quoi s'occupait <persName type="fictif" key="suzette">Suzette</persName> ? </item>
             <item>— Parlez du nouveau mobilier.</item>
             <item>— À quel usage avait-on affecté une somme de 20 francs ? </item>
             <item>— Comment remit-on à neuf le vieux meuble ? </item>
@@ -255,9 +255,19 @@
             <lb/>qui ont pour origine les laves vomies par les volcans; elles sont dures, 
             <lb/>souvent poreuses et de couleur noire ou brun foncé. Tels sont les 
             <lb/><term>basaltes</term>, les <term>gneiss</term>, les <term>trachytes</term>.</p>
-            <p>Les pierres calcaires, les granits, le grès, le gypse, la craie, les pierres volcaniques servent aux constructions ordinaires; le marbre est employé pour les monuments, les statues et divers ornements.</p>
-            <p><term>La chaux</term> n'est pas autre chose que de la pierre calcaire qui a été sottiniso, dans des fours, à une haute température; elle jouit de la propriété de former pâte avec de l'eau. Dans cet état, on l'emploie à la confection des mortiers.</p>
-            <p><term>Le plâtre</term> est du gypse qu'on a soumis à une haute température dans des fours, et qu'on a ensuite réduit en poudre. Délayé dans de l'eau, il durcit rapidement; aussi convient-il pour joindre les pierres des murailles et enduire les diverses parties d'un bâtiment. Au printemps, on le répand, à l'état naturel sur les prairies artificielles pour en augmenter le produit.</p>
+            <p>Les pierres calcaires, les granits, le grès, le gypse, la craie, les pierres 
+            <lb/>volcaniques servent aux constructions ordinaires; le marbre est 
+            <lb/>employé pour les monuments, les statues et divers ornements.</p>
+            <p><term>La chaux</term> n'est pas autre chose que de la pierre calcaire qui a été 
+            <lb/>soumise, dans des fours, à une haute température; elle jouit de la pro-
+            <lb/>priété de former pâte avec de l'eau. Dans cet état, on l'emploie à la 
+            <lb/>confection des mortiers.</p>
+            <p><term>Le plâtre</term> est du gypse qu'on a soumis à une haute température dans 
+            <lb/>des fours, et qu'on a ensuite réduit en poudre. Délayé dans de l'eau, 
+            <lb/>il durcit rapidement; aussi convient-il pour joindre les pierres des 
+            <lb/>murailles et enduire les diverses parties d'un bâtiment. Au printemps, 
+            <lb/>on le répand, à l'état naturel sur les prairies artificielles pour en 
+            <lb/>augmenter le produit.</p>
             </div4>
             </div3>
             <div3 type="économie_domestique">
@@ -277,9 +287,9 @@
             </div4>
             <div4 type="réponses">
             <p>Pour établir un lit de jeune fille, la pièce la plus importante est le 
-            <lb/>meuble qui est en bois ou en fer; puis viennent le sommier ou ta pail-
+            <lb/>meuble qui est en bois ou en fer; puis viennent le sommier ou la pail-
             <lb/>lasse, les matelas, des draps, un traversin, un oreiller, une couverture 
-            <lb/>de laine, uno autre de coton, un édredon pour la saison d'hiver, enfin 
+            <lb/>de laine, une autre de coton, un édredon pour la saison d'hiver, enfin 
             <lb/>une courtepointe qui recouvre le tout. Souvent on y ajoute un lit de 
             <lb/>plume et on le garnit de rideaux légers.</p>
             <p>Pour <term>faire un lit</term> où l'on a passé la nuit, on enlève et dépose suc-
@@ -289,18 +299,18 @@
             <pb type="page" n="142"/>
             <fw type="header">142 SUZETTE.</fw>
                 
-            <lb/>paillasse, on en remue le contenu on passant la main par les ouver-
+            <lb/>paillasse, on en remue le contenu en passant la main par les ouver-
             <lb/>tures pratiquées à cet effet, et on lui donne une forme légèrement 
             <lb/>bombée au milieu. Après que les diverses pièces du lit ont été exposées 
             <lb/>quelque temps à l'air, on les replace dans l'ordre habituel, en enga-
             <lb/>geant les draps et les couvertures sous les matelas et sous le traversin 
             <lb/>qui en est entouré ; enfin on arrange la courtepointe sur le tout, et on 
-            <lb/>place l'édredon on dornier lieu. Remarquons que la courtepointe est 
+            <lb/>place l'édredon en dernier lieu. Remarquons que la courtepointe est 
             <lb/>toujours enlevée lorsqu'on prépare le lit pour le coucher.</p>
             <p>Les lits doivent être placés de préférence au milieu de la chambre, 
             <lb/>le dos du meuble étant appuyé contre le mur: le plus souvent, on les 
             <lb/>installe dans un angle de la pièce pour la facilité de la circulation. Il 
-            <lb/>est malsain de los renfermer dans des alcôves closes par des rideaux, 
+            <lb/>est malsain de les renfermer dans des alcôves closes par des rideaux, 
             <lb/>parce que l'air s'y renouvelle difficilement.</p>
             <p>Avant de faire le lit, il est nécessaire de renouveler l'air do la pièce 
             <lb/>en laissant les fenêtres grandes ouvertes et, comme nous l'avons dit, 
