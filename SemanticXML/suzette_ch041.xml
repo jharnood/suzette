@@ -77,13 +77,13 @@
       <body>
          <div1 type="chapitre" n="041">
          <pb type="page" n="142"/>
-         <head>41. — Veillons au grain*. (Élève, p. 90.)</head>
+         <head>41. — Veillons au grain*<gloss>Veiller au grain. Faire attention à ce qui doit ou peut survenir.</gloss>. (Élève, p. 90.)</head>
          <div2 type="récit">
          <p> Et les terres ? C'est maintenant qu'elles doivent 
          <lb/>rendre ce qu'emporta le feu ! c'est maintenant qu'il faut 
          <lb/>les ensemencer, les soigner, les pomponner de la herse
          <lb/>et de la charrue ! </p>
-         <p> Jacques eut, par l'école d'agriculture, tous les ren-
+         <p><persName type="fictif" key="jacques">Jacques</persName> eut, par l'école d'agriculture, tous les ren-
          <lb/>seignements qu'il fallut. Un de ses professeurs offrit 
          <lb/>même de lui prêter une petite somme d'argent. On 
          <lb/>y joignit tout ce qu'il en restait ici. On savait que c'était 
@@ -116,7 +116,7 @@
          <lb/>vous qu'elle le livre contre des pierres ? Oui, elle doit 
          <lb/>manger, et du bon, pour que nous-mêmes nous man-
          <lb/>gions du meilleur. </p>
-         <p> A François et à Charlot, 
+         <p> A <persName type="fictif" key="françois">François</persName> et à <persName type="fictif" key="charlot">Charlot,</persName> 
          <lb/>il dénonçait le chiendent, la 
          <lb/>camomille, l'ortie, le char-
          <lb/>don, la fumeterre comme 
@@ -167,7 +167,7 @@
          <pb type="page" n="144"/>
          <fw type="header"> 144 SUZETTE. </fw>
                
-         <p> Mais un matin de jeudi que Charlot, chargé de la 
+         <p> Mais un matin de jeudi que <persName type="fictif" key="charlot">Charlot</persName>, chargé de la 
          <lb/>chasse aux lacerons pour le déjeuner de messieurs les 
          <lb/>lapins, s'asseyait sur son sac, à peu près 
          <lb/>plein, pour casser une croûte, il fut 
@@ -196,21 +196,21 @@
          <p> Il s'approcha, les tâta ; tout vint sans 
          <lb/>effort, tige, collet et racine. La racine 
          <lb/>était creusée à l'intérieur. </p>
-         <p> Charlot, qui ne plaisantait pas avec sa 
+         <p> <persName type="fictif" key="charlot">Charlot</persName>, qui ne plaisantait pas avec sa 
          <lb/>surveillance, courut à cinq cents pas du
-         <lb/>champ, où Jacques, en compagnie de 
-         <lb/>Suzette, était à planter des pommes de 
+         <lb/>champ, où <persName type="fictif" key="jacques">Jacques</persName>, en compagnie de 
+         <lb/><persName type="fictif" key="suzette">Suzette</persName>, était à planter des pommes de 
          <lb/>terre, et les amena tous deux. </p>
          </div2>
          <div2 type="questionnaire">
          <head> Questionnaire. </head>
          <list>
          <item>— Qu'est-ce qu'il était alors nécessaire d'exiger des terres ? </item>
-         <item>— Qui vint en aide à Jacques et de quelle manière ? </item>
+         <item>— Qui vint en aide à <persName type="fictif" key="jacques">Jacques</persName> et de quelle manière ? </item>
          <item>— Que répondait-il à son père inquiet des dépenses faites pour améliorer les terres ? </item>
-         <item>— Que signalait Jacques à ses deux jeunes frères ? </item>
+         <item>— Que signalait <persName type="fictif" key="jacques">Jacques</persName> à ses deux jeunes frères ? </item>
          <item>— Que leur prescrivait-il à l'égard des mauvaises herbes ? </item>
-         <item>— Que faisait Charlot, dans les champs, un certain jeudi ? </item>
+         <item>— Que faisait <persName type="fictif" key="charlot">Charlot</persName>, dans les champs, un certain jeudi ? </item>
          <item>— Qu'est-ce qui s'étendait devant lui ? </item>
          <item>— Que remarqua-t-il dans le champ de betteraves ? </item>
          <item>— Comment s'y prit-il pour découvrir la cause du mal ? </item>
@@ -249,7 +249,7 @@
          <item>LA POMME DE TERRE.</item>
          <item>— Décrire la plante.</item>
          <item>— Parler de la manière de la cultiver, des terrains qu'elle affectionne, des principales espèces de cette plante.</item>
-         <item>— Raconter comment Parmentier la fit adopter comme plante alimentaire.</item>
+         <item>— Raconter comment <persName type="historique">Parmentier</persName> la fit adopter comme plante alimentaire.</item>
          </list>
          </div4>   
          <div4 type="réponses">   
@@ -278,18 +278,18 @@
          <p>La pomme de terre <term>Chardin</term>, grosse, jaune, avec des yeux profonds ; </p>
          <p>La pomme de terre <term>Champien</term>, blanche, ronde, dont les tubercules
          <lb/>sont d'excellente qualité. </p>
-         <p><term>La pomme de terre</term>, importée en Angleterre en 1568, passa de là en 
-         <lb/>Hollande et en France ; mais elle ne fut cultivée dans notre pays que
+         <p><term>La pomme de terre</term>, importée en <placeName type="europe">Angleterre</placeName> en 1568, passa de là en 
+         <lb/><placeName type="europe">Hollande</placeName> et en <placeName type="france" subtype="pays">France</placeName> ; mais elle ne fut cultivée dans notre pays que
          <lb/>comme un fruit rare et précieux. Ce fut à la suite de la grande famine 
-         <lb/>de 1771 que, l'académie de Besançon ayant proposé pour sujet de con-
+         <lb/>de 1771 que, l'académie de <placeName type="france" subtype="commune">Besançon</placeName> ayant proposé pour sujet de con-
          <lb/>cours « la recherche de substances pouvant atténuer les calamités de 
-         <lb/>la disette » , Parmentier (natif de Montdidier) se mit à étudier la pomme 
+         <lb/>la disette » , <persName type="historique">Parmentier</persName> (natif de <placeName type="france" subtype="commune">Montdidier</placeName>) se mit à étudier la pomme 
          <lb/>de terre. En 1779, il prouva qu'elle renferme tous les principes d'un 
          <lb/>aliment substantiel et sain. Sa démonstration cependant ne convainquit 
          <lb/>personne et rencontra les plus étranges préjugés. Il ne perdit pas 
-         <lb/>courage, acheta près de Versailles la concession d'un vaste terrain sa-
+         <lb/>courage, acheta près de <placeName type="france" subtype="commune">Versailles</placeName> la concession d'un vaste terrain sa-
          <lb/>blonneux et y planta des pommes de terre. Peu à peu, grâce à la 
-         <lb/>protection éclairée de Louis XVI, on apprécia le précieux tubercule, 
+         <lb/>protection éclairée de <persName type="historique">Louis XVI</persName>, on apprécia le précieux tubercule, 
          <lb/>on en mangea sur les tables des riches, et bientôt la culture s'en éten-
          <lb/>dit rapidement. </p>
          </div4>   

@@ -418,7 +418,7 @@ bibl extent{
 
 /* Suzette - formwords */
 fw{
-   display:inline-block;
+   display:block;
    color: black;
    font-style: italic;
    margin-bottom: 1em;
@@ -484,6 +484,8 @@ gloss{
     display: inline;
     font-style: italic;
     color: #999;
+    vertical-align: super;
+    font-size: smaller;
 }
 group{
     display: block;
@@ -538,12 +540,22 @@ div1 > head:before{
     color: black;
     background-color: inherit;
 }
+div1 > lb{ /* DKJ trying to get line breaks to render 09/16/21 */
+	display:block;
+	line-height: .5em;
+}
 div2 > head:before{
     /*    content : counter(div1) "." counter(div2) ". ";
 */
     color: black;
     background-color: inherit;
 }
+
+div2 > lb{ /* DKJ trying to get line breaks to render 09/16/21 */
+	display:block;
+	line-height: .5em;
+}
+
 div3 > head:before{
     /*    content : counter(div1) "." counter(div2) "." counter(div3) ". ";
 */
@@ -569,13 +581,6 @@ body > div > div > div > head:before{
     background-color: inherit;
 }
 
-/* Trying to add "Chapitre" before chapter # 
-head:before{
-    content: "Chapitre ";
-    font-weight: bold;
-    font-size: 1.2em; 
-}
- * /
 /* Suzette working on head section */
 head {
     color: black;
@@ -734,13 +739,16 @@ langUsage{
     display: block;
     margin-bottom: 1em;
 }
+
 lb{
     display: block;
     margin-bottom: -1em; /* shrinks white space between lines */
 }
+
 lb:before{
     content: "";
 }
+
 lg{
     display: block;
     margin-bottom: 0.5em;
@@ -785,36 +793,6 @@ mentioned{
 }
 milestone{
     display: none;
-}
-/* IF WE WANT TO FIND AN OFFSET COLOR FOR SOME OF THE TAGGED NAMES 
-name{ 
-    display: inline;
-    color: purple;    testing adding color for names in documents 
-}*/
-
-name[event] {
-    display: inline;
-    color: green;
-}
-
-name[health] {
-    display: inline;
-    color: purple;
-}
-
-name[occupation] {
-    display: inline;
-    color: orange;
-}
-
-name[office] {
-    display: inline;
-    color: orange;
-}
-
-name[emotion] {
-    display: inline;
-    color: #eb34a8;
 }
 
 note{
@@ -869,9 +847,9 @@ note[place = "inline"]:after{
     content: ')'
 }
 
-/* added foot note type as inline rather than block */
+/* added foot note type as inline rather than block - testing back as "block" DKJ 09/16/21 */
 note[type = "foot"]{
-    display: inline;
+    display: block;
     vertical-align: super;
     font-size: smaller;
 }
@@ -905,7 +883,6 @@ orgName{
     display: inline;
     color: red;
 }
-
 p{
     display: block;
     margin-bottom: 0.5em;
@@ -1248,9 +1225,9 @@ unclear{
     background-color: inherit;
     font-style: italic;
 }
-/* header-related material */
+/* header-related material -- DKJ testing hide teiHeader 09/19/21 */
 teiHeader{
-    display: block;
+    display: none;
     color: gray;
     background-color: rgb(251, 242, 234);
     padding: .5em;

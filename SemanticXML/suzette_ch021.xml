@@ -85,7 +85,7 @@
                <pb type="page" n="76" />
                <p> « Le Paraclet est charmant*<gloss>Charmant. Très agréable.</gloss>. L'école, bâtie sur le 
                   <lb/>flanc d'une colline, domine une belle vallée où coulent 
-                  <lb/>l'Avre et la Moye. Un petit village
+                  <lb/><placeName type="france">l'Avre</placeName> et <placeName type="france">la Moye</placeName>. Un petit village
                   de maisonnettes 
                   <lb/>rouges et blanches, avec son clocher qui ressemble à 
                   <lb/>celui de Fragicourt, c'est notre horizon. </p>
@@ -104,7 +104,7 @@
                   <lb/>greffera* <gloss>Greffer. Fixer, dans la fente d'une tige d'arbre, une petite branche que l'on coupe sur un arbre de meilleure espèce.</gloss> ! Et quels beaux
                   fruits mangeront ceux qui les 
                   <lb/>aiment, par exemple, une jeune fermière de ma 
-                  <lb/>connaissance qu'on appelle Suzette ! </p>
+                  <lb/>connaissance qu'on appelle <persName type="fictif" key="suzette">Suzette</persName> ! </p>
                <p> « La chimie agricole surtout me passionne. Quelle res-
                   <lb/>source pour l'agronome* <gloss>Agronome. Celui qui s'occupe de perfectionner l'agriculture.</gloss> ! La chimie vous
                   analyse*<!--Analyse has an asterisk but no definitin in the lexique--> une 

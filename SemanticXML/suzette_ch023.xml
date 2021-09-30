@@ -168,12 +168,12 @@
             <p>— Trois jours et trois nuits garde-le-moi là où il est, 
             <lb/>dit <persName type="fictif" key="ludivine">Ludivine</persName>, et tu seras pour longtemps à l'abri des 
             <lb/>maux de nez et même d'oreilles. Ma grand-mère, ma 
-            <lb/>mère en ont guéri beaucoup... et demande à Plectrude, 
-            <lb/>à Jean-Marie, à Morisot, si je leur ai fait du mal.</p>
+            <lb/>mère en ont guéri beaucoup... et demande à <persName type="historique">Plectrude</persName>, 
+            <lb/>à <persName type="historique">Jean-Marie</persName>, à <persName type="historique">Morisot</persName>, si je leur ai fait du mal.</p>
             <p>Mais, le soir, la douleur commencée avec l'applica-
             <lb/>tion de la toile d'araignée s'accrut beaucoup.</p>
             <p>— Pff ! pff ! qu'est-ce que c'est que ça? répétait 
-            <lb/>François.</p>
+            <lb/><persName type="fictif" key="françois">François</persName>.</p>
             <p>Cependant, comme il voulait guérir au plus vite 
             <lb/>pour chercher une ficelle plus solide et reprendre son
             
@@ -182,17 +182,17 @@
                     
             <lb/>expérience*<gloss>Expérience. Epreuve, essai que l'on fait pour découvrir ou pour arriver à démontrer une vérité.</gloss>, ou quelque autre de ce genre, il tenait 
             <lb/>bravement.</p>
-            <p>Mais Suzette devenait inquiète.</p>
+            <p>Mais <persName type="fictif" key="suzette">Suzette</persName> devenait inquiète.</p>
             </div2>
 
             <div2 type="questionnaire">
             <head>Questionnaire.</head>
             <list>
-            <item>— En quels termes François acheva-t-il le récit des causes de  l'accident ? </item>
-            <item>— Que dit et fit Suzette pour apaiser la colère de M. Dumay et pour soulager François ?</item>
+            <item>— En quels termes <persName type="fictif" key="françois">François</persName> acheva-t-il le récit des causes de  l'accident ? </item>
+            <item>— Que dit et fit <persName type="fictif" key="suzette">Suzette</persName> pour apaiser la colère de <persName type="fictif" key="m_dumay">M. Dumay</persName> et pour soulager <persName type="fictif" key="françois">François</persName> ?</item>
             <item>— Quel remède singulier indiqua le père et comment se le procura-t-on ? </item>
             <item>— Comment se comporte le nez pendant la nuit ? </item>
-            <item>— Quel remède secret prépara Ludivine ?</item>
+            <item>— Quel remède secret prépara <persName type="fictif" key="ludivine">Ludivine</persName> ?</item>
             <item>— Racontez comment il fut appliqué par elle et accueilli par le malade ? </item>
             <item>— Quels conseils donna la voisine pour assurer le succès de son emplâtre ? </item>
             </list>
@@ -205,7 +205,7 @@
             <div4 type="questions">
             <list type="exercices">
             <item>— Faut-il se moquer des enfants qui s'amusent à confectionner des machines ?</item>
-            <item>— Pourquoi ?</item>
+            <item>— Pourquoi ? </item>
             <item>— Connaissez-vous des enfants auxquels on doit des découvertes utiles ?</item>
             <item>— Résultats fâcheux des moqueries entre élèves.</item>
             </list>
@@ -220,8 +220,8 @@
             <lb/>utile à la société.</p>
             <p>C'est à un enfant qu'on doit la découverte de l'appareil qui règle
             <lb/>l'entrée et la sortie de la vapeur dans le cylindre où se meut le piston 
-            <lb/>de la machine ; Galilée, enfant, remarqua à l'église les mouvements 
-            <lb/>égaux d'une lampe suspendue et imagina le pendule ; Franklin, enfant 
+            <lb/>de la machine ; <persName type="historique">Galilée</persName>, enfant, remarqua à l'église les mouvements 
+            <lb/>égaux d'une lampe suspendue et imagina le pendule ; <persName type="historique">Franklin</persName>, enfant 
             <lb/>aussi, fit une observation pendant un orage en jouant au cerf-volant, 
             <lb/>et plus tard en tira l'idée du paratonnerre. On raconte que l'usage des 
             <lb/>lunettes provient de la remarque d'un petit Hollandais qui regardait 
