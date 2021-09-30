@@ -79,7 +79,7 @@
             <pb type="page" n="129"/>    
             <head>37. — Fraternité. (Élève, p. 83.)</head>
             <div2 type="récit">
-            <p>Sous l’auvent* <gloss>Auvent. Petit toit en saillie au-dessus d'une porte ou d'un étalage.</gloss> du pignon de la grange détérioré * <gloss>Détérioré. En mauvais état, gâté.</gloss> par 
+            <p>Sous l’auvent* <gloss>Auvent. Petit toit en saillie au-dessus d'une porte ou d'un étalage.</gloss> du pignon de la grange détérioré* <gloss>Détérioré. En mauvais état, gâté.</gloss> par 
             <lb/>la pompe à incendie, une hirondelle, tenant au bec 
             <lb/>un peu de boue, l’ajou-
             <lb/>tait vivement à un pe-
@@ -114,7 +114,7 @@
             <lb/>ternel, la famille Dumay, rassemblée à quelques pas de 
             <lb/>la grange, le contemplait avec une admiration attendrie : </p>
             <p>— Pourquoi les hommes ne viennent-ils pas ainsi 
-            <lb/>en aide; à l'homme malheureux ? demanda Suzette.</p>
+            <lb/>en aide; à l'homme malheureux ? demanda <persName type="fictif" key="suzette">Suzette</persName>.</p>
             <p>— Ils ont trop à faire, répondit douloureusement le 
                 
             <figure>
@@ -138,7 +138,7 @@
             <lb/>même dans son bien pour songer au bien général, et 
             <lb/>pour comprendre enfin que ce bien général c'est encore 
             <lb/>le meilleur bien particulier !</p>
-            <p> — Mon père, dit Jacques, il existe des compagnies 
+            <p> — Mon père, dit <persName type="fictif" key="jacques">Jacques</persName>, il existe des compagnies 
             <lb/>d'assurances * <gloss>Compagnies d'assurances. Sociétés où l'on s'assure contre l'incendie, la  grêle et autres risques.</gloss>... Il est vrai que ce n'est pas tout à fait 
             <lb/>la même chose.</p>
             <p>— Non, ce n'est pas la même chose, mais j'aurais pu 
@@ -153,7 +153,7 @@
             <item>— Qui l'aidait dans son travail ? </item>
             <item>— Comment le nid fut-il achevé rapidement ? </item>
             <item>— Comparez cette façon de construire à celle du premier nid ? </item>
-            <item>— Quelle réflexion cette particularité, ce concours amical, inspira-t-il à Suzette ? </item>
+            <item>— Quelle réflexion cette particularité, ce concours amical, inspira-t-il à <persName type="fictif" key="suzette">Suzette</persName> ? </item>
             <item>— Reproduisez la réponse du père.</item>
             <item>— A quoi peut servir une assurance ? </item>
             <item>— Pourquoi tant de gens négligent-ils de s'assurer ? </item>
@@ -177,7 +177,7 @@
             <lb/>père, c'est-à-dire qui se prêtent un mutuel concours dans les cir-
             <lb/>constances difficiles, pratiquent la fraternité. Dans nul pays du monde 
             <lb/>on ne la pratique aussi largement ot aussi délicatement que dans notre
-            <lb/>France.</p>
+            <lb/><placeName type="france" subtype="pays">France</placeName>.</p>
             <p>Parmi les élèves d'une même école, la fraternité ne règne pas 
             <lb/>toujours. Combien d'entre elles sont égoïstes, duros, moqueuses à 
             <lb/>l'égard de leurs compagnes, surtout quand ces dernières sont faibles, 
@@ -188,7 +188,7 @@
             <lb/>qu'on appelle l'école. </p>
             <p>Mépriser, dédaigner la société d'une jeune fille douce, sage, bonne,
             <lb/>parce qu'elle appartient à une famille peu favorisée de la fortune, c'est 
-            <lb/>quelque chose à la fois de sot, de méchant et de lâche Parce que
+            <lb/>quelque chose à la fois de sot, de méchant et de lâche. Parce que
             
             <pb type="page" n="131"/>
             <fw type="header">FRATERNITÉ. 131</fw>
@@ -215,7 +215,8 @@
             <list>
             <item>— DES ASSURANCE.</item>
             <item>— Qu'est-ce que faire une assurance contre l'incendie ? </item>
-            <item>— Quel avantage en résulte? — Qu'est-ce que faire une assurance sur la vie ? </item>
+            <item>— Quel avantage en résulte ? </item>
+            <item>— Qu'est-ce que faire une assurance sur la vie ? </item>
             <item>— Quelle sécurité, quelle consolation est-ce pour un père, pour une mère ? </item>
             <item>— Quels avantages y a-t-il à faire une assurance sur la tête d'un enfant ? </item>
             </list>
@@ -257,7 +258,7 @@
             <lb/>veuve et chargée de trois enfants... (Comme précédemment.)</p>
             <p>(Voir, pour la manière d'établir le plan de ce récit et pour donner les
             <lb/>développements, page 150, Les vacances de Pâques, COURS DE COMPO-
-            <lb/>SITION FRANÇAISE (Degré élémentaire et moyen), par E. LAPORTE.)</p>
+            <lb/>SITION FRANÇAISE (Degré élémentaire et moyen), par <persName type="historique">E. LAPORTE</persName>.)</p>
             </div4>    
             </div3>
             <div3 type="industrie">
