@@ -1,5 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0"
-  xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -9,12 +8,9 @@
       <publicationStmt>
         <publisher>TEI Consortium</publisher>
         <availability status="free">
-          <p>TEI material can be licensed differently depending on the use you intend to make of it.
-            Hence it is made available under both the CC+BY and BSD-2 licences. The CC+BY licence is
-            generally appropriate for usages which treat TEI content as data or documentation. The
-            BSD-2 licence is generally appropriate for usage of TEI content in a software
-            environment. For further information or clarification, please contact the TEI Consortium
-            (info@tei-c.org).</p>
+          <p>TEI material can be licensed differently depending on the use you intend to make of it. Hence it is made available under both the CC+BY and BSD-2 licences. The CC+BY licence is generally
+            appropriate for usages which treat TEI content as data or documentation. The BSD-2 licence is generally appropriate for usage of TEI content in a software environment. For further
+            information or clarification, please contact the TEI Consortium (info@tei-c.org).</p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -25,7 +21,7 @@
   <text>
     <body>
       <schemaSpec ident="suzette_NewCustom" start="TEI teiCorpus" targetLang="en" docLang="en">
-        <moduleRef key="tei"/>
+        <moduleRef key="tei" />
         <!-- required -->
         <moduleRef key="core" />
         <moduleRef key="analysis" />
@@ -35,32 +31,29 @@
         <moduleRef key="drama" />
         <moduleRef key="figures" />
         <moduleRef key="header" />
-        <moduleRef key="linking"/>
-        <moduleRef key="msdescription"/>
-        <moduleRef key="namesdates"/>
+        <moduleRef key="linking" />
+        <moduleRef key="msdescription" />
+        <moduleRef key="namesdates" />
         <moduleRef key="textcrit" />
         <moduleRef key="textstructure" />
-        <moduleRef key="transcr"/>
-        <moduleRef key="tagdocs"/>
-        
+        <moduleRef key="transcr" />
+        <moduleRef key="tagdocs" />
         <!-- Customize DIV1 with @type chapitre -->
         <elementSpec ident="div1" mode="change">
-          <attList> 
+          <attList>
             <attDef ident="type" mode="change">
               <valList type="closed" mode="change">
                 <valItem mode="add" ident="chapitre">
                   <desc versionDate="2020-05-06">Chapitre</desc>
                 </valItem>
                 <valItem mode="add" ident="autre">
-                  <desc versionDate="2020-05-06">Autre (if used often, add another
-                    value)</desc>
+                  <desc versionDate="2020-05-06">Autre (if used often, add another value)</desc>
                 </valItem>
               </valList>
             </attDef>
           </attList>
         </elementSpec>
-        
-        <!-- Customize DIV2 to distinguish three kinds of content: Récit, Questionnaire, and Exercices -->        
+        <!-- Customize DIV2 to distinguish three kinds of content: Récit, Questionnaire, and Exercices -->
         <elementSpec ident="div2" mode="change">
           <attList>
             <attDef ident="type" mode="change">
@@ -78,32 +71,30 @@
             </attDef>
           </attList>
         </elementSpec>
- 
-<!-- Customize DIV3 to add key terms from Classification -->
+        <!-- Customize DIV3 to add key terms from Classification -->
         <elementSpec ident="div3" mode="change">
           <attList>
             <attDef ident="type" mode="change">
               <valList type="closed" mode="change">
-                <valItem ident="morale" mode="add"/>                
-                <valItem ident="instruction_civique" mode="add"/>
-                <valItem ident="civilité" mode="add"/>
-                <valItem ident="français" mode="add"/>
-                <valItem ident="composition" mode="add"/>
-                <valItem ident="histoire" mode="add"/>
-                <valItem ident="géographie" mode="add"/>
-                <valItem ident="sciences_naturelles" mode="add"/>
-                <valItem ident="sciences_physiques" mode="add"/>
-                <valItem ident="industrie" mode="add"/>
-                <valItem ident="économie_domestique" mode="add"/>
-                <valItem ident="hygiène" mode="add"/>
-                <valItem ident="agriculture" mode="add"/>
-                <valItem ident="calcul" mode="add"/>
-                <valItem ident="complexe" mode="add"/>
+                <valItem ident="morale" mode="add" />
+                <valItem ident="instruction_civique" mode="add" />
+                <valItem ident="civilité" mode="add" />
+                <valItem ident="français" mode="add" />
+                <valItem ident="composition" mode="add" />
+                <valItem ident="histoire" mode="add" />
+                <valItem ident="géographie" mode="add" />
+                <valItem ident="sciences_naturelles" mode="add" />
+                <valItem ident="sciences_physiques" mode="add" />
+                <valItem ident="industrie" mode="add" />
+                <valItem ident="économie_domestique" mode="add" />
+                <valItem ident="hygiène" mode="add" />
+                <valItem ident="agriculture" mode="add" />
+                <valItem ident="calcul" mode="add" />
+                <valItem ident="complexe" mode="add" />
               </valList>
             </attDef>
           </attList>
         </elementSpec>
-        
         <!-- Within DIV4 cutomize @type to distinguish questions and réponses -->
         <elementSpec ident="div4" mode="change">
           <attList>
@@ -119,181 +110,179 @@
             </attDef>
           </attList>
         </elementSpec>
-
-      	<!-- objectName: @key to distinguish among categorical information -->
-  	<elementSpec ident="objectName" mode="change">
-      		<attList>
-      			<attDef ident="key" mode="change">
-      				<valList mode="add" type="closed">
-      					<valItem ident="économie_domestique" mode="add">
-      						<desc>Économie Domestique</desc>
-      					</valItem>
-      					<valItem ident="industrie" mode="add">
-      						<desc>Industrie</desc>
-      					</valItem>
-      					<valItem ident="sciences_naturelles" mode="add">
-      						<desc>Sciences Naturelles</desc>
-      					</valItem>
-      					<valItem ident="sciences_physiques" mode="add">
-      						<desc>Notions Relatives aux Sciences Physiques</desc>
-      					</valItem>
-      				</valList>
-      			</attDef>
-      		</attList>
-  	</elementSpec>
-
-      	<!-- objectName: @type to distinguish among categorical information -->
-      	<elementSpec ident="objectName" mode="change">
-      		<attList>
-      			<attDef ident="type" mode="change">
-      				<valList mode="add" type="closed">
-      					<valItem ident="animaux" mode="add">
-      						<desc>Animaux</desc>
-      					</valItem>
-      					<valItem ident="constructions">
-      						<desc>Constructions</desc>
-      					</valItem>
-      					<valItem ident="minéraux" mode="add">
-      						<desc>Minéraux</desc>
-      					</valItem>
-      					<valItem ident="végétaux" mode="add">
-      						<desc>Végétaux</desc>
-      					</valItem>
-      					<valItem ident="matières_objets_fabriques" mode="add">
-      						<desc>Matières et objets fabriqués</desc>
-      					</valItem>
-      					<valItem ident="machines_appareils" mode="add">
-      						<desc>Machines, appareils, ustensiles, vases</desc>
-      					</valItem>
-      					<valItem ident="outils" mode="add">
-      						<desc>Outils</desc>
-      					</valItem>
-      					<valItem ident="etoffes_habillement" mode="add">
-      						<desc>Étoffes, habillement</desc>
-      					</valItem>
-      					<valItem ident="divers_industrie" mode="add">
-      						<desc>Divers (Industrie)</desc>
-      					</valItem>
-      				</valList>
-      			</attDef>
-      		</attList>
-      	</elementSpec>
-
-      	<!-- objectName: @subtype to distinguish among categorical information -->
-      	<elementSpec ident="objectName" mode="change">
-      		<attList>
-      			<attDef ident="subtype" mode="change">
-      				<valList mode="add" type="closed">
-      					<valItem ident="arbres_non_cultivés" mode="add">
-      						<desc>1° Arbres Non Cultivés</desc>
-      					</valItem>
-      					<valItem ident="herbes_plantes_sauvages" mode="add">
-      					<desc>2° Herbes ou Plantes Sauvages</desc>
-      				</valItem>
-      				<valItem ident="arbres_cultivés" mode="add">
-      					<desc>3° Arbres Cultivés</desc>
-      				</valItem>
-      				<valItem ident="arbustes_cultivés" mode="add">
-      					<desc>4° Arbustes Cultivés</desc>
-      				</valItem>
-      				<valItem ident="céréales" mode="add">
-      					<desc>5° Céréales</desc>
-      				</valItem>
-      				<valItem ident="legumes_racines" mode="add">
-      					<desc>6° Légumes, Racines, etc.</desc>
-      				</valItem>
-      				<valItem ident="divers_végétaux" mode="add">
-      					<desc>7° Divers (Vegetaux)</desc>
-      				</valItem>
-      					<valItem ident="homme" mode="add">
-      						<desc>1° L'Homme</desc>
-      					</valItem>      					
-      				<valItem ident="animaux_domestiques" mode="add">
-      					<desc>2° Animaux Domestiques</desc>
-      				</valItem>
-      				<valItem ident="animaux_sauvages" mode="add">
-      					<desc>3° Animaux Sauvages</desc>
-      				</valItem>
-      				</valList>
-      			</attDef>
-      		</attList>
-      	</elementSpec>
-
-      	
-<!-- persName: add  @type -->
-      	<elementSpec ident="persName" mode="change">
-<!--      	  <classes mode="change">
+        <!-- objectName: @key to distinguish among categorical information -->
+        <elementSpec ident="objectName" mode="change">
+          <attList>
+            <attDef ident="key" mode="change">
+              <valList mode="add" type="closed">
+                <valItem ident="économie_domestique" mode="add">
+                  <desc>Économie Domestique</desc>
+                </valItem>
+                <valItem ident="industrie" mode="add">
+                  <desc>Industrie</desc>
+                </valItem>
+                <valItem ident="sciences_naturelles" mode="add">
+                  <desc>Sciences Naturelles</desc>
+                </valItem>
+                <valItem ident="sciences_physiques" mode="add">
+                  <desc>Notions Relatives aux Sciences Physiques</desc>
+                </valItem>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
+        <!-- objectName: @type to distinguish among categorical information -->
+        <elementSpec ident="objectName" mode="change">
+          <attList>
+            <attDef ident="type" mode="change">
+              <valList mode="add" type="closed">
+                <valItem ident="animaux" mode="add">
+                  <desc>Animaux</desc>
+                </valItem>
+                <valItem ident="constructions">
+                  <desc>Constructions</desc>
+                </valItem>
+                <valItem ident="minéraux" mode="add">
+                  <desc>Minéraux</desc>
+                </valItem>
+                <valItem ident="végétaux" mode="add">
+                  <desc>Végétaux</desc>
+                </valItem>
+                <valItem ident="matières_objets_fabriques" mode="add">
+                  <desc>Matières et objets fabriqués</desc>
+                </valItem>
+                <valItem ident="machines_appareils" mode="add">
+                  <desc>Machines, appareils, ustensiles, vases</desc>
+                </valItem>
+                <valItem ident="outils" mode="add">
+                  <desc>Outils</desc>
+                </valItem>
+                <valItem ident="etoffes_habillement" mode="add">
+                  <desc>Étoffes, habillement</desc>
+                </valItem>
+                <valItem ident="divers_industrie" mode="add">
+                  <desc>Divers (Industrie)</desc>
+                </valItem>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
+        <!-- objectName: @subtype to distinguish among categorical information -->
+        <elementSpec ident="objectName" mode="change">
+          <attList>
+            <attDef ident="subtype" mode="change">
+              <valList mode="add" type="closed">
+                <valItem ident="arbres_non_cultivés" mode="add">
+                  <desc>1° Arbres Non Cultivés</desc>
+                </valItem>
+                <valItem ident="herbes_plantes_sauvages" mode="add">
+                  <desc>2° Herbes ou Plantes Sauvages</desc>
+                </valItem>
+                <valItem ident="arbres_cultivés" mode="add">
+                  <desc>3° Arbres Cultivés</desc>
+                </valItem>
+                <valItem ident="arbustes_cultivés" mode="add">
+                  <desc>4° Arbustes Cultivés</desc>
+                </valItem>
+                <valItem ident="céréales" mode="add">
+                  <desc>5° Céréales</desc>
+                </valItem>
+                <valItem ident="legumes_racines" mode="add">
+                  <desc>6° Légumes, Racines, etc.</desc>
+                </valItem>
+                <valItem ident="divers_végétaux" mode="add">
+                  <desc>7° Divers (Vegetaux)</desc>
+                </valItem>
+                <valItem ident="homme" mode="add">
+                  <desc>1° L'Homme</desc>
+                </valItem>
+                <valItem ident="animaux_domestiques" mode="add">
+                  <desc>2° Animaux Domestiques</desc>
+                </valItem>
+                <valItem ident="animaux_sauvages" mode="add">
+                  <desc>3° Animaux Sauvages</desc>
+                </valItem>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
+        <!-- persName: add  @type -->
+        <elementSpec ident="persName" mode="change">
+          <!--      	  <classes mode="change">
       	    <memberOf key="att.datable" mode="delete"/>
       	    <memberOf key="att.editLike" mode="delete"/>
       	    <memberOf key="att.personal" mode="delete"/>
       	  </classes>-->
-      		<attList>
-      			<attDef ident="type" mode="change">
-      				<valList type="closed" mode="change">
-      					<valItem ident="historique" mode="add">
-      						<desc xml:lang="fr">historique</desc>
-      					</valItem>
-      					<valItem ident="fictif" mode="add">
-      						<desc xml:lang="fr">fictif</desc>
-      					</valItem>
-      				</valList>
-      			</attDef>
-      			<attDef ident="key" mode="change">
-      				<valList type="closed" mode="change">
-      					<valItem ident="suzette" mode="add">
-      						<desc>Suzette</desc>
-      					</valItem>
-      					<valItem ident="m_dumay" mode="add">
-      						<desc>M Denis Dumay</desc>
-      					</valItem>
-      					<valItem ident="mme_valon" mode="add">
-      						<desc>Mme Valon</desc>
-      					</valItem>
-      					<valItem ident="m_valon" mode="add">
-      						<desc>M Valon</desc>
-      					</valItem>
-      					<valItem ident="jacques" mode="add">
-      						<desc>Jacques</desc>
-      					</valItem>
-      					<valItem ident="charlot" mode="add">
-      						<desc>Charlot</desc>
-      					</valItem>
-      					<valItem ident="pascal" mode="add">
-      						<desc>Pascal</desc>
-      					</valItem>
-      				  <valItem ident="françois" mode="add">
-      				    <desc>François</desc>
-      				  </valItem>
-      				  <valItem ident="castor" mode="add">
-      				    <desc>Castor</desc>
-      				  </valItem>
-      				  <valItem ident="ludivine" mode="add">
-      				    <desc>Ludivine</desc>
-      				  </valItem>
-      				  <valItem ident="jeanne" mode="add">
-      				    <desc>Jeanne</desc>
-      				  </valItem>
-      				  <valItem ident="madeleine" mode="add">
-      				    <desc>Madeleine</desc>
-      				  </valItem>
-      				  <valItem ident="benoît" mode="add">
-      				    <desc>Benoît</desc>
-      				  </valItem>
-      				  <valItem ident="mme_liénard" mode="add">
-      				    <desc>Mme Liénard</desc>
-      				  </valItem>
-      				  <valItem ident="mme_richard" mode="add">
-      				    <desc>Mme Richard</desc>
-      				  </valItem>
-      				  <valItem ident="sylvain" mode="add">
-      				    <desc>Sylvain</desc>
-      				  </valItem>
-      				  <valItem ident="vincent" mode="add">
-      				    <desc>Vincent</desc>
-      				  </valItem>
-      				</valList>
-      			</attDef>
-<!--      		  <attDef ident="corresp" mode="delete"/>
+          <attList>
+            <attDef ident="type" mode="change">
+              <valList type="closed" mode="change">
+                <valItem ident="historique" mode="add">
+                  <desc xml:lang="fr">historique</desc>
+                </valItem>
+                <valItem ident="fictif" mode="add">
+                  <desc xml:lang="fr">fictif</desc>
+                </valItem>
+              </valList>
+            </attDef>
+            <attDef ident="key" mode="change">
+              <valList type="closed" mode="change">
+                <valItem ident="suzette" mode="add">
+                  <desc>Suzette</desc>
+                </valItem>
+                <valItem ident="m_dumay" mode="add">
+                  <desc>M Denis Dumay</desc>
+                </valItem>
+                <valItem ident="mme_valon" mode="add">
+                  <desc>Mme Valon</desc>
+                </valItem>
+                <valItem ident="m_valon" mode="add">
+                  <desc>M Valon</desc>
+                </valItem>
+                <valItem ident="jacques" mode="add">
+                  <desc>Jacques</desc>
+                </valItem>
+                <valItem ident="charlot" mode="add">
+                  <desc>Charlot</desc>
+                </valItem>
+                <valItem ident="pascal" mode="add">
+                  <desc>Pascal</desc>
+                </valItem>
+                <valItem ident="françois" mode="add">
+                  <desc>François</desc>
+                </valItem>
+                <valItem ident="castor" mode="add">
+                  <desc>Castor</desc>
+                </valItem>
+                <valItem ident="ludivine" mode="add">
+                  <desc>Ludivine</desc>
+                </valItem>
+                <valItem ident="jeanne" mode="add">
+                  <desc>Jeanne</desc>
+                </valItem>
+                <valItem ident="madeleine" mode="add">
+                  <desc>Madeleine</desc>
+                </valItem>
+                <valItem ident="benoît" mode="add">
+                  <desc>Benoît</desc>
+                </valItem>
+                <valItem ident="mme_liénard" mode="add">
+                  <desc>Mme Liénard</desc>
+                </valItem>
+                <valItem ident="mme_richard" mode="add">
+                  <desc>Mme Richard</desc>
+                </valItem>
+                <valItem ident="sylvain" mode="add">
+                  <desc>Sylvain</desc>
+                </valItem>
+                <valItem ident="vincent" mode="add">
+                  <desc>Vincent</desc>
+                </valItem>
+                <valItem ident="lejoly" mode="add">
+                  <desc>Florentin Lejoly</desc>
+                </valItem>
+              </valList>
+            </attDef>
+            <!--      		  <attDef ident="corresp" mode="delete"/>
       		  <attDef ident="synch" mode="delete"/>
       		  <attDef ident="sameAs" mode="delete"/>
       		  <attDef ident="copyOf" mode="delete"/>
@@ -313,79 +302,130 @@
       		  <attDef ident="rend" mode="delete"/>
       		  <attDef ident="style" mode="delete"/>
       		  <attDef ident="rendition" mode="delete"/>-->
-      		</attList>
-      	</elementSpec>
+          </attList>
+        </elementSpec>
         
-      	<!-- placeName: add  @type (list of places from classification) -->
-     	<elementSpec ident="placeName" mode="change">
-     	  <classes mode="change">
-     	    <memberOf key="att.datable" mode="delete"/>
-     	    <memberOf key="att.editLike" mode="delete"/>
-     	    <memberOf key="att.personal" mode="delete"/>
-     	  </classes>
-      		<attList>
-      			<attDef ident="type" mode="change">
-      				<valList type="closed" mode="change">
-      					<valItem ident="afrique" mode="add">
-      						<desc>Afrique</desc>
-      					</valItem>
-      					<valItem ident="amérique" mode="add">
-      						<desc>Amérique</desc>
-      					</valItem>
-      					<valItem ident="asie" mode="add">
-      						<desc>Asie</desc>
-      					</valItem>
-      					<valItem ident="europe" mode="add">
-      						<desc>Europe</desc>
-      					</valItem>
-      					<valItem ident="france" mode="add">
-      						<desc>France</desc>
-      					</valItem>
-      					<valItem ident="océanie" mode="add">
-      						<desc>Océanie</desc>
-      					</valItem>
-      				</valList>
-      			</attDef> 
-      		  <attDef ident="subtype" mode="change">
-      		    <valList type="closed" mode="change">
-      		      <valItem ident="pays" mode="add">
-      		        <desc>Pays</desc>
-      		      </valItem>
-      		      <valItem ident="région" mode="add">
-      		        <desc>Région</desc>
-      		      </valItem>
-      		      <valItem ident="département" mode="add">
-      		        <desc>Département</desc>
-      		      </valItem>
-      		      <valItem ident="commune" mode="add">
-      		        <desc>Commune</desc>
-      		      </valItem>
-      		    </valList>
-      		  </attDef>
-<!--      		  <attDef ident="corresp" mode="delete"/>
-      		  <attDef ident="synch" mode="delete"/>
-      		  <attDef ident="sameAs" mode="delete"/>
-      		  <attDef ident="copyOf" mode="delete"/>
-      		  <attDef ident="next" mode="delete"/>
-      		  <attDef ident="prev" mode="delete"/>
-      		  <attDef ident="exclude" mode="delete"/>
-      		  <attDef ident="select" mode="delete"/>
-      		  <attDef ident="ana" mode="delete"/>
-      		  <attDef ident="facs" mode="delete"/>
-      		  <attDef ident="change" mode="delete"/>
-      		  <attDef ident="cert" mode="delete"/>
-      		  <attDef ident="resp" mode="delete"/>
-      		  <attDef ident="source" mode="delete"/>
-      		  <attDef ident="xml:space" mode="delete"/>
-      		  <attDef ident="xml:base" mode="delete"/>
-      		  <attDef ident="xml:lang" mode="delete"/>
-      		  <attDef ident="rend" mode="delete"/>
-      		  <attDef ident="style" mode="delete"/>
-      		  <attDef ident="rendition" mode="delete"/>-->
-      		</attList>
-      	</elementSpec>
+        <!-- ALL PLACE ATTRIBUTE VALUES -->
+        <!-- div3: add  @subtype where type is geographie (list of places from classification) -->
+        <elementSpec ident="div3" mode="change">
+          <classes mode="change">
+            <memberOf key="att.datable" mode="delete" />
+            <memberOf key="att.editLike" mode="delete" />
+            <memberOf key="att.personal" mode="delete" />
+          </classes>
+          <attList>
+            <attDef ident="subtype" mode="change">
+              <valList type="closed" mode="change">
+                <valItem ident="afrique" mode="add">
+                  <desc>Afrique</desc>
+                </valItem>
+                <valItem ident="amérique" mode="add">
+                  <desc>Amérique</desc>
+                </valItem>
+                <valItem ident="asie" mode="add">
+                  <desc>Asie</desc>
+                </valItem>
+                <valItem ident="europe" mode="add">
+                  <desc>Europe</desc>
+                </valItem>
+                <valItem ident="france" mode="add">
+                  <desc>France</desc>
+                </valItem>
+                <valItem ident="océanie" mode="add">
+                  <desc>Océanie</desc>
+                </valItem>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
         
-        <!-- Add geogFeat values -->
+        <!-- Add bloc @ref values -->
+        <elementSpec ident="bloc" mode="change">
+          <attList>
+            <attDef ident="ref" mode="change">
+              <valList mode="change" type="closed">
+                <valItem ident="afrique" mode="add">
+                  <desc>Afrique</desc>
+                </valItem>
+                <valItem ident="amérique_nord" mode="add">
+                  <desc>Amérique du nord</desc>
+                </valItem>
+                <valItem ident="amérique_sud" mode="add">
+                  <desc>Amérique du sud</desc>
+                </valItem>
+                <valItem ident="asie" mode="add">
+                  <desc>Asie</desc>
+                </valItem>
+                <valItem ident="europe" mode="add">
+                  <desc>Europe</desc>
+                </valItem>
+                <valItem ident="océanie" mode="add">
+                  <desc>Océanie</desc>
+                </valItem>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
+        
+        <!-- Add country @ref values -->
+        <elementSpec ident="country" mode="change">
+          <attList>
+            <attDef ident="ref" mode="change">
+              <valList mode="change" type="closed">
+                <valItem ident="etats_unis" mode="add">
+                  <desc>Etats-Unis</desc>
+                </valItem>
+                <valItem ident="angleterre" mode="add">
+                  <desc>Angleterre</desc>
+                </valItem>
+                <valItem ident="allemagne" mode="add">
+                  <desc>Allemagne</desc>
+                </valItem>
+                <valItem ident="chili" mode="add">
+                  <desc>Chili</desc>
+                </valItem>
+                <valItem ident="chine" mode="add">
+                  <desc>Chine</desc>
+                </valItem>
+                <valItem ident="espagne" mode="add">
+                  <desc>Espagne</desc>
+                </valItem>
+                <valItem ident="italie" mode="add">
+                  <desc>Italie</desc>
+                </valItem>
+                <valItem ident="france" mode="add">
+                  <desc>France</desc>
+                </valItem>
+                <valItem ident="japon" mode="add">
+                  <desc>Japon</desc>
+                </valItem>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
+        
+        <!-- Add region @type values -->
+        <elementSpec ident="region" mode="change">
+          <attList>
+            <attDef ident="type" mode="change">
+              <valList mode="change" type="closed">
+                <valItem ident="département" mode="add">
+                  <desc>Département</desc>
+                </valItem>
+                <valItem ident="province" mode="add">
+                  <desc>Province</desc>
+                </valItem>
+                <valItem ident="county" mode="add">
+                  <desc>County</desc>
+                </valItem>
+                <valItem ident="state" mode="add">
+                  <desc>State</desc>
+                </valItem>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
+        <!-- Add geogFeat @type values -->
         <elementSpec ident="geogFeat" mode="change">
           <attList>
             <attDef ident="type" mode="change">
@@ -423,15 +463,17 @@
                 <valItem ident="bois" mode="add">
                   <desc>Bois</desc>
                 </valItem>
+                <valItem ident="rive" mode="add">
+                  <desc>Rive</desc>
+                </valItem>
               </valList>
             </attDef>
           </attList>
         </elementSpec>
-
-      	<!-- Customize span @ana to reference thematic components of the book -->
- <elementSpec ident="span" mode="change">
+        <!-- Customize span @ana to reference thematic components of the book -->
+        <elementSpec ident="span" mode="change">
           <attList>
-            <attDef ident="ana" mode="change">             
+            <attDef ident="ana" mode="change">
               <valList type="closed" mode="change">
                 <valItem ident="manières_de_table" mode="add">
                   <desc xml:lang="fr">Manières de table</desc>
@@ -453,16 +495,14 @@
                 </valItem>
                 <valItem ident="sens" mode="add">
                   <desc xml:lang="fr">Sens</desc>
-                </valItem> 
+                </valItem>
                 <valItem ident="technique" mode="add">
                   <desc xml:lang="fr">Technique</desc>
-                </valItem>              
+                </valItem>
               </valList>
             </attDef>
           </attList>
         </elementSpec>
-
-
         <!-- Customize FIGURE to include @type illustration or sujets -->
         <elementSpec ident="figure" mode="change">
           <attList>
@@ -478,7 +518,6 @@
             </attDef>
           </attList>
         </elementSpec>
-        
         <!-- Customize LIST @type to distinguish between exercices and questionnaire  -->
         <elementSpec ident="list" mode="change">
           <attList>
@@ -494,7 +533,6 @@
             </attDef>
           </attList>
         </elementSpec>
-
       </schemaSpec>
     </body>
   </text>
