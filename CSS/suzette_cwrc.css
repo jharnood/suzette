@@ -418,7 +418,7 @@ bibl extent{
 
 /* Suzette - formwords */
 fw{
-   display:inline-block;
+   display:block;
    color: black;
    font-style: italic;
    margin-bottom: 1em;
