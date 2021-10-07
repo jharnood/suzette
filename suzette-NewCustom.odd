@@ -399,11 +399,57 @@
                 <valItem ident="japon" mode="add">
                   <desc>Japon</desc>
                 </valItem>
+                <valItem ident="turquie" mode="add">
+                  <desc>Turquie</desc>
+                </valItem>
+                <valItem ident="suéde" mode="add">
+                  <desc>Suéde</desc>
+                </valItem>
+                <valItem ident="australie" mode="add">
+                  <desc>australie</desc>
+                </valItem>
+                <valItem ident="belgique" mode="add">
+                  <desc>Belgique</desc>
+                </valItem>
               </valList>
             </attDef>
           </attList>
         </elementSpec>
-        
+
+<!-- Adding settlement @refs -->
+        <elementSpec ident="settlement" mode="change">
+          <attList>
+            <attDef ident="ref" mode="change">
+              <valList mode="change" type="closed">
+                <valItem ident="paris" mode="add">
+                  <desc>Paris</desc>
+                </valItem>
+                <valItem ident="arles" mode="add">
+                  <desc>Arles</desc>
+                </valItem>
+                <valItem ident="aix" mode="add">
+                  <desc>Aix</desc>
+                </valItem>
+                <valItem ident="marseilles" mode="add">
+                  <desc>Marseilles</desc>
+                </valItem>
+                <valItem ident="toulouse" mode="add">
+                  <desc>Toulouse</desc>
+                </valItem>
+                <valItem ident="montalban" mode="add">
+                  <desc>Montalban</desc>
+                </valItem>
+                <valItem ident="pau" mode="add">
+                  <desc>Pau</desc>
+                </valItem>
+                <valItem ident="bourdeaux">
+                  <desc>Bourdeaux</desc>
+                </valItem>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
+                
         <!-- Add region @type values -->
         <elementSpec ident="region" mode="change">
           <attList>
@@ -415,16 +461,17 @@
                 <valItem ident="province" mode="add">
                   <desc>Province</desc>
                 </valItem>
-                <valItem ident="county" mode="add">
-                  <desc>County</desc>
+                <valItem ident="comté" mode="add">
+                  <desc>comté</desc>
                 </valItem>
-                <valItem ident="state" mode="add">
-                  <desc>State</desc>
+                <valItem ident="état" mode="add">
+                  <desc>état</desc>
                 </valItem>
               </valList>
             </attDef>
           </attList>
         </elementSpec>
+
         <!-- Add geogFeat @type values -->
         <elementSpec ident="geogFeat" mode="change">
           <attList>
