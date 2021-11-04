@@ -122,7 +122,7 @@
             <lb/>Complaisamment <persName key="m_dumay" type="fictif">M. Dumay</persName> en montre de joyeux, gras 
             <lb/>et choyés : ceux-ci sont de Fragicourt, ceux-là de Bois-
             <lb/>Maillard, les perles du pays ! </p>
-            <p>Mais sa petite fille Marguerite le ramène à une autre 
+            <p>Mais sa petite fille <persName type="fictif">Marguerite</persName> le ramène à une autre 
             <lb/>question. Elle veut arriver la première à ces buissons, 
             <lb/>là-bas.</p>
             <p>Obéissant, il la met sur son dos.</p>
@@ -136,14 +136,13 @@
             <fw>TROIS ANS APRÈS. 519</fw>
          
             <lb/>Comme si elle avait conscience du radieux tableau 
-            <lb/>qu'elle offre en ce moment à tous les regards, Mar-
-            <lb/>guerite pousse un triomphant cri de joie.</p>
+            <lb/>qu'elle offre en ce moment à tous les regards, <persName type="fictif">Mar- <lb/>guerite</persName> pousse un triomphant cri de joie.</p>
             <p>Son visage, ses beaux et bons yeux d'enfant aimé, 
             <lb/>sain et charmant, jettent un rayonnement de vie qui 
             <lb/>pénètre tous les cœurs.</p>
-            <p>Sylvain, attendri, prend la main de sa femme. Il mon-
+            <p><persName key="sylvain" type="fictif">Sylvain</persName>, attendri, prend la main de sa femme. Il mon-
             <lb/>tre au loin la ferme, nichée dans la verdure.</p>
-            <p>Et Suzette presse cette main. Elle a compris : </p>
+            <p>Et <persName key="suzette" type="fictif">Suzette</persName> presse cette main. Elle a compris : </p>
             <p>C'est ici, en ce même endroit, qu'un jour, le pauvre 
             <lb/>garçon solitaire, abandonné, avait rèvé le foyer, la fa-
             <lb/>mille, la communauté de tendresse, de peines et de joies 
@@ -155,17 +154,17 @@
             <list>   
             <item>— Quels petits personnages précédaient la famille ? </item>
             <item>— Qui venait derrière dans cette promenade ? </item>
-            <item>— Faites le portrait de Marguerite.</item>
+            <item>— Faites le portrait de <persName type="fictif">Marguerite</persName>.</item>
             <item>— Qui se trouvait auprès de la charmante enfant ? </item>
             <item>— A quelle occasion se réunissaient la famille et les amis ? </item>
             <item>— Qui manquait seul, et pourquoi ? </item>
             <item>— Que devait-on faire au sommet de la colline ? </item>
-            <item>— Quel était le rôle de Ludivine dans cette réunion, et comment lu retrouvait-on ? </item>
-            <item>— Que montrait M. Dumay à ses hôtes ? </item>
-            <item>— Que lui demanda Marguerite ? </item>
+            <item>— Quel était le rôle de <persName key="ludivine" type="fictif">Ludivine</persName> dans cette réunion, et comment lu retrouvait-on ? </item>
+            <item>— Que montrait <persName key="m_dumay" type="fictif">M. Dumay</persName> à ses hôtes ? </item>
+            <item>— Que lui demanda <persName type="fictif">Marguerite</persName> ? </item>
             <item>— Comment apparurent-ils tous deux au sommet de la colline ? </item>
             <item>— Quel aspect joveux présentait le visage de l'enfant ? </item>
-            <item>— Que fit Sylvain ? </item>
+            <item>— Que fit <persName key="sylvain" type="historique">Sylvain</persName> ? </item>
             <item>— Que lui rappelait-ce lieu ? </item>
             <item> — Qu'avait-il maintenant ? </item>
             </list>   
