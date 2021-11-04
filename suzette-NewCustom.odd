@@ -280,6 +280,15 @@
                 <valItem ident="lejoly" mode="add">
                   <desc>Florentin Lejoly</desc>
                 </valItem>
+                <valItem ident="louis" mode="add">
+                  <desc>Louis</desc>
+                </valItem>
+                <valItem ident="marthe" mode="add">
+                  <desc>Marthe</desc>
+                </valItem>
+                <valItem ident="m_cartier" mode="add">
+                  <desc>M Cartier</desc>
+                </valItem>
               </valList>
             </attDef>
             <!--      		  <attDef ident="corresp" mode="delete"/>
