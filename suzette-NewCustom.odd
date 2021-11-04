@@ -206,6 +206,26 @@
             </attDef>
           </attList>
         </elementSpec>
+        
+        <!-- orgName: add @key -->
+        <elementSpec ident="key">
+          <attList>
+            <attDef ident="key" mode="change">
+              <valList type="closed" mode="change">
+                <valItem ident="famille_dumay" mode="add">
+                  <desc>famille Dumay</desc>
+                </valItem>
+                <valItem ident="famille_richard" mode="add">
+                  <desc>famille Richard</desc>
+                </valItem>
+                <valItem ident="famille_valon" mode="add">
+                  <desc>famille Valon</desc>
+                </valItem>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
+        
         <!-- persName: add  @type -->
         <elementSpec ident="persName" mode="change">
           <!--      	  <classes mode="change">
@@ -229,41 +249,41 @@
                 <valItem ident="suzette" mode="add">
                   <desc>Suzette</desc>
                 </valItem>
-                <valItem ident="m_dumay" mode="add">
-                  <desc>M Denis Dumay</desc>
-                </valItem>
-                <valItem ident="mme_valon" mode="add">
-                  <desc>Mme Valon</desc>
-                </valItem>
-                <valItem ident="m_valon" mode="add">
-                  <desc>M Valon</desc>
-                </valItem>
                 <valItem ident="jacques" mode="add">
                   <desc>Jacques</desc>
-                </valItem>
-                <valItem ident="charlot" mode="add">
-                  <desc>Charlot</desc>
-                </valItem>
-                <valItem ident="pascal" mode="add">
-                  <desc>Pascal</desc>
                 </valItem>
                 <valItem ident="françois" mode="add">
                   <desc>François</desc>
                 </valItem>
+                <valItem ident="benoît" mode="add">
+                  <desc>Benoît</desc>
+                </valItem>
                 <valItem ident="castor" mode="add">
                   <desc>Castor</desc>
                 </valItem>
-                <valItem ident="ludivine" mode="add">
-                  <desc>Ludivine</desc>
+                <valItem ident="cécile" mode="add">
+                  <desc>Cécile</desc>
+                </valItem>
+                <valItem ident="charlot" mode="add">
+                  <desc>Charlot</desc>
+                </valItem>
+                <valItem ident="lejoly" mode="add">
+                  <desc>Florentin Lejoly</desc>
                 </valItem>
                 <valItem ident="jeanne" mode="add">
                   <desc>Jeanne</desc>
                 </valItem>
-                <valItem ident="madeleine" mode="add">
-                  <desc>Madeleine</desc>
+                <valItem ident="louis" mode="add">
+                  <desc>Louis</desc>
                 </valItem>
-                <valItem ident="benoît" mode="add">
-                  <desc>Benoît</desc>
+                <valItem ident="ludivine" mode="add">
+                  <desc>Ludivine</desc>
+                </valItem>
+                <valItem ident="m_cartier" mode="add">
+                  <desc>M Cartier</desc>
+                </valItem>
+                <valItem ident="m_dumay" mode="add">
+                  <desc>M Denis Dumay</desc>
                 </valItem>
                 <valItem ident="mme_liénard" mode="add">
                   <desc>Mme Liénard</desc>
@@ -271,29 +291,33 @@
                 <valItem ident="mme_richard" mode="add">
                   <desc>Mme Richard</desc>
                 </valItem>
+                <valItem ident="mme_valon" mode="add">
+                  <desc>Mme Valon</desc>
+                </valItem>
+                <valItem ident="m_valon" mode="add">
+                  <desc>M Valon</desc>
+                </valItem>
+                <valItem ident="madeleine" mode="add">
+                  <desc>Madeleine</desc>
+                </valItem>
+                <valItem ident="marguerite" mode="add">
+                  <desc>Marguerite</desc>
+                </valItem>
+                <valItem ident="marthe" mode="add">
+                  <desc>Marthe</desc>
+                </valItem>
+                <valItem ident="pascal" mode="add">
+                  <desc>Pascal</desc>
+                </valItem>
                 <valItem ident="sylvain" mode="add">
                   <desc>Sylvain</desc>
                 </valItem>
                 <valItem ident="vincent" mode="add">
                   <desc>Vincent</desc>
                 </valItem>
-                <valItem ident="lejoly" mode="add">
-                  <desc>Florentin Lejoly</desc>
-                </valItem>
-                <valItem ident="louis" mode="add">
-                  <desc>Louis</desc>
-                </valItem>
-                <valItem ident="marthe" mode="add">
-                  <desc>Marthe</desc>
-                </valItem>
-                <valItem ident="m_cartier" mode="add">
-                  <desc>M Cartier</desc>
-                </valItem>
-                <valItem ident="cécile" mode="add">
-                  <desc>Cécile</desc>
-                </valItem>
               </valList>
             </attDef>
+            
             <!--      		  <attDef ident="corresp" mode="delete"/>
       		  <attDef ident="synch" mode="delete"/>
       		  <attDef ident="sameAs" mode="delete"/>
