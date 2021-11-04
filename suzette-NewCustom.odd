@@ -289,6 +289,9 @@
                 <valItem ident="m_cartier" mode="add">
                   <desc>M Cartier</desc>
                 </valItem>
+                <valItem ident="cécile" mode="add">
+                  <desc>Cécile</desc>
+                </valItem>
               </valList>
             </attDef>
             <!--      		  <attDef ident="corresp" mode="delete"/>
