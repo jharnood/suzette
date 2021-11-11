@@ -81,19 +81,19 @@
             <div2 type="récit">   
             <p>Deux fillettes, un bambin, rieurs et bruyants, précè-
             <lb/>dent la famille.</p>
-            <p>Derrière eux, <persName key="louis" type="fictif">Louis</persName> et <persName key="madeleine" type="fictif">Madeleine</persName>, <persName key="jacques" type="fictif">Jacques</persName> et <persName key="suzette" type="fictif">Cécile</persName> 
+            <p>Derrière eux, <persName key="louis" type="fictif">Louis</persName> et <persName key="madeleine" type="fictif">Madeleine</persName>, <persName key="jacques" type="fictif">Jacques</persName> et <persName key="cécile" type="fictif">Cécile</persName> 
             <lb/>vont gaiement. Ils sont suivis de <persName key="charlot" type="fictif">Charlot</persName>, de <persName key="marthe" type="fictif">Marthe</persName>, 
             <lb/>de <persName key="mme_richard" type="fictif">Mme Richard</persName> donnant le bras à <persName key="m_cartier" type="fictif">M. Cartier</persName>, et de 
             <lb/><persName key="m_dumay" type="fictif">M. Dumay</persName>, qui tient par la main une petite fille de dix-
-            <lb/>huit mois, <persName type="fictif">Marguerite</persName>.</p>
-            <p><persName type="fictif">Marguerite</persName>, aux joues rondes, aux yeux clairs, rayon-
+            <lb/>huit mois, <persName key="marguerite" type="fictif">Marguerite</persName>.</p>
+            <p><persName key="marguerite" type="fictif">Marguerite</persName>, aux joues rondes, aux yeux clairs, rayon-
          
             <pb type="page" n="518"/>
          
             <fw>518 SUZETTE.</fw>
          
             <lb/>nants d'esprit et de bonté, est la chérie du vieillard, qui 
-            <lb/>l'appelle <persName type="fictif">Suzette II</persName>.</p>
+            <lb/>l'appelle <persName key="marguerite" type="fictif">Suzette II</persName>.</p>
             <p>Auprès d'elle, sa mère et <persName key="sylvain" type="fictif">Sylvain</persName> ; puis <persName key="m_valon" type="fictif">M.</persName> et <persName key="mme_valon" type="fictif">Mme Va- <lb/>lon</persName> avec leurs enfants, et un grand garçon de bonne 
             <lb/>mine, le nez en trompette, M. <persName key="françois" type="fictif">François</persName>, maintenant 
             <lb/>mécanicien distingué.</p>
@@ -142,7 +142,7 @@
             <lb/>pénètre tous les cœurs.</p>
             <p><persName key="sylvain" type="fictif">Sylvain</persName>, attendri, prend la main de sa femme. Il mon-
             <lb/>tre au loin la ferme, nichée dans la verdure.</p>
-            <p>Et <persName key="suzette" type="fictif">Suzette</persName> presse cette main. Elle a compris : </p>
+            <p>Et <persName key="marguerite" type="fictif">Suzette</persName> presse cette main. Elle a compris : </p>
             <p>C'est ici, en ce même endroit, qu'un jour, le pauvre 
             <lb/>garçon solitaire, abandonné, avait rèvé le foyer, la fa-
             <lb/>mille, la communauté de tendresse, de peines et de joies 
@@ -154,14 +154,14 @@
             <list>   
             <item>— Quels petits personnages précédaient la famille ? </item>
             <item>— Qui venait derrière dans cette promenade ? </item>
-            <item>— Faites le portrait de <persName type="fictif">Marguerite</persName>.</item>
+            <item>— Faites le portrait de <persName key="marguerite" type="fictif">Marguerite</persName>.</item>
             <item>— Qui se trouvait auprès de la charmante enfant ? </item>
             <item>— A quelle occasion se réunissaient la famille et les amis ? </item>
             <item>— Qui manquait seul, et pourquoi ? </item>
             <item>— Que devait-on faire au sommet de la colline ? </item>
             <item>— Quel était le rôle de <persName key="ludivine" type="fictif">Ludivine</persName> dans cette réunion, et comment lu retrouvait-on ? </item>
             <item>— Que montrait <persName key="m_dumay" type="fictif">M. Dumay</persName> à ses hôtes ? </item>
-            <item>— Que lui demanda <persName type="fictif">Marguerite</persName> ? </item>
+            <item>— Que lui demanda <persName key="marguerite" type="fictif">Marguerite</persName> ? </item>
             <item>— Comment apparurent-ils tous deux au sommet de la colline ? </item>
             <item>— Quel aspect joveux présentait le visage de l'enfant ? </item>
             <item>— Que fit <persName key="sylvain" type="historique">Sylvain</persName> ? </item>
