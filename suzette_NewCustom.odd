@@ -378,6 +378,21 @@
           </attList>
         </elementSpec>
         <!-- ALL PLACE ATTRIBUTE VALUES -->
+        <!-- placeName: @type (real or fictif -->
+        <elementSpec ident="placeName" mode="change">
+          <attList>
+            <attDef ident="type" mode="change">
+              <valList mode="change" type="closed">
+                <valItem ident="real" mode="add">
+                  <desc>Real</desc>
+                </valItem>
+                <valItem ident="fictif" mode="add">
+                  <desc>Fictif</desc>
+                </valItem>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
         <!-- div3: add  @subtype where type is geographie (list of places from classification) -->
         <elementSpec ident="div3" mode="change">
           <classes mode="change">
