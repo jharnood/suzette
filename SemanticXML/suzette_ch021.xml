@@ -85,7 +85,7 @@
                <pb type="page" n="76" />
                <p> « Le Paraclet est charmant*<gloss>Charmant. Très agréable.</gloss>. L'école, bâtie sur le 
                   <lb/>flanc d'une colline, domine une belle vallée où coulent 
-                  <lb/><placeName type="france">l'Avre</placeName> et <placeName type="france">la Moye</placeName>. Un petit village
+                  <lb/><placeName><geogFeat>l'Avre</geogFeat></placeName> et <placeName type="france">la Moye</placeName>. Un petit village
                   de maisonnettes 
                   <lb/>rouges et blanches, avec son clocher qui ressemble à 
                   <lb/>celui de Fragicourt, c'est notre horizon. </p>
