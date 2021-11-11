@@ -378,7 +378,7 @@
           </attList>
         </elementSpec>
         <!-- ALL PLACE ATTRIBUTE VALUES -->
-        <!-- placeName: @type (real or fictif -->
+        <!-- placeName: @type (real or fictif) -->
         <elementSpec ident="placeName" mode="change">
           <attList>
             <attDef ident="type" mode="change">
@@ -505,6 +505,16 @@
                 <valItem ident="égypte" mode="add">
                   <desc>égypte</desc>
                 </valItem>
+                <valItem ident="mongolie" mode="add">
+                  <desc>Mongolie</desc>
+                </valItem>
+              </valList>
+            </attDef>
+            <attDef ident="type" mode="change">
+              <valList>
+                <valItem ident="colonie" mode="add">
+                  <desc>Colonie</desc>
+                </valItem>
               </valList>
             </attDef>
           </attList>
@@ -592,11 +602,104 @@
                 <valItem ident="rouen" mode="add">
                   <desc>Rouen</desc>
                 </valItem>
+                <valItem ident="reims" mode="add">
+                  <desc>Reims</desc>
+                </valItem>
+                <valItem ident="chantilly" mode="add">
+                  <desc>Chantilly</desc>
+                </valItem>
+                <valItem ident="saint-omer" mode="add">
+                  <desc>Saint-Omer</desc>
+                </valItem>
+                <valItem mode="add" ident="arras">
+                  <desc>Arras</desc>
+                </valItem>
+                <valItem ident="armentières" mode="add">
+                  <desc>Armentières</desc>
+                </valItem>
+                <valItem mode="add" ident="épinal">
+                  <desc>Épinal</desc>
+                </valItem>
+                <valItem ident="moselle" mode="add">
+                  <desc>Moselle</desc>
+                </valItem>
+                <valItem ident="lavaur" mode="add">
+                  <desc>Laveur</desc>
+                </valItem>
+                <valItem ident="grenoble" mode="add">
+                  <desc>Grenoble</desc>
+                </valItem>
+                <valItem ident="valence" mode="add">
+                  <desc>Valence</desc>
+                </valItem>
+                <valItem ident="le_puy" mode="add">
+                  <desc>Le Puy</desc>
+                </valItem>
+                <valItem ident="roanne" mode="add">
+                  <desc>Roanne</desc>
+                </valItem>
+                <valItem ident="laval" mode="add">
+                  <desc>Laval</desc>
+                </valItem>
+                <valItem ident="cholet" mode="add">
+                  <desc>Cholet</desc>
+                </valItem>
+                <valItem mode="add" ident="le_mans">
+                  <desc>Le Mans</desc>
+                </valItem> 
+                <valItem ident="angers" mode="add">
+                  <desc>Angers</desc>
+                </valItem>
+                <valItem ident="condé-sur-noireau">
+                  <desc>Condé-sur-noireau</desc>
+                </valItem>
+                <valItem ident="flers" mode="add">
+                  <desc>Flers</desc>
+                </valItem>
+                <valItem ident="lisieux" mode="add">
+                  <desc>Lisieux</desc>
+                </valItem>
+                <valItem ident="bernay" mode="add">
+                  <desc>Bernay</desc>
+                </valItem>
+                <valItem ident="cambrai" mode="add">
+                  <desc>Cambrai</desc>
+                </valItem>
+                <valItem ident="péhing" mode="add">
+                  <desc>Péhing</desc>
+                </valItem>
+                <valItem ident="hankéou" mode="add">
+                  <desc>Hankéou</desc>
+                </valItem>
+                <valItem ident="nan-king" mode="add">
+                  <desc>Nan-king</desc>
+                </valItem>
+                <valItem ident="nan-tchang" mode="add">
+                  <desc>Nan-tchang</desc>
+                </valItem>
+                <valItem ident="soutchéou" mode="add">
+                  <desc>Soutchéou</desc>
+                </valItem>
+                <valItem ident="shang-haî" mode="add">
+                  <desc>Shang-haî</desc>
+                </valItem>
+                <valItem ident="canton" mode="add">
+                  <desc>Canton</desc>
+                </valItem>
+                <valItem ident="tien-tsin" mode="add">
+                  <desc>Tien-tsin</desc>
+                </valItem>
+                <valItem ident="montmorency" mode="add">
+                  <desc>Montmorency</desc>
+                </valItem>
+                <valItem ident="auxerre" mode="add">
+                  <desc>Auxerre</desc>
+                </valItem>
               </valList>
             </attDef>
           </attList>
         </elementSpec>
-        <!-- Add region @type values -->
+        <!-- Add region @type and @ref values -->
         <elementSpec ident="region" mode="change">
           <attList>
             <attDef ident="type" mode="change">
@@ -612,6 +715,13 @@
                 </valItem>
                 <valItem ident="état" mode="add">
                   <desc>état</desc>
+                </valItem>
+              </valList>
+            </attDef>
+            <attDef ident="ref" mode="change">
+              <valList mode="change" type="closed">
+                <valItem ident="lombardie">
+                  <desc>Lombardie</desc>
                 </valItem>
               </valList>
             </attDef>
@@ -665,12 +775,14 @@
                 <valItem ident="sahara" mode="add">
                   <desc>Sahara</desc>
                 </valItem>
+                <valItem mode="add" ident="pô">
+                  <desc>Pô</desc>
+                </valItem>
               </valList>
             </attDef>
           </attList>
         </elementSpec>
         
-        <elementSpec ident="key"></elementSpec>
         <!-- Customize span @ana to reference thematic components of the book -->
         <elementSpec ident="span" mode="change">
           <attList>
