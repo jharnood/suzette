@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/djakacki/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<TEI xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -83,7 +83,7 @@
             <lb/>dent la famille.</p>
 
 
-            <p>Derrière eux, <persName type="fictif">Louis</persName> et <persName type="fictif" key="madeleine">Madeleine</persName>, <persName type="fictif" key="jacques">Jacques</persName> et <persName type="fictif" key="jacques"></persName> 
+            <p>Derrière eux, <persName type="fictif">Louis</persName> et <persName type="fictif" key="madeleine">Madeleine</persName>, <persName type="fictif" key="jacques">Jacques</persName> et <persName type="fictif" key="jacques"/> 
             <lb/>vont gaiement. Ils sont suivis de <persName type="fictif" key="charlot">Charlot</persName>, de <persName type="fictif">Marthe</persName>, 
             <lb/>de <persName type="fictif" key="mme_richard">Mme Richard</persName> donnant le bras à <persName type="fictif">M. Cartier</persName>, et de 
             <lb/>M. Dumay, qui tient par la main une petite fille de dix-
