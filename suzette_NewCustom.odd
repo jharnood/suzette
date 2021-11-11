@@ -602,7 +602,7 @@
             </attDef>
           </attList>
         </elementSpec>
-        <!-- Add geogFeat @type values -->
+        <!-- Add geogFeat @type values and @key values -->
         <elementSpec ident="geogFeat" mode="change">
           <attList>
             <attDef ident="type" mode="change">
@@ -645,8 +645,17 @@
                 </valItem>
               </valList>
             </attDef>
+            <attDef ident="key" mode="change">
+              <valList>
+                <valItem ident="sahara" mode="add">
+                  <desc>Sahara</desc>
+                </valItem>
+              </valList>
+            </attDef>
           </attList>
         </elementSpec>
+        
+        <elementSpec ident="key"></elementSpec>
         <!-- Customize span @ana to reference thematic components of the book -->
         <elementSpec ident="span" mode="change">
           <attList>
