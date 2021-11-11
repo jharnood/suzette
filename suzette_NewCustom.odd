@@ -21,23 +21,23 @@
   <text>
     <body>
       <schemaSpec ident="suzette_NewCustom" start="TEI teiCorpus" targetLang="en" docLang="en" prefix="tei_">
-        <moduleRef key="tei"/>
+        <moduleRef key="tei" />
         <!-- required -->
-        <moduleRef key="core"/>
-        <moduleRef key="analysis"/>
-        <moduleRef key="certainty"/>
-        <moduleRef key="corpus"/>
-        <moduleRef key="dictionaries"/>
-        <moduleRef key="drama"/>
-        <moduleRef key="figures"/>
-        <moduleRef key="header"/>
-        <moduleRef key="linking"/>
-        <moduleRef key="msdescription"/>
-        <moduleRef key="namesdates"/>
-        <moduleRef key="textcrit"/>
-        <moduleRef key="textstructure"/>
-        <moduleRef key="transcr"/>
-        <moduleRef key="tagdocs"/>
+        <moduleRef key="core" />
+        <moduleRef key="analysis" />
+        <moduleRef key="certainty" />
+        <moduleRef key="corpus" />
+        <moduleRef key="dictionaries" />
+        <moduleRef key="drama" />
+        <moduleRef key="figures" />
+        <moduleRef key="header" />
+        <moduleRef key="linking" />
+        <moduleRef key="msdescription" />
+        <moduleRef key="namesdates" />
+        <moduleRef key="textcrit" />
+        <moduleRef key="textstructure" />
+        <moduleRef key="transcr" />
+        <moduleRef key="tagdocs" />
         <!-- Customize DIV1 with @type chapitre -->
         <elementSpec ident="div1" mode="change">
           <attList>
@@ -76,21 +76,21 @@
           <attList>
             <attDef ident="type" mode="change">
               <valList type="closed" mode="change">
-                <valItem ident="morale" mode="add"/>
-                <valItem ident="instruction_civique" mode="add"/>
-                <valItem ident="civilité" mode="add"/>
-                <valItem ident="français" mode="add"/>
-                <valItem ident="composition" mode="add"/>
-                <valItem ident="histoire" mode="add"/>
-                <valItem ident="géographie" mode="add"/>
-                <valItem ident="sciences_naturelles" mode="add"/>
-                <valItem ident="sciences_physiques" mode="add"/>
-                <valItem ident="industrie" mode="add"/>
-                <valItem ident="économie_domestique" mode="add"/>
-                <valItem ident="hygiène" mode="add"/>
-                <valItem ident="agriculture" mode="add"/>
-                <valItem ident="calcul" mode="add"/>
-                <valItem ident="complexe" mode="add"/>
+                <valItem ident="morale" mode="add" />
+                <valItem ident="instruction_civique" mode="add" />
+                <valItem ident="civilité" mode="add" />
+                <valItem ident="français" mode="add" />
+                <valItem ident="composition" mode="add" />
+                <valItem ident="histoire" mode="add" />
+                <valItem ident="géographie" mode="add" />
+                <valItem ident="sciences_naturelles" mode="add" />
+                <valItem ident="sciences_physiques" mode="add" />
+                <valItem ident="industrie" mode="add" />
+                <valItem ident="économie_domestique" mode="add" />
+                <valItem ident="hygiène" mode="add" />
+                <valItem ident="agriculture" mode="add" />
+                <valItem ident="calcul" mode="add" />
+                <valItem ident="complexe" mode="add" />
               </valList>
             </attDef>
           </attList>
@@ -206,7 +206,6 @@
             </attDef>
           </attList>
         </elementSpec>
-        
         <!-- orgName: add @key -->
         <elementSpec ident="key">
           <attList>
@@ -225,7 +224,6 @@
             </attDef>
           </attList>
         </elementSpec>
-        
         <!-- persName: add  @type -->
         <elementSpec ident="persName" mode="change">
           <!--      	  <classes mode="change">
@@ -317,7 +315,6 @@
                 </valItem>
               </valList>
             </attDef>
-            
             <!--      		  <attDef ident="corresp" mode="delete"/>
       		  <attDef ident="synch" mode="delete"/>
       		  <attDef ident="sameAs" mode="delete"/>
@@ -338,16 +335,70 @@
       		  <attDef ident="rend" mode="delete"/>
       		  <attDef ident="style" mode="delete"/>
       		  <attDef ident="rendition" mode="delete"/>-->
-          <attDef ident="xml:space" mode="delete"/><attDef ident="xml:base" mode="delete"/><attDef ident="rendition" mode="delete"/><attDef ident="style" mode="delete"/><attDef ident="rend" mode="delete"/><attDef ident="corresp" mode="delete"/><attDef ident="synch" mode="delete"/><attDef ident="sameAs" mode="delete"/><attDef ident="copyOf" mode="delete"/><attDef ident="next" mode="delete"/><attDef ident="prev" mode="delete"/><attDef ident="exclude" mode="delete"/><attDef ident="select" mode="delete"/><attDef ident="facs" mode="delete"/><attDef ident="change" mode="delete"/><attDef ident="nymRef" mode="delete"/><attDef ident="sort" mode="delete"/><attDef ident="full" mode="delete"/><attDef ident="instant" mode="delete"/><attDef ident="evidence" mode="delete"/><attDef ident="datingMethod" mode="delete"/><attDef ident="datingPoint" mode="delete"/><attDef ident="to-custom" mode="delete"/><attDef ident="from-custom" mode="delete"/><attDef ident="notAfter-custom" mode="delete"/><attDef ident="notBefore-custom" mode="delete"/><attDef ident="when-custom" mode="delete"/><attDef ident="to-iso" mode="delete"/><attDef ident="from-iso" mode="delete"/><attDef ident="notAfter-iso" mode="delete"/><attDef ident="notBefore-iso" mode="delete"/><attDef ident="when-iso" mode="delete"/><attDef ident="to" mode="delete"/><attDef ident="from" mode="delete"/><attDef ident="notAfter" mode="delete"/><attDef ident="notBefore" mode="delete"/><attDef ident="when" mode="delete"/><attDef ident="period" mode="delete"/><attDef ident="calendar" mode="delete"/><attDef ident="source" mode="delete"/></attList>
+            <attDef ident="xml:space" mode="delete" />
+            <attDef ident="xml:base" mode="delete" />
+            <attDef ident="rendition" mode="delete" />
+            <attDef ident="style" mode="delete" />
+            <attDef ident="rend" mode="delete" />
+            <attDef ident="corresp" mode="delete" />
+            <attDef ident="synch" mode="delete" />
+            <attDef ident="sameAs" mode="delete" />
+            <attDef ident="copyOf" mode="delete" />
+            <attDef ident="next" mode="delete" />
+            <attDef ident="prev" mode="delete" />
+            <attDef ident="exclude" mode="delete" />
+            <attDef ident="select" mode="delete" />
+            <attDef ident="facs" mode="delete" />
+            <attDef ident="change" mode="delete" />
+            <attDef ident="nymRef" mode="delete" />
+            <attDef ident="sort" mode="delete" />
+            <attDef ident="full" mode="delete" />
+            <attDef ident="instant" mode="delete" />
+            <attDef ident="evidence" mode="delete" />
+            <attDef ident="datingMethod" mode="delete" />
+            <attDef ident="datingPoint" mode="delete" />
+            <attDef ident="to-custom" mode="delete" />
+            <attDef ident="from-custom" mode="delete" />
+            <attDef ident="notAfter-custom" mode="delete" />
+            <attDef ident="notBefore-custom" mode="delete" />
+            <attDef ident="when-custom" mode="delete" />
+            <attDef ident="to-iso" mode="delete" />
+            <attDef ident="from-iso" mode="delete" />
+            <attDef ident="notAfter-iso" mode="delete" />
+            <attDef ident="notBefore-iso" mode="delete" />
+            <attDef ident="when-iso" mode="delete" />
+            <attDef ident="to" mode="delete" />
+            <attDef ident="from" mode="delete" />
+            <attDef ident="notAfter" mode="delete" />
+            <attDef ident="notBefore" mode="delete" />
+            <attDef ident="when" mode="delete" />
+            <attDef ident="period" mode="delete" />
+            <attDef ident="calendar" mode="delete" />
+            <attDef ident="source" mode="delete" />
+          </attList>
         </elementSpec>
-        
         <!-- ALL PLACE ATTRIBUTE VALUES -->
+        <!-- placeName: @type (real or fictif -->
+        <elementSpec ident="placeName" mode="change">
+          <attList>
+            <attDef ident="type" mode="change">
+              <valList mode="change" type="closed">
+                <valItem ident="real" mode="add">
+                  <desc>Real</desc>
+                </valItem>
+                <valItem ident="fictif" mode="add">
+                  <desc>Fictif</desc>
+                </valItem>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
         <!-- div3: add  @subtype where type is geographie (list of places from classification) -->
         <elementSpec ident="div3" mode="change">
           <classes mode="change">
-            <memberOf key="att.datable" mode="delete"/>
-            <memberOf key="att.editLike" mode="delete"/>
-            <memberOf key="att.personal" mode="delete"/>
+            <memberOf key="att.datable" mode="delete" />
+            <memberOf key="att.editLike" mode="delete" />
+            <memberOf key="att.personal" mode="delete" />
           </classes>
           <attList>
             <attDef ident="subtype" mode="change">
@@ -374,7 +425,6 @@
             </attDef>
           </attList>
         </elementSpec>
-        
         <!-- Add bloc @ref values -->
         <elementSpec ident="bloc" mode="change">
           <attList>
@@ -398,11 +448,13 @@
                 <valItem ident="océanie" mode="add">
                   <desc>Océanie</desc>
                 </valItem>
+                <valItem ident="indie" mode="add">
+                  <desc>Inde</desc>
+                </valItem>
               </valList>
             </attDef>
           </attList>
         </elementSpec>
-        
         <!-- Add country @ref values -->
         <elementSpec ident="country" mode="change">
           <attList>
@@ -447,12 +499,17 @@
                 <valItem ident="belgique" mode="add">
                   <desc>Belgique</desc>
                 </valItem>
+                <valItem ident="algérie" mode="add">
+                  <desc>Algérie</desc>
+                </valItem>
+                <valItem ident="égypte" mode="add">
+                  <desc>égypte</desc>
+                </valItem>
               </valList>
             </attDef>
           </attList>
         </elementSpec>
-
-<!-- Adding settlement @refs -->
+        <!-- Adding settlement @refs -->
         <elementSpec ident="settlement" mode="change">
           <attList>
             <attDef ident="ref" mode="change">
@@ -465,6 +522,9 @@
                 </valItem>
                 <valItem ident="aix" mode="add">
                   <desc>Aix</desc>
+                </valItem>
+                <valItem ident="louviers" mode="add">
+                  <desc>Louviers</desc>
                 </valItem>
                 <valItem ident="marseilles" mode="add">
                   <desc>Marseilles</desc>
@@ -481,11 +541,61 @@
                 <valItem ident="bourdeaux">
                   <desc>Bourdeaux</desc>
                 </valItem>
+                <valItem ident="sedan" mode="add">
+                  <desc>Sedan</desc>
+                </valItem>
+                <valItem ident="mazamet" mode="add">
+                  <desc>Mazamet</desc>
+                </valItem>
+                <valItem ident="castres" mode="add">
+                  <desc>Castres</desc>
+                </valItem>
+                <valItem ident="roubaix" mode="add">
+                  <desc>Roubaix</desc>
+                </valItem>
+                <valItem ident="tourcoing" mode="add">
+                  <desc>Tourcoing</desc>
+                </valItem>
+                <valItem ident="amiens" mode="add">
+                  <desc>Amiens</desc>
+                </valItem>
+                <valItem ident="troyes" mode="add">
+                  <desc>Troyes</desc>
+                </valItem>
+                <valItem ident="lodève" mode="add">
+                  <desc>Lodève</desc>
+                </valItem>
+                <valItem ident="reethel" mode="add">
+                  <desc>Rethel</desc>
+                </valItem>
+                <valItem ident="privas" mode="add">
+                  <desc>Privas</desc>
+                </valItem>
+                <valItem ident="carcassonne" mode="add">
+                  <desc>Carcassonne</desc>
+                </valItem>
+                <valItem ident="orléans" mode="add">
+                  <desc>Orléans</desc>
+                </valItem>
+                <valItem ident="tours" mode="add">
+                  <desc>Tours</desc>
+                </valItem>
+                <valItem ident="beauvais" mode="add">
+                  <desc>Beauvais</desc>
+                </valItem>
+                <valItem ident="aubusson" mode="add">
+                  <desc>Aubusson</desc>
+                </valItem>
+                <valItem ident="puteaux" mode="add">
+                  <desc>Puteaux</desc>
+                </valItem>
+                <valItem ident="rouen" mode="add">
+                  <desc>Rouen</desc>
+                </valItem>
               </valList>
             </attDef>
           </attList>
         </elementSpec>
-                
         <!-- Add region @type values -->
         <elementSpec ident="region" mode="change">
           <attList>
@@ -507,8 +617,7 @@
             </attDef>
           </attList>
         </elementSpec>
-
-        <!-- Add geogFeat @type values -->
+        <!-- Add geogFeat @type values and @ref values -->
         <elementSpec ident="geogFeat" mode="change">
           <attList>
             <attDef ident="type" mode="change">
@@ -551,8 +660,17 @@
                 </valItem>
               </valList>
             </attDef>
+            <attDef ident="ref" mode="change">
+              <valList>
+                <valItem ident="sahara" mode="add">
+                  <desc>Sahara</desc>
+                </valItem>
+              </valList>
+            </attDef>
           </attList>
         </elementSpec>
+        
+        <elementSpec ident="key"></elementSpec>
         <!-- Customize span @ana to reference thematic components of the book -->
         <elementSpec ident="span" mode="change">
           <attList>
