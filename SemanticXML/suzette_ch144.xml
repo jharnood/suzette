@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/djakacki/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
+<TEI xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -80,20 +81,22 @@
             <div2 type="récit">   
             <p>Deux fillettes, un bambin, rieurs et bruyants, précè-
             <lb/>dent la famille.</p>
+
+
             <p>Derrière eux, <persName type="fictif">Louis</persName> et <persName type="fictif" key="madeleine">Madeleine</persName>, <persName type="fictif" key="jacques">Jacques</persName> et <persName type="fictif" key="jacques"></persName> 
             <lb/>vont gaiement. Ils sont suivis de <persName type="fictif" key="charlot">Charlot</persName>, de <persName type="fictif">Marthe</persName>, 
             <lb/>de <persName type="fictif" key="mme_richard">Mme Richard</persName> donnant le bras à <persName type="fictif">M. Cartier</persName>, et de 
             <lb/>M. Dumay, qui tient par la main une petite fille de dix-
             <lb/>huit mois, Marguerite.</p>
             <p>Marguerite, aux joues rondes, aux yeux clairs, rayon-
-=======
+
             <p>Derrière eux, <persName key="louis" type="fictif">Louis</persName> et <persName key="madeleine" type="fictif">Madeleine</persName>, <persName key="jacques" type="fictif">Jacques</persName> et <persName key="cécile" type="fictif">Cécile</persName> 
             <lb/>vont gaiement. Ils sont suivis de <persName key="charlot" type="fictif">Charlot</persName>, de <persName key="marthe" type="fictif">Marthe</persName>, 
             <lb/>de <persName key="mme_richard" type="fictif">Mme Richard</persName> donnant le bras à <persName key="m_cartier" type="fictif">M. Cartier</persName>, et de 
             <lb/><persName key="m_dumay" type="fictif">M. Dumay</persName>, qui tient par la main une petite fille de dix-
             <lb/>huit mois, <persName key="marguerite" type="fictif">Marguerite</persName>.</p>
             <p><persName key="marguerite" type="fictif">Marguerite</persName>, aux joues rondes, aux yeux clairs, rayon-
->>>>>>> 3d6b94671b04ae4754e24462c08333584ad975df
+
          
             <pb type="page" n="518"/>
          
@@ -154,7 +157,7 @@
             <lb/>garçon solitaire, abandonné, avait rèvé le foyer, la fa-
             <lb/>mille, la communauté de tendresse, de peines et de joies 
             <lb/>qui sont le meilleur de cette vie.</p>
-            <p>Et maintenant, il les avait !</p>
+            <p>Et maintenant, il les avait !</p></p>
             </div2>
             <div2 type="questionnaire">   
             <head>Questionnaire.</head> 
