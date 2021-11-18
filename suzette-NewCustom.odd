@@ -383,8 +383,8 @@
           <attList>
             <attDef ident="type" mode="change">
               <valList type="closed" mode="change">
-                <valItem ident="historique" mode="add">
-                  <desc xml:lang="fr">historique</desc>
+                <valItem ident="réal" mode="add">
+                  <desc xml:lang="fr">réal</desc>
                 </valItem>
                 <valItem ident="fictif" mode="add">
                   <desc xml:lang="fr">fictif</desc>
@@ -777,6 +777,12 @@
                 </valItem>
                 <valItem mode="add" ident="pô">
                   <desc>Pô</desc>
+                </valItem>
+                <valItem ident="atlantique" mode="add">
+                  <desc>Atlantique</desc>
+                </valItem>
+                <valItem ident="moye" mode="add">
+                  <desc>Moye</desc>
                 </valItem>
               </valList>
             </attDef>
