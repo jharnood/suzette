@@ -20,7 +20,7 @@
   </teiHeader>
   <text>
     <body>
-      <schemaSpec ident="suzette_NewCustom" start="TEI teiCorpus" targetLang="en" docLang="en" prefix="tei_">
+      <schemaSpec ident="suzette-NewCustom" start="TEI teiCorpus" targetLang="en" docLang="en"><!--removing prefix_tei-->
         <moduleRef key="tei" />
         <!-- required -->
         <moduleRef key="core" />
