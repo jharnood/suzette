@@ -157,10 +157,10 @@
 				<lb/>de vivres. Et tandis que les voyageurs causaient et 
 				<lb/>mangeaient en gens qui viennent de faire quinze cents 
 				<lb/>lieues, on admirait de nouveau leur belle mine et leurs 
-				<lb/>galons, les galons de sergent-major de Sylvain, dont on 
+				<lb/>galons, les galons de sergent-major de <persName key="sylvain" type="fictif">Sylvain</persName>, dont on 
 				<lb/>rappela la cause, et les galons de sergent de Jacques.</p>
 				<p>A la fin du repas, <persName key="suzette" type="fictif">Suzette</persName> se plaignit de n'avoir pas de 
-				<lb/>dessert à donner. Alors Sylvain alla prendre un paquet 
+				<lb/>dessert à donner. Alors <persName key="sylvain" type="fictif">Sylvain</persName> alla prendre un paquet 
 				<lb/>qu'il avait, en entrant, posé sur une chaise. Il l'ouvrit :</p>
 				<p>Mademoiselle <persName key="suzette" type="fictif">Suzette</persName>, dit-il, je vous rapporte la 
 				<lb/>petite bourriche que vous me confiâtes au départ. Mais 
@@ -193,7 +193,7 @@
 				<lb/>rantes gousses de vanille envelop-
 				<lb/>pées de papier d'étain, et deux 
 				<lb/>pots de confitures de cédrat*<gloss>Cédrat. Citron d'une odeur fort agréable.</gloss>.</p>
-				<p>Jacques, lui aussi, avait un pa-
+				<p><persName key="jacques" type="fictif">Jacques</persName>, lui aussi, avait un pa-
 				<lb/>quet, dont il tira un sac de café vert, 
 				<lb/>un autre de manioc en poudre et 
 				<lb/>de la confiture de gingembre.</p>
@@ -201,12 +201,12 @@
 				<lb/>qu'on goûtât tout de suite aux confi-
 				<lb/>tures ; mais le père et la fille remi-
 				<lb/>rent la fête au surlendemain, où l'on 
-				<lb/>inviterait les Valon et les Cartier.</p>
+				<lb/>inviterait <orgName>les Valon</orgName> et <orgName>les Cartier</orgName>.</p>
 				<p>Car depuis la première visite de 
 				<lb/>M. Cartier on s'était lié avec lui. Il 
-				<lb/>ne lui restait qu'une fille, Cécile, 
+				<lb/>ne lui restait qu'une fille, <persName key="cécile" type="fictif">Cécile</persName>, 
 				<lb/>après la perte de sa femme et de 
-      		  <lb/>deux garçons. <persName key="suzette" type="fictif">Suzette</persName> et Mlle Cécile, une bonne per-
+      		  <lb/>deux garçons. <persName key="suzette" type="fictif">Suzette</persName> et Mlle <persName key="cécile" type="fictif">Cécile</persName>, une bonne per-
 				<lb/>sonne, avec du naturel, qui est la plus aimable des 
 				<lb/>grâces, s'étaient plu à première vue.</p>
 			
@@ -215,18 +215,18 @@
 				<fw>SALUT A LA FERMIERE ! 515</fw> 
 			
 				<p>Comme on parlait d'elle, une voiture s'arrête à la 
-				<lb/>porte ; et voilà que M. Cartier et sa fille en descendent ; 
-				<lb/>la seconde d'après, M. et Mme Valon arrivent de leur côté.</p> 
+				<lb/>porte ; et voilà que M. <persName key="m_cartier" type="fictif">Cartier</persName> et sa fille en descendent ; 
+				<lb/>la seconde d'après, <persName key="m_valon">M</persName>. et <persName key="mme_valon" type="fictif">Mme Valon</persName> arrivent de leur côté.</p> 
 				<p>Ce furent de nouvelles embrassades, de nouvelles 
 				<lb/>poignées de main.</p>
-				<p>Hé ! s'écria M. Cartier avec bonne humeur, ai-je 
-				<lb/>eu bon nez de passer par ici en revenant du Catelet !</p>
+				<p>Hé ! s'écria M. <persName key="m_cartier" type="fictif">Cartier</persName> avec bonne humeur, ai-je 
+				<lb/>eu bon nez de passer par ici en revenant du <placeName>Ca<bloc ref="europe"><country ref="france"/></bloc>te<settlement/>let</placeName> !</p>
 				<p>On causa quelques instants et après avoir accepté 
-				<lb/>pour le surlendemain l'invitation à dîner de M. Dumay, 
-				<lb/>M. Cartier emmena Sylvain.</p>
-				<p>En s'en retournant, Mme Valon dit à son mari : </p>
+				<lb/>pour le surlendemain l'invitation à dîner de M. <persName key="m_dumay" type="fictif">Dumay</persName>, 
+				<lb/>M. <persName key="m_cartier" type="fictif">Cartier</persName> emmena <persName key="sylvain" type="fictif">Sylvain</persName>.</p>
+				<p>En s'en retournant, <persName key="mme_valon" type="fictif">Mme Valon</persName> dit à son mari : </p>
 				<p>— Je crois bien que nous irons cette année à la noce.</p>
-				<p>— Et même à une double noce, répondit M. Valon.</p>
+				<p>— Et même à une double noce, répondit <persName key="m_valon" type="fictif">M. Valon</persName>.</p>
 				<p>Elle ajouta : </p>
 				<p>Sylvain est un cœur honnête et généreux ; le choix 
 				<lb/>de ma <persName key="suzette" type="fictif">Suzette</persName> ne me fâchera pas.</p>
