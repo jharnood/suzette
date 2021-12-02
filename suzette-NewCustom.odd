@@ -384,8 +384,8 @@
           <attList>
             <attDef ident="type" mode="change">
               <valList type="closed" mode="change">
-                <valItem ident="réal" mode="add">
-                  <desc xml:lang="fr">réal</desc>
+                <valItem ident="réel" mode="add">
+                  <desc xml:lang="fr">réel</desc>
                 </valItem>
                 <valItem ident="fictif" mode="add">
                   <desc xml:lang="fr">fictif</desc>
