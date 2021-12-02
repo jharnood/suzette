@@ -5,7 +5,7 @@
          xmlns="http://relaxng.org/ns/structure/1.0"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2021-11-18T15:53:38Z. .
+Schema generated from ODD source 2021-12-02T15:31:05Z. .
 TEI Edition: Version 3.6.0. Last updated on
 	16th July 2019, revision daa3cc0b9
 TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 3.6.0/
@@ -135,7 +135,7 @@ TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 3.6.0/
             </choice>
          </zeroOrMore>
       </element>
-      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e100776-constraint">
+      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e100833-constraint">
          <rule context="tei:content">
             <report test="descendant::*[not(namespace-uri(.) =               ('http://relaxng.org/ns/structure/1.0', 'http://www.tei-c.org/ns/1.0'))]">content descendants must be in the
               namespaces
@@ -184,7 +184,7 @@ TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 3.6.0/
             </choice>
          </zeroOrMore>
       </element>
-      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e101981-constraint">
+      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e102038-constraint">
          <rule context="tei:datatype">
             <report test="descendant::*[not(namespace-uri(.) =               ('http://relaxng.org/ns/structure/1.0', 'http://www.tei-c.org/ns/1.0'))]">datatype descendants must be in the
               namespaces
@@ -12063,7 +12063,7 @@ Suggested values include: 1] paper; 2] parch (parchment); 3] mixed</a:documentat
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Europe</a:documentation>
                         <value>océanie</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Océanie</a:documentation>
-                        <value>indie</value>
+                        <value>inde</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Inde</a:documentation>
                      </choice>
                   </oneOrMore>
@@ -12121,6 +12121,12 @@ Suggested values include: 1] paper; 2] parch (parchment); 3] mixed</a:documentat
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">égypte</a:documentation>
                         <value>mongolie</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Mongolie</a:documentation>
+                        <value>panama</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Panama</a:documentation>
+                        <value>calvi</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Calvi</a:documentation>
+                        <value>indes</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Indes</a:documentation>
                      </choice>
                   </oneOrMore>
                </list>
@@ -12155,6 +12161,10 @@ Suggested values include: 1] paper; 2] parch (parchment); 3] mixed</a:documentat
                      <choice>
                         <value>lombardie</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Lombardie</a:documentation>
+                        <value>andalousie</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Andalousie</a:documentation>
+                        <value>lucayes</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Lucayes</a:documentation>
                      </choice>
                   </oneOrMore>
                </list>
@@ -12308,6 +12318,12 @@ Suggested values include: 1] paper; 2] parch (parchment); 3] mixed</a:documentat
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Montmorency</a:documentation>
                         <value>auxerre</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Auxerre</a:documentation>
+                        <value>palos</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Palos</a:documentation>
+                        <value>portugal</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Portugal</a:documentation>
+                        <value>corse</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Corse</a:documentation>
                      </choice>
                   </oneOrMore>
                </list>
@@ -12369,7 +12385,20 @@ Suggested values include: 1] paper; 2] parch (parchment); 3] mixed</a:documentat
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(reference) provides an explicit means of locating a full definition or identity for the entity being named by means of one or more URIs.</a:documentation>
                <list>
                   <oneOrMore>
-                     <data type="anyURI"/>
+                     <choice>
+                        <value>sahara</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Sahara</a:documentation>
+                        <value>pô</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Pô</a:documentation>
+                        <value>atlantique</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Atlantique</a:documentation>
+                        <value>moye</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Moye</a:documentation>
+                        <value>atlantique</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Atlantique</a:documentation>
+                        <value>avre</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Avre</a:documentation>
+                     </choice>
                   </oneOrMore>
                </list>
             </attribute>
