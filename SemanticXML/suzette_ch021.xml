@@ -83,12 +83,12 @@
                   <lb/>serais ici comme un poisson dans l'eau. </p>
                <fw type="header"> 76 SUZETTE. </fw>
                <pb type="page" n="76" />
-               <p> « Le <placeName><district>Paraclet</district></placeName> est charmant*<gloss>Charmant. Très agréable.</gloss>. L'école, bâtie sur le 
+               <p> « Le <placeName type="réel"><district>Paraclet</district></placeName> est charmant*<gloss>Charmant. Très agréable.</gloss>. L'école, bâtie sur le 
                   <lb/>flanc d'une colline, domine une belle vallée où coulent 
-                  <lb/><geogFeat type="fleuve">l'Avre</geogFeat> et la <placeName><settlement>Moye</settlement></placeName>. Un petit village
+                  <lb/>l'<placeName type="réel"><geogFeat type="fleuve" ref="Avre">Avre</geogFeat></placeName> et la <placeName type="réel"><geogFeat type="fleuve" ref="Moye">Moye</geogFeat></placeName>. Un petit village
                   de maisonnettes 
                   <lb/>rouges et blanches, avec son clocher qui ressemble à 
-                  <lb/>celui de Fragicourt, c'est notre horizon. </p>
+                  <lb/>celui de <placeName type="ficitif">Fragicourt</placeName>, c'est notre horizon. </p>
                <p> « Cent vingt hectares, voilà mon domaine mainte-
                   <lb/>nant.</p>
                <p> « Quel grand propriétaire je fais, n'est-ce pas ? Il est 
@@ -135,7 +135,7 @@
                   <lb/>culture. Il créa l'agronomie, il aima les champs, et, par
                   <lb/>grand désir d'être utile aux hommes, écrivit des livres <fw type="header"> UNE LETTRE DE JACQUES. 77 </fw>
                   <pb type="page" n="77" /> qui, après trois siècles, continuent de nous éclairer. </p>
-               <p> « Le directeur du <placeName><district>Paraclet</district></placeName> est un brave. En 1870, 
+               <p> « Le directeur du <placeName type="réel"><district>Paraclet</district></placeName> est un brave. En 1870, 
                   <lb/>sergent de mobiles*<gloss>Mobiles. Les mobiles étaient de jeunes soldats qui n'avaient pas été formés au service
                   militaire.</gloss>, en pleine bataille, il retourna sur 
                   <lb/>ses pas et se rejeta dans la mitraille pour aller re-
@@ -156,7 +156,7 @@
                   <item>— Qu'adresseriez-vous à vos parents si vous étiez en pension depuis quelques jours ?</item>
                   <item>— Donnez un aperçu de ce que contiendrait votre lettre ?</item>
                   <item>— Comment la commenceriez-vous et l'achèveriez-vous ?</item>
-                  <item>— Que disait <persName type="fictif" key="jacques">Jacques</persName> de la ferme-école du <placeName><district>Paraclet</district></placeName> ?</item>
+                  <item>— Que disait <persName type="fictif" key="jacques">Jacques</persName> de la ferme-école du <placeName type="réel"><district>Paraclet</district></placeName> ?</item>
                   <item>— Quelle était l’étendue du domaine ?</item>
                   <item>—<cb />Quel était l'objet du travail de chaque jour ?</item>
                   <item>— Quel résultat Jacques prévoyait-il pour la ferme de son père ?</item>
