@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/djakacki/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -88,7 +88,7 @@
             <lb/>de <persName type="fictif" key="mme_richard">Mme Richard</persName> donnant le bras à <persName type="fictif">M. Cartier</persName>, et de 
             <lb/>M. Dumay, qui tient par la main une petite fille de dix-
             <lb/>huit mois, Marguerite.</p>
-            <p>Marguerite, aux joues rondes, aux yeux clairs, rayon-
+            <p>Marguerite, aux joues rondes, aux yeux clairs, rayon-</p>
 
             <p>Derrière eux, <persName key="louis" type="fictif">Louis</persName> et <persName key="madeleine" type="fictif">Madeleine</persName>, <persName key="jacques" type="fictif">Jacques</persName> et <persName key="cécile" type="fictif">Cécile</persName> 
             <lb/>vont gaiement. Ils sont suivis de <persName key="charlot" type="fictif">Charlot</persName>, de <persName key="marthe" type="fictif">Marthe</persName>, 
@@ -118,7 +118,7 @@
             <lb/>que, par un coup de mémoire anticipée, il était venu ra-
             <lb/>conter jadis. Il a suivi l'expédition de <persName type="historique">Brazza</persName> et compte, 
             <lb/>au printemps prochain, faire une visite à ses vieilles 
-            <lb/>connaissances, les <orgName>Touaregs</orgName>, le <placeName type="fictif"><geogFeat type="désert">Grand Désert</geogFeat></placeName>, etc.</p>
+            <lb/>connaissances, les <orgName>Touaregs</orgName>, le <placeName type="réal"><geogFeat type="désert" ref="sahara">Grand Désert</geogFeat></placeName>, etc.</p>
             <p>Sa mère donne de ses nouvelles, tout en montant la 
             <lb/>petite côte au haut de laquelle on va déjeuner sur 
             <lb/>l'herbe. Le déjeuner est arrivé le premier.</p>
@@ -156,7 +156,7 @@
             <lb/>garçon solitaire, abandonné, avait rèvé le foyer, la fa-
             <lb/>mille, la communauté de tendresse, de peines et de joies 
             <lb/>qui sont le meilleur de cette vie.</p>
-            <p>Et maintenant, il les avait !</p></p>
+            <p>Et maintenant, il les avait !</p>
             </div2>
             <div2 type="questionnaire">   
             <head>Questionnaire.</head> 
