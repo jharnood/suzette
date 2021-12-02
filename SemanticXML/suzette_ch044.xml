@@ -80,12 +80,12 @@
                 <pb type="page" n="153"/>
 
                 <div2 type="récit">
-                    <p>— Bon, écoutez. Mon grand-père, <persName type="fictif">Mathias Dumay</persName>, 
+                    <p>— Bon, écoutez. Mon grand-père, <persName type="fictif" key="mathias">Mathias Dumay</persName>, 
                         <lb/>avait un bel et grand habit vert avec des boutons de 
                         <lb/>cuivre ; je le vois encore sur le dos de mon père qui en 
                         <lb/>hérita, et qui ne le mettait qu'aux grandes occasions* 
                         <gloss>Grandes occasions. Époques marquées par un événement peu ordinaire.</gloss>.
-                    <fw type="footer">9.</fw>
+                    <fw type="footer"><fw type="sig">9.</fw></fw>
 
                     <fw type="header">154 SUZETTE.</fw>
                     <pb type="page" n="154"/>
@@ -251,7 +251,7 @@
                             </list>
                         </div4>
 
-                        <div4 type="réponses" ana="#sujets-moraux_imagination">
+                        <div4 type="réponses">
                             <p>(Voir le COURS DE COMPOSITION FRANÇAISE (Degré élémentaire et moyen)
                                 de <persName type="historique">E. LAPORTE</persName>, pages 276, 281, 295, Partie du maître.)</p>
                         </div4>
