@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -183,7 +183,7 @@
                 <p>L'<placeName type="réel"><country ref="etats_unis">Amérique</country></placeName> est un immense continent situé à l'ouest de l'<placeName type="réel"><bloc ref="europe">Europe</bloc></placeName>, de 
                 <lb/>l'autre côté de l'<placeName type="réel"><geogFeat type="océan" ref="atlantique">Atlantique</geogFeat></placeName>. Il se divise en deux régions : l'<placeName type="réel"><bloc ref="amérique_nord">Amérique</bloc> 
                 <lb/>septentrionale</placeName> et l'<placeName type="réel"><bloc ref="amérique_sud">Amérique méridionale</bloc></placeName>, réunies par l'isthme de 
-                <lb/><placeName type="réel"><country ref="Panama">Panama</country></placeName>, à travers lequel <persName type="historique">M. de Lesseps</persName> a entrepris de creuser un 
+                <lb/><placeName type="réel"><country ref="panama">Panama</country></placeName>, à travers lequel <persName type="historique">M. de Lesseps</persName> a entrepris de creuser un 
                 <lb/>canal pour le passage des navires, comme il l'a déjà fait pour <placeName type="réel"><geogFeat type="isthme">l'isthme 
                 <lb/>de Suez</geogFeat></placeName>.</p> 
                 <p> L'État le plus important de cette partie du monde sont les <placeName type="réel"><country ref="etats_unis">États-Unis</country></placeName>, 
@@ -206,10 +206,10 @@
                 <lb/>lui prêter leur appui ; mais la cour d'<placeName type="réel"><country ref="espagne">Espagne</country></placeName> était pauvre ; il fallut 
                 <lb/>que le prieur <persName type="historique">Pérez</persName> et deux négociants, nommés <persName type="historique">Penzone</persName>, avançassent 
                 <lb/>17,000 ducats pour faire l'armement. <persName type="historique">Colomb</persName> partit enfin de <placeName type="réel"><settlement ref = "palos">Palos</settlement></placeName>, en 
-                <lb/><placeName type="réel"><region type="province" ref="andalouise">Andalousie</region></placeName>, avec trois petits vaisseaux dont un seul était ponté, le 
+                <lb/><placeName type="réel"><region type="province" ref="andalousie">Andalousie</region></placeName>, avec trois petits vaisseaux dont un seul était ponté, le 
                 <lb/>3 août 1492. Trois mois après, le 12 octobre, il découvrit la première 
                 <lb/>terre de l'<placeName type="réel"><country ref="etats_unis">Amérique</country></placeName> : c'était l'une des îles du groupe des <placeName ref="réel"><region type="province" ref="lucayes">Lucayes</region></placeName>, ap-
-                <lb/>pelée Guanahain par les indigènes ; <persName type="historique">Colomb</persName> lui donna le nom de <placeName type="réel"><settlement ref="san salvador">San-
+                <lb/>pelée Guanahain par les indigènes ; <persName type="historique">Colomb</persName> lui donna le nom de <placeName type="réel"><settlement ref="san_salvador">San-
                 <lb/>Salvador</settlement></placeName>. Il visita ensuite les autres îles <placeName type="réel"><region type="province" ref="lucayes">Lucayes</region></placeName>, puis il découvrit 
                     <lb/><placeName type="réel"><country ref="cuba">Cuba</country></placeName> et <placeName type="réel"><country ref="haïti">Haïti</country></placeName>, que les <orgName>Espagnols</orgName> appelèrent plus tard Saint-Domingue.</p>
                 <p> C’est une erreur de penser que le nom d'<placeName type="réel"><bloc ref="amérique_nord">Amérique</bloc></placeName> vient d'<persName type="historique">Albertino 

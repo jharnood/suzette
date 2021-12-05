@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -80,12 +80,12 @@
                 <pb type="page" n="153"/>
 
                 <div2 type="récit">
-                    <p>— Bon, écoutez. Mon grand-père, Mathias Dumay, 
+                    <p>— Bon, écoutez. Mon grand-père, <persName type="fictif" key="mathias">Mathias Dumay</persName>, 
                         <lb/>avait un bel et grand habit vert avec des boutons de 
                         <lb/>cuivre ; je le vois encore sur le dos de mon père qui en 
                         <lb/>hérita, et qui ne le mettait qu'aux grandes occasions* 
                         <gloss>Grandes occasions. Époques marquées par un événement peu ordinaire.</gloss>.
-                    <fw type="footer">9.</fw>
+                    <fw type="footer"><fw type="sig">9.</fw></fw>
 
                     <fw type="header">154 SUZETTE.</fw>
                     <pb type="page" n="154"/>
@@ -96,18 +96,18 @@
                         <lb/>Cependant, un beau jour, elles l'attaquèrent, ne s'en 
                         <lb/>prenant heureusement qu'aux manches, qui, d'ailleurs, 
                         <lb/>furent aussi bien trouées que des écumoires.</p>
-                    <p>Ici le père Benoît ôta sa pipe de ses lèvres :</p>
-                    <p>— Pardon, dit-il, Denis Dumay, si je 
+                    <p>Ici le père <persName type="fictif" key="benoît">Benoît</persName> ôta sa pipe de ses lèvres :</p>
+                    <p>— Pardon, dit-il, <persName type="fictif" key="m_dumay">Denis Dumay</persName>, si je 
                         <lb/>t'arrête; le mélilot n'a jamais chassé
                         <lb/>les mites. Nous avions dans ce temps-la, 
-                        <lb/>et ma fille Ludivine a encore un se-
+                        <lb/>et ma fille <persName type="fictif" key="ludivine">Ludivine</persName> a encore un se-
                         <lb/>cret de conjuration qui les empêche de 
                         <lb/>nuire eu les ensorcelant*
                             <gloss>Ensorceler. Causer des maladies, des accidents par des pratiques
                             bizarres à l'effet desquelles on ne croit plus.</gloss>; mais ta mère
                         <lb/>aimait à faire à sa tête.</p>
-                    <p>M. Dumay, qui connaissait la manie 
-                        <lb/>du père-Benoît, sourit et continua :</p>
+                    <p><persName type="fictif" key="m_dumay">M. Dumay</persName>, qui connaissait la manie 
+                        <lb/>du père-<persName type="fictif" key="benoît">Benoît</persName>, sourit et continua :</p>
                     <p>— Les basques et le reste étaient in-
                         <lb/>tacts* <gloss>Intact. En bon état.
                         </gloss>. Ma mère, devant le désastre, 
@@ -116,9 +116,9 @@
                         <lb/>en main, le tint devant moi en me di-
                         <lb/>sant de ne pas bouger. Elle prenait ma 
                         <lb/>mesure, me comparait au vêtement : 
-                        <lb/>«Ah! bien! ça ira, dit-elle enfin; je 
+                        <lb/> « Ah! bien! ça ira, dit-elle enfin; je 
                         <lb/>pourrai t'en faire un habillement com-
-                        <lb/>plet !»</p>
+                        <lb/>plet ! » </p>
                     <p>Cette nouvelle m'enchanta, quoique 
                         <lb/>je n'aimasse pas beaucoup le vert, le 
                         <lb/>bleu étant alors à la mode. Bref, j'en 
@@ -126,7 +126,7 @@
                         <lb/>dimanches qui, après long usage, devint vêtement de 
                         <lb/>tous les jours. Mais alors je me mis à grandir comme 
                         <lb/>une perche, et malheureusement il se garda d'en faire 
-                        <lb/>autant.Plus je m'allongeais, plus il remontait, des 
+                        <lb/>autant. Plus je m'allongeais, plus il remontait, des 
                         <lb/>manches vers les coudes, des ourlets du pantalon 
                         <lb/>vers les genoux.</p>
                     <p>Ma mère, à qui plusieurs fois je fis constater ces 
@@ -159,8 +159,8 @@
                         <pb type="page" n="155"/> 
                         <lb/>velours côtelé. Des manches, elle ne s'occupa pas et mes 
                         <lb/>bras prirent l'air tant qu'il leur plut.</p>
-                    <p>M. Dumay s'interrompit pour recevoir M. et Mme Va-
-                        <lb/>lon, qui venaient passer la soirée chez leurs amis. On 
+                    <p><persName type="fictif" key="m_dumay">M. Dumay</persName> s'interrompit pour recevoir <persName type="fictif" key="m_valon">M</persName>. et <persName type="fictif" key="mme_valon">Mme Va-
+                        <lb/>lon</persName>, qui venaient passer la soirée chez leurs amis. On 
                         <lb/>leur fit place, on les mit au courant de l'histoire, et il 
                         <lb/>continua :</p>
                 </div2>
@@ -168,16 +168,16 @@
                 <div2 type="questionnaire">
                     <head>Questionnaire.</head>
                     <list>
-                        <item>— Comment était l'habit du grand-père?</item>
-                        <item>— Quand le mettait-il? — On restait-il ensuite?</item>
-                        <item>— Quels ravages commirent les mites?</item>
-                        <item>— Quelle fut la remarque du père Benoît?</item>
-                        <item>— Qu'est-ce qui prouve que le fermier ne<cb/> partageait pas les idées
-                            de son voisin?</item>
-                        <item>— Quel parti la mère tira-t-elle des restes de l’habit?</item>
-                        <item>— Qu'arriva-t-il au bout de quelques années?</item>
-                        <item>— Quel remède y apporta la mère?</item>
-                        <item>— Quelles personnes survinrent?</item>
+                        <item>— Comment était l'habit du grand-père ?</item>
+                        <item>— Quand le mettait-il ? </item>
+                        <item>— On restait-il ensuite ? </item>
+                        <item>— Quels ravages commirent les mites ? </item>
+                        <item>— Quelle fut la remarque du père <persName type="fictif" key="benoît">Benoît </persName>? </item>
+                        <item>— Qu'est-ce qui prouve que le fermier ne partageait pas les idées de son voisin ? </item>
+                        <item>— Quel parti la mère tira-t-elle des restes de l’habit ? </item>
+                        <item>— Qu'arriva-t-il au bout de quelques années ? </item>
+                        <item>— Quel remède y apporta la mère ? </item>
+                        <item>— Quelles personnes survinrent ? </item>
                     </list>
                 </div2>
 
@@ -188,13 +188,12 @@
                         <head >Morale.</head>
                         <div4 type="questions">
                             <list>
-                                <item>— Qu'est-ce qu'être économe ?</item>
-                                <item>— Qu'est-ce que des économies ?</item>
-                                <item>— Qu'est-ce que l'économie ?</item>
-                                <item>— Pourquoi est-il sage d'économiser dans toutes les conditions
-                                    ?</item>
-                                <item>— Qu'arrive-t-il lorsqu'on ne se montre pas économe ?</item>
-                                <item>— Quelles personnes peuvent être toujours charitables ?</item>
+                                <item>— Qu'est-ce qu'être économe ? </item>
+                                <item>— Qu'est-ce que des économies ? </item>
+                                <item>— Qu'est-ce que l'économie ? </item>
+                                <item>— Pourquoi est-il sage d'économiser dans toutes les conditions ? </item>
+                                <item>— Qu'arrive-t-il lorsqu'on ne se montre pas économe ? </item>
+                                <item>— Quelles personnes peuvent être toujours charitables ? </item>
                                 <item>— Résultat des plus faibles économies.</item>
                             </list>
                         </div4>
@@ -208,8 +207,8 @@
                                 <lb/>exagérée, cette qualité devient le vice connu sous le nom d'avarice, 
                                 <lb/>odieuse disposition qui ferme la main de l'homme riche même quand 
                                 <lb/>on sollicite auprès de lui quelques secours.</p>
-                            <p>Le sage Franklin dit quelque part :</p>
-                            <p>«Celui qui ne sait point épargner à mesure qu'il gagne, mourra sans 
+                            <p>Le sage <persName type="historique">Franklin</persName> dit quelque part :</p>
+                            <p>« Celui qui ne sait point épargner à mesure qu'il gagne, mourra sans 
                                 <lb/>« avoir un sou, après avoir été toute sa vie collé sur son ouvrage. Si
                                 <lb/>« vous voulez être riche, n'apprenez pas seulement comment on gagne,
                                 <lb/>« mais encore comment on épargne. Un peu répété fait un beaucoup; 
@@ -222,7 +221,7 @@
                                 <lb/>Seuls, les gens qui épargnent se trouvent on mesure d'être charitables : 
                                 <lb/>il y a toujours dans leur bourse une pièce pour l'indigent, et dans 
                                 <lb/>leur cuisine un morceau de pain pour celui qui en manque.</p>
-                            <p>Les économies les plus faibles finissent, à la suito des années, par
+                            <p>Les économies les plus faibles finissent, à la suite des années, par
                                 <lb/>produire des sommes considérables. Celui qui met de côté un sou par
                                 <lb/>jour, peut placer chaque année à la Caisse d'épargne 18 fr. 25. — S'il 
                                 <lb/>commence à l'âge de 20 ans, et qu'il continue ainsi à vivre jusqu'à 
@@ -252,9 +251,9 @@
                             </list>
                         </div4>
 
-                        <div4 type="réponses" ana="#sujets-moraux_imagination">
+                        <div4 type="réponses">
                             <p>(Voir le COURS DE COMPOSITION FRANÇAISE (Degré élémentaire et moyen)
-                                de E. LAPORTE, pages 276, 281, 295, Partie du maître.)</p>
+                                de <persName type="historique">E. LAPORTE</persName>, pages 276, 281, 295, Partie du maître.)</p>
                         </div4>
                     </div3>
 
@@ -282,7 +281,7 @@
                                 <lb/>d'une nourriture. Ainsi la destruction marche rapidement, et souvent 
                                 <lb/>le désastre est irrémédiable.</p>
                             <p>Pour préserver des mites ou teignes les vêtements de laine et les
-                                <lb/>fourrures, le meillour procédé est de les exposer, fréquemment à l'air, 
+                                <lb/>fourrures, le meilleur procédé est de les exposer, fréquemment à l'air, 
                                 <lb/>de les battre, de les agiter un peu on pleine lumière. Les plantes ou 
                                 <lb/>substances à odeur forte, telles que le camphre, le poivre, le tabac, les 
                                 <lb/>éloignent. On emploie encore, pour détruire, avec succès, ces insectes, 
@@ -312,7 +311,7 @@
                                 <lb/>de ne plus être utilement reprisé ou raccommodé, et encore lorsqu'il
                                 <lb/>est devenu trop étroit et trop court. Dans le premier cas, on en
                                 <lb/>détache les parties en meilleur état pour les employer comme dou-
-                                <lb/>blure ou pièces. Dans lo second cas, on découd les habits, on les net-
+                                <lb/>blure ou pièces. Dans le second cas, on découd les habits, on les net-
                                 <lb/>toie ot il est facile à une ménagère intelligente et adroite d'en confec-
                                 <lb/>tionner d'autres à l'usage des plus jeunes enfants.</p>
                             <p>Dans les familles riches, les vêtements mis au rebut pourront être
@@ -320,7 +319,7 @@
                                 <lb/>parti.</p>
                             <p>Il faut se garder de ce travers dangereux et coûteux qui consiste à
                                 <lb/>suivre exactement tous les caprices de la mode, quelque ridicules
-                                <lb/>qu'ils soient bien souvent; il n'y a point dans un ménage de source
+                                <lb/>qu'ils soient bien souvent ; il n'y a point dans un ménage de source
                                 <lb/>plus directe d'embarras d'argent. Les personnes sages adoptent les
                                 <lb/>changements généraux que la mode impose aux vêtements, mais on 
                                 <lb/>se gardant de descendre dans tous les détails, et encore on' évitant 
