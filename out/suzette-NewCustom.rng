@@ -5,7 +5,7 @@
          xmlns="http://relaxng.org/ns/structure/1.0"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2021-12-05T16:14:18Z. .
+Schema generated from ODD source 2021-12-05T16:25:54Z. .
 TEI Edition: Version 4.0.0. Last updated on
 	13th February 2020, revision ccd19b0ba
 TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 4.0.0/
@@ -135,7 +135,7 @@ TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 4.0.0/
             </choice>
          </zeroOrMore>
       </element>
-      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e98401-constraint">
+      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e98422-constraint">
          <rule context="tei:content">
             <report test="descendant::*[not(namespace-uri(.) =               ('http://relaxng.org/ns/structure/1.0', 'http://www.tei-c.org/ns/1.0'))]">content descendants must be in the
               namespaces
@@ -184,7 +184,7 @@ TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 4.0.0/
             </choice>
          </zeroOrMore>
       </element>
-      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e99565-constraint">
+      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e99586-constraint">
          <rule context="tei:datatype">
             <report test="descendant::*[not(namespace-uri(.) =               ('http://relaxng.org/ns/structure/1.0', 'http://www.tei-c.org/ns/1.0'))]">datatype descendants must be in the
               namespaces
@@ -12157,6 +12157,10 @@ Suggested values include: 1] paper; 2] parch (parchment); 3] mixed</a:documentat
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Andalousie</a:documentation>
                         <value>lucayes</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Lucayes</a:documentation>
+                        <value>flandres</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Flandres</a:documentation>
+                        <value>poitou</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Poitou</a:documentation>
                      </choice>
                   </oneOrMore>
                </list>
@@ -12324,6 +12328,12 @@ Suggested values include: 1] paper; 2] parch (parchment); 3] mixed</a:documentat
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Moscou</a:documentation>
                         <value>smolensk</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Smolensk</a:documentation>
+                        <value>bruxelles</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Bruxelles</a:documentation>
+                        <value>milan</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Milan</a:documentation>
+                        <value>san_quentin</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">San Quentin</a:documentation>
                      </choice>
                   </oneOrMore>
                </list>

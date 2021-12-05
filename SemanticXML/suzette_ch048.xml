@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
+<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
@@ -77,7 +79,7 @@
                 <head type="chapitre">48. Au marché. (Élève, p. 106.)</head>
                 <pb type="page" n="168"/>
                 <div2 type="récit">
-                    <p>C'est un samedi, c'est le marché de <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="saint-quentin">Saint-Quentin</settlement></country></bloc></placeName>. La grand place s'anime. À
+                    <p>C'est un samedi, c'est le marché de <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="saint_quentin">Saint-Quentin</settlement></country></bloc></placeName>. La grand place s'anime. À
                         terre ou sur les étals, légumes,légumes, fromages, s'empilent en tas ; le
                         marchand est à son poste, guettant la ménagère. Elle passe:</p>
                     <figure>
@@ -268,7 +270,7 @@
                         </div4>
                     </div3>
 
-                    <div3 type="complexe" subtype="agriculture">
+                    <div3 type="agriculture">
                         <head type="sujets">Agriculture.</head>
                         <div4 type="questions">
                             <list type="exercices">
