@@ -73,14 +73,14 @@
     </teiHeader>
     <text>
         <body>
-            <div1 type="chapitre" xml:lang="fr" corresp="#ch048">
+            <div1 type="chapitre" n="048">
                 <head type="chapitre">48. Au marché. (Élève, p. 106.)</head>
                 <pb type="page" n="168"/>
                 <div2 type="récit">
-                    <p>C'est un samedi, c'est le marché de Saint-Quentin. La grand place s'anime. À
+                    <p>C'est un samedi, c'est le marché de <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="saint-quentin">Saint-Quentin</settlement></country></bloc></placeName>. La grand place s'anime. À
                         terre ou sur les étals, légumes,légumes, fromages, s'empilent en tas ; le
                         marchand est à son poste, guettant la ménagère. Elle passe:</p>
-                    <figure type="sujets">
+                    <figure>
                         <caption>La carotte.
                             <lb/> Plante potagère qui sert d'aliment à l'homme comme aux animaux
                             domestiques.</caption>
@@ -115,7 +115,7 @@
                     <p>— Et quelle disette * <gloss>Disette. Manque des choses nécessaires à la
                             vie.</gloss> ! </p>
                     <p>— A qui le dites-vous ?</p>
-                    <p>— C'est à faire venir ses légumes de Paris !</p>
+                    <p>— C'est à faire venir ses légumes de <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="paris">Paris</settlement></country></bloc></placeName> !</p>
                     <p>— Comme on en fait venir déjà sa volaille. Ces
                         <lb/>paysans ont horreur de la basse-cour et du jardinage.
                         <lb/>Parcourez le marché.: des poulets de carême !
@@ -125,7 +125,7 @@
                     <p>La dame qui écoutait poussa tout à coup une petite
                         <lb/>exclamation :</p>
 
-                    <p>— Mais en voilà, des choux de Bruxelles! Et bien
+                    <p>— Mais en voilà, des choux de <placeName type="réel"><bloc ref="europe"><country ref="belgique"><settlement ref="bruxelles">Bruxelles</settlement></country></bloc></placeName>! Et bien
                         <lb/>d'autres choses aussi !</p>
                 </div2>
 
@@ -161,7 +161,7 @@
                             </list>
                         </div4>
 
-                        <div4 type="réponses" ana="#instruction_civique">
+                        <div4 type="réponses">
                             <p>On ne connaît personne qui puisse <term>produire</term> oit
                                     <term>fabriquer</term> co qui est
                                 <lb/>nécessaire à tous tes besoins de ta vie. Chacun a une
@@ -231,7 +231,7 @@
                             </list>
                         </div4>
 
-                        <div4 type="réponses" ana="#instruction_civique">
+                        <div4 type="réponses">
                             <p><term>Les paniers</term> sont dos ustensiles formés d'un tissu
                                 d'osier, de jonc
                                 <lb/>ou de paille ; ils servent à contenir les marchandises, les
@@ -326,7 +326,7 @@
                             </list>
                         </div4>
 
-                        <div4 type="réponses" ana="#aliments_cuisine">
+                        <div4 type="réponses">
                             <p>Une volaille mise en vente doit avoir., la peau fine et blanche et un
                                 <lb/>embonpoint satisfaisant. Il vaut mieux la plumer aussitôt tuée
                                 ot la
