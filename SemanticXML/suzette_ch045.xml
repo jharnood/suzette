@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -83,7 +83,7 @@
 
                     <p>— Quoique toujours à l'air, mes bras n'en grossirent 
                         <lb/>pas moins, si bien qu'un beau jour, à l'école — dans ce 
-                        <lb/>temps-là, c'était un vieux soldat de la retraite de Moscou 
+                        <lb/>temps-là, c'était un vieux soldat de la retraite de <placeName type="réel"><bloc ref="europe"><country ref="russie"><settlement ref="moscou">Moscou</settlement></country></bloc></placeName> 
                         <lb/>qui nous taisait la classe, et chacun de nous, pour le
                         <lb/>chauffage, apportait sa bûche à son tour, — donc ce 
                         <lb/>beau jour-là, portant la mienne, qui était de taille, je me 
@@ -95,10 +95,10 @@
                         <lb/>ce dos. Puis m'ayant retourné, elle me sourit comme 
                         <lb/>si je venais de faire une bonne action.</p>
                     <figure>
-                        <caption>La retraite de Moscou.<lb/> En 1812, Napoléon Ier, après être entré à Moscou, y pensait hiverner. Mais 
+                        <caption>La retraite de <placeName type="réel"><bloc ref="europe"><country ref="russie"><settlement ref="moscou">Moscou</settlement></country></bloc></placeName>.<lb/> En 1812, <persName type="historique">Napoléon Ier</persName>, après être entré à <placeName type="réel"><bloc ref="europe"><country ref="russie"><settlement ref="moscou">Moscou</settlement></country></bloc></placeName>, y pensait hiverner. Mais 
                             <lb/>les Russes incendièrent la ville, qu'il fallut abandonner, et l'armée dut battre 
                             <lb/>en retraite à travers d'immenses plaines de neige, par un froid terrible. Le désastre 
-                            <lb/>des Français fut complet au passage de la Bérésina, et en sortant de la Russie, 
+                            <lb/>des Français fut complet au passage de la <placeName type="réel"><geogFeat type="riviére" ref="bérésina">Bérésina</geogFeat></placeName>, et en sortant de la <placeName type="réel"><bloc ref="europe"><country ref="russie">Russie</country></bloc></placeName>, 
                             <lb/>la grande armée ne comptait plus que 24,000 hommes sur près de 400,000.</caption>
                     </figure>
 
@@ -106,54 +106,53 @@
                     <pb type="page" n="158"/>
                     <p>Et huit jours après, j'endossais ma veste sous la forme 
                         <lb/>d'un gilet. Je le portai trois ans. Dans ce gilet, j'ache-
-                        <lb/>vai mes études, qui n'étaient pas alors très compliquées * 
+                        <lb/>vai mes études, qui n'étaient pas alors très compliquées* 
                         <gloss> Compliqué. Qui est composé d'un grand
                             nombre de choses.</gloss>. 
                         <lb/>Mais il fallut enfin lui donner un remplaçant.</p>
-                    <p>— Cette fois, ce fut fini? demanda Suzette.</p>
+                    <p>— Cette fois, ce fut fini? demanda <persName type="fictif" key="suzette">Suzette</persName>.</p>
                     <p>— Fini? ah, que nenni! et que vous ne valez pas 
-                        <lb/>votre grand mère, ma Suzette, si vous croyez qu'un 
+                        <lb/>votre grand mère, ma <persName type="fictif" key="suzette">Suzette</persName>, si vous croyez qu'un 
                         <lb/>habit a fini son temps quand il a passé d'habit en veste 
                         <lb/>et de veste en gilet ! L’hiver qui suivit m'en trouva coiffé.</p>
                     <p>— Coiffé de votre gilet, papa !</p>
                     <p>— Oui, de mon gilet, mais il était devenu calotte. Et 
                         <lb/>voilà ce qu'il reste de la calotte, dit-il, on prenant le mor-
                         <lb/>ceau de drap vert. Je le croyais bien perdu.</p>
-                    <p>— Bon, s'écria François joyeusement, je disais bien 
-                        <lb/>à Suzette qu'il n'en fallait pas rapetasser* 
+                    <p>— Bon, s'écria <persName type="fictif" key="françois">François</persName> joyeusement, je disais bien 
+                        <lb/>à <persName type="fictif" key="françois">Suzette</persName> qu'il n'en fallait pas rapetasser* 
                         <gloss>Rapetasser. Raccommoder grossièrement de
                             vieux habits.</gloss> mon pan-
                         <lb/>talon.</p>
-                    <p>— En effet, dit Jacques, ce morceau est le reste d'un 
+                    <p>— En effet, dit <persName type="fictif" key="jacques">Jacques</persName>, ce morceau est le reste d'un 
                         <lb/>vêtement célèbre, comme vous l'avez appelé, papa.</p>
-                    <p>M. Dumay était devenu tout grave :</p>
+                    <p><persName type="fictif" key="m_dumay">M. Dumay</persName> était devenu tout grave :</p>
                     <p>— Un vêtement ne peut pas être célèbre parce que 
                         <lb/>je l'ai porté sous plusieurs formes, répondit-il; j'au-
                         <lb/>rais dit dire « glorieux » au lieu de « célèbre » — il 
-                        <lb/>regarda M. et Mme Valon, très attentifs, — oui, glo-
-                        <lb/>rieux! Car mon
-                        grand-père, Mathias Dumay, en était 
+                        <lb/>regarda <persName type="fictif" key="m_valon">M</persName>. et <persName type="fictif" key="mme_valon">Mme Valon,</persName> très attentifs, — oui, glo-
+                        <lb/>rieux! Car mon grand-père, <persName type="fictif" key="mathias">Mathias Dumay</persName>, en était 
                         <lb/>vêtu lorsqu'il alla, comme délégué*
                             <gloss>Délégué. Celui qui est envoyé par d'autres pour agir et décider
-                            en leur nom.</gloss> de Fragicourt, 
+                            en leur nom.</gloss> de <placeName type="fictif">Fragicourt</placeName>, 
                         <lb/>voter pour l'élection des députés aux États généraux* 
                         <gloss>États généraux. Assemblée des députés des trois
                             ordres de la nation sous l'ancienne monarchie. </gloss> 
                         <lb/>de 1789.</p>
-                    <p>Les enfants battirent des mains, Jacques, Suzette, 
-                        <lb/>François, et même Chariot ayant appris, par l'école et 
+                    <p>Les enfants battirent des mains, <persName type="fictif" key="jacques">Jacques</persName>, <persName type="fictif" key="suzette">Suzette</persName>, 
+                        <lb/><persName type="fictif" key="françois">François</persName>, et même <persName type="fictif" key="charlot">Charlot</persName> ayant appris, par l'école et 
                         <lb/>par les livres, la grandeur de cette époque dans notre 
                         <lb/>histoire nationale. Quelque petit qu'eût été' le rôle*
                             <gloss>Rôle. Manière d'agir dans les affaires du monde.</gloss> 
-                        <lb/>de Mathias Dumay à cette heure magnifique de l'affran-
+                        <lb/>de <persName type="fictif" key="mathias">Mathias Dumay</persName> à cette heure magnifique de l'affran-
                         <lb/>chissement humain*
                             <gloss>Humain. Qui se rapporte à l'homme. </gloss>, 
                         ses descendants saluaient l'an-
                         <lb/>cêtre avec une fierté attendrie* <gloss>Fierté attendrie.
                             Fierté mêlée de tendresse.</gloss>.</p>
                     <p>— Oui, nous conserverons cela comme une relique ! 
-                        <lb/>s'écria Suzette en élevant le morceau de drap, que 
-                        <lb/>M. et Mme Valon prirent ensuite pour le regarder.</p>
+                        <lb/>s'écria <persName type="fictif" key="suzette">Suzette</persName> en élevant le morceau de drap, que 
+                        <lb/><persName type="fictif" key="m_valon">M</persName>. et <persName type="fictif" key="mme_valon">Mme Valon</persName> prirent ensuite pour le regarder.</p>
                     <p>Et les enfants répétèrent :</p>
                     <p>— Nous le conserverons !</p>
 
@@ -164,17 +163,17 @@
                 <div2 type="questionnaire">
                     <head>Questionnaire.</head>
                     <list >
-                        <item>— Qui dirigeait l'école au temps où M. Dumay la fréquentait ?</item>
+                        <item>— Qui dirigeait l'école au temps où <persName type="fictif" key="m_dumay">M. Dumay</persName> la fréquentait ?</item>
                         <item>— Quoi accident y arriva un certain jour ?</item>
                         <item>— Que fit la mère quand son fils fut de retour ?</item>
                         <item>— Quel parti sut-elle tirer des restes de la veste;</item>
                         <item>— de ceux du gilet quand ce dernier vêtement fut hors du service
                             ?</item>
-                        <item>— Quel souvenir rappelait à M. Dumay le dernier morceau du vieil habit
+                        <item>— Quel souvenir rappelait à <persName type="fictif" key="m_dumay">M. Dumay</persName> le dernier morceau du vieil habit
                             ?</item>
                         <item>— Que firent les enfants quand leur père eut parlé des États généraux
                             de 1789 ?</item>
-                        <item>— Qu'ajouta Suzette ?</item>
+                        <item>— Qu'ajouta <persName type="fictif" key="suzette">Suzette</persName> ?</item>
                     </list>
                 </div2>
 
@@ -186,16 +185,16 @@
                         <div4 type="questions">
                             <list>
                                 <item>— Racontez dans quelles conditions désastreuses l'armée
-                                    française, pendant l'hiver de 1812, battit en retraite de Moscou
+                                    française, pendant l'hiver de 1812, battit en retraite de <placeName type="réel"><bloc ref="europe"><country ref="russie"><settlement ref="moscou">Moscou</settlement></country></bloc></placeName>
                                     à la frontière russe.</item>
                             </list>
                         </div4>
 
                         <div4 type='réponses'>
                             <head>RETRAITE DE RUSSIE.</head>
-                            <p>— Napoléon quitta Moscou le 23 octobre 1812, 
+                            <p>— <persName type="historique">Napoléon</persName> quitta <placeName type="réel"><bloc ref="europe"><country ref="russie"><settlement ref="moscou">Moscou</settlement></country></bloc></placeName> le 23 octobre 1812, 
                                 <lb/>après avoir fait sauter le Kremlin ; arrêté dans sa marche par les forces 
-                                <lb/>considérables des Russes, il se porta avec l'armée sur Smolensk. 
+                                <lb/>considérables des Russes, il se porta avec l'armée sur <placeName type="réel"><bloc ref="europe"><country ref="russie"><settlement ref="smolensk">Smolensk</settlement></country></bloc></placeName>. 
                                 <lb/>C’était une grande faute que lui faisaient commettre ses généraux, 
                                 <lb/>car le pays était entièrement dévasté. Le froid, qui descendit à 25 et 
                                 <lb/>même 30° au-dessous de zéro, lit d'innombrables victimes ; la route était
@@ -208,13 +207,14 @@
                                 <lb/>n'étaient pas achevés par les Russes. Aussi beaucoup de soldats quit-
                                 <lb/>taient le drapeau, jetaient leurs armes et suivaient l'armée on traî
                                 <lb/>nards jusqu'à ce qu'ils tombassent épuisés de fatigue et de misère.</p>
-                            <p>L'épisode le plus terrible de la retraite de Russie est le passage de
-                                <lb/>la Bérésina. L'ennemi avait détruit le pont ; Napoléon on fit élever à 
+                            <p>L'épisode le plus terrible de la retraite de <placeName type="réel"><bloc ref="europe"><country ref="russie">Russie</country></bloc></placeName> est le passage de
+                                <lb/>la <placeName type="réel"><geogFeat type="riviére" ref="bérésina">Bérésina</geogFeat></placeName>. L'ennemi avait détruit le pont ; <persName type="historique">Napoléon</persName> on fit élever à 
                                 <lb/>la hâte deux autres sur chevalets par les pontonniers, qui, plongés dans 
                                 <lb/>l'eau glacée pendant deux jours et deux nuits, périrent presque tous. 
                                 <lb/>Une partie de l'armée put gagner l'autre rive; mais les traînards et 
                                 <lb/>la multitude qui s'étaient refusés à passer quand la chose était sans 
-                                <lb/>danger, se précipitèrent sur les ponts avec un désordre qui causa d'af- Les boulots ennemis, 
+                                <lb/>danger, se précipitèrent sur les ponts avec un désordre qui causa d'af-
+                                <lb/>freux malheurs, quand apparurent les Russes. Les boulots ennemis, 
                                 <lb/>tombant au milieu de cette foule compacte, y traçaient d'horribles 
                                 <lb/>sillons et arrachaient des cris de terreur aux pauvres femmes fugi-
                                 <lb/>tives qui étaient sur des voitures avec leurs enfants. On 
@@ -233,8 +233,8 @@
                             <list>
                                 <item>— Objet des cheminées.</item>
                                 <item>— Parties dont elles se composent.</item>
-                                <item>— Qu'est-ce que la suie?</item>
-                                <item>— Comment en débarrasse-t-on le tuyau?</item>
+                                <item>— Qu'est-ce que la suie ? </item>
+                                <item>— Comment en débarrasse-t-on le tuyau ? </item>
                                 <item>— Parier des petits ramoneurs.</item>
                                 <item>— Décrire un poêle de fonte ou de faïence.</item>
                             </list>
@@ -247,7 +247,7 @@
                                     <term>l'âtre</term> 
                                 <lb/>ou <term>foyer</term> proprement dit, du chambranle qui l'encadre et du tuyau 
                                 <lb/>dont il a été question. Des ouvertures appelées <term>ventouses</term> amènent 
-                                <lb/>près du foyer l'air extérieur et facilitent l'ascension de la fumée. Los 
+                                <lb/>près du foyer l'air extérieur et facilitent l'ascension de la fumée. Les 
                                 <fw type="header">160 SUZETTE.</fw>
                                 <pb type="page" n="160"/> 
                                 
@@ -272,8 +272,7 @@
                         <head>Hygiène.</head>
                         <div4 type="questions">
                             <list>
-                                <item>— Quels avantages présente le chauffage au moyen des cheminées
-                                    ?</item>
+                                <item>— Quels avantages présente le chauffage au moyen des cheminées ?</item>
                                 <item>— Quels en sont les deux inconvénients principaux ?</item>
                                 <item>— Quels avantages présente l'usage des poêles ?</item>
                                 <item>— Comment remédie-t-on à l'insuffisance du renouvellement de

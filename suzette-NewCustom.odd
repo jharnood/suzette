@@ -20,7 +20,8 @@
   </teiHeader>
   <text>
     <body>
-      <schemaSpec ident="suzette_NewCustom" start="TEI teiCorpus" targetLang="en" docLang="en" prefix="tei_">
+      <schemaSpec ident="suzette-NewCustom" start="TEI teiCorpus" targetLang="en" docLang="en">
+        <!--removing prefix_tei-->
         <moduleRef key="tei" />
         <!-- required -->
         <moduleRef key="core" />
@@ -313,6 +314,9 @@
                 <valItem ident="vincent" mode="add">
                   <desc>Vincent</desc>
                 </valItem>
+              	<valItem ident="mathias" mode="add">
+              		<desc>Mathias Dumay</desc>
+              	</valItem>
               </valList>
             </attDef>
             <!--      		  <attDef ident="corresp" mode="delete"/>
@@ -382,12 +386,12 @@
         <elementSpec ident="placeName" mode="change">
           <attList>
             <attDef ident="type" mode="change">
-              <valList mode="change" type="closed">
-                <valItem ident="real" mode="add">
-                  <desc>Real</desc>
+              <valList type="closed" mode="change">
+                <valItem ident="réel" mode="add">
+                  <desc xml:lang="fr">réel</desc>
                 </valItem>
                 <valItem ident="fictif" mode="add">
-                  <desc>Fictif</desc>
+                  <desc xml:lang="fr">fictif</desc>
                 </valItem>
               </valList>
             </attDef>
@@ -448,9 +452,12 @@
                 <valItem ident="océanie" mode="add">
                   <desc>Océanie</desc>
                 </valItem>
-                <valItem ident="indie" mode="add">
+                <valItem ident="inde" mode="add">
                   <desc>Inde</desc>
                 </valItem>
+              	<valItem ident="indo_chine" mode="add">
+              		<desc>Indo-Chine</desc>
+              	</valItem>
               </valList>
             </attDef>
           </attList>
@@ -508,6 +515,30 @@
                 <valItem ident="mongolie" mode="add">
                   <desc>Mongolie</desc>
                 </valItem>
+                <valItem ident="panama" mode="add">
+                  <desc>Panama</desc>
+                </valItem>
+                <valItem ident="indes" mode="add">
+                  <desc>Indes</desc>
+                </valItem>
+              	<valItem ident="portugal" mode="add">
+              		<desc>Portugal</desc>
+              	</valItem>
+              	<valItem ident="corse" mode="add">
+              		<desc>Corse</desc>
+              	</valItem>
+              	<valItem ident="haïti" mode="add">
+              		<desc>Haïti</desc>
+              	</valItem>
+              	<valItem ident="cuba" mode="add">
+              		<desc>Cuba</desc>
+              	</valItem>
+              	<valItem ident="russie" mode="add">
+              		<desc>Russie</desc>
+              	</valItem>
+              	<valItem ident="suède" mode="add">
+              		<desc>Suède</desc>
+              	</valItem>
               </valList>
             </attDef>
             <attDef ident="type" mode="change">
@@ -646,7 +677,7 @@
                 </valItem>
                 <valItem mode="add" ident="le_mans">
                   <desc>Le Mans</desc>
-                </valItem> 
+                </valItem>
                 <valItem ident="angers" mode="add">
                   <desc>Angers</desc>
                 </valItem>
@@ -695,11 +726,41 @@
                 <valItem ident="auxerre" mode="add">
                   <desc>Auxerre</desc>
                 </valItem>
+                <valItem ident="palos" mode="add">
+                  <desc>Palos</desc>
+                </valItem>
+              	<valItem ident="rambouillet" mode="add">
+              		<desc>Rambouillet</desc>
+              	</valItem>
+              	<valItem ident="rethel" mode="add">
+              		<desc>Rethel</desc>
+              	</valItem>
+              	<valItem ident="calvi" mode="add">
+              		<desc>Calvi</desc>
+              	</valItem>
+              	<valItem ident="san_salvador" mode="add">
+              		<desc>San Salvador</desc>
+              	</valItem>
+              	<valItem ident="moscou" mode="add">
+              		<desc>Moscou</desc>
+              	</valItem>
+              	<valItem ident="smolensk" mode="add">
+              		<desc>Smolensk</desc>
+              	</valItem>
+              	<valItem ident="bruxelles" mode="add">
+              		<desc>Bruxelles</desc>
+              	</valItem>
+              	<valItem ident="milan" mode="add">
+              		<desc>Milan</desc>
+              	</valItem>
+              	<valItem ident="san_quentin" mode="add">
+              		<desc>San Quentin</desc>
+              	</valItem>
               </valList>
             </attDef>
           </attList>
         </elementSpec>
-        <!-- Add region @type and @ref values -->
+        <!-- Add region @type values -->
         <elementSpec ident="region" mode="change">
           <attList>
             <attDef ident="type" mode="change">
@@ -720,14 +781,26 @@
             </attDef>
             <attDef ident="ref" mode="change">
               <valList mode="change" type="closed">
-                <valItem ident="lombardie">
+                <valItem ident="lombardie" mode="add">
                   <desc>Lombardie</desc>
                 </valItem>
+                <valItem ident="andalousie" mode="add">
+                  <desc>Andalousie</desc>
+                </valItem>
+                <valItem ident="lucayes" mode="add">
+                  <desc>Lucayes</desc>
+                </valItem>
+              	<valItem ident="flandres" mode="add">
+              		<desc>Flandres</desc>
+              	</valItem>
+              	<valItem ident="poitou" mode="add">
+              		<desc>Poitou</desc>
+              	</valItem>
               </valList>
             </attDef>
           </attList>
         </elementSpec>
-        <!-- Add geogFeat @type values and @ref values -->
+        <!-- Add geogFeat @type values  -->
         <elementSpec ident="geogFeat" mode="change">
           <attList>
             <attDef ident="type" mode="change">
@@ -771,18 +844,35 @@
               </valList>
             </attDef>
             <attDef ident="ref" mode="change">
-              <valList>
+              <valList mode="change" type="closed">
                 <valItem ident="sahara" mode="add">
                   <desc>Sahara</desc>
                 </valItem>
                 <valItem mode="add" ident="pô">
                   <desc>Pô</desc>
                 </valItem>
+                <valItem ident="atlantique" mode="add">
+                  <desc>Atlantique</desc>
+                </valItem>
+                <valItem ident="moye" mode="add">
+                  <desc>Moye</desc>
+                </valItem>
+                <valItem ident="atlantique" mode="add">
+                  <desc>Atlantique</desc>
+                </valItem>
+                <valItem ident="avre" mode="add">
+                  <desc>Avre</desc>
+                </valItem>
+              	<valItem ident="bérésina" mode="add">
+              		<desc>Bérésina</desc>
+              	</valItem>
+              	<valItem ident="isthme_suez" mode="add">
+              		<desc>Isthme de Suez</desc>
+              	</valItem>
               </valList>
             </attDef>
           </attList>
         </elementSpec>
-        
         <!-- Customize span @ana to reference thematic components of the book -->
         <elementSpec ident="span" mode="change">
           <attList>
