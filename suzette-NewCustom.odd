@@ -314,6 +314,9 @@
                 <valItem ident="vincent" mode="add">
                   <desc>Vincent</desc>
                 </valItem>
+              	<valItem ident="mathias" mode="add">
+              		<desc>Mathias Dumay</desc>
+              	</valItem>
               </valList>
             </attDef>
             <!--      		  <attDef ident="corresp" mode="delete"/>
@@ -452,6 +455,9 @@
                 <valItem ident="inde" mode="add">
                   <desc>Inde</desc>
                 </valItem>
+              	<valItem ident="indo_chine" mode="add">
+              		<desc>Indo-Chine</desc>
+              	</valItem>
               </valList>
             </attDef>
           </attList>
@@ -512,12 +518,24 @@
                 <valItem ident="panama" mode="add">
                   <desc>Panama</desc>
                 </valItem>
-                <valItem ident="calvi" mode="add">
-                  <desc>Calvi</desc>
-                </valItem>
                 <valItem ident="indes" mode="add">
                   <desc>Indes</desc>
                 </valItem>
+              	<valItem ident="portugal" mode="add">
+              		<desc>Portugal</desc>
+              	</valItem>
+              	<valItem ident="corse" mode="add">
+              		<desc>Corse</desc>
+              	</valItem>
+              	<valItem ident="haïti" mode="add">
+              		<desc>Haïti</desc>
+              	</valItem>
+              	<valItem ident="cuba" mode="add">
+              		<desc>Cuba</desc>
+              	</valItem>
+              	<valItem ident="russie" mode="add">
+              		<desc>Russie</desc>
+              	</valItem>
               </valList>
             </attDef>
             <attDef ident="type" mode="change">
@@ -708,12 +726,24 @@
                 <valItem ident="palos" mode="add">
                   <desc>Palos</desc>
                 </valItem>
-                <valItem ident="portugal" mode="add">
-                  <desc>Portugal</desc>
-                </valItem>
-                <valItem ident="corse" mode="add">
-                  <desc>Corse</desc>
-                </valItem>
+              	<valItem ident="rambouillet" mode="add">
+              		<desc>Rambouillet</desc>
+              	</valItem>
+              	<valItem ident="rethel" mode="add">
+              		<desc>Rethel</desc>
+              	</valItem>
+              	<valItem ident="calvi" mode="add">
+              		<desc>Calvi</desc>
+              	</valItem>
+              	<valItem ident="san_salvador" mode="add">
+              		<desc>San Salvador</desc>
+              	</valItem>
+              	<valItem ident="moscou" mode="add">
+              		<desc>Moscou</desc>
+              	</valItem>
+              	<valItem ident="smolensk" mode="add">
+              		<desc>Smolensk</desc>
+              	</valItem>
               </valList>
             </attDef>
           </attList>
@@ -815,6 +845,9 @@
                 <valItem ident="avre" mode="add">
                   <desc>Avre</desc>
                 </valItem>
+              	<valItem ident="bérésina" mode="add">
+              		<desc>Bérésina</desc>
+              	</valItem>
               </valList>
             </attDef>
           </attList>
