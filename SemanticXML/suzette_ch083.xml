@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
 <?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -102,7 +102,7 @@
 				<lb/>dans la métallurgie 
 				<lb/>sont mus par la vapeur. Le pilon ou mouton pèse 
 				<lb/>un poids considérable ; celui de l&apos;usine du <placeName><bloc ref="europe"><country ref="france"><settlement type="commune">Creusot</settlement></country></bloc></placeName> 
-				<lb/>(<placeName type="france" subtype="département">Saône-et-Loire</placeName>) dépasse 80,000 kilogr. — 2. Ouvrier 
+				<lb/>(<placeName>Saône-et-Loire</placeName>) dépasse 80,000 kilogr. — 2. Ouvrier 
 				<lb/>peignant la laine.</caption>
 				</figure>
 				<p>— Voyez-vous 
@@ -175,9 +175,9 @@
 			
 				<fw>288 SUZETTE.</fw> 
 			
-				<lb/>produits. Elle nous rapportera le coton de l&apos;<placeName type="amérique">Amérique</placeName>, 
-				<lb/>le blé, les laines de l&apos;<placeName type="océanie">Australie</placeName>, la soie, le thé de la 
-				<lb/><placeName type="asie">Chine</placeName>, le café, les fruits, les épices des îles océaniennes, 
+				<lb/>produits. Elle nous rapportera le coton de l&apos;<placeName>Amérique</placeName>, 
+				<lb/>le blé, les laines de l&apos;<placeName>Australie</placeName>, la soie, le thé de la 
+				<lb/><placeName>Chine</placeName>, le café, les fruits, les épices des îles océaniennes, 
 				<lb/>tout ce que notre sol européen ne produit pas ou ne 
 				<lb/>nous donne qu&apos;avec parcimonie*<gloss>Parcimonie. Epargne excessive.</gloss>.</p></div2>
 				<div2 type='questionnaire'><head>Questionnaire.</head> <list>

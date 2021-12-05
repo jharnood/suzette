@@ -5,7 +5,7 @@
          xmlns="http://relaxng.org/ns/structure/1.0"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2021-12-05T16:25:54Z. .
+Schema generated from ODD source 2021-12-05T17:25:38Z. .
 TEI Edition: Version 4.0.0. Last updated on
 	13th February 2020, revision ccd19b0ba
 TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 4.0.0/
@@ -135,7 +135,7 @@ TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 4.0.0/
             </choice>
          </zeroOrMore>
       </element>
-      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e98422-constraint">
+      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e98430-constraint">
          <rule context="tei:content">
             <report test="descendant::*[not(namespace-uri(.) =               ('http://relaxng.org/ns/structure/1.0', 'http://www.tei-c.org/ns/1.0'))]">content descendants must be in the
               namespaces
@@ -184,7 +184,7 @@ TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 4.0.0/
             </choice>
          </zeroOrMore>
       </element>
-      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e99586-constraint">
+      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e99594-constraint">
          <rule context="tei:datatype">
             <report test="descendant::*[not(namespace-uri(.) =               ('http://relaxng.org/ns/structure/1.0', 'http://www.tei-c.org/ns/1.0'))]">datatype descendants must be in the
               namespaces
@@ -12119,6 +12119,8 @@ Suggested values include: 1] paper; 2] parch (parchment); 3] mixed</a:documentat
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Cuba</a:documentation>
                         <value>russie</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Russie</a:documentation>
+                        <value>suède</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Suède</a:documentation>
                      </choice>
                   </oneOrMore>
                </list>
@@ -12410,6 +12412,8 @@ Suggested values include: 1] paper; 2] parch (parchment); 3] mixed</a:documentat
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Avre</a:documentation>
                         <value>bérésina</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Bérésina</a:documentation>
+                        <value>isthme_suez</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Isthme de Suez</a:documentation>
                      </choice>
                   </oneOrMore>
                </list>
