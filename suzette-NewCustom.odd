@@ -744,6 +744,15 @@
               	<valItem ident="smolensk" mode="add">
               		<desc>Smolensk</desc>
               	</valItem>
+              	<valItem ident="bruxelles" mode="add">
+              		<desc>Bruxelles</desc>
+              	</valItem>
+              	<valItem ident="milan" mode="add">
+              		<desc>Milan</desc>
+              	</valItem>
+              	<valItem ident="san_quentin" mode="add">
+              		<desc>San Quentin</desc>
+              	</valItem>
               </valList>
             </attDef>
           </attList>
@@ -778,6 +787,12 @@
                 <valItem ident="lucayes" mode="add">
                   <desc>Lucayes</desc>
                 </valItem>
+              	<valItem ident="flandres" mode="add">
+              		<desc>Flandres</desc>
+              	</valItem>
+              	<valItem ident="poitou" mode="add">
+              		<desc>Poitou</desc>
+              	</valItem>
               </valList>
             </attDef>
           </attList>
