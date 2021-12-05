@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/djakacki/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="http://moravianlives.bucknell.edu.s3.amazonaws.com/data/ml_cwrc.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
+<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -293,7 +293,7 @@
                   </div4>
                   <div4 type="réponses">
                      <p>Les villes de <placeName><bloc ref="europe"><country ref="france">France</country></bloc></placeName> où l'on fabriques des draps et d'autres étoffes de 
-                        <lb/>laine sont : <placeName type="france">Elbeuf</placeName>,
+                        <lb/>laine sont : <placeName>Elbeuf</placeName>,
                            <placeName><bloc ref="europe"><country ref="france"><settlement ref="louviers">Louviers</settlement></country></bloc></placeName>, 
                            <placeName><bloc ref="europe"><country ref="france"><settlement ref="sedan">Sedan</settlement></country></bloc></placeName>, 
                            <placeName><bloc ref="europe"><country ref="france"><settlement ref="mazamet">Mazamet</settlement></country></bloc></placeName>, 

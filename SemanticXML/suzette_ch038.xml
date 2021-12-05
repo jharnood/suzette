@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
 <?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -97,7 +97,7 @@
                 <lb/>veilliez cette nuit tout à vos pensées, moi j'étais aux
                 <lb/>miennes. Je songeais à une terre jeune, fertile, au 
                 <lb/>climat heureux, où le bon travail a un bon salaire : 
-                <lb/>c'est <placeName type="afrique">l'Algérie</placeName>, dont on nous parlait beaucoup à l'école. 
+                <lb/>c'est <placeName>l'Algérie</placeName>, dont on nous parlait beaucoup à l'école. 
                 <lb/>Grâce à mes études et aux ressources qui nous restent, 
                 <lb/>nous fonderions là-bas une exploitation* <gloss>Exploitation. Domaine, ferme qu'on fait valoir par ses mains.</gloss> et nous y
                 <lb/>vivrions en travaillant. Vendez le bétail, vendez les 
@@ -121,7 +121,7 @@
                 <p>— <persName type="fictif" key="suzette">Suzette</persName> dit vrai, mon père, ajouta le garçon, tout 
                 <lb/>ému devant les yeux de <persName type="fictif" key="m_dumay">M. Dumay</persName> qui les avait relevés 
                 <lb/>pleins de larmes ; le travail est bon partout, et puis, 
-                <lb/>en <placeName type="afrique">Algérie</placeName> comme ici, nous n'en serions pas moins 
+                <lb/>en <placeName>Algérie</placeName> comme ici, nous n'en serions pas moins 
                 <lb/>à l'état de Robinsons* <gloss>Robinson. Personnage imaginaire qu'on raconte avoir vécu longtemps seul dans une île.</gloss>.</p>
                 <p>— Robinson était tout seul dans son île, dit <persName type="fictif" key="suzette">Suzette</persName>, 
                 <lb/>et nous, nous sommes cinq Robinsons unis ! chacun 
@@ -184,7 +184,7 @@
                 <lb/>prêtée, le taux de l'intérêt et la date du remboursement. Exemple :</p>
                 <p>B. P. F. 150. </p>
                 <p>Au vingt-sept mai prochain, je payerai à M. Cazotte, propriétaire à
-                <lb/><placeName type="france" subtype="commune">Issy</placeName>, avec les intérêts à cinq pour cent, la somme de cent cinquante
+                <lb/><placeName>Issy</placeName>, avec les intérêts à cinq pour cent, la somme de cent cinquante
                 <lb/>francs, valeur reçue en espèces.</p>
                 <p>Paris, le 14 mars 1888.</p>
                 <p>GEORGES VALLÉE,</p>
@@ -221,7 +221,7 @@
                 <head>Géographie.</head>
                 <div4 type="questions">
                 <list>
-                <item>— Tracer sur une feuille blanche la roule à suivre pour aller à <placeName type="afrique">Alger</placeName>, en partant de <placeName type="france" subtype="commune">Saint-Quentin</placeName> et en passant par <placeName type="france" subtype="commune">Paris</placeName>, <placeName type="france" subtype="commune">Lyon</placeName> et <placeName type="france" subtype="commune">Marseille</placeName>.</item>
+                <item>— Tracer sur une feuille blanche la roule à suivre pour aller à <placeName>Alger</placeName>, en partant de <placeName>Saint-Quentin</placeName> et en passant par <placeName>Paris</placeName>, <placeName>Lyon</placeName> et <placeName>Marseille</placeName>.</item>
                 <item>— Marquer les villes principales.</item>
                 </list>
                 </div4>

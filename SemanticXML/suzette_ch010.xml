@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
 <?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -314,18 +314,18 @@
 				</list>	
 				</div4>	
 				<div4 type="réponses">	
-				<p><persName type="historique">Dagobert</persName>, roi des Francs, gouverna d&apos;abord l&apos;<placeName type="europe">Austrasie</placeName> au nom de 
+				<p><persName type="historique">Dagobert</persName>, roi des Francs, gouverna d&apos;abord l&apos;<placeName>Austrasie</placeName> au nom de 
 				<lb/>son père <persName type="historique">Clotaire II</persName>. Il lui succéda en 631, et posséda de plus la 
-				<lb/><placeName type="france">Neustrie</placeName>. Le reste de la <placeName type="france">France</placeName>, connu sous le nom d&apos;<placeName type="france">Aquitaine</placeName>, ne 
+				<lb/><placeName>Neustrie</placeName>. Le reste de la <placeName>France</placeName>, connu sous le nom d&apos;<placeName>Aquitaine</placeName>, ne 
 				<lb/>lui advint qu&apos;après la mort de son frère <persName type="historique">Charibert</persName>.</p>
 				<p><persName type="historique">Dagobert</persName> fut un roi magnifique : la splendeur de sa cour frappa à 
 				<lb/>tel point les populations barbares, que le souvenir de son règne est 
 				<lb/>resté vivant dans la mémoire du peuple. Il eut une conduite peu 
 				<lb/>exemplaire, et il crut obtenir le pardon de ses fautes par des dons 
 				<lb/>considérables aux églises ; on lui doit la fondation de l&apos;abbaye de 
-				<lb/><placeName type="france">Saint-Denis</placeName>, où dorénavant furent inhumés les rois.</p>
+				<lb/><placeName>Saint-Denis</placeName>, où dorénavant furent inhumés les rois.</p>
 				<p>Entouré d&apos;habiles ministres, parmi lesquels nous citerons l&apos;orfèvre 
-				<lb/>saint <persName type="historique">Eloi</persName> (588-659), qui devint évêque de <placeName type="france">Noyon</placeName>, <persName type="historique">Dagobert</persName> maintint 
+				<lb/>saint <persName type="historique">Eloi</persName> (588-659), qui devint évêque de <placeName>Noyon</placeName>, <persName type="historique">Dagobert</persName> maintint 
 				<lb/>son autorité sur les peuples tributaires. On lui reproche le massacre 
 				<lb/>de dix mille Bulgares, qui avaient demandé et obtenu asile dans le 
 				<lb/>royaume. Il mourut prématurément en 638, après un règne de dix ans.</p>
