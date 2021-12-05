@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href=" https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
 <?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -248,7 +248,7 @@
                                 <lb/>farine. On le sème au printemps dans des sillons ; puis on inonde le 
                                 <lb/>sol à diverses reprises, et au milieu de l'été ou au commencement de 
                                 <lb/>l'automne, on le récolte. L'<placeName><bloc ref="inde">Hindoustan</bloc></placeName>, la <placeName><bloc ref="asie"><country ref="chine">Chine</country></bloc></placeName>,
-                                    l'<placeName><bloc ref="asie"><country type="colonie" ref="indo-chine">Indo-Chine</country></bloc></placeName>, le <placeName><bloc ref="asie"><country ref="japon">Japon</country></bloc></placeName>
+                                    l'<placeName><bloc ref="asie"><country type="colonie" ref="indo_chine">Indo-Chine</country></bloc></placeName>, le <placeName><bloc ref="asie"><country ref="japon">Japon</country></bloc></placeName>
                                 <lb/>en produisent des quantités considérables et il y forme la base de la 
                                 <lb/>nourriture des habitants ; on cultive encore cette plante dans les riches
                                 <lb/>plaines de la <placeName><bloc ref="europe"><country ref="italie"><region type="province" ref="lombardie">Lombardie</region></country></bloc></placeName> qu'arrose le <placeName><geogFeat type="riviére"><geogName ref="pô">Pô</geogName></geogFeat></placeName>.</p>

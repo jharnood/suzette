@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -243,8 +243,8 @@
                         <lb/>de temps à autre. Le savon se forme et surnage en grumeaux; on 
                         <lb/>l'enlève, on le lave et il ne reste plus qu'à l'introduire dans des moules 
                         <lb/>où, sous une forte pression, il prend les formes les plus variées. Le 
-                        <lb/>savon se fabrique principalement à <placeName type='france'>Paris</placeName>, à <placeName type='france'>Rouen</placeName>, à <placeName type='france'>Nantes</placeName>, à <placeName type='france'>Reims</placeName>, 
-                        <lb/>à <placeName type='france'>Marseille</placeName>. Dans cette dernière ville, on en produit près de 100 mil-
+                        <lb/>savon se fabrique principalement à <placeName>Paris</placeName>, à <placeName>Rouen</placeName>, à <placeName>Nantes</placeName>, à <placeName>Reims</placeName>, 
+                        <lb/>à <placeName>Marseille</placeName>. Dans cette dernière ville, on en produit près de 100 mil-
                         <lb/>lions de kilos par an.</p>
                      <p>Le <term>savon de toilette</term>, dur et transparent, est préparé avec de la 
                         <lb/>graisse de rognons et de la soude. On dessèche le produit obtenu et 

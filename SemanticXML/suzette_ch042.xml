@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -150,14 +150,14 @@
              
                      <p> — Eh ! eh ! que fait-on là ? </p>
                 
-                     <p> — On repique des choux de <placeName type="europe">Bruxelles</placeName>, </p>
+                     <p> — On repique des choux de <placeName>Bruxelles</placeName>, </p>
                   <p> répondit le père. </p>
-                  <p> Le chou de <placeName type="europe">Bruxelles</placeName>, qui n'est pas du tout de <placeName type="europe">Bruxelles</placeName>, et qui ressemble à
+                  <p> Le chou de <placeName>Bruxelles</placeName>, qui n'est pas du tout de <placeName>Bruxelles</placeName>, et qui ressemble à
                      un petit chou de poupée, n'avait pas l'honneur d'être connu de <persName type="fictif">M. Florentin
                      Lejoly</persName>. </p>
 
                   <figure>
-                     <caption>Chou de <placeName type="europe">Bruxelles</placeName>.</caption>
+                     <caption>Chou de <placeName>Bruxelles</placeName>.</caption>
                      <caption>Plante potagère 
                         <lb/>qui constitue un lé-
                         <lb/>gume très délicat. </caption>
@@ -201,7 +201,7 @@
                         <gloss>Perdition. Qui cause du dégât.</gloss>. </p>
                   <p> Pour cela, pour quelques autres raisons d'intérêt, on 
                      <lb/>s'était brouillés. Et comme il y a loin de Fragicourt à 
-                     <lb/><placeName type="france" subtype="commune">Paris</placeName>, où demeurait la sœur, la brouille durait encore. </p>
+                     <lb/><placeName>Paris</placeName>, où demeurait la sœur, la brouille durait encore. </p>
                   <p> <persName type="fictif" key="jacques">Jacques</persName> et <persName type="fictif" key="suzette">Suzette</persName> se taisaient, sachant la peine de 
                      <lb/>leur père à ces tristes souvenirs dont il ne parlait 
                      <lb/>jamais qu'aux heures d'ennui. </p>
@@ -216,7 +216,7 @@
                      <item>— Qu'y avait-il à faire alors ? </item>
                      <item>— Qui passa près du champ des Dumayquelques jours après, et qu'y
                         vit-il ? </item>
-                     <item>— Qu'est-ce que le chou de <placeName type="europe">Bruxelles</placeName> ? </item>
+                     <item>— Qu'est-ce que le chou de <placeName>Bruxelles</placeName> ? </item>
                      <item>— Reproduisez la réflexion désobligeante de <persName type="fictif">Lejoly </persName>et la sage réponse de
                         <persName type="fictif" key="m_dumay">M. Dumay</persName>.</item>
                      <item>— Que pensez-vous de <persName type="fictif">Lejoly</persName> ? </item>

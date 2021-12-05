@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -278,16 +278,16 @@
          <p>La pomme de terre <term>Chardin</term>, grosse, jaune, avec des yeux profonds ; </p>
          <p>La pomme de terre <term>Champien</term>, blanche, ronde, dont les tubercules
          <lb/>sont d'excellente qualité. </p>
-         <p><term>La pomme de terre</term>, importée en <placeName type="europe">Angleterre</placeName> en 1568, passa de là en 
-         <lb/><placeName type="europe">Hollande</placeName> et en <placeName type="france" subtype="pays">France</placeName> ; mais elle ne fut cultivée dans notre pays que
+         <p><term>La pomme de terre</term>, importée en <placeName>Angleterre</placeName> en 1568, passa de là en 
+         <lb/><placeName>Hollande</placeName> et en <placeName>France</placeName> ; mais elle ne fut cultivée dans notre pays que
          <lb/>comme un fruit rare et précieux. Ce fut à la suite de la grande famine 
-         <lb/>de 1771 que, l'académie de <placeName type="france" subtype="commune">Besançon</placeName> ayant proposé pour sujet de con-
+         <lb/>de 1771 que, l'académie de <placeName>Besançon</placeName> ayant proposé pour sujet de con-
          <lb/>cours « la recherche de substances pouvant atténuer les calamités de 
-         <lb/>la disette » , <persName type="historique">Parmentier</persName> (natif de <placeName type="france" subtype="commune">Montdidier</placeName>) se mit à étudier la pomme 
+         <lb/>la disette » , <persName type="historique">Parmentier</persName> (natif de <placeName>Montdidier</placeName>) se mit à étudier la pomme 
          <lb/>de terre. En 1779, il prouva qu'elle renferme tous les principes d'un 
          <lb/>aliment substantiel et sain. Sa démonstration cependant ne convainquit 
          <lb/>personne et rencontra les plus étranges préjugés. Il ne perdit pas 
-         <lb/>courage, acheta près de <placeName type="france" subtype="commune">Versailles</placeName> la concession d'un vaste terrain sa-
+         <lb/>courage, acheta près de <placeName>Versailles</placeName> la concession d'un vaste terrain sa-
          <lb/>blonneux et y planta des pommes de terre. Peu à peu, grâce à la 
          <lb/>protection éclairée de <persName type="historique">Louis XVI</persName>, on apprécia le précieux tubercule, 
          <lb/>on en mangea sur les tables des riches, et bientôt la culture s'en éten-

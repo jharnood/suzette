@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -85,10 +85,10 @@
                <pb type="page" n="76" />
                <p> « Le <placeName type="réel"><district>Paraclet</district></placeName> est charmant*<gloss>Charmant. Très agréable.</gloss>. L'école, bâtie sur le 
                   <lb/>flanc d'une colline, domine une belle vallée où coulent 
-                  <lb/>l'<placeName type="réel"><geogFeat type="fleuve" ref="Avre">Avre</geogFeat></placeName> et la <placeName type="réel"><geogFeat type="fleuve" ref="Moye">Moye</geogFeat></placeName>. Un petit village
+                  <lb/>l'<placeName type="réel"><geogFeat type="fleuve" ref="avre">Avre</geogFeat></placeName> et la <placeName type="réel"><geogFeat type="fleuve" ref="moye">Moye</geogFeat></placeName>. Un petit village
                   de maisonnettes 
                   <lb/>rouges et blanches, avec son clocher qui ressemble à 
-                  <lb/>celui de <placeName type="ficitif">Fragicourt</placeName>, c'est notre horizon. </p>
+                  <lb/>celui de <placeName type="fictif">Fragicourt</placeName>, c'est notre horizon. </p>
                <p> « Cent vingt hectares, voilà mon domaine mainte-
                   <lb/>nant.</p>
                <p> « Quel grand propriétaire je fais, n'est-ce pas ? Il est 
