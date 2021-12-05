@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/djakacki/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -188,7 +188,7 @@
                      <item>— N'avait-il pas cependant songé aux leçons pendant le jour ?</item>
                      <item>— Que dit-il pour montrer combien il tenait à l'instruction de ses
                         enfants ?</item>
-                     <item>— Qu'est-ce qui l'avait<cb/> préoccupé au point de ne plus songer aux
+                     <item>— Qu'est-ce qui l'avait<cb/> réoccupé au point de ne plus songer aux
                         leçons ?</item>
                      <item>— Que répondirent successivement <persName type='fictif'>Jacques</persName>, <persName type='fictif'>Suzette</persName> et <persName type='fictif'>François</persName> lorsque le
                         père demanda s'ils savaient leurs leçons ?</item>

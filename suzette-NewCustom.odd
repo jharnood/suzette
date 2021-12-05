@@ -20,7 +20,8 @@
   </teiHeader>
   <text>
     <body>
-      <schemaSpec ident="suzette_NewCustom" start="TEI teiCorpus" targetLang="en" docLang="en" prefix="tei_">
+      <schemaSpec ident="suzette-NewCustom" start="TEI teiCorpus" targetLang="en" docLang="en">
+        <!--removing prefix_tei-->
         <moduleRef key="tei" />
         <!-- required -->
         <moduleRef key="core" />
@@ -313,6 +314,9 @@
                 <valItem ident="vincent" mode="add">
                   <desc>Vincent</desc>
                 </valItem>
+              	<valItem ident="mathias" mode="add">
+              		<desc>Mathias Dumay</desc>
+              	</valItem>
               </valList>
             </attDef>
             <!--      		  <attDef ident="corresp" mode="delete"/>
@@ -378,6 +382,21 @@
           </attList>
         </elementSpec>
         <!-- ALL PLACE ATTRIBUTE VALUES -->
+        <!-- placeName: @type (real or fictif) -->
+        <elementSpec ident="placeName" mode="change">
+          <attList>
+            <attDef ident="type" mode="change">
+              <valList type="closed" mode="change">
+                <valItem ident="réel" mode="add">
+                  <desc xml:lang="fr">réel</desc>
+                </valItem>
+                <valItem ident="fictif" mode="add">
+                  <desc xml:lang="fr">fictif</desc>
+                </valItem>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
         <!-- div3: add  @subtype where type is geographie (list of places from classification) -->
         <elementSpec ident="div3" mode="change">
           <classes mode="change">
@@ -433,9 +452,12 @@
                 <valItem ident="océanie" mode="add">
                   <desc>Océanie</desc>
                 </valItem>
-                <valItem ident="indie" mode="add">
+                <valItem ident="inde" mode="add">
                   <desc>Inde</desc>
                 </valItem>
+              	<valItem ident="indo_chine" mode="add">
+              		<desc>Indo-Chine</desc>
+              	</valItem>
               </valList>
             </attDef>
           </attList>
@@ -489,6 +511,40 @@
                 </valItem>
                 <valItem ident="égypte" mode="add">
                   <desc>égypte</desc>
+                </valItem>
+                <valItem ident="mongolie" mode="add">
+                  <desc>Mongolie</desc>
+                </valItem>
+                <valItem ident="panama" mode="add">
+                  <desc>Panama</desc>
+                </valItem>
+                <valItem ident="indes" mode="add">
+                  <desc>Indes</desc>
+                </valItem>
+              	<valItem ident="portugal" mode="add">
+              		<desc>Portugal</desc>
+              	</valItem>
+              	<valItem ident="corse" mode="add">
+              		<desc>Corse</desc>
+              	</valItem>
+              	<valItem ident="haïti" mode="add">
+              		<desc>Haïti</desc>
+              	</valItem>
+              	<valItem ident="cuba" mode="add">
+              		<desc>Cuba</desc>
+              	</valItem>
+              	<valItem ident="russie" mode="add">
+              		<desc>Russie</desc>
+              	</valItem>
+              	<valItem ident="suède" mode="add">
+              		<desc>Suède</desc>
+              	</valItem>
+              </valList>
+            </attDef>
+            <attDef ident="type" mode="change">
+              <valList>
+                <valItem ident="colonie" mode="add">
+                  <desc>Colonie</desc>
                 </valItem>
               </valList>
             </attDef>
@@ -577,6 +633,129 @@
                 <valItem ident="rouen" mode="add">
                   <desc>Rouen</desc>
                 </valItem>
+                <valItem ident="reims" mode="add">
+                  <desc>Reims</desc>
+                </valItem>
+                <valItem ident="chantilly" mode="add">
+                  <desc>Chantilly</desc>
+                </valItem>
+                <valItem ident="saint-omer" mode="add">
+                  <desc>Saint-Omer</desc>
+                </valItem>
+                <valItem mode="add" ident="arras">
+                  <desc>Arras</desc>
+                </valItem>
+                <valItem ident="armentières" mode="add">
+                  <desc>Armentières</desc>
+                </valItem>
+                <valItem mode="add" ident="épinal">
+                  <desc>Épinal</desc>
+                </valItem>
+                <valItem ident="moselle" mode="add">
+                  <desc>Moselle</desc>
+                </valItem>
+                <valItem ident="lavaur" mode="add">
+                  <desc>Laveur</desc>
+                </valItem>
+                <valItem ident="grenoble" mode="add">
+                  <desc>Grenoble</desc>
+                </valItem>
+                <valItem ident="valence" mode="add">
+                  <desc>Valence</desc>
+                </valItem>
+                <valItem ident="le_puy" mode="add">
+                  <desc>Le Puy</desc>
+                </valItem>
+                <valItem ident="roanne" mode="add">
+                  <desc>Roanne</desc>
+                </valItem>
+                <valItem ident="laval" mode="add">
+                  <desc>Laval</desc>
+                </valItem>
+                <valItem ident="cholet" mode="add">
+                  <desc>Cholet</desc>
+                </valItem>
+                <valItem mode="add" ident="le_mans">
+                  <desc>Le Mans</desc>
+                </valItem>
+                <valItem ident="angers" mode="add">
+                  <desc>Angers</desc>
+                </valItem>
+                <valItem ident="condé-sur-noireau">
+                  <desc>Condé-sur-noireau</desc>
+                </valItem>
+                <valItem ident="flers" mode="add">
+                  <desc>Flers</desc>
+                </valItem>
+                <valItem ident="lisieux" mode="add">
+                  <desc>Lisieux</desc>
+                </valItem>
+                <valItem ident="bernay" mode="add">
+                  <desc>Bernay</desc>
+                </valItem>
+                <valItem ident="cambrai" mode="add">
+                  <desc>Cambrai</desc>
+                </valItem>
+                <valItem ident="péhing" mode="add">
+                  <desc>Péhing</desc>
+                </valItem>
+                <valItem ident="hankéou" mode="add">
+                  <desc>Hankéou</desc>
+                </valItem>
+                <valItem ident="nan-king" mode="add">
+                  <desc>Nan-king</desc>
+                </valItem>
+                <valItem ident="nan-tchang" mode="add">
+                  <desc>Nan-tchang</desc>
+                </valItem>
+                <valItem ident="soutchéou" mode="add">
+                  <desc>Soutchéou</desc>
+                </valItem>
+                <valItem ident="shang-haî" mode="add">
+                  <desc>Shang-haî</desc>
+                </valItem>
+                <valItem ident="canton" mode="add">
+                  <desc>Canton</desc>
+                </valItem>
+                <valItem ident="tien-tsin" mode="add">
+                  <desc>Tien-tsin</desc>
+                </valItem>
+                <valItem ident="montmorency" mode="add">
+                  <desc>Montmorency</desc>
+                </valItem>
+                <valItem ident="auxerre" mode="add">
+                  <desc>Auxerre</desc>
+                </valItem>
+                <valItem ident="palos" mode="add">
+                  <desc>Palos</desc>
+                </valItem>
+              	<valItem ident="rambouillet" mode="add">
+              		<desc>Rambouillet</desc>
+              	</valItem>
+              	<valItem ident="rethel" mode="add">
+              		<desc>Rethel</desc>
+              	</valItem>
+              	<valItem ident="calvi" mode="add">
+              		<desc>Calvi</desc>
+              	</valItem>
+              	<valItem ident="san_salvador" mode="add">
+              		<desc>San Salvador</desc>
+              	</valItem>
+              	<valItem ident="moscou" mode="add">
+              		<desc>Moscou</desc>
+              	</valItem>
+              	<valItem ident="smolensk" mode="add">
+              		<desc>Smolensk</desc>
+              	</valItem>
+              	<valItem ident="bruxelles" mode="add">
+              		<desc>Bruxelles</desc>
+              	</valItem>
+              	<valItem ident="milan" mode="add">
+              		<desc>Milan</desc>
+              	</valItem>
+              	<valItem ident="san_quentin" mode="add">
+              		<desc>San Quentin</desc>
+              	</valItem>
               </valList>
             </attDef>
           </attList>
@@ -600,9 +779,28 @@
                 </valItem>
               </valList>
             </attDef>
+            <attDef ident="ref" mode="change">
+              <valList mode="change" type="closed">
+                <valItem ident="lombardie" mode="add">
+                  <desc>Lombardie</desc>
+                </valItem>
+                <valItem ident="andalousie" mode="add">
+                  <desc>Andalousie</desc>
+                </valItem>
+                <valItem ident="lucayes" mode="add">
+                  <desc>Lucayes</desc>
+                </valItem>
+              	<valItem ident="flandres" mode="add">
+              		<desc>Flandres</desc>
+              	</valItem>
+              	<valItem ident="poitou" mode="add">
+              		<desc>Poitou</desc>
+              	</valItem>
+              </valList>
+            </attDef>
           </attList>
         </elementSpec>
-        <!-- Add geogFeat @type values and @ref values -->
+        <!-- Add geogFeat @type values  -->
         <elementSpec ident="geogFeat" mode="change">
           <attList>
             <attDef ident="type" mode="change">
@@ -646,16 +844,35 @@
               </valList>
             </attDef>
             <attDef ident="ref" mode="change">
-              <valList>
+              <valList mode="change" type="closed">
                 <valItem ident="sahara" mode="add">
                   <desc>Sahara</desc>
                 </valItem>
+                <valItem mode="add" ident="pô">
+                  <desc>Pô</desc>
+                </valItem>
+                <valItem ident="atlantique" mode="add">
+                  <desc>Atlantique</desc>
+                </valItem>
+                <valItem ident="moye" mode="add">
+                  <desc>Moye</desc>
+                </valItem>
+                <valItem ident="atlantique" mode="add">
+                  <desc>Atlantique</desc>
+                </valItem>
+                <valItem ident="avre" mode="add">
+                  <desc>Avre</desc>
+                </valItem>
+              	<valItem ident="bérésina" mode="add">
+              		<desc>Bérésina</desc>
+              	</valItem>
+              	<valItem ident="isthme_suez" mode="add">
+              		<desc>Isthme de Suez</desc>
+              	</valItem>
               </valList>
             </attDef>
           </attList>
         </elementSpec>
-        
-        <elementSpec ident="key"></elementSpec>
         <!-- Customize span @ana to reference thematic components of the book -->
         <elementSpec ident="span" mode="change">
           <attList>

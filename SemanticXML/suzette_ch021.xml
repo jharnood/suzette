@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -83,12 +83,12 @@
                   <lb/>serais ici comme un poisson dans l'eau. </p>
                <fw type="header"> 76 SUZETTE. </fw>
                <pb type="page" n="76" />
-               <p> « Le Paraclet est charmant*<gloss>Charmant. Très agréable.</gloss>. L'école, bâtie sur le 
+               <p> « Le <placeName type="réel"><district>Paraclet</district></placeName> est charmant*<gloss>Charmant. Très agréable.</gloss>. L'école, bâtie sur le 
                   <lb/>flanc d'une colline, domine une belle vallée où coulent 
-                  <lb/><placeName type="france">l'Avre</placeName> et <placeName type="france">la Moye</placeName>. Un petit village
+                  <lb/>l'<placeName type="réel"><geogFeat type="fleuve" ref="avre">Avre</geogFeat></placeName> et la <placeName type="réel"><geogFeat type="fleuve" ref="moye">Moye</geogFeat></placeName>. Un petit village
                   de maisonnettes 
                   <lb/>rouges et blanches, avec son clocher qui ressemble à 
-                  <lb/>celui de Fragicourt, c'est notre horizon. </p>
+                  <lb/>celui de <placeName type="fictif">Fragicourt</placeName>, c'est notre horizon. </p>
                <p> « Cent vingt hectares, voilà mon domaine mainte-
                   <lb/>nant.</p>
                <p> « Quel grand propriétaire je fais, n'est-ce pas ? Il est 
@@ -128,14 +128,14 @@
                   <lb/>celui de l'esprit. Ils s'en porteraient mieux intellectuell-
                   <lb/>ement, et peut-être en viendront-ils là dans l'avenir. </p>
                <p> « J'ai fait ici la connaissance d'un homme que vous 
-                  <lb/>aimeriez beaucoup, cher père : c'est Olivier de Serres* <gloss>Olivier de Serres. Grand agronome contemporain de Henri
-                     IV.</gloss>. 
+                  <lb/>aimeriez beaucoup, cher père : c'est <persName type="historique">Olivier de Serres</persName>* <gloss>Olivier de Serres. Grand agronome contemporain de <persName type="historique">Henri
+                     IV</persName>.</gloss>. 
                   <lb/>Sa pensée vit, encore, quoiqu'il soit mort depuis à peu 
                   <lb/>près trois cents ans. On l'appelle le père de l'agri-
                   <lb/>culture. Il créa l'agronomie, il aima les champs, et, par
                   <lb/>grand désir d'être utile aux hommes, écrivit des livres <fw type="header"> UNE LETTRE DE JACQUES. 77 </fw>
                   <pb type="page" n="77" /> qui, après trois siècles, continuent de nous éclairer. </p>
-               <p> « Le directeur du Paraclet est un brave. En 1870, 
+               <p> « Le directeur du <placeName type="réel"><district>Paraclet</district></placeName> est un brave. En 1870, 
                   <lb/>sergent de mobiles*<gloss>Mobiles. Les mobiles étaient de jeunes soldats qui n'avaient pas été formés au service
                   militaire.</gloss>, en pleine bataille, il retourna sur 
                   <lb/>ses pas et se rejeta dans la mitraille pour aller re-
@@ -146,8 +146,8 @@
                <p> « On appelle pour une promenade agricole. Nous 
                   <lb/>allons visiter une ferme importante des environs. </p>
                <p>« Je vous quitte : je vous embrasse de tout mon cœur, 
-                  <lb/>cher papa, et toi, Suzette, et vous, François et 
-                  <lb/>Charlot. </p>
+                  <lb/>cher papa, et toi, <persName type="fictif" key="suzette">Suzette</persName>, et vous, <persName type="fictif" key="françois">François</persName> et 
+                  <lb/><persName type="fictif" key="charlot">Charlot</persName>. </p>
                <p>« JACQUES DUMAY. » </p>
             </div2>
             <div2 type="questionnaire">
@@ -156,13 +156,13 @@
                   <item>— Qu'adresseriez-vous à vos parents si vous étiez en pension depuis quelques jours ?</item>
                   <item>— Donnez un aperçu de ce que contiendrait votre lettre ?</item>
                   <item>— Comment la commenceriez-vous et l'achèveriez-vous ?</item>
-                  <item>— Que disait Jacques de la ferme-école du Paraclet ?</item>
+                  <item>— Que disait <persName type="fictif" key="jacques">Jacques</persName> de la ferme-école du <placeName type="réel"><district>Paraclet</district></placeName> ?</item>
                   <item>— Quelle était l’étendue du domaine ?</item>
                   <item>—<cb />Quel était l'objet du travail de chaque jour ?</item>
                   <item>— Quel résultat Jacques prévoyait-il pour la ferme de son père ?</item>
                   <item>— Que disait un professeur de son école sur l'utilité du travail manuel ?</item>
-                  <item>— Qu'est-ce qu'Olivier de Serres ?</item>
-                  <item>— Quels détails Jacques donnait-il sur le directeur de l'école d'agriculture ?</item>
+                  <item>— Qu'est-ce qu'<persName type="historique">Olivier de Serres</persName> ?</item>
+                  <item>— Quels détails <persName type="fictif" key="jacques">Jacques</persName> donnait-il sur le directeur de l'école d'agriculture ?</item>
                </list>
             </div2>
             <div2 type="exercices">
@@ -171,7 +171,7 @@
                   <head type="sujets"> Français. </head>
                   <div4 type="questions">
                      <list type="exercices">
-                        <item>— Écrire en marge d'une feuille de papier, et les uns au-dessous des autres, tous les verbes de l'alinéa commençant par Aux vacances… et ceux des deux suivants.</item>
+                        <item>— Écrire en marge d'une feuille de papier, et les uns au-essous des autres, tous les verbes de l'alinéa commençant par Aux vacances… et ceux des deux suivants.</item>
                         <item>— Indiquer à côté de chacun de ces verbes le mode et le temps auxquels ils sont employés. </item>
                      </list>
                   </div4>

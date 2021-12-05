@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -98,7 +98,7 @@
                <p>Le plaisir coûta trois sous.</p>
                <p>Charlot, lui, tenait la main de sa soeur en même temps 
                   <lb/>que quatre sous donnés par le père pour qu'il les dé-
-                  <lb/>pensât à son gré. Mais <persName type="fictif" key="">Charlot</persName> ne se pressait pas. Il
+                  <lb/>pensât à son gré. Mais <persName type="fictif" key="charlot">Charlot</persName> ne se pressait pas. Il
                   <lb/>semblait perdu dans ce tohu-bohu* <gloss>Tohu-bohu. Grande confusion de
                   gens.</gloss> de magnificences. 
                   <lb/>Et Jacques, qui marchait à côté de M. Dumay, regardait 
@@ -330,7 +330,7 @@
                   </div4>
                </div3>
 
-               <div3 type="complexe" subtype="calcul">
+               <div3 type="calcul">
                   <head>Calcul.</head>
                   <div4 type="questions">
                      <p>— Calculer ce qu'une fillette de dix ans peut coûter pendant l'année à ses
