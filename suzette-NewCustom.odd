@@ -536,6 +536,9 @@
               	<valItem ident="russie" mode="add">
               		<desc>Russie</desc>
               	</valItem>
+              	<valItem ident="suède" mode="add">
+              		<desc>Suède</desc>
+              	</valItem>
               </valList>
             </attDef>
             <attDef ident="type" mode="change">
@@ -862,6 +865,9 @@
                 </valItem>
               	<valItem ident="bérésina" mode="add">
               		<desc>Bérésina</desc>
+              	</valItem>
+              	<valItem ident="isthme_suez" mode="add">
+              		<desc>Isthme de Suez</desc>
               	</valItem>
               </valList>
             </attDef>
