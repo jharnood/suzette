@@ -20,7 +20,8 @@
   </teiHeader>
   <text>
     <body>
-      <schemaSpec ident="suzette-NewCustom" start="TEI teiCorpus" targetLang="en" docLang="en"><!--removing prefix_tei-->
+      <schemaSpec ident="suzette-NewCustom" start="TEI teiCorpus" targetLang="en" docLang="en">
+        <!--removing prefix_tei-->
         <moduleRef key="tei" />
         <!-- required -->
         <moduleRef key="core" />
@@ -383,8 +384,8 @@
           <attList>
             <attDef ident="type" mode="change">
               <valList type="closed" mode="change">
-                <valItem ident="réal" mode="add">
-                  <desc xml:lang="fr">réal</desc>
+                <valItem ident="réel" mode="add">
+                  <desc xml:lang="fr">réel</desc>
                 </valItem>
                 <valItem ident="fictif" mode="add">
                   <desc xml:lang="fr">fictif</desc>
@@ -448,7 +449,7 @@
                 <valItem ident="océanie" mode="add">
                   <desc>Océanie</desc>
                 </valItem>
-                <valItem ident="indie" mode="add">
+                <valItem ident="inde" mode="add">
                   <desc>Inde</desc>
                 </valItem>
               </valList>
@@ -507,6 +508,15 @@
                 </valItem>
                 <valItem ident="mongolie" mode="add">
                   <desc>Mongolie</desc>
+                </valItem>
+                <valItem ident="panama" mode="add">
+                  <desc>Panama</desc>
+                </valItem>
+                <valItem ident="calvi" mode="add">
+                  <desc>Calvi</desc>
+                </valItem>
+                <valItem ident="indes" mode="add">
+                  <desc>Indes</desc>
                 </valItem>
               </valList>
             </attDef>
@@ -695,11 +705,20 @@
                 <valItem ident="auxerre" mode="add">
                   <desc>Auxerre</desc>
                 </valItem>
+                <valItem ident="palos" mode="add">
+                  <desc>Palos</desc>
+                </valItem>
+                <valItem ident="portugal" mode="add">
+                  <desc>Portugal</desc>
+                </valItem>
+                <valItem ident="corse" mode="add">
+                  <desc>Corse</desc>
+                </valItem>
               </valList>
             </attDef>
           </attList>
         </elementSpec>
-        <!-- Add region @type and @ref values -->
+        <!-- Add region @type values -->
         <elementSpec ident="region" mode="change">
           <attList>
             <attDef ident="type" mode="change">
@@ -720,14 +739,20 @@
             </attDef>
             <attDef ident="ref" mode="change">
               <valList mode="change" type="closed">
-                <valItem ident="lombardie">
+                <valItem ident="lombardie" mode="add">
                   <desc>Lombardie</desc>
+                </valItem>
+                <valItem ident="andalousie" mode="add">
+                  <desc>Andalousie</desc>
+                </valItem>
+                <valItem ident="lucayes" mode="add">
+                  <desc>Lucayes</desc>
                 </valItem>
               </valList>
             </attDef>
           </attList>
         </elementSpec>
-        <!-- Add geogFeat @type values and @ref values -->
+        <!-- Add geogFeat @type values  -->
         <elementSpec ident="geogFeat" mode="change">
           <attList>
             <attDef ident="type" mode="change">
@@ -771,7 +796,7 @@
               </valList>
             </attDef>
             <attDef ident="ref" mode="change">
-              <valList>
+              <valList mode="change" type="closed">
                 <valItem ident="sahara" mode="add">
                   <desc>Sahara</desc>
                 </valItem>
@@ -783,6 +808,12 @@
                 </valItem>
                 <valItem ident="moye" mode="add">
                   <desc>Moye</desc>
+                </valItem>
+                <valItem ident="atlantique" mode="add">
+                  <desc>Atlantique</desc>
+                </valItem>
+                <valItem ident="avre" mode="add">
+                  <desc>Avre</desc>
                 </valItem>
               </valList>
             </attDef>
