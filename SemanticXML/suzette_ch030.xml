@@ -79,9 +79,9 @@
                 <pb type="page" n="106"/>
                 <head>30. — Vive le blé de France ! (Élève, p. 71.)</head>
                 <div2 type="récit">
-                <p>Pendant les trois jours qui suivirent, le père, Jacques, 
-                <lb/>Suzette, ne s’entretinrent que de beaux et bons tra-
-                <lb/>vaux à faire. Jacques voulait être renseigné sur la 
+                <p>Pendant les trois jours qui suivirent, le père, <persName type="fictif" key="jacques">Jacques</persName>, 
+                <lb/><persName type="fictif" key="suzette">Suzette</persName>, ne s’entretinrent que de beaux et bons tra-
+                <lb/>vaux à faire. <persName type="fictif" key="jacques">Jacques</persName> voulait être renseigné sur la 
                 <lb/>situation exacte du petit bien, sur ses charges *<gloss>Des Charges. Les dépenses qu'on est obligé de faire.</gloss>, ses 
                 <lb/>ressources *<gloss>Ressources. Argent, choses à vendre avec quoi l'on peut solder ses dépenses.</gloss>.</p>
                 <p>Il le parcourut en compagnie du père, qui acceptait 
@@ -90,8 +90,8 @@
                 <lb/>gnant *<gloss>Rechigner. Témoigner de la répugnance avec mauvaise humeur.</gloss> un peu aux innovations *<gloss>Innovation. Pratique nouvelle qu'on introduit dans sa manière habituelle de faire une chose.</gloss>, comme font d'ordinaire 
                 <lb/>les gens ancrés *<gloss>Ancré. S'affermir obstinément dans un procédé routinier, dans une habitude.</gloss> dans leurs habitudes.</p>
                 <p>— Nous aurons beau faire, disait-il, le blé du vieux 
-                <lb/>sol d'Europe, fatigué par tant de récoltes, ne peut pas 
-                <lb/>lutter contre le blé d'Amérique, qui pousse là-bas presque 
+                <lb/>sol d'<placeName type="réel"><bloc ref="europe">Europe</bloc></placeName>, fatigué par tant de récoltes, ne peut pas 
+                <lb/>lutter contre le blé d'<placeName type="réel"><country ref="etats_unis">Amérique</country></placeName>, qui pousse là-bas presque 
                 <lb/>sans travail dans des terres toutes neuves. La semaine 
                 <lb/>dernière, ta sœur me lisait dans un livre qu'en ce pays, 
                 <lb/>il y a d'immenses espaces encore à défricher. Un seul 
@@ -122,7 +122,7 @@
                 <lb/>un blé qui, n'ayant 
                 <lb/>presque rien coûté, 
                 <lb/>écrase le nôtre sur nos marchés.</p>
-                <p> — Et c'est de la culture, cela ! s'écria Jacques avec 
+                <p> — Et c'est de la culture, cela ! s'écria <persName type="fictif" key="jacques">Jacques</persName> avec 
                 <lb/>mépris.</p>
                 <p>— Non ; mais 
                 <lb/>c'est une culture 
@@ -138,7 +138,7 @@
                 <lb/>pliquées à notre 
                 <lb/>merveilleuse terre, la rendraient sans rivale. Et 
                 <lb/>je veux vous entendre crier bientôt : Vive le blé de 
-                <lb/>France !</p>
+                <lb/><placeName type="réel"><country ref="france">France</country></placeName> !</p>
                 <figure>
                 <caption>Blé, seigle, orge, avoine.
                 <lb/>Le blé, l'orge et le seigle servent à faire le pain ; 
@@ -151,7 +151,7 @@
                 <figure>
                 <caption>Le bison.
                 <lb/>Cet animal sauvage, de la taille d’un bœuf, vit en 
-                <lb/>Amérique, où il est l'objet d'une chasse opiniâtre.</caption>
+                <lb/><placeName type="réel"><country ref="etats_unis">Amérique</country></placeName>, où il est l'objet d'une chasse opiniâtre.</caption>
                 </figure>
                 </div2>   
                 
@@ -162,10 +162,10 @@
                 <head>Questionnaire.</head>
                 <list>
                 <item>— Quel fut l'objet des entretiens de la famille pendant les trois jours suivants ? </item>
-                <item>— Quelle était l'opinion de M. Dumay sur les améliorations proposées par Jacques ? </item>
+                <item>— Quelle était l'opinion de <persName type="fictif" key="m_dumay">M. Dumay</persName> sur les améliorations proposées par <persName type="fictif" key="jacques">Jacques</persName> ? </item>
                 <item>— Quelles objections faisait-il sur la culture du blé ? </item> 
-                <item>— Suzette n'avait-elle pas lu quelques détails sur la semaille et la récolte du blé en Amérique (États-Unis) ? </item>
-                <item>— A quoi Jacques attribuait-il l'infériorité de la production du blé en France ? </item>
+                <item>— <persName type="fictif" key="suzette">Suzette</persName> n'avait-elle pas lu quelques détails sur la semaille et la récolte du blé en <placeName type="réel"><country ref="etats_unis">Amérique</country></placeName> (États-Unis) ? </item>
+                <item>— A quoi <persName type="fictif" key="jacques">Jacques</persName> attribuait-il l'infériorité de la production du blé en <placeName type="réel"><country ref="france">France</country></placeName> ? </item>
                 </list>   
                 </div2>
                 <div2 type="exercices">
@@ -174,48 +174,48 @@
                 <head>Géographie.</head>
                 <div4 type="questions">    
                 <list>
-                <item>— Qu'est-ce que l'Amérique ?</item>
+                <item>— Qu'est-ce que l'<placeName type="réel"><country ref="etats_unis">Amérique</country></placeName> ?</item>
                 <item>— En tracer le croquis.</item>
                 <item>— Racontez comment elle fut découverte.</item>
                 </list>
                 </div4>   
                 <div4 type="réponses">    
-                <p>L'Amérique est un immense continent situé à l'ouest de l'Europe, de 
-                <lb/>l'autre côté de l'Atlantique. Il se divise en deux régions : l'Amérique 
-                <lb/>septentrionale et l'Amérique méridionale, réunies par l'isthme de 
-                <lb/>Panama, à travers lequel M. de Lesseps a entrepris de creuser un 
-                <lb/>canal pour le passage des navires, comme il l'a déjà fait pour l'isthme 
-                <lb/>de Suez.</p> 
-                <p> L'État le plus important de cette partie du monde sont les États-Unis, 
+                <p>L'<placeName type="réel"><country ref="etats_unis">Amérique</country></placeName> est un immense continent situé à l'ouest de l'<placeName type="réel"><bloc ref="europe">Europe</bloc></placeName>, de 
+                <lb/>l'autre côté de l'<placeName type="réel"><geogFeat type="océan" ref="atlantique">Atlantique</geogFeat></placeName>. Il se divise en deux régions : l'<placeName type="réel"><bloc ref="amérique_nord">Amérique</bloc> 
+                <lb/>septentrionale</placeName> et l'<placeName type="réel"><bloc ref="amérique_sud">Amérique méridionale</bloc></placeName>, réunies par l'isthme de 
+                <lb/><placeName type="réel"><country ref="Panama">Panama</country></placeName>, à travers lequel <persName type="historique">M. de Lesseps</persName> a entrepris de creuser un 
+                <lb/>canal pour le passage des navires, comme il l'a déjà fait pour <placeName type="réel"><geogFeat type="isthme">l'isthme 
+                <lb/>de Suez</geogFeat></placeName>.</p> 
+                <p> L'État le plus important de cette partie du monde sont les <placeName type="réel"><country ref="etats_unis">États-Unis</country></placeName>, 
                 <lb/>qui comptent environ soixante millions d'habitants ; on désigne parfois 
-                <lb/>cette contrée sous le nom d'Amérique, comme on l'a fait dans cette 
+                <lb/>cette contrée sous le nom d'<placeName type="réel"><country ref="etats_unis">Amérique</country></placeName>, comme on l'a fait dans cette 
                 <lb/>leçon, en parlant du blé.</p>
-                <p>Le continent américain fut découvert par Christophe Colomb, 
-                <lb/>navigateur génois né à Calvi, en Corse (1440-1505). Plusieurs voyages 
+                <p><placeName type="réel"><bloc ref="amérique_nord">Le continent américain</bloc></placeName> fut découvert par <persName type="historique">Christophe Colomb</persName>, 
+                <lb/>navigateur génois né à <placeName type="réel"><settlement ref="calvi">Calvi</settlement></placeName>, en <placeName type="réel"><country ref="corse">Corse</country></placeName> (1440-1505). Plusieurs voyages 
                 <lb/>et l'étude des cartes géographiques lui inspirèrent l'idée que la terre 
-                <lb/>est ronde, et que l’on pouvait arriver aux Indes en faisant voile vers 
+                <lb/>est ronde, et que l’on pouvait arriver aux <placeName type="réel"><country ref="indes">Indes</country></placeName> en faisant voile vers 
                 <lb/>l'ouest. Dès lors, il n'eut plus pour pensée que de faire ce voyage, et 
                 <lb/>il sollicita de toutes parts les moyens de l'accomplir. Son courage fut 
                 <lb/>égal à la force de son esprit, car il eut à combattre tous les préjugés.  
-                <lb/>Gênes le traita de visionnaire, Henri VII, roi d'Angleterre, n'écouta 
-                <lb/>pas le frère de Colomb; lui-même essuya un refus de Jean II, roi de 
-                <lb/>Portugal. Il ne pouvait s'adresser à la France, dont la marine était 
-                <lb/>toujours négligée. L'empereur d'Allemagne n'avait ni flotte, ni ports, 
-                <lb/>ni argent. Colomb n'espéra qu'en la cour d'Espagne. Après huit ans 
-                <lb/>de sollicitations, la reine Isabelle et le roi Ferdinand consentiront à 
-                <lb/>lui prêter leur appui ; mais la cour d'Espagne était pauvre ; il fallut 
-                <lb/>que le prieur Pérez et deux négociants, nommés Penzone, avançassent 
-                <lb/>17,000 ducats pour faire l'armement. Colomb partit enfin de Palos, en 
-                <lb/>Andalousie, avec trois petits vaisseaux dont un seul était ponté, le 
+                <lb/>Gênes le traita de visionnaire, <persName type="historique">Henri VII</persName>, roi d'<placeName type="réel"><country ref="angleterre">Angleterre</country></placeName>, n'écouta 
+                <lb/>pas le frère de <persName type="historique">Colomb</persName>; lui-même essuya un refus de <persName type="historique">Jean II</persName>, roi de 
+                <lb/><placeName type="réel"><country ref="portugal">Portugal</country></placeName>. Il ne pouvait s'adresser à la <placeName type="réel"><country ref="france">France</country></placeName>, dont la marine était 
+                <lb/>toujours négligée. L'empereur d'<placeName type="réel"><country ref="allemagne">Allemagne</country></placeName> n'avait ni flotte, ni ports, 
+                <lb/>ni argent. <persName type="historique">Colomb</persName> n'espéra qu'en la cour d'<placeName type="réel"><country ref="espagne">Espagne</country></placeName>. Après huit ans 
+                <lb/>de sollicitations, la reine <persName type="historique">Isabelle</persName> et le roi <persName type="historique">Ferdinand</persName> consentiront à 
+                <lb/>lui prêter leur appui ; mais la cour d'<placeName type="réel"><country ref="espagne">Espagne</country></placeName> était pauvre ; il fallut 
+                <lb/>que le prieur <persName type="historique">Pérez</persName> et deux négociants, nommés <persName type="historique">Penzone</persName>, avançassent 
+                <lb/>17,000 ducats pour faire l'armement. <persName type="historique">Colomb</persName> partit enfin de <placeName type="réel"><settlement ref = "palos">Palos</settlement></placeName>, en 
+                <lb/><placeName type="réel"><region type="province" ref="andalouise">Andalousie</region></placeName>, avec trois petits vaisseaux dont un seul était ponté, le 
                 <lb/>3 août 1492. Trois mois après, le 12 octobre, il découvrit la première 
-                <lb/>terre de l'Amérique : c'était l'une des îles du groupe des Lucayes, ap-
-                <lb/>pelée Guanahain par les indigènes ; Colomb lui donna le nom de San-
-                <lb/>Salvador. Il visita ensuite les autres îles Lucayes, puis il découvrit 
-                <lb/>Cuba et Haïti, que les Espagnols appelèrent plus tard Saint-Domingue.</p>
-                <p> C’est une erreur de penser que le nom d'Amérique vient d'Albertino 
-                <lb/>Vespucci, navigateur italien ; les indigènes de ce continent le dési-
+                <lb/>terre de l'<placeName type="réel"><country ref="etats_unis">Amérique</country></placeName> : c'était l'une des îles du groupe des <placeName ref="réel"><region type="province" ref="lucayes">Lucayes</region></placeName>, ap-
+                <lb/>pelée Guanahain par les indigènes ; <persName type="historique">Colomb</persName> lui donna le nom de <placeName type="réel"><settlement ref="san salvador">San-
+                <lb/>Salvador</settlement></placeName>. Il visita ensuite les autres îles <placeName type="réel"><region type="province" ref="lucayes">Lucayes</region></placeName>, puis il découvrit 
+                    <lb/><placeName type="réel"><country ref="cuba">Cuba</country></placeName> et <placeName type="réel"><country ref="haïti">Haïti</country></placeName>, que les <orgName>Espagnols</orgName> appelèrent plus tard Saint-Domingue.</p>
+                <p> C’est une erreur de penser que le nom d'<placeName type="réel"><bloc ref="amérique_nord">Amérique</bloc></placeName> vient d'<persName type="historique">Albertino 
+                <lb/>Vespucci</persName>, navigateur <orgName>italien</orgName> ; les indigènes de ce continent le dési-
                 <lb/>gnaient sous ce nom même dès la première période de l'arrivée des 
-                <lb/>Européens.</p>
+                <lb/><orgName>Européens</orgName>.</p>
                 </div4>    
                 </div3>
                 <div3 type="sciences_naturelles">
