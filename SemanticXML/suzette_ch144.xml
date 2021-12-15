@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
 <?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
+<TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -89,7 +89,7 @@
                <p>Il a voulu rassembler tous les <orgName>Dumay</orgName>. Et ils sont <lb/>venus se ranger autour du chef de la famille. Seul <lb/><persName key="pascal" type="fictif">Pascal</persName> manque.</p>
                <p><persName key="pascal" type="fictif">Pascal</persName> accomplit à cette heure le voyage d'exploration <lb/>que, par un coup de mémoire anticipée, il était venu ra- <lb/>conter
                   jadis. Il a suivi l'expédition de <persName type="historique">Brazza</persName> et compte, <lb/>au printemps prochain, faire une visite à ses vieilles <lb/>connaissances, les
-                     <orgName>Touaregs</orgName>, le <geogFeat type="désert">Grand Désert</geogFeat>, etc.</p>
+                     <orgName>Touaregs</orgName>, le <geogFeat ref="sahara" type="désert">Grand Désert</geogFeat>, etc.</p>
                <p>Sa mère donne de ses nouvelles, tout en montant la <lb/>petite côte au haut de laquelle on va déjeuner sur <lb/>l'herbe. Le déjeuner est arrivé le premier.</p>
                <p>C'est <persName key="ludivine" type="fictif">Ludivine</persName> qui, là-haut, garde les plats, les bou- <lb/>teilles, — la pauvre <persName key="ludivine" type="fictif">Ludivine</persName> décrépite*<gloss>Décrépite. Usé, cassé comme un vieillard.</gloss>, misérable, <lb/>ruinée par monsieur son fils, et qui vit maintenant des <lb/>petites
                   commissions qu'on lui donne dans les deux <lb/>fermes. Avec ses secrets, c'est tout ce qui lui reste. <lb/>Le père <persName key="benoît" type="fictif">Benoît</persName>, plus
