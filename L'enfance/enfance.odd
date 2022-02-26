@@ -63,6 +63,8 @@
         <moduleRef n="04" key="textstructure" except="argument imprimatur postscript trailer"/>
         <moduleRef n="05" key="gaiji" except="localProp mapping"/>
         
+        <moduleRef n="07" key="drama" except="actor camera castGroup castItem castList move performance set sound tech view"/>
+        <moduleRef n="08" key="spoken" except="broadcast equipment kinesic pause recording recordingStmt scriptStmt shift u vocal writing"/>
         <moduleRef n="17" key="analysis" except="c cl m pc phr s"/>
         <moduleRef n="09" key="dictionaries" except="case colloc def dictScrap etym gram gramGrp hom hyph iType lbl mood oRef orth pRef per pos pron sense stress subc superEntry syll tns usg xr"/>
         <moduleRef n="10" key="msdescription" except="accMat acquisition additional additions altIdentifier binding bindingDesc collation condition custEvent custodialHist decoDesc decoNote depth dim dimensions explicit filiation finalRubric foliation height heraldry history incipit layout layoutDesc locus locusGrp material physDesc provenance recordHist repository rubric scriptDesc seal sealDesc secFol stamp summary support supportDesc surrogates watermark width"/>
@@ -73,9 +75,30 @@
         <moduleRef n="15" key="corpus" except="activity channel constitution derivation factuality interaction preparedness purpose setting settingDesc"/>
         <moduleRef n="16" key="linking" except="alt altGrp join joinGrp"/>
         <moduleRef n="18" key="iso-fs" except="bicond binary cond default f fDecl fDescr fLib if iff then"/>
+        <moduleRef n="19" key="nets" except="arc eTree forest graph iNode leaf listForest node root tree triangle"/>
         <moduleRef n="21" key="certainty" except="precision"/>
         <moduleRef n="22" key="tagdocs" except="altIdent alternate att attDef attList attRef constraint constraintSpec dataFacet dataRef dataSpec datatype defaultVal empty equiv exemplum memberOf outputRendition remarks val"/>
-      <elementSpec ident="term" mode="change"><attList><attDef ident="ana" mode="change"><valList mode="change"><valItem mode="add" ident="grammaire"/><valItem mode="add" ident="histoire_naturelle"/><valItem mode="add" ident="connaissances_usuelles"/><valItem mode="add" ident="histoire"/></valList></attDef></attList></elementSpec></schemaSpec>
+      <elementSpec ident="term" mode="change">
+        <attList>
+          <attDef ident="ana" mode="change">
+            <valList mode="change">
+              <valItem mode="add" ident="grammaire">
+                <desc>Grammaire</desc>
+              </valItem>
+              <valItem mode="add" ident="histoire_naturelle">
+                <desc>Histoire naturelle</desc>
+              </valItem>
+              <valItem mode="add" ident="connaissances_usuelles">
+                <desc>Connaissance usuelles</desc>
+              </valItem>
+              <valItem mode="add" ident="histoire">
+                <desc>Histoire</desc>
+              </valItem>
+            </valList>
+          </attDef>
+        </attList>
+      </elementSpec>
+      </schemaSpec>
     </body>
   </text>
 </TEI>
