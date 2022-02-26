@@ -929,11 +929,13 @@ pb:after {
 persName {
     color: purple;
     display: inline;
+    font-weight: bold;
 }
 
 placeName {
     color: blue;
     display: inline;
+    font-weight: bold;
 }
 
 div persName,
