@@ -81,7 +81,7 @@
       <elementSpec ident="term" mode="change">
         <attList>
           <attDef ident="ana" mode="change">
-            <valList mode="change">
+            <valList mode="change" type="closed">
               <valItem mode="add" ident="grammaire">
                 <desc>Grammaire</desc>
               </valItem>
