@@ -60,7 +60,9 @@
         <moduleRef n="01" key="tei"/>
         <moduleRef n="02" key="header" except="abstract appInfo application cRefPattern citeData citeStructure conversion creation hyphenation interpretation normalization prefixDef punctuation scriptNote"/>
         <moduleRef n="03" key="core" except="abbr add binaryObject choice cit citedRange distinct gb imprint media mentioned milestone monogr postBox postCode rb reg rt ruby sic soCalled sp speaker stage unclear"/>
-        <moduleRef n="04" key="textstructure" except="argument imprimatur postscript trailer"/>        
+        <moduleRef n="04" key="textstructure" except="argument imprimatur postscript trailer"/>
+        <moduleRef n="05" key="gaiji" except="localProp mapping"/>
+        
         <moduleRef n="17" key="analysis" except="c cl m pc phr s"/>
         <moduleRef n="09" key="dictionaries" except="case colloc def dictScrap etym gram gramGrp hom hyph iType lbl mood oRef orth pRef per pos pron sense stress subc superEntry syll tns usg xr"/>
         <moduleRef n="10" key="msdescription" except="accMat acquisition additional additions altIdentifier binding bindingDesc collation condition custEvent custodialHist decoDesc decoNote depth dim dimensions explicit filiation finalRubric foliation height heraldry history incipit layout layoutDesc locus locusGrp material physDesc provenance recordHist repository rubric scriptDesc seal sealDesc secFol stamp summary support supportDesc surrogates watermark width"/>
