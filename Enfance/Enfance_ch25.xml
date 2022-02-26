@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/L'enfance/out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/L%27enfance/out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -230,7 +229,7 @@
                   ainsi de découverte en découverte et </p>
             </div>
             <div type="causerie">
-               <p>[25] CAUSERIE : <term>Grammaire</term>. — Citez les principaux signes de 
+               <p>[25] CAUSERIE : Grammaire. — Citez les principaux signes de 
                   ponctuation. — Quelles sont les règles pour bien lire ? — De quel 
                   nom vient le verbe domestiquer ?</p>
                   <p>Histoire naturelle. — Nommez les principaux animaux domestiques. — Quel nom donne-t-on aux plantes dont les graines ser-
