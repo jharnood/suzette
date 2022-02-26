@@ -167,6 +167,13 @@ byline {
     font-style: italic;
     margin-bottom: 0.5em;
 }
+
+caption {
+	display: block;
+	font-size: small;
+	font-style: italic;
+	color: gray;
+}
 category {
     display: block;
     margin-bottom: 1em;
