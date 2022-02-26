@@ -927,7 +927,7 @@ pb:after {
 
 
 persName {
-    color: blue;
+    color: purple;
     display: inline;
 }
 
@@ -1169,9 +1169,10 @@ taxonomy {
 }
 term {
     font-family: sans-serif;
-    color: blue;
+    color: green;
     background-color: inherit;
     display: inline;
+    font-weight: bold;
 }
 textClass {
     display: block;
