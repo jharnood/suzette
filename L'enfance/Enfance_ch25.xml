@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/L'enfance/out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -106,10 +106,10 @@
                <p>C&apos;étaient des « primitifs » , des sauvages, tels qu&apos;on en voit encore en
                   plusieurs parties du </p>
                <figure>
-                  <caption>Le loup.</caption>
+                  <head>Le loup.</head>
                </figure>
                <figure>
-                  <caption>Le lynx.</caption>
+                  <head>Le lynx.</head>
                </figure>
 
 
@@ -117,7 +117,7 @@
                   d&apos;Amérique.</p>
 
                <figure>
-                  <caption>Nègres d&apos;Afrique.</caption>
+                  <head>Nègres d&apos;Afrique.</head>
                </figure>
 
                <p>Un jour, il leur naquit un petit garçon. Ils l&apos;aimèrent tout de suite. </p>
@@ -132,11 +132,11 @@
                   s&apos;ingénia à construire un abri.</p>
 
                <figure>
-                  <caption>Peau-Rouge d&apos;Amerique.</caption>
+                  <head>Peau-Rouge d&apos;Amerique.</head>
                </figure>
 
                <figure>
-                  <caption>Outils et instruments de l&apos;âge de pierre.</caption>
+                  <head>Outils et instruments de l&apos;âge de pierre.</head>
                </figure>
 
                <p>D&apos;un caillou poli et tranchant il fit une hache et en abattit des arbres dont
@@ -146,8 +146,8 @@
                   plantes et les fruits sauvages dont ils se nourrissaient.</p>
 
                <figure>
-                  <caption>Le père lui montra aussi à jeter la ligne et l&apos;hameçon, à se servir
-                     de l&apos;arc et de la flèche.</caption>
+                  <head>Le père lui montra aussi à jeter la ligne et l&apos;hameçon, à se servir
+                     de l&apos;arc et de la flèche.</head>
                </figure>
                <p> Le père lui montra aussi à jeter la ligne et l&apos;hameçon, à se servir de
                   l&apos;arc et de la flèche contre les animaux de la forêt ; puis il </p>
@@ -160,8 +160,8 @@
                   subsistance.</p>
 
                <figure>
-                  <caption>Les plantes alimentaires. 1. Le blé. — 2. L&apos;orge. — 3. Le seigle. 4.
-                     L&apos;avoine.</caption>
+                  <head>Les plantes alimentaires. 1. Le blé. — 2. L&apos;orge. — 3. Le seigle. 4.
+                     L&apos;avoine.</head>
                </figure>
                <p>L&apos;enfant devint un homme. Ses parents vieux et près de mourir, lui dirent : —
                   « Mon fils, nos pères et nous n&apos;avions jamais eu d&apos;abri ; nous te
@@ -169,7 +169,7 @@
                   meil- leure que n&apos;a été la nôtre ; continue notre tâche. »</p>
 
                <figure>
-                  <caption>Le chou.</caption>
+                  <head>Le chou.</head>
                </figure>
 
                <p>Ils moururent : Leur fils leur ferma les yeux. A son tour, il eut une famille, et
@@ -190,7 +190,7 @@
                   ainsi quelque aisance.</p>
 
                <figure>
-                  <caption>La poule et le coq.</caption>
+                  <head>La poule et le coq.</head>
                </figure>
                <p>Et plus tard le père, devenu vieux à son tour, et sur le point de mourir, dit à
                   ses enfants assemblés autour de lui : </p>
@@ -212,7 +212,7 @@
                   vêtements, pendant que sa sœur inventait la broderie.</p>
 
                <figure>
-                  <caption>Outils et instruments de l&apos;âge de fer. </caption>
+                  <head>Outils et instruments de l&apos;âge de fer. </head>
                </figure>
                <p>Les générations qui suivirent firent comme leurs devancières. Mieux nourries,
                   mieux vêtues, mieux logées, elles continuèrent de travailler en ajoutant aux
@@ -220,7 +220,7 @@
                   aisée.</p>
 
                <figure>
-                  <caption>Spécimen de broderie.</caption>
+                  <head>Spécimen de broderie.</head>
                </figure>
 
                <p>C&apos;est ce travail continué de génération en génération que nous appelons le

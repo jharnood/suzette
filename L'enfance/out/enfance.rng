@@ -5,7 +5,7 @@
          xmlns="http://relaxng.org/ns/structure/1.0"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2022-02-26T18:28:48Z. .
+Schema generated from ODD source 2022-02-26T18:39:59Z. .
 TEI Edition: Version 4.0.0. Last updated on
 	13th February 2020, revision ccd19b0ba
 TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 4.0.0/
@@ -135,7 +135,7 @@ TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 4.0.0/
             </choice>
          </zeroOrMore>
       </element>
-      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e74734-constraint">
+      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e76242-constraint">
          <rule context="tei:content">
             <report test="descendant::*[not(namespace-uri(.) =               ('http://relaxng.org/ns/structure/1.0', 'http://www.tei-c.org/ns/1.0'))]">content descendants must be in the
               namespaces
@@ -723,6 +723,17 @@ Sample values include: 1] approved; 2] candidate; 3] cleared; 4] deprecated; 5] 
             <data type="token">
                <param name="pattern">[^\p{C}\p{Z}]+</param>
             </data>
+         </attribute>
+      </optional>
+   </define>
+   <define name="att.duration.w3c.attributes">
+      <ref name="att.duration.w3c.attribute.dur"/>
+   </define>
+   <define name="att.duration.w3c.attribute.dur">
+      <optional>
+         <attribute name="dur">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(duration) indicates the length of this element in time.</a:documentation>
+            <data type="duration"/>
          </attribute>
       </optional>
    </define>
@@ -1563,6 +1574,7 @@ The element indicated by @spanTo (<sch:value-of select="@spanTo"/>) must follow 
       </sch:rule>
    </pattern>
    <define name="att.timed.attributes">
+      <ref name="att.duration.attributes"/>
       <ref name="att.timed.attribute.start"/>
       <ref name="att.timed.attribute.end"/>
    </define>
@@ -2732,22 +2744,32 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
       </oneOrMore>
    </define>
    <define name="model.stageLike">
-      <notAllowed/>
+      <choice>
+         <ref name="caption"/>
+      </choice>
    </define>
    <define name="model.stageLike_alternation">
-      <notAllowed/>
+      <choice>
+         <ref name="caption"/>
+      </choice>
    </define>
    <define name="model.stageLike_sequence">
-      <empty/>
+      <ref name="caption"/>
    </define>
    <define name="model.stageLike_sequenceOptional">
-      <empty/>
+      <optional>
+         <ref name="caption"/>
+      </optional>
    </define>
    <define name="model.stageLike_sequenceOptionalRepeatable">
-      <empty/>
+      <zeroOrMore>
+         <ref name="caption"/>
+      </zeroOrMore>
    </define>
    <define name="model.stageLike_sequenceRepeatable">
-      <notAllowed/>
+      <oneOrMore>
+         <ref name="caption"/>
+      </oneOrMore>
    </define>
    <define name="model.featureVal.complex">
       <choice>
@@ -2798,6 +2820,8 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
          <ref name="model.lLike"/>
          <ref name="model.pLike"/>
          <ref name="lg"/>
+         <ref name="spGrp"/>
+         <ref name="model.divPart.spoken"/>
          <ref name="schemaSpec"/>
       </choice>
    </define>
@@ -3200,7 +3224,10 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
       </choice>
    </define>
    <define name="model.frontPart.drama">
-      <notAllowed/>
+      <choice>
+         <ref name="prologue"/>
+         <ref name="epilogue"/>
+      </choice>
    </define>
    <define name="model.pLike.front">
       <choice>
@@ -3442,6 +3469,7 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
          <ref name="model.milestoneLike"/>
          <ref name="model.noteLike"/>
          <ref name="model.global.edit"/>
+         <ref name="model.global.spoken"/>
          <ref name="figure"/>
       </choice>
    </define>
@@ -3603,6 +3631,7 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
          <ref name="geoDecl"/>
          <ref name="unitDecl"/>
          <ref name="charDecl"/>
+         <ref name="transcriptionDesc"/>
          <ref name="fsdDecl"/>
          <ref name="schemaSpec"/>
       </choice>
@@ -3633,6 +3662,7 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
          <ref name="model.biblLike"/>
          <ref name="model.listLike"/>
          <ref name="listChange"/>
+         <ref name="annotationBlock"/>
          <ref name="model.entryLike"/>
          <ref name="seg"/>
       </choice>
@@ -3714,6 +3744,19 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
       <choice>
          <ref name="place"/>
       </choice>
+   </define>
+   <define name="att.duration.iso.attributes">
+      <ref name="att.duration.iso.attribute.dur-iso"/>
+   </define>
+   <define name="att.duration.iso.attribute.dur-iso">
+      <optional>
+         <attribute name="dur-iso">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(duration) indicates the length of this element in time.</a:documentation>
+            <data type="token">
+               <param name="pattern">[0-9.,DHMPRSTWYZ/:+\-]+</param>
+            </data>
+         </attribute>
+      </optional>
    </define>
    <define name="att.milestoneUnit.attributes">
       <ref name="att.milestoneUnit.attribute.unit"/>
@@ -4235,6 +4278,7 @@ Measures]</a:documentation>
          <ref name="att.global.attributes"/>
          <ref name="att.canonical.attributes"/>
          <ref name="att.datable.attributes"/>
+         <ref name="att.duration.attributes"/>
          <ref name="att.editLike.attributes"/>
          <ref name="att.dimensions.attributes"/>
          <ref name="att.typed.attributes"/>
@@ -4255,6 +4299,7 @@ Measures]</a:documentation>
          <ref name="att.global.attributes"/>
          <ref name="att.datable.attributes"/>
          <ref name="att.canonical.attributes"/>
+         <ref name="att.duration.attributes"/>
          <ref name="att.editLike.attributes"/>
          <ref name="att.dimensions.attributes"/>
          <ref name="att.typed.attributes"/>
@@ -8073,6 +8118,189 @@ Suggested values include: 1] 1.0.1; 2] 1.1; 3] 2.0; 4] 2.1; 5] 3.0; 6] 3.1; 7] 3
       <element name="charName">
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(character name) contains the name of a character, expressed following Unicode conventions. [5.2. Markup Constructs for Representation of Characters and Glyphs]</a:documentation>
          <text/>
+         <ref name="att.global.attributes"/>
+         <empty/>
+      </element>
+   </define>
+   <define name="prologue">
+      <element name="prologue">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">contains the prologue to a drama, typically spoken by an actor out of character, possibly in association with a particular performance or venue. [7.1.2. Prologues and Epilogues 7.1. Front and Back Matter
+ ]</a:documentation>
+         <group>
+            <zeroOrMore>
+               <choice>
+                  <ref name="model.divTop"/>
+                  <ref name="model.global"/>
+               </choice>
+            </zeroOrMore>
+            <oneOrMore>
+               <group>
+                  <ref name="model.common"/>
+                  <zeroOrMore>
+                     <ref name="model.global"/>
+                  </zeroOrMore>
+               </group>
+            </oneOrMore>
+            <zeroOrMore>
+               <group>
+                  <ref name="model.divBottom"/>
+                  <zeroOrMore>
+                     <ref name="model.global"/>
+                  </zeroOrMore>
+               </group>
+            </zeroOrMore>
+         </group>
+         <ref name="att.global.attributes"/>
+         <empty/>
+      </element>
+   </define>
+   <define name="epilogue">
+      <element name="epilogue">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">contains the epilogue to a drama, typically spoken by an actor out of character, possibly in association with a particular performance or venue. [7.1.2. Prologues and Epilogues 7.1. Front and Back Matter
+ ]</a:documentation>
+         <group>
+            <zeroOrMore>
+               <choice>
+                  <ref name="model.divTop"/>
+                  <ref name="model.global"/>
+               </choice>
+            </zeroOrMore>
+            <oneOrMore>
+               <group>
+                  <ref name="model.common"/>
+                  <zeroOrMore>
+                     <ref name="model.global"/>
+                  </zeroOrMore>
+               </group>
+            </oneOrMore>
+            <zeroOrMore>
+               <group>
+                  <ref name="model.divBottom"/>
+                  <zeroOrMore>
+                     <ref name="model.global"/>
+                  </zeroOrMore>
+               </group>
+            </zeroOrMore>
+         </group>
+         <ref name="att.global.attributes"/>
+         <empty/>
+      </element>
+   </define>
+   <define name="spGrp">
+      <element name="spGrp">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(speech group) contains a group of speeches or songs in a performance text presented in a source as constituting a single unit or number. [7.2.3. Grouped Speeches]</a:documentation>
+         <group>
+            <zeroOrMore>
+               <ref name="model.headLike"/>
+            </zeroOrMore>
+            <oneOrMore>
+               <choice>
+                  <ref name="model.global"/>
+                  <ref name="model.stageLike"/>
+               </choice>
+            </oneOrMore>
+         </group>
+         <ref name="att.global.attributes"/>
+         <ref name="att.typed.attributes"/>
+         <ref name="att.ascribed.directed.attributes"/>
+         <empty/>
+      </element>
+   </define>
+   <define name="caption">
+      <element name="caption">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">contains the text of a caption or other text displayed as part of a film script or screenplay. [7.3.1. Technical Information 7.3. Other Types of Performance Text]</a:documentation>
+         <ref name="macro.paraContent"/>
+         <ref name="att.global.attributes"/>
+         <empty/>
+      </element>
+   </define>
+   <define name="att.duration.attributes">
+      <ref name="att.duration.w3c.attributes"/>
+      <ref name="att.duration.iso.attributes"/>
+   </define>
+   <define name="model.global.spoken">
+      <choice>
+         <ref name="incident"/>
+      </choice>
+   </define>
+   <define name="model.divPart.spoken">
+      <choice>
+         <ref name="annotationBlock"/>
+      </choice>
+   </define>
+   <define name="model.divPart.spoken_alternation">
+      <choice>
+         <ref name="annotationBlock"/>
+      </choice>
+   </define>
+   <define name="model.divPart.spoken_sequence">
+      <ref name="annotationBlock"/>
+   </define>
+   <define name="model.divPart.spoken_sequenceOptional">
+      <optional>
+         <ref name="annotationBlock"/>
+      </optional>
+   </define>
+   <define name="model.divPart.spoken_sequenceOptionalRepeatable">
+      <zeroOrMore>
+         <ref name="annotationBlock"/>
+      </zeroOrMore>
+   </define>
+   <define name="model.divPart.spoken_sequenceRepeatable">
+      <oneOrMore>
+         <ref name="annotationBlock"/>
+      </oneOrMore>
+   </define>
+   <define name="transcriptionDesc">
+      <element name="transcriptionDesc">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">describes the set of transcription conventions used, particularly for spoken material. [8.2. Documenting the Source of Transcribed Speech]</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <ref name="model.labelLike"/>
+               <ref name="model.ptrLike"/>
+               <ref name="model.pLike"/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attributes"/>
+         <attribute name="ident">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">supplies an identifier for the encoding convention, independent of any version number.</a:documentation>
+            <data type="Name"/>
+         </attribute>
+         <optional>
+            <attribute name="version">
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">supplies a version number for the encoding conventions used, if any.</a:documentation>
+               <data type="token">
+                  <param name="pattern">[\d]+[a-z]*[\d]*(\.[\d]+[a-z]*[\d]*){0,3}</param>
+               </data>
+            </attribute>
+         </optional>
+         <empty/>
+      </element>
+   </define>
+   <define name="incident">
+      <element name="incident">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">marks any phenomenon or occurrence, not necessarily vocalized or communicative, for example incidental noises or other events affecting communication. [8.3.3. Vocal, Kinesic, Incident]</a:documentation>
+         <zeroOrMore>
+            <ref name="model.descLike"/>
+         </zeroOrMore>
+         <ref name="att.global.attributes"/>
+         <ref name="att.timed.attributes"/>
+         <ref name="att.typed.attributes"/>
+         <ref name="att.ascribed.attributes"/>
+         <empty/>
+      </element>
+   </define>
+   <define name="annotationBlock">
+      <element name="annotationBlock">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">groups together various annotations, e.g. for parallel interpretations of a spoken segment. [8.4.6. Analytic Coding]</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <ref name="spanGrp"/>
+               <ref name="model.global.spoken"/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.ascribed.attributes"/>
+         <ref name="att.timed.attributes"/>
          <ref name="att.global.attributes"/>
          <empty/>
       </element>
