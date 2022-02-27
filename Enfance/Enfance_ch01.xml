@@ -65,26 +65,53 @@
          </sourceDesc>
       </fileDesc>
    </teiHeader>
-	<text>
-		<body>
-			<div type="chapitre" n="#">
-				<div type="récit">
-					<p>
-						<title>REPLACE</title>
-					</p>
-					<pb n="#" facs="#"/>
-					<p></p>
-					<p></p>
-					
-					<figure>
-						<caption></caption>
-					</figure>
-					
-				</div>
-				<div type="causerie">
-					<p/>
-				</div>
-			</div>
-		</body>
-	</text>
+   <text>
+      <body>
+         <div type="chapitre" n="1">
+         	<div type="récit">
+               <p>
+               	<title>L&apos;ENFANCE DE SUZETTE
+               		JE DÉDIE CE LIVRE A MA CHÈRE NIÈCE MARGUERITE.
+               		MARIE ROBERT HALT.</title>
+               </p>
+         		<pb n="1" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_01-01.jpg"/>
+         		<p>
+         			<title>1. — Jolie maison.</title>
+         		</p>
+         		<p>M— Dumay, la maman, achevait de ranger 
+         			la grande pièce, en ce moment éclairée d&apos;un 
+         			gai rayon de soleil.</p>
+         		<pb n='2' facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_01-02.jpg"/>
+         		<p>
+         			4  L&apos;ENFANCE DE SUZETTE.
+         			Les chandeliers, sur la cheminée, semblaient 
+         			d&apos;or, et la batterie de cuisine, accrochée au mur, 
+         			paraissait être d&apos;argent, tant tout cela reluisait.
+         			Le poêle, ciré à la mine de plomb, reluisait aussi. </p>
+         			<p>Les rideaux, aux vitres, étaient d&apos;un blanc 
+         			de neige. Sur l&apos;appui des fenêtres il y avait des
+         			vases de fleurs.</p>
+         			<p>Pas un grain de poussière sur les meubles.
+         			Oh ! la gentille maison ! la plus gentille de Fragicourt ; qu&apos;elle était gaie et propre ! Oh ! la 
+         			bonne mère que celle à qui l&apos;on devait toute 
+         			cette minutieuse propreté !</p>
+         			<p>De temps en temps elle se penchait pour 
+         			regarder, par la fenêtre, dans le jardin où l&apos;on 
+         			entendait des voix joyeuses d&apos;enfants. </p>
+         			<p>Puis elle appela  :</p> 
+         			<p>— « Allons, petits, voilà l&apos;heure ! » [1]
+         		</p>
+            </div>
+            <div type="causerie">
+            	<p>[1] <label>CAUSERIE</label> : Grammaire. — D&apos;où vient le mot <emph>chandelier</emph> ? 
+            		Dites les homonymes du mot <emph>poêle</emph>. </p>
+            		<p>Ménage. — De quoi se compose la batterie de cuisine ? —
+            		Qu&apos;est-ce que la mine de plomb ? — A quel usage sert-elle ? — Sous 
+            		quelle forme les écoliers emploient-ils la mine de plomb ? — Pour
+            		quoi les chandeliers et la batterie de cuisine reluisent-ils comme 
+            		de l&apos;or et de l&apos;argent ? </p>
+            </div>
+         </div>
+      </body>
+   </text>
 </TEI>

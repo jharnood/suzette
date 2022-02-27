@@ -94,6 +94,12 @@
               <valItem mode="add" ident="histoire">
                 <desc>Histoire</desc>
               </valItem>
+            	<valItem ident="menage" mode="add">
+            		<desc>Menage</desc>
+            	</valItem>
+            	<valItem ident="hygiène" mode="add">
+            		<desc>Hygiène</desc>
+            	</valItem>
             </valList>
           </attDef>
         </attList>

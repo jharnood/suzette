@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>L'enfance de Suzette</title>
+				<principal>John Westbrook</principal>
+				<funder>Bucknell University</funder>
+				<sponsor>French 370</sponsor>
+				<respStmt>
+					<name>Noah Berg</name>
+					<resp>Encoder</resp>
+				</respStmt>
+				<respStmt>
+					<name>Sabrina Debler</name>
+					<resp>Encoder</resp>
+				</respStmt>
+				<respStmt>
+					<name>Olivia Dey</name>
+					<resp>Encoder</resp>
+				</respStmt>
+				<respStmt>
+					<name>Sarah Haber</name>
+					<resp>Encoder</resp>
+				</respStmt>
+				<respStmt>
+					<name>Rebecca Heintzelman</name>
+					<resp>Encoder</resp>
+				</respStmt>
+				<respStmt>
+					<name>Lexi Huffman</name>
+					<resp>Encoder</resp>
+				</respStmt>
+				<respStmt>
+					<name>Griffin Lombardi</name>
+					<resp>Encoder</resp>
+				</respStmt>
+				<respStmt>
+					<name>Lucas Masson</name>
+					<resp>Encoder</resp>
+				</respStmt>
+				<respStmt>
+					<name>Isaiah Mays</name>
+					<resp>Encoder</resp>
+				</respStmt>
+				<respStmt>
+					<name>James Treanor</name>
+					<resp>Encoder</resp>
+				</respStmt>
+				<respStmt>
+					<name>Micah Umeh, Jr.</name>
+					<resp>Encoder</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>John Westbrook, Associate Professor of French</authority>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<title>L'Enfance de Suzette, livre de lecture courante à l'usage des jeunes
+						filles (degré élémentaire), morale, leçons de choses, économie
+						domestique</title>
+					<author>Mme Marie Robert Halt</author>
+					<publisher>P. Mellottée</publisher>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="chapitre" n="2">
+				<div type="récit">
+					<p>
+						<title>2. — La famille.</title>
+					</p>
+					<pb n="4"
+						facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_02-01.jpg"/>
+					<p>Presque aussitôt parurent quatre enfants : La petite Suzette, qui avait bien
+						sept ans et ressemblait beaucoup à sa mère ;</p>
+					<pb n="5"
+						facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_02-02.jpg"/>
+					<fw>LA FAMILLE. 5</fw>
+					<p> Jacques, son aîné de deux ans, un garçon d&apos;air raisonnable ; </p>
+					<p>François, un blondin de cinq ans avec un petit nez retroussé et des yeux
+						malins ; Charlot, le dernier, encore en robe, qui avait le visage souriant
+						de sa mère et de Suzette.</p>
+					<figure>
+						<caption>Presque aussitôt parurent quatre enfants.</caption>
+					</figure>
+					<p>La maman tira le pain du bahut et prit un couteau ; les enfants vinrent se
+						ranger autour d&apos;elle ; et elle donna à chacun un croûton frais et cinq
+						belles noix pour le goûter à l&apos;école.</p>
+					<p>Charlot n&apos;allait pas encôre en classe, </p>
+
+					<pb n="6"
+						facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_02-03.jpg"/>
+					<fw>6 L&apos;ENFANCE DE SUZETTE.</fw>
+					<p> mais il reçut son goûter comme les autres. </p>
+					<p>A ce moment, le papa, M. Dumay, entra en disant :</p>
+					<p>— Eh bien, mes enfants, vous allez à l&apos;école ? </p>
+					<figure>
+						<caption>Le papa, M. Dumay, entra.</caption>
+					</figure>
+					<p>— « Oui, papa.</p>
+					<p>— « Moi, je vais à la ville, je viens d&apos;atteler la Grise. Je vous
+						apporterai quel que chose au retour </p>
+					<p>— « Quoi, papa ? qu&apos;est-ce que vous nous apporterez ?</p>
+					<p>—— « Vous le verrez ce soir, si vous avez bien travaillé. »</p>
+					<p>Il les embrassa, puis monta dans la carriole, et partit. </p>
+					<p>La petite Suzette Jacques et François partirent aussi de leur côté en suivant
+						des yeux, sur la route, la carriole qui filait au trot de la Grise et à la
+						musique des grelots de son collier.</p>
+					<p>— « Oh ! si papa pouvait nous apporter des bonbons ! » disait François. </p>
+
+					<pb n="7"
+						facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_02-03.jpg"/>
+					<fw>POURQUOI ALLEZ-VOUS A L&apos;ÉCOLE ? 7</fw>
+					<p> Arrivés à l&apos;école, Jacques entra dans la grande classe des garçons, et
+						Suzette dans celle des filles, après avoir mené François à la classe
+						enfantine. [2] </p>
+
+
+					<figure>
+						<caption/>
+					</figure>
+
+				</div>
+				<div type="causerie">
+					<p>[2] <label>CAUSERIE</label> : Grammaire. — Que veut dire le mot
+							<emph>ainé</emph> ? — Quel mot a servi à former <emph>blondin</emph> ? </p>
+					<p>Histoire naturelle. — Qu&apos;est-ce que le visage ? — Quelles sont les
+						parties qui le composent ?</p>
+					<p>Comment appelle-t-on l&apos;arbre qui donne les noix ? — Que tire-t-on de la
+						noix ?</p>
+					<p>Connaissances usuelles. — Qu&apos;est-ce qu&apos;une carriole ? — Quelle
+						différence y a-t-il entre aller au pas, trotter et galoper ?</p>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>L'enfance de Suzette</title>
+				<principal>John Westbrook</principal>
+				<funder>Bucknell University</funder>
+				<sponsor>French 370</sponsor>
+				<respStmt>
+					<name>Noah Berg</name>
+					<resp>Encoder</resp>
+				</respStmt>
+				<respStmt>
+					<name>Sabrina Debler</name>
+					<resp>Encoder</resp>
+				</respStmt>
+				<respStmt>
+					<name>Olivia Dey</name>
+					<resp>Encoder</resp>
+				</respStmt>
+				<respStmt>
+					<name>Sarah Haber</name>
+					<resp>Encoder</resp>
+				</respStmt>
+				<respStmt>
+					<name>Rebecca Heintzelman</name>
+					<resp>Encoder</resp>
+				</respStmt>
+				<respStmt>
+					<name>Lexi Huffman</name>
+					<resp>Encoder</resp>
+				</respStmt>
+				<respStmt>
+					<name>Griffin Lombardi</name>
+					<resp>Encoder</resp>
+				</respStmt>
+				<respStmt>
+					<name>Lucas Masson</name>
+					<resp>Encoder</resp>
+				</respStmt>
+				<respStmt>
+					<name>Isaiah Mays</name>
+					<resp>Encoder</resp>
+				</respStmt>
+				<respStmt>
+					<name>James Treanor</name>
+					<resp>Encoder</resp>
+				</respStmt>
+				<respStmt>
+					<name>Micah Umeh, Jr.</name>
+					<resp>Encoder</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>John Westbrook, Associate Professor of French</authority>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<title>L'Enfance de Suzette, livre de lecture courante à l'usage des jeunes
+						filles (degré élémentaire), morale, leçons de choses, économie
+						domestique</title>
+					<author>Mme Marie Robert Halt</author>
+					<publisher>P. Mellottée</publisher>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="chapitre" n="#">
+				<div type="récit">
+					<p>
+						<title>4. — Les cadeaux.</title>
+					</p>
+					<pb n="8"
+						facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_04-01.jpg"/>
+					<pb n="1"/>
+					<p> La mère portant Charlot, et souriante, attendait les enfants sur le
+						seuil.</p>
+					<p>Dès qu&apos;ils l&apos;eurent aperçue, ils coururent à elle.</p>
+					<p>— « Jacques, as-tu bien travaillé ? </p>
+					<p>— « Maman, j&apos;ai eu un bon point.</p>
+					<p>— « Et toi, Suzette ? </p>
+					<pb n="9"
+						facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_04-02.jpg"/>
+					<fw>LES CADEAUX</fw>
+					<p> — « Maman, j&apos;ai eu aussi un bon point.</p>
+					<p>— « A la bonne heure, mes enfants. Et toi, François, as-tu été sage ? </p>
+					<p>— « Je l&apos;ai été un <emph>petit peu</emph>. Ce que papa apportera..., je
+						pourrai en avoir ?... </p>
+					<figure>
+						<caption>La mère, portant Charlot sur les bras, attendait les
+							enfants.</caption>
+					</figure>
+					<p>« Oui, un <emph>petit peu</emph> seulement. » </p>
+					<p>Tout en riant, Mme Dumay se mit à préparer le souper.</p>
+					<p>Elle plaça dans le poêlon du saindoux, des morceaux de lard avec des oignons
+						épluchés. </p>
+					<pb n="10"
+						facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_04-03.jpg"/>
+					<fw>10 L&apos;ENFANCE DE SUZETTE.</fw>
+					<p> — Bientôt une bonne odeur d&apos;oignons et de lardons revenus à point se
+						répandit dans la pièce ; Jacques s&apos;en passa la langue sur les lèvres et
+						petite Suzette dit à sa mère :</p>
+					<p>— « Je crois que nous ferons un excellent souper.</p>
+					<p>— « Je l&apos;espère, ma fille, et ce sera la récompense de la cuisinière.
+						Bien faire, c&apos;est se contenter soi-même. »</p>
+					<p>Puis elle ajouta à la préparation du ragoût de belles pommes de terre pelées
+						fin et lavées à grande eau.</p>
+					<figure>
+						<caption>La pomme de terre.</caption>
+					</figure>
+
+					<p>Pendant ce temps Suzette avait achevé de mettre le couvert.</p>
+					<p>Tout à coup François s&apos;écria :</p>
+					<p>— « J&apos;entends les grelots de la Grise ! Voilà papa qui revient ! »</p>
+					<p>Jacques, avec lui, courut à la barrière de la cour, l&apos;ouvrit toute
+						grande et presque aussitôt la carriole entra. Toute la maisonnée était
+						accourue.</p>
+					<p>— « Bonsoir, père ! bonsoir, père ! </p>
+					<p>— « Bonsoir, mes chéris ! »</p>
+
+					<pb n="11"
+						facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_04-04.jpg"/>
+					<fw>LES CADEAEX. 11</fw>
+					<p> — Eh bien ! qu&apos;apportait-il, le papa ?</p>
+					<p>A peine descendu de voiture, il demanda :</p>
+					<p>— « Voyons, ce petit monde a-t-il bien tra- vaillé ? » </p>
+					<p>La maman répondit :</p>
+					<p>— « Assez bien. Jacques et Suzette ont eu un bon point et François a été « un
+						petit peu sage. »</p>
+					<p>Alors M. Dumay tendit un paquet qu&apos;on s&apos;empressa d&apos;ouvrir.
+						C&apos;étaient quatre belles meringues de couleur rose, toutes fraîches !
+						Chaque enfant eut la sienne avec la permission de s&apos;en régaler à
+						l&apos;instant.</p>
+					<p>Puis M. Dumay tira de la carriole un paquet beaucoup plus gros que le
+						premier. Celui-là contenait une horloge, une belle horloge à fleurs
+						rouges.</p>
+					<p>C&apos;était un cadeau pour la maman qui se plaignait depuis quelque temps de
+						la vieille horloge fatiguée qui ne sonnait plus et qui n&apos;allait
+						guère.</p>
+					<p>Or, une horloge doit marcher régulièrement, être exacte, pour nous aider à
+						régler le temps de nos travaux et nous habituer nous-mêmes à
+						l&apos;exactitude.</p>
+					<p>La voiture dételée, et la Grise à l&apos;écurie devant son râtelier bien
+						garni de foin, parents </p>
+
+					<pb n="12"
+						facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_04-05.jpg"/>
+					<fw>12 L&apos;ENFANCE DE SUZETTE.</fw>
+					<p> et enfants rentrèrent dans la maison avec l&apos;horloge. [4] </p>
+
+
+				</div>
+				<div type="causerie">
+					<p> [4] <label>CAUSERIE</label> : Grammaire. — Donner les différents sens du
+						verbe <emph>revenir</emph>.</p>
+					<p>Ménage. — D&apos;où viennent le saindoux et le lard ? — Quelle partie de
+						l&apos;oignon est surtout utilisée comme aliment ? — Sur quelle partie de la
+						plante se forment les pommes de terre ? — Pourquoi la maman prenait-elle
+						tant de soin du ragoût ? — Qu&apos;est-ce qu&apos;une meringue ? </p>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>
