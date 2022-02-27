@@ -98,6 +98,33 @@
           </attDef>
         </attList>
       </elementSpec>
+      	
+      	<elementSpec ident="placeName" mode="change">
+      		<attList>
+      			<attDef ident="ana" mode="change">
+      		<valList mode="change" type="closed">
+      			<valItem ident="europe" mode="add">
+      				<desc>Europe</desc>
+      			</valItem>
+      			<valItem ident="amérique_nord" mode="add">
+      				<desc>Amérique du nord</desc>
+      			</valItem>
+      			<valItem ident="amérique_sud" mode="add">
+      				<desc>Amérique du sud</desc>
+      			</valItem>
+      			<valItem ident="afrique" mode="add">
+      				<desc>Afrique</desc>
+      			</valItem>
+      			<valItem ident="chine" mode="add">
+      				<desc>Chine</desc>
+      			</valItem>
+      			<valItem ident="asie" mode="add">
+      				<desc>Asie</desc>
+      			</valItem>
+      		</valList>
+      			</attDef>
+      		</attList>
+      	</elementSpec>
       </schemaSpec>
     </body>
   </text>
