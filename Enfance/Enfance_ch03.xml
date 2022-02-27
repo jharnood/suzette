@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>L'enfance de Suzette</title>
+				<principal>John Westbrook</principal>
+				<funder>Bucknell University</funder>
+				<sponsor>French 370</sponsor>
+				<respStmt>
+					<name>Noah Berg</name>
+					<resp>Encoder</resp>
+				</respStmt>
+				<respStmt>
+					<name>Sabrina Debler</name>
+					<resp>Encoder</resp>
+				</respStmt>
+				<respStmt>
+					<name>Olivia Dey</name>
+					<resp>Encoder</resp>
+				</respStmt>
+				<respStmt>
+					<name>Sarah Haber</name>
+					<resp>Encoder</resp>
+				</respStmt>
+				<respStmt>
+					<name>Rebecca Heintzelman</name>
+					<resp>Encoder</resp>
+				</respStmt>
+				<respStmt>
+					<name>Lexi Huffman</name>
+					<resp>Encoder</resp>
+				</respStmt>
+				<respStmt>
+					<name>Griffin Lombardi</name>
+					<resp>Encoder</resp>
+				</respStmt>
+				<respStmt>
+					<name>Lucas Masson</name>
+					<resp>Encoder</resp>
+				</respStmt>
+				<respStmt>
+					<name>Isaiah Mays</name>
+					<resp>Encoder</resp>
+				</respStmt>
+				<respStmt>
+					<name>James Treanor</name>
+					<resp>Encoder</resp>
+				</respStmt>
+				<respStmt>
+					<name>Micah Umeh, Jr.</name>
+					<resp>Encoder</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>John Westbrook, Associate Professor of French</authority>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<title>L'Enfance de Suzette, livre de lecture courante à l'usage des jeunes
+						filles (degré élémentaire), morale, leçons de choses, économie
+						domestique</title>
+					<author>Mme Marie Robert Halt</author>
+					<publisher>P. Mellottée</publisher>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="chapitre" n="3">
+				<div type="récit">
+					<p>
+						<title>3. ― Pourquoi allez-vous à l&apos;école ? </title>
+					</p>
+					<pb n="7"
+						facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_03-01.jpg"/>
+					<p> La maîtresse, Mme Delorme, écrivit au tableau noir cette question :
+							<emph>Pourquoi allez-vous à l&apos;école ? </emph></p>
+					<p>Chaque élève eut à donner la réponse sur son ardoise. La petite Zélie écrivit
+						: « Je vais à l&apos;école parce que mes parents m&apos;y obligent. » </p>
+
+					<figure>
+						<caption>― Je vais à l&apos;école pour apprendre les choses utiles que je ne
+							sais pas.</caption>
+					</figure>
+					<pb n="8"
+						facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_03-02.jpg"/>
+					<fw>8 L&apos;ENFANCE DE SUZETTE.</fw>
+					<p> Marcelline répondit : « Je vais à l&apos;école pour gagner des bons points
+						et des prix. » </p>
+					<p>Petite Suzette écrivit : « Je vais à l&apos;école pour apprendre les choses
+						utiles que je ne sais pas ; j&apos;y vais pour apprendre à bien conduire mon
+						ménage quand je serai grande. » </p>
+					<p>― « Très bien, petite Suzette, dit l&apos;institu- trice ; ajoute qu&apos;on
+						va encore à l&apos;école pour apprendre à agir, en toute chose, moralement,
+						c&apos;est-à-dire avec droiture et avec bonté. »</p>
+					<p>Puis elle donna un bon point à Suzette.</p>
+					<p>La classe achevée, les élèves sortirent ; la petite Suzette courut rejoindre
+						ses deux frères déjà dehors, et tous les trois s&apos;acheminèrent vers la
+						maison paternelle. [3] </p>
+				</div>
+				<div type="causerie">
+					<p> [3] <label>CAUSERIE</label> : Morale. ― A la réponse que fit Zélie, quelle
+						sorte d&apos;élève jugez-vous qu&apos;elle était ? ― Et Marcelline, que
+						pensez- vous d&apos;elle ? ― Et que dites-vous de la petite Suzette ? ―
+						Laquelle de ces trois petites filles prendriez-vous pour modèle ? </p>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>
