@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'enfance de Suzette</title>
+            <principal>John Westbrook</principal>
+            <funder>Bucknell University</funder>
+            <sponsor>French 370</sponsor>
+            <respStmt>
+               <name>Noah Berg</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Sabrina Debler</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Olivia Dey</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Sarah Haber</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Rebecca Heintzelman</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Lexi Huffman</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Griffin Lombardi</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Lucas Masson</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Isaiah Mays</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>James Treanor</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Micah Umeh, Jr.</name>
+               <resp>Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>John Westbrook, Associate Professor of French</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>L'Enfance de Suzette, livre de lecture courante à l'usage des jeunes filles
+                  (degré élémentaire), morale, leçons de choses, économie domestique</title>
+               <author>Mme Marie Robert Halt</author>
+               <publisher>P. Mellottée</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="chapitre" n="#">
+            <div type="récit">
+               <p>
+                  <title>21. — Être et paraître.</title>
+               </p>
+               <pb n="80"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_21-01.jpg"/>
+
+               <p>Il y eut un bon goûter en arrivant à Saint-Gobain Mme Garnier servit de la galette
+                  et une crème exquise. Une petite voisine, Ernestine, la fille d&apos;un ouvrier
+                  verrier, flaira probablement de chez elle ces bonnes choses, car elle accourut et
+                  tout naturellement en reçut sa part.</p>
+               <p>Puis elle emmena au jardin la petite Suzette. Et tout en jouant, elle la regardait
+                  :</p>
+               <p>— « Cette robe grise, lui dit-elle, et ce chapeau </p>
+               <pb n="81"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_21-02.jpg"/>
+               <fw>ÊTRE ET PARAITRE. 81</fw>
+               <p> de paille à ruban noir que tu portes, c&apos;est ta robe et ton chapeau du
+                  dimanche ? </p>
+               <p>- « Oui, répondit Suzette.</p>
+               <p>- « Tu n&apos;as pas l&apos;air riche. Moi, ma robe du dimanche est garnie de
+                  velours rouge, et à mon chapeau il y a une touffe de plumes bleu ciel. Aussi,
+                  quand je les porte, j&apos;ai l&apos;air d&apos;être millionnaire. »</p>
+               <figure>
+                  <caption>Être et paraitre.</caption>
+               </figure>
+
+               <figure>
+                  <caption>Suzette, à qui sa maman, au départ, avait remis quatre petits sous, en
+                     donna un à la pauvresse.</caption>
+               </figure>
+
+               <figure>
+                  <caption>Mais Mlle Ernestine referma son porte-monnaie et le remit dans sa poche
+                     en disant : Il est vide !</caption>
+               </figure>
+
+               <p>Au même moment une vieille mendiante s&apos;arrêtait devant la porte à claire-voie
+                  du jardin. </p>
+
+               <fw>5.</fw>
+               <pb n="82"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_21-03.jpg"/>
+               <fw>82 L&apos;ENFANCE DE SUZETTE.</fw>
+               <p> Petite Suzette à qui sa maman, au départ, avait remis quatre petits sous, en
+                  donna un à la pauvresse.</p>
+               <p>Mlle Ernestine avait tiré de sa poche un joli porte-monnaie ; elle le tournait et
+                  retournait, le tenant au bout des doigts, comme pour le faire mieux admirer.</p>
+               <p> — « Eh bien, lui dit Suzette, donne donc ton sou sans faire ainsi attendre cette
+                  pauvre femme ! » Mais Mlle Ernestine referma son porte-monnaie et le remit dans sa
+                  poche, en disant à demi-voix d&apos;un air malin : </p>
+               <p>Il est vide ; mais il a l&apos;air de contenir de l&apos;argent et même de
+                  l&apos;or. » </p>
+               <p>Comme elle achevait, une voix se fit entendre : — « Fi ! mademoiselle Ernestine,
+                  fi ! petite sotte, petite vaniteuse ! »</p>
+               <p>C&apos;était Mme Delorme qui, ayant vu cette scène, s&apos;approchait avec son
+                  mari et son frère, M. Adrien.</p>
+               <p>Mme Ernestine n&apos;attendit pas la fin du com- pliment et se sauva. La mendiante
+                  reçut quel- ques sous ; puis, pendant qu&apos;on attelait la carriole pour le
+                  retour, M. Adrien raconta l&apos;histoire suivante :</p>
+               <p>— « Cette petite fille me rappelle un de mes voisins au temps ou j&apos;étais
+                  enfant. Il s&apos;appelait Antonin. Nous allions à la même école.</p>
+               <p>« Un matin il arriva de bonne heure chez moi. </p>
+               <pb n="83"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_21-04.jpg"/>
+               <fw>ÊTRE ET PARAITRE. 83</fw>
+               <p> J&apos;étais à ma cuvette, en train de me débarbouiller à grande eau.</p>
+
+               <figure>
+                  <caption>Être et paraitre.</caption>
+               </figure>
+
+               <figure>
+                  <caption>J&apos;étais à ma cuvette, en train de me débarbouiller à grande
+                     eau.</caption>
+               </figure>
+
+               <figure>
+                  <caption>Tu te donnes bien de la peine ; moi, je me lave le bout du nez.</caption>
+               </figure>
+               <p>« Une fois débarbouillé, je pris une brosse et me brossai fortement les cheveux. </p>
+               <p>— « Tu te donnes bien de la peine, me dit Antonin ; moi, je me lave le bout du nez
+                  avec un coin de serviette à peine mouillée, puis je mets sur mes cheveux de la
+                  pommade à la rose qui les colle et les fait briller. Regarde, j&apos;ai l&apos;air
+                  aussi propre et mieux coiffé que toi.</p>
+               <p>— « Oui, répondis-je, tu as peut-etre l&apos;air aussi propre et mieux coiffé que
+                  moi, mais tu ne l&apos;es pas. </p>
+               <pb n="84"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_21-05.jpg"/>
+               <fw>84 L&apos;ENFANCE DE SUZETTE.</fw>
+               <p>— « Qu&apos;est-ce que cela fait, si je le parais?</p>
+               <p>— « Eh quoi ! te voilà bien avancé de paraître « ce que tu n&apos;es pas, de
+                  tromper ainsi les autres « et toi-même ! »</p>
+               <p>« Nous nous rendîmes ensemble à l&apos;école. En route, je repassais ma leçon.</p>
+               <p>« Moi, dit Antonin, je n&apos;ai pas eu le temps « d&apos;apprendre la mienne,
+                  mais Charles, mon « voisin de pupitre, m&apos;a promis de me tenir son « a livre
+                  ouvert ; je lirai par-dessus son épaule et « j&apos;aurai l&apos;air de savoir la
+                  leçon aussi bien « que toi.</p>
+               <p>— « Oui, mais tu ne la sauras pas ; elle ne sera « pas entrée dans ta mémoire ; et
+                  c&apos;est là, ainsi « que le dit notre maître, que les leçons doivent « se loger
+                  pour nous servir à quelque chose. »</p>
+               <p>« Quand nous eûmes treize ans, nous nous présentâmes à l&apos;examen du certificat
+                  d&apos;études ; vous devinez sans doute qui fut refusé. </p>
+               <p>« Mais Antonin se consola de son échec en disant : — « Bah ! j ai du dehors, je
+                  sais parler, j&apos;aurai « toujours l&apos;air aussi instruit qu&apos;un autre.
+                  »</p>
+               <p>« A quelques années de là, je trouvai à m&apos;employer dans une maison de
+                  commerce. Antonin, après avoir longtemps cherché par-ci, par-là, et essayé de
+                  différents emplois, avait fini par obtenir une petite place très modeste dans la
+                  même ville que moi.</p>
+               <p>« Un jour, nous nous rencontrâmes. </p>
+               <pb n="85"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_21-06.jpg"/>
+               <fw>ÊTRE ET PARAITRE. 85</fw>
+               <p> « Il était vêtu comme un millionnaire et sentait la parfumerie.</p>
+               <p>« Sur son gilet pendait une grosse chaîne de montre très brillante.</p>
+
+               <figure>
+                  <caption>Être et paraître.</caption>
+               </figure>
+               <figure>
+                  <caption>— Qu&apos;as-tu donc fait de la montre ?<lb/> — La montre, elle est
+                     encore chez l&apos;horloger ; je l&apos;achèterai plus tard. J&apos;ai commencé
+                     par la chaîne qui se voit et produit de l&apos;effet. Tu n&apos;as pas de
+                     chaîne, toi, Adrien ?<lb/> Non, je n&apos;ai encore qu&apos;un petit cordonnet
+                     ; j&apos;ai commencé par acheter la montre.</caption>
+               </figure>
+               <p>— « Tu es donc devenu riche ? lui demandai-je.</p>
+               <p>— « Oh ! non, mais je ne suis pas fâché d&apos;en </p>
+               <p>« avoir l&apos;air. Grâce à la bonne opinion que je </p>
+
+               <pb n="86"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_21-07.jpg"/>
+               <fw>86 L&apos;ENFANCE DE SUZETTE.</fw>
+               <p>« donne de moi, je me procure de belles relations; « les gens m&apos;admirent.</p>
+               <p>— « Oui, à moins qu&apos;ils ne se moquent de toi. « Oh ! mais quelle jolie chaîne
+                  tu as là ? » </p>
+               <p>« Tout en parlant ainsi, je mis la main sur « la chaîne, la tirai du gousset....
+                  Il n&apos;y avait « rien au bout ! </p>
+               <p>— « Tiens, ajoutai-je, qu&apos;as-tu donc fait de la « montre ?</p>
+               <p>— « La montre, répondit en riant Antonin, la « montre ? elle est encore chez
+                  l&apos;horloger; je « l&apos;achèterai plus tard. J&apos;ai commencé par la «
+                  chaîne, qui se voit et fait de l&apos;effet. Tu n&apos;as pas « de chaîne, toi,
+                  Adrien ?</p>
+               <p>— « Non, je n&apos;ai encore qu&apos;un petit cordonnet. « J&apos;ai besoin, pour
+                  mon travail, de savoir l&apos;heure, « et comme ce n&apos;est pas une chaîne qui
+                  me la donnerait, j&apos;ai commencé par acheter la montre. » « Et je la lui fis
+                  voir au bout du cordonnet.</p>
+               <p>« Quelques instants après, nous nous quittions. Je ne sais pas ce qu&apos;est
+                  devenu Antonin ; je crains fort qu&apos;il n ait pas fait un très bon sujet. »
+                  [21] </p>
+
+            </div>
+            <div type="causerie">
+               <p> [21] <label>CAUSERIE</label> : Morale. — Y a-t-il du mérite à être riche ? Y
+                  a-t-il du déshonneur à être pauvre ? — La petite Ernestine méri- tait-elle
+                  d&apos;être appelée sotte et vaniteuse ? — Si l&apos;institutrice y eût ajouté : «
+                  méchante » , aurait-elle été injuste ? — Quand un écolier lit sa leçon par-dessus
+                  l&apos;épaule de son camarade, qui trompe-t-il le premier ? — Que dites-vous de
+                  ceux qui ne veulent que « paraître » ? — De la montre ou de la chaîne, laquelle
+                  est la plus utile ? </p>
+               <p>Connaissances usuelles. — Qu&apos;est-ce qu&apos;une montre ? — Dans quelle partie
+                  de la France se fabriquent surtout les montres?</p>
+               <p>Ménage. — Qu&apos;est-ce qu&apos;une galette ? — De quels ingrédients se 
+                  compose une galette ? — De quelle manière la fait-on cuire ? — Par 
+                  quoi y peut-on remplacer le beurre ? — Qu&apos;est-ce qu&apos;une crème ? — 
+                  De quels ingrédients se compose une crème ? — Quelle différence 
+                  y a-t-il entre une crème et la crème proprement dite ? </p>
+               
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

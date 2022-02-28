@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'enfance de Suzette</title>
+            <principal>John Westbrook</principal>
+            <funder>Bucknell University</funder>
+            <sponsor>French 370</sponsor>
+            <respStmt>
+               <name>Noah Berg</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Sabrina Debler</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Olivia Dey</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Sarah Haber</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Rebecca Heintzelman</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Lexi Huffman</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Griffin Lombardi</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Lucas Masson</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Isaiah Mays</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>James Treanor</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Micah Umeh, Jr.</name>
+               <resp>Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>John Westbrook, Associate Professor of French</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>L'Enfance de Suzette, livre de lecture courante à l'usage des jeunes filles
+                  (degré élémentaire), morale, leçons de choses, économie domestique</title>
+               <author>Mme Marie Robert Halt</author>
+               <publisher>P. Mellottée</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="chapitre" n="17">
+            <div type="récit">
+               <p>
+                  <title>17. — A Saint-Gobain.</title>
+               </p>
+               <pb n="60"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_17-01.jpg"/>
+               <p> On partit de bon matin, avant le réveil de François et de Charlot, pour qui le
+                  voyage eût été trop fatigant. M. Adrien conduisait la carriole. Vers neuf heures,
+                  on descendait de voiture à Saint-Gobain.</p>
+               <p>Comment ! c&apos;était là le pays du verre, du verre si transparent, si joli à
+                  regarder ? </p>
+               <pb n="61"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_17-02.jpg"/>
+               <fw>A SAINT-GOBAIN 61</fw>
+               <p> Les yeux écarquillés de petite Suzette et de Jac- ques n&apos;aperçurent
+                  d&apos;abord que de noires usines, de hautes cheminées, d&apos;épaisses colonnes
+                  de fumée qui obscurcissaient le ciel. Leurs pieds, en marchant, enfonçaient dans
+                  une poussière noire et charbonneuse.</p>
+               <p>Le père de l&apos;institutrice, M. Garnier, contremaître à la grande verrerie,
+                  vint au-devant des visiteurs et les conduisit vers un très grand bâtiment dont la
+                  porte d&apos;entrée s&apos;ouvrait sur une immense « halle ». </p>
+
+               <figure>
+                  <caption>Les yeux de la petite Suzette n&apos;aperurent d&apos;abord que de noires
+                     usines, de hautes cheminées.</caption>
+               </figure>
+
+               <p>— Ah ! quel spectacle ! Tout le fond de la halle semblait embrasé.</p>
+               <p>D&apos;une longue rangée de fours aux portes de fer rougies par l&apos;ardente
+                  chaleur, sortait comme un roulement lointain de tonnerre. L&apos;atmosphère était
+                  brûlante.</p>
+               <p>Des hommes en bras de chemise, les manches retroussées, le visage en sueur,
+                  passaient affairés. — « Ce sont les verriers, » dit M. Garnier.</p>
+               <fw>ENFANCE DE S. 4</fw>
+
+               <pb n="62"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_17-03.jpg"/>
+               <fw>62 L&apos;ENFANCE DE SUZETTE.</fw>
+               <p> Un de ces hommes, armé d&apos;une barre de fer, ouvrit un des fours. Aussitôt de
+                  longues flammes bleues en jaillirent.</p>
+               <p>Puis, sur un signal, les verriers se mirent à manœuvrer des treuils, des poulies,
+                  et l&apos;on vit un grand vase incandescent sortir du four et monter mécaniquement
+                  pour aller s&apos;accrocher à une solide barre de fer.</p>
+               <figure>
+                  <caption>Le coulage d&apos;une glace.</caption>
+               </figure>
+               <figure>
+                  <caption>Un des verriers, armé d&apos;une barre de fer, ouvrit un des fours.
+                     Aussitôt de longues flammes bleues en jaillirent.</caption>
+               </figure>
+               <figure>
+                  <caption>Une coulée de feu, limpide, s&apos;échappa du vase et se répandit avec
+                     lenteur sur tonte la surface de la table de fer.</caption>
+               </figure>
+               <figure>
+                  <caption>La nappe liquide s&apos;était figée; c&apos;était à présent une grande
+                     plaque de verre que des verriers soulevèrent pour l&apos;emporter.</caption>
+               </figure>
+
+               <p>Les spectateurs, tout saisis, regardaient s&apos;avancer ce globe rouge glissant
+                  sur la barre. Arrivé au-dessus d&apos;une grande table en fer, il s&apos;abaissa
+                  doucement, et, soudain, bascula. </p>
+
+               <pb n="63"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_17-04.jpg"/>
+               <fw>A SAINT-GOBAIN. 63</fw>
+               <p> Une coulée de feu, limpide, irisée comme de l&apos;eau sous les rayons du soleil,
+                  s&apos;échappa du vase et se répandit avec lenteur sur toute la surface de la
+                  table.</p>
+               <p>Au bout d&apos;un instant, la nappe liquide s&apos;était figée. C&apos;était à
+                  présent une grande plaque de verre que des verriers soulevèrent pour
+                  l&apos;emporter.</p>
+               <p>— « Voilà une glace coulée, dit M. Garnier ; on va maintenant la polir, puis
+                  recouvrir un de ses côtés d&apos;un enduit métallique appelé tain. »</p>
+               <p>Et il ajouta, en se tournant vers Suzette :</p>
+               <p>— « Les demoiselles auront de quoi se mirer.</p>
+               <p>— «, Il n&apos;y a que deux cents ans, dit Mme Delorme, qu&apos;on fabrique des
+                  glaces en France. »</p>
+               <p>Suzette, tout émue pendant l&apos;opération du coulage, s&apos;était remise à
+                  sourire. Elle demanda : — « On ne se mirait donc pas en France, il y a deux cents
+                  ans ? </p>
+               <p>— « Partout depuis le commencement du monde, répondit Mme Delorme, on s&apos;est
+                  miré, ne serait-ce que dans l&apos;eau des fontaines ; et même on a fait des
+                  miroirs depuis des milliers d&apos;années. Mais ces miroirs-là étaient des plaques
+                  de métal poli.</p>
+               <p>— « Les gens du moyen âge n&apos;en ont pas connu d&apos;autres. En ce temps-là,
+                  les grandes dames portaient suspendus à leur ceinture de ces miroirs métalliques,
+                  soit encadrés d&apos;or ou d&apos;argent ciselé, soit enfermés dans des boites
+                  d&apos;ivoire sculpté. </p>
+               <pb n="64"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_17-05.jpg"/>
+               <fw>64 L&apos;ENFANCE DE SUZETTE.</fw>
+               <p> « Au quatorzième siècle seulement, les Vénitiens les premiers fabriquèrent les
+                  miroirs de verre appelés glaces de Venise. Mais ils gardèrent pendant trois cents
+                  ans le secret de cette fabrication.</p>
+               <p>« C&apos;était alors en Europe un grand objet de luxe. Chez nous, par exemple, les
+                  nobles ornaient du haut en bas les murs de leurs appartements, et même
+                  l&apos;intérieur de leurs carrosses, de glaces de Venise.</p>
+               <p>« Cela faisait sortir de France beaucoup d&apos;argent. Aussi Colbert, le fameux
+                  mi- nistre de Louis XIV, employa- t-il toute sa volonté à encou- rager
+                  l&apos;industrie du verre dans notre pays.</p>
+
+               <figure>
+                  <caption>Une grande dame au treizième siècle.</caption>
+               </figure>
+
+               <p>« Il fonda la verrerie de Saint-Gobain où nous somes, et bientôt les verriers
+                  français surpassèrent ceux de Venise en inventant le coulage du verre, tel que
+                  vous venez de le voir. Les Vénitiens n’employaient que le procédé du « soufflage »
+                  qui, d&apos;ailleurs, date de l&apos;antiquité la plus lointaine.</p>
+               <p>« Nous allons maintenant voir le soufflage. Suivez-moi. »</p>
+
+               <pb n="65"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_17-06.jpg"/>
+               <fw>A SAINT-GOBAIN. 65</fw>
+               <p> La petite troupe, se dirigea alors vers un autre bâtiment.</p>
+               <p>En chemin, petite Suzette et Jacques, animés de la même pensée, demandèrent
+                  d&apos;où l&apos;on tirait le verre avant de le fondre, et s&apos;il ne sortait
+                  pas de la terre comme la houille, le fer, la pierre, le plomb, l&apos;argent et
+                  l&apos;or.</p>
+               <p>M. Garnier, à cette question, se baissa, ramassa un peu de sable et dit à Jacques: </p>
+               <p> — « Tendez votre main. »</p>
+               <p>Jacques tendit la main ; M. Garnier y mit ce sable, puis, s&apos;approchant
+                  d&apos;un tas de cristaux blancs qui se trouvaient là, il en prit une pincée et
+                  dit à Suzette de tendre aussi sa main : ce qu&apos;elle fit.</p>
+               <p>Il y plaça les cristaux que la petite fille reconnut pour être de ceux que sa mère
+                  employait dans les nettoyages.</p>
+               <p>— « Mais c&apos;est de la soude, dit-elle.</p>
+               <p>— « Eh bien, reprit M. Garnier, mélangez cette soude et ce sable; mettez-les dans
+                  un vase de terre solide, puis chauffez dans un four jusqu&apos;à une température
+                  quinze fois plus brûlante que celle de l&apos;eau bouillante. Au bout d&apos;une
+                  trentaine d&apos;heures, soude et sable fondus ensemble for- meront ce liquide que
+                  vous avez vu se répandre sur la table de fer; et ce sera du verre. » [17]</p>
+
+            </div>
+            <div type="causerie">
+               <p>[17] <label>CAUSERIE</label>: Sciences naturelles. — Qu&apos;est-ce que
+                  l&apos;atmosphère ?</p>
+               <p> Industrie. — Avec quelles substances fait-on le verre ? — Quel moyen emploie-t-on
+                  pour fondre et mélanger ces substances ? — Faut-il une grande chaleur pour les
+                  fondre ? — Racontez l&apos;opération du coulage d&apos;une glace.</p>
+               <p>Connaissances usuelles. — Qu&apos;est-ce qu&apos;un métal poli ? </p>
+               <p>Histoire. — Qui est Colbert ?</p>
+               <p>Géographie. — De quel département fait partie Saint-Gobain et quel est le
+                  chef-lieu de ce département ? — Où est situee Venise ? </p>
+               <fw>4.</fw>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

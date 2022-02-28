@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'enfance de Suzette</title>
+            <principal>John Westbrook</principal>
+            <funder>Bucknell University</funder>
+            <sponsor>French 370</sponsor>
+            <respStmt>
+               <name>Noah Berg</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Sabrina Debler</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Olivia Dey</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Sarah Haber</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Rebecca Heintzelman</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Lexi Huffman</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Griffin Lombardi</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Lucas Masson</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Isaiah Mays</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>James Treanor</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Micah Umeh, Jr.</name>
+               <resp>Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>John Westbrook, Associate Professor of French</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>L'Enfance de Suzette, livre de lecture courante à l'usage des jeunes filles
+                  (degré élémentaire), morale, leçons de choses, économie domestique</title>
+               <author>Mme Marie Robert Halt</author>
+               <publisher>P. Mellottée</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+	<text>
+		<body>
+			<div type="chapitre" n="13">
+				<div type="récit">
+					<p>
+					   <title>13. — Un diner de fête.</title>
+					</p>
+				   <pb n="38" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_13-01.jpg"/>
+				   <p>
+				      
+				      La petite Suzette mit la nappe et, dessus, les
+				   </p>
+				   <pb n='39' facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_13-02.jpg"/>
+				   <fw>UN DINER DE FÊTE. 39</fw>
+				   <p>
+				      
+				      assiettes de faïence blanche, les couverts de 
+				      métal brillant, les couteaux aux lames bien nettes, 
+				      les verres, deux carafes de bière, les salières.</p>
+				      <p>Aux deux bouts de la table, elle plaça un bouquet 
+				      de roses et de réséda qui parfumèrent la salle à 
+				      manger.</p>
+				   <figure>
+				      <caption>La petite Suzette mit la nappe.</caption>
+				   </figure>
+				      <p>Y a-t-il rien de plus joli, 
+				      de plus accueillant qu&apos;un couvert brillant de 
+				      propreté et orné de fleurs?</p>
+				      <p>L&apos;institutrice, Mme Delorme, qui venait d&apos;arriver, félicita la petite Suzette pendant que M. De-
+				      lorme présentait à toute la famille son frère le 
+				      voyageur, M. Adrien.
+				   </p>
+		
+				   <pb n='40' facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_13-03.jpg"/>
+				   
+				   <fw>40 L&apos;ENFANCE DE SUZETTE.</fw>
+				   <p>
+				      
+				      Ludivine, venue pour aider Mme Dumay, et 
+				      aussi pour s&apos;occuper du petit Charlot, qui n&apos;aimait pas à rester longtemps en place, entendit 
+				      les compliments que faisait Mme  Delorme à Suzette 
+				      sur son couvert si bien 
+				      mis.</p>
+				      <p>— « Mon père, Benoît, 
+				      dit-elle, m&apos;a conté que 
+				      de son temps les riches 
+				      bourgeois seuls voyaient 
+				      sur leur table du linge, 
+				      de la vaisselle fine et 
+				      de la verrerie. Chez ses 
+				      parents, le pétrin servait 
+				      de table à manger.</p>
+				   
+				   <figure>
+				      <caption>Le pétrin.<lb/>
+				         On pétrit la pâte qui résulte 
+				         du mélange de l&apos;eau et de la farine dans un grand coffre en bois 
+				         qu&apos;on appelle pétrin. Ce coffre est 
+				         fermé au moyen d&apos;un grand couvercle en bois, ce qui permettait de se servir de ce meuble 
+				         comme d&apos;une table à manger.</caption>
+				   </figure>
+				   
+				      <p>« La ménagère y posait des écuelles de bois 
+				      ou de terre, après les 
+				      avoir remplies au chaudron pendu à la crémaillère, au-dessus de 
+				      l&apos;âtre; et l&apos;on buvait 
+				      dans des gobelets d&apos;étain ou de fer-blanc.</p>
+				      <p>— « Qui, dit l&apos;instituteur, l&apos;usage de la
+				      faïence, de la porcelaine et du verre ne date 
+				      en France, que de deux cents ans environ et 
+				      d&apos;un siècle tout au plus dans les humbles maisons. »</p>
+				      <p>Après ces paroles, chacun prit place à la table
+				   </p>
+	
+				   <pb n='41' facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_13-03.jpg"/>
+				   <fw>UN DINER DE FÊTE. 41</fw>
+				   <p>
+				       
+				      et lorsque la soupe fut mangée, l&apos;instituteur, à 
+				      la demande de M. Dumay, reprit :</p>
+				      <p>—« La fabrication de la faience, qui n&apos;est qu&apos;une 
+				      poterie d&apos;argile 
+				      recouverte d&apos;émail blanc très 
+				      brillant et cuite 
+				      au four, date 
+				      chez nous du 
+				      seizième siècle.
+				      « Celle de la 
+				      porcelaine, autre genre de 
+				      poterie pétrie 
+				      avec une terre
+				      très blanche appelée kaolin, et qui, à la cuisson du 
+				      four, devient très brillante et très dure, ne remonte 
+				      pas à cent années.</p>
+				   
+				   
+				      <p>— « Et la grosse poterie, les marmites, les 
+				      poêlons ? demanda Jacques.
+				   </p>
+				   
+				   <figure>
+				      <caption>Plats et poteries.</caption>
+				   </figure>
+				   
+				   <figure>
+				      <caption>La poterie de simple argile était déjà connue à l&apos;époque 
+				         gallo-romaine.</caption>
+				   </figure>
+
+				   <pb n='42' facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_13-05.jpg"/>
+				   <fw>42 L&apos;ENFANCE DE SUZETTE.</fw>
+				   <p>
+				      
+				      — « Oh ! la grosse poterie de simple argile brune,
+				      recouverte d&apos;un émail brun, était déjà connue en 
+				      France à l&apos;époque gallo-romaine, il y a dix-huit
+				      cents ans. Et voilà six mille ans qu&apos;on la fabriquait en Egypte.</p>
+				      <p>— « Et le verre, Monsieur ? »</p>
+				      <p>L&apos;institutrice regarda son mari, qui répondit en 
+				      souriant : </p>
+				      <p>— « Le verre, on vous en parlera bientôt.</p>
+				      <p>— « Jacques, il faut laisser ton maître manger 
+				      un peu, dit Mme Dumay ; ton assiette est vide, la 
+				      sienne encore pleine. » [13]</p>					
+				</div>
+				<div type="causerie">
+				   <p>[13] <label>CAUSERIE</label> : Grammaire. — Pourquoi a-t-on donné le nom 
+				      de couvert à l&apos;ensemble des objets nécessaires pour manger  à
+				      table ?</p>
+				      <p>Ménage. — De quoi se compose le couvert ? — Qu&apos;est-ce qu&apos;une 
+				      écuelle ? un chaudron ? une crémaillère ? un âtre ? un pétrin ? </p>
+				      <p>Sciences naturelles. — Qu&apos;est-ce que l&apos;étain ? Où le trouve- 
+				      t-on ? — A quel usage l&apos;emploie-t-on principalement ? — Qu&apos;est-ce 
+				      que le fer-blanc? — Qu&apos;est-ce que l&apos;argile ?</p>
+				      <p>Industrie. — De quoi est faite la poterie commune de cuisine, 
+				      marmites, poêlons, etc. ? — De quoi est faite la faïence ? — En quoi 
+				      diffère-t-elle de la poterie commune ? — De quoi est faite la porcelaine ?</p>
+				      <p>Histoire. — De quelle époque date la fabrication de la porcelaine ? — Savez-vous le nom par lequel on désigne, au seizième siècle,
+				      l&apos;époque où tous les arts, éclipsés pendant les guerres du moyen âge,
+				      semblèrent renaître ? — Depuis combien de temps l&apos;usage de la
+				      faïence et de la porcelaine s&apos;est-il répandu en France ?  </p>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>
