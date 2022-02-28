@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'enfance de Suzette</title>
+            <principal>John Westbrook</principal>
+            <funder>Bucknell University</funder>
+            <sponsor>French 370</sponsor>
+            <respStmt>
+               <name>Noah Berg</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Sabrina Debler</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Olivia Dey</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Sarah Haber</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Rebecca Heintzelman</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Lexi Huffman</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Griffin Lombardi</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Lucas Masson</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Isaiah Mays</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>James Treanor</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Micah Umeh, Jr.</name>
+               <resp>Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>John Westbrook, Associate Professor of French</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>L'Enfance de Suzette, livre de lecture courante à l'usage des jeunes filles
+                  (degré élémentaire), morale, leçons de choses, économie domestique</title>
+               <author>Mme Marie Robert Halt</author>
+               <publisher>P. Mellottée</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="chapitre" n="#">
+            <div type="récit">
+               <p>
+                  <title>26. — La devinette de Jacques.</title>
+               </p>
+               <pb n="111"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_26-01.jpg"/>
+               <p> — « Eh bien, mes enfants, n&apos;aurons-nous pas aujourd&apos;hui une devinette ?
+                  demanda M. Dumay, un soir que le vent faisait rage au dehors.</p>
+               <p>— « Si, papa, répondit Jacques. Devinez quelle est la chose que nous avons devant
+                  nous, derrière nous, tout autour de nous et que nous ne voyons pas ; chose plus
+                  précieuse que le sel, le pain et l&apos;eau, car nous ne saurions nous en passer
+                  un instant sans mourir. » </p>
+               <p>Sans chercher trop longtemps, on répondit que c&apos;était l&apos;air. </p>
+               <pb n="112"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_26-02.jpg"/>
+               <fw>112 L&apos;ENFANCE DE SUZETTE.</fw>
+               <p> — « Mais, demanda François, pourquoi ne voyons-nous pas l&apos;air ?</p>
+               <p>— « Parce que, répondit Jacques, l&apos;air est un gaz et que les gaz sont
+                  invisibles.</p>
+               <p>« Nous respirons l&apos;air par les narines, d&apos;où il descend dans
+                  l&apos;intérieur de nos poumons.</p>
+               <p>« C&apos;est l&apos;air qui rougit entièrement notre sang, et c&apos;est le sang
+                  qui, ainsi rougi et rendu vivifiant, va, en circulant à travers les artères,
+                  porter la vie et la force dans toutes les parties de notre corps ; c&apos;est lui
+                  qui le soutient, le fortifie et le renouvelle. Si nous nous mouvons, si nous
+                  agissons, si nous sentons, si nous parlons, si nous comprenons, c&apos;est par
+                  lui. L&apos;air pur active nos forces, un air impur nous débilite ; la privation
+                  d&apos;air nous tue. »</p>
+
+               <figure>
+                  <caption>Appareil respiratoire de l&apos;homme.</caption>
+               </figure>
+
+               <p>A ce moment le chat miaula.</p>
+               <p>— « Et notre chat, et Castor, ont-ils aussi besoin d&apos;air ? demanda
+                  François.</p>
+               <p> — « Tous les animaux, ceux qui marchent sur </p>
+               <pb n="113"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_26-03.jpg"/>
+               <fw>LA DEVINETTE DE JACOUES. 113 </fw>
+               <p> terre, ceux qui volent au-dessus, ceux qui nagent dans l&apos;eau, ne vivraient
+                  pas plus que nous s&apos;ils étaient privés d&apos;air ; car l&apos;eau en
+                  contient aussi, quoique en petite quantité. Les arbres, les plantes, tous les
+                  végétaux respirent également ; c&apos;est par leurs feuilles. Le charbon dans le
+                  poêle, le pétrole dans cette lampe ne brûleraient pas non plus sans air. »</p>
+
+               <figure>
+                  <caption>Appareil respiratoire des poissons.</caption>
+               </figure>
+
+
+               <p>Là-dessus on se mit à table sans cesser, pour cela, la conversation. Car la maman,
+                  montrant le petit Charlot qui soufflait sur sa cuillerée de soupe, dit : — « Et
+                  c&apos;est encore l&apos;air qui refroidit la soupe de votre petit frère. Voyez
+                  comme pour souffler il arrondit, d&apos;ins- tinct, et serre les lèvres en
+                  n&apos;y laissant qu&apos;une toute petite ouverture. S&apos;il ouvrait la bouche
+                  toute grande, l&apos;air qui en sortirait serait chaud, et cela ne ferait pas son
+                  affaire. » </p>
+               <figure>
+                  <caption>Voyez comme pour souffler il arrondit et serre les lèvres en n&apos;y
+                     laissant qu&apos;une toute petite ouverture.</caption>
+               </figure>
+
+               <pb n="114"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_26-04.jpg"/>
+               <fw>114 L&apos;ENFANCE DE SUZETTE.</fw>
+               <p> Alors François souffla des deux manières sur sa main en disant :</p>
+               <p>— « C&apos;est vrai, maman !</p>
+               <p>— « Et la raison, reprit Mme Dumay, c&apos;est que l&apos;air se refroidit en
+                  passant par de petites ouver- tures. Voilà pourquoi il ne faut pas trop
+                  s&apos;expo- ser à l&apos;air qui souffle par les interstices des fe- nêtres et
+                  des portes. Vous voyez que j&apos;ai mis des bourrelets aux nôtres.</p>
+               <p>M. Dumay ajouta : </p>
+               <p>—« Ah ! que de choses il faut savoir, ne fût-ce que pour ne pas s&apos;enrhumer !
+                  Apprenez, mes enfants, apprenez sans cesse, avec toute votre volonté. » [26]</p>
+
+            </div>
+            <div type="causerie">
+               <p>(26) <label>CAUSERIE</label> : Histoire naturelle. — Qu&apos;est-ce que les
+                  narines ? — Dans quelle partie du corps sont logés les poumons ? — Quels animaux
+                  vivent sur la terre ? — Lesquels volent dans les airs ? — Lesquels nagent dans les
+                  eaux ? — Comment respirent les mammifères ? — les oiseaux ? — les insectes ? — les
+                  poissons ? — les végétaux ? — Qu&apos;est-ce que les artères ? </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

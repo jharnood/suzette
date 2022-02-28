@@ -100,6 +100,27 @@
             	<valItem ident="hygiène" mode="add">
             		<desc>Hygiène</desc>
             	</valItem>
+              <valItem ident="français" mode="add">
+                <desc>Français</desc>
+              </valItem>
+              <valItem ident="arithmétique" mode="add">
+                <desc>Arithmétique</desc>
+              </valItem>
+              <valItem ident="industrie" mode="add">
+                <desc>Industrie</desc>
+              </valItem>
+              <valItem ident="géographie" mode="add">
+                <desc>Géographie</desc>
+              </valItem>
+              <valItem ident="instruction_civique" mode="add">
+                <desc>Instruction civique</desc>
+              </valItem>
+              <valItem ident="cosmographie" mode="add">
+                <desc>Cosmographie</desc>
+              </valItem>
+              <valItem ident="soins_à_donner_aux_malades" mode="add">
+                <desc>Soins à donner aux malades</desc>
+              </valItem>
             </valList>
           </attDef>
         </attList>

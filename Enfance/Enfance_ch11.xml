@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'enfance de Suzette</title>
+            <principal>John Westbrook</principal>
+            <funder>Bucknell University</funder>
+            <sponsor>French 370</sponsor>
+            <respStmt>
+               <name>Noah Berg</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Sabrina Debler</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Olivia Dey</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Sarah Haber</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Rebecca Heintzelman</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Lexi Huffman</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Griffin Lombardi</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Lucas Masson</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Isaiah Mays</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>James Treanor</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Micah Umeh, Jr.</name>
+               <resp>Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>John Westbrook, Associate Professor of French</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>L'Enfance de Suzette, livre de lecture courante à l'usage des jeunes filles
+                  (degré élémentaire), morale, leçons de choses, économie domestique</title>
+               <author>Mme Marie Robert Halt</author>
+               <publisher>P. Mellottée</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="chapitre" n="11">
+            <div type="récit">
+               <p>
+                  <title>11. — Un compte de Ludivine.</title>
+               </p>
+               <pb n="31"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_11-01.jpg"/>
+
+               <p> Mme Dumay finissait de parler quand Ludivine entra. Ludivine était cette voisine
+                  que petite Suzette avait regardé passer, au lieu d&apos;écrire soigneusement sa
+                  seconde ligne ; vous vous rappelez ?</p>
+               <p>Ludivine avait perdu son mari et demeurait chez son père avec sa petite fille Lisa
+                  et son petit garçon Vincent, un peu plus âgé que François et fort gamin.</p>
+               <p>François demanda : — « Vous n&apos;avez pas amené Vincent ? » </p>
+               <pb n="32"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_11-02.jpg"/>
+               <fw>32 L&apos;ENFANCE DE SUZETTE.</fw>
+               <p> Elle répondit avec vivacité :</p>
+               <p>— « Vincent ? Il est déjà au lit faute de vêtements pour s&apos;habiller.
+                  Imaginez-vous que ce garnement a eu l&apos;idée de faire la chasse à nos oies dans
+                  la mare où il s&apos;est trempé jusqu&apos;aux os. Ses habits du dimanche étaient
+                  déjà au baquet depuis hier, ceux de tous les jours sont allés les rejoindre.</p>
+               <p>« Mais le pire, c&apos;est qu&apos;une de ses galoches est restée au fond de la
+                  vase ! ... une galoche toute neuve, à deux francs cinquante la paire ! — «  Comme
+                  une galoche ne va pas sans l&apos;autre, dit Mme Dumay, vous pouvez même dire que
+                  celle qui est perdue vaut à elle seule deux francs cinquante. » </p>
+               <p>Ludivine se mit à soupirer : </p>
+               <p>— « Ah ! quel enfant ! quel enfant ! Depuis le commencement de cette année
+                  seulement, j&apos;ai déjà passé au moins cinq journées à ôter les taches, à
+                  réparer les accrocs de ses vêtements (Ici, on regarda M. François)... des journées
+                  qui me rapportent 1 fr. 50, quand je les emploie à travailler pour les autres.
+                  Voyez un peu ! cinq fois 1 fr. 50 !</p>
+               <p> — De plus, ces réparations m&apos;ont coûté en savon, en pièces, en mercerie, 3
+                  fr. 50.</p>
+               <p>« Joignez à cela 4 francs pour le raccommo- </p>
+               <pb n="33"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_11-03.jpg"/>
+               <fw>UN COMPTE DE LUDIVINE. 33 </fw>
+               <p> dage de ses souliers, sans compter la galoche de 2 fr. 50.</p>
+               <p>« Il m&apos;a cassé deux couteaux à 75 centimes l&apos;un, dépaillé une chaise à
+                  force de monter dessus, d&apos;où un rempaillage : 90 centimes.</p>
+               <p>« Il m&apos;a perdu sa casquette du dimanche, une casquette à galons d&apos;or de
+                  4 fr 75 ; cinq mouchoirs de poche à 30 centimes ; une pelle à charbon de 1 fr. 25
+                  ; un bon parapluie de coton à 3 francs ; un marteau à 1 fr. 75 ; quatre
+                  porte-plumes à 10 centimes et un beau livre de lecture à images, de 1 fr.
+                  25...</p>
+
+               <figure>
+                  <caption>— Vous connaissiez mon beau lapin roux dont j&apos;avais refusé 4 francs
+                     il y a trois jours ?</caption>
+               </figure>
+
+               <p>« Ah ! et la pipe de son grand-père Benoît, avec le briquet, une belle pipe de
+                  vingt-six sous et un briquet de neuf sous qu&apos;il a pris et égarés !... </p>
+               <p>« Et ce n&apos;est pas tout ! Vous connaissiez mon beau lapin roux dont
+                  j&apos;avais refusé 4 francs il y à trois jours ? Pas plus tard qu&apos;hier
+                  Vincent me </p>
+
+               <pb n="34"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_11-04.jpg"/>
+               <fw>34 L&apos;ENFANCE DE SUZETTE.</fw>
+               <p> l&apos;a assommé d&apos;un coup de bâton en voulant le faire rentrer dans le
+                  clapier, après l&apos;en avoir laissé sauver.</p>
+               <p>« Il va falloir que je vende mes oies trop tôt, et sans profit, pour racheter des
+                  galoches ! et jusque-là le vaurien manquera l&apos;école ! » A ces mots, les yeux
+                  de François brillèrent comme à une bonne nouvelle.</p>
+               <p>— « Ah !... dit-il, quand on perd ses galoches, on ne va pas à l&apos;école ?
+                  »</p>
+               <p>Mais le papa répondit :</p>
+               <p>— « François, tu n&apos;as pas bien compris. Ludivine a voulu dire seulement
+                  qu&apos;un garçon ne peut pas aller à l&apos;école avec les deux pieds dans une
+                  seule galoche.</p>
+               <p>— « Vincent aura demain les deux galoches qui lui sont nécessaires, » ajouta Mme
+                  Dumay.</p>
+               <p>Et elle fit accepter à Ludivine deux franes cinquante centimes, à rembourser après
+                  la vente de ses oies.</p>
+               <p>Quand la brave femme fut sortie, la petite Suzette montra un papier sur lequel
+                  elle avait écrit les dépenses faites par Ludivine pour Vincent, à mesure que
+                  celle-ci les énumérait.</p>
+               <p>— « Jacques et moi, dit Suzette, nous avons fait le compte : 39 fr. 55. »</p>
+               <p>Le père vérifia l&apos;addition qui était exacte : </p>
+               <pb n="35"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_11-05.jpg"/>
+               <fw>UN COMPTE DE LUDIVINE. 35 </fw>
+               <p> — « Trente-neuf francs cinquante-cinq pour un ménage de pauvres gens, dit-il,
+                  c&apos;est bien lourd. »</p>
+               <p>La mère regarda François et ajouta :</p>
+               <p>— « L&apos;enfant qui ménage ses vêtements, ses livres, ses cahiers, qui ne gâche
+                  rien dans la maison, qui épargne à sa famille des dépenses inutiles, lui rend
+                  ainsi à peu près le même ser- vice que s&apos;il lui gagnait de l&apos;argent.
+                  »</p>
+
+               <figure>
+                  <caption>(1) Suzette frottait ses chevilles l&apos;une contre l&apos;autre, ce qui
+                     use beaucoup la chaussure.<lb/> 2) A partir de ce moment, la petite Suzette
+                     s&apos;appliqua à espacer un peu ses pieds en marchant.</caption>
+               </figure>
+
+               <p>A partir de ce moment, la petite Suzette s&apos;appliqua à espacer un peu ses
+                  pieds en marchant ; car jusque-là elle avait battu le briquet avec ses chevilles,
+                  ce qui use beaucoup la chaussure.</p>
+               <p>Et Jacques cessa aussi d&apos;essuyer ses plumes sur sa manche, comme il en avait
+                  la mauvaise habitude.</p>
+               <p>Quant à M. François, il perdit vite le souvenir des dépenses de son camarade Vin-
+                  cent. </p>
+
+               <pb n="36"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_11-06.jpg"/>
+               <fw>36 L&apos;ENFANCE DE SUZETTE.</fw>
+               <p> Charlot, lui, n&apos;avait pas entendu : de puis longtemps déjà il dormait.
+                  [11]</p>
+
+
+            </div>
+            <div type="causerie">
+               <p>[11] <label>CAUSERIE</label> : Arithmétique. — Refaites l&apos;addition des frais
+                  qu&apos;occasionnait la conduite de Vincent. — Comment séparez-vous les francs des
+                  centimes ? — Comment s&apos;appelle le résultat de l&apos;ad- dition ?</p>
+               <p>Connaissances usuelles. — Qu&apos;est-ce qu&apos;une galoche ? un sabot ? un
+                  soulier ? une botte ? une bottine ? une pantoufle ? un chausson ? une savate ? —
+                  Qu&apos;est-ce que la semelle, l&apos;empeigne, les quartiers, le talon d&apos;une
+                  chaussure ? — Qu&apos;est-ce qu&apos;un bri- quet ?</p>
+               <p>Grammaire. — Expliquez cette expression : battre le briquet avec ses
+                  chevilles.</p>
+               <p>Morale. — Est-ce un devoir envers vos parents que d&apos;avoir soin des vêtements
+                  qu&apos;ils vous donnent ? </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

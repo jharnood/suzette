@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'enfance de Suzette</title>
+            <principal>John Westbrook</principal>
+            <funder>Bucknell University</funder>
+            <sponsor>French 370</sponsor>
+            <respStmt>
+               <name>Noah Berg</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Sabrina Debler</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Olivia Dey</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Sarah Haber</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Rebecca Heintzelman</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Lexi Huffman</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Griffin Lombardi</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Lucas Masson</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Isaiah Mays</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>James Treanor</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Micah Umeh, Jr.</name>
+               <resp>Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>John Westbrook, Associate Professor of French</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>L'Enfance de Suzette, livre de lecture courante à l'usage des jeunes filles
+                  (degré élémentaire), morale, leçons de choses, économie domestique</title>
+               <author>Mme Marie Robert Halt</author>
+               <publisher>P. Mellottée</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="chapitre" n="#">
+            <div type="récit">
+               <p>
+                  <title>8. — De l&apos;attention ! </title>
+               </p>
+               <pb n="20"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_08-01.jpg"/>
+               <p> Les jours se suivent et ne se ressemblent pas. Un matin, petite Suzette resta au
+                  lit à flâner, à se détirer.</p>
+               <p>Sa maman dut l&apos;appeler plusieurs fois : — « Suzette ! Suzette ! Il est grand
+                  jour. </p>
+               <pb n="21"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_08-02.jpg"/>
+               <fw>DE L&apos;ATTENTION ! 21 </fw>
+               <p> — « Oui, maman, je viens. » </p>
+               <p>Elle se mit à sa toilette ; mais pas d&apos;eau dans le broc ! Et le savon ? où
+                  est le savon ? Ah ! le voilà enfin derrière un des pieds de la table de toilette.
+                  La veille au soir, petite Suzette avait oublié de ranger. Et le matin, la brosse,
+                  les vêtements, les souliers, tout semblait jouer à cache-cache !</p>
+               <p>Le temps pas- sait. La voix de la maman se fit de nouveau en- tendre.</p>
+               <p>— « Eh bien ! ma fille, que fais- tu ? »</p>
+
+               <figure>
+                  <caption>— Suzette ! Suzette ! il est grand jour.</caption>
+               </figure>
+
+               <p>La petite Suzette eut beau ne se débarbouiller, ne se coiffer qu&apos;à moitié, ne
+                  pas agrafer son tablier ni ranger sa chambre ; elle eut beau garder ses bas mis à
+                  l&apos;envers, elle fut en retard.</p>
+               <p>« Enfin, te voilà dit la mère en la voyant paraître. Surveille le lait qui est sur
+                  le feu pen- </p>
+               <pb n="22"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_08-03.jpg"/>
+               <fw>22 L&apos;ENFANCE DE SUZETTE.</fw>
+               <p> dant que je vais habiller François et Charlot. » La petite fille reste un moment
+                  devant le fourneau, puis tout à coup songe à sa plante de réséda qui a besoin
+                  d&apos;être arrosée.</p>
+               <p>Elle court porter le pot de fleurs sous le robinet de la fontaine dans la cuisine
+                  ; elle vient d&apos;ouvrir ce robinet, lorsque soudain une terrible odeur de lait
+                  brûlé se répand dans la pièce.</p>
+
+               <figure>
+                  <caption>Suzette se précipite vers le fourneau, hélas ! trop tard.</caption>
+               </figure>
+
+               <p>Suzette se précipite vers le fourneau. Hélas ! trop tard ; la moitié du déjeuner
+                  est partie. La maman arrive :</p>
+               <p> — « Maman, murmure Suzette, c&apos;est que j ai voulu arroser ma plante de...
+                  »</p>
+               <p>Elle n&apos;achève pas ; elle se souvient que le réséda est sous le robinet de la
+                  fontaine ; et le robinet coule toujours.</p>
+               <p>Elle court le fermer, mais la cuisine est déjà, remplie d&apos;eau. </p>
+
+               <pb n="23"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_08-04.jpg"/>
+               <fw>L&apos;ACCROC REPRISÉ 23</fw>
+               <p> — « Les robinets ne se ferment pas tout seuls, ma fille, lui dit la maman ;
+                  c&apos;est à nous d&apos;y penser, quand nous les avons ouverts. </p>
+               <p>« Et le lait une fois bouillant ne peut pas se dire : Je ne déborderai pas de la
+                  casserole parce que je ferais trop de chagrin à la petite Suzette.</p>
+               <p>« Là encore, c&apos;est nous qui devons veilier. — « Ah ! soupire Suzette,
+                  avant-hier tout marchait si bien ! </p>
+               <p>— « Avant-hier, ma mie, tu mettais à ce que tu faisais toute ton attention, toute
+                  ta volonté, et c&apos;est ainsi qu&apos;il faut agir ; sinon les choses que nous
+                  devons mener nous mènent, et nous ne faisons que des sottises. »</p>
+               <p>Ainsi parla la maman, et petite Suzette s&apos;es- suya les yeux, car elle sentait
+                  bien que ce qui rachète les fautes, ce sont non pas les pleurs, mais les actes.
+                  [8] </p>
+
+            </div>
+            <div type="causerie">
+               <p> [8] <label>CAUSERIE</label> : Hygiène. — Qu&apos;est-ce qu&apos;une table de
+                  toilette ? — Quels objets la garnissent ? — Pourquoi est-il nécessaire de se
+                  débarbouiller au savon ?</p>
+               <p>3Connaissances usuelles. — Qu&apos;est-ce qu&apos;un peigne ? un démêloir ? une
+                  brosse ? ― Connaissez-vous plusieurs sortes de brosses ? </p>
+               <p>Français. ― Pourquoi les objets de toilette, les vêtements de Suzette avaient-ils
+                  l&apos;air de jouer à cache-cache ? ― Expliquez ce proverbe : « On ne peut pas
+                  chasser deux lièvres à la fois. » </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

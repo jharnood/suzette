@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'enfance de Suzette</title>
+            <principal>John Westbrook</principal>
+            <funder>Bucknell University</funder>
+            <sponsor>French 370</sponsor>
+            <respStmt>
+               <name>Noah Berg</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Sabrina Debler</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Olivia Dey</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Sarah Haber</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Rebecca Heintzelman</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Lexi Huffman</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Griffin Lombardi</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Lucas Masson</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Isaiah Mays</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>James Treanor</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Micah Umeh, Jr.</name>
+               <resp>Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>John Westbrook, Associate Professor of French</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>L'Enfance de Suzette, livre de lecture courante à l'usage des jeunes filles
+                  (degré élémentaire), morale, leçons de choses, économie domestique</title>
+               <author>Mme Marie Robert Halt</author>
+               <publisher>P. Mellottée</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="chapitre" n="10">
+            <div type="récit">
+               <p>
+                  <title>10. — L&apos;accroc reprisé (Suite). </title>
+               </p>
+               <pb n="28"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_10-01.jpg"/>
+
+               <p>La maîtresse continua :</p>
+               <p> — « Le filage terminé, les fils que l&apos;on a obtenus sont prêts pour le
+                  tissage.</p>
+
+               <figure>
+                  <caption>Le tissage.</caption>
+               </figure>
+
+               <figure>
+                  <caption>Le filage.</caption>
+               </figure>
+
+               <p>« Cette nouvelle opération consiste à entrecroiser les fils. On tend, dans le sens
+                  de la longueur de la pièce d&apos;étoffe, des fils qui sont rangés côte à côte
+                  comme les dents d&apos;un peigne </p>
+
+               <pb n="29"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_10-02.jpg"/>
+               <fw>L&apos; ACCROC REPRISÉ. 29</fw>
+               <p> — « Puis, dans le sens de la largeur, de droite à gauche et de gauche à droite,
+                  on fait passer un autre fil qui traverse les premiers en les croisant. « La
+                  variété des étoffes dépend de la manière dont les fils sont entre-croisés. </p>
+               <p>« Les étoffes les plus lisses, les plus douces sont celles qui proviennent des
+                  végétaux. On s&apos;en sert pour faire la lingerie, les chemises, les camisoles,
+                  les caleçons, etc.</p>
+               <p>« Les étoffes comme les lainages et les soieries, qui proviennent des animaux,
+                  sont plus chaudes et conviennent surtout pour les vêtements de dessus.</p>
+               <p>« Certaines substances minérales peuvent aussi se filer et se tisser, par exemple
+                  l&apos;or et l&apos;argent, qu&apos;autrefois on mélangeait à la laine et à la
+                  soie.</p>
+               <p>« Mais, en ce genre, le plus curieux tissu est celui qui se tire d&apos;un
+                  minéral, une sorte de pierre filamenteuse, brillante, nacrée, appelée amiante. Ce
+                  tissu a l&apos;apparence de la soie.</p>
+               <p>« Ce qui distingue surtout les tissus d&apos;amiante, c&apos;est qu&apos;ils sont
+                  incombustibles, c&apos;est-à-dire qu&apos;ils ne sauraient prendre feu.</p>
+               <p>« Malheureusement, ils coûtent très cher ; — elle ajouta en souriant : — sans quoi
+                  on pour- rait par précaution habiller d&apos;amiante les en- <fw>2.</fw>
+               </p>
+               <pb n="30"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_10-03.jpg"/>
+               <fw>30 L&apos;ENFANCE DE SUZETTE.</fw>
+               <p> fants qui s&apos;amusent à jouer avec le feu, les allumettes ou les lampes. »</p>
+               <p>La maîtresse interrompit là sa leçon, pour demander à Suzette si elle avait
+                  compris.</p>
+
+               <p> — « Parfaitement, Madame, répondit-elle.</p>
+               <p>— « Eh bien, prends la blouse de ton petit frère. A la place des fils rompus, tu
+                  vas avec ton aiguille en tendre d&apos;autres dans le sens de la hauteur; puis, tu
+                  entre-croiseras ceux-ci avec des fils passés dans le sens de la largeur.
+                  C&apos;est là ce qu&apos;on appelle faire une reprise. »</p>
+
+               <figure>
+                  <caption>Alors la petite Suzette prit l&apos;aiguille.</caption>
+               </figure>
+
+               <p>Alors la petite Suzette prit l&apos;aiguille , et, sous la direction de
+                  l&apos;institutrice, parvint — faire, à la place de l&apos;accroc, une belle
+                  reprise </p>
+               <p>Le soir, en rentrant chez ses parents, elle leur montra ce joli travail, tout en
+                  leur racon- tant la leçon qu&apos;elle avait reçue à l&apos;école. Le </p>
+
+               <pb n="31"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_10-04.jpg"/>
+               <fw>UN COMPTE DE LUDIVINE 31</fw>
+               <p> père et la mère furent enchantés et, grâce à l&apos;habileté de Suzette,
+                  pardonnèrent à François. Celui-ci demanda alors si l&apos;on ne pourrait pas
+                  trouver une étoffe qui permit aux enfants de grimper aux arbres sans se
+                  déchirer.</p>
+               <p>— « Hélas ! non, répondit Mme Dumay en riant, on n&apos;a trouvé encore que les
+                  mamans et les sœurs pour réparer les déchirures que font à leurs vêtements les
+                  vilains petits garçons. » [10] </p>
+
+            </div>
+            <div type="causerie">
+               <p> [10] <label>CAUSERIE</label> : Histoire naturelle. — Qu&apos;est-ce que l&apos;or
+                  ? l&apos;argent ? l&apos;amiante ? — Qu&apos;est-ce qui distingue les tissus
+                  d&apos;amiante ?</p>
+               <p>Morale. — Qu&apos;est-ce qui dut toucher surtout le cœur fraternel de la petite
+                  Suzette dans les éloges qu&apos;elle reçut de ses parents pour son travail de
+                  reprise? </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
