@@ -74,7 +74,7 @@
 					</p>
 					<pb xmlns="" n="104" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_25-01.jpg"/>
 					<p xmlns="">A quelques jours de là, un soir que toute la famille était réunie pour la
-						veillée, petite Suzette dit :</p>
+						veillée, petite <persName>Suzette</persName> dit :</p>
 
 					<p xmlns="">— « Mme Delorme nous a lu en classe une sorte de conte très intéressant. Elle
 						m'a prêté son livre ; voulez-vous entendre ce conte ? </p>
@@ -90,7 +90,7 @@
 
 
 					<p xmlns=""><fw xmlns="">APOLOGUE. I</fw></p>
-					<p xmlns="">Aux temps lointains, il n y avait en France ni villes ni villages. Tout le
+					<p xmlns="">Aux temps lointains, il n y avait en <placeName>France</placeName> ni villes ni villages. Tout le
 						pays n'était qu'une vaste forêt de chênes, de hêtres,
 						d'ormes, de frênes, d'arbres de toute sorte, enchevêtrés de ronces
 						et d'herbes.</p>
@@ -227,10 +227,10 @@
 				</div>
 				<div xmlns="" type="causerie">
 					<pb xmlns="" n="111" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_25-08.jpg"/>
-					<p xmlns="">[25] <label xmlns="">CAUSERIE</label> : Grammaire. — Citez les principaux signes de ponctuation. —
+					<p xmlns="">[25] <label xmlns="">CAUSERIE</label> : <term ana="grammaire">Grammaire</term>. — Citez les principaux signes de ponctuation. —
 						Quelles sont les règles pour bien lire ? — De quel nom vient le verbe
 						domestiquer ?</p>
-					<p xmlns="">Histoire naturelle. — Nommez les principaux animaux domestiques. — Quel nom
+					<p xmlns=""><term ana="histoire_naturelle">Histoire naturelle</term>. — Nommez les principaux animaux domestiques. — Quel nom
 						donne-t-on aux plantes dont les graines servent à faire le pain ? — Quelles
 						sont ces plantes ? Connaissances usuelles. — Qu'est-ce qu'un
 						bateau ? — Comment appelle-t-on les bateaux qu'on fait marcher à la
