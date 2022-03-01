@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'enfance de Suzette</title>
+            <principal>John Westbrook</principal>
+            <funder>Bucknell University</funder>
+            <sponsor>French 370</sponsor>
+            <respStmt>
+               <name>Noah Berg</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Sabrina Debler</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Olivia Dey</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Sarah Haber</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Rebecca Heintzelman</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Lexi Huffman</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Griffin Lombardi</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Lucas Masson</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Isaiah Mays</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>James Treanor</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Micah Umeh, Jr.</name>
+               <resp>Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>John Westbrook, Associate Professor of French</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>L'Enfance de Suzette, livre de lecture courante à l'usage des jeunes filles
+                  (degré élémentaire), morale, leçons de choses, économie domestique</title>
+               <author>Mme Marie Robert Halt</author>
+               <publisher>P. Mellottée</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+	<text>
+		<body>
+			<div type="chapitre" n="30">
+				<div type="récit">
+					<p>
+					   <title>30. — En voyage.</title>
+					</p>
+				   <pb n="131"
+				      facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_30-01.jpg"/>
+				   <p>				      
+				      La voiture roula pendant quelques heures à la 
+				      fraîcheur du matin. Il y avait de la brume qui finit 
+				   </p>
+				   <pb n="132"
+				      facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_30-02.jpg"/>
+				   <fw>132 L&apos;ENFANCE DE SUZETTE.</fw>
+				   <p>
+				      par se dissiper aux rayons du soleil. Et alors dans le 
+				      lointain, apparut la haute colline sur laquelle est 
+				      bâtie la ville de Laon.
+				   </p>
+				   
+				   <figure>
+				      <caption>La cathédrale de Laon.<lb/>
+				         1. Ensemble de la cathédrale. — 2. Détail de l&apos;une des tours. </caption>
+				   </figure>
+
+				   <pb n="133"
+				      facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_30-03.jpg"/>
+				   <fw>EN VOYAGE. 133</fw>
+				   <p>Bientôt on distingua l&apos;antique et belle cathédrale 
+				      avec ses deux tours principales se profilant sur le 
+				      ciel bleu.</p>
+				      <p>François, qui les regardait, s&apos;écria soudain : 
+				      — « Tiens, des bœufs ! il y a des bœufs là-haut ! »
+				      Et, en effet, il y en avait huit en pierre, un à chacun des quatre angles des deux tours.</p>
+				      <p>— « Oui, dit M°  Delorme, une vieille légende raconte que les architectes qui, au douzième siècle, bâtirent ce beau monument, y placèrent ces bœufs de 
+				      pierre en souvenir de ceux de chair et d&apos;os qui, à grand&apos;-
+				      peine, amenèrent au faîte de la montagne les matériaux nécessaires à la construction de l&apos;édifice. »</p>
+				      <p>Quelques pas plus loin, on aperçut la citadelle ; 
+				      Laon fait partie, vous le savez, de la ligne de défense 
+				      de notre frontière du nord.</p>
+				      <p>A l&apos;entrée de la ville, M. Dumay remisa dans 
+				      une auberge la voiture et la Grise et on escalada la 
+				      « Grimpette », un escalier à pic sur le flanc escarpé 
+				      de la montagne.</p>
+				      <p>L&apos;ascension fut assez rude ; mais aussi quel plaisir quand on commença à dominer le vaste horizon 
+				      et que nos voyageurs purent contempler à leurs 
+				      pieds une vallée profonde dont les deux versants 
+				      étaient couverts de verdure !</p>
+				      <p>— « Mais, dit Suzette en étendant la main, ne 
+				      sont-ce pas là des vignes?</p>
+				      <p>— « Qui, répondit Mee Delorme, car Laon, quoique ville du Nord, a toujours eu des vignes. Regardez-les bien ; la vigne est ce qui reste ici de plus 
+				      ancien ; elle a vu naître cette cité.
+				   </p>
+				   <fw>
+				      ENFANCE DE S. 8
+				   </fw>
+				   <pb n="134"
+				      facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_30-04.jpg"/>
+				   <fw>134 L&apos;ENFANCE DE SUZETTE.</fw>
+				   <p>
+				      « Vous avez entendu parler du temps où la France 
+				      d&apos;aujourd&apos;hui s&apos;appelait la Gaule. Vous vous souvenez 
+				      aussi que la Gaule fut conquise par Jules César.
+				      50 ans avant Jésus-Christ.</p>
+				     <p> « Quand ce pays, pacifié, eut accepté la domination de ses vainqueurs, les soldats de Rome, qui 
+				      y tenaient garnison, 
+				      n&apos;ayant guère plus 
+				      rien à faire de leurs 
+				      armes, un empereur romain, Probus, eut l&apos;idée de les occuper à 
+				      bêcher les coteaux de la Gaule et à y planter des 
+				      vignes.</p>
+				   
+				   <figure>
+				      <caption>Habitations gauloises.</caption>
+				   </figure>
+				   
+				      <p>« Ce fut l&apos;origine du vin français, ce vin fameux, 
+				      devenu une de nos principales richesses. »</p>
+				      <p>Là, M Dumay prit la parole :</p>
+				      <p>— « Une chose, dit-il, me frappe, moi, laboureur, 
+				   </p>
+
+				   <pb n="135"
+				      facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_30-05.jpg"/>
+				   <fw>EN VOYAGE. 135 </fw>
+				   <p>c&apos;est l&apos;excellence du travail obtenu par la bêche et 
+				      sa longue durée. Je salue ici mes devanciers, les an-
+				      tiques travailleurs qui, il y a près de deux mille ans, 
+				      nous ont fait ce beau cadeau, la vigne. »</p>
+				      <p>On applaudit à cet hommage rendu aux hommes 
+				      du passé. Puis, se remettant à grimper, on arriva 
+				      en pleine ville, sur une place où se tenait le marché.
+				      Il y avait là grande foule, grand bruit et large 
+				      provision de volailles, de fruits, de légumes, de 
+				      beurre, de fromages. Les ménagères n&apos;avaient qu&apos;à 
+				      choisir. Leur panier au bras, elles allaient et venaient, 
+				      marchandant, soupesant, trouvant tout trop cher.
+				      Les marchands, de leur côté, trouvaient tout trop bon 
+				      marché ; mais on finissait par s&apos;entendre.</p>
+				      <p>François s&apos;était arrêté devant une boutique où un 
+				      superbe polichinelle en pain d&apos;épices, tout chamarré 
+				      de sucre bleu, blanc et rose, attirait l&apos;oeil.</p>
+				      <p>Jacques dit alors tout bas à Suzette : </p>
+				      <p>— « Je sais bien ce que voudrait François.</p>
+				      <p>— « Oui, dit François qui avait entendu, je voudrais ce beau bonhomme pour l&apos;apporter à Charlot. »</p>
+				      <p>On félicita M. François, qui, depuis sa dernière 
+				      aventure des cerises, avait visiblement fait un progrès moral, puisque maintenant, devant une frian-
+				      dise, il songeait à autrui. Aussi M. Dumay s&apos;empressa-t-il d&apos;acheter le polichinelle pour Charlot et 
+				      même d&apos;en ajouter un autre pour M. François.</p>
+				      <p>Tout à coup, à un tournant, on aperçut au loin 
+				      des grands bois assez semblables à ceux de Coucy. </p>
+				      <p>Jacques et Suzette rappelèrent de nouveau leurs 
+				      impressions du précédent voyage, leurs souvenirs 
+				   </p>
+				   <pb n="136"
+				      facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_30-06.jpg"/>
+				   <fw>136 L&apos;ENFANCE DE SUZETTE.</fw>
+				      <p>
+				      historiques, la malheureuse condition des serfs, la 
+				      dureté des seigneurs féodaux. </p>
+				      <p>Suzette demanda . </p>
+				      <p>— « Est-ce qu&apos;au temps de la féodalité les gens 
+				      de Laon et des autres villes étaient aussi malheureux 
+				      que ceux des campagnes ? »</p>
+				      <p>M. Delorme lui répondit .</p>
+				      <p>– « Les villes, comme les châteaux forts et toutes 
+				      les terres, appartenaient à un seigneur. Mais il s&apos;établit vite une différence entre les habitants des villes 
+				      ou bourgs, qu&apos;on appelait des bourgeois, et les serfs 
+				      des champs.</p>
+				      <p>« Les bourgeois, moins exposés dans les villes aux 
+				      ravages de la guerre, pouvaient exercer plus aisément leurs métiers. Ils s&apos;enrichirent par leur travail, ce qui est la meilleure façon de s&apos;enrichir; ils 
+				      furent bientôt dans l&apos;aisance, tandis que les serfs des
+				      campagnes, que le seigneur dépouillait même de 
+				      leurs outils, manquaient de tout.</p>
+				      <p>« Or les hommes bien nourris, bien logés, bien vêtus, 
+				      deviennent forts. Et les forts ne se laissent pas aussi 
+				      facilement malmener et opprimer que les faibles. Aussi 
+				      les bourgeois ne montrèrent-ils pas, envers la tyrannie 
+				      de leurs seigneurs, la patience des pauvres paysans.</p>
+				      <p>« Ils voulurent être les maîtres dans leurs villes, 
+				      c&apos;est-à-dire avoir le droit d&apos;y vivre et d&apos;y travailler 
+				      tout à fait en paix et sécurité, et pour acheter ce 
+				      droit, ils offrirent de grosses sommes aux seigneurs.
+				      Ceux-ci, qui avaient toujours besoin d&apos;argent, parce 
+				      qu&apos;ils ne produisaient rien et dépensaient beaucoup, 
+				      acceptèrent pour la plupart.
+				   </p>
+				   <pb n="137"
+				      facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_30-07.jpg"/>
+				   <fw>EN VOYAGE. 137</fw>
+				      
+				   <p>« Les villes ainsi rachetées et administrées par les
+				      bourgeois s&apos;appelèrent « communes ». Laon fut une 
+				      des premières à revendiquer ses droits, mais elle ne 
+				      fut pas une des plus heureuses.</p>
+				   
+				   <figure>
+				      <caption>XIVe SIÉCLE. XVIe SIÉCLE. XVIIe SIÉCLE. XVIIIe SIÉCLE.<lb/>
+				         Différents costumes de bourgeois.</caption>
+				   </figure>
+				   
+				      <p>« Ses seigneurs, sans aucun respect pour la parole 
+				      donnée et malgré l&apos;argent qu&apos;ils avaient reçu, lui 
+				      reprirent plusieurs fois les droits qu&apos;ils lui avaient 
+				      concédés. On se battit avec fureur pendant bien des 
+				      années, et cette terre que nous foulons fut à cette 
+				      époque arrosée de sang et couverte de ruines.</p>
+				      <p>« Mais, malgré tout, la bourgeoisie des villes devint 
+				      de plus en plus forte, et c&apos;est elle qui, en 1789, 
+				      accomplit la Révolution dont nous avons déjà parlé 
+				      à Coucy l&apos;an dernier, et qui donna à tous les Français, à ceux des villes comme à ceux des campagnes, 
+				      la liberté et l&apos;égalité devant la loi. »</p>
+
+				     <fw> 8.</fw>
+				   <pb n="138"
+				      facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_30-08.jpg"/>
+				   <fw>138 L&apos;ENFANCE DE SUZETTE.</fw>
+				      
+				   <p>Comme l&apos;heure s&apos;avançait, la compagnie prit le 
+				      chemin de l&apos;auberge, où elle déjeuna de très bon 
+				      appétit. L&apos;hôtesse était en train de servir le dessert 
+				      quand une petite tête pâle, aux grands yeux noirs, se 
+				      montra tout doucement dans l&apos;entre-bâillement de 
+				      la porte. Mais en se voyant aperçue par Suzette, elle 
+				      disparut aussitôt.</p>
+				      <p>Mme Delorme qui l&apos;avait également remarquée, 
+				      demanda à l&apos;hôtesse : </p>
+				      <p>— «  Qui donc est cette enfant, Madame ?</p>
+				      <p>— « C&apos;est la mienne, Madame.</p>
+				      <p>— « Elle a l&apos;air doux et gentil ; pourquoi n&apos;entre-t-elle pas ? Est-ce que nous lui faisons peur ?
+				      La maman répondit tristement, presque à voix 
+				      basse :</p>
+				      <p>— Hélas ! elle est contrefaite ; elle n&apos;ose se mon-
+				      trer, parce que souvent on rit d&apos;elle. </p> 
+				      <p>A ces mots, Suzette parut tout attendrie. Après 
+				      un regard d&apos;intelligence à son père, elle se leva, alla 
+				      trouver la pauvre petite dans la cour et lui parla si 
+				      naturellement, sans avoir l&apos;air de voir sa difformité, que l&apos;enfant se sentit tout de suite à l&apos;aise.
+				      Puis Jacques et François arrivèrent, et l&apos;on joua à 
+				      cache-cache.</p>
+				      <p>La pauvrette ne courait pas très bien, et s&apos;essoufflait vite ; mais Suzette, en y mettant discrètement 
+				      de la complaisance, et en s&apos;entendant avec ses frères, 
+				      lui fit gagner la partie.</p>
+				      <p>Et quand arriva l&apos;heure de monter en voiture 
+				      pour le départ :</p>
+				      <p>— « Adieu, Rose ! dit Suzette.</p>
+				   
+				   <pb n="139"
+				      facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_30-09.jpg"/>
+				   <fw>FIN D&apos;ANNEE. 139</fw>
+				      
+				   <p>— « Adieu, Suzette ! adieu, tous ! » répondit
+				      Rose en agitant sa longue et maigre menotte.</p>
+				      <p>Elle avait des larmes dans les yeux, mais elle 
+				      souriait ; longtemps elle suivit du regard la voiture 
+				      qui s&apos;éloignait et d&apos;où on lui faisait encore des 
+				      signes d&apos;amitié, </p>
+				      <p>— « N&apos;est-ce pas, petite Suzette, qu&apos;il est bon et 
+				      doux de donner ainsi à l&apos;occasion un peu de joie aux 
+				      malheureux ! » dit Mme Delorme. [30]</p>
+
+				</div>
+				<div type="causerie">
+				   <p>
+				      [30] <label>CAUSERIE</label> : Géographie. — De quel département Laon 
+				      est-il le chef-lieu ? — De quelle ancienne province cette ville faisait-elle partie ? — Qu&apos;entend-on par frontière ? — Qu&apos;est-ce qu&apos;une 
+				      vallée ? — Quelles sont les régions de la France qui produisent des 
+				      vins renommés ?</p>
+				      <p>Histoire. — Quel est le général romain qui fit la conquête de la 
+				      Gaule ? — A quelle date ? — Quel empereur romain fit planter des
+				      vignes par ses soldats sur les coteaux de la Gaule ? — D&apos;où vient le 
+				      nom de bourgeois donné, au moyen age, aux habitants des villes?
+				      — Dites la différence qu&apos;il y avait autrefois entre la condition des 
+				      bourgeois des villes et celle des serfs des campagnes.</p>
+				      <p>Morale. — Comment qualifiez-vous ceux qui se moquent des 
+				      malheureux affligés d&apos;une difformité ou d&apos;une infirmité ? — De 
+				      quelle qualité du coeur la petite Suzette fit-elle preuve en s&apos;intéressant discrètement à la petite fille contrefaite ?
+				   </p>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>
