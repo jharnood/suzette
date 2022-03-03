@@ -142,7 +142,7 @@
 				   <p xmlns="">
 				       
 				      et lorsque la soupe fut mangée, l'instituteur, à 
-				      la demande de M. Dumay, reprit :</p>
+				      la demande de <persName xmlns="">M. Dumay</persName>, reprit :</p>
 				      <p xmlns="">—« La fabrication de la faience, qui n'est qu'une 
 				      poterie d'argile 
 				      recouverte d'émail blanc très 
@@ -160,7 +160,7 @@
 				   
 				   
 				      <p xmlns="">— « Et la grosse poterie, les marmites, les 
-				      poêlons ? demanda Jacques.
+				      poêlons ? demanda <persName xmlns="">Jacques</persName>.
 				   </p>
 				   
 				   <figure xmlns="">
@@ -178,32 +178,32 @@
 				      
 				      — « Oh ! la grosse poterie de simple argile brune,
 				      recouverte d'un émail brun, était déjà connue en 
-				      France à l'époque gallo-romaine, il y a dix-huit
-				      cents ans. Et voilà six mille ans qu'on la fabriquait en Egypte.</p>
+				      <placeName xmlns="">France</placeName> à l'époque gallo-romaine, il y a dix-huit
+				      cents ans. Et voilà six mille ans qu'on la fabriquait en <placeName xmlns="">Egypte</placeName>.</p>
 				      <p xmlns="">— « Et le verre, Monsieur ? »</p>
 				      <p xmlns="">L'institutrice regarda son mari, qui répondit en 
 				      souriant : </p>
 				      <p xmlns="">— « Le verre, on vous en parlera bientôt.</p>
-				      <p xmlns="">— « Jacques, il faut laisser ton maître manger 
-				      un peu, dit Mme Dumay ; ton assiette est vide, la 
+				      <p xmlns="">— « <persName xmlns="">Jacques</persName>, il faut laisser ton maître manger 
+				      un peu, dit <persName xmlns="">Mme Dumay</persName> ; ton assiette est vide, la 
 				      sienne encore pleine. » [13]</p>					
 				</div>
 				<div xmlns="" type="causerie">
-				   <p xmlns="">[13] <label xmlns="">CAUSERIE</label> : Grammaire. — Pourquoi a-t-on donné le nom 
+				   <p xmlns="">[13] <label xmlns="">CAUSERIE</label> : <term xmlns="" ana="grammaire">Grammaire</term>. — Pourquoi a-t-on donné le nom 
 				      de couvert à l'ensemble des objets nécessaires pour manger  à
 				      table ?</p>
-				      <p xmlns="">Ménage. — De quoi se compose le couvert ? — Qu'est-ce qu'une 
+				      <p xmlns=""><term xmlns="" ana="menage">Ménage</term>. — De quoi se compose le couvert ? — Qu'est-ce qu'une 
 				      écuelle ? un chaudron ? une crémaillère ? un âtre ? un pétrin ? </p>
 				      <p xmlns="">Sciences naturelles. — Qu'est-ce que l'étain ? Où le trouve- 
 				      t-on ? — A quel usage l'emploie-t-on principalement ? — Qu'est-ce 
 				      que le fer-blanc? — Qu'est-ce que l'argile ?</p>
-				      <p xmlns="">Industrie. — De quoi est faite la poterie commune de cuisine, 
+				      <p xmlns=""><term xmlns="" ana="industrie">Industrie</term>. — De quoi est faite la poterie commune de cuisine, 
 				      marmites, poêlons, etc. ? — De quoi est faite la faïence ? — En quoi 
 				      diffère-t-elle de la poterie commune ? — De quoi est faite la porcelaine ?</p>
-				      <p xmlns="">Histoire. — De quelle époque date la fabrication de la porcelaine ? — Savez-vous le nom par lequel on désigne, au seizième siècle,
+				      <p xmlns=""><term xmlns="" ana="histoire">Histoire</term>. — De quelle époque date la fabrication de la porcelaine ? — Savez-vous le nom par lequel on désigne, au seizième siècle,
 				      l'époque où tous les arts, éclipsés pendant les guerres du moyen âge,
 				      semblèrent renaître ? — Depuis combien de temps l'usage de la
-				      faïence et de la porcelaine s'est-il répandu en France ?  </p>
+				      faïence et de la porcelaine s'est-il répandu en <placeName xmlns="">France</placeName> ?  </p>
 				</div>
 			</div>
 		</body>
