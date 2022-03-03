@@ -124,6 +124,9 @@
               <valItem ident="morale" mode="add">
                 <desc>Morale</desc>
               </valItem>
+              <valItem ident="sciences_naturelles" mode="add">
+                <desc>Sciences naturelles</desc>
+              </valItem>
             </valList>
           </attDef>
         </attList>
