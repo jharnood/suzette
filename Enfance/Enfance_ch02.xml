@@ -124,13 +124,13 @@
 
 				</div>
 				<div type="causerie">
-					<p>[2] <label>CAUSERIE</label> : Grammaire. — Que veut dire le mot
+					<p>[2] <label>CAUSERIE</label> : <term ana="grammaire">Grammaire</term>. — Que veut dire le mot
 							<emph>ainé</emph> ? — Quel mot a servi à former <emph>blondin</emph> ? </p>
-					<p>Histoire naturelle. — Qu'est-ce que le visage ? — Quelles sont les
+					<p><term ana="histoire_naturelle">Histoire naturelle</term>. — Qu'est-ce que le visage ? — Quelles sont les
 						parties qui le composent ?</p>
 					<p>Comment appelle-t-on l'arbre qui donne les noix ? — Que tire-t-on de la
 						noix ?</p>
-					<p>Connaissances usuelles. — Qu'est-ce qu'une carriole ? — Quelle
+					<p><term ana="connaissances_usuelles">Connaissances usuelles</term>. — Qu'est-ce qu'une carriole ? — Quelle
 						différence y a-t-il entre aller au pas, trotter et galoper ?</p>
 				</div>
 			</div>
