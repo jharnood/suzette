@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
+<TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -72,150 +74,143 @@
                <p>
                   <title>27. — Il faut penser à autrui.</title>
                </p>
-               <pb n="114"
-                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_27-01.jpg"/>
-               <p> Quelques jours après, Jacques, allant faire une commission, trouva sur le
+               <pb n="114" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_27-01.jpg"/>
+               <p> Quelques jours après, <persName>Jacques</persName>, allant faire une commission, trouva sur le
                   sentier, derrière le jardin, des moellons et des quartiers de briques tombés
-                  d&apos;une charrette qui venait de passer.</p>
-               <p>Ils obstruaient à peu près le chemin. Jacques songea d&apos;abord à le
-                  débarrasser, puis il se dit : — « Ma foi ! ce n&apos;est pas mon affaire ;
-                  c&apos;est </p>
-               <pb n="115"
-                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_27-02.jpg"/>
+                  d'une charrette qui venait de passer.</p>
+               <p>Ils obstruaient à peu près le chemin. <persName>Jacques</persName> songea d'abord à le
+                  débarrasser, puis il se dit : — « Ma foi ! ce n'est pas mon affaire ;
+                  c'est </p>
+               <pb n="115" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_27-02.jpg"/>
                <fw>IL FAUT PENSER A AUTRUI. 115</fw>
                <p> bien plutôt celle du maladroit qui sème ainsi ses moellons et ses briques sur la
                   route. » </p>
-               <p>Le papa n&apos;était pas encore rentré des champs et la maman savonnait du linge
+               <p>Le papa n'était pas encore rentré des champs et la maman savonnait du linge
                   au fournil.</p>
 
                <figure>
-                  <caption>Ma foi ! ce n&apos;est pas à moi à débarrasser le chemin ! </caption>
+                  <caption>Ma foi ! ce n'est pas à moi à débarrasser le chemin ! </caption>
                </figure>
 
-               <p>Dans la maison, près de la fenêtre, petite Suzette épluchait des pommes de terre
-                  auprès de Charlot qui jouait avec Castor, et de François, occupé à éventrer un
-                  pauvre mouton de carton pour voir ce qu&apos;il y avait dedans. </p>
+               <p>Dans la maison, près de la fenêtre, petite <persName>Suzette</persName> épluchait des pommes de terre
+                  auprès de <persName>Charlot</persName> qui jouait avec <persName>Castor</persName>, et de <persName>François</persName>, occupé à éventrer un
+                  pauvre mouton de carton pour voir ce qu'il y avait dedans. </p>
                <p> </p>
-               <pb n="116"
-                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_27-03.jpg"/>
-               <fw>116 L&apos;ENFANCE DE SUZETTE.</fw>
-               <p> Petite Suzette était très appliquée à peler ses pommes de terre bien finement,
+               <pb n="116" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_27-03.jpg"/>
+               <fw>116 L'ENFANCE DE SUZETTE.</fw>
+               <p> Petite <persName>Suzette</persName> était très appliquée à peler ses pommes de terre bien finement,
                   sans en enlever la moitié et le meilleur, comme font tant de gens. Quand toutes
-                  les pommes de terre furent épluchées, elle leva la tête : François n&apos;était
-                  plus là. Il ne se génait pas pour s&apos;échapper ansi à la sourdine.</p>
-               <p>Elle allait l&apos;appeler quand il reparut en pleurant, la main sur sa joue</p>
-               <p>— « Qu&apos;y a-t-il ?.. de manda-t-elle effrayée. — « De gros moel- lons dans le
-                  sentier, répondit-il... j&apos;ai buté... je suis tombé... »</p>
+                  les pommes de terre furent épluchées, elle leva la tête : <persName>François</persName> n'était
+                  plus là. Il ne se génait pas pour s'échapper ansi à la sourdine.</p>
+               <p>Elle allait l'appeler quand il reparut en pleurant, la main sur sa joue</p>
+               <p>— « Qu'y a-t-il ?.. de manda-t-elle effrayée. — « De gros moel- lons dans le
+                  sentier, répondit-il... j'ai buté... je suis tombé... »</p>
 
                <figure>
-                  <caption>De gros moellons dans le sentier... j&apos;ai buté... je suis tombé...
+                  <caption>De gros moellons dans le sentier... j'ai buté... je suis tombé...
                   </caption>
                </figure>
 
 
-               <p> Elle alluma une bougie, et écartant la main de François, elle aperçut sur sa joue
-                  une forte écorchure d&apos;où le sang s&apos;échappait.</p>
-               <p>Petite Suzette ne pouvait pas supporter la vue du sang. Toute pâle, elle recula et
-                  en poussant un gros soupir s&apos;affaissa sur une chaise. A la vue de leur sœur
-                  presque évanouie, François et Charlot se mirent à crier :</p>
+               <p> Elle alluma une bougie, et écartant la main de <persName>François</persName>, elle aperçut sur sa joue
+                  une forte écorchure d'où le sang s'échappait.</p>
+               <p>Petite <persName>Suzette</persName> ne pouvait pas supporter la vue du sang. Toute pâle, elle recula et
+                  en poussant un gros soupir s'affaissa sur une chaise. A la vue de leur sœur
+                  presque évanouie, <persName>François</persName> et <persName>Charlot</persName> se mirent à crier :</p>
                <p>« Maman ! maman ! » </p>
-               <pb n="117"
-                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_27-04.jpg"/>
+               <pb n="117" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_27-04.jpg"/>
                <fw>IL FAUT PENSER A AUTRUI. 117</fw>
-               <p> Mme Dumay accourut à leurs cris et, tout d&apos;a- bord, ne vit que la pauvre
-                  Suzette sur sa chaise, livide, les lèvres décolorées, les yeux fixes.</p>
-               <p> « Suzette ! ma mignonne, qu&apos;as-tu donc ? » s&apos;écria-t-elle.</p>
+               <p> <persName>Mme Dumay</persName> accourut à leurs cris et, tout d'a- bord, ne vit que la pauvre
+                  <persName>Suzette</persName> sur sa chaise, livide, les lèvres décolorées, les yeux fixes.</p>
+               <p> « <persName>Suzette</persName> ! ma mignonne, qu'as-tu donc ? » s'écria-t-elle.</p>
                <p>Elle lui fit respirer un peu de vinaigre, et lui en frotta les tempes. Enfin
-                  ranimée, la petite Suzette montra François qui s&apos;était un peu écarté.</p>
-               <p>— « C&apos;est lui, le blessé, murmura-t-elle d&apos;une voix faible. Il est tombé
-                  sur des pierres... le sang m&apos;a fait peur. »</p>
-               <p>Sans en demander davantage, la maman cou- rut à François, constata sur sa joue une
+                  ranimée, la petite <persName>Suzette</persName> montra <persName>François</persName> qui s'était un peu écarté.</p>
+               <p>— « C'est lui, le blessé, murmura-t-elle d'une voix faible. Il est tombé
+                  sur des pierres... le sang m'a fait peur. »</p>
+               <p>Sans en demander davantage, la maman cou- rut à <persName>François</persName>, constata sur sa joue une
                   grosse écorchure et se hâta de préparer un peu de vieux linge fin et une cuvette
-                  d’eau aiguisée de quel ques gouttes de teinture d&apos;arnica.</p>
+                  d’eau aiguisée de quel ques gouttes de teinture d'arnica.</p>
                <p>Puis se tournant vers sa fille et la regardant avec tristesse :</p>
-               <p>« Ainsi, Suzette, dit-elle tout en trempant le linge dans la cuvette, ainsi, si je
-                  n&apos;eusse été là, tu aurais, par grande faiblesse, laissé ton frère sans
+               <p>« Ainsi, <persName>Suzette</persName>, dit-elle tout en trempant le linge dans la cuvette, ainsi, si je
+                  n'eusse été là, tu aurais, par grande faiblesse, laissé ton frère sans
                   secours ? »</p>
-               <p>Suzette baissa la tête.</p>
-               <p>— « Eh bien ! reprit la maman, relève-toi de ce moment d&apos;abandon ; viens
-                  toi-même étancher ce sang et panser la joue de François. Il faut acquérir la vertu
-                  du courage, quand on ne l&apos;a pas naturellement. » </p>
+               <p><persName>Suzette</persName> baissa la tête.</p>
+               <p>— « Eh bien ! reprit la maman, relève-toi de ce moment d'abandon ; viens
+                  toi-même étancher ce sang et panser la joue de <persName>François</persName>. Il faut acquérir la vertu
+                  du courage, quand on ne l'a pas naturellement. » </p>
                <fw>7.</fw>
 
-               <pb n="118"
-                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_27-05.jpg"/>
-               <fw>118 L&apos;ENFANCE DE SUZETTE.</fw>
-               <p> Petite Suzette se leva ; quoique encore un peu pâle, elle avait l&apos;air
+               <pb n="118" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_27-05.jpg"/>
+               <fw>118 L'ENFANCE DE SUZETTE.</fw>
+               <p> Petite <persName>Suzette</persName> se leva ; quoique encore un peu pâle, elle avait l'air
                   résolu. Prenant le linge, bravement elle étancha le sang et pansa son frère
-                  d&apos;une main tendre et délicate.</p>
+                  d'une main tendre et délicate.</p>
 
                <figure>
                   <caption>Petite Suzette, prenant le linge, bravement étancha le sang, et pansa son
-                     frère d&apos;une main tendre et délicate.</caption>
+                     frère d'une main tendre et délicate.</caption>
                </figure>
 
-               <p>« Voilà qui est bien, ma fille, » lui dit alors sa mère en l&apos;embrassant.</p>
-               <p>Au même moment, Jacques rentrait avec son père; Mme Dumay leur conta
-                  l&apos;accident.</p>
-               <p>— « Mais qui a donc pu obs- truer ainsi ce sentier ? dit M. Dumay. Si j&apos;avais
-                  eu à pas- ser par là, je l&apos;aurais certainement déblayé.</p>
-               <p>— « J&apos;y suis passé, moi, dit Jacques d&apos;une voix un peu altérée.
-                  J&apos;ai vu ces briques, ces moellons, j&apos;ai même eu un moment l&apos;idée de
-                  les enlever, mais la pensée de réparer la maladresse d&apos;un autre m&apos;a
-                  arrêtée... Si j&apos;avais pu prévoir que notre </p>
+               <p>« Voilà qui est bien, ma fille, » lui dit alors sa mère en l'embrassant.</p>
+               <p>Au même moment, <persName>Jacques</persName> rentrait avec son père; <persName>Mme Dumay</persName> leur conta
+                  l'accident.</p>
+               <p>— « Mais qui a donc pu obs- truer ainsi ce sentier ? dit <persName>M. Dumay</persName>. Si j'avais
+                  eu à pas- ser par là, je l'aurais certainement déblayé.</p>
+               <p>— « J'y suis passé, moi, dit <persName>Jacques</persName> d'une voix un peu altérée.
+                  J'ai vu ces briques, ces moellons, j'ai même eu un moment l'idée de
+                  les enlever, mais la pensée de réparer la maladresse d'un autre m'a
+                  arrêtée... Si j'avais pu prévoir que notre </p>
                <p> </p>
-               <pb n="119"
-                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_27-06.jpg"/>
+               <pb n="119" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_27-06.jpg"/>
                <fw>IL FAUT PENSER A AUTRUI. 119</fw>
-               <p> petit François, qui reçoit déjà assez de coups par sa propre imprudence... </p>
-               <p> — « Eh ! si ce n&apos;avait été François, c&apos;eût été quelque autre personne !
-                  interrompit M. Dumay ; on ne perd pas plus sa peine à éviter un péril aux autres
-                  qu&apos;à soi-même.</p>
-               <p>« Ecoutez cette histoire que mes parents m&apos;ont contée autrefois :</p>
-               <p>« Un jour, un terrain se trouva inondé par suite de la rupture d&apos;une digue.
-                  Comme c&apos;était un terrain bas et à fond de terre glaise, l&apos;eau y sé-
+               <p> petit <persName>François</persName>, qui reçoit déjà assez de coups par sa propre imprudence... </p>
+               <p> — « Eh ! si ce n'avait été <persName>François</persName>, c'eût été quelque autre personne !
+                  interrompit <persName>M. Dumay</persName> ; on ne perd pas plus sa peine à éviter un péril aux autres
+                  qu'à soi-même.</p>
+               <p>« Ecoutez cette histoire que mes parents m'ont contée autrefois :</p>
+               <p>« Un jour, un terrain se trouva inondé par suite de la rupture d'une digue.
+                  Comme c'était un terrain bas et à fond de terre glaise, l'eau y sé-
                   journa, y croupit, pourrissant les végétaux dont il était couvert.</p>
                <p>« Un peu de travail eût suffi à le dessécher à le débarrasser de toutes ces
                   matières corrompues qui bientôt répandirent une odeur nauséabonde.</p>
                <p>« Mais ce terrain, limitrophe de deux fermes, était une cause de désaccord entre
                   les deux fermiers qui en revendiquaient à la fois la propriété.</p>
-               <p>« Au lieu de faire ce qu&apos;ils auraient dû, c&apos;est- à-dire assainir le sol
+               <p>« Au lieu de faire ce qu'ils auraient dû, c'est- à-dire assainir le sol
                   sans retard, chacun des deux fermiers dit à part soi : </p>
-               <p>« Puisque mon voisin se prétend propriétaire de ce marécage, qu&apos;il le
+               <p>« Puisque mon voisin se prétend propriétaire de ce marécage, qu'il le
                   désinfecte, si « bon lui semble ; moi, je ne serai pas si sot que « de travailler
-                  pour lui. J&apos;attendrai l&apos;issue du « procès qui doit me donner gain de
+                  pour lui. J'attendrai l'issue du « procès qui doit me donner gain de
                   cause. » </p>
-               <pb n="120"
-                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_27-07.jpg"/>
-               <fw>12O L&apos;ENFANCE DE SUZETTE.</fw>
-               <p> « Qui, mais le temps n&apos;attendit pas ; chaque jour le marécage devenait de
+               <pb n="120" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_27-07.jpg"/>
+               <fw>12O L'ENFANCE DE SUZETTE.</fw>
+               <p> « Qui, mais le temps n'attendit pas ; chaque jour le marécage devenait de
                   plus en plus dan- gereux.</p>
-               <p>— « D&apos;invisibles germes de maladie s&apos;élevèrent de cette pourriture et se
-                  répandirent dans l&apos;air.</p>
-               <p>« Bientôt la fièvre, sans s&apos;inquiéter de savoir lequel des deux fermiers
-                  avait tort ou raison, s&apos;abattit sur les deux fermes à la fois, semant la mort
+               <p>— « D'invisibles germes de maladie s'élevèrent de cette pourriture et se
+                  répandirent dans l'air.</p>
+               <p>« Bientôt la fièvre, sans s'inquiéter de savoir lequel des deux fermiers
+                  avait tort ou raison, s'abattit sur les deux fermes à la fois, semant la mort
                   et le deuil dans les deux familles indistinctement.</p>
-               <p>« Or, ne pensez-vous pas que si l&apos;un de ces deux hommes se fût chargé du
-                  travail d&apos;assainissement, il eût été non seulement un homme de bien, mais
+               <p>« Or, ne pensez-vous pas que si l'un de ces deux hommes se fût chargé du
+                  travail d'assainissement, il eût été non seulement un homme de bien, mais
                   encore un homme avisé ?</p>
-               <p>« Qui, mes enfants, car penser à l&apos;intérêt d&apos;autrui, travailler un peu
-                  pour les autres, c&apos;est souvent travailler pour soi et servir son propre
+               <p>« Qui, mes enfants, car penser à l'intérêt d'autrui, travailler un peu
+                  pour les autres, c'est souvent travailler pour soi et servir son propre
                   intérêt. » [27] </p>
 
             </div>
             <div type="causerie">
-               <p> [27] <label>CAUSERIE</label> : Connaissances usuelles. — Qu&apos;est-ce
-                  qu&apos;une brique ? — Avec quoi se font les briques ? — Qu&apos;est-ce que le
-                  moellon ? — D&apos;où le tire-t-on ? — A quoi servent la brique et le moellon
+               <p> [27] <label>CAUSERIE</label> : <term ana="connaissances_usuelles">Connaissances usuelles</term>. — Qu'est-ce
+                  qu'une brique ? — Avec quoi se font les briques ? — Qu'est-ce que le
+                  moellon ? — D'où le tire-t-on ? — A quoi servent la brique et le moellon
                   ?</p>
                <p>Soins à donner aux malades. — Pourquoi la maman fit-elle respirer du vinaigre à
                   Suzette qui faiblissait ? — Pourquoi doit-on laver les écorchures avec de
-                  l&apos;eau propre et fraîche avant de les panser ? — Avec quoi est-il bon de
-                  mélanger l&apos;eau qui sert à cette opération ? — Quelle sorte de linge convient
+                  l'eau propre et fraîche avant de les panser ? — Avec quoi est-il bon de
+                  mélanger l'eau qui sert à cette opération ? — Quelle sorte de linge convient
                   le mieux pour panser les blessures?</p>
-               <p>Morale. — Montrez que celui des deux fermiers qui eût assaini le terrain
+               <p><term ana="morale">Morale</term>. — Montrez que celui des deux fermiers qui eût assaini le terrain
                   marécageux eût travaillé pour lui-même autant que pour son voisin. — Montrez que
-                  Jacques aussi, en déblayant le sentier, n&apos;eût pas servi seulement les autres,
+                  Jacques aussi, en déblayant le sentier, n'eût pas servi seulement les autres,
                   mais encore se fût un peu servi lui-même. </p>
             </div>
          </div>
