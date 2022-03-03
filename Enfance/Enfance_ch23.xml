@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?><TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -72,20 +71,18 @@
                <p>
                   <title>23. — Une pomme véreuse.</title>
                </p>
-               <pb n="93"
-                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_23-01.jpg"/>
-               <p> Quelque temps après, dans le jardin, Suzette et François trouvèrent sous un des
+               <pb n="93" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_23-01.jpg"/>
+               <p> Quelque temps après, dans le jardin, <persName>Suzette</persName> et <persName>François</persName> trouvèrent sous un des
                   pommiers une belle pomme rouge.</p>
-               <p>François dit : </p>
-               <pb n="94"
-                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_23-02.jpg"/>
-               <fw>94 L&apos;ENFANCE DE SUZETTE.</fw>
-               <p> « Petite sœur, partage cette pomme ; elle a l&apos;air bien mûr. »</p>
-               <p>Suzette ouvrit la pomme. Pouah ! dans le milieu, près des pépins, il y avait un
+               <p><persName>François</persName> dit : </p>
+               <pb n="94" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_23-02.jpg"/>
+               <fw>94 L'ENFANCE DE SUZETTE.</fw>
+               <p> « Petite sœur, partage cette pomme ; elle a l'air bien mûr. »</p>
+               <p><persName>Suzette</persName> ouvrit la pomme. Pouah ! dans le milieu, près des pépins, il y avait un
                   ver. Elle jeta vivement le fruit en poussant un léger cri.</p>
-               <p>Il y a ainsi beaucoup de petites filles qui s&apos;effrayent à la vue inattendue
-                  de la moindre bestiole. Au cri de sa sœur, Jacques était accouru :</p>
-               <p>— « Ce n&apos;est que cela ? » dit-il après avoir ramassé à terre les mor- ceaux
+               <p>Il y a ainsi beaucoup de petites filles qui s'effrayent à la vue inattendue
+                  de la moindre bestiole. Au cri de sa sœur, <persName>Jacques</persName> était accouru :</p>
+               <p>— « Ce n'est que cela ? » dit-il après avoir ramassé à terre les mor- ceaux
                   de la pomme.</p>
 
                <figure>
@@ -93,108 +90,105 @@
                </figure>
 
                <figure>
-                  <caption>C&apos;est la pyrale du pommier.</caption>
+                  <caption>C'est la pyrale du pommier.</caption>
                </figure>
 
-               <p>Le ver s&apos;y trouvait encore, dans un des quartiers. C&apos;était une sorte de
-                  chenille d&apos;un blanc jaune, à huit pattes épaisses et courtes. Elle agitait
+               <p>Le ver s'y trouvait encore, dans un des quartiers. C'était une sorte de
+                  chenille d'un blanc jaune, à huit pattes épaisses et courtes. Elle agitait
                   avec inquiétude sa petite tête rousse.</p>
-               <p>« Eh bien, reprit Jacques après l&apos;avoir considérée un instant, je connais le
-                  nom de cette croqueuse de pommes ; c&apos;est la pyrale du pommier. </p>
+               <p>« Eh bien, reprit <persName>Jacques</persName> après l'avoir considérée un instant, je connais le
+                  nom de cette croqueuse de pommes ; c'est la pyrale du pommier. </p>
 
-               <pb n="95"
-                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_23-03.jpg"/>
+               <pb n="95" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_23-03.jpg"/>
                <fw>UNE POMME VEREUSE. 95</fw>
-               <p> J&apos;ai justement appris son histoire à l&apos;école, il n&apos;y a pas
+               <p> J'ai justement appris son histoire à l'école, il n'y a pas
                   longtemps.</p>
                <p> — « Dis-la-nous donc ! » demandèrent à la fois la sœur et le petit frère.</p>
-               <p>Jacques, enchanté de montrer son savoir, commença :</p>
-               <p>— « Vous souvenez-vous qu&apos;au printemps dernier cette pomme, comme toutes
-                  celles du pom- mier, n&apos;était pas plus grosse qu&apos;une bille ? Et vous
-                  rappelez-vous aussi qu&apos;à ce moment le jardin était tout peuplé
-                  d&apos;insectes bourdonnants et de jolis papillons?</p>
+               <p><persName>Jacques</persName>, enchanté de montrer son savoir, commença :</p>
+               <p>— « Vous souvenez-vous qu'au printemps dernier cette pomme, comme toutes
+                  celles du pom- mier, n'était pas plus grosse qu'une bille ? Et vous
+                  rappelez-vous aussi qu'à ce moment le jardin était tout peuplé
+                  d'insectes bourdonnants et de jolis papillons?</p>
 
                <figure>
-                  <caption>Vous rappelez-vous qu&apos;au printemps dernier le jardin était tout
+                  <caption>Vous rappelez-vous qu'au printemps dernier le jardin était tout
                      peuplé de jolis papillons ?</caption>
                </figure>
 
-               <p>— « J&apos;en ai attrapé plus de mille ! s&apos;écria François.</p>
-               <p>— « Plus de mille, c&apos;est beau- coup, reprit Jacques en riant ; mais tu en as
-                  manqué un, et c&apos;était justement le bon, celui qui a gâté la pomme que voilà.
+               <p>— « J'en ai attrapé plus de mille ! s'écria <persName>François</persName>.</p>
+               <p>— « Plus de mille, c'est beau- coup, reprit <persName>Jacques</persName> en riant ; mais tu en as
+                  manqué un, et c'était justement le bon, celui qui a gâté la pomme que voilà.
                   Il est vrai que tu as pu ne pas le voir, car ce papillon se cache pendant le jour
-                  et ne se montre qu&apos;à partir du crépuscule.</p>
-               <p>« Comme je vous l&apos;ai dit, on le nomme la pyrale.</p>
+                  et ne se montre qu'à partir du crépuscule.</p>
+               <p>« Comme je vous l'ai dit, on le nomme la pyrale.</p>
                <p>« Par le clair de lune, on voit la pyrale voltiger, de son vol lent et lourd de
                   papillon de nuit, autour des pommiers couverts de petites pommes à peine nouées.
-                  Elle s&apos;arrête, de ci de là, sur un jeune </p>
+                  Elle s'arrête, de ci de là, sur un jeune </p>
 
-               <pb n="96"
-                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_23-04.jpg"/>
-               <fw>96 L&apos;ENFANCE DE SUZETTE.</fw>
-               <p> fruit, puis sur un autre ; on dirait un papillon chargé d&apos;inspecter les
+               <pb n="96" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_23-04.jpg"/>
+               <fw>96 L'ENFANCE DE SUZETTE.</fw>
+               <p> fruit, puis sur un autre ; on dirait un papillon chargé d'inspecter les
                   petites pommes pour voir si elles se portent bien.</p>
-               <p>« Mais, en réalité, savez-vous ce qu&apos;il fait ? Il dépose sur chacune
-                  d&apos;elles un tout petit œuf.</p>
+               <p>« Mais, en réalité, savez-vous ce qu'il fait ? Il dépose sur chacune
+                  d'elles un tout petit œuf.</p>
                <p>« Quelques jours après une chenille, mince comme un cheveu, sort de cet oeuf. A
-                  peine est-elle née qu&apos;elle perce la pomme et va se loger au beau milieu du
+                  peine est-elle née qu'elle perce la pomme et va se loger au beau milieu du
                   jeune fruit, près des pépins.</p>
-               <p>« Elle reste là blottie, comme un rat au milieu d&apos;un fromage, se repaissant
+               <p>« Elle reste là blottie, comme un rat au milieu d'un fromage, se repaissant
                   de bonne pulpe et grossissant à mesure que la pomme grossit. »</p>
-               <p>Et Jacques, avec son couteau, fit sauter la chenille qui tomba à terre, où une
-                  poule la happa. Petite Suzette demanda alors à son frère :</p>
-               <p>— « Si nous n&apos;avions pas coupé cette pomme, que serait-il arrivé ? »</p>
-               <p>— « La chenille, après avoir mangé tout son content, répondit Jacques, serait
-                  sortie du fruit pour aller se cacher sous terre ou sous l&apos;écorce du pommier,
+               <p>Et <persName>Jacques</persName>, avec son couteau, fit sauter la chenille qui tomba à terre, où une
+                  poule la happa. Petite <persName>Suzette</persName> demanda alors à son frère :</p>
+               <p>— « Si nous n'avions pas coupé cette pomme, que serait-il arrivé ? »</p>
+               <p>— « La chenille, après avoir mangé tout son content, répondit <persName>Jacques</persName>, serait
+                  sortie du fruit pour aller se cacher sous terre ou sous l'écorce du pommier,
                   et là, elle eût cessé de se nourrir, de remuer, et son corps engourdi eût pris la
-                  forme d&apos;un petit étui, sec et brillant, appelé chrysalide. C&apos;est dans
+                  forme d'un petit étui, sec et brillant, appelé chrysalide. C'est dans
                   cet étui que se forme le papillon.</p>
-               <p>« Après l&apos;hiver, aussitôt le printemps venu, on eût vu sortir de terre ou de
-                  l&apos;écorce de l&apos;arbre une pyrale ailée qui, à son tour, serait allée
-                  pondre des œufs sur d&apos;autres petites pommes à peine nouées, et ainsi de
+               <p>« Après l'hiver, aussitôt le printemps venu, on eût vu sortir de terre ou de
+                  l'écorce de l'arbre une pyrale ailée qui, à son tour, serait allée
+                  pondre des œufs sur d'autres petites pommes à peine nouées, et ainsi de
                   suite. </p>
-               <pb n="97"
-                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_23-05.jpg"/>
+               <pb n="97" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_23-05.jpg"/>
                <fw>UNE POMME VEREUSE. 97</fw>
                <p> « Tous les papillons, comme presque tous les insectes, mouches, hannetons,
                   abeilles, fourmis, puces, agissent de même. Ils débutent dans la vie sous la forme
-                  de larves, puis se chan- gent en chrysalides, et finalement arrivent à l&apos;état
-                  d&apos;insectes ailés qui, à leur tour, pondent des oeufs d&apos;où sortent des
-                  larves, etc C&apos;est de cette façon que tout ce petit monde dure .</p>
+                  de larves, puis se chan- gent en chrysalides, et finalement arrivent à l'état
+                  d'insectes ailés qui, à leur tour, pondent des oeufs d'où sortent des
+                  larves, etc C'est de cette façon que tout ce petit monde dure .</p>
 
                <figure>
                   <caption>Le hannaton et sa larve.</caption>
                </figure>
 
-               <p>« Bon ! dit François, le printemps prochain, je ferai la chasse aux pyrales.</p>
+               <p>« Bon ! dit <persName>François</persName>, le printemps prochain, je ferai la chasse aux pyrales.</p>
 
                <figure>
                   <caption>Abeilles.<lb/> 1. Reine. — 2. Mâle ou faux-bourdon. 3.
                      Ouvrière.</caption>
                </figure>
                <figure>
-                  <caption>Larve de l&apos;abeille.<lb/> Les abeilles débutent dans la vie sous la
+                  <caption>Larve de l'abeille.<lb/> Les abeilles débutent dans la vie sous la
                      forme de larves.</caption>
                </figure>
 
-               <p>— « Tu feras bien, car les pommes véreuses ne sont pas bonnes à grand&apos;chose ;
+               <p>— « Tu feras bien, car les pommes véreuses ne sont pas bonnes à grand'chose ;
                   elles ne se conservent pas, donnent de mauvais cidre ; on ne peut guère les
-                  utiliser qu&apos;en marmelade. [23] </p>
+                  utiliser qu'en marmelade. [23] </p>
                <fw> ENEANCE DE S. </fw>
             </div>
             <div type="causerie">
-               <p> [23] <label>CAUSERIE</label> : Histoire naturelle. — Quelle partie de la fleur du
+               <p> [23] <label>CAUSERIE</label> : <term ana="histoire_naturelle">Histoire naturelle</term>. — Quelle partie de la fleur du
                   pommier devient la pomme ? — A quelle partie du fruit 
-                     donne-t-on le nom de pulpe ? — Qu&apos;est-ce que les pépins ? — N&apos;y 
+                     donne-t-on le nom de pulpe ? — Qu'est-ce que les pépins ? — N'y 
                      a-t-il que les chenilles des pyrales qui causent des dégâts dans les 
-                     jardins ? — N&apos;y a-t-il que les poules qui mangent des chenilles et 
+                     jardins ? — N'y a-t-il que les poules qui mangent des chenilles et 
                      des insectes ? — Par quels états différents passent les papillons et en 
-                     général tous les insectes avant d&apos;avoir des ailes ? — Comment nomme
-                     t-on les papillons qui, comme la pyrale, ne sortent qu&apos;à la nuit ? </p>
-                     <p>Connaissances usuelles. — Nommez une boisson faite avec
+                     général tous les insectes avant d'avoir des ailes ? — Comment nomme
+                     t-on les papillons qui, comme la pyrale, ne sortent qu'à la nuit ? </p>
+                     <p><term ana="connaissances_usuelles">Connaissances usuelles</term>. — Nommez une boisson faite avec
                      le jus des pommes.</p>
-                     <p>Ménage. — Qu&apos;entend-on par pommes tapées, marmelade, gelée 
-                     de pommes ? — Qu&apos;est-ce qu&apos;un chausson, une tarte aux pommes, 
+                     <p><term ana="menage">Ménage</term>. — Qu'entend-on par pommes tapées, marmelade, gelée 
+                     de pommes ? — Qu'est-ce qu'un chausson, une tarte aux pommes, 
                      un beignet ?
                   </p>
 
