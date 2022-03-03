@@ -127,6 +127,9 @@
               <valItem ident="sciences_naturelles" mode="add">
                 <desc>Sciences naturelles</desc>
               </valItem>
+              <valItem ident="commerce" mode="add">
+                <desc>Commerce</desc>
+              </valItem>
             </valList>
           </attDef>
         </attList>
