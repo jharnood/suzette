@@ -155,21 +155,21 @@
                <pb xmlns="" n="64" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_17-05.jpg"/>
                <fw xmlns="">64 L'ENFANCE DE SUZETTE.</fw>
                <p xmlns=""> « Au quatorzième siècle seulement, les Vénitiens les premiers fabriquèrent les
-                  miroirs de verre appelés glaces de Venise. Mais ils gardèrent pendant trois cents
+                  miroirs de verre appelés glaces de <placeName xmlns="">Venise</placeName>. Mais ils gardèrent pendant trois cents
                   ans le secret de cette fabrication.</p>
-               <p xmlns="">« C'était alors en Europe un grand objet de luxe. Chez nous, par exemple, les
+               <p xmlns="">« C'était alors en <placeName xmlns="">Europe</placeName> un grand objet de luxe. Chez nous, par exemple, les
                   nobles ornaient du haut en bas les murs de leurs appartements, et même
-                  l'intérieur de leurs carrosses, de glaces de Venise.</p>
-               <p xmlns="">« Cela faisait sortir de France beaucoup d'argent. Aussi Colbert, le fameux
-                  mi- nistre de Louis XIV, employa- t-il toute sa volonté à encou- rager
+                  l'intérieur de leurs carrosses, de glaces de <placeName xmlns="">Venise</placeName>.</p>
+               <p xmlns="">« Cela faisait sortir de <placeName xmlns="">France</placeName> beaucoup d'argent. Aussi <persName xmlns="">Colbert</persName>, le fameux
+                  mi- nistre de <persName xmlns="">Louis XIV</persName>, employa- t-il toute sa volonté à encou- rager
                   l'industrie du verre dans notre pays.</p>
 
                <figure xmlns="">
                   <caption xmlns="">Une grande dame au treizième siècle.</caption>
                </figure>
 
-               <p xmlns="">« Il fonda la verrerie de Saint-Gobain où nous somes, et bientôt les verriers
-                  français surpassèrent ceux de Venise en inventant le coulage du verre, tel que
+               <p xmlns="">« Il fonda la verrerie de <placeName xmlns="">Saint-Gobain</placeName> où nous somes, et bientôt les verriers
+                  français surpassèrent ceux de <placeName xmlns="">Venise</placeName> en inventant le coulage du verre, tel que
                   vous venez de le voir. Les Vénitiens n’employaient que le procédé du « soufflage »
                   qui, d'ailleurs, date de l'antiquité la plus lointaine.</p>
                <p xmlns="">« Nous allons maintenant voir le soufflage. Suivez-moi. »</p>
