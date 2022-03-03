@@ -1,165 +1,159 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>L'enfance de Suzette</title>
-				<principal>John Westbrook</principal>
-				<funder>Bucknell University</funder>
-				<sponsor>French 370</sponsor>
-				<respStmt>
-					<name>Noah Berg</name>
-					<resp>Encoder</resp>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?><TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader xmlns="">
+		<fileDesc xmlns="">
+			<titleStmt xmlns="">
+				<title xmlns="">L'enfance de Suzette</title>
+				<principal xmlns="">John Westbrook</principal>
+				<funder xmlns="">Bucknell University</funder>
+				<sponsor xmlns="">French 370</sponsor>
+				<respStmt xmlns="">
+					<name xmlns="">Noah Berg</name>
+					<resp xmlns="">Encoder</resp>
 				</respStmt>
-				<respStmt>
-					<name>Sabrina Debler</name>
-					<resp>Encoder</resp>
+				<respStmt xmlns="">
+					<name xmlns="">Sabrina Debler</name>
+					<resp xmlns="">Encoder</resp>
 				</respStmt>
-				<respStmt>
-					<name>Olivia Dey</name>
-					<resp>Encoder</resp>
+				<respStmt xmlns="">
+					<name xmlns="">Olivia Dey</name>
+					<resp xmlns="">Encoder</resp>
 				</respStmt>
-				<respStmt>
-					<name>Sarah Haber</name>
-					<resp>Encoder</resp>
+				<respStmt xmlns="">
+					<name xmlns="">Sarah Haber</name>
+					<resp xmlns="">Encoder</resp>
 				</respStmt>
-				<respStmt>
-					<name>Rebecca Heintzelman</name>
-					<resp>Encoder</resp>
+				<respStmt xmlns="">
+					<name xmlns="">Rebecca Heintzelman</name>
+					<resp xmlns="">Encoder</resp>
 				</respStmt>
-				<respStmt>
-					<name>Lexi Huffman</name>
-					<resp>Encoder</resp>
+				<respStmt xmlns="">
+					<name xmlns="">Lexi Huffman</name>
+					<resp xmlns="">Encoder</resp>
 				</respStmt>
-				<respStmt>
-					<name>Griffin Lombardi</name>
-					<resp>Encoder</resp>
+				<respStmt xmlns="">
+					<name xmlns="">Griffin Lombardi</name>
+					<resp xmlns="">Encoder</resp>
 				</respStmt>
-				<respStmt>
-					<name>Lucas Masson</name>
-					<resp>Encoder</resp>
+				<respStmt xmlns="">
+					<name xmlns="">Lucas Masson</name>
+					<resp xmlns="">Encoder</resp>
 				</respStmt>
-				<respStmt>
-					<name>Isaiah Mays</name>
-					<resp>Encoder</resp>
+				<respStmt xmlns="">
+					<name xmlns="">Isaiah Mays</name>
+					<resp xmlns="">Encoder</resp>
 				</respStmt>
-				<respStmt>
-					<name>James Treanor</name>
-					<resp>Encoder</resp>
+				<respStmt xmlns="">
+					<name xmlns="">James Treanor</name>
+					<resp xmlns="">Encoder</resp>
 				</respStmt>
-				<respStmt>
-					<name>Micah Umeh, Jr.</name>
-					<resp>Encoder</resp>
+				<respStmt xmlns="">
+					<name xmlns="">Micah Umeh, Jr.</name>
+					<resp xmlns="">Encoder</resp>
 				</respStmt>
 			</titleStmt>
-			<publicationStmt>
-				<authority>John Westbrook, Associate Professor of French</authority>
+			<publicationStmt xmlns="">
+				<authority xmlns="">John Westbrook, Associate Professor of French</authority>
 			</publicationStmt>
-			<sourceDesc>
-				<bibl>
-					<title>L'Enfance de Suzette, livre de lecture courante à l'usage des jeunes
+			<sourceDesc xmlns="">
+				<bibl xmlns="">
+					<title xmlns="">L'Enfance de Suzette, livre de lecture courante à l'usage des jeunes
 						filles (degré élémentaire), morale, leçons de choses, économie
 						domestique</title>
-					<author>Mme Marie Robert Halt</author>
-					<publisher>P. Mellottée</publisher>
+					<author xmlns="">Mme Marie Robert Halt</author>
+					<publisher xmlns="">P. Mellottée</publisher>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
 	</teiHeader>
-	<text>
-		<body>
-			<div type="chapitre" n="#">
-				<div type="récit">
-					<p>
-						<title>4. — Les cadeaux.</title>
+	<text xmlns="">
+		<body xmlns="">
+			<div xmlns="" type="chapitre" n="#">
+				<div xmlns="" type="récit">
+					<p xmlns="">
+						<title xmlns="">4. — Les cadeaux.</title>
 					</p>
-					<pb n="8"
-						facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_04-01.jpg"/>
-					<pb n="1"/>
-					<p> La mère portant Charlot, et souriante, attendait les enfants sur le
+					<pb xmlns="" n="8" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_04-01.jpg"/>
+					<pb xmlns="" n="1"/>
+					<p xmlns=""> La mère portant <persName xmlns="">Charlot</persName>, et souriante, attendait les enfants sur le
 						seuil.</p>
-					<p>Dès qu&apos;ils l&apos;eurent aperçue, ils coururent à elle.</p>
-					<p>— « Jacques, as-tu bien travaillé ? </p>
-					<p>— « Maman, j&apos;ai eu un bon point.</p>
-					<p>— « Et toi, Suzette ? </p>
-					<pb n="9"
-						facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_04-02.jpg"/>
-					<fw>LES CADEAUX</fw>
-					<p> — « Maman, j&apos;ai eu aussi un bon point.</p>
-					<p>— « A la bonne heure, mes enfants. Et toi, François, as-tu été sage ? </p>
-					<p>— « Je l&apos;ai été un <emph>petit peu</emph>. Ce que papa apportera..., je
+					<p xmlns="">Dès qu'ils l'eurent aperçue, ils coururent à elle.</p>
+					<p xmlns="">— « Jacques, as-tu bien travaillé ? </p>
+					<p xmlns="">— « Maman, j'ai eu un bon point.</p>
+					<p xmlns="">— « Et toi, <persName xmlns="">Suzette</persName> ? </p>
+					<pb xmlns="" n="9" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_04-02.jpg"/>
+					<fw xmlns="">LES CADEAUX</fw>
+					<p xmlns=""> — « Maman, j'ai eu aussi un bon point.</p>
+					<p xmlns="">— « A la bonne heure, mes enfants. Et toi,<persName xmlns=""> François</persName>, as-tu été sage ? </p>
+					<p xmlns="">— « Je l'ai été un <emph xmlns="">petit peu</emph>. Ce que papa apportera..., je
 						pourrai en avoir ?... </p>
-					<figure>
-						<caption>La mère, portant Charlot sur les bras, attendait les
+					<figure xmlns="">
+						<caption xmlns="">La mère, portant Charlot sur les bras, attendait les
 							enfants.</caption>
 					</figure>
-					<p>« Oui, un <emph>petit peu</emph> seulement. » </p>
-					<p>Tout en riant, Mme Dumay se mit à préparer le souper.</p>
-					<p>Elle plaça dans le poêlon du saindoux, des morceaux de lard avec des oignons
+					<p xmlns="">« Oui, un <emph xmlns="">petit peu</emph> seulement. » </p>
+					<p xmlns="">Tout en riant, <persName xmlns="">Mme Dumay</persName> se mit à préparer le souper.</p>
+					<p xmlns="">Elle plaça dans le poêlon du saindoux, des morceaux de lard avec des oignons
 						épluchés. </p>
-					<pb n="10"
-						facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_04-03.jpg"/>
-					<fw>10 L&apos;ENFANCE DE SUZETTE.</fw>
-					<p> — Bientôt une bonne odeur d&apos;oignons et de lardons revenus à point se
-						répandit dans la pièce ; Jacques s&apos;en passa la langue sur les lèvres et
-						petite Suzette dit à sa mère :</p>
-					<p>— « Je crois que nous ferons un excellent souper.</p>
-					<p>— « Je l&apos;espère, ma fille, et ce sera la récompense de la cuisinière.
-						Bien faire, c&apos;est se contenter soi-même. »</p>
-					<p>Puis elle ajouta à la préparation du ragoût de belles pommes de terre pelées
+					<pb xmlns="" n="10" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_04-03.jpg"/>
+					<fw xmlns="">10 L'ENFANCE DE SUZETTE.</fw>
+					<p xmlns=""> — Bientôt une bonne odeur d'oignons et de lardons revenus à point se
+						répandit dans la pièce ; <persName xmlns="">Jacques</persName> s'en passa la langue sur les lèvres et
+						petite <persName xmlns="">Suzette</persName> dit à sa mère :</p>
+					<p xmlns="">— « Je crois que nous ferons un excellent souper.</p>
+					<p xmlns="">— « Je l'espère, ma fille, et ce sera la récompense de la cuisinière.
+						Bien faire, c'est se contenter soi-même. »</p>
+					<p xmlns="">Puis elle ajouta à la préparation du ragoût de belles pommes de terre pelées
 						fin et lavées à grande eau.</p>
-					<figure>
-						<caption>La pomme de terre.</caption>
+					<figure xmlns="">
+						<caption xmlns="">La pomme de terre.</caption>
 					</figure>
 
-					<p>Pendant ce temps Suzette avait achevé de mettre le couvert.</p>
-					<p>Tout à coup François s&apos;écria :</p>
-					<p>— « J&apos;entends les grelots de la Grise ! Voilà papa qui revient ! »</p>
-					<p>Jacques, avec lui, courut à la barrière de la cour, l&apos;ouvrit toute
+					<p xmlns="">Pendant ce temps <persName xmlns="">Suzette</persName> avait achevé de mettre le couvert.</p>
+					<p xmlns="">Tout à coup <persName xmlns="">François</persName> s'écria :</p>
+					<p xmlns="">— « J'entends les grelots de la Grise ! Voilà papa qui revient ! »</p>
+					<p xmlns=""><persName xmlns="">Jacques</persName>, avec lui, courut à la barrière de la cour, l'ouvrit toute
 						grande et presque aussitôt la carriole entra. Toute la maisonnée était
 						accourue.</p>
-					<p>— « Bonsoir, père ! bonsoir, père ! </p>
-					<p>— « Bonsoir, mes chéris ! »</p>
+					<p xmlns="">— « Bonsoir, père ! bonsoir, père ! </p>
+					<p xmlns="">— « Bonsoir, mes chéris ! »</p>
 
-					<pb n="11"
-						facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_04-04.jpg"/>
-					<fw>LES CADEAEX. 11</fw>
-					<p> — Eh bien ! qu&apos;apportait-il, le papa ?</p>
-					<p>A peine descendu de voiture, il demanda :</p>
-					<p>— « Voyons, ce petit monde a-t-il bien tra- vaillé ? » </p>
-					<p>La maman répondit :</p>
-					<p>— « Assez bien. Jacques et Suzette ont eu un bon point et François a été « un
+					<pb xmlns="" n="11" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_04-04.jpg"/>
+					<fw xmlns="">LES CADEAEX. 11</fw>
+					<p xmlns=""> — Eh bien ! qu'apportait-il, le papa ?</p>
+					<p xmlns="">A peine descendu de voiture, il demanda :</p>
+					<p xmlns="">— « Voyons, ce petit monde a-t-il bien tra- vaillé ? » </p>
+					<p xmlns="">La maman répondit :</p>
+					<p xmlns="">— « Assez bien. <persName xmlns="">Jacques</persName> et <persName xmlns="">Suzette</persName> ont eu un bon point et <persName xmlns="">François</persName> a été « un
 						petit peu sage. »</p>
-					<p>Alors M. Dumay tendit un paquet qu&apos;on s&apos;empressa d&apos;ouvrir.
-						C&apos;étaient quatre belles meringues de couleur rose, toutes fraîches !
-						Chaque enfant eut la sienne avec la permission de s&apos;en régaler à
-						l&apos;instant.</p>
-					<p>Puis M. Dumay tira de la carriole un paquet beaucoup plus gros que le
+					<p xmlns="">Alors <persName xmlns="">M. Dumay</persName> tendit un paquet qu'on s'empressa d'ouvrir.
+						C'étaient quatre belles meringues de couleur rose, toutes fraîches !
+						Chaque enfant eut la sienne avec la permission de s'en régaler à
+						l'instant.</p>
+					<p xmlns="">Puis <persName xmlns="">M. Dumay</persName> tira de la carriole un paquet beaucoup plus gros que le
 						premier. Celui-là contenait une horloge, une belle horloge à fleurs
 						rouges.</p>
-					<p>C&apos;était un cadeau pour la maman qui se plaignait depuis quelque temps de
-						la vieille horloge fatiguée qui ne sonnait plus et qui n&apos;allait
+					<p xmlns="">C'était un cadeau pour la maman qui se plaignait depuis quelque temps de
+						la vieille horloge fatiguée qui ne sonnait plus et qui n'allait
 						guère.</p>
-					<p>Or, une horloge doit marcher régulièrement, être exacte, pour nous aider à
+					<p xmlns="">Or, une horloge doit marcher régulièrement, être exacte, pour nous aider à
 						régler le temps de nos travaux et nous habituer nous-mêmes à
-						l&apos;exactitude.</p>
-					<p>La voiture dételée, et la Grise à l&apos;écurie devant son râtelier bien
+						l'exactitude.</p>
+					<p xmlns="">La voiture dételée, et la Grise à l'écurie devant son râtelier bien
 						garni de foin, parents </p>
 
-					<pb n="12"
-						facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_04-05.jpg"/>
-					<fw>12 L&apos;ENFANCE DE SUZETTE.</fw>
-					<p> et enfants rentrèrent dans la maison avec l&apos;horloge. [4] </p>
+					<pb xmlns="" n="12" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_04-05.jpg"/>
+					<fw xmlns="">12 L'ENFANCE DE SUZETTE.</fw>
+					<p xmlns=""> et enfants rentrèrent dans la maison avec l'horloge. [4] </p>
 
 
 				</div>
-				<div type="causerie">
-					<p> [4] <label>CAUSERIE</label> : Grammaire. — Donner les différents sens du
-						verbe <emph>revenir</emph>.</p>
-					<p>Ménage. — D&apos;où viennent le saindoux et le lard ? — Quelle partie de
-						l&apos;oignon est surtout utilisée comme aliment ? — Sur quelle partie de la
+				<div xmlns="" type="causerie">
+					<p xmlns=""> [4] <label xmlns="">CAUSERIE</label> : <term xmlns="" ana="grammaire">Grammaire</term>. — Donner les différents sens du
+						verbe <emph xmlns="">revenir</emph>.</p>
+					<p xmlns=""><term xmlns="" ana="menage">Ménage</term>. — D'où viennent le saindoux et le lard ? — Quelle partie de
+						l'oignon est surtout utilisée comme aliment ? — Sur quelle partie de la
 						plante se forment les pommes de terre ? — Pourquoi la maman prenait-elle
-						tant de soin du ragoût ? — Qu&apos;est-ce qu&apos;une meringue ? </p>
+						tant de soin du ragoût ? — Qu'est-ce qu'une meringue ? </p>
 				</div>
 			</div>
 		</body>
