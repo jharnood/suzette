@@ -177,19 +177,19 @@
                <pb xmlns="" n="65" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_17-06.jpg"/>
                <fw xmlns="">A SAINT-GOBAIN. 65</fw>
                <p xmlns=""> La petite troupe, se dirigea alors vers un autre bâtiment.</p>
-               <p xmlns="">En chemin, petite Suzette et Jacques, animés de la même pensée, demandèrent
+               <p xmlns="">En chemin, petite <persName xmlns="">Suzette</persName> et <persName xmlns="">Jacques</persName>, animés de la même pensée, demandèrent
                   d'où l'on tirait le verre avant de le fondre, et s'il ne sortait
                   pas de la terre comme la houille, le fer, la pierre, le plomb, l'argent et
                   l'or.</p>
-               <p xmlns="">M. Garnier, à cette question, se baissa, ramassa un peu de sable et dit à Jacques: </p>
+               <p xmlns="">M. <persName xmlns="">Garnier</persName>, à cette question, se baissa, ramassa un peu de sable et dit à <persName xmlns="">Jacques</persName>: </p>
                <p xmlns=""> — « Tendez votre main. »</p>
-               <p xmlns="">Jacques tendit la main ; M. Garnier y mit ce sable, puis, s'approchant
+               <p xmlns="">Jacques tendit la main ; M. <persName xmlns="">Garnier</persName> y mit ce sable, puis, s'approchant
                   d'un tas de cristaux blancs qui se trouvaient là, il en prit une pincée et
-                  dit à Suzette de tendre aussi sa main : ce qu'elle fit.</p>
+                  dit à <persName xmlns="">Suzette</persName> de tendre aussi sa main : ce qu'elle fit.</p>
                <p xmlns="">Il y plaça les cristaux que la petite fille reconnut pour être de ceux que sa mère
                   employait dans les nettoyages.</p>
                <p xmlns="">— « Mais c'est de la soude, dit-elle.</p>
-               <p xmlns="">— « Eh bien, reprit M. Garnier, mélangez cette soude et ce sable; mettez-les dans
+               <p xmlns="">— « Eh bien, reprit M. <persName xmlns="">Garnier</persName>, mélangez cette soude et ce sable; mettez-les dans
                   un vase de terre solide, puis chauffez dans un four jusqu'à une température
                   quinze fois plus brûlante que celle de l'eau bouillante. Au bout d'une
                   trentaine d'heures, soude et sable fondus ensemble for- meront ce liquide que
@@ -199,13 +199,13 @@
             <div xmlns="" type="causerie">
                <p xmlns="">[17] <label xmlns="">CAUSERIE</label>: Sciences naturelles. — Qu'est-ce que
                   l'atmosphère ?</p>
-               <p xmlns=""> Industrie. — Avec quelles substances fait-on le verre ? — Quel moyen emploie-t-on
+               <p xmlns=""> <term xmlns="" ana="industrie">Industrie</term>. — Avec quelles substances fait-on le verre ? — Quel moyen emploie-t-on
                   pour fondre et mélanger ces substances ? — Faut-il une grande chaleur pour les
                   fondre ? — Racontez l'opération du coulage d'une glace.</p>
-               <p xmlns="">Connaissances usuelles. — Qu'est-ce qu'un métal poli ? </p>
-               <p xmlns="">Histoire. — Qui est Colbert ?</p>
-               <p xmlns="">Géographie. — De quel département fait partie Saint-Gobain et quel est le
-                  chef-lieu de ce département ? — Où est situee Venise ? </p>
+               <p xmlns=""><term xmlns="" ana="connaissances_usuelles">Connaissances usuelles</term>. — Qu'est-ce qu'un métal poli ? </p>
+               <p xmlns=""><term xmlns="" ana="histoire">Histoire</term>. — Qui est <persName xmlns="">Colbert</persName> ?</p>
+               <p xmlns=""><term xmlns="" ana="géographie">Géographie</term>. — De quel département fait partie <placeName xmlns="">Saint-Gobain</placeName> et quel est le
+                  chef-lieu de ce département ? — Où est situee <placeName xmlns="">Venise</placeName> ? </p>
                <fw xmlns="">4.</fw>
             </div>
          </div>
