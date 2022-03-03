@@ -137,7 +137,7 @@
                      égyptienne.</caption>
                </figure>
 
-               <p>« Les Romains eurent aussi des verreries Ils en créèrent en Gaule après leur
+               <p>« Les Romains eurent aussi des verreries Ils en créèrent en <placeName>Gaule</placeName> après leur
                   conquête de ce pays qui est le nôtre.</p>
 
                <figure>
@@ -194,15 +194,15 @@
 
             </div>
             <div type="causerie">
-               <p>[18] <label>CAUSERIE</label> : Connaissances usuelles. — Qu'est-ce qu'un
+               <p>[18] <label>CAUSERIE</label> : <term ana="connaissances_usuelles">Connaissances usuelles</term>. — Qu'est-ce qu'un
                      <emph>musée</emph> ?</p>
-               <p>Histoire. — Quel est le plus ancien objet de verrerie que l'on connaisse ? —
-                  Quel événement historique fit disparaître en France l'art de la verrerie ? —
+               <p><term ana="histoire">Histoire</term>. — Quel est le plus ancien objet de verrerie que l'on connaisse ? —
+                  Quel événement historique fit disparaître en <placeName>France</placeName> l'art de la verrerie ? —
                   Quel autre événement historique ramena, au moyen ge, l'art de la verrerie en
-                  France ?— Quelles sont les oeuvres qui nous restent des verriers du moyen age ? —
+                  <placeName>France</placeName> ?— Quelles sont les oeuvres qui nous restent des verriers du moyen age ? —
                   Qu'est-ce qui tenait lieu de vitres aux fenêtres des maisons jusqu'au
                   siècle dernier ?</p>
-               <p>Ménage. — Citez les principaux objets de verrerie d'un ménage. — Pourquoi
+               <p><term ana="menage">Ménage</term>. — Citez les principaux objets de verrerie d'un ménage. — Pourquoi
                   met-on aux lampes des cheminées de verre et non de métal ?</p>
             </div>
          </div>
