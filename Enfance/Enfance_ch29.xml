@@ -201,18 +201,18 @@
 
             </div>
             <div type="causerie">
-               <p>[29] <label>CAUSERIE</label> : Connaissances usuelles. — Pourquoi les feuilles des
+               <p>[29] <label>CAUSERIE</label> : <term ana="connaissances_usuelles">Connaissances usuelles</term>. — Pourquoi les feuilles des
                   chicorées et des romaines une fois liées, perdent-elles leur couleur verte ? — Si l'on met à la cave des plantes de chicorée sauvage, elles perdent leur couleur verte et deviennent cette salade 
                   blanche qu'on nomme barbe-de-capucin : quelle est la cause de cette 
                   modification ?</p>
-                  <p>Histoire naturelle. — Qu'est-ce que le maïs ? — Quel climat
+                  <p><term ana="histoire_naturelle">Histoire naturelle</term>. — Qu'est-ce que le maïs ? — Quel climat
                   convient au maïs ? — Qu'est-ce que le millet ?</p>
-                  <p>Cosmographie. — Qu'est-ce que le soleil ? — A quelle époque 
+                  <p><term ana="cosmographie">Cosmographie</term>. — Qu'est-ce que le soleil ? — A quelle époque 
                   se trouve le jour le plus long de l'année ? — A quelle époque se 
                   trouve le plus court ? — De quelles saisons les solstices marquent-ils le retour ? — En combien de temps la terre tourne-t-elle une fois 
                   sur elle-même ? — Combien fait-elle de tours sur elle-même pour 
                   accomplir une seule fois le tour du soleil ?</p>
-                  <p>Histoire naturelle. — Qu'appelle-t-on gésier, dans une volaille ?
+                  <p><term ana="histoire_naturelle">Histoire naturelle</term>. — Qu'appelle-t-on gésier, dans une volaille ?
                   A quoi servent aux oiseaux les petits cailloux qu'ils avalent et 
                   qu'on trouve dans leur gésier ?
                </p>
