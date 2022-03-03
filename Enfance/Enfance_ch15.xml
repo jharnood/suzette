@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'enfance de Suzette</title>
+            <principal>John Westbrook</principal>
+            <funder>Bucknell University</funder>
+            <sponsor>French 370</sponsor>
+            <respStmt>
+               <name>Noah Berg</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Sabrina Debler</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Olivia Dey</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Sarah Haber</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Rebecca Heintzelman</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Lexi Huffman</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Griffin Lombardi</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Lucas Masson</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Isaiah Mays</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>James Treanor</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Micah Umeh, Jr.</name>
+               <resp>Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>John Westbrook, Associate Professor of French</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>L'Enfance de Suzette, livre de lecture courante à l'usage des jeunes filles
+                  (degré élémentaire), morale, leçons de choses, économie domestique</title>
+               <author>Mme Marie Robert Halt</author>
+               <publisher>P. Mellottée</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="chapitre" n="15">
+            <div type="récit">
+               <p>
+                  <title>15. — Un diner de fête (Suite).</title>
+               </p>
+               <pb n="48"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_15-01.jpg"/>
+               <fw>48 L&apos;ENFANCE DE SUZETTE.</fw>
+               <p> Après qu&apos;on eut fait honneur à la tarte, Ludivine débarrassa la table. Mme
+                  Dumay alla chercher le moulin à café et le mit entre les mains de petite Suzette,
+                  qui commença à moudre, pendant que sa mère préparait les tasses. </p>
+               <p>François regardait sa soeur avec envie. Depuis longtemps il rêvait de tourner le
+                  moulin à café, mais on le tenait hors de sa portée. Vous devinez pourquoi.</p>
+
+               <figure>
+                  <caption>La petite Suzette commença à moudre le café.</caption>
+               </figure>
+               <p>M. Adrien, le frère de M. Delorme, l&apos;instituteur, qui jusque-là avait écouté
+                  sans parler, s&apos;adressant à François placé auprès de lui et dont l&apos;air
+                  vif paraissait l&apos;amuser, lui dit :</p>
+               <p>— « Si quelqu&apos;un te priait de reporter le café qui est dans ce moulin à
+                  l&apos;endroit d&apos;où il est venu, saurais-tu le chemin qu&apos;il te faudrait
+                  prendre? </p>
+               <p> quels n&apos;y voit-on plus? — Lesquels désigne-t-on sous la dénomination de
+                  volaille ? de gibier ? de viande ? — Qu&apos;est-ce que le dessert ? — De quoi se
+                  composent : la pâtisserie ? la confiture ? le bonbon ? </p>
+               <pb n="49"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_15-02.jpg"/>
+               <fw>UN DINER DE FÊTE. 49</fw>
+               <p> — « Le chemin ? répondit François d&apos;un air étonné de la question, le chemin
+                  ? Je crois bien que je le saurais ! Ce café est venu de chez l&apos;épicier ;
+                  j&apos;ai été l&apos;y cher- cher avec Suzette.</p>
+               <p>— « Qui, mais l&apos;épi- cier, d&apos;où l&apos;a-t-il tiré ?</p>
+               <p>— « Eh ! il l&apos;a tiré d&apos;un tiroir ! »</p>
+               <p>Tout le monde rit. François, sentant qu&apos;on se moquait peut-être bien de ses
+                  réponses, interrogea à son tour M. Adrien:</p>
+               <p>— « Eh bien! Monsieur, dites le chemin que je devrais prendre pour reporter ce
+                  café ?</p>
+               <figure>
+                  <caption>Il te faudrait monter sur un des grand navires qui traversent les
+                     mers.</caption>
+               </figure>
+               <p>— « Il te fau-drait, répondit M. Adrien, gagner d&apos;abord un port de mer : Le
+                  Havre, Nantes, Bordeaux ou Marseille, puis monter sur un des grands navires qui
+                  traversent les mers à destination de l&apos;Asie, de l&apos;Afrique, </p>
+
+               <pb n="50"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_15-03.jpg"/>
+               <fw>50 L&apos;ENFANCE DE SUZETTE.</fw>
+               <p>de l&apos;Amérique ou de l&apos;Océanie. C&apos;est, en effet, de ces quatre
+                  parties du monde que nous vient le café.</p>
+
+               <figure>
+                  <caption>Le caféier </caption>
+               </figure>
+               <p>« Dans les contrées les plus chaudes de ces pays pousse le caféier, l&apos;arbre à
+                  café. Il porte de jolis fruits rouges comme la cerise et qui contiennent deux
+                  petits noyaux très tendres renfermant deux graines vertes. Ces graines sont les
+                  grains de café. On les fait sécher, on les met dans des sacs appelés balles; et
+                  des armateurs, c&apos;est-à-dire des gens qui arment des navires à leurs frais,
+                  les amènent en Europe et en France.</p>
+
+               <figure>
+                  <caption>Les grains de café sont brûlés par l&apos;épicier dans un cylindre appelé
+                     brûloir qu&apos;il tourne avec une manivelle audessus d&apos;un
+                     brasier.</caption>
+               </figure>
+
+               <p>« Ces balles de café une fois ren- dues à destination, de gros marchands les
+                  achètent par centaines. Ils les revendent ensuite à de petits marchands qui
+                  grillent les grains avant de les mettre dans des tiroirs d&apos;où ils </p>
+               <pb n="51"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_15-04.jpg"/>
+               <fw>UN DINER DE FÊTE 51</fw>
+               <p> les tirent pour les vendre à M. François. » Celui-ci se mit à rire. Il en est
+                  d&apos;ordinaire ainsi: une fois éclairé, on rit de son ignorance passée.</p>
+               <p>En ce moment Ludivine apporta la cafetière; Mme Dumay mit dans le filtre le café
+                  moulu par Suzette et versa dessus de l&apos;eau bouillante. Pendant que le café
+                  passait, M. Dumay demanda à Mme Delorme:</p>
+               <p>— « Madame, l&apos;histoire des choses dont nous nous servons est toujours
+                  intéressante ; depuis quelle époque, je vous prie, le monde boit-il du café ? »
+                  Mme Delorme répondit :</p>
+               <p>— « Il n&apos;y a pas longtemps: en Arabie où le café pousse à l&apos;état
+                  sauvage, et d&apos;où il s&apos;est propagé, par la culture, sur le reste de la
+                  terre, on n&apos;en boit que depuis le quinzième siècle.</p>
+               <p>« C&apos;est seulement sous le règne de Louis XIV qu&apos;il fut introduit en
+                  France. Il y devint aussitôt à la mode parmi les seigneurs, d&apos;autant plus
+                  qu&apos;il passait alors pour un remède excellent contre la tristesse.</p>
+               <p>« Et, à ce propos, on raconte qu&apos;une dame de cette époque, à la nouvelle que
+                  son mari venait d&apos;être tué à la guerre, s&apos;écria: « Ah! quelle « douleur
+                  ! Vite ! apportez-moi du café ! » </p>
+               <p>« Aujourd&apos;hui nous connaissons mieux les vertus du café. Il est tonique,
+                  excitant et favorise les battements du coeur. On le regarde comme néces- </p>
+               <pb n="52"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_15-05.jpg"/>
+               <fw>52 L&apos;ENFANCE DE SUZETTE.</fw>
+               <p> saire à une bonne alimentation; nos soldats en reçoivent une ration chaque
+                  jour.</p>
+               <p>« Mais, comme de toutes les bonnes choses, il ne faut pas en abuser. » [15] </p>
+
+            </div>
+            <div type="causerie">
+               <p> [15] <label>CAUSERIE</label>: Géographie. — Qu&apos;est-ce qu&apos;un port de mer
+                  ? — Sur quelle mer est situé Le Havre ? et Nantes ? et Bordeaux ? et Marseille ? —
+                  Dans quels départements se trouvent ces ports ? — Quelle est la situation
+                  géographique de l&apos;Asie, de l&apos;Afrique, de l&apos;Amérique par rapport à
+                  l&apos;Europe ? — Dans quel océan se trouvent les îles qui composent
+                  l&apos;Océanie ? </p>
+               <p>Commerce. — De quelle manière se fait le commerce du café ? </p>
+               <p>Ménage. — Comment se prépare le café ? — De combien de parties se compose un
+                  moulin à café ? — Comment se nomme la partie de cet ustensile qu&apos;on prend en
+                  main pour moudre ? — Comment se nomme le mécanisme au moyen duquel on broie les
+                  grains de café ? — Comment se nomme la partie où tombe le café réduit en poudre ?
+                  — Qu&apos;est-ce qu&apos;une infusion ? — Quelle différence faites-vous entre une
+                  infusion et une décoction ? </p>
+               <p>Hygiène. — Quelles sont les qualités alimentaires du café ? </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

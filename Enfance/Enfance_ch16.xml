@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'enfance de Suzette</title>
+            <principal>John Westbrook</principal>
+            <funder>Bucknell University</funder>
+            <sponsor>French 370</sponsor>
+            <respStmt>
+               <name>Noah Berg</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Sabrina Debler</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Olivia Dey</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Sarah Haber</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Rebecca Heintzelman</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Lexi Huffman</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Griffin Lombardi</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Lucas Masson</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Isaiah Mays</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>James Treanor</name>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Micah Umeh, Jr.</name>
+               <resp>Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>John Westbrook, Associate Professor of French</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>L'Enfance de Suzette, livre de lecture courante à l'usage des jeunes filles
+                  (degré élémentaire), morale, leçons de choses, économie domestique</title>
+               <author>Mme Marie Robert Halt</author>
+               <publisher>P. Mellottée</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="chapitre" n="#">
+            <div type="récit">
+               <p>
+                  <title>16. — Un dîner de fête (Suite). </title>
+               </p>
+               <pb n="1"/>
+               <p>Mme Dumay versa le café dans les tasses. Pen- dant que Suzette offrait du sucre
+                  aux grandes personnes, M. Adrien se leva et alla prendre sur le buffet un paquet
+                  qu&apos;il y avait posé en entrant. Ce paquet en contenait trois autres.</p>
+               <p>De l&apos;un, il tira quelques morceaux de sucre blanc, de l&apos;autre, de la
+                  cassonade, et enfin du troisième des tablettes grisâtres assez semblables à des
+                  carrés de caramel.</p>
+               <p>Il mit le tout dans trois soucoupes que, sur sa demande, la petite Suzette lui
+                  apporta. Puis s&apos;adressant aux enfants: </p>
+               <pb n="53"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_16-02.jpg"/>
+               <fw>UN DINER DE FÊETE. 53</fw>
+               <p> — « Voilà, dit-il, trois sortes de sucre. Prenez celui qui vous plaira. » </p>
+               <p>Après un peu d&apos;hésitation, la petite Suzette se décida pour le sucre blanc
+                  qu&apos;elle connaissait déjà, Jacques prit de la cassonade, et François, deux de
+                  ces tablettes qui ressemblaient à des carrés de caramel.</p>
+               <p>— « Et quelles sont ces trois sortes de sucre, Monsieur?</p>
+               <p>— « Du sucre de betterave, du sucre de canne et du sucre d&apos;érable. Suzette a
+                  pris du premier, Jacques, du second, et François, du troisième.</p>
+               <p>— « Quel est le meilleur ? demanda François.</p>
+               <p>— « Jugez-en vous-mêmes; goûtez des trois l&apos;un après l&apos;autre. »</p>
+               <p>C&apos;est ce qu&apos;ils firent ; et ils trouvèrent que les trois échantillons
+                  avaient la même saveur.</p>
+               <p>— « Ils n&apos;ont pourtant pas la même origine, » dit Suzette.</p>
+               <p>M. Adrien reprit :</p>
+               <p>— « Non ; le sucre que vous avez pris, petite Suzette, vient, comme je vous
+                  l&apos;ai dit, de la betterave, racine bien connue de vous tous. La cassonade
+                  qu&apos;a goûtée Jacques, je l&apos;ai vue aux Antilles, quand elle était encore à
+                  l&apos;état liquide dans les grands roseaux à grosse tige qu&apos;on appelle pour
+                  cette raison cannes à sucre. « Quant aux tablettes que François a choisies, elles
+                  viennent d&apos;un arbre. </p>
+               <pb n="54"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_16-03.jpg"/>
+               <fw>54 L&apos;ENFANCE DE SUZETTE.</fw>
+               <p> « Pour tirer le sucre de la betterave et de la canne, on broie ces végétaux, on
+                  en recueille le jus qu&apos;on mélange à de la chaux pour le faire cuire ensuite
+                  dans de grandes chaudières. Là, il se transforme en un sirop qu&apos;on laisse
+                  ensuite refroidir.</p>
+               <p>« Il se forme alors à la surface une croûte solide, cassante qu&apos;on enlève au
+                  fur et à mesure. </p>
+               <p>« La croûte du sirop de canne, c&apos;est la cassonade; celle du sirop de
+                  betterave, c&apos;est le sucre en petits grains brillants, translucides qu&apos;on
+                  appelle chez les épiciers « sucre brut ».</p>
+               <p>« Pour donner au sucre brut cette apparence de pierre blanche que vous lui
+                  connaissez, il suffit de le raffiner.</p>
+               <figure>
+                  <caption>La betterave.</caption>
+               </figure>
+               <p>« On le raffine en le réchauffant encore, pour le liquéfier de nouveau; puis on le
+                  filtre à travers une couche de noir animal, sorte de charbon qui le purifie et le
+                  blanchit.</p>
+               <p>« On le met enfin dans des moules où il prend la forme haute et pointue qu&apos;on
+                  nomme pain de sucre. « La cassonade se raffine de la même façon et, dans ce nouvel
+                  état, ne diffère aucunement du sucre de betterave. »</p>
+               <p>A la petite Suzette qui demandait: — « Mais ces petites tablettes qu&apos;a
+                  choisies François, comment les fait-on ? » </p>
+               <pb n="55"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_16-04.jpg"/>
+               <fw>UN DINER DE FÊTE. 55</fw>
+               <p>M. Adrien répondit:</p>
+               <figure>
+                  <caption>La traction du sucre d&apos;érable. Les érables trouvés, nous fîmes avec
+                     des couteaux une incision sur l&apos;écorce de chacun; au pied de ces arbres
+                     furent placés les chau- drons, les bassines qui, le lendemain, à notre réveil,
+                     se trouvèrent remplis d&apos;une eau liquoreuse et sucrée.</caption>
+               </figure>
+               <p>— « Je peux vous le dire, car je les ai faites mcimême. Au printemps dernier, je
+                  me trouvais dans l&apos;Amérique du Nord, au Canada, chez des </p>
+               <p> </p>
+               <pb n="56"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_16-05.jpg"/>
+               <fw>56 L&apos;ENFANCE DE SUZETTE.</fw>
+               <p> fermiers. Un matin, un des garçons vint me dire tout joyeux:</p>
+               <p>— « Monsieur, nous allons aujourd&apos;hui à la « forêt faire notre provision de
+                  sucre pour l&apos;an- « née. Viendrez-vous avec nous ? »</p>
+               <p>« J&apos;y allai très volontiers; il ne faut jamais négliger une occasion
+                  d&apos;apprendre du nouveau. « Nous nous dirigeâmes vers la forêt, emportant un
+                  petit matériel de campement, car l&apos;expédition devait durer plusieurs jours.
+                  Nous emportâmes aussi un bagage de chaudrons, de bassines et de vases, le plus
+                  qu&apos;on put en prendre. </p>
+               <p>« Une fois dans la forêt, nous nous mîmes à la recherche des arbres à sucre, qui
+                  sont une sorte d&apos;érable.</p>
+               <p>« Les arbres trouvés vers le soir, nous fîmes avec des couteaux une incision sur
+                  l&apos;écorce de chacun. Et au pied de ces arbres furent placés les chaudrons, les
+                  bassines qui, le lendemain, àá notre réveil, se trouvèrent remplis d&apos;une eau
+                  liquoreuse et sucrée.</p>
+               <p>« Cette eau, c&apos;est la sève de l&apos;érable.</p>
+               <p>« Alors on alluma un bon feu de bois mort ; on fit bouillir cette sève, puis on la
+                  laissa refroidir. Quelques heures après, le sucre était figé en pains ayant la
+                  forme des vases où il avait refroidi. </p>
+               <p>« Il ne restait plus qu&apos;à le porter à la ferme : ces ce que nous fîmes, et
+                  vous pensez bien que je n&apos;oubliai pas d&apos;en prendre quelques tablettes, à </p>
+               <pb n="57"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_16-06.jpg"/>
+               <fw>UN DINER DE FÊTE. 57</fw>
+               <p> mon départ du Canada. Ce sont celles que vous venez de goûter. »</p>
+               <p>François, très alléché, demanda : — « Monsieur, est-ce que papa ne pourrait pas
+                  planter dans notre jardin de ces érables et de ces cannes à sucre ? </p>
+               <p>— « Des érables, ce serait peut-être possible ; mais des cannes à sucre, non.</p>
+               <p>— « Et pourquoi?</p>
+               <figure>
+                  <caption>Exploitation de la canne à sucre.</caption>
+               </figure>
+               <p>— « La réponse à votre question, vous la trouverez sur la carte de géographie.
+                  Vous y verrez que l&apos;Inde, pays d&apos;origine de la canne à sucre, les
+                  Antilles et tous les points de l&apos;Amérique, de l&apos;Afrique et de
+                  l&apos;Océanie où on l&apos;a transplantée, sont situés dans la zone torride où
+                  l&apos;été brûlant dure toute l&apos;année, tandis que la France est dans la zone
+                  tempérée où pendant six mois il gèle, neige ou grèle.</p>
+               <p>« Or la canne à sucre est une plante très frileuse qui aurait froid chez nous,
+                  même au mois de juillet, et qui mourrait vite.</p>
+               <p>« Aussi, pendant bien longtemps, les navires de France et d&apos;Europe durent
+                  aller chercher au delà des mers le sucre de canne. Et naturellement. </p>
+               <pb n="58"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_16-07.jpg"/>
+               <fw>58 L&apos;ENFANCE DE SUZETTE.</fw>
+               <p> ce sucre venu à si grands frais coûtait alors fort cher. Les riches seuls
+                  pouvaient en acheter et l&apos;on n&apos;en trouvait que chez le pharmacien.</p>
+               <p>« Au commencement de ce siè- cle seulement, l&apos;industrie trouva le moyen de
+                  tirer du sucre de la betterave.</p>
+               <figure>
+                  <caption>L&apos;abeille nous donne le miel et la cire.</caption>
+               </figure>
+               <p>« Quant au sucre de canne, il avait été introduit en France au douzième siècle,
+                  époque où les guerriers des croisades le trouvèrent en Palestine.</p>
+               <p>« Les Arabes, qu&apos;ils allaient combattre dans cette partie de l&apos;Asie,
+                  cultivaient la canne. C&apos;est de cette contrée qu&apos;elle fut transplantée
+                  partout où on la cultive aujourd&apos;hui, no- tamment aux Antilles, où j&apos;en
+                  ai vu des champs entiers. Elle sert de nourriture aux nègres du pays. J&apos;ai
+                  rencontré souvent des petits nègres mangeant pour leur dîner un morceau de canne
+                  avec du pain. Ils broyaient la tige entre leurs dents et la rejetaient après
+                  l&apos;avoir sucée.</p>
+
+               <figure>
+                  <caption>Ruches à miel et disposition inté- rieure des rayons.</caption>
+               </figure>
+               <p>— « Ah ! s&apos;écria François, on voudrait être nègre ! » </p>
+               <pb n="59"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_16-08.jpg"/>
+               <fw>UN DINER DE FÊTE. 59</fw>
+               <p>Toute la compagnie se mit à rire. Dès que le silence fut rétabli, la petite
+                  Suzette demanda : </p>
+               <p>— « Mais, Monsieur, comment les Français d&apos;avant les croisades sucraient-ils
+                  donc leurs boissons et leurs plats? Se passaient-ils donc de sucre?</p>
+               <p>— « Ils utilisaient le miel que leur fournis- saient les abeilles. Le miel était,
+                  en France, le seul sucre en usage depuis le temps des Gaulois. » </p>
+               <p>M. et Mme Dumay remercièrent alors l&apos;institu- trice, l&apos;instituteur et
+                  son frère, pour toutes les choses intéressantes qu&apos;ils leur avaient dites et
+                  expliquées.</p>
+               <p>— « Elles sont aussi bonnes que le sucre et le café, » dit la petite Suzette.</p>
+               <p>Et, se penchant vers l&apos;institutrice, elle ajouta plus bas:</p>
+               <p>— « Madame, est-ce qu&apos;on ne devait pas parler du verre... bientôt ? »</p>
+               <p>L&apos;institutrice répondit:</p>
+               <p>— « On parlera du verre demain, et assez loin d&apos;ici.</p>
+               <p>— « Où donc, Madame ?</p>
+               <p>— « A Saint-Gobain, la grande manufacture, où nous allons voir mon père, et où
+                  nous vous emmènerons avec Jacques, si vos parents le permettent. »</p>
+               <p>Jacques et petite Suzette battirent des mains </p>
+               <pb n="60"
+                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_16-09.jpg"/>
+               <fw>60 L&apos;ENFANCE DE SUZETTE.</fw>
+               <p> en voyant papa et maman sourire à l&apos;idée d&apos;un voyage de leurs enfants à
+                  Saint-Gobain, en si bonne compagnie.</p>
+               <p>— « Si vous le voulez bien, Madame, je vous prêterai ma carriole, » proposa M.
+                  Dumay. La partie fut arrangée tout de suite et l&apos;on convint de l&apos;heure
+                  du départ. M. François ne réclama pas. Il avait déjà quitté la table et jouait
+                  avec Charlot dans le jardin. [16] </p>
+            </div>
+            <div type="causerie">
+               <p> [16] <label>CAUSERIE</label>: Grammaire. — Que signifie le mot brut ? — Citez un
+                  adjectif, un verbe et un adverbe tirés de ce mot. —De quel nom a-t-on formé
+                  l&apos;adjectif liquoreux ? </p>
+               <p>Géographie. — Dans quelle partie du monde est située l&apos;Inde ? —
+                  Qu&apos;est-ce que la zone torride ? la zone tempérée ? la zone glaciale ? — Où
+                  sont situées les Antilles ? — Quelles sont les deux iles des An- tilles qui
+                  appartiennent à la France ?</p>
+               <p>Histoire naturelle. — Quelle partie de la plante est la racine ? — Quelle partie
+                  est la tige ? — Quel nom prend la tige d&apos;un arbre ? — Qu&apos;est-ce que la
+                  sève ? — Qu&apos;est-ce que l&apos;abeille ?—De quelle arme est-elle pourvue ? —
+                  Comment se nomme l&apos;habitation des abeilles? — Où les abeilles trouvent-elles
+                  la cire? le miel?</p>
+               <p>Morale. — Quelles sont les qualités de l&apos;abeille données en exem- ple aux
+                  paresseux, aux désordonnés, aux imprévoyants ? </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

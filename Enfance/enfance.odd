@@ -121,6 +121,9 @@
               <valItem ident="soins_à_donner_aux_malades" mode="add">
                 <desc>Soins à donner aux malades</desc>
               </valItem>
+              <valItem ident="morale" mode="add">
+                <desc>Morale</desc>
+              </valItem>
             </valList>
           </attDef>
         </attList>
