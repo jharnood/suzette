@@ -210,14 +210,14 @@
 
             </div>
             <div type="causerie">
-               <p> [28] <label>CAUSERIE</label>: Cosmographie. — Quels sont les deux jours de
+               <p> [28] <label>CAUSERIE</label>: <term ana="cosmographie">Cosmographie</term>. — Quels sont les deux jours de
                   l'année où la durée du jour est égale à celle de la nuit ? — Quel nom
                   donne-t-on à ces deux époques de l'année ? — De quelles saisons
                   marquent-elles le retour ?</p>
-               <p>Connaissances usuelles. — Qu'est-ce qu'un almanach ? — Faut-il croire
+               <p><term ana="connaissances_usuelles">Connaissances usuelles</term>. — Qu'est-ce qu'un almanach ? — Faut-il croire
                   les prédictions de l'almanach au sujet du temps ? — Où se font les
                   observations météorologiques dignes de foi ?</p>
-               <p>Histoire naturelle. — Qu'est-ce que le fraisier ? — Qu'est-ce que le
+               <p><term ana="histoire_naturelle">Histoire naturelle</term>. — Qu'est-ce que le fraisier ? — Qu'est-ce que le
                   cerisier ? — Décrivez une fleur de fraisier et une de cerisier. — En quoi se
                   ressemblent-elles ? — Quelle partie de la fleur du cerisier devient la cerise ? —
                   Quelle partie de la fleur du fraisier devient la fraise ? — Où se trouve la graine
