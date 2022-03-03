@@ -111,12 +111,12 @@
 
                <pb n="38" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_12-03.jpg"/>
                <fw>38 L'ENFANCE DE SUZETTE.</fw>
-               <p> — « Nous donnerons un dîner de fête et, si tu le veux. Denis, nous inviterons
+               <p> — « Nous donnerons un dîner de fête et, si tu le veux. <persName>Denis</persName>, nous inviterons
                   l'institutrice et son mari l'instituteur, à qui nous devons une grande
                   part de notre plaisir d'aujourd'hui. Cest entre leurs mains que
                   l'esprit de nos enfants grandit et s'améliore ; montrons-leur notre
                   reconnaissance.</p>
-               <p>— « Voilà une bonne idée, répondit M. Dumay, je vais porter l'invitation.
+               <p>— « Voilà une bonne idée, répondit <persName>M. Dumay</persName>, je vais porter l'invitation.
                   »</p>
                <p>Il était de retour quelques instants après. </p>
                <p>L'instituteur et l'institutrice avaient accepté avec plaisir ; il était
@@ -126,12 +126,12 @@
 
             </div>
             <div type="causerie">
-               <p>[12] <label>CAUSERIE</label> : Grammaire. — Quel est le sens de attentif ?— Quel
+               <p>[12] <label>CAUSERIE</label> : <term ana="grammaire">Grammaire</term>. — Quel est le sens de attentif ?— Quel
                   est le sens de inattentif ? — Quelle est la syllabe qui change ainsi du tout au
                   tout le sens de attentif ? — Quel nom donne-t-on en grammaire à ce genre de
                   syllabes ? — Retranchez les préfixe de : découdre, recoudre, impuissant, enfermer,
                   mécontent, sur passer.</p>
-               <p>Morale. — Est-ce la vue des jolis livres et de l'image gagné par ses enfants
+               <p><term ana="morale">Morale</term>. — Est-ce la vue des jolis livres et de l'image gagné par ses enfants
                   qui amena des larmes aux yeux de la maman ? — Pourriez-vous dire ce que les
                   parents, les maîtres et maîtresse sont en droit d'espérer des enfants à
                   l'école ? Quels sont « les fruits et les fleurs » qu'on attend
