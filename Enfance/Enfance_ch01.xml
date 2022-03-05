@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
+<TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -70,7 +72,7 @@
          <div type="chapitre" n="1">
          	<div type="récit">
                <p>
-               	<title>L&apos;ENFANCE DE SUZETTE
+               	<title>L'ENFANCE DE SUZETTE
                		JE DÉDIE CE LIVRE A MA CHÈRE NIÈCE MARGUERITE.
                		MARIE ROBERT HALT.</title>
                </p>
@@ -78,38 +80,38 @@
          		<p>
          			<title>1. — Jolie maison.</title>
          		</p>
-         		<p>M— Dumay, la maman, achevait de ranger 
-         			la grande pièce, en ce moment éclairée d&apos;un 
+         		<p><persName>Mme Dumay</persName>, la maman, achevait de ranger 
+         			la grande pièce, en ce moment éclairée d'un 
          			gai rayon de soleil.</p>
-         		<pb n='2' facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_01-02.jpg"/>
+         		<pb n="2" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_01-02.jpg"/>
          		<p>
-         			4  L&apos;ENFANCE DE SUZETTE.
+         			4  L'ENFANCE DE SUZETTE.
          			Les chandeliers, sur la cheminée, semblaient 
-         			d&apos;or, et la batterie de cuisine, accrochée au mur, 
-         			paraissait être d&apos;argent, tant tout cela reluisait.
+         			d'or, et la batterie de cuisine, accrochée au mur, 
+         			paraissait être d'argent, tant tout cela reluisait.
          			Le poêle, ciré à la mine de plomb, reluisait aussi. </p>
-         			<p>Les rideaux, aux vitres, étaient d&apos;un blanc 
-         			de neige. Sur l&apos;appui des fenêtres il y avait des
+         			<p>Les rideaux, aux vitres, étaient d'un blanc 
+         			de neige. Sur l'appui des fenêtres il y avait des
          			vases de fleurs.</p>
          			<p>Pas un grain de poussière sur les meubles.
-         			Oh ! la gentille maison ! la plus gentille de Fragicourt ; qu&apos;elle était gaie et propre ! Oh ! la 
-         			bonne mère que celle à qui l&apos;on devait toute 
+         			Oh ! la gentille maison ! la plus gentille de <placeName>Fragicourt</placeName> ; qu'elle était gaie et propre ! Oh ! la 
+         			bonne mère que celle à qui l'on devait toute 
          			cette minutieuse propreté !</p>
          			<p>De temps en temps elle se penchait pour 
-         			regarder, par la fenêtre, dans le jardin où l&apos;on 
-         			entendait des voix joyeuses d&apos;enfants. </p>
+         			regarder, par la fenêtre, dans le jardin où l'on 
+         			entendait des voix joyeuses d'enfants. </p>
          			<p>Puis elle appela  :</p> 
-         			<p>— « Allons, petits, voilà l&apos;heure ! » [1]
+         			<p>— « Allons, petits, voilà l'heure ! » [1]
          		</p>
             </div>
             <div type="causerie">
-            	<p>[1] <label>CAUSERIE</label> : Grammaire. — D&apos;où vient le mot <emph>chandelier</emph> ? 
+            	<p>[1] <label>CAUSERIE</label> : <term ana="grammaire">Grammaire</term>. — D'où vient le mot <emph>chandelier</emph> ? 
             		Dites les homonymes du mot <emph>poêle</emph>. </p>
-            		<p>Ménage. — De quoi se compose la batterie de cuisine ? —
-            		Qu&apos;est-ce que la mine de plomb ? — A quel usage sert-elle ? — Sous 
+            		<p><term ana="hygiène">Ménage</term>. — De quoi se compose la batterie de cuisine ? —
+            		Qu'est-ce que la mine de plomb ? — A quel usage sert-elle ? — Sous 
             		quelle forme les écoliers emploient-ils la mine de plomb ? — Pour
             		quoi les chandeliers et la batterie de cuisine reluisent-ils comme 
-            		de l&apos;or et de l&apos;argent ? </p>
+            		de l'or et de l'argent ? </p>
             </div>
          </div>
       </body>

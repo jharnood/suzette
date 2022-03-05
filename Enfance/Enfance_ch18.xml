@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?><TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -72,32 +71,30 @@
                <p>
                   <title>18. — Autre spectacle.</title>
                </p>
-               <pb n="66"
-                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_18-01.jpg"/>
+               <pb n="66" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_18-01.jpg"/>
                <p> On entra dans un autre bâtiment où se voyaient, comme dans le premier, des fours
                   embrasés, devant lesquels, sur une estrade, des ouvriers tra- vaillaient.</p>
                <p>Un de ces ouvriers plongea dans le four près de lui une longue canne de fer
-                  creuse, puis l&apos;en retira. Elle portait à son extrémité une grosse goutte de
+                  creuse, puis l'en retira. Elle portait à son extrémité une grosse goutte de
                   verre en fusion.</p>
-               <p>Il passa la canne à un second ouvrier qui, par l&apos;autre extrémité, se mit à
+               <p>Il passa la canne à un second ouvrier qui, par l'autre extrémité, se mit à
                   souffler dedans comme dans une trompette, si bien que sous son souffle la goutte
                   de verre se gonfla.</p>
-               <p>Il l&apos;emprisonna alors dans un moule, tout en continuant de souffler. Quelques
-                  instants après, il ouvrait le moule, et en tirait une jolie carafe qu&apos;il
-                  termina en quelques coups de ciseaux. En effet, tant que le verre n&apos;est pas
-                  refroidi, on peut le ployer, le tordre, l&apos;étirer, le couper comme on fait
-                  d&apos;un morceau de cire à modeler ou de terre glaise.</p>
+               <p>Il l'emprisonna alors dans un moule, tout en continuant de souffler. Quelques
+                  instants après, il ouvrait le moule, et en tirait une jolie carafe qu'il
+                  termina en quelques coups de ciseaux. En effet, tant que le verre n'est pas
+                  refroidi, on peut le ployer, le tordre, l'étirer, le couper comme on fait
+                  d'un morceau de cire à modeler ou de terre glaise.</p>
                <p>Après la carafe, les verriers fabriquèrent de la même façon un gobelet, un verre à
                   pied, un cru- </p>
 
-               <pb n="67"
-                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_18-02.jpg"/>
+               <pb n="67" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_18-02.jpg"/>
                <fw>AUTRE SPECTACLE. 67</fw>
-               <p> chon à eau, un carreau de vitre ; et c&apos;est cette manière d&apos;opérer qui
-                  s&apos;appelle le « soufflage » .</p>
-               <p>La compagnie prit alors congé de M. Garnier en le remerciant de ses intéressantes
-                  explications et sortit de l&apos;usine tout en causant des belles choses
-                  qu&apos;elle venait de voir.</p>
+               <p> chon à eau, un carreau de vitre ; et c'est cette manière d'opérer qui
+                  s'appelle le « soufflage » .</p>
+               <p>La compagnie prit alors congé de <persName>M. Garnier</persName> en le remerciant de ses intéressantes
+                  explications et sortit de l'usine tout en causant des belles choses
+                  qu'elle venait de voir.</p>
 
                <figure>
                   <caption>Le soufflage du verre.</caption>
@@ -105,34 +102,33 @@
 
                <figure>
                   <caption>Un verrier plongea dans le four près de lui ne longue canne de fer
-                     creuse, puis l&apos;en reira. Elle portait à son extrémité une grosse goutte de
+                     creuse, puis l'en reira. Elle portait à son extrémité une grosse goutte de
                      verre en fusion.</caption>
                </figure>
 
                <figure>
-                  <caption>Il passa la canne à un second ouvrier qui, ar l&apos;autre extrémité se
+                  <caption>Il passa la canne à un second ouvrier qui, ar l'autre extrémité se
                      mit à souffler dedans comme dans une trompette, si bien que sous son souffle la
                      goutte de verre se gonfla.</caption>
                </figure>
 
                <figure>
-                  <caption>Cet ouvrier l&apos;emprisonna alors dans un moule, tout en continuant de
-                     souffler. Puis l&apos;ouvrit le moule pour en tirer une carafe qu&apos;il
+                  <caption>Cet ouvrier l'emprisonna alors dans un moule, tout en continuant de
+                     souffler. Puis l'ouvrit le moule pour en tirer une carafe qu'il
                      termina en quelques coups de ciseaux.</caption>
                </figure>
 
                <p>Plus on apprend et plus on veut savoir. Aussi </p>
 
-               <pb n="68"
-                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_18-03.jpg"/>
-               <fw>L&apos;ENFANCE DE SUZETTE.</fw>
-               <p> petite Suzette qui, la veille à table, avait écouté avec tant de plaisir
-                  l&apos;histoire de la faïence et de la porcelaine, demanda si l&apos;usage du
+               <pb n="68" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_18-03.jpg"/>
+               <fw>L'ENFANCE DE SUZETTE.</fw>
+               <p> petite <persName>Suzette</persName> qui, la veille à table, avait écouté avec tant de plaisir
+                  l'histoire de la faïence et de la porcelaine, demanda si l'usage du
                   verre dans le monde était fort ancien.</p>
-               <p>M. Delorme répondit :</p>
-               <p>— « Il y a, dans un musée d&apos;An- gleterre, un grain de collier de verre qui,
-                  d&apos;après l&apos;inscription en écriture égyptienne qu&apos;il porte, a
-                  appartenu à une reine d&apos;Égypte, nommée Ra-ma-ka. Ra-ma-ka vivait quinze cents
+               <p><persName>M. Delorme</persName> répondit :</p>
+               <p>— « Il y a, dans un musée d'An- gleterre, un grain de collier de verre qui,
+                  d'après l'inscription en écriture égyptienne qu'il porte, a
+                  appartenu à une reine d'Égypte, nommée Ra-ma-ka. Ra-ma-ka vivait quinze cents
                   ans avant notre ère. Ce grain de verre a donc près de trois mille cinq cents
                   ans.</p>
 
@@ -141,30 +137,29 @@
                      égyptienne.</caption>
                </figure>
 
-               <p>« Les Romains eurent aussi des verreries Ils en créèrent en Gaule après leur
+               <p>« Les Romains eurent aussi des verreries Ils en créèrent en <placeName>Gaule</placeName> après leur
                   conquête de ce pays qui est le nôtre.</p>
 
                <figure>
                   <caption>Guerriers francs.</caption>
                </figure>
 
-               <p>« Mais cet art se perdit chez nous par l&apos;inva- sion des bar- bares francs, au
-                  cinquième siècle. Il nous revint toutefois d&apos;Orient, après les croisades. Et
-                  les verriers du moyen âge produisirent, à l&apos;exemple </p>
+               <p>« Mais cet art se perdit chez nous par l'inva- sion des bar- bares francs, au
+                  cinquième siècle. Il nous revint toutefois d'Orient, après les croisades. Et
+                  les verriers du moyen âge produisirent, à l'exemple </p>
 
-               <pb n="69"
-                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_18-04.jpg"/>
+               <pb n="69" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_18-04.jpg"/>
                <fw>AUTRE SPECTACLE. 69</fw>
                <p> des Arabes, les beaux vitraux de couleur qui ornent encore les fenêtres et les
                   rosaces de plusieurs de nos cathédrales.</p>
-               <p>— « Mais les fenêtres des maisons, Monsieur, demanda Jacques, eurent-elles aussi
+               <p>— « Mais les fenêtres des maisons, Monsieur, demanda <persName>Jacques</persName>, eurent-elles aussi
                   des vitraux coloriés ?</p>
                <p>— « Oh ! non ; les fenêtres des maisons attendirent bien longtemps les simples
-                  vitres claires, transparentes dont nous nous servons aujourd&apos;hui, ces vitres
+                  vitres claires, transparentes dont nous nous servons aujourd'hui, ces vitres
                   si précieuses contre le froid, le vent, la pluie et le soleil.</p>
 
                <figure>
-                  <caption>Vitraux d&apos;église.</caption>
+                  <caption>Vitraux d'église.</caption>
                </figure>
 
                <p> « Dans les palais seuls et les châteaux se voyaient quelques fenêtres à toutes
@@ -176,17 +171,16 @@
 
                <p>« Mais les maisons des bourgeois dans les villes, ne recevaient le jour que par de
                   petites ouvertures garnies de parchemin ou de papier huilé, ou bien encore de
-                  toile cirée. Et vous pouvez vous imaginer ce qu&apos;il en était alors des
+                  toile cirée. Et vous pouvez vous imaginer ce qu'il en était alors des
                   chaumières.</p>
                <p>« Là, pas de fenêtres, mais seulement un volet de bois ouvert par le beau temps et
-                  qu&apos;on fermait </p>
+                  qu'on fermait </p>
 
-               <pb n="70"
-                  facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_18-05.jpg"/>
-               <fw>70 L&apos;ENFANCE DE SUZETTE.</fw>
+               <pb n="70" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_18-05.jpg"/>
+               <fw>70 L'ENFANCE DE SUZETTE.</fw>
                <p> par le mauvais, au risque de ne pas voir clair dans le logis.</p>
-               <p>« Ce n&apos;est que peu à peu, et surtout depuis le commencement de notre siècle,
-                  que, grâce aux progrès de l&apos;indus- trie et de la science, on put produire à
+               <p>« Ce n'est que peu à peu, et surtout depuis le commencement de notre siècle,
+                  que, grâce aux progrès de l'indus- trie et de la science, on put produire à
                   bon marché les vitres, les glaces, tous les objets de verre et les mettre ainsi à
                   la portée de tout le monde. » [18]</p>
 
@@ -200,15 +194,15 @@
 
             </div>
             <div type="causerie">
-               <p>[18] <label>CAUSERIE</label> : Connaissances usuelles. — Qu&apos;est-ce qu&apos;un
+               <p>[18] <label>CAUSERIE</label> : <term ana="connaissances_usuelles">Connaissances usuelles</term>. — Qu'est-ce qu'un
                      <emph>musée</emph> ?</p>
-               <p>Histoire. — Quel est le plus ancien objet de verrerie que l&apos;on connaisse ? —
-                  Quel événement historique fit disparaître en France l&apos;art de la verrerie ? —
-                  Quel autre événement historique ramena, au moyen ge, l&apos;art de la verrerie en
-                  France ?— Quelles sont les oeuvres qui nous restent des verriers du moyen age ? —
-                  Qu&apos;est-ce qui tenait lieu de vitres aux fenêtres des maisons jusqu&apos;au
+               <p><term ana="histoire">Histoire</term>. — Quel est le plus ancien objet de verrerie que l'on connaisse ? —
+                  Quel événement historique fit disparaître en <placeName>France</placeName> l'art de la verrerie ? —
+                  Quel autre événement historique ramena, au moyen ge, l'art de la verrerie en
+                  <placeName>France</placeName> ?— Quelles sont les oeuvres qui nous restent des verriers du moyen age ? —
+                  Qu'est-ce qui tenait lieu de vitres aux fenêtres des maisons jusqu'au
                   siècle dernier ?</p>
-               <p>Ménage. — Citez les principaux objets de verrerie d&apos;un ménage. — Pourquoi
+               <p><term ana="menage">Ménage</term>. — Citez les principaux objets de verrerie d'un ménage. — Pourquoi
                   met-on aux lampes des cheminées de verre et non de métal ?</p>
             </div>
          </div>

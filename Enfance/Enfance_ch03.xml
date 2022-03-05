@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?><TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -71,39 +70,37 @@
 			<div type="chapitre" n="3">
 				<div type="récit">
 					<p>
-						<title>3. ― Pourquoi allez-vous à l&apos;école ? </title>
+						<title>3. ― Pourquoi allez-vous à l'école ? </title>
 					</p>
-					<pb n="7"
-						facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_03-01.jpg"/>
-					<p> La maîtresse, Mme Delorme, écrivit au tableau noir cette question :
-							<emph>Pourquoi allez-vous à l&apos;école ? </emph></p>
-					<p>Chaque élève eut à donner la réponse sur son ardoise. La petite Zélie écrivit
-						: « Je vais à l&apos;école parce que mes parents m&apos;y obligent. » </p>
+					<pb n="7" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_03-01.jpg"/>
+					<p> La maîtresse, <persName>Mme Delorme</persName>, écrivit au tableau noir cette question :
+							<emph>Pourquoi allez-vous à l'école ? </emph></p>
+					<p>Chaque élève eut à donner la réponse sur son ardoise. La petite <persName>Zélie</persName> écrivit
+						: « Je vais à l'école parce que mes parents m'y obligent. » </p>
 
 					<figure>
-						<caption>― Je vais à l&apos;école pour apprendre les choses utiles que je ne
+						<caption>― Je vais à l'école pour apprendre les choses utiles que je ne
 							sais pas.</caption>
 					</figure>
-					<pb n="8"
-						facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_03-02.jpg"/>
-					<fw>8 L&apos;ENFANCE DE SUZETTE.</fw>
-					<p> Marcelline répondit : « Je vais à l&apos;école pour gagner des bons points
+					<pb n="8" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_03-02.jpg"/>
+					<fw>8 L'ENFANCE DE SUZETTE.</fw>
+					<p> <persName>Marcelline</persName> répondit : « Je vais à l'école pour gagner des bons points
 						et des prix. » </p>
-					<p>Petite Suzette écrivit : « Je vais à l&apos;école pour apprendre les choses
-						utiles que je ne sais pas ; j&apos;y vais pour apprendre à bien conduire mon
+					<p>Petite <persName>Suzette</persName> écrivit : « Je vais à l'école pour apprendre les choses
+						utiles que je ne sais pas ; j'y vais pour apprendre à bien conduire mon
 						ménage quand je serai grande. » </p>
-					<p>― « Très bien, petite Suzette, dit l&apos;institu- trice ; ajoute qu&apos;on
-						va encore à l&apos;école pour apprendre à agir, en toute chose, moralement,
-						c&apos;est-à-dire avec droiture et avec bonté. »</p>
-					<p>Puis elle donna un bon point à Suzette.</p>
-					<p>La classe achevée, les élèves sortirent ; la petite Suzette courut rejoindre
-						ses deux frères déjà dehors, et tous les trois s&apos;acheminèrent vers la
+					<p>― « Très bien, petite <persName>Suzette</persName>, dit l'institu- trice ; ajoute qu'on
+						va encore à l'école pour apprendre à agir, en toute chose, moralement,
+						c'est-à-dire avec droiture et avec bonté. »</p>
+					<p>Puis elle donna un bon point à <persName>Suzette</persName>.</p>
+					<p>La classe achevée, les élèves sortirent ; la petite <persName>Suzette</persName> courut rejoindre
+						ses deux frères déjà dehors, et tous les trois s'acheminèrent vers la
 						maison paternelle. [3] </p>
 				</div>
 				<div type="causerie">
-					<p> [3] <label>CAUSERIE</label> : Morale. ― A la réponse que fit Zélie, quelle
-						sorte d&apos;élève jugez-vous qu&apos;elle était ? ― Et Marcelline, que
-						pensez- vous d&apos;elle ? ― Et que dites-vous de la petite Suzette ? ―
+					<p> [3] <label>CAUSERIE</label> : <term ana="morale">Morale</term>. ― A la réponse que fit <persName>Zélie</persName>, quelle
+						sorte d'élève jugez-vous qu'elle était ? ― Et <persName>Marcelline</persName>, que
+						pensez- vous d'elle ? ― Et que dites-vous de la petite <persName>Suzette</persName> ? ―
 						Laquelle de ces trois petites filles prendriez-vous pour modèle ? </p>
 				</div>
 			</div>
