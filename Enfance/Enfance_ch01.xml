@@ -83,10 +83,10 @@
          		<pb n="2" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_01-02.jpg"/>
          		<p>
          			4  L'ENFANCE DE SUZETTE.
-         			Les chandeliers, sur la cheminée, semblaient 
-         			d'or, et la batterie de cuisine, accrochée au mur, 
+         			Les <objectName ana="grammaire"><objectName ana="menage"><objectName ana="menage">chandeliers</objectName></objectName></objectName>, sur la cheminée, semblaient 
+         			d'or, et la <objectName ana="menage">batterie de cuisine</objectName>, accrochée au mur, 
          			paraissait être d'argent, tant tout cela reluisait.
-         			Le poêle, ciré à la mine de plomb, reluisait aussi. </p>
+         			Le <objectName ana="grammaire">poêle</objectName>, ciré à la <objectName ana="menage">mine de plomb</objectName>, reluisait aussi. </p>
          			<p>Les rideaux, aux vitres, étaient d'un blanc 
          			de neige. Sur l'appui des fenêtres il y avait des
          			vases de fleurs.</p>
