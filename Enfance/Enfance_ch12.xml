@@ -92,9 +92,7 @@
                <p>Il y eut grande joie à la maison. La maman embrassa ses chéris avec des larmes
                   dans les yeux et le papa, tout heureux, leur dit :</p>
                <p>— « A la bonne heure ! Les progrès de mes enfants me réjouissent autant que de bon
-                  blé dans mon grenier. <objectName ana="morale">Le blé, c'est le pain qui fait vivre le corps</objectName> ; le
-                  savoir est un pain non moins précieux qui nourrit l'intelligence et la
-                  fortifie. Je suis <objectName ana="grammaire">content</objectName> de toi, <persName key="jacques" type="fictif">Jacques</persName> ; je le suis aussi de ma petite <persName key="suzette" type="fictif">Suzette</persName>,
+                  blé dans mon grenier. <objectName ana="morale">Le blé, c'est le pain qui fait vivre le corps</objectName> ; <objectName ana="morale">le savoir est un pain non moins précieux qui nourrit l'intelligence et la fortifie</objectName>. Je suis <objectName ana="grammaire">content</objectName> de toi, <persName key="jacques" type="fictif">Jacques</persName> ; je le suis aussi de ma petite <persName key="suzette" type="fictif">Suzette</persName>,
                   qui se montre à l'école ce que je la vois ici, pleine de bonne volonté, et je
                   ne suis pas <objectName ana="grammaire">mécontent</objectName> de <persName key="françois" type="fictif">François</persName>.</p>
                <p>— « Oh ! papa, oh ! chère maman, si j'avais su vous faire tant de plaisir, je
