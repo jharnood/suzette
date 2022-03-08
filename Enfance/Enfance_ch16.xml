@@ -72,34 +72,34 @@
                   <title>16. — Un dîner de fête (Suite). </title>
                </p>
                <pb n="1"/>
-               <p><persName>Mme Dumay</persName> versa le café dans les tasses. Pen- dant que <persName>Suzette </persName>offrait du sucre
-                  aux grandes personnes, <persName>M. Adrien</persName> se leva et alla prendre sur le buffet un paquet
+               <p><persName key="mme_dumay" type="fictif">Mme Dumay</persName> versa le café dans les tasses. Pen- dant que <persName key="suzette" type="fictif">Suzette </persName>offrait du sucre
+                  aux grandes personnes, <persName key="m_adrien" type="fictif">M. Adrien</persName> se leva et alla prendre sur le buffet un paquet
                   qu'il y avait posé en entrant. Ce paquet en contenait trois autres.</p>
                <p>De l'un, il tira quelques morceaux de sucre blanc, de l'autre, de la
                   cassonade, et enfin du troisième des tablettes grisâtres assez semblables à des
                   carrés de caramel.</p>
-               <p>Il mit le tout dans trois soucoupes que, sur sa demande, la petite <persName>Suzette </persName>lui
+               <p>Il mit le tout dans trois soucoupes que, sur sa demande, la petite <persName key="suzette" type="fictif">Suzette </persName>lui
                   apporta. Puis s'adressant aux enfants: </p>
                <pb n="53" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_16-02.jpg"/>
                <fw>UN DINER DE FÊETE. 53</fw>
                <p> — « Voilà, dit-il, trois sortes de sucre. Prenez celui qui vous plaira. » </p>
-               <p>Après un peu d'hésitation, la petite <persName>Suzette </persName>se décida pour le sucre blanc
-                  qu'elle connaissait déjà, <persName>Jacques </persName>prit de la cassonade, et <persName>François</persName>, deux de
+               <p>Après un peu d'hésitation, la petite <persName key="suzette" type="fictif">Suzette </persName>se décida pour le sucre blanc
+                  qu'elle connaissait déjà, <persName key="jacques" type="fictif">Jacques </persName>prit de la cassonade, et <persName key="françois" type="fictif">François</persName>, deux de
                   ces tablettes qui ressemblaient à des carrés de caramel.</p>
                <p>— « Et quelles sont ces trois sortes de sucre, Monsieur?</p>
-               <p>— « Du sucre de betterave, du sucre de canne et du sucre d'érable. <persName>Suzette </persName>a
-                  pris du premier, <persName>Jacques</persName>, du second, et <persName>François</persName>, du troisième.</p>
-               <p>— « Quel est le meilleur ? demanda <persName>François</persName>.</p>
+               <p>— « Du sucre de betterave, du sucre de canne et du sucre d'érable. <persName key="suzette" type="fictif">Suzette </persName>a
+                  pris du premier, <persName key="jacques" type="fictif">Jacques</persName>, du second, et <persName key="françois" type="fictif">François</persName>, du troisième.</p>
+               <p>— « Quel est le meilleur ? demanda <persName key="françois" type="fictif">François</persName>.</p>
                <p>— « Jugez-en vous-mêmes; goûtez des trois l'un après l'autre. »</p>
                <p>C'est ce qu'ils firent ; et ils trouvèrent que les trois échantillons
                   avaient la même saveur.</p>
-               <p>— « Ils n'ont pourtant pas la même origine, » dit <persName>Suzette</persName>.</p>
-               <p><persName>M. Adrien</persName> reprit :</p>
-               <p>— « Non ; le sucre que vous avez pris, petite <persName>Suzette</persName>, vient, comme je vous
+               <p>— « Ils n'ont pourtant pas la même origine, » dit <persName key="suzette" type="fictif">Suzette</persName>.</p>
+               <p><persName key="m_adrien" type="fictif">M. Adrien</persName> reprit :</p>
+               <p>— « Non ; le sucre que vous avez pris, petite <persName key="suzette" type="fictif">Suzette</persName>, vient, comme je vous
                   l'ai dit, de la betterave, racine bien connue de vous tous. La cassonade
-                  qu'a goûtée <persName>Jacques</persName>, je l'ai vue aux <placeName>Antilles</placeName>, quand elle était encore à
+                  qu'a goûtée <persName key="jacques" type="fictif">Jacques</persName>, je l'ai vue aux <placeName>Antilles</placeName>, quand elle était encore à
                   l'état liquide dans les grands roseaux à grosse tige qu'on appelle pour
-                  cette raison cannes à sucre. « Quant aux tablettes que <persName>François </persName>a choisies, elles
+                  cette raison cannes à sucre. « Quant aux tablettes que <persName key="françois" type="fictif">François </persName>a choisies, elles
                   viennent d'un arbre. </p>
                <pb n="54" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_16-03.jpg"/>
                <fw>54 L'ENFANCE DE SUZETTE.</fw>
@@ -123,11 +123,11 @@
                <p>« On le met enfin dans des moules où il prend la forme haute et pointue qu'on
                   nomme pain de sucre. « La cassonade se raffine de la même façon et, dans ce nouvel
                   état, ne diffère aucunement du sucre de betterave. »</p>
-               <p>A la petite <persName>Suzette </persName>qui demandait: — « Mais ces petites tablettes qu'a
-                  choisies <persName>François</persName>, comment les fait-on ? » </p>
+               <p>A la petite <persName key="suzette" type="fictif">Suzette </persName>qui demandait: — « Mais ces petites tablettes qu'a
+                  choisies <persName key="françois" type="fictif">François</persName>, comment les fait-on ? » </p>
                <pb n="55" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_16-04.jpg"/>
                <fw>UN DINER DE FÊTE. 55</fw>
-               <p><persName>M. Adrien</persName> répondit:</p>
+               <p><persName key="m_adrien" type="fictif">M. Adrien</persName> répondit:</p>
                <figure>
                   <caption>La traction du sucre d'érable. Les érables trouvés, nous fîmes avec
                      des couteaux une incision sur l'écorce de chacun; au pied de ces arbres
@@ -200,34 +200,34 @@
                <figure>
                   <caption>Ruches à miel et disposition inté- rieure des rayons.</caption>
                </figure>
-               <p>— « Ah ! s'écria <persName>François</persName>, on voudrait être nègre ! » </p>
+               <p>— « Ah ! s'écria <persName key="françois" type="fictif">François</persName>, on voudrait être nègre ! » </p>
                <pb n="59" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_16-08.jpg"/>
                <fw>UN DINER DE FÊTE. 59</fw>
                <p>Toute la compagnie se mit à rire. Dès que le silence fut rétabli, la petite
-                  <persName>Suzette </persName>demanda : </p>
+                  <persName key="suzette" type="fictif">Suzette </persName>demanda : </p>
                <p>— « Mais, Monsieur, comment les Français d'avant les croisades sucraient-ils
                   donc leurs boissons et leurs plats? Se passaient-ils donc de sucre?</p>
                <p>— « Ils utilisaient le miel que leur fournis- saient les abeilles. Le miel était,
                   en <placeName>France</placeName>, le seul sucre en usage depuis le temps des Gaulois. » </p>
-               <p><persName>M. et Mme Dumay</persName> remercièrent alors l'institu- trice, l'instituteur et
+               <p><persName key="m_dumay" type="fictif">M.</persName> et <persName key="mme_dumay" type="fictif">Mme Dumay</persName> remercièrent alors l'institu- trice, l'instituteur et
                   son frère, pour toutes les choses intéressantes qu'ils leur avaient dites et
                   expliquées.</p>
-               <p>— « Elles sont aussi bonnes que le sucre et le café, » dit la petite <persName>Suzette</persName>.</p>
+               <p>— « Elles sont aussi bonnes que le sucre et le café, » dit la petite <persName key="suzette" type="fictif">Suzette</persName>.</p>
                <p>Et, se penchant vers l'institutrice, elle ajouta plus bas:</p>
                <p>— « Madame, est-ce qu'on ne devait pas parler du verre... bientôt ? »</p>
                <p>L'institutrice répondit:</p>
                <p>— « On parlera du verre demain, et assez loin d'ici.</p>
                <p>— « Où donc, Madame ?</p>
                <p>— « A <placeName>Saint-Gobain</placeName>, la grande manufacture, où nous allons voir mon père, et où
-                  nous vous emmènerons avec <persName>Jacques</persName>, si vos parents le permettent. »</p>
-               <p><persName>Jacques </persName>et petite <persName>Suzette </persName>battirent des mains </p>
+                  nous vous emmènerons avec <persName key="jacques" type="fictif">Jacques</persName>, si vos parents le permettent. »</p>
+               <p><persName key="jacques" type="fictif">Jacques </persName>et petite <persName key="suzette" type="fictif">Suzette </persName>battirent des mains </p>
                <pb n="60" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_16-09.jpg"/>
                <fw>60 L'ENFANCE DE SUZETTE.</fw>
                <p> en voyant papa et maman sourire à l'idée d'un voyage de leurs enfants à
                   <placeName>Saint-Gobain</placeName>, en si bonne compagnie.</p>
-               <p>— « Si vous le voulez bien, Madame, je vous prêterai ma carriole, » proposa <persName>M. Dumay</persName>. La partie fut arrangée tout de suite et l'on convint de l'heure
-                  du départ. <persName>M. François</persName> ne réclama pas. Il avait déjà quitté la table et jouait
-                  avec <persName>Charlot </persName>dans le jardin. [16] </p>
+               <p>— « Si vous le voulez bien, Madame, je vous prêterai ma carriole, » proposa <persName key="m_dumay" type="fictif">M. Dumay</persName>. La partie fut arrangée tout de suite et l'on convint de l'heure
+                  du départ. <persName key="françois" type="fictif">M. François</persName> ne réclama pas. Il avait déjà quitté la table et jouait
+                  avec <persName key="charlot" type="fictif">Charlot </persName>dans le jardin. [16] </p>
             </div>
             <div type="causerie">
                <p> [16] <label>CAUSERIE</label>: <term ana="grammaire">Grammaire</term>. — Que signifie le mot brut ? — Citez un
