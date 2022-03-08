@@ -188,7 +188,7 @@
                   parla, entre autres choses, de <placeName>Saint-Gobain</placeName>, de la vieille tour féodale de <placeName>Coucy</placeName>,
                   de l'excursion de l'année précédente, dont <persName key="jacques" type="fictif">Jacques</persName> et <persName key="suzette" type="fictif">Suzette</persName> avaient
                   encore le souvenir très frais.</p>
-               <p>— « Eh bien, dit <persName>M. Dumay</persName>, puisque les voyages vous intéressent tant, mes enfants,
+               <p>— « Eh bien, dit <persName key="m_dumay" type="fictif">M. Dumay</persName>, puisque les voyages vous intéressent tant, mes enfants,
                   si nous en fai- sions un autre ? J'ai vendu, l'an dernier, mon blé à
                   <placeName>Laon</placeName>, et je n'y ai pas fait une mauvaise affaire ; j'y retournerais
                   volontiers cette année, mais avec vous et avec <persName key="m_delorme" type="fictif">M.</persName> et <persName key="mme_delorme" type="fictif">Mme Delorme</persName>, s'ils
