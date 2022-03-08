@@ -78,7 +78,7 @@
                <p>Et vous savez que c'est là le moment pour les écoliers et les écolières de
                   montrer ce qu'il y a dans leurs petites têtes.</p>
                <p>Dieu merci ! notre petite <persName key="suzette" type="fictif">Suzette</persName> et son frère <persName key="jacques" type="fictif">Jacques</persName> n'étaient pas de ces
-                  élèves inattentifs, indifférents qui ne tirent aucun profit des leçons de leurs
+                  élèves <objectName ana="grammaire">inattentifs</objectName>, indifférents qui ne tirent aucun profit des leçons de leurs
                   maîtres.</p>
                <p>Ils étaient, au contraire, de ceux qu'on a comparés à de jeunes arbres
                   plantés en bon lieu, près des eaux vives, qui croissent, portent des fleurs et des
@@ -94,11 +94,11 @@
                <p>Il y eut grande joie à la maison. La maman embrassa ses chéris avec des larmes
                   dans les yeux et le papa, tout heureux, leur dit :</p>
                <p>— « A la bonne heure ! Les progrès de mes enfants me réjouissent autant que de bon
-                  blé dans mon grenier. Le blé, c'est le pain qui fait vivre le corps ; le
+                  blé dans mon grenier. <objectName ana="morale">Le blé, c'est le pain qui fait vivre le corps</objectName> ; le
                   savoir est un pain non moins précieux qui nourrit l'intelligence et la
-                  fortifie. Je suis content de toi, <persName key="jacques" type="fictif">Jacques</persName> ; je le suis aussi de ma petite <persName key="suzette" type="fictif">Suzette</persName>,
+                  fortifie. Je suis <objectName ana="grammaire">content</objectName> de toi, <persName key="jacques" type="fictif">Jacques</persName> ; je le suis aussi de ma petite <persName key="suzette" type="fictif">Suzette</persName>,
                   qui se montre à l'école ce que je la vois ici, pleine de bonne volonté, et je
-                  ne suis pas mécontent de <persName key="françois" type="fictif">François</persName>.</p>
+                  ne suis pas <objectName ana="grammaire">mécontent</objectName> de <persName key="françois" type="fictif">François</persName>.</p>
                <p>— « Oh ! papa, oh ! chère maman, si j'avais su vous faire tant de plaisir, je
                   me serais encore plus appliquée, dit <persName key="suzette" type="fictif">Suzette</persName>.</p>
                <p>— « Moi aussi, dit <persName key="jacques" type="fictif">Jacques</persName>.</p>
@@ -121,7 +121,7 @@
                <p>Il était de retour quelques instants après. </p>
                <p>L'instituteur et l'institutrice avaient accepté avec plaisir ; il était
                   même convenu qu'ils amène- raient un de leurs frères, arrivé la veille
-                  d'un grand voyage au loin, pour passer avec eux quelques jours de vacances.
+                  d'un grand voyage au loin, pour <objectName ana="grammaire">passer</objectName> avec eux quelques jours de vacances.
                   [12]</p>
 
             </div>
