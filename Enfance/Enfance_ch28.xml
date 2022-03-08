@@ -172,9 +172,9 @@
                <pb n="125" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_28-05.jpg"/>
                <fw>LES CERISES. 125</fw>
                <p> Elle en cueillit une première poignée et la jeta, par dessus la haie, dans le
-                  tablier de <persName>Charlot</persName> en disant : </p>
+                  tablier de <persName key="charlot" type="fictif">Charlot</persName> en disant : </p>
                <p>— « Tiens, petit, voilà pour ta peine. »</p>
-               <p><persName>Charlot</persName>, tout heureux, la remercia et retourna vers sa maison en criant :</p>
+               <p><persName key="charlot" type="fictif">Charlot</persName>, tout heureux, la remercia et retourna vers sa maison en criant :</p>
                <p>— « Des cerises ! j'ai des cerises ! »</p>
                <p>A ce beau mot, <persName>François</persName> accourut, les yeux bril- lants. Et prompt comme un chat,
                   il attrapa les fruits, puis s'enfuit sans s'inquiéter des pleurs de
