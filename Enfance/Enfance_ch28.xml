@@ -100,8 +100,7 @@
                <p>— « Quand tu les verras bien rouges. »</p>
                <p>A partir de ce moment <persName key="charlot" type="fictif">Charlot</persName> n'oublia guère d'aller regarder les deux
                   <objectName ana="histoire_naturelle">cerisiers</objectName>.</p>
-               <p>Il vit tomber les fleurs et, à leur place, apparaître les cerises, mais toutes
-                  petites, toutes vertes.</p>
+               <p><objectName ana="histoire_naturelle">Il vit tomber les fleurs et, à leur place, apparaître les cerises, mais toutes petites, toutes vertes.</objectName></p>
 
                <figure>
                   <caption>Le fraisier.</caption>
