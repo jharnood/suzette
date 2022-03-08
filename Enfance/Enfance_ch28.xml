@@ -198,11 +198,11 @@
                <fw>126 L'ENFANCE DE SUZETTE.</fw>
                <p> Celui-ci baissait la tête ; car vous le savez, il avait vite le regret de ses
                   fautes.</p>
-               <p><persName>Suzette</persName> était allée rejoindre <persName>Charlot</persName> et lui avait rendu les cerises.</p>
-               <p><persName>Charlot</persName>, en bon petit enfant qu'il était, dit alors : — « Mais je voulais
+               <p><persName key="suzette" type="fictif">Suzette</persName> était allée rejoindre <persName key="charlot" type="fictif">Charlot</persName> et lui avait rendu les cerises.</p>
+               <p><persName key="charlot" type="fictif">Charlot</persName>, en bon petit enfant qu'il était, dit alors : — « Mais je voulais
                   vous en donner à tous ! »</p>
                <p>Et il en tendit quelques-unes à son frère qui, tout confus, refusa en murmurant : </p>
-               <p>— « <persName>Charlot</persName> est plus gentil que moi.</p>
+               <p>— « <persName key="charlot" type="fictif">Charlot</persName> est plus gentil que moi.</p>
                <p>— « Oui, certes, reprit la maman, et il faut que tu apprennes à respecter le droit
                   du faible ; alors seulement tu pratiqueras la justice et la fraternité. » [28] </p>
 
