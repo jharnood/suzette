@@ -81,14 +81,14 @@
                   <caption>Poule couveuse.</caption>
                </figure>
 
-               <p>Voilà les jours qui réjouissent les gens laborieux ! <persName>Mme Dumay</persName>, debout dès
+               <p>Voilà les jours qui réjouissent les gens laborieux ! <persName key="mme_dumay" type="fictif">Mme Dumay</persName>, debout dès
                   l'aurore, élevait des cou- </p>
                <p> </p>
                <pb n="127" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_29-02.jpg"/>
                <fw>EN ÉTÉ. 127</fw>
                <p> vées de poulets, de canetons, d'oisons qui, plus tard, donneraient de ces
                   oeufs frais si nourrissants, de la volaille et, finalement, de l'argent.</p>
-               <p>Pour l'aider, petite <persName>Suzette</persName> sautait parfois du lit d'aussi bon matin
+               <p>Pour l'aider, petite <persName key="suzette" type="fictif">Suzette</persName> sautait parfois du lit d'aussi bon matin
                   que sa maman, et alors celle-ci lui remettait une corbeille pleine de millet :</p>
                <p>— « Va, mamie, distribuer à nos poussins nouvellement éclos ces menues graines ap-
                   propriées à leurs petits becs naissants. Moi, je m'occuperai des cou- veuses,
@@ -127,20 +127,20 @@
                   <caption>Le millet.<lb/> 1. Ensemble de la plante. 2. Grain de millet.</caption>
                </figure>
 
-               <p>Et pourtant les poussins de <persName>Suzette</persName> laissèrent là </p>
+               <p>Et pourtant les poussins de <persName key="suzette" type="fictif">Suzette</persName> laissèrent là </p>
 
                <pb n="129" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_29-04.jpg"/>
                <fw>EN ÉTÉ. 129</fw>
                <p>leur millet pour se jeter avidement sur le gros morceau inattendu ; chacun le
                   voulait ; et il fallait voir avec quelle ardeur ies petits frères se poursuivaient
-                  en cherchant à se l'arracher du bec tour à tour ! <persName>Suzette</persName> les mit tous
+                  en cherchant à se l'arracher du bec tour à tour ! <persName key="suzette" type="fictif">Suzette</persName> les mit tous
                   d'accord en ramassant le grain de maïs ; sans cela, les petits disputeurs en
                   eussent oublié de déjeuner.</p>
                <p> — « Eh ! dit alors la maman qui passait, ces petites bêtes viennent de nous
                   montrer la laideur de l'égoïste qui veut pour lui seul le gros morceau. Il y
                   a ainsi des gens qui, pour s'en emparer, oublient toute délicatesse, toute
                   réserve, toute raison.</p>
-               <p>— « Oui, ajouta <persName>Suzette</persName>, ils me rappellent aussi le chien de la fable que je
+               <p>— « Oui, ajouta <persName key="suzette" type="fictif">Suzette</persName>, ils me rappellent aussi le chien de la fable que je
                   lisais l'autre jour ; ce chien qui, tenant une proie, la vit représentée dans
                   l'eau et la lâcha pour attraper l'image. »</p>
                <p>Là-dessus, maman et fillette retournèrent à la maison pour y préparer le déjeuner
