@@ -74,9 +74,9 @@
 					</p>
 					<pb xmlns="" n="104" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_25-01.jpg"/>
 					<p xmlns="">A quelques jours de là, un soir que toute la famille était réunie pour la
-						veillée, petite <persName>Suzette</persName> dit :</p>
+						veillée, petite <persName key="suzette" type="fictif">Suzette</persName> dit :</p>
 
-					<p xmlns="">— « <persName>Mme Delorme</persName> nous a lu en classe une sorte de conte très intéressant. Elle
+					<p xmlns="">— « <persName key="mme_delorme" type="fictif">Mme Delorme</persName> nous a lu en classe une sorte de conte très intéressant. Elle
 						m'a prêté son livre ; voulez-vous entendre ce conte ? </p>
 
 					<pb xmlns="" n="105" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_25-02.jpg"/>
@@ -85,7 +85,7 @@
 						trop bas, ni trop vite ni trop lentement, sans mâcher tes mots et sans
 						oublier de t'arrêter un peu aux virgules, aux points, en tenant compte,
 						enfin, de tous les signes de ponctuation .</p>
-					<p xmlns="">—« J'essayerai, papa, » répondit <persName>Suzette</persName>. Et, après avoir toussé
+					<p xmlns="">—« J'essayerai, papa, » répondit <persName key="suzette" type="fictif">Suzette</persName>. Et, après avoir toussé
 						légèrement pour s'éclair- cir la voix, elle commença : </p>
 
 
@@ -220,7 +220,7 @@
 
 					<p xmlns="">C'est ce travail continué de génération en génération que nous appelons
 						le progrès.</p>
-					<p xmlns=""><persName>Suzette</persName> ayant achevé là sa lecture, le père dit à son tour :</p>
+					<p xmlns=""><persName key="suzette" type="fictif">Suzette</persName> ayant achevé là sa lecture, le père dit à son tour :</p>
 					<p xmlns="">— « Cet apologue, en nous représentant le travail d'une seule famille à
 						travers les siècles, veut nous montrer celui de toute l'humanité
 						marchant ainsi de découverte en découverte et </p>
