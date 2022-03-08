@@ -73,9 +73,9 @@
                </p>
                <pb n="121" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_28-01.jpg"/>
                <fw>LES CERISES. 121</fw>
-               <p> Le temps avait marché, faisant les veillées de plus en plus courtes. Un soir, <persName>M. Dumay</persName>, qui venait d'ouvrir l'almanach, dit : </p>
+               <p> Le temps avait marché, faisant les veillées de plus en plus courtes. Un soir, <persName key="m_dumay" type="fictif">M. Dumay</persName>, qui venait d'ouvrir l'almanach, dit : </p>
                <p>— « Ah ! c'est aujourd'hui l'équinoxe.</p>
-               <p>— « Qu'est-ce que l'équinoxe, papa ? demanda <persName>François</persName>.</p>
+               <p>— « Qu'est-ce que l'équinoxe, papa ? demanda <persName key="françois" type="fictif">François</persName>.</p>
                <p>— « C'est le moment de l'année où les jours sont égaux aux nuits, douze
                   heures de jour et douze heures de nuit. L'équinoxe arrive deux fois par an :
                   le 22 septembre, où commence l'automne, et le 21 mars, premier jour de
@@ -84,12 +84,12 @@
                   les longs jours, la saison des fraises, des violettes et des tendres verdures.</p>
                <p>Bientôt, en effet, tout sembla renaître. Les jardins reverdirent, s'égayèrent
                   de chants d'oiseaux ; les arbres fruitiers se couvrirent de fleurs.</p>
-               <p>Dans celui de <persName>Ludivine</persName> il y avait deux cerisiers.</p>
-               <p>— « Ah ! dit <persName>Suzette</persName>, un jour que, par-dessus la haie, elle les contemplait en
-                  compagnie de <persName>Charlot</persName>, ah ! <persName>Ludivine</persName>, qu'ils sont jolis vos arbres ! avec
+               <p>Dans celui de <persName key="ludivine" type="fictif">Ludivine</persName> il y avait deux cerisiers.</p>
+               <p>— « Ah ! dit <persName key="suzette" type="fictif">Suzette</persName>, un jour que, par-dessus la haie, elle les contemplait en
+                  compagnie de <persName key="charlot" type="fictif">Charlot</persName>, ah ! <persName key="ludivine" type="fictif">Ludivine</persName>, qu'ils sont jolis vos arbres ! avec
                   leurs fleurs blanches, on dirait deux grands bouquets. »</p>
-               <p>Et comme <persName>Charlot</persName> demandait de ces belles fleurs :</p>
-               <p>« Oh non ! répondit <persName>Suzette</persName>, car chacune d'elles sera plus tard une cerise.
+               <p>Et comme <persName key="charlot" type="fictif">Charlot</persName> demandait de ces belles fleurs :</p>
+               <p>« Oh non ! répondit <persName key="suzette" type="fictif">Suzette</persName>, car chacune d'elles sera plus tard une cerise.
                   Il ne faut pas sacrifier </p>
                <pb n="122" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_28-02.jpg"/>
                <fw>122 L'ENFANCE DE SUZETTE.</fw>
