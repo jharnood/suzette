@@ -73,7 +73,7 @@
                </p>
                <pb n="121" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_28-01.jpg"/>
                <fw>LES CERISES. 121</fw>
-               <p> Le temps avait marché, faisant les veillées de plus en plus courtes. Un soir, <persName key="m_dumay" type="fictif">M. Dumay</persName>, qui venait d'ouvrir l'almanach, dit : </p>
+               <p> <objectName ana="connaissances_usuelles">Le temps avait marché, faisant les veillées de plus en plus courtes</objectName>. Un soir, <persName key="m_dumay" type="fictif">M. Dumay</persName>, qui venait d'ouvrir <objectName ana="connaissances_usuelles">l'almanach</objectName>, dit : </p>
                <p>— « Ah ! c'est aujourd'hui <objectName ana="cosmographie">l'équinoxe</objectName>.</p>
                <p>— « Qu'est-ce que <objectName ana="cosmographie">l'équinoxe</objectName>, papa ? demanda <persName key="françois" type="fictif">François</persName>.</p>
                <p>— « C'est le moment de l'année où les jours sont égaux aux nuits, douze
@@ -82,8 +82,7 @@
                   <objectName ana="cosmographie">printemps</objectName>. Nous sommes aujourd'hui <objectName ana="cosmographie">le 21 mars</objectName>. »</p>
                <p>Les enfants battirent des mains. Ils allaient donc revoir <objectName ana="cosmographie">le printemps</objectName>, le soleil,
                   les longs jours, la saison des fraises, des violettes et des tendres verdures.</p>
-               <p>Bientôt, en effet, tout sembla renaître. Les jardins reverdirent, s'égayèrent
-                  de chants d'oiseaux ; les arbres fruitiers se couvrirent de fleurs.</p>
+               <p><objectName ana="connaissances_usuelles">Bientôt, en effet, tout sembla renaître. Les jardins reverdirent, s'égayèrent de chants d'oiseaux ; les arbres fruitiers se couvrirent de fleurs.</objectName></p>
                <p>Dans celui de <persName key="ludivine" type="fictif">Ludivine</persName> il y avait deux cerisiers.</p>
                <p>— « Ah ! dit <persName key="suzette" type="fictif">Suzette</persName>, un jour que, par-dessus la haie, elle les contemplait en
                   compagnie de <persName key="charlot" type="fictif">Charlot</persName>, ah ! <persName key="ludivine" type="fictif">Ludivine</persName>, qu'ils sont jolis vos arbres ! avec
