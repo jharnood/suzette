@@ -126,7 +126,7 @@
                   l'histoire de la faïence et de la porcelaine, demanda si l'usage du
                   verre dans le monde était fort ancien.</p>
                <p><persName key="m_delorme" type="fictif">M. Delorme</persName> répondit :</p>
-               <p>— « Il y a, dans un musée d'An- gleterre, un grain de collier de verre qui,
+               <p>— « Il y a, dans un <objectName ana="connaissances_usuelles">musée</objectName> d'An- gleterre, un grain de collier de verre qui,
                   d'après l'inscription en écriture égyptienne qu'il porte, a
                   appartenu à une reine d'Égypte, nommée Ra-ma-ka. Ra-ma-ka vivait quinze cents
                   ans avant notre ère. Ce grain de verre a donc près de trois mille cinq cents
@@ -137,7 +137,7 @@
                      égyptienne.</caption>
                </figure>
 
-               <p>« Les Romains eurent aussi des verreries Ils en créèrent en <placeName>Gaule</placeName> après leur
+               <p>« Les Romains eurent aussi des <objectName ana="histoire"><objectName ana="menage">verreries</objectName></objectName> Ils en créèrent en <placeName>Gaule</placeName> après leur
                   conquête de ce pays qui est le nôtre.</p>
 
                <figure>
@@ -195,14 +195,14 @@
             </div>
             <div type="causerie">
                <p>[18] <label>CAUSERIE</label> : <term ana="connaissances_usuelles">Connaissances usuelles</term>. — Qu'est-ce qu'un
-                     <emph>musée</emph> ?</p>
-               <p><term ana="histoire">Histoire</term>. — Quel est le plus ancien objet de verrerie que l'on connaisse ? —
+                     <emph><objectName ana="connaissances_usuelles">musée</objectName></emph> ?</p>
+               <p><term ana="histoire">Histoire</term>. — Quel est le plus ancien objet de <objectName ana="histoire">verrerie</objectName> que l'on connaisse ? —
                   Quel événement historique fit disparaître en <placeName>France</placeName> l'art de la verrerie ? —
                   Quel autre événement historique ramena, au moyen ge, l'art de la verrerie en
                   <placeName>France</placeName> ?— Quelles sont les oeuvres qui nous restent des verriers du moyen age ? —
                   Qu'est-ce qui tenait lieu de vitres aux fenêtres des maisons jusqu'au
                   siècle dernier ?</p>
-               <p><term ana="menage">Ménage</term>. — Citez les principaux objets de verrerie d'un ménage. — Pourquoi
+               <p><term ana="menage">Ménage</term>. — Citez les principaux objets de <objectName ana="menage">verrerie</objectName> d'un ménage. — Pourquoi
                   met-on aux lampes des cheminées de verre et non de métal ?</p>
             </div>
          </div>
