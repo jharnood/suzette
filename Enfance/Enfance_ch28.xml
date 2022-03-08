@@ -125,7 +125,7 @@
                <fw>LES CERISES. 123</fw>
                <p> Au second arbre était déjà accroché un autre mannequin, celui-ci en vieux
                   cotillon rouge et en bonnet de femme.</p>
-               <p>— « Ces petits coquins de loriots et de merles, dit <persName>Ludivine</persName>, se sont déjà mis à
+               <p>— « Ces petits coquins de loriots et de merles, dit <persName key="ludivine" type="fictif">Ludivine</persName>, se sont déjà mis à
                   becqueter nos cerises. Si nous les laissions faire, ils ne nous en laisseraient
                   que les noyaux, Aussi, comme nous n'avons pas le temps, mon père et moi, de
                   monter ici la garde, je mets ces épouvantails pour nous remplacer.</p>
@@ -138,8 +138,8 @@
                   <caption>Le merle.</caption>
                </figure>
 
-               <p>— « Alors, dit <persName>Charlot</persName>, les loriots et les merles croiront que ce bonnet et ce
-                  chapeau au bout de deux bâtons, c'est vous et le père <persName>Benoit</persName> ?</p>
+               <p>— « Alors, dit <persName key="charlot" type="fictif">Charlot</persName>, les loriots et les merles croiront que ce bonnet et ce
+                  chapeau au bout de deux bâtons, c'est vous et le père <persName key="benoît" type="fictif">Benoit</persName> ?</p>
                <p>— « Mais oui, ils le croiront, au moins « un peu. »</p>
                <p>Et, en effet, les oiseaux ne le crurent « qu'un peu ». Car, dès le
                   surlendemain, <persName>Charlot</persName> vit un gros merle qui, perché sur le bonnet même de la
