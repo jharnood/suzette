@@ -84,11 +84,11 @@
 					<fw>UNE BONNE JOURNEE. 19</fw>
 					<p> laisser entrer l'air pur du matin, ce qui est, vous le savez, un des
 						commandements de l'hygiène.</p>
-					<p>Après avoir rangé tout ce qui traînait, petite <persName>Suzette</persName> alla repasser sa leçon
+					<p>Après avoir rangé tout ce qui traînait, petite <persName key="suzette" type="fictif">Suzette</persName> alla repasser sa leçon
 						qu'elle sut bien vite. Au réveil, la mémoire est reposée, fraî- che et
 						garde facilement ce qu'on lui confie.</p>
 					<p>— « Maintenant, qu'est-ce que je vais faire ? se demanda la petite
-						fille. Voyons... si je cirais les souliers de <persName>François</persName> et de <persName>Charlot</persName> qui
+						fille. Voyons... si je cirais les souliers de <persName key="françois" type="fictif">François</persName> et de <persName key="charlot" type="fictif">Charlot</persName> qui
 						sont trop petits pour les cirer euxmêmes ? »</p>
 					<figure>
 						<caption>Elle releva ses manches, mit un tablier de cuisine et cira les
@@ -103,13 +103,13 @@
 					<pb n="20" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_07-03.jpg"/>
 					<fw>20 L'ENFANCE DE SUZETTE.</fw>
 					<p> voulait sauter par-dessus les bords de la casserole ; mais, halte-là !
-						petite <persName>Suzette</persName> veillait. Elle savait que pour arrêter le lait bouillant qui
+						petite <persName key="suzette" type="fictif">Suzette</persName> veillait. Elle savait que pour arrêter le lait bouillant qui
 						monte, il suffit de plonger dedans une cuiller froide. C'est ce
 						qu'elle s'empressa de faire ; puis elle ôta la casserole du feu
 						sans qu'une goutte se répandît.</p>
 					<p>Et sa volonté de bien faire l'accompagna à l'école. Sa voisine de
 						classe eut beau parler, bavarder à son oreille, elle en fut pour ses frais :
-						<persName>Suzette</persName> ne l'écouta pas.</p>
+						<persName key="suzette" type="fictif">Suzette</persName> ne l'écouta pas.</p>
 					<p>Elle fut toute aux leçons de la maîtresse. [7] </p>
 				</div>
 				<div type="causerie">
@@ -118,11 +118,11 @@
 					<p><term ana="histoire_naturelle">Histoire naturelle</term>. — Qu'est-ce que les dents ? les ongles ? </p>
 					<p><term ana="menage">Ménage</term>. — Connaissez-vous un moyen d'arrêter vivement le lait bouillant
 						qui se sauve ? </p>
-					<p><term ana="morale">Morale</term>. — Que montre la résolution prise par la petite <persName>Suzette</persName> à son réveil ?
+					<p><term ana="morale">Morale</term>. — Que montre la résolution prise par la petite Suzette à son réveil ?
 						— Quel devoir remplissait-elle en cirant les souliers de ses petits frères à
 						la place de sa maman ? — En rangeant sa chambre avant d'en sortir, et
 						en mettant devant elle un tablier de cuisine pour cirer les souliers, de
-						quelles qualités petite <persName>Suzette</persName> faisait-elle preuve ? </p>
+						quelles qualités petite Suzette faisait-elle preuve ? </p>
 				</div>
 			</div>
 		</body>
