@@ -83,10 +83,10 @@
                <p>Les enfants battirent des mains. Ils allaient donc revoir <objectName ana="cosmographie">le printemps</objectName>, le soleil,
                   les longs jours, la saison des fraises, des violettes et des tendres verdures.</p>
                <p><objectName ana="connaissances_usuelles">Bientôt, en effet, tout sembla renaître. Les jardins reverdirent, s'égayèrent de chants d'oiseaux ; les arbres fruitiers se couvrirent de fleurs.</objectName></p>
-               <p>Dans celui de <persName key="ludivine" type="fictif">Ludivine</persName> il y avait deux cerisiers.</p>
+               <p>Dans celui de <persName key="ludivine" type="fictif">Ludivine</persName> il y avait deux <objectName ana="histoire_naturelle">cerisiers</objectName>.</p>
                <p>— « Ah ! dit <persName key="suzette" type="fictif">Suzette</persName>, un jour que, par-dessus la haie, elle les contemplait en
                   compagnie de <persName key="charlot" type="fictif">Charlot</persName>, ah ! <persName key="ludivine" type="fictif">Ludivine</persName>, qu'ils sont jolis vos arbres ! avec
-                  leurs fleurs blanches, on dirait deux grands bouquets. »</p>
+                  <objectName ana="histoire_naturelle">leurs fleurs blanches</objectName>, on dirait deux grands bouquets. »</p>
                <p>Et comme <persName key="charlot" type="fictif">Charlot</persName> demandait de ces belles fleurs :</p>
                <p>« Oh non ! répondit <persName key="suzette" type="fictif">Suzette</persName>, car chacune d'elles sera plus tard une cerise.
                   Il ne faut pas sacrifier </p>
@@ -99,7 +99,7 @@
                <p>— « Et quand seront-elles mûres? dit <persName key="charlot" type="fictif">Charlot</persName>.</p>
                <p>— « Quand tu les verras bien rouges. »</p>
                <p>A partir de ce moment <persName key="charlot" type="fictif">Charlot</persName> n'oublia guère d'aller regarder les deux
-                  cerisiers.</p>
+                  <objectName ana="histoire_naturelle">cerisiers</objectName>.</p>
                <p>Il vit tomber les fleurs et, à leur place, apparaître les cerises, mais toutes
                   petites, toutes vertes.</p>
 
