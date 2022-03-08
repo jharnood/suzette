@@ -128,7 +128,8 @@
 				</figure>
 					
 			
-				<lb/>contrebande*<gloss>Contrebande. Faire entrer ou passer des marchandises sans payer les droits ; ici, agir en cachant ce qu'on fait.</gloss> son temps sur les arbres, ou dessous, à 
+				<lb/>contrebande*<gloss>Contrebande. Faire entrer ou passer des marchandises sans payer les droits ; ici, agir en cachant ce qu'on fait.</gloss> 
+					son temps sur les arbres, ou dessous, à 
 				<lb/>dresser des ap-
 				<lb/>peaux*<gloss>Appeaux. Plèges tendus aux oiseaux.</gloss>, et <persName type="fictif" key="charlot">Charlot</persName> 
 				<lb/>consacrait le sien 
@@ -207,7 +208,7 @@
 				<div2 type="questionnaire">
 				<head>Questionnaire.</head> 
 				<list>	
-				<item>— Qu&apos;espérait <persName type="fictif" key="suzette">Suzette</persName>, devenue maîtresse de maison ?</item> 
+				<item>— Qu&apos;espérait <persName type="fictif" key="suzette">Suzette</persName>, devenue maîtresse de maison ? </item> 
 				<item>— Comment était-elle au matin du premier jour où elle prit la direction du ménage ? </item>
 				<item>— Où et à qui fallait-il faire sentir la main ? </item>
 				<item>— Que faisait <persName type="fictif" key="jacques">Jacques</persName> ? </item>
@@ -239,7 +240,7 @@
 				<lb/>à dénicher les oiseaux, plaisir imbécile et cruel ; puis il déchirait ses 
 				<lb/>vêtements en grimpant aux arbres, ce qui constituait pour son père 
 				<lb/>un surcroit de dépenses, et pour <persName type="fictif" key="suzette">Suzette</persName> le motif d&apos;un travail fatigant.</p>
-				<p>Sa conduite à l&apos;égard de <persName type="fictif" key="suzette">Charlot</persName> est très blâmable ; en qualité d&apos;aîné, 
+				<p>Sa conduite à l&apos;égard de <persName type="fictif" key="charlot">Charlot</persName> est très blâmable ; en qualité d&apos;aîné, 
 				<lb/>il était tenu de donner de bons exemples au pauvre petit orphelin, 
 				<lb/>et, loin de là, il l&apos;accoutumait à la paresse tout en l&apos;excitant à la 
 				<lb/>rébellion contre leur sœur. Cette façon d&apos;agir était d&apos;autant plus cou-
@@ -253,7 +254,7 @@
 				</div4>	
 				</div3>
 				<div3 type="économie_domestique">
-				<p>Économie domestique.</p> 
+				<head>Économie domestique.</head> 
 				<div4 type="questions">
 				<list>	
 				<item>— Dites ce qu&apos;est une basse-cour et quels animaux la peuplent.</item> 
@@ -314,18 +315,18 @@
 				</list>	
 				</div4>	
 				<div4 type="réponses">	
-				<p><persName type="historique">Dagobert</persName>, roi des Francs, gouverna d&apos;abord l&apos;<placeName>Austrasie</placeName> au nom de 
+				<p><persName type="historique">Dagobert</persName>, roi des Francs, gouverna d&apos;abord l&apos;<placeName type="réel"><bloc ref="europe">Austrasie</bloc></placeName> au nom de 
 				<lb/>son père <persName type="historique">Clotaire II</persName>. Il lui succéda en 631, et posséda de plus la 
-				<lb/><placeName>Neustrie</placeName>. Le reste de la <placeName>France</placeName>, connu sous le nom d&apos;<placeName>Aquitaine</placeName>, ne 
+				<lb/><placeName type="réel"><bloc type="europe">Neustrie</bloc>></placeName>. Le reste de la <placeName type="réel"><bloc ref="europe"><country ref="france">France</country></bloc></placeName>, connu sous le nom d&apos;<placeName type="réel"><bloc ref="europe"><country ref="france"><region ref="aquitaine">Aquitaine</region></country></bloc></placeName>, ne 
 				<lb/>lui advint qu&apos;après la mort de son frère <persName type="historique">Charibert</persName>.</p>
 				<p><persName type="historique">Dagobert</persName> fut un roi magnifique : la splendeur de sa cour frappa à 
 				<lb/>tel point les populations barbares, que le souvenir de son règne est 
 				<lb/>resté vivant dans la mémoire du peuple. Il eut une conduite peu 
 				<lb/>exemplaire, et il crut obtenir le pardon de ses fautes par des dons 
 				<lb/>considérables aux églises ; on lui doit la fondation de l&apos;abbaye de 
-				<lb/><placeName>Saint-Denis</placeName>, où dorénavant furent inhumés les rois.</p>
+				<lb/><placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="saint_denis">Saint-Denis</settlement></country></bloc></placeName>, où dorénavant furent inhumés les rois.</p>
 				<p>Entouré d&apos;habiles ministres, parmi lesquels nous citerons l&apos;orfèvre 
-				<lb/>saint <persName type="historique">Eloi</persName> (588-659), qui devint évêque de <placeName>Noyon</placeName>, <persName type="historique">Dagobert</persName> maintint 
+				<lb/>saint <persName type="historique">Eloi</persName> (588-659), qui devint évêque de <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="noyon">Noyon</settlement></country></bloc></placeName>, <persName type="historique">Dagobert</persName> maintint 
 				<lb/>son autorité sur les peuples tributaires. On lui reproche le massacre 
 				<lb/>de dix mille Bulgares, qui avaient demandé et obtenu asile dans le 
 				<lb/>royaume. Il mourut prématurément en 638, après un règne de dix ans.</p>
