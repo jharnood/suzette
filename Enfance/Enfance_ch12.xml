@@ -88,7 +88,7 @@
                <fw>RÉCOMPENSES. 37</fw>
                <p> et, un soir, ils arrivèrent radieux à la maison, portant chacun un joli
                   livre.</p>
-               <p><persName>M. François</persName>, pour sa part, avait gagné une image. Vous pensez bien que ce
+               <p><persName key="françois" type="fictif">M. François</persName>, pour sa part, avait gagné une image. Vous pensez bien que ce
                   n'était pas pour avoir déchiré sa blouse en grimpant aux arbres après les
                   petits chats ; c'était pour avoir lu sans faute tout l'alphabet.</p>
                <p>Il y eut grande joie à la maison. La maman embrassa ses chéris avec des larmes
@@ -96,7 +96,7 @@
                <p>— « A la bonne heure ! Les progrès de mes enfants me réjouissent autant que de bon
                   blé dans mon grenier. Le blé, c'est le pain qui fait vivre le corps ; le
                   savoir est un pain non moins précieux qui nourrit l'intelligence et la
-                  fortifie. Je suis content de toi, <persName>Jacques</persName> ; je le suis aussi de ma petite <persName>Suzette</persName>,
+                  fortifie. Je suis content de toi, <persName key="jacques" type="fictif">Jacques</persName> ; je le suis aussi de ma petite <persName key="suzette" type="fictif">Suzette</persName>,
                   qui se montre à l'école ce que je la vois ici, pleine de bonne volonté, et je
                   ne suis pas mécontent de <persName>François</persName>.</p>
                <p>— « Oh ! papa, oh ! chère maman, si j'avais su vous faire tant de plaisir, je
