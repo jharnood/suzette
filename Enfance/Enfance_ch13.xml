@@ -74,26 +74,26 @@
 				   <pb xmlns="" n="38" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_13-01.jpg"/>
 				   <p xmlns="">
 				      
-				      La petite <persName xmlns="">Suzette</persName> mit la nappe et, dessus, les
+				      La petite <persName xmlns=""><persName xmlns="" key="suzette">Suzette</persName></persName> mit la nappe et, dessus, les
 				   </p>
 				   <pb xmlns="" n="39" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_13-02.jpg"/>
 				   <fw xmlns="">UN DINER DE FÊTE. 39</fw>
 				   <p xmlns="">
 				      
-				      assiettes de faïence blanche, les couverts de 
+				      assiettes de faïence blanche, les <objectName xmlns="" ana="grammaire">couverts</objectName> de 
 				      métal brillant, les couteaux aux lames bien nettes, 
 				      les verres, deux carafes de bière, les salières.</p>
 				      <p xmlns="">Aux deux bouts de la table, elle plaça un bouquet 
 				      de roses et de réséda qui parfumèrent la salle à 
 				      manger.</p>
 				   <figure xmlns="">
-				      <caption xmlns="">La petite <persName xmlns="">Suzette</persName> mit la nappe.</caption>
+				      <caption xmlns="">La petite Suzette mit la nappe.</caption>
 				   </figure>
 				      <p xmlns="">Y a-t-il rien de plus joli, 
 				      de plus accueillant qu'un couvert brillant de 
 				      propreté et orné de fleurs?</p>
-				      <p xmlns="">L'institutrice, <persName xmlns="">Mme Delorme</persName>, qui venait d'arriver, félicita la petite <persName xmlns="">Suzette</persName> pendant que <persName xmlns="">M. De- lorme</persName> présentait à toute la famille son frère le 
-				      voyageur, <persName xmlns="">M. Adrien</persName>.
+				      <p xmlns="">L'institutrice, <persName xmlns=""><persName xmlns="" key="mme_delorme">Mme Delorme</persName></persName>, qui venait d'arriver, félicita la petite <persName xmlns=""><persName xmlns="" key="suzette">Suzette</persName></persName> pendant que <persName xmlns=""><persName xmlns="" key="m_delorme">M. De- lorme</persName></persName> présentait à toute la famille son frère le 
+				      voyageur, <persName xmlns=""><persName xmlns="" key="m_adrien">M. Adrien</persName></persName>.
 				   </p>
 		
 				   <pb xmlns="" n="40" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_13-03.jpg"/>
@@ -102,18 +102,18 @@
 				   <p xmlns="">
 				      
 				      Ludivine, venue pour aider <persName xmlns="">Mme Dumay</persName>, et 
-				      aussi pour s'occuper du petit <persName xmlns="">Charlot</persName>, qui n'aimait pas à rester longtemps en place, entendit 
-				      les compliments que faisait <persName xmlns="">Mme Delorme</persName> à <persName xmlns="">Suzette</persName> 
+				      aussi pour s'occuper du petit <persName xmlns=""><persName xmlns="" key="charlot">Charlot</persName></persName>, qui n'aimait pas à rester longtemps en place, entendit 
+				      les compliments que faisait <persName xmlns=""><persName xmlns="" key="mme_delorme">Mme Delorme</persName></persName> à <persName xmlns=""><persName xmlns="" key="suzette">Suzette</persName></persName> 
 				      sur son couvert si bien 
 				      mis.</p>
-				      <p xmlns="">— « Mon père, <persName xmlns="">Benoît</persName>, 
+				      <p xmlns="">— « Mon père, <persName xmlns=""><persName xmlns="" key="benoît">Benoît</persName></persName>, 
 				      dit-elle, m'a conté que 
 				      de son temps les riches 
 				      bourgeois seuls voyaient 
 				      sur leur table du linge, 
 				      de la vaisselle fine et 
 				      de la verrerie. Chez ses 
-				      parents, le pétrin servait 
+				      parents, le <objectName xmlns="" ana="menage">pétrin</objectName> servait 
 				      de table à manger.</p>
 				   
 				   <figure xmlns="">
@@ -125,10 +125,10 @@
 				         comme d'une table à manger.</caption>
 				   </figure>
 				   
-				      <p xmlns="">« La ménagère y posait des écuelles de bois 
+				      <p xmlns="">« La ménagère y posait des <objectName xmlns="" ana="menage">écuelles</objectName> de bois 
 				      ou de terre, après les 
-				      avoir remplies au chaudron pendu à la crémaillère, au-dessus de 
-				      l'âtre; et l'on buvait 
+				      avoir remplies au <objectName xmlns="" ana="menage">chaudron</objectName> pendu à la <objectName xmlns="" ana="menage">crémaillère</objectName>, au-dessus de 
+				      <objectName xmlns="" ana="menage">l'âtre</objectName>; et l'on buvait 
 				      dans des gobelets d'étain ou de fer-blanc.</p>
 				      <p xmlns="">— « Qui, dit l'instituteur, l'usage de la
 				      faïence, de la porcelaine et du verre ne date 
@@ -142,16 +142,16 @@
 				   <p xmlns="">
 				       
 				      et lorsque la soupe fut mangée, l'instituteur, à 
-				      la demande de <persName xmlns="">M. Dumay</persName>, reprit :</p>
-				      <p xmlns="">—« La fabrication de la faience, qui n'est qu'une 
-				      poterie d'argile 
+				      la demande de <persName xmlns=""><persName xmlns="" key="mme_dumay"><persName xmlns="" key="m_dumay">M. Dumay</persName></persName></persName>, reprit :</p>
+				      <p xmlns="">—« La fabrication de la <objectName xmlns="" ana="industrie"><objectName xmlns="" ana="histoire">faience</objectName></objectName>, qui n'est qu'une 
+				      <objectName xmlns="" ana="industrie">poterie</objectName> d'argile 
 				      recouverte d'émail blanc très 
 				      brillant et cuite 
 				      au four, date 
 				      chez nous du 
 				      seizième siècle.
 				      « Celle de la 
-				      porcelaine, autre genre de 
+				      <objectName xmlns="" ana="industrie"><objectName xmlns="" ana="histoire">porcelaine</objectName></objectName>, autre genre de 
 				      poterie pétrie 
 				      avec une terre
 				      très blanche appelée kaolin, et qui, à la cuisson du 
@@ -159,8 +159,8 @@
 				      pas à cent années.</p>
 				   
 				   
-				      <p xmlns="">— « Et la grosse poterie, les marmites, les 
-				      poêlons ? demanda <persName xmlns="">Jacques</persName>.
+				      <p xmlns="">— « Et la grosse poterie, les <objectName xmlns="" ana="industrie">marmites</objectName>, les 
+				      <objectName xmlns="" ana="industrie">poêlons</objectName> ? demanda <persName xmlns=""><persName xmlns="" key="jacques">Jacques</persName></persName>.
 				   </p>
 				   
 				   <figure xmlns="">
@@ -184,8 +184,8 @@
 				      <p xmlns="">L'institutrice regarda son mari, qui répondit en 
 				      souriant : </p>
 				      <p xmlns="">— « Le verre, on vous en parlera bientôt.</p>
-				      <p xmlns="">— « <persName xmlns="">Jacques</persName>, il faut laisser ton maître manger 
-				      un peu, dit <persName xmlns="">Mme Dumay</persName> ; ton assiette est vide, la 
+				      <p xmlns="">— « <persName xmlns=""><persName xmlns="" key="jacques">Jacques</persName></persName>, il faut laisser ton maître manger 
+				      un peu, dit <persName xmlns=""><persName xmlns="" key="mme_dumay">Mme Dumay</persName></persName> ; ton assiette est vide, la 
 				      sienne encore pleine. » [13]</p>					
 				</div>
 				<div xmlns="" type="causerie">
