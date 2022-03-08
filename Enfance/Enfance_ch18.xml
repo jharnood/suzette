@@ -74,12 +74,12 @@
                <pb n="66" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_18-01.jpg"/>
                <p> On entra dans un autre bâtiment où se voyaient, comme dans le premier, des fours
                   embrasés, devant lesquels, sur une estrade, des ouvriers tra- vaillaient.</p>
-               <p>Un de ces ouvriers plongea dans le four près de lui une longue canne de fer
+               <p>Un de ces <objectName ana="histoire">ouvriers</objectName> plongea dans le four près de lui une longue canne de fer
                   creuse, puis l'en retira. Elle portait à son extrémité une grosse goutte de
                   verre en fusion.</p>
                <p>Il passa la canne à un second ouvrier qui, par l'autre extrémité, se mit à
                   souffler dedans comme dans une trompette, si bien que sous son souffle la goutte
-                  de verre se gonfla.</p>
+                  de <objectName ana="menage">verre</objectName> se gonfla.</p>
                <p>Il l'emprisonna alors dans un moule, tout en continuant de souffler. Quelques
                   instants après, il ouvrait le moule, et en tirait une jolie carafe qu'il
                   termina en quelques coups de ciseaux. En effet, tant que le verre n'est pas
@@ -199,11 +199,11 @@
                <p><term ana="histoire">Histoire</term>. — Quel est le plus ancien objet de <objectName ana="histoire">verrerie</objectName> que l'on connaisse ? —
                   Quel événement historique fit disparaître en <placeName>France</placeName> l'art de la verrerie ? —
                   Quel autre événement historique ramena, au moyen ge, l'art de la verrerie en
-                  <placeName>France</placeName> ?— Quelles sont les oeuvres qui nous restent des verriers du moyen age ? —
+                  <placeName>France</placeName> ?— Quelles sont <objectName ana="histoire">les oeuvres</objectName> qui nous restent des verriers du moyen age ? —
                   Qu'est-ce qui tenait lieu de vitres aux fenêtres des maisons jusqu'au
                   siècle dernier ?</p>
                <p><term ana="menage">Ménage</term>. — Citez les principaux objets de <objectName ana="menage">verrerie</objectName> d'un ménage. — Pourquoi
-                  met-on aux lampes des cheminées de verre et non de métal ?</p>
+                  met-on aux lampes des cheminées de <objectName ana="menage">verre</objectName> et non de métal ?</p>
             </div>
          </div>
       </body>
