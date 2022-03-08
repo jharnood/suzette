@@ -73,27 +73,27 @@
                </p>
                <pb xmlns="" n="31" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_11-01.jpg"/>
 
-               <p xmlns=""> <persName xmlns="">Mme Dumay</persName> finissait de parler quand <persName xmlns="">Ludivine</persName> entra. <persName xmlns="">Ludivine</persName> était cette voisine
-                  que petite <persName xmlns="">Suzette</persName> avait regardé passer, au lieu d'écrire soigneusement sa
+               <p xmlns=""> <persName xmlns=""><persName xmlns="" key="mme_dumay">Mme Dumay</persName></persName> finissait de parler quand <persName xmlns=""><persName xmlns="" key="ludivine">Ludivine</persName></persName> entra. <persName xmlns=""><persName xmlns="" key="ludivine">Ludivine</persName></persName> était cette voisine
+                  que petite <persName xmlns=""><persName xmlns="" key="suzette">Suzette</persName></persName> avait regardé passer, au lieu d'écrire soigneusement sa
                   seconde ligne ; vous vous rappelez ?</p>
-               <p xmlns=""><persName xmlns="">Ludivine</persName> avait perdu son mari et demeurait chez son père avec sa petite fille <persName xmlns="">Lisa</persName>
-                  et son petit garçon <persName xmlns="">Vincent</persName>, un peu plus âgé que <persName xmlns="">François</persName> et fort gamin.</p>
-               <p xmlns=""><persName xmlns="">François </persName>demanda : — « Vous n'avez pas amené <persName xmlns="">Vincent</persName> ? » </p>
+               <p xmlns=""><persName xmlns=""><persName xmlns="" key="ludivine">Ludivine</persName></persName> avait perdu son mari et demeurait chez son père avec sa petite fille <persName xmlns=""><persName xmlns="" key="lisa">Lisa</persName></persName>
+                  et son petit garçon <persName xmlns=""><persName xmlns="" key="vincent">Vincent</persName></persName>, un peu plus âgé que <persName xmlns=""><persName xmlns="" key="françois">François</persName></persName> et fort gamin.</p>
+               <p xmlns=""><persName xmlns=""><persName xmlns="" key="françois">François</persName> </persName>demanda : — « Vous n'avez pas amené <persName xmlns=""><persName xmlns="" key="vincent">Vincent</persName></persName> ? » </p>
                <pb xmlns="" n="32" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_11-02.jpg"/>
                <fw xmlns="">32 L'ENFANCE DE SUZETTE.</fw>
                <p xmlns=""> Elle répondit avec vivacité :</p>
-               <p xmlns="">— « <persName xmlns="">Vincent</persName> ? Il est déjà au lit faute de vêtements pour s'habiller.
+               <p xmlns="">— « <persName xmlns=""><persName xmlns="" key="vincent">Vincent</persName></persName> ? Il est déjà au lit faute de vêtements pour s'habiller.
                   Imaginez-vous que ce garnement a eu l'idée de faire la chasse à nos oies dans
                   la mare où il s'est trempé jusqu'aux os. Ses habits du dimanche étaient
                   déjà au baquet depuis hier, ceux de tous les jours sont allés les rejoindre.</p>
                <p xmlns="">« Mais le pire, c'est qu'une de ses galoches est restée au fond de la
                   vase ! ... une galoche toute neuve, à deux francs cinquante la paire ! — «  Comme
-                  une galoche ne va pas sans l'autre, dit <persName xmlns="">Mme Dumay</persName>, vous pouvez même dire que
+                  une galoche ne va pas sans l'autre, dit <persName xmlns=""><persName xmlns="" key="mme_dumay">Mme Dumay</persName></persName>, vous pouvez même dire que
                   celle qui est perdue vaut à elle seule deux francs cinquante. » </p>
-               <p xmlns=""><persName xmlns="">Ludivine</persName> se mit à soupirer : </p>
+               <p xmlns=""><persName xmlns=""><persName xmlns="" key="ludivine">Ludivine</persName></persName> se mit à soupirer : </p>
                <p xmlns="">— « Ah ! quel enfant ! quel enfant ! Depuis le commencement de cette année
                   seulement, j'ai déjà passé au moins cinq journées à ôter les taches, à
-                  réparer les accrocs de ses vêtements (Ici, on regarda M. François)... des journées
+                  réparer les accrocs de ses vêtements (Ici, on regarda M. <persName xmlns="" key="françois">François</persName>)... des journées
                   qui me rapportent 1 fr. 50, quand je les emploie à travailler pour les autres.
                   Voyez un peu ! cinq fois 1 fr. 50 !</p>
                <p xmlns=""> — De plus, ces réparations m'ont coûté en savon, en pièces, en mercerie, 3
@@ -115,11 +115,11 @@
                      il y a trois jours ?</caption>
                </figure>
 
-               <p xmlns="">« Ah ! et la pipe de son grand-père <persName xmlns="">Benoît</persName>, avec le briquet, une belle pipe de
+               <p xmlns="">« Ah ! et la pipe de son grand-père <persName xmlns=""><persName xmlns="" key="benoît">Benoît</persName></persName>, avec le briquet, une belle pipe de
                   vingt-six sous et un briquet de neuf sous qu'il a pris et égarés !... </p>
                <p xmlns="">« Et ce n'est pas tout ! Vous connaissiez mon beau lapin roux dont
                   j'avais refusé 4 francs il y à trois jours ? Pas plus tard qu'hier
-                  Vincent me </p>
+                  <persName xmlns="" key="vincent">Vincent</persName> me </p>
 
                <pb xmlns="" n="34" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_11-04.jpg"/>
                <fw xmlns="">34 L'ENFANCE DE SUZETTE.</fw>
@@ -127,48 +127,48 @@
                   clapier, après l'en avoir laissé sauver.</p>
                <p xmlns="">« Il va falloir que je vende mes oies trop tôt, et sans profit, pour racheter des
                   galoches ! et jusque-là le vaurien manquera l'école ! » A ces mots, les yeux
-                  de <persName xmlns="">François</persName> brillèrent comme à une bonne nouvelle.</p>
+                  de <persName xmlns=""><persName xmlns="" key="françois">François</persName></persName> brillèrent comme à une bonne nouvelle.</p>
                <p xmlns="">— « Ah !... dit-il, quand on perd ses galoches, on ne va pas à l'école ?
                   »</p>
-               <p xmlns="">Mais le papa répondit :</p>
-               <p xmlns="">— « <persName xmlns="">François</persName>, tu n'as pas bien compris. <persName xmlns="">Ludivine</persName> a voulu dire seulement
+               <p xmlns="">Mais le <persName xmlns="">papa</persName> répondit :</p>
+               <p xmlns="">— « <persName xmlns=""><persName xmlns="" key="françois">François</persName></persName>, tu n'as pas bien compris. <persName xmlns=""><persName xmlns="" key="ludivine">Ludivine</persName></persName> a voulu dire seulement
                   qu'un garçon ne peut pas aller à l'école avec les deux pieds dans une
                   seule galoche.</p>
-               <p xmlns="">— « <persName xmlns="">Vincent</persName> aura demain les deux galoches qui lui sont nécessaires, » ajouta <persName xmlns="">Mme Dumay</persName>.</p>
-               <p xmlns="">Et elle fit accepter à <persName xmlns="">Ludivine</persName> deux franes cinquante centimes, à rembourser après
+               <p xmlns="">— « <persName xmlns=""><persName xmlns="" key="vincent">Vincent</persName></persName> aura demain les deux galoches qui lui sont nécessaires, » ajouta <persName xmlns=""><persName xmlns="" key="mme_dumay">Mme Dumay</persName></persName>.</p>
+               <p xmlns="">Et elle fit accepter à <persName xmlns=""><persName xmlns="" key="ludivine">Ludivine</persName></persName> deux franes cinquante centimes, à rembourser après
                   la vente de ses oies.</p>
-               <p xmlns="">Quand la brave femme fut sortie, la petite <persName xmlns="">Suzette</persName> montra un papier sur lequel
-                  elle avait écrit les dépenses faites par <persName xmlns="">Ludivine</persName> pour Vincent, à mesure que
+               <p xmlns="">Quand la brave femme fut sortie, la petite <persName xmlns=""><persName xmlns="" key="suzette">Suzette</persName></persName> montra un papier sur lequel
+                  elle avait écrit les dépenses faites par <persName xmlns=""><persName xmlns="" key="ludivine">Ludivine</persName></persName> pour Vincent, à mesure que
                   celle-ci les énumérait.</p>
-               <p xmlns="">— « <persName xmlns="">Jacques</persName> et moi, dit <persName xmlns="">Suzette</persName>, nous avons fait le compte : 39 fr. 55. »</p>
-               <p xmlns="">Le père vérifia l'addition qui était exacte : </p>
+               <p xmlns="">— « <persName xmlns=""><persName xmlns="" key="jacques">Jacques</persName></persName> et moi, dit <persName xmlns=""><persName xmlns="" key="suzette">Suzette</persName></persName>, nous avons fait le compte : 39 fr. 55. »</p>
+               <p xmlns="">Le <persName xmlns="">père</persName> vérifia l'addition qui était exacte : </p>
                <pb xmlns="" n="35" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_11-05.jpg"/>
                <fw xmlns="">UN COMPTE DE LUDIVINE. 35 </fw>
                <p xmlns=""> — « Trente-neuf francs cinquante-cinq pour un ménage de pauvres gens, dit-il,
                   c'est bien lourd. »</p>
-               <p xmlns="">La mère regarda <persName xmlns="">François</persName> et ajouta :</p>
+               <p xmlns="">La mère regarda <persName xmlns=""><persName xmlns="" key="françois">François</persName></persName> et ajouta :</p>
                <p xmlns="">— « L'enfant qui ménage ses vêtements, ses livres, ses cahiers, qui ne gâche
                   rien dans la maison, qui épargne à sa famille des dépenses inutiles, lui rend
                   ainsi à peu près le même ser- vice que s'il lui gagnait de l'argent.
                   »</p>
 
                <figure xmlns="">
-                  <caption xmlns="">(1) <persName xmlns="">Suzette</persName> frottait ses chevilles l'une contre l'autre, ce qui
-                     use beaucoup la chaussure.<lb xmlns=""/> 2) A partir de ce moment, la petite <persName xmlns="">Suzette</persName>
+                  <caption xmlns="">(1) <persName xmlns=""><persName xmlns="" key="suzette">Suzette</persName></persName> frottait ses chevilles l'une contre l'autre, ce qui
+                     use beaucoup la chaussure.<lb xmlns=""/> 2) A partir de ce moment, la petite <persName xmlns=""><persName xmlns="" key="suzette">Suzette</persName></persName>
                      s'appliqua à espacer un peu ses pieds en marchant.</caption>
                </figure>
 
-               <p xmlns="">A partir de ce moment, la petite <persName xmlns="">Suzette</persName> s'appliqua à espacer un peu ses
+               <p xmlns="">A partir de ce moment, la petite <persName xmlns=""><persName xmlns="" key="suzette">Suzette</persName></persName> s'appliqua à espacer un peu ses
                   pieds en marchant ; car jusque-là elle avait battu le briquet avec ses chevilles,
                   ce qui use beaucoup la chaussure.</p>
-               <p xmlns="">Et <persName xmlns="">Jacques</persName> cessa aussi d'essuyer ses plumes sur sa manche, comme il en avait
+               <p xmlns="">Et <persName xmlns=""><persName xmlns="" key="jacques">Jacques</persName></persName> cessa aussi d'essuyer ses plumes sur sa manche, comme il en avait
                   la mauvaise habitude.</p>
-               <p xmlns="">Quant à <persName xmlns="">M. François</persName>, il perdit vite le souvenir des dépenses de son camarade Vin-
+               <p xmlns="">Quant à M. <persName xmlns="" key="françois">François</persName>, il perdit vite le souvenir des dépenses de son camarade <persName xmlns=""><persName xmlns="" key="vincent"><persName xmlns="" key="vincent">Vin</persName></persName></persName>-
 </p><p xmlns="">                  cent. </p>
 
                <pb xmlns="" n="36" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_11-06.jpg"/>
                <fw xmlns="">36 L'ENFANCE DE SUZETTE.</fw>
-               <p xmlns=""> <persName xmlns="">Charlot</persName>, lui, n'avait pas entendu : de puis longtemps déjà il dormait.
+               <p xmlns=""> <persName xmlns=""><persName xmlns="" key="charlot">Charlot</persName></persName>, lui, n'avait pas entendu : de puis longtemps déjà il dormait.
                   [11]</p>
 
 
