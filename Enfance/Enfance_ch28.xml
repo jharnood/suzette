@@ -188,12 +188,12 @@
                <p>Elle dit à <persName key="françois" type="fictif">François</persName>, qui réclamait les cerises : — « Non, tu n'en auras pas
                   une seule ; ce que tu viens de faire est trop laid.</p>
                <p>— « Bien ! <persName key="suzette" type="fictif">Suzette</persName>, ajouta la maman, qui s'était approchée, tu sens très
-                  justement que si les plus grands, à l'exemple de <persName>M. François</persName>, n'avaient
+                  justement que si les plus grands, à l'exemple de <persName key="françois" type="fictif">M. François</persName>, n'avaient
                   qu'à avancer la main pour s'approprier ce qui leur fait envie, sous
                   prétexte que « la raison du plus fort est toujours la meilleure », les loups seuls
                   mangeraient en ce monde. »</p>
-               <p>Puis se tournant vers <persName>François</persName> :</p>
-               <p>— « Et vous vous êtes conduit comme un loup, <persName>monsieur François</persName> ! » </p>
+               <p>Puis se tournant vers <persName key="françois" type="fictif">François</persName> :</p>
+               <p>— « Et vous vous êtes conduit comme un loup, <persName key="françois" type="historique">monsieur François</persName> ! » </p>
                <pb n="126" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_28-06.jpg"/>
                <fw>126 L'ENFANCE DE SUZETTE.</fw>
                <p> Celui-ci baissait la tête ; car vous le savez, il avait vite le regret de ses
