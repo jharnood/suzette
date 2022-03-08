@@ -149,8 +149,8 @@
                <pb n="124" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_28-04.jpg"/>
                <fw>124 L'ENFANCE DE SUZETTE.</fw>
                <p> pour son compte une demi-douzaine de moineaux occupés de la même façon.</p>
-               <p>Aussitôt, <persName>Charlot</persName> cria de toute sa force :</p>
-               <p>— « <persName>Ludivine</persName> ! les oiseaux ! les oiseaux ! »</p>
+               <p>Aussitôt, <persName key="charlot" type="fictif">Charlot</persName> cria de toute sa force :</p>
+               <p>— « <persName key="ludivine" type="fictif">Ludivine</persName> ! les oiseaux ! les oiseaux ! »</p>
                <p>Mais, à sa voix, toute la bande, effrayée, fila vive- ment, se dispersant aux
                   quatre coins du ciel.</p>
 
@@ -158,14 +158,14 @@
                   <caption>Moineaux.</caption>
                </figure>
 
-               <p>— « Ah ! <persName>Charlot</persName>, que tu as bien fait de crier ! dit <persName>Ludivine</persName> en accourant avec
-                  ses deux enfants, <persName>Vincent</persName> et <persName>Lisa</persName>.</p>
-               <p>— « Moi, dit <persName>Vincent</persName>, si je n'étais pas forcé d'aller à l'école, je
+               <p>— « Ah ! <persName key="charlot" type="fictif">Charlot</persName>, que tu as bien fait de crier ! dit <persName key="ludivine" type="fictif">Ludivine</persName> en accourant avec
+                  ses deux enfants, <persName key="vincent" type="fictif">Vincent</persName> et <persName key="lisa" type="fictif">Lisa</persName>.</p>
+               <p>— « Moi, dit <persName key="vincent" type="fictif">Vincent</persName>, si je n'étais pas forcé d'aller à l'école, je
                   ferais encore bien mieux que de crier. A coups de pierres, je tuerais tous ces
-                  oiseaux, et nous les mangerions au lieu de leur laisser manger nos cerises. » <persName>Lisa</persName>
+                  oiseaux, et nous les mangerions au lieu de leur laisser manger nos cerises. » <persName key="lisa" type="fictif">Lisa</persName>
                   approuva de la tête.</p>
                <p>— « Ta soeur et toi vous continuerez à ne pas manquer l'école, répondit
-                  <persName>Ludivine</persName>, et tu ne tueras pas les oiseaux, car ils débarrassent les jardins
+                  <persName key="ludivine" type="fictif">Ludivine</persName>, et tu ne tueras pas les oiseaux, car ils débarrassent les jardins
                   d'une quantité de vermine qui, sans eux, ferait beaucoup de ravages. Mais
                   puisque mes épouvantails paraissent ne pas les effrayer, je vais tout de suite
                   cueillir nos cerises. » </p>
