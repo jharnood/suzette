@@ -75,11 +75,11 @@
                <fw>LES CERISES. 121</fw>
                <p> Le temps avait marché, faisant les veillées de plus en plus courtes. Un soir, <persName key="m_dumay" type="fictif">M. Dumay</persName>, qui venait d'ouvrir l'almanach, dit : </p>
                <p>— « Ah ! c'est aujourd'hui <objectName ana="cosmographie">l'équinoxe</objectName>.</p>
-               <p>— « Qu'est-ce que l'équinoxe, papa ? demanda <persName key="françois" type="fictif">François</persName>.</p>
+               <p>— « Qu'est-ce que <objectName ana="cosmographie">l'équinoxe</objectName>, papa ? demanda <persName key="françois" type="fictif">François</persName>.</p>
                <p>— « C'est le moment de l'année où les jours sont égaux aux nuits, douze
-                  heures de jour et douze heures de nuit. L'équinoxe arrive deux fois par an :
-                  <objectName ana="cosmographie">le 22 septembre</objectName>, où commence l'automne, et <objectName ana="cosmographie">le 21 mars</objectName>, premier jour de
-                  printemps. Nous sommes aujourd'hui le 21 mars. »</p>
+                  heures de jour et douze heures de nuit. <objectName ana="cosmographie">L'équinoxe</objectName> arrive deux fois par an :
+                  <objectName ana="cosmographie">le 22 septembre</objectName>, où commence <objectName ana="cosmographie">l'automne</objectName>, et <objectName ana="cosmographie">le 21 mars</objectName>, premier jour de
+                  <objectName ana="cosmographie">printemps</objectName>. Nous sommes aujourd'hui <objectName ana="cosmographie">le 21 mars</objectName>. »</p>
                <p>Les enfants battirent des mains. Ils allaient donc revoir le printemps, le soleil,
                   les longs jours, la saison des fraises, des violettes et des tendres verdures.</p>
                <p>Bientôt, en effet, tout sembla renaître. Les jardins reverdirent, s'égayèrent
