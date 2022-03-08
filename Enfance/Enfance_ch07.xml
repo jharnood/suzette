@@ -73,7 +73,7 @@
 						<title>7. — Une bonne journée.</title>
 					</p>
 					<pb n="18" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_07-01.jpg"/>
-					<p> Le lendemain petite <persName>Suzette</persName>, en s'éveillant, se dit :</p>
+					<p> Le lendemain petite <persName key="suzette" type="fictif">Suzette</persName>, en s'éveillant, se dit :</p>
 					<p>— « Aujourd'hui, je veux m'appliquer à tres bien faire tout ce que
 						je ferai. »</p>
 					<p>Dès qu'elle se fut débarbouillée, soigneusement coiffée, qu'elle
