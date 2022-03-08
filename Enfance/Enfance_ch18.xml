@@ -152,7 +152,7 @@
                <fw>AUTRE SPECTACLE. 69</fw>
                <p> des Arabes, les beaux vitraux de couleur qui ornent encore les fenêtres et les
                   rosaces de plusieurs de nos cathédrales.</p>
-               <p>— « Mais les fenêtres des maisons, Monsieur, demanda <persName key="jacques" type="fictif">Jacques</persName>, eurent-elles aussi
+               <p>— « Mais les <objectName ana="histoire">fenêtres</objectName> des maisons, Monsieur, demanda <persName key="jacques" type="fictif">Jacques</persName>, eurent-elles aussi
                   des vitraux coloriés ?</p>
                <p>— « Oh ! non ; les fenêtres des maisons attendirent bien longtemps les simples
                   vitres claires, transparentes dont nous nous servons aujourd'hui, ces vitres
@@ -200,7 +200,7 @@
                   Quel événement historique fit disparaître en <placeName>France</placeName> l'art de la verrerie ? —
                   Quel autre événement historique ramena, au moyen ge, l'art de la verrerie en
                   <placeName>France</placeName> ?— Quelles sont <objectName ana="histoire">les oeuvres</objectName> qui nous restent des verriers du moyen age ? —
-                  Qu'est-ce qui tenait lieu de vitres aux fenêtres des maisons jusqu'au
+                  Qu'est-ce qui tenait lieu de vitres aux <objectName ana="histoire">fenêtres</objectName> des maisons jusqu'au
                   siècle dernier ?</p>
                <p><term ana="menage">Ménage</term>. — Citez les principaux objets de <objectName ana="menage">verrerie</objectName> d'un ménage. — Pourquoi
                   met-on aux lampes des cheminées de <objectName ana="menage">verre</objectName> et non de métal ?</p>
