@@ -100,10 +100,10 @@
                <p xmlns="">« Les étoffes comme les lainages et les soieries, qui proviennent des animaux,
                   sont plus chaudes et conviennent surtout pour les vêtements de dessus.</p>
                <p xmlns="">« Certaines substances minérales peuvent aussi se filer et se tisser, par exemple
-                  l'or et l'argent, qu'autrefois on mélangeait à la laine et à la
+                  <objectName xmlns="" ana="histoire_naturelle">l'or</objectName> et <objectName xmlns="" ana="histoire_naturelle">l'argent</objectName>, qu'autrefois on mélangeait à la laine et à la
                   soie.</p>
                <p xmlns="">« Mais, en ce genre, le plus curieux tissu est celui qui se tire d'un
-                  minéral, une sorte de pierre filamenteuse, brillante, nacrée, appelée amiante. Ce
+                  minéral, une sorte de pierre filamenteuse, brillante, nacrée, appelée <objectName xmlns="" ana="histoire_naturelle">amiante</objectName>. Ce
                   tissu a l'apparence de la soie.</p>
                <p xmlns="">« Ce qui distingue surtout les tissus d'amiante, c'est qu'ils sont
                   incombustibles, c'est-à-dire qu'ils ne sauraient prendre feu.</p>
@@ -123,7 +123,7 @@
                   C'est là ce qu'on appelle faire une reprise. »</p>
 
                <figure xmlns="">
-                  <caption xmlns="">Alors la petite Suzette prit l'aiguille.</caption>
+                  <caption xmlns="">Alors la petite <persName xmlns="">Suzette</persName> prit l'aiguille.</caption>
                </figure>
 
                <p xmlns="">Alors la petite <persName xmlns="">Suzette</persName> prit l'aiguille , et, sous la direction de
