@@ -96,9 +96,9 @@
                <p>— « Ils n'ont pourtant pas la même origine, » dit <persName key="suzette" type="fictif">Suzette</persName>.</p>
                <p><persName key="m_adrien" type="fictif">M. Adrien</persName> reprit :</p>
                <p>— « Non ; le sucre que vous avez pris, petite <persName key="suzette" type="fictif">Suzette</persName>, vient, comme je vous
-                  l'ai dit, de la betterave, racine bien connue de vous tous. La cassonade
+                  l'ai dit, de la betterave, <objectName ana="histoire_naturelle">racine</objectName> bien connue de vous tous. La cassonade
                   qu'a goûtée <persName key="jacques" type="fictif">Jacques</persName>, je l'ai vue aux <placeName>Antilles</placeName>, quand elle était encore à
-                  l'état liquide dans les grands roseaux à grosse tige qu'on appelle pour
+                  l'état liquide dans les grands roseaux à grosse <objectName ana="histoire_naturelle">tige</objectName> qu'on appelle pour
                   cette raison cannes à sucre. « Quant aux tablettes que <persName key="françois" type="fictif">François </persName>a choisies, elles
                   viennent d'un arbre. </p>
                <pb n="54" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_16-03.jpg"/>
@@ -111,8 +111,8 @@
                   fur et à mesure. </p>
                <p>« La croûte du sirop de canne, c'est la cassonade; celle du sirop de
                   betterave, c'est le sucre en petits grains brillants, translucides qu'on
-                  appelle chez les épiciers « sucre brut ».</p>
-               <p>« Pour donner au sucre brut cette apparence de pierre blanche que vous lui
+                  appelle chez les épiciers « sucre <objectName ana="grammaire">brut</objectName> ».</p>
+               <p>« Pour donner au sucre <objectName ana="grammaire">brut </objectName>cette apparence de pierre blanche que vous lui
                   connaissez, il suffit de le raffiner.</p>
                <figure>
                   <caption>La betterave.</caption>
@@ -152,9 +152,9 @@
                <p>« Les arbres trouvés vers le soir, nous fîmes avec des couteaux une incision sur
                   l'écorce de chacun. Et au pied de ces arbres furent placés les chaudrons, les
                   bassines qui, le lendemain, à notre réveil, se trouvèrent remplis d'une eau
-                  liquoreuse et sucrée.</p>
-               <p>« Cette eau, c'est la sève de l'érable.</p>
-               <p>« Alors on alluma un bon feu de bois mort ; on fit bouillir cette sève, puis on la
+                  <objectName ana="grammaire">liquoreuse</objectName> et sucrée.</p>
+               <p>« Cette eau, c'est la <objectName ana="histoire_naturelle">sève </objectName>de l'érable.</p>
+               <p>« Alors on alluma un bon feu de bois mort ; on fit bouillir cette <objectName ana="histoire_naturelle">sève</objectName>, puis on la
                   laissa refroidir. Quelques heures après, le sucre était figé en pains ayant la
                   forme des vases où il avait refroidi. </p>
                <p>« Il ne restait plus qu'à le porter à la ferme : ces ce que nous fîmes, et
@@ -185,7 +185,7 @@
                <p>« Au commencement de ce siè- cle seulement, l'industrie trouva le moyen de
                   tirer du sucre de la betterave.</p>
                <figure>
-                  <caption>L'abeille nous donne le miel et la cire.</caption>
+                  <caption>L'<objectName ana="histoire_naturelle">abeille</objectName> nous donne le miel et la cire.</caption>
                </figure>
                <p>« Quant au sucre de canne, il avait été introduit en <placeName>France </placeName>au douzième siècle,
                   époque où les guerriers des croisades le trouvèrent en <placeName>Palestine</placeName>.</p>
@@ -194,7 +194,7 @@
                   partout où on la cultive aujourd'hui, no- tamment aux <placeName>Antilles</placeName>, où j'en
                   ai vu des champs entiers. Elle sert de nourriture aux nègres du pays. J'ai
                   rencontré souvent des petits nègres mangeant pour leur dîner un morceau de canne
-                  avec du pain. Ils broyaient la tige entre leurs dents et la rejetaient après
+                  avec du pain. Ils broyaient la <objectName ana="histoire_naturelle">tige </objectName>entre leurs dents et la rejetaient après
                   l'avoir sucée.</p>
 
                <figure>
@@ -207,7 +207,7 @@
                   <persName key="suzette" type="fictif">Suzette </persName>demanda : </p>
                <p>— « Mais, Monsieur, comment les Français d'avant les croisades sucraient-ils
                   donc leurs boissons et leurs plats? Se passaient-ils donc de sucre?</p>
-               <p>— « Ils utilisaient le miel que leur fournis- saient les abeilles. Le miel était,
+               <p>— « Ils utilisaient le miel que leur fournis- saient les <objectName ana="histoire_naturelle">abeilles</objectName>. Le miel était,
                   en <placeName>France</placeName>, le seul sucre en usage depuis le temps des Gaulois. » </p>
                <p><persName key="m_dumay" type="fictif">M.</persName> et <persName key="mme_dumay" type="fictif">Mme Dumay</persName> remercièrent alors l'institu- trice, l'instituteur et
                   son frère, pour toutes les choses intéressantes qu'ils leur avaient dites et
@@ -233,7 +233,7 @@
                <p> [16] <label>CAUSERIE</label>: <term ana="grammaire">Grammaire</term>. — Que signifie le mot brut ? — Citez un
                   adjectif, un verbe et un adverbe tirés de ce mot. —De quel nom a-t-on formé
                   l'adjectif liquoreux ? </p>
-               <p><term ana="géographie">Géographie</term>. — Dans quelle partie du monde est située l'Inde ? —
+               <p><term ana="géographie">Géographie</term>. — Dans quelle partie du monde est située l'<placeName>Inde</placeName> ? —
                   Qu'est-ce que la zone torride ? la zone tempérée ? la zone glaciale ? — Où
                   sont situées les <placeName>Antilles</placeName> ? — Quelles sont les deux iles des <placeName>Antilles </placeName>qui
                   appartiennent à la <placeName>France </placeName>?</p>
@@ -242,7 +242,7 @@
                   sève ? — Qu'est-ce que l'abeille ?—De quelle arme est-elle pourvue ? —
                   Comment se nomme l'habitation des abeilles? — Où les abeilles trouvent-elles
                   la cire? le miel?</p>
-               <p><term ana="morale">Morale</term>. — Quelles sont les qualités de l'abeille données en exem- ple aux
+               <p><term ana="morale">Morale</term>. — Quelles sont les qualités de l'abeille données en exemple aux
                   paresseux, aux désordonnés, aux imprévoyants ? </p>
             </div>
          </div>
