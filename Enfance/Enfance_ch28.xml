@@ -99,7 +99,7 @@
                <p>— « Va, <persName key="charlot" type="fictif">Charlot</persName>, je te donnerai des cerises quand elles seront mûres.</p>
                <p>— « Et quand seront-elles mûres? dit <persName key="charlot" type="fictif">Charlot</persName>.</p>
                <p>— « Quand tu les verras bien rouges. »</p>
-               <p>A partir de ce moment <persName>Charlot</persName> n'oublia guère d'aller regarder les deux
+               <p>A partir de ce moment <persName key="charlot" type="fictif">Charlot</persName> n'oublia guère d'aller regarder les deux
                   cerisiers.</p>
                <p>Il vit tomber les fleurs et, à leur place, apparaître les cerises, mais toutes
                   petites, toutes vertes.</p>
@@ -115,10 +115,10 @@
 
 
                <p>Elles restèrent ainsi bien longtemps. Enfin elles commencèrent à rougir.</p>
-               <p>Un matin, il aperçut <persName>Ludivine</persName> qui grimpait sur une échelle appuyée contre un des
+               <p>Un matin, il aperçut <persName key="ludivine" type="fictif">Ludivine</persName> qui grimpait sur une échelle appuyée contre un des
                   arbres ; elle tenait à la main une longue perche surmontée d'un vieux et
-                  vilain chapeau du père <persName>Benoit</persName> ; sous le chapeau pendait une vieille blouse de
-                  toile blanche dont les loques flottaient au vent. Avec un bout de corde <persName>Ludivine</persName>
+                  vilain chapeau du père <persName key="benoît" type="fictif">Benoit</persName> ; sous le chapeau pendait une vieille blouse de
+                  toile blanche dont les loques flottaient au vent. Avec un bout de corde <persName key="ludivine" type="fictif">Ludivine</persName>
                   fixa ce mannequin aux branches du cerisier. </p>
 
                <pb n="123" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_28-03.jpg"/>
