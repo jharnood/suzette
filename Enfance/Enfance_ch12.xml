@@ -80,9 +80,7 @@
                <p>Dieu merci ! notre petite <persName key="suzette" type="fictif">Suzette</persName> et son frère <persName key="jacques" type="fictif">Jacques</persName> n'étaient pas de ces
                   élèves <objectName ana="grammaire">inattentifs</objectName>, indifférents qui ne tirent aucun profit des leçons de leurs
                   maîtres.</p>
-               <p>Ils étaient, au contraire, de ceux qu'on a comparés à de jeunes arbres
-                  plantés en bon lieu, près des eaux vives, qui croissent, portent des fleurs et des
-                  fruits, et sont la parure de la terre.</p>
+               <p><objectName ana="morale">Ils étaient, au contraire, de ceux qu'on a comparés à de jeunes arbres plantés en bon lieu, près des eaux vives, qui croissent, portent des fleurs et des fruits, et sont la parure de la terre.</objectName></p>
                <p>Leurs compositions furent parmi les meilleures </p>
                <pb n="37" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_12-02.jpg"/>
                <fw>RÉCOMPENSES. 37</fw>
@@ -104,8 +102,7 @@
                <p>— « Moi aussi, dit <persName key="jacques" type="fictif">Jacques</persName>.</p>
                <p>— « Et moi également ! s'écria <persName key="françois" type="fictif">François</persName> en élevant son image en l'air
                   pour qu'on ne perdit pas de vue son mérite.</p>
-               <p>— « Eh bien ! mes petits, l'année prochaine vous permettra de faire mieux
-                  encore. »</p>
+               <p>— « <objectName ana="morale">Eh bien ! mes petits, l'année prochaine vous permettra de faire mieux encore</objectName>. »</p>
                <p><persName key="mme_dumay" type="fictif">Mme Dumay</persName> dit à son tour :</p>
                <fw>ENFANCE DE S. 3</fw>
 
