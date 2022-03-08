@@ -92,7 +92,7 @@
                <fw>AUTRE SPECTACLE. 67</fw>
                <p> chon à eau, un carreau de vitre ; et c'est cette manière d'opérer qui
                   s'appelle le « soufflage » .</p>
-               <p>La compagnie prit alors congé de <persName>M. Garnier</persName> en le remerciant de ses intéressantes
+               <p>La compagnie prit alors congé de <persName key="m_garnier" type="fictif">M. Garnier</persName> en le remerciant de ses intéressantes
                   explications et sortit de l'usine tout en causant des belles choses
                   qu'elle venait de voir.</p>
 
@@ -122,10 +122,10 @@
 
                <pb n="68" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_18-03.jpg"/>
                <fw>L'ENFANCE DE SUZETTE.</fw>
-               <p> petite <persName>Suzette</persName> qui, la veille à table, avait écouté avec tant de plaisir
+               <p> petite <persName key="suzette" type="fictif">Suzette</persName> qui, la veille à table, avait écouté avec tant de plaisir
                   l'histoire de la faïence et de la porcelaine, demanda si l'usage du
                   verre dans le monde était fort ancien.</p>
-               <p><persName>M. Delorme</persName> répondit :</p>
+               <p><persName key="m_delorme" type="fictif">M. Delorme</persName> répondit :</p>
                <p>— « Il y a, dans un musée d'An- gleterre, un grain de collier de verre qui,
                   d'après l'inscription en écriture égyptienne qu'il porte, a
                   appartenu à une reine d'Égypte, nommée Ra-ma-ka. Ra-ma-ka vivait quinze cents
@@ -152,7 +152,7 @@
                <fw>AUTRE SPECTACLE. 69</fw>
                <p> des Arabes, les beaux vitraux de couleur qui ornent encore les fenêtres et les
                   rosaces de plusieurs de nos cathédrales.</p>
-               <p>— « Mais les fenêtres des maisons, Monsieur, demanda <persName>Jacques</persName>, eurent-elles aussi
+               <p>— « Mais les fenêtres des maisons, Monsieur, demanda <persName key="jacques" type="fictif">Jacques</persName>, eurent-elles aussi
                   des vitraux coloriés ?</p>
                <p>— « Oh ! non ; les fenêtres des maisons attendirent bien longtemps les simples
                   vitres claires, transparentes dont nous nous servons aujourd'hui, ces vitres
