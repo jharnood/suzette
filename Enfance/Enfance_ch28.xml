@@ -185,7 +185,7 @@
                <p><persName key="suzette" type="fictif">Suzette</persName> n'aimait pas qu'on abusât de sa force ; elle ne pouvait voir
                   maltraiter les petits, et, à l'école, elle prenait toujours parti pour les
                   faibles, si de plus grands les malmenaient.</p>
-               <p>Elle dit à <persName>François</persName>, qui réclamait les cerises : — « Non, tu n'en auras pas
+               <p>Elle dit à <persName key="françois" type="fictif">François</persName>, qui réclamait les cerises : — « Non, tu n'en auras pas
                   une seule ; ce que tu viens de faire est trop laid.</p>
                <p>— « Bien ! <persName key="suzette" type="fictif">Suzette</persName>, ajouta la maman, qui s'était approchée, tu sens très
                   justement que si les plus grands, à l'exemple de <persName>M. François</persName>, n'avaient
