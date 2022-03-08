@@ -179,19 +179,19 @@
 
                <pb n="131" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_29-06.jpg"/>
                <fw>EN VOYAGE. 131 </fw>
-               <p>récompense de leur travail, un beau livre pour chacun. <persName>François</persName> en eut un
+               <p>récompense de leur travail, un beau livre pour chacun. <persName key="françois" type="fictif">François</persName> en eut un
                   également, un tout petit. Mais le livre, quand il instruit, a beau être petit,
                   rien ne le vaut. Un bon livre, qui nous enrichit l'esprit, est plus utile que
                   beaucoup d'argent.</p>
                <p>Comme l'année précédente, <persName>M. et Mme Dumay</persName> fêtè- rent le succès de leurs
                   enfants, et, de nouveau, <persName>M. et Mme Delorme</persName> furent invités à diner. A table, on
                   parla, entre autres choses, de <placeName>Saint-Gobain</placeName>, de la vieille tour féodale de <placeName>Coucy</placeName>,
-                  de l'excursion de l'année précédente, dont <persName>Jacques</persName> et <persName>Suzette</persName> avaient
+                  de l'excursion de l'année précédente, dont <persName key="jacques" type="fictif">Jacques</persName> et <persName key="suzette" type="fictif">Suzette</persName> avaient
                   encore le souvenir très frais.</p>
                <p>— « Eh bien, dit <persName>M. Dumay</persName>, puisque les voyages vous intéressent tant, mes enfants,
                   si nous en fai- sions un autre ? J'ai vendu, l'an dernier, mon blé à
                   <placeName>Laon</placeName>, et je n'y ai pas fait une mauvaise affaire ; j'y retournerais
-                  volontiers cette année, mais avec vous et avec <persName>M. et Mme Delorme</persName>, s'ils
+                  volontiers cette année, mais avec vous et avec <persName key="m_delorme" type="fictif">M.</persName> et <persName key="mme_delorme" type="fictif">Mme Delorme</persName>, s'ils
                   voulaient bien nous faire ce plaisir. »</p>
                <p><persName>M. et Mme Delorme</persName> acceptèrent très volontiers, et l'on convint de partir le
                   lendemain. Cette fois, <persName>M. François</persName> devait être de la fête, car il savait lire
