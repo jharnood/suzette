@@ -73,10 +73,10 @@
                </p>
                <pb n="48" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_15-01.jpg"/>
                <fw>48 L'ENFANCE DE SUZETTE.</fw>
-               <p> Après qu'on eut fait honneur à la tarte, <persName>Ludivine</persName> débarrassa la table. <persName>Mme Dumay</persName> alla chercher le moulin à café et le mit entre les mains de petite <persName>Suzette</persName>,
-                  qui commença à moudre, pendant que sa mère préparait les tasses. </p>
+               <p> Après qu'on eut fait honneur à la tarte, <persName>Ludivine</persName> débarrassa la table. <persName>Mme Dumay</persName> alla chercher le <objectName ana="menage">moulin à café</objectName> et le mit entre les mains de petite <persName>Suzette</persName>,
+                  qui commença à moudre, pendant que sa mère préparait les <objectName ana="menage">tasses</objectName>. </p>
                <p><persName>François</persName> regardait sa soeur avec envie. Depuis longtemps il rêvait de tourner le
-                  moulin à café, mais on le tenait hors de sa portée. Vous devinez pourquoi.</p>
+                  <objectName ana="menage">moulin à café</objectName>, mais on le tenait hors de sa portée. Vous devinez pourquoi.</p>
 
                <figure>
                   <caption>La petite Suzette commença à moudre le café.</caption>
@@ -105,7 +105,7 @@
                   <caption>Il te faudrait monter sur un des grand navires qui traversent les
                      mers.</caption>
                </figure>
-               <p>— « Il te fau-drait, répondit <persName>M. Adrien</persName>, gagner d'abord un port de mer : Le
+               <p>— « Il te fau-drait, répondit <persName>M. Adrien</persName>, gagner d'abord un <objectName ana="géographie">port de mer</objectName> : Le
                   <placeName>Havre</placeName>, <placeName>Nantes</placeName>, <placeName>Bordeaux </placeName>ou <placeName>Marseille</placeName>, puis monter sur un des grands navires qui
                   traversent les mers à destination de <placeName>l'Asie</placeName>, de <placeName>l'Afrique</placeName>, </p>
 
@@ -126,7 +126,7 @@
 
                <figure>
                   <caption>Les grains de café sont brûlés par l'épicier dans un cylindre appelé
-                     brûloir qu'il tourne avec une manivelle audessus d'un
+                     <objectName ana="menage">brûloir</objectName> qu'il tourne avec une manivelle audessus d'un
                      brasier.</caption>
                </figure>
 
@@ -156,7 +156,7 @@
                   excitant et favorise les battements du coeur. On le regarde comme néces- </p>
                <pb n="52" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_15-05.jpg"/>
                <fw>52 L'ENFANCE DE SUZETTE.</fw>
-               <p> saire à une bonne alimentation; nos soldats en reçoivent une ration chaque
+               <p> saire à une bonne <objectName ana="menage">alimentation</objectName>; nos soldats en reçoivent une ration chaque
                   jour.</p>
                <p>« Mais, comme de toutes les bonnes choses, il ne faut pas en abuser. » [15] </p>
 
@@ -168,7 +168,7 @@
                   géographique de <placeName>l'Asie</placeName>, de <placeName>l'Afrique</placeName>, de <placeName>l'Amérique</placeName> par rapport à
                   <placeName>l'Europe</placeName> ? — Dans quel océan se trouvent les îles qui composent
                   <placeName>l'Océanie</placeName> ? </p>
-               <p>Commerce. — De quelle manière se fait le commerce du café ? </p>
+               <p><term ana="commerce">Commerce</term>. — De quelle manière se fait le commerce du café ? </p>
                <p><term ana="menage">Ménage</term>. — Comment se prépare le café ? — De combien de parties se compose un
                   moulin à café ? — Comment se nomme la partie de cet ustensile qu'on prend en
                   main pour moudre ? — Comment se nomme le mécanisme au moyen duquel on broie les
