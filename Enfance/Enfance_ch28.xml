@@ -95,9 +95,9 @@
                <fw>122 L'ENFANCE DE SUZETTE.</fw>
                <p> le fruit à la fleur ; car si la fleur est belle, la cerise est belle et bonne.
                   »</p>
-               <p><persName>Ludivine</persName> ajouta :</p>
-               <p>— « Va, <persName>Charlot</persName>, je te donnerai des cerises quand elles seront mûres.</p>
-               <p>— « Et quand seront-elles mûres? dit <persName>Charlot</persName>.</p>
+               <p><persName key="ludivine" type="fictif">Ludivine</persName> ajouta :</p>
+               <p>— « Va, <persName key="charlot" type="fictif">Charlot</persName>, je te donnerai des cerises quand elles seront mûres.</p>
+               <p>— « Et quand seront-elles mûres? dit <persName key="charlot" type="fictif">Charlot</persName>.</p>
                <p>— « Quand tu les verras bien rouges. »</p>
                <p>A partir de ce moment <persName>Charlot</persName> n'oublia guère d'aller regarder les deux
                   cerisiers.</p>
