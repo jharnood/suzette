@@ -73,8 +73,8 @@
                </p>
                <pb n="80" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_21-01.jpg"/>
 
-               <p>Il y eut un bon goûter en arrivant à <placeName key="Saint-Gobain">Saint-Gobain</placeName> <persName key="m_garnier" type="fictif">Mme Garnier</persName> servit de la galette
-                  et une crème exquise. Une petite voisine, <persName key="ernestine" type="fictif">Ernestine</persName>, la fille d'un ouvrier
+               <p>Il y eut un bon goûter en arrivant à <placeName key="Saint-Gobain">Saint-Gobain</placeName> <persName key="m_garnier" type="fictif">Mme Garnier</persName> servit de <objectName ana="menage">la galette</objectName>
+                  et <objectName ana="menage">une crème</objectName> exquise. Une petite voisine, <persName key="ernestine" type="fictif">Ernestine</persName>, la fille d'un ouvrier
                   verrier, flaira probablement de chez elle ces bonnes choses, car elle accourut et
                   tout naturellement en reçut sa part.</p>
                <p>Puis elle emmena au <placeName key="Jardin">jardin</placeName> la petite <persName key="suzette" type="fictif">Suzette</persName>. Et tout en jouant, elle la regardait
@@ -109,7 +109,7 @@
                <pb n="82" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_21-03.jpg"/>
                <fw>82 L'ENFANCE DE SUZETTE.</fw>
                <p> Petite <persName key="suzette" type="fictif">Suzette</persName> à qui sa maman, au départ, avait remis quatre petits sous, en
-                  donna un à la pauvresse.</p>
+                  donna un à <objectName ana="morale">la pauvresse</objectName>.</p>
                <p><persName key="ernestine" type="fictif">Mlle Ernestine</persName> avait tiré de sa poche un joli porte-monnaie ; elle le tournait et
                   retournait, le tenant au bout des doigts, comme pour le faire mieux admirer.</p>
                <p> — « Eh bien, lui dit <persName key="suzette" type="fictif">Suzette</persName>, donne donc ton sou sans faire ainsi attendre cette
@@ -175,7 +175,7 @@
                <p>« Un jour, nous nous rencontrâmes. </p>
                <pb n="85" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_21-06.jpg"/>
                <fw>ÊTRE ET PARAITRE. 85</fw>
-               <p> « Il était vêtu comme un millionnaire et sentait la parfumerie.</p>
+               <p> « Il était vêtu comme un <objectName ana="morale">millionnaire</objectName> et sentait la parfumerie.</p>
                <p>« Sur son gilet pendait une grosse chaîne de montre très brillante.</p>
 
                <figure>
@@ -188,7 +188,7 @@
                      chaîne, toi, <persName key="m_adrien" type="fictif">Adrien</persName> ?<lb/> Non, je n'ai encore qu'un petit cordonnet
                      ; j'ai commencé par acheter la montre.</caption>
                </figure>
-               <p>— « Tu es donc devenu riche ? lui demandai-je.</p>
+               <p>— « Tu es donc devenu <objectName ana="morale">riche</objectName> ? lui demandai-je.</p>
                <p>— « Oh ! non, mais je ne suis pas fâché d'en </p>
                <p>« avoir l'air. Grâce à la bonne opinion que je </p>
 
@@ -199,14 +199,14 @@
                   tu as là ? » </p>
                <p>« Tout en parlant ainsi, je mis la main sur « la chaîne, la tirai du gousset....
                   Il n'y avait « rien au bout ! </p>
-               <p>— « Tiens, ajoutai-je, qu'as-tu donc fait de la « montre ?</p>
-               <p>— « La montre, répondit en riant <persName key="antonin" type="fictif">Antonin</persName>, la « montre ? elle est encore chez
+               <p>— « Tiens, ajoutai-je, qu'as-tu donc fait de la « <objectName ana="connaissances_usuelles">montre</objectName> ?</p>
+               <p>— « La montre, répondit en riant <persName key="antonin" type="fictif">Antonin</persName>, la « <objectName ana="connaissances_usuelles">montre</objectName> ? elle est encore chez
                   l'horloger; je « l'achèterai plus tard. J'ai commencé par la «
                   chaîne, qui se voit et fait de l'effet. Tu n'as pas « de chaîne, toi,
                   <persName key="m_adrien" type="fictif">Adrien</persName> ?</p>
                <p>— « Non, je n'ai encore qu'un petit cordonnet. « J'ai besoin, pour
                   mon travail, de savoir l'heure, « et comme ce n'est pas une chaîne qui
-                  me la donnerait, j'ai commencé par acheter la montre. » « Et je la lui fis
+                  me la donnerait, j'ai commencé par acheter la <objectName ana="connaissances_usuelles">montre</objectName>. » « Et je la lui fis
                   voir au bout du cordonnet.</p>
                <p>« Quelques instants après, nous nous quittions. Je ne sais pas ce qu'est
                   devenu <persName key="antonin" type="fictif">Antonin</persName> ; je crains fort qu'il n ait pas fait un très bon sujet. »
