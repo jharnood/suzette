@@ -72,7 +72,7 @@
                   <title xmlns="">17. — A Saint-Gobain.</title>
                </p>
                <pb xmlns="" n="60" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_17-01.jpg"/>
-               <p xmlns=""> On partit de bon matin, avant le réveil de <persName xmlns="" key="françois">François</persName> et de <persName xmlns="" key="charlot">Charlot</persName>, pour qui le
+               <p xmlns=""> On partit de bon matin, avant le réveil de <persName xmlns="" key="françois" type="fictif">François</persName> et de <persName xmlns="" key="charlot" type="fictif">Charlot</persName>, pour qui le
                   voyage eût été trop fatigant. <persName xmlns="" key="m_adrien" type="fictif">M. Adrien</persName> conduisait la carriole. Vers neuf heures,
                   on descendait de voiture à <placeName xmlns=""><objectName xmlns="" ana="géographie">Saint-Gobain</objectName></placeName>.</p>
                <p xmlns="">Comment ! c'était là le pays du <objectName xmlns="" ana="industrie">verre</objectName>, du <objectName xmlns="" ana="industrie">verre</objectName> si transparent, si joli à
@@ -159,7 +159,7 @@
                   ans le secret de cette fabrication.</p>
                <p xmlns="">« C'était alors en <placeName xmlns="">Europe</placeName> un grand objet de luxe. Chez nous, par exemple, les
                   nobles ornaient du haut en bas les murs de leurs appartements, et même
-                  l'intérieur de leurs carrosses, de glaces de <placeName xmlns="">Venise</placeName>.</p>
+                  l'intérieur de leurs carrosses, de glaces de <placeName xmlns=""><objectName xmlns="" ana="géographie">Venise</objectName></placeName>.</p>
                <p xmlns="">« Cela faisait sortir de <placeName xmlns="">France</placeName> beaucoup d'argent. Aussi <persName xmlns=""><persName xmlns="" type="historique"><objectName xmlns="" ana="histoire">Colbert</objectName></persName></persName>, le fameux
                   mi- nistre de <persName xmlns=""><persName xmlns="" type="historique">Louis XIV</persName></persName>, employa- t-il toute sa volonté à encou- rager
                   l'industrie du <objectName xmlns="" ana="industrie">verre</objectName> dans notre pays.</p>
@@ -169,7 +169,7 @@
                </figure>
 
                <p xmlns="">« Il fonda la verrerie de <placeName xmlns="">Saint-Gobain</placeName> où nous somes, et bientôt les verriers
-                  français surpassèrent ceux de <placeName xmlns="">Venise</placeName> en inventant le coulage du <objectName xmlns="" ana="industrie">verre</objectName>, tel que
+                  français surpassèrent ceux de <placeName xmlns=""><objectName xmlns="" ana="géographie">Venise</objectName></placeName> en inventant le coulage du <objectName xmlns="" ana="industrie">verre</objectName>, tel que
                   vous venez de le voir. Les Vénitiens n’employaient que le procédé du « soufflage »
                   qui, d'ailleurs, date de l'antiquité la plus lointaine.</p>
                <p xmlns="">« Nous allons maintenant voir le soufflage. Suivez-moi. »</p>
@@ -183,9 +183,9 @@
                   l'or.</p>
                <p xmlns=""><persName xmlns="" key="m_garnier" type="fictif">M. Garnier</persName>, à cette question, se baissa, ramassa un peu de sable et dit à <persName xmlns=""><persName xmlns="" key="jacques" type="fictif">Jacques</persName></persName>: </p>
                <p xmlns=""> — « Tendez votre main. »</p>
-               <p xmlns="">Jacques tendit la main ; <persName xmlns="" key="m_garnier">M. Garnier</persName> y mit ce sable, puis, s'approchant
+               <p xmlns="">Jacques tendit la main ; <persName xmlns="" key="m_garnier"><persName xmlns="" type="fictif"><persName xmlns="" key="m_garnier">M. Garnier</persName></persName></persName> y mit ce sable, puis, s'approchant
                   d'un tas de cristaux blancs qui se trouvaient là, il en prit une pincée et
-                  dit à <persName xmlns=""><persName xmlns="" key="suzette">Suzette</persName></persName> de tendre aussi sa main : ce qu'elle fit.</p>
+                  dit à <persName xmlns=""><persName xmlns="" key="suzette" type="fictif">Suzette</persName></persName> de tendre aussi sa main : ce qu'elle fit.</p>
                <p xmlns="">Il y plaça les cristaux que la petite fille reconnut pour être de ceux que sa mère
                   employait dans les nettoyages.</p>
                <p xmlns="">— « Mais c'est de la soude, dit-elle.</p>
