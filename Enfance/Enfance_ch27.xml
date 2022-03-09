@@ -82,7 +82,7 @@
                <fw>IL FAUT PENSER A AUTRUI. 115</fw>
                <p> bien plutôt celle du maladroit qui sème ainsi ses <objectName ana="connaissances_usuelles">moellons</objectName> et ses <objectName ana="connaissances_usuelles">briques</objectName> sur la
                   route. » </p>
-               <p>Le <persName key="m_dumay" type="fictif">papa</persName> n'était pas encore rentré des champs et la <persName key="mme_dumay" type="fictif">maman</persName> savonnait du linge
+               <p>Le <persName key="m_dumay" type="fictif">papa</persName> n'était pas encore rentré des champs et la <persName key="mme_dumay" type="fictif">maman</persName> savonnait du <objectName ana="connaissances_usuelles">linge</objectName>
                   au fournil.</p>
 
                <figure>
@@ -110,7 +110,7 @@
 
 
                <p> Elle alluma une bougie, et écartant la main de <persName key="françois" type="fictif">François</persName>, elle aperçut sur sa joue
-                  une forte écorchure d'où le sang s'échappait.</p>
+                  une forte <objectName ana="connaissances_usuelles">écorchure</objectName> d'où le sang s'échappait.</p>
                <p>Petite <persName key="suzette" type="fictif">Suzette</persName> ne pouvait pas supporter la vue du sang. Toute pâle, elle recula et
                   en poussant un gros soupir s'affaissa sur une chaise. A la vue de leur sœur
                   presque évanouie, <persName key="françois" type="fictif">François</persName> et <persName key="charlot" type="fictif">Charlot</persName> se mirent à crier :</p>
@@ -125,10 +125,10 @@
                <p>— « C'est lui, le blessé, murmura-t-elle d'une voix faible. Il est tombé
                   sur des pierres... le sang m'a fait peur. »</p>
                <p>Sans en demander davantage, la <persName key="mme_dumay" type="fictif">maman</persName> cou- rut à <persName key="françois" type="fictif">François</persName>, constata sur sa joue une
-                  grosse écorchure et se hâta de préparer un peu de vieux linge fin et une cuvette
+                  grosse <objectName ana="connaissances_usuelles">écorchure</objectName> et se hâta de préparer un peu de vieux <objectName ana="connaissances_usuelles">linge</objectName> fin et une cuvette
                   d’eau aiguisée de quel ques gouttes de teinture d'arnica.</p>
                <p>Puis se tournant vers sa fille et la regardant avec tristesse :</p>
-               <p>« Ainsi, <persName key="suzette" type="fictif">Suzette</persName>, dit-elle tout en trempant le linge dans la cuvette, ainsi, si je
+               <p>« Ainsi, <persName key="suzette" type="fictif">Suzette</persName>, dit-elle tout en trempant le <objectName ana="connaissances_usuelles">linge</objectName> dans la cuvette, ainsi, si je
                   n'eusse été là, tu aurais, par grande faiblesse, laissé ton frère sans
                   secours ? »</p>
                <p><persName key="suzette" type="fictif">Suzette</persName> baissa la tête.</p>
@@ -140,7 +140,7 @@
                <pb n="118" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_27-05.jpg"/>
                <fw>118 L'ENFANCE DE SUZETTE.</fw>
                <p> Petite <persName key="suzette" type="fictif">Suzette</persName> se leva ; quoique encore un peu pâle, elle avait l'air
-                  résolu. Prenant le linge, bravement elle étancha le sang et pansa son frère
+                  résolu. Prenant le <objectName ana="connaissances_usuelles">linge</objectName>, bravement elle étancha le sang et pansa son frère
                   d'une main tendre et délicate.</p>
 
                <figure>
