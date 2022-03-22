@@ -72,33 +72,33 @@
                   <title>9. ― L'accroc reprisé.</title>
                </p>
                <pb n="23" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_09-01.jpg"/>
-               <p> Vous ne savez peut-être pas encore que M. <persName>François</persName> n'était pas toujours sage
+               <p> Vous ne savez peut-être pas encore que M. <persName key="françois" type="fictif">François</persName> n'était pas toujours sage
                   comme une image. </p>
                <pb n="24" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_09-02.jpg"/>
                <fw>24 L'ENFANCE DE SUZETTE.</fw>
                <p> Une après-midi, dans la cour de récréation, il avisa un petit chat qui la
-                  traversait ; il le poursuivit aussitôt. Le chat, pour échapper à <persName>François</persName>, grimpa
+                  traversait ; il le poursuivit aussitôt. Le chat, pour échapper à <persName key="françois" type="fictif">François</persName>, grimpa
                   sur un des arbres.</p>
                <p>Immédiatement, le gamin, des bras et des jambes, saisit cet arbre, s'enlève
                   de terre. Il grimpe, lui aussi ; mais, crac ! sa blouse s'accroche, se
                   déchire, et le voilà par terre !</p>
-               <p><persName>Suzette</persName> accourt tout effrayée ; <persName>François</persName> se met à rire et lui dit qu'il ne
+               <p><persName key="suzette" type="fictif">Suzette</persName> accourt tout effrayée ; <persName key="françois" type="fictif">François</persName> se met à rire et lui dit qu'il ne
                   s'est pas fait de mal.</p>
                <p> ― « Et ta blouse ! s'écrie la petite sœur en regardant le gros accroc béant
                   ; maman qui a déjà veillé hier pour la raccommoder devra veiller encore
                   aujourd'hui ! » </p>
-               <p><persName>Mme Delorme</persName>, la maîtresse, qui passait en ce moment, entendit ces mots et dit à
-                  <persName>Suzette</persName> : </p>
+               <p><persName key="mme_delorme" type="fictif">Mme Delorme</persName>, la maîtresse, qui passait en ce moment, entendit ces mots et dit à
+                  <persName key="suzette" type="fictif">Suzette</persName> : </p>
                <p>― « Il y a un moyen d'épargner à ta mère ce travail.</p>
-               <p>― « Et lequel, Madame ?</p>
+               <p>― « Et lequel, <persName key="mme_delorme" type="fictif">Madame</persName> ?</p>
                <p>― « C'est de faire toi-même ce raccommodage, tout à l'heure, pendant la
                   leçon de couture. » </p>
-               <p><persName>Suzette</persName>, enchantée de cette idée, ôta aussitôt à M. <persName>François</persName> sa blouse déchirée,
+               <p><persName key="suzette" type="fictif">Suzette</persName>, enchantée de cette idée, ôta aussitôt à M. <persName key="françois" type="fictif">François</persName> sa <objectName ana="connaissances_usuelles">blouse</objectName> déchirée,
                   et l'on rentra en classe.</p>
 
                <pb n="25" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_09-03.jpg"/>
                <fw>L'ACCROC REPRISÉ 25</fw>
-               <p> Là, « Madame », après avoir examiné la déchirure, la montra aux élèves en leur
+               <p> Là, « <persName key="mme_delorme" type="fictif">Madame</persName> », après avoir examiné la déchirure, la montra aux élèves en leur
                   disant : ― « Voyez, un morceau de l'étoffe a été emporté ; avec quoi
                   allons-nous main- tenant combler ce vide ? </p>
                <p>― « Avec un morceau pareil à l'étoffe de la blouse, répondit une pe- tite
@@ -115,7 +115,7 @@
                   faut donc refaire autrement la partie d'étoffe qui manque, et nous y
                   parviendrons avec du fil de même matière.</p>
                <p>« Car toutes les étoffes sont, vous le savez, des assemblages de fils.</p>
-               <p>― « Et d'où se tirent les fils, Madame ?</p>
+               <p>― « Et d'où se tirent les fils, <persName key="mme_delorme" type="fictif">Madame</persName> ?</p>
                <fw>ENFANCE DE S. 2</fw>
 
                <pb n="26" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_09-04.jpg"/>
@@ -165,11 +165,11 @@
 
                <p>« Un cocon est comme une petite bobine faite d'un seul fil qui a quelquefois
                   trois cent cinquante mètres de longueur.</p>
-               <p>― « Et les filaments de la laine, Madame, combien ont-ils ?</p>
+               <p>― « Et les filaments de la laine, <persName key="mme_delorme" type="fictif">Madame</persName>, combien ont-ils ?</p>
                <p>― « Les plus longs ont de cinq à sept centimètres seulement. Ceux du coton sont à
                   peu près aussi courts que ceux du lin et du chanvre.</p>
                <p>― « Avec d'aussi courts filaments, comment peut-on façonner des étoffes,
-                  Madame ? demanda la petite <persName>Suzette</persName>.</p>
+                  <persName key="mme_delorme" type="fictif">Madame</persName> ? demanda la petite <persName key="suzette" type="fictif">Suzette</persName>.</p>
                <p>― « Pour cela, il faut assembler les filaments, </p>
 
                <pb n="28" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_09-06.jpg"/>

@@ -73,16 +73,16 @@
                </p>
                <pb n="111" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_26-01.jpg"/>
                <p> — « Eh bien, mes enfants, n'aurons-nous pas aujourd'hui une devinette ?
-                  demanda <persName>M. Dumay</persName>, un soir que le vent faisait rage au dehors.</p>
-               <p>— « Si, papa, répondit <persName>Jacques</persName>. Devinez quelle est la chose que nous avons devant
+                  demanda <persName key="m_dumay" type="fictif">M. Dumay</persName>, un soir que le vent faisait rage au dehors.</p>
+               <p>— « Si, papa, répondit <persName key="jacques" type="fictif">Jacques</persName>. Devinez quelle est la chose que nous avons devant
                   nous, derrière nous, tout autour de nous et que nous ne voyons pas ; chose plus
                   précieuse que le sel, le pain et l'eau, car nous ne saurions nous en passer
                   un instant sans mourir. » </p>
                <p>Sans chercher trop longtemps, on répondit que c'était l'air. </p>
                <pb n="112" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_26-02.jpg"/>
                <fw>112 L'ENFANCE DE SUZETTE.</fw>
-               <p> — « Mais, demanda <persName>François</persName>, pourquoi ne voyons-nous pas l'air ?</p>
-               <p>— « Parce que, répondit <persName>Jacques</persName>, l'air est un gaz et que les gaz sont
+               <p> — « Mais, demanda <persName key="françois" type="fictif">François</persName>, pourquoi ne voyons-nous pas l'air ?</p>
+               <p>— « Parce que, répondit <persName key="jacques" type="fictif">Jacques</persName>, l'air est un gaz et que les gaz sont
                   invisibles.</p>
                <p>« Nous respirons l'air par les narines, d'où il descend dans
                   l'intérieur de nos poumons.</p>
@@ -99,8 +99,8 @@
                </figure>
 
                <p>A ce moment le chat miaula.</p>
-               <p>— « Et notre chat, et <persName>Castor</persName>, ont-ils aussi besoin d'air ? demanda
-                  <persName>François</persName>.</p>
+               <p>— « Et notre chat, et <persName key="castor" type="fictif">Castor</persName>, ont-ils aussi besoin d'air ? demanda
+                  <persName key="françois" type="fictif">François</persName>.</p>
                <p> — « Tous les animaux, ceux qui marchent sur </p>
                <pb n="113" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_26-03.jpg"/>
                <fw>LA DEVINETTE DE JACOUES. 113 </fw>
@@ -116,7 +116,7 @@
 
 
                <p>Là-dessus on se mit à table sans cesser, pour cela, la conversation. Car la maman,
-                  montrant le petit <persName>Charlot</persName> qui soufflait sur sa cuillerée de soupe, dit : — « Et
+                  montrant le petit <persName key="charlot" type="fictif">Charlot</persName> qui soufflait sur sa cuillerée de soupe, dit : — « Et
                   c'est encore l'air qui refroidit la soupe de votre petit frère. Voyez
                   comme pour souffler il arrondit, d'ins- tinct, et serre les lèvres en
                   n'y laissant qu'une toute petite ouverture. S'il ouvrait la bouche
@@ -129,13 +129,13 @@
 
                <pb n="114" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_26-04.jpg"/>
                <fw>114 L'ENFANCE DE SUZETTE.</fw>
-               <p> Alors <persName>François</persName> souffla des deux manières sur sa main en disant :</p>
+               <p> Alors <persName key="françois" type="fictif">François</persName> souffla des deux manières sur sa main en disant :</p>
                <p>— « C'est vrai, maman !</p>
-               <p>— « Et la raison, reprit <persName>Mme Dumay</persName>, c'est que l'air se refroidit en
+               <p>— « Et la raison, reprit <persName key="mme_dumay" type="fictif">Mme Dumay</persName>, c'est que l'air se refroidit en
                   passant par de petites ouver- tures. Voilà pourquoi il ne faut pas trop
                   s'expo- ser à l'air qui souffle par les interstices des fe- nêtres et
                   des portes. Vous voyez que j'ai mis des bourrelets aux nôtres.</p>
-               <p><persName>M. Dumay</persName> ajouta : </p>
+               <p><persName key="m_dumay" type="fictif">M. Dumay</persName> ajouta : </p>
                <p>—« Ah ! que de choses il faut savoir, ne fût-ce que pour ne pas s'enrhumer !
                   Apprenez, mes enfants, apprenez sans cesse, avec toute votre volonté. » [26]</p>
 

@@ -81,7 +81,7 @@
 				   <p>
 				      par se dissiper aux rayons du soleil. Et alors dans le 
 				      lointain, apparut la haute colline sur laquelle est 
-				      bâtie la ville de <placeName>Laon</placeName>.
+				      bâtie la ville de <placeName><objectName ana="géographie">Laon</objectName></placeName>.
 				   </p>
 				   
 				   <figure>
@@ -94,26 +94,26 @@
 				   <p>Bientôt on distingua l'antique et belle cathédrale 
 				      avec ses deux tours principales se profilant sur le 
 				      ciel bleu.</p>
-				      <p><persName>François</persName>, qui les regardait, s'écria soudain : 
+				      <p><persName key="françois" type="fictif">François</persName>, qui les regardait, s'écria soudain : 
 				      — « Tiens, des bœufs ! il y a des bœufs là-haut ! »
 				      Et, en effet, il y en avait huit en pierre, un à chacun des quatre angles des deux tours.</p>
-				      <p>— « Oui, dit <persName>M° Delorme</persName>, une vieille légende raconte que les architectes qui, au douzième siècle, bâtirent ce beau monument, y placèrent ces bœufs de 
+				      <p>— « Oui, dit <persName key="m_delorme" type="fictif">M° Delorme</persName>, une vieille légende raconte que les architectes qui, au douzième siècle, bâtirent ce beau monument, y placèrent ces bœufs de 
 				      pierre en souvenir de ceux de chair et d'os qui, à grand'-
 				      peine, amenèrent au faîte de la montagne les matériaux nécessaires à la construction de l'édifice. »</p>
 				      <p>Quelques pas plus loin, on aperçut la citadelle ; 
 				      <placeName>Laon</placeName> fait partie, vous le savez, de la ligne de défense 
-				      de notre frontière du nord.</p>
-				      <p>A l'entrée de la ville, <persName>M. Dumay</persName> remisa dans 
+				      de notre <objectName ana="géographie">frontière</objectName> du nord.</p>
+				      <p>A l'entrée de la ville, <persName key="m_dumay" type="fictif">M. Dumay</persName> remisa dans 
 				      une auberge la voiture et la Grise et on escalada la 
 				      « Grimpette », un escalier à pic sur le flanc escarpé 
 				      de la montagne.</p>
 				      <p>L'ascension fut assez rude ; mais aussi quel plaisir quand on commença à dominer le vaste horizon 
 				      et que nos voyageurs purent contempler à leurs 
-				      pieds une vallée profonde dont les deux versants 
+				      pieds une <objectName ana="géographie">vallée</objectName> profonde dont les deux versants 
 				      étaient couverts de verdure !</p>
-				      <p>— « Mais, dit <persName>Suzette</persName> en étendant la main, ne 
+				      <p>— « Mais, dit <persName key="suzette" type="fictif">Suzette</persName> en étendant la main, ne 
 				      sont-ce pas là des vignes?</p>
-				      <p>— « Qui, répondit <persName>Mme Delorme</persName>, car <placeName>Laon</placeName>, quoique ville du Nord, a toujours eu des vignes. Regardez-les bien ; la vigne est ce qui reste ici de plus 
+				      <p>— « Qui, répondit <persName key="mme_delorme" type="fictif">Mme Delorme</persName>, car <placeName>Laon</placeName>, quoique ville du Nord, a toujours eu des vignes. Regardez-les bien ; la vigne est ce qui reste ici de plus 
 				      ancien ; elle a vu naître cette cité.
 				   </p>
 				   <fw>
@@ -123,14 +123,14 @@
 				   <fw>134 L'ENFANCE DE SUZETTE.</fw>
 				   <p>
 				      « Vous avez entendu parler du temps où la <placeName>France</placeName> 
-				      d'aujourd'hui s'appelait la <placeName>Gaule</placeName>. Vous vous souvenez 
-				      aussi que la <placeName>Gaule</placeName> fut conquise par <persName>Jules César</persName>.
-				      50 ans avant <persName>Jésus-Christ</persName>.</p>
+				      d'aujourd'hui s'appelait la <placeName><objectName ana="géographie">Gaule</objectName></placeName>. Vous vous souvenez 
+				      aussi que la <placeName>Gaule</placeName> fut conquise par <persName type="historique">Jules César</persName>.
+				      50 ans avant <persName type="historique">Jésus-Christ</persName>.</p>
 				     <p> « Quand ce pays, pacifié, eut accepté la domination de ses vainqueurs, les soldats de <placeName>Rome</placeName>, qui 
 				      y tenaient garnison, 
 				      n'ayant guère plus 
 				      rien à faire de leurs 
-				      armes, un empereur romain, <persName>Probus</persName>, eut l'idée de les occuper à 
+				      armes, un empereur romain, <persName type="historique">Probus</persName>, eut l'idée de les occuper à 
 				      bêcher les coteaux de la <placeName>Gaule</placeName> et à y planter des 
 				      vignes.</p>
 				   
@@ -140,7 +140,7 @@
 				   
 				      <p>« Ce fut l'origine du vin français, ce vin fameux, 
 				      devenu une de nos principales richesses. »</p>
-				      <p>Là, <persName>M Dumay</persName> prit la parole :</p>
+				      <p>Là, <persName key="m_dumay" type="fictif">M Dumay</persName> prit la parole :</p>
 				      <p>— « Une chose, dit-il, me frappe, moi, laboureur, 
 				   </p>
 
@@ -160,19 +160,19 @@
 				      marchandant, soupesant, trouvant tout trop cher.
 				      Les marchands, de leur côté, trouvaient tout trop bon 
 				      marché ; mais on finissait par s'entendre.</p>
-				      <p><persName>François</persName> s'était arrêté devant une boutique où un 
+				      <p><persName key="françois" type="fictif">François</persName> s'était arrêté devant une boutique où un 
 				      superbe polichinelle en pain d'épices, tout chamarré 
 				      de sucre bleu, blanc et rose, attirait l'oeil.</p>
-				      <p><persName>Jacques</persName> dit alors tout bas à <persName>Suzette</persName> : </p>
-				      <p>— « Je sais bien ce que voudrait <persName>François</persName>.</p>
-				      <p>— « Oui, dit <persName>François</persName> qui avait entendu, je voudrais ce beau bonhomme pour l'apporter à <persName>Charlo</persName>t. »</p>
-				      <p>On félicita M. <persName>François</persName>, qui, depuis sa dernière 
+				      <p><persName key="jacques" type="fictif">Jacques</persName> dit alors tout bas à <persName key="suzette" type="fictif">Suzette</persName> : </p>
+				      <p>— « Je sais bien ce que voudrait <persName key="françois" type="fictif">François</persName>.</p>
+				      <p>— « Oui, dit <persName key="françois" type="fictif">François</persName> qui avait entendu, je voudrais ce beau bonhomme pour l'apporter à <persName key="suzette" type="historique">Charlot</persName>. »</p>
+				      <p>On félicita M. <persName key="françois" type="fictif">François</persName>, qui, depuis sa dernière 
 				      aventure des cerises, avait visiblement fait un progrès moral, puisque maintenant, devant une frian-
-				      dise, il songeait à autrui. Aussi <persName>M. Dumay</persName> s'empressa-t-il d'acheter le polichinelle pour <persName>Charlot</persName> et 
-				      même d'en ajouter un autre pour M. <persName>François</persName>.</p>
+				      dise, il songeait à autrui. Aussi <persName key="m_dumay" type="fictif">M. Dumay</persName> s'empressa-t-il d'acheter le polichinelle pour <persName key="charlot" type="fictif">Charlot</persName> et 
+				      même d'en ajouter un autre pour M. <persName key="françois" type="fictif">François</persName>.</p>
 				      <p>Tout à coup, à un tournant, on aperçut au loin 
 				      des grands bois assez semblables à ceux de <placeName>Coucy</placeName>. </p>
-				      <p><persName>Jacques</persName> et <persName>Suzette</persName> rappelèrent de nouveau leurs 
+				      <p><persName key="jacques" type="fictif">Jacques</persName> et <persName key="suzette" type="fictif">Suzette</persName> rappelèrent de nouveau leurs 
 				      impressions du précédent voyage, leurs souvenirs 
 				   </p>
 				   <pb n="136" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_30-06.jpg"/>
@@ -180,11 +180,11 @@
 				      <p>
 				      historiques, la malheureuse condition des serfs, la 
 				      dureté des seigneurs féodaux. </p>
-				      <p><persName>Suzette</persName> demanda . </p>
+				      <p><persName key="suzette" type="fictif">Suzette</persName> demanda . </p>
 				      <p>— « Est-ce qu'au temps de la féodalité les gens 
 				      de Laon et des autres villes étaient aussi malheureux 
 				      que ceux des campagnes ? »</p>
-				      <p><persName>M. Delorme</persName> lui répondit .</p>
+				      <p><persName key="m_delorme" type="fictif">M. Delorme</persName> lui répondit .</p>
 				      <p>– « Les villes, comme les châteaux forts et toutes 
 				      les terres, appartenaient à un seigneur. Mais il s'établit vite une différence entre les habitants des villes 
 				      ou bourgs, qu'on appelait des bourgeois, et les serfs 
@@ -238,45 +238,45 @@
 				      
 				   <p>Comme l'heure s'avançait, la compagnie prit le 
 				      chemin de l'auberge, où elle déjeuna de très bon 
-				      appétit. L'hôtesse était en train de servir le dessert 
+				      appétit. <persName key="l_hôtesse" type="fictif">L'hôtesse</persName> était en train de servir le dessert 
 				      quand une petite tête pâle, aux grands yeux noirs, se 
 				      montra tout doucement dans l'entre-bâillement de 
-				      la porte. Mais en se voyant aperçue par <persName>Suzette</persName>, elle 
+				      la porte. Mais en se voyant aperçue par <persName key="suzette" type="fictif">Suzette</persName>, elle 
 				      disparut aussitôt.</p>
-				      <p><persName>Mme Delorme</persName> qui l'avait également remarquée, 
-				      demanda à l'hôtesse : </p>
+				      <p><persName key="mme_delorme" type="fictif">Mme Delorme</persName> qui l'avait également remarquée, 
+				      demanda à <persName key="l_hôtesse" type="fictif">l'hôtesse</persName> : </p>
 				      <p>— «  Qui donc est cette enfant, Madame ?</p>
 				      <p>— « C'est la mienne, Madame.</p>
 				      <p>— « Elle a l'air doux et gentil ; pourquoi n'entre-t-elle pas ? Est-ce que nous lui faisons peur ?
-				      La maman répondit tristement, presque à voix 
+				      La <persName key="l_hôtesse" type="fictif">maman</persName> répondit tristement, presque à voix 
 				      basse :</p>
 				      <p>— Hélas ! elle est contrefaite ; elle n'ose se mon-
 				      trer, parce que souvent on rit d'elle. </p> 
-				      <p>A ces mots, Suzette parut tout attendrie. Après 
+				      <p>A ces mots, <persName key="suzette" type="fictif">Suzette</persName> parut tout attendrie. Après 
 				      un regard d'intelligence à son père, elle se leva, alla 
 				      trouver la pauvre petite dans la cour et lui parla si 
 				      naturellement, sans avoir l'air de voir sa difformité, que l'enfant se sentit tout de suite à l'aise.
-				      Puis <persName>Jacques</persName> et <persName>François</persName> arrivèrent, et l'on joua à 
+				      Puis <persName key="jacques" type="fictif">Jacques</persName> et <persName key="françois" type="fictif">François</persName> arrivèrent, et l'on joua à 
 				      cache-cache.</p>
-				      <p>La pauvrette ne courait pas très bien, et s'essoufflait vite ; mais <persName>Suzette</persName>, en y mettant discrètement 
+				      <p>La pauvrette ne courait pas très bien, et s'essoufflait vite ; mais <persName key="suzette" type="fictif">Suzette</persName>, en y mettant discrètement 
 				      de la complaisance, et en s'entendant avec ses frères, 
 				      lui fit gagner la partie.</p>
 				      <p>Et quand arriva l'heure de monter en voiture 
 				      pour le départ :</p>
-				      <p>— « Adieu, <persName>Rose</persName> ! dit <persName>Suzette</persName>.</p>
+				      <p>— « Adieu, <persName key="rose" type="fictif">Rose</persName> ! dit <persName key="suzette" type="fictif">Suzette</persName>.</p>
 				   
 				   <pb n="139" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_30-09.jpg"/>
 				   <fw>FIN D'ANNEE. 139</fw>
 				      
-				   <p>— « Adieu, <persName>Suzette</persName> ! adieu, tous ! » répondit
-				      <persName>Rose</persName> en agitant sa longue et maigre menotte.</p>
+				   <p>— « Adieu, <persName key="suzette" type="fictif">Suzette</persName> ! adieu, tous ! » répondit
+				      <persName key="rose" type="fictif">Rose</persName> en agitant sa longue et maigre menotte.</p>
 				      <p>Elle avait des larmes dans les yeux, mais elle 
 				      souriait ; longtemps elle suivit du regard la voiture 
 				      qui s'éloignait et d'où on lui faisait encore des 
 				      signes d'amitié, </p>
-				      <p>— « N'est-ce pas, petite <persName>Suzette</persName>, qu'il est bon et 
+				      <p>— « N'est-ce pas, petite <persName key="suzette" type="fictif">Suzette</persName>, qu'il est bon et 
 				      doux de donner ainsi à l'occasion un peu de joie aux 
-				      malheureux ! » dit <persName>Mme Delorme</persName>. [30]</p>
+				      malheureux ! » dit <persName key="mme_delorme" type="fictif">Mme Delorme</persName>. [30]</p>
 
 				</div>
 				<div type="causerie">

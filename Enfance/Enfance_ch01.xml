@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?><TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -80,16 +77,16 @@
          		<p>
          			<title>1. — Jolie maison.</title>
          		</p>
-         		<p><persName>Mme Dumay</persName>, la maman, achevait de ranger 
+         		<p><persName key="mme_dumay" type="fictif">Mme Dumay</persName>, la maman, achevait de ranger 
          			la grande pièce, en ce moment éclairée d'un 
          			gai rayon de soleil.</p>
          		<pb n="2" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_01-02.jpg"/>
          		<p>
          			4  L'ENFANCE DE SUZETTE.
-         			Les chandeliers, sur la cheminée, semblaient 
-         			d'or, et la batterie de cuisine, accrochée au mur, 
+         			Les <objectName ana="grammaire"><objectName ana="menage"><objectName ana="menage">chandeliers</objectName></objectName></objectName>, sur la cheminée, semblaient 
+         			d'or, et la <objectName ana="menage">batterie de cuisine</objectName>, accrochée au mur, 
          			paraissait être d'argent, tant tout cela reluisait.
-         			Le poêle, ciré à la mine de plomb, reluisait aussi. </p>
+         			Le <objectName ana="grammaire">poêle</objectName>, ciré à la <objectName ana="menage">mine de plomb</objectName>, reluisait aussi. </p>
          			<p>Les rideaux, aux vitres, étaient d'un blanc 
          			de neige. Sur l'appui des fenêtres il y avait des
          			vases de fleurs.</p>
