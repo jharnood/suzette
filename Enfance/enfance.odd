@@ -136,6 +136,9 @@
                 <valItem ident="asie" mode="add">
                   <desc>Asie</desc>
                 </valItem>
+                <valItem ident="france" mode="add">
+                  <desc>France</desc>
+                </valItem>
               </valList>
             </attDef>
           </attList>
