@@ -77,51 +77,46 @@
                   filles, il y eu des compositions de fin d'année.</p>
                <p>Et vous savez que c'est là le moment pour les écoliers et les écolières de
                   montrer ce qu'il y a dans leurs petites têtes.</p>
-               <p>Dieu merci ! notre petite <persName>Suzette</persName> et son frère <persName>Jacques</persName> n'étaient pas de ces
-                  élèves inattentifs, indifférents qui ne tirent aucun profit des leçons de leurs
+               <p>Dieu merci ! notre petite <persName key="suzette" type="fictif">Suzette</persName> et son frère <persName key="jacques" type="fictif">Jacques</persName> n'étaient pas de ces
+                  élèves <objectName ana="grammaire">inattentifs</objectName>, indifférents qui ne tirent aucun profit des leçons de leurs
                   maîtres.</p>
-               <p>Ils étaient, au contraire, de ceux qu'on a comparés à de jeunes arbres
-                  plantés en bon lieu, près des eaux vives, qui croissent, portent des fleurs et des
-                  fruits, et sont la parure de la terre.</p>
+               <p><objectName ana="morale">Ils étaient, au contraire, de ceux qu'on a comparés à de jeunes arbres plantés en bon lieu, près des eaux vives, qui croissent, portent des fleurs et des fruits, et sont la parure de la terre.</objectName></p>
                <p>Leurs compositions furent parmi les meilleures </p>
                <pb n="37" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_12-02.jpg"/>
                <fw>RÉCOMPENSES. 37</fw>
                <p> et, un soir, ils arrivèrent radieux à la maison, portant chacun un joli
                   livre.</p>
-               <p><persName>M. François</persName>, pour sa part, avait gagné une image. Vous pensez bien que ce
+               <p><persName key="françois" type="fictif">M. François</persName>, pour sa part, avait gagné une image. Vous pensez bien que ce
                   n'était pas pour avoir déchiré sa blouse en grimpant aux arbres après les
                   petits chats ; c'était pour avoir lu sans faute tout l'alphabet.</p>
                <p>Il y eut grande joie à la maison. La maman embrassa ses chéris avec des larmes
                   dans les yeux et le papa, tout heureux, leur dit :</p>
                <p>— « A la bonne heure ! Les progrès de mes enfants me réjouissent autant que de bon
-                  blé dans mon grenier. Le blé, c'est le pain qui fait vivre le corps ; le
-                  savoir est un pain non moins précieux qui nourrit l'intelligence et la
-                  fortifie. Je suis content de toi, <persName>Jacques</persName> ; je le suis aussi de ma petite <persName>Suzette</persName>,
+                  blé dans mon grenier. <objectName ana="morale">Le blé, c'est le pain qui fait vivre le corps</objectName> ; <objectName ana="morale">le savoir est un pain non moins précieux qui nourrit l'intelligence et la fortifie</objectName>. Je suis <objectName ana="grammaire">content</objectName> de toi, <persName key="jacques" type="fictif">Jacques</persName> ; je le suis aussi de ma petite <persName key="suzette" type="fictif">Suzette</persName>,
                   qui se montre à l'école ce que je la vois ici, pleine de bonne volonté, et je
-                  ne suis pas mécontent de <persName>François</persName>.</p>
+                  ne suis pas <objectName ana="grammaire">mécontent</objectName> de <persName key="françois" type="fictif">François</persName>.</p>
                <p>— « Oh ! papa, oh ! chère maman, si j'avais su vous faire tant de plaisir, je
-                  me serais encore plus appliquée, dit <persName>Suzette</persName>.</p>
-               <p>— « Moi aussi, dit <persName>Jacques</persName>.</p>
-               <p>— « Et moi également ! s'écria <persName>François</persName> en élevant son image en l'air
+                  me serais encore plus appliquée, dit <persName key="suzette" type="fictif">Suzette</persName>.</p>
+               <p>— « Moi aussi, dit <persName key="jacques" type="fictif">Jacques</persName>.</p>
+               <p>— « Et moi également ! s'écria <persName key="françois" type="fictif">François</persName> en élevant son image en l'air
                   pour qu'on ne perdit pas de vue son mérite.</p>
-               <p>— « Eh bien ! mes petits, l'année prochaine vous permettra de faire mieux
-                  encore. »</p>
-               <p><persName>Mme Dumay</persName> dit à son tour :</p>
+               <p>— « <objectName ana="morale">Eh bien ! mes petits, l'année prochaine vous permettra de faire mieux encore</objectName>. »</p>
+               <p><persName key="mme_dumay" type="fictif">Mme Dumay</persName> dit à son tour :</p>
                <fw>ENFANCE DE S. 3</fw>
 
                <pb n="38" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_12-03.jpg"/>
                <fw>38 L'ENFANCE DE SUZETTE.</fw>
-               <p> — « Nous donnerons un dîner de fête et, si tu le veux. <persName>Denis</persName>, nous inviterons
+               <p> — « Nous donnerons un dîner de fête et, si tu le veux. Denis, nous inviterons
                   l'institutrice et son mari l'instituteur, à qui nous devons une grande
                   part de notre plaisir d'aujourd'hui. Cest entre leurs mains que
                   l'esprit de nos enfants grandit et s'améliore ; montrons-leur notre
                   reconnaissance.</p>
-               <p>— « Voilà une bonne idée, répondit <persName>M. Dumay</persName>, je vais porter l'invitation.
+               <p>— « Voilà une bonne idée, répondit <persName key="m_dumay" type="fictif">M. Dumay</persName>, je vais porter l'invitation.
                   »</p>
                <p>Il était de retour quelques instants après. </p>
                <p>L'instituteur et l'institutrice avaient accepté avec plaisir ; il était
                   même convenu qu'ils amène- raient un de leurs frères, arrivé la veille
-                  d'un grand voyage au loin, pour passer avec eux quelques jours de vacances.
+                  d'un grand voyage au loin, pour <objectName ana="grammaire">passer</objectName> avec eux quelques jours de vacances.
                   [12]</p>
 
             </div>

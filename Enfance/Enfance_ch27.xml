@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?><TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -75,32 +72,32 @@
                   <title>27. — Il faut penser à autrui.</title>
                </p>
                <pb n="114" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_27-01.jpg"/>
-               <p> Quelques jours après, <persName>Jacques</persName>, allant faire une commission, trouva sur le
-                  sentier, derrière le jardin, des moellons et des quartiers de briques tombés
+               <p> Quelques jours après, <persName key="jacques" type="fictif">Jacques</persName>, allant faire une commission, trouva sur le
+                  sentier, derrière le jardin, des <objectName ana="connaissances_usuelles">moellons</objectName> et des quartiers de <objectName ana="connaissances_usuelles">briques</objectName> tombés
                   d'une charrette qui venait de passer.</p>
-               <p>Ils obstruaient à peu près le chemin. <persName>Jacques</persName> songea d'abord à le
+               <p>Ils obstruaient à peu près le chemin. <persName key="jacques" type="fictif">Jacques</persName> songea d'abord à le
                   débarrasser, puis il se dit : — « Ma foi ! ce n'est pas mon affaire ;
                   c'est </p>
                <pb n="115" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_27-02.jpg"/>
                <fw>IL FAUT PENSER A AUTRUI. 115</fw>
-               <p> bien plutôt celle du maladroit qui sème ainsi ses moellons et ses briques sur la
+               <p> bien plutôt celle du maladroit qui sème ainsi ses <objectName ana="connaissances_usuelles">moellons</objectName> et ses <objectName ana="connaissances_usuelles">briques</objectName> sur la
                   route. » </p>
-               <p>Le papa n'était pas encore rentré des champs et la maman savonnait du linge
+               <p>Le <persName key="m_dumay" type="fictif">papa</persName> n'était pas encore rentré des champs et la <persName key="mme_dumay" type="fictif">maman</persName> savonnait du <objectName ana="connaissances_usuelles">linge</objectName>
                   au fournil.</p>
 
                <figure>
                   <caption>Ma foi ! ce n'est pas à moi à débarrasser le chemin ! </caption>
                </figure>
 
-               <p>Dans la maison, près de la fenêtre, petite <persName>Suzette</persName> épluchait des pommes de terre
-                  auprès de <persName>Charlot</persName> qui jouait avec <persName>Castor</persName>, et de <persName>François</persName>, occupé à éventrer un
+               <p>Dans la maison, près de la fenêtre, petite <persName key="suzette" type="fictif">Suzette</persName> épluchait des pommes de terre
+                  auprès de <persName key="charlot" type="fictif">Charlot</persName> qui jouait avec <persName key="castor" type="fictif">Castor</persName>, et de <persName key="françois" type="fictif">François</persName>, occupé à éventrer un
                   pauvre mouton de carton pour voir ce qu'il y avait dedans. </p>
                <p> </p>
                <pb n="116" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_27-03.jpg"/>
                <fw>116 L'ENFANCE DE SUZETTE.</fw>
-               <p> Petite <persName>Suzette</persName> était très appliquée à peler ses pommes de terre bien finement,
+               <p> Petite <persName key="suzette" type="fictif">Suzette</persName> était très appliquée à peler ses pommes de terre bien finement,
                   sans en enlever la moitié et le meilleur, comme font tant de gens. Quand toutes
-                  les pommes de terre furent épluchées, elle leva la tête : <persName>François</persName> n'était
+                  les pommes de terre furent épluchées, elle leva la tête : <persName key="françois" type="fictif">François</persName> n'était
                   plus là. Il ne se génait pas pour s'échapper ansi à la sourdine.</p>
                <p>Elle allait l'appeler quand il reparut en pleurant, la main sur sa joue</p>
                <p>— « Qu'y a-t-il ?.. de manda-t-elle effrayée. — « De gros moel- lons dans le
@@ -112,38 +109,38 @@
                </figure>
 
 
-               <p> Elle alluma une bougie, et écartant la main de <persName>François</persName>, elle aperçut sur sa joue
-                  une forte écorchure d'où le sang s'échappait.</p>
-               <p>Petite <persName>Suzette</persName> ne pouvait pas supporter la vue du sang. Toute pâle, elle recula et
+               <p> Elle alluma une bougie, et écartant la main de <persName key="françois" type="fictif">François</persName>, elle aperçut sur sa joue
+                  une forte <objectName ana="connaissances_usuelles">écorchure</objectName> d'où le sang s'échappait.</p>
+               <p>Petite <persName key="suzette" type="fictif">Suzette</persName> ne pouvait pas supporter la vue du sang. Toute pâle, elle recula et
                   en poussant un gros soupir s'affaissa sur une chaise. A la vue de leur sœur
-                  presque évanouie, <persName>François</persName> et <persName>Charlot</persName> se mirent à crier :</p>
-               <p>« Maman ! maman ! » </p>
+                  presque évanouie, <persName key="françois" type="fictif">François</persName> et <persName key="charlot" type="fictif">Charlot</persName> se mirent à crier :</p>
+               <p>« <persName key="mme_dumay" type="fictif">Maman</persName> ! <persName key="mme_dumay" type="fictif">maman</persName> ! » </p>
                <pb n="117" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_27-04.jpg"/>
                <fw>IL FAUT PENSER A AUTRUI. 117</fw>
-               <p> <persName>Mme Dumay</persName> accourut à leurs cris et, tout d'a- bord, ne vit que la pauvre
-                  <persName>Suzette</persName> sur sa chaise, livide, les lèvres décolorées, les yeux fixes.</p>
-               <p> « <persName>Suzette</persName> ! ma mignonne, qu'as-tu donc ? » s'écria-t-elle.</p>
-               <p>Elle lui fit respirer un peu de vinaigre, et lui en frotta les tempes. Enfin
-                  ranimée, la petite <persName>Suzette</persName> montra <persName>François</persName> qui s'était un peu écarté.</p>
+               <p> <persName key="mme_dumay" type="fictif">Mme Dumay</persName> accourut à leurs cris et, tout d'a- bord, ne vit que la pauvre
+                  <persName key="suzette" type="fictif">Suzette</persName> sur sa chaise, livide, les lèvres décolorées, les yeux fixes.</p>
+               <p> « <persName key="suzette" type="fictif">Suzette</persName> ! ma mignonne, qu'as-tu donc ? » s'écria-t-elle.</p>
+               <p>Elle lui fit respirer un peu de <objectName ana="connaissances_usuelles">vinaigre</objectName>, et lui en frotta les tempes. Enfin
+                  ranimée, la petite <persName key="suzette" type="fictif">Suzette</persName> montra <persName key="françois" type="fictif">François</persName> qui s'était un peu écarté.</p>
                <p>— « C'est lui, le blessé, murmura-t-elle d'une voix faible. Il est tombé
                   sur des pierres... le sang m'a fait peur. »</p>
-               <p>Sans en demander davantage, la maman cou- rut à <persName>François</persName>, constata sur sa joue une
-                  grosse écorchure et se hâta de préparer un peu de vieux linge fin et une cuvette
+               <p>Sans en demander davantage, la <persName key="mme_dumay" type="fictif">maman</persName> cou- rut à <persName key="françois" type="fictif">François</persName>, constata sur sa joue une
+                  grosse <objectName ana="connaissances_usuelles">écorchure</objectName> et se hâta de préparer un peu de vieux <objectName ana="connaissances_usuelles">linge</objectName> fin et une cuvette
                   d’eau aiguisée de quel ques gouttes de teinture d'arnica.</p>
                <p>Puis se tournant vers sa fille et la regardant avec tristesse :</p>
-               <p>« Ainsi, <persName>Suzette</persName>, dit-elle tout en trempant le linge dans la cuvette, ainsi, si je
+               <p>« Ainsi, <persName key="suzette" type="fictif">Suzette</persName>, dit-elle tout en trempant le <objectName ana="connaissances_usuelles">linge</objectName> dans la cuvette, ainsi, si je
                   n'eusse été là, tu aurais, par grande faiblesse, laissé ton frère sans
                   secours ? »</p>
-               <p><persName>Suzette</persName> baissa la tête.</p>
-               <p>— « Eh bien ! reprit la maman, relève-toi de ce moment d'abandon ; viens
-                  toi-même étancher ce sang et panser la joue de <persName>François</persName>. Il faut acquérir la vertu
+               <p><persName key="suzette" type="fictif">Suzette</persName> baissa la tête.</p>
+               <p>— « Eh bien ! reprit la <persName key="mme_dumay" type="fictif">maman</persName>, relève-toi de ce moment d'abandon ; viens
+                  toi-même étancher ce sang et panser la joue de <persName key="françois" type="fictif">François</persName>. Il faut acquérir la vertu
                   du courage, quand on ne l'a pas naturellement. » </p>
                <fw>7.</fw>
 
                <pb n="118" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_27-05.jpg"/>
                <fw>118 L'ENFANCE DE SUZETTE.</fw>
-               <p> Petite <persName>Suzette</persName> se leva ; quoique encore un peu pâle, elle avait l'air
-                  résolu. Prenant le linge, bravement elle étancha le sang et pansa son frère
+               <p> Petite <persName key="suzette" type="fictif">Suzette</persName> se leva ; quoique encore un peu pâle, elle avait l'air
+                  résolu. Prenant le <objectName ana="connaissances_usuelles">linge</objectName>, bravement elle étancha le sang et pansa son frère
                   d'une main tendre et délicate.</p>
 
                <figure>
@@ -151,21 +148,21 @@
                      frère d'une main tendre et délicate.</caption>
                </figure>
 
-               <p>« Voilà qui est bien, ma fille, » lui dit alors sa mère en l'embrassant.</p>
-               <p>Au même moment, <persName>Jacques</persName> rentrait avec son père; <persName>Mme Dumay</persName> leur conta
+               <p>« Voilà qui est bien, ma <persName key="suzette" type="fictif">fille</persName>, » lui dit alors sa <persName key="mme_dumay" type="fictif">mère</persName> en l'embrassant.</p>
+               <p>Au même moment, <persName key="jacques" type="fictif">Jacques</persName> rentrait avec son père; <persName key="mme_dumay" type="fictif">Mme Dumay</persName> leur conta
                   l'accident.</p>
-               <p>— « Mais qui a donc pu obs- truer ainsi ce sentier ? dit <persName>M. Dumay</persName>. Si j'avais
+               <p>— « Mais qui a donc pu obs- truer ainsi ce sentier ? dit <persName key="m_dumay" type="fictif">M. Dumay</persName>. Si j'avais
                   eu à pas- ser par là, je l'aurais certainement déblayé.</p>
-               <p>— « J'y suis passé, moi, dit <persName>Jacques</persName> d'une voix un peu altérée.
-                  J'ai vu ces briques, ces moellons, j'ai même eu un moment l'idée de
+               <p>— « J'y suis passé, moi, dit <persName key="jacques" type="fictif">Jacques</persName> d'une voix un peu altérée.
+                  J'ai vu ces <objectName ana="connaissances_usuelles">briques</objectName>, ces <objectName ana="connaissances_usuelles">moellons</objectName>, j'ai même eu un moment l'idée de
                   les enlever, mais la pensée de réparer la maladresse d'un autre m'a
                   arrêtée... Si j'avais pu prévoir que notre </p>
                <p> </p>
                <pb n="119" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_27-06.jpg"/>
                <fw>IL FAUT PENSER A AUTRUI. 119</fw>
-               <p> petit <persName>François</persName>, qui reçoit déjà assez de coups par sa propre imprudence... </p>
-               <p> — « Eh ! si ce n'avait été <persName>François</persName>, c'eût été quelque autre personne !
-                  interrompit <persName>M. Dumay</persName> ; on ne perd pas plus sa peine à éviter un péril aux autres
+               <p> petit <persName key="françois" type="fictif">François</persName>, qui reçoit déjà assez de coups par sa propre imprudence... </p>
+               <p> — « Eh ! si ce n'avait été <persName key="françois" type="fictif">François</persName>, c'eût été quelque autre personne !
+                  interrompit <persName key="m_dumay" type="fictif">M. Dumay</persName> ; on ne perd pas plus sa peine à éviter un péril aux autres
                   qu'à soi-même.</p>
                <p>« Ecoutez cette histoire que mes parents m'ont contée autrefois :</p>
                <p>« Un jour, un terrain se trouva inondé par suite de la rupture d'une digue.

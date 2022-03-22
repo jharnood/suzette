@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/out/enfance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?><TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -82,15 +79,15 @@
 				      Les vacances s'achevèrent ; et, de nouveau, 
 				      il fallut rentrer en classe. Bientôt les feuilles 
 				      des arbres jaunirent, s'éparpillèrent 
-				      au vent d'automne 
+				      au vent d'<objectName ana="sciences_naturelles">automne</objectName> 
 				      Adieu les oiseaux, 
 				      le soleil, la douce 
 				      chaleur !</p>
 				      <p>Puis vint décem-
-				      bre avec ses glaces, 
-				      ses neiges, ses jour
+				      bre avec ses <objectName ana="sciences_naturelles">glaces</objectName>, 
+				      ses <objectName ana="sciences_naturelles">neiges</objectName>, ses jour
 				      nées si sombres et 
-				      si courtes.</p>
+				      si <objectName ana="sciences_naturelles">courtes</objectName>.</p>
 				   
 				   <figure>
 				      <caption>Puis vint décembre avec ses glaces
@@ -98,9 +95,9 @@
 				   </figure>
 				   
 				      <p>Par un de ces soirs 
-				      d'hiver, il faisait déjà nuit lorsque petite <persName>Suzette</persName> 
+				      d'<objectName ana="sciences_naturelles">hiver</objectName>, il faisait déjà nuit lorsque petite <persName key="suzette" type="fictif">Suzette</persName> 
 				      et ses deux frères quittèrent l'école. La bise gla-
-				      ciale fouettait la neige qui tombait. Brrr ! quel 
+				      ciale fouettait la <objectName ana="sciences_naturelles">neige</objectName> qui tombait. Brrr ! quel 
 				      temps !
 				   </p>
 				   
@@ -108,23 +105,23 @@
 				   <fw>LA DEVINETTE DE SUZETTE. 99</fw>
 				   <p>
 				      
-				      <persName>Suzette</persName> abritait son petit frère sous son châle 
-				      de tricot, <persName>Jacques</persName> marchait à leur côté. Leurs 
+				      <persName key="suzette" type="fictif">Suzette</persName> abritait son petit frère sous son châle 
+				      de tricot, <persName key="jacques" type="fictif">Jacques</persName> marchait à leur côté. Leurs 
 				      galoches ne faisaient guère de bruit sur le pavé 
-				      où la couche de neige était déjà épaisse.</p>
+				      où la couche de <objectName ana="sciences_naturelles">neige</objectName> était déjà épaisse.</p>
 				   
 				   <figure>
 				      <caption>Suzette abritait son petit frère sous son chàle de tricot, Jacques 
 				         marchait à leur côté. </caption>
 				   </figure>
 				   
-				      <p>Cependant, la maman les entendit venir. Les 
+				      <p>Cependant, la <persName key="mme_dumay" type="historique">maman</persName> les entendit venir. Les 
 				      mamans qui attendent leurs enfants ont toujours 
 				      l'oreille fine !</p>
 				     <p> Elle leur ouvrit la porte.</p>
 				      <p>—  « Vite, vite, entrez, mes chéris ! Donnez
 				      moi vos livres. » </p>
-				      <p>Elle les en débarrassa ; après quoi ils embrassaient la chère maman, le papa et <persName>Charlot</persName>.
+				      <p>Elle les en débarrassa ; après quoi ils embrassaient la chère <persName key="mme_dumay" type="fictif">maman</persName>, le <persName key="m_dumay" type="fictif">papa</persName> et <persName key="charlot" type="fictif">Charlot</persName>.
 				   </p>
 				   <pb n="100" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_24-03.jpg"/>
 				   <fw>100 L'ENFANCE DE SUZETTE.</fw>
@@ -134,16 +131,16 @@
 				      bien chauffée, bien éclairée !</p>
 				      <p>Ils coururent se sécher, auprès du poêle. Le 
 				      souper y cuisait au ronron du chat paresseuse-
-				      ment étendu auprès de son ami <persName>Castor</persName>, couché, 
+				      ment étendu auprès de son ami <persName key="castor" type="fictif">Castor</persName>, couché, 
 				      lui aussi, mais qui levait de temps en temps le 
 				      nez vers le poêlon d'où sortait une alléchante 
 				      odeur.</p>
-				      <p><persName>Jacques</persName>, petite <persName>Suzette</persName> et 
-				      <persName>François</persName>, une fois réchauf-
+				      <p><persName key="jacques" type="fictif">Jacques</persName>, petite <persName key="suzette" type="fictif">Suzette</persName> et 
+				      <persName key="françois" type="fictif">François</persName>, une fois réchauf-
 				      fés, allèrent s'asseoir à la ta-
 				      ble où le papa lisait un journal 
 				      sous la lampe. Auprès de lui 
-				      la maman cousait.</p>				   
+				      la <persName key="mme_dumay" type="fictif">maman</persName> cousait.</p>				   
 				   
 				   <figure>
 				      <caption>Aromates.<lb/>
@@ -159,12 +156,12 @@
 				      gneusement à la sauce, y 
 				      ajouta du sel, quelques aro-
 				      mates et goûta encore.</p>
-				      <p>Petite <persName>Suzette</persName> suivait sa mère des yeux. 
+				      <p>Petite <persName key="suzette" type="fictif">Suzette</persName> suivait sa mère des yeux. 
 				      — « Voulez-vous que je vous dise une devinette ?
-				      demanda-t-elle tout à coup quand la maman fut 
+				      demanda-t-elle tout à coup quand la <persName key="mme_dumay" type="fictif">maman</persName> fut 
 				      revenue s'asseoir.</p>
 				      <p>— « Si la devinette est bonne, dis-la-nous, 
-				      répondit <persName>Mme Dumay</persName>.</p>
+				      répondit <persName key="mme_dumay" type="fictif">Mme Dumay</persName>.</p>
 				      <p>— « Voyons un peu, ajouta le papa.</p>
 				      <p>— « Eh bien, devinez quelle est la chose qu'on 
 				      est sûr de trouver sur la table du pauvre comme 
@@ -177,9 +174,9 @@
 				      apprécier quand on la possède, et qu'on esti-
 				      merait plus que l'or, si elle venait à manquer ? » </p>
 				      <p>Il y eut un moment de silence ; tout le monde, 
-				      papa, maman, <persName>Jacques</persName> et même <persName>François</persName>, chercha 
+				      <persName key="m_dumay" type="fictif">papa</persName>, <persName key="mme_dumay" type="fictif">maman</persName>, <persName key="jacques" type="fictif">Jacques</persName> et même <persName key="françois" type="fictif">François</persName>, chercha 
 				      le mot de la devinette.</p>
-				      <p>Puis <persName>Jacques</persName> demanda, suivant l'usage de ce 
+				      <p>Puis <persName key="françois" type="fictif">Jacques</persName> demanda, suivant l'usage de ce 
 				      jeu :</p>
 				      <p>« Est-ce un animal ?</p>
 				      <p>— « Non.</p>
@@ -189,13 +186,13 @@
 				      <p>« Oui.</p>
 				      <p>— « Bon. Le tire-t-on de la terre ?</p>
 				      <p>— « De la terre et aussi de l'eau. »</p>
-				      <p>Après un nouveau silence la maman dit : </p>
+				      <p>Après un nouveau silence la <persName key="mme_dumay" type="fictif">maman</persName> dit : </p>
 				      <p>— « Un minéral.... Est-ce que je ne viens pas 
 				      de mettre un peu de ce minéral dans la sauce, 
 				      pendant que tu regardais de mon côté ?</p>
-				      <p> — « Ah ! c'est le sel ! s'écria <persName>Jacques</persName>.</p>
-				      <p>— « Oui, oui, le sel, dit <persName>Suzette</persName> en battant des 
-				      mains ; <persName>Mme Delorme</persName> nous a fait cette après-midi 
+				      <p> — « Ah ! c'est le sel ! s'écria <persName key="jacques" type="fictif">Jacques</persName>.</p>
+				      <p>— « Oui, oui, le sel, dit <persName key="suzette" type="fictif">Suzette</persName> en battant des 
+				      mains ; <persName key="mme_delorme" type="fictif">Mme Delorme</persName> nous a fait cette après-midi 
 				      une leçon sur le sel ; elle nous a appris que, sans 
 				      le sel, les mets les plus délicats ne vaudraient 
 				      rien, que sans lui nous n'aurions que des digestions 
@@ -219,14 +216,14 @@
 				      <caption>Un marais salant.</caption>
 				   </figure>
 				   
-				     <p> « <persName>M. Delorme</persName>, dit <persName>Jacques</persName>, nous a parlé, à 
+				     <p> « <persName key="m_delorme" type="fictif">M. Delorme</persName>, dit <persName key="jacques" type="fictif">Jacques</persName>, nous a parlé, à 
 				      nous, du sel gemme, qui se trouve, comme la 
 				      pierre et la houille, dans les profondeurs de la 
 				      terre et qu'on exploite soit à ciel ouvert, soit à 
 				      l'aide de galeries souterraines. Une fois extraits 
 				      de la mine, les blocs de sel sont pulvérisés sous 
 				      des meules et livrés au commerce.</p>
-				     <p> « En effet, dit <persName>M. Dumay</persName>, pendant mon ser-
+				     <p> « En effet, dit <persName key="m_dumay" type="fictif">M. Dumay</persName>, pendant mon ser-
 				   </p>
 
 				   <pb n="103" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_24-06.jpg"/>
@@ -234,7 +231,7 @@
 				   <p>
 				      
 				      vice militaire, j'eus l'occasion de voir plusieurs de 
-				      ces mines de sel dans le <placeName>Doubs</placeName> et la <placeName>Haute-Saône</placeName>.
+				      ces mines de sel dans le <placeName>Doubs</placeName> et la <placeName><objectName ana="sciences_naturelles">Haute-Saône</objectName></placeName>.
 				      « Je savais déjà qu'autrefois, avant la Révolution de 1789 il y avait sur le sel un impôt 
 				      très lourd qu'on appelait la 
 				      gabelle.</p>
@@ -277,15 +274,15 @@
 				      enfants. Et cet impôt de la gabelle était alors si 
 				      durement exigé que dans bien des familles, pour 
 				      pouvoir le payer, on se passait de pain. » </p>
-				      <p>A peine <persName>M. Dumay</persName> avait-il fini de parler que 
+				      <p>A peine <persName key="m_dumay" type="fictif">M. Dumay</persName> avait-il fini de parler que 
 				      l'horloge sonna l'heure du souper ; le couvert fut 
 				      vite mis.</p>
-				     <p> — « Eh bien, mes enfants, reprit <persName>M. Dumay</persName> en 
+				     <p> — « Eh bien, mes enfants, reprit <persName key="m_dumay" type="fictif">M. Dumay</persName> en 
 				      s'asseyant à table, vous voyez que les devinettes ont 
 				      parfois leur utilité. Je serai content si de temps 
 				      à autre l'un de vous peut nous en proposer une, ou 
 				      bien encore nous faire quelque lecture, pour 
-				      occuper nos longues veillées d'hiver.</p>
+				      occuper nos longues veillées d'<objectName ana="sciences_naturelles">hiver</objectName>.</p>
 				      <p>« Qui, papa, » dirent les enfants. [24]
 				   </p>
 				   
@@ -294,7 +291,7 @@
 				</div>
 				<div type="causerie">
 				   <p>
-				      [24] <label>CAUSERIE</label> : Sciences naturelles. — Qu'est-ce qui cause 
+				      [24] <label>CAUSERIE</label> : <term ana="sciences_naturelles">Sciences naturelles.</term> — Qu'est-ce qui cause 
 				      la gelée et la neige ? — Si l'on échauffait de la glace et de la neige, 
 				      que deviendraient-elles ?</p>
 				      <p>Quelle saison précède l'automne ? — Quelle saison suit l'hiver ? — 

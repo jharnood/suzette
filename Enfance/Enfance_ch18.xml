@@ -74,12 +74,12 @@
                <pb n="66" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_18-01.jpg"/>
                <p> On entra dans un autre bâtiment où se voyaient, comme dans le premier, des fours
                   embrasés, devant lesquels, sur une estrade, des ouvriers tra- vaillaient.</p>
-               <p>Un de ces ouvriers plongea dans le four près de lui une longue canne de fer
+               <p>Un de ces <objectName ana="histoire">ouvriers</objectName> plongea dans le four près de lui une longue canne de fer
                   creuse, puis l'en retira. Elle portait à son extrémité une grosse goutte de
                   verre en fusion.</p>
                <p>Il passa la canne à un second ouvrier qui, par l'autre extrémité, se mit à
                   souffler dedans comme dans une trompette, si bien que sous son souffle la goutte
-                  de verre se gonfla.</p>
+                  de <objectName ana="menage">verre</objectName> se gonfla.</p>
                <p>Il l'emprisonna alors dans un moule, tout en continuant de souffler. Quelques
                   instants après, il ouvrait le moule, et en tirait une jolie carafe qu'il
                   termina en quelques coups de ciseaux. En effet, tant que le verre n'est pas
@@ -92,7 +92,7 @@
                <fw>AUTRE SPECTACLE. 67</fw>
                <p> chon à eau, un carreau de vitre ; et c'est cette manière d'opérer qui
                   s'appelle le « soufflage » .</p>
-               <p>La compagnie prit alors congé de <persName>M. Garnier</persName> en le remerciant de ses intéressantes
+               <p>La compagnie prit alors congé de <persName key="m_garnier" type="fictif">M. Garnier</persName> en le remerciant de ses intéressantes
                   explications et sortit de l'usine tout en causant des belles choses
                   qu'elle venait de voir.</p>
 
@@ -122,13 +122,13 @@
 
                <pb n="68" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_18-03.jpg"/>
                <fw>L'ENFANCE DE SUZETTE.</fw>
-               <p> petite <persName>Suzette</persName> qui, la veille à table, avait écouté avec tant de plaisir
+               <p> petite <persName key="suzette" type="fictif">Suzette</persName> qui, la veille à table, avait écouté avec tant de plaisir
                   l'histoire de la faïence et de la porcelaine, demanda si l'usage du
                   verre dans le monde était fort ancien.</p>
-               <p><persName>M. Delorme</persName> répondit :</p>
-               <p>— « Il y a, dans un musée d'An- gleterre, un grain de collier de verre qui,
+               <p><persName key="m_delorme" type="fictif">M. Delorme</persName> répondit :</p>
+               <p>— « Il y a, dans un <objectName ana="connaissances_usuelles">musée</objectName> d'An- gleterre, un grain de collier de verre qui,
                   d'après l'inscription en écriture égyptienne qu'il porte, a
-                  appartenu à une reine d'Égypte, nommée Ra-ma-ka. Ra-ma-ka vivait quinze cents
+                  appartenu à une reine <placeName>d'Égypte</placeName>, nommée Ra-ma-ka. Ra-ma-ka vivait quinze cents
                   ans avant notre ère. Ce grain de verre a donc près de trois mille cinq cents
                   ans.</p>
 
@@ -137,7 +137,7 @@
                      égyptienne.</caption>
                </figure>
 
-               <p>« Les Romains eurent aussi des verreries Ils en créèrent en <placeName>Gaule</placeName> après leur
+               <p>« Les Romains eurent aussi des <objectName ana="histoire"><objectName ana="menage">verreries</objectName></objectName> Ils en créèrent en <placeName>Gaule</placeName> après leur
                   conquête de ce pays qui est le nôtre.</p>
 
                <figure>
@@ -152,7 +152,7 @@
                <fw>AUTRE SPECTACLE. 69</fw>
                <p> des Arabes, les beaux vitraux de couleur qui ornent encore les fenêtres et les
                   rosaces de plusieurs de nos cathédrales.</p>
-               <p>— « Mais les fenêtres des maisons, Monsieur, demanda <persName>Jacques</persName>, eurent-elles aussi
+               <p>— « Mais les <objectName ana="histoire">fenêtres</objectName> des maisons, Monsieur, demanda <persName key="jacques" type="fictif">Jacques</persName>, eurent-elles aussi
                   des vitraux coloriés ?</p>
                <p>— « Oh ! non ; les fenêtres des maisons attendirent bien longtemps les simples
                   vitres claires, transparentes dont nous nous servons aujourd'hui, ces vitres
@@ -195,15 +195,15 @@
             </div>
             <div type="causerie">
                <p>[18] <label>CAUSERIE</label> : <term ana="connaissances_usuelles">Connaissances usuelles</term>. — Qu'est-ce qu'un
-                     <emph>musée</emph> ?</p>
-               <p><term ana="histoire">Histoire</term>. — Quel est le plus ancien objet de verrerie que l'on connaisse ? —
+                     <emph><objectName ana="connaissances_usuelles">musée</objectName></emph> ?</p>
+               <p><term ana="histoire">Histoire</term>. — Quel est le plus ancien objet de <objectName ana="histoire">verrerie</objectName> que l'on connaisse ? —
                   Quel événement historique fit disparaître en <placeName>France</placeName> l'art de la verrerie ? —
                   Quel autre événement historique ramena, au moyen ge, l'art de la verrerie en
-                  <placeName>France</placeName> ?— Quelles sont les oeuvres qui nous restent des verriers du moyen age ? —
-                  Qu'est-ce qui tenait lieu de vitres aux fenêtres des maisons jusqu'au
+                  <placeName>France</placeName> ?— Quelles sont <objectName ana="histoire">les oeuvres</objectName> qui nous restent des verriers du moyen age ? —
+                  Qu'est-ce qui tenait lieu de vitres aux <objectName ana="histoire">fenêtres</objectName> des maisons jusqu'au
                   siècle dernier ?</p>
-               <p><term ana="menage">Ménage</term>. — Citez les principaux objets de verrerie d'un ménage. — Pourquoi
-                  met-on aux lampes des cheminées de verre et non de métal ?</p>
+               <p><term ana="menage">Ménage</term>. — Citez les principaux objets de <objectName ana="menage">verrerie</objectName> d'un ménage. — Pourquoi
+                  met-on aux lampes des cheminées de <objectName ana="menage">verre</objectName> et non de métal ?</p>
             </div>
          </div>
       </body>

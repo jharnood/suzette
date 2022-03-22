@@ -100,20 +100,20 @@
                <p xmlns="">« Les étoffes comme les lainages et les soieries, qui proviennent des animaux,
                   sont plus chaudes et conviennent surtout pour les vêtements de dessus.</p>
                <p xmlns="">« Certaines substances minérales peuvent aussi se filer et se tisser, par exemple
-                  l'or et l'argent, qu'autrefois on mélangeait à la laine et à la
+                  <objectName xmlns="" ana="histoire_naturelle">l'or</objectName> et <objectName xmlns="" ana="histoire_naturelle">l'argent</objectName>, qu'autrefois on mélangeait à la laine et à la
                   soie.</p>
                <p xmlns="">« Mais, en ce genre, le plus curieux tissu est celui qui se tire d'un
-                  minéral, une sorte de pierre filamenteuse, brillante, nacrée, appelée amiante. Ce
+                  minéral, une sorte de pierre filamenteuse, brillante, nacrée, appelée <objectName xmlns="" ana="histoire_naturelle">amiante</objectName>. Ce
                   tissu a l'apparence de la soie.</p>
-               <p xmlns="">« Ce qui distingue surtout les tissus d'amiante, c'est qu'ils sont
+               <p xmlns="">« Ce qui distingue surtout les <objectName xmlns="" ana="histoire_naturelle">tissus d'amiante</objectName>, c'est qu'ils sont
                   incombustibles, c'est-à-dire qu'ils ne sauraient prendre feu.</p>
                <p xmlns="">« Malheureusement, ils coûtent très cher ; — elle ajouta en souriant : — sans quoi
-                  on pour- rait par précaution habiller d'amiante les en- <fw xmlns="">2.</fw>
+                  on pour- rait par précaution habiller d'<objectName xmlns="" ana="histoire_naturelle">amiante</objectName> les en- <fw xmlns="">2.</fw>
                </p>
                <pb xmlns="" n="30" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_10-03.jpg"/>
                <fw xmlns="">30 L'ENFANCE DE SUZETTE.</fw>
                <p xmlns=""> fants qui s'amusent à jouer avec le feu, les allumettes ou les lampes. »</p>
-               <p xmlns="">La maîtresse interrompit là sa leçon, pour demander à <persName xmlns="">Suzette</persName> si elle avait
+               <p xmlns="">La maîtresse interrompit là sa leçon, pour demander à <persName xmlns="" key="suzette" type="fictif">Suzette</persName> si elle avait
                   compris.</p>
 
                <p xmlns=""> — « Parfaitement, Madame, répondit-elle.</p>
@@ -123,10 +123,10 @@
                   C'est là ce qu'on appelle faire une reprise. »</p>
 
                <figure xmlns="">
-                  <caption xmlns="">Alors la petite Suzette prit l'aiguille.</caption>
+                  <caption xmlns="">Alors la petite <persName xmlns=""><persName xmlns="" key="suzette" type="fictif">Suzette</persName></persName> prit l'aiguille.</caption>
                </figure>
 
-               <p xmlns="">Alors la petite <persName xmlns="">Suzette</persName> prit l'aiguille , et, sous la direction de
+               <p xmlns="">Alors la petite <persName xmlns=""><persName xmlns="" key="suzette" type="fictif">Suzette</persName></persName> prit l'aiguille , et, sous la direction de
                   l'institutrice, parvint — faire, à la place de l'accroc, une belle
                   reprise </p>
                <p xmlns="">Le soir, en rentrant chez ses parents, elle leur montra ce joli travail, tout en
@@ -134,11 +134,11 @@
 
                <pb xmlns="" n="31" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_10-04.jpg"/>
                <fw xmlns="">UN COMPTE DE LUDIVINE 31</fw>
-               <p xmlns=""> père et la mère furent enchantés et, grâce à l'habileté de <persName xmlns="">Suzette</persName>,
-                  pardonnèrent à <persName xmlns="">François</persName>. Celui-ci demanda alors si l'on ne pourrait pas
+               <p xmlns=""> père et la mère furent enchantés et, grâce à l'habileté de <persName xmlns=""><persName xmlns="" key="suzette" type="fictif">Suzette</persName></persName>,
+                  pardonnèrent à <persName xmlns=""><persName xmlns="" key="françois" type="fictif">François</persName></persName>. Celui-ci demanda alors si l'on ne pourrait pas
                   trouver une étoffe qui permit aux enfants de grimper aux arbres sans se
                   déchirer.</p>
-               <p xmlns="">— « Hélas ! non, répondit Mme <persName xmlns="">Dumay</persName> en riant, on n'a trouvé encore que les
+               <p xmlns="">— « Hélas ! non, répondit <persName xmlns=""><persName xmlns="" key="mme_dumay" type="fictif">Mme Dumay</persName></persName> en riant, on n'a trouvé encore que les
                   mamans et les sœurs pour réparer les déchirures que font à leurs vêtements les
                   vilains petits garçons. » [10] </p>
 
