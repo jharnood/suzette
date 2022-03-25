@@ -136,6 +136,9 @@
                 <valItem ident="asie" mode="add">
                   <desc>Asie</desc>
                 </valItem>
+                <valItem ident="france" mode="add">
+                  <desc>France</desc>
+                </valItem>
               </valList>
             </attDef>
           </attList>
@@ -208,76 +211,76 @@
                 </valItem>
               </valList>
             </attDef>
-          	<attDef ident="key" mode="change">
-          			<valList type="closed" mode="change">
-          				<valItem ident="suzette" mode="add">
-          					<desc>Suzette</desc>
-          				</valItem>
-          				<valItem ident="jacques" mode="add">
-          					<desc>Jacques</desc>
-          				</valItem>
-          				<valItem ident="françois" mode="add">
-          					<desc>François</desc>
-          				</valItem>
-          				<valItem ident="m_dumay" mode="add">
-          					<desc>M Denis Dumay</desc>
-          				</valItem>
-          				<valItem ident="mme_dumay" mode="add">
-          					<desc>Mme Dumay</desc>
-          				</valItem>
-          				<valItem ident="charlot" mode="add">
-          					<desc>Charlot</desc>
-          				</valItem>
-          				<valItem ident="mme_delorme" mode="add">
-          					<desc>Mme Delorme</desc>
-          				</valItem>
-          				<valItem ident="m_delorme" mode="add">
-          					<desc>M Delorme</desc>
-          				</valItem>
-          				<valItem ident="castor" mode="add">
-          					<desc>Castor</desc>
-          				</valItem>
-          				<valItem ident="grise" mode="add">
-          					<desc>La Grise</desc>
-          				</valItem>
-          				<valItem ident="benoît" mode="add">
-          					<desc>Benoît</desc>
-          				</valItem>
-          				<valItem ident="ludivine" mode="add">
-          					<desc>Ludivine</desc>
-          				</valItem>
-          				<valItem ident="vincent" mode="add">
-          					<desc>Vincent</desc>
-          				</valItem>
-          				<valItem ident="lisa" mode="add">
-          					<desc>Lisa</desc>
-          				</valItem>
-          				<valItem ident="zélie" mode="add">
-          					<desc>Zélie</desc>
-          				</valItem>
-          				<valItem ident="marcelline" mode="add">
-          					<desc>Marcelline</desc>
-          				</valItem>
-          				<valItem ident="ernestine" mode="add">
-          					<desc>Ernestine</desc>
-          				</valItem>
-          				<valItem ident="antonin" mode="add">
-          					<desc>Antonin</desc>
-          				</valItem>
-          				<valItem ident="m_adrien" mode="add">
-          					<desc>M Adrien</desc>
-          				</valItem>
-          				<valItem ident="m_garnier" mode="add">
-          					<desc>M Garnier</desc>
-          				</valItem>
-          				<valItem ident="rose" mode="add">
-          					<desc>Rose</desc>
-          				</valItem>
-          				<valItem ident="l_hôtesse" mode="add">
-          					<desc>l’hôtesse</desc>
-          				</valItem>
-          			</valList>
-          	</attDef>
+            <attDef ident="key" mode="change">
+              <valList type="closed" mode="change">
+                <valItem ident="suzette" mode="add">
+                  <desc>Suzette</desc>
+                </valItem>
+                <valItem ident="jacques" mode="add">
+                  <desc>Jacques</desc>
+                </valItem>
+                <valItem ident="françois" mode="add">
+                  <desc>François</desc>
+                </valItem>
+                <valItem ident="m_dumay" mode="add">
+                  <desc>M Denis Dumay</desc>
+                </valItem>
+                <valItem ident="mme_dumay" mode="add">
+                  <desc>Mme Dumay</desc>
+                </valItem>
+                <valItem ident="charlot" mode="add">
+                  <desc>Charlot</desc>
+                </valItem>
+                <valItem ident="mme_delorme" mode="add">
+                  <desc>Mme Delorme</desc>
+                </valItem>
+                <valItem ident="m_delorme" mode="add">
+                  <desc>M Delorme</desc>
+                </valItem>
+                <valItem ident="castor" mode="add">
+                  <desc>Castor</desc>
+                </valItem>
+                <valItem ident="grise" mode="add">
+                  <desc>La Grise</desc>
+                </valItem>
+                <valItem ident="benoît" mode="add">
+                  <desc>Benoît</desc>
+                </valItem>
+                <valItem ident="ludivine" mode="add">
+                  <desc>Ludivine</desc>
+                </valItem>
+                <valItem ident="vincent" mode="add">
+                  <desc>Vincent</desc>
+                </valItem>
+                <valItem ident="lisa" mode="add">
+                  <desc>Lisa</desc>
+                </valItem>
+                <valItem ident="zélie" mode="add">
+                  <desc>Zélie</desc>
+                </valItem>
+                <valItem ident="marcelline" mode="add">
+                  <desc>Marcelline</desc>
+                </valItem>
+                <valItem ident="ernestine" mode="add">
+                  <desc>Ernestine</desc>
+                </valItem>
+                <valItem ident="antonin" mode="add">
+                  <desc>Antonin</desc>
+                </valItem>
+                <valItem ident="m_adrien" mode="add">
+                  <desc>M Adrien</desc>
+                </valItem>
+                <valItem ident="m_garnier" mode="add">
+                  <desc>M Garnier</desc>
+                </valItem>
+                <valItem ident="rose" mode="add">
+                  <desc>Rose</desc>
+                </valItem>
+                <valItem ident="l_hôtesse" mode="add">
+                  <desc>l’hôtesse</desc>
+                </valItem>
+              </valList>
+            </attDef>
           </attList>
         </elementSpec>
       </schemaSpec>
