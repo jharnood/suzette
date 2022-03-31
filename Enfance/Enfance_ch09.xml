@@ -79,13 +79,13 @@
                <p> Une après-midi, dans la cour de récréation, il avisa un petit chat qui la
                   traversait ; il le poursuivit aussitôt. Le chat, pour échapper à <persName key="françois" type="fictif">François</persName>, grimpa
                   sur un des arbres.</p>
-               <p>Immédiatement, le gamin, des bras et des jambes, saisit cet arbre, s'enlève
+               <p>Immédiatement, <persName key="françois" type="fictif">le gamin</persName>, des bras et des jambes, saisit cet arbre, s'enlève
                   de terre. Il grimpe, lui aussi ; mais, crac ! sa blouse s'accroche, se
                   déchire, et le voilà par terre !</p>
                <p><persName key="suzette" type="fictif">Suzette</persName> accourt tout effrayée ; <persName key="françois" type="fictif">François</persName> se met à rire et lui dit qu'il ne
                   s'est pas fait de mal.</p>
-               <p> ― « Et ta blouse ! s'écrie la petite sœur en regardant le gros accroc béant
-                  ; maman qui a déjà veillé hier pour la raccommoder devra veiller encore
+               <p> ― « Et ta blouse ! s'écrie <persName key="suzette" type="fictif">la petite sœur</persName> en regardant le gros accroc béant
+                  ; <persName key="mme_dumay" type="fictif">maman</persName> qui a déjà veillé hier pour la raccommoder devra veiller encore
                   aujourd'hui ! » </p>
                <p><persName key="mme_delorme" type="fictif">Mme Delorme</persName>, la maîtresse, qui passait en ce moment, entendit ces mots et dit à
                   <persName key="suzette" type="fictif">Suzette</persName> : </p>
@@ -122,7 +122,7 @@
                <fw>26 L'ENFANCE DE SUZETTE.</fw>
                <p> ― « Ils se tirent soit de végétaux, soit d'ani- maux, ou bien encore
                   d'un insecte. » </p>
-               <p>La maîtresse ouvrit un livre d'images :</p>
+               <p><persName key="mme_delorme" type="fictif">La maîtresse</persName> ouvrit un livre d'images :</p>
 
                <figure>
                   <caption>Le cotonnier.</caption>
@@ -144,7 +144,7 @@
                <p>« Passons maintenant aux animaux qui nous donnent la matière avec laquelle nous
                   fabriquons nos vêtements :</p>
                <p>« Voici d'abord le mouton avec sa grosse toison de laine, puis la petite
-                  chèvre blanche du <placeName>Thibet</placeName>, couverte de flocons soyeux si fins et si doux. </p>
+                  chèvre blanche du <placeName ana="asie">Thibet</placeName>, couverte de flocons soyeux si fins et si doux. </p>
 
                <pb n="27" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_09-05.jpg"/>
                <fw>L'ACCROC REPRISÉ. 27</fw>
