@@ -79,10 +79,9 @@
                <pb xmlns="" n="21" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_08-02.jpg"/>
                <fw xmlns="">DE L'ATTENTION ! 21 </fw>
                <p xmlns=""> — « Oui, maman, je viens. » </p>
-               <p xmlns="">Elle se mit à sa toilette ; mais pas d'eau dans le broc ! Et le savon ? où
-                  est le savon ? Ah ! le voilà enfin derrière un des pieds de la table de toilette.
-                  La veille au soir, petite <persName xmlns=""><persName xmlns="" key="suzette">Suzette</persName></persName> avait oublié de ranger. Et le matin, la brosse,
-                  les vêtements, les souliers, tout semblait jouer à cache-cache !</p>
+               <p xmlns="">Elle se mit à sa toilette ; mais pas <objectName xmlns="" ana="hygiène">d'eau dans le broc</objectName> ! Et le <objectName xmlns="" ana="hygiène">savon</objectName> ? <objectName xmlns="" ana="français">où est le savon</objectName> ? Ah ! le voilà enfin derrière un des pieds de la <objectName xmlns="" ana="hygiène">table de toilette</objectName>.
+                  La veille au soir, petite <persName xmlns=""><persName xmlns="" key="suzette">Suzette</persName></persName> avait <objectName xmlns="" ana="français">oublié de ranger</objectName>. Et le matin, la <objectName xmlns="" ana="connaissances_usuelles">brosse</objectName>,
+                  les vêtements, les souliers, <objectName xmlns="" ana="français">tout semblait jouer à cache-cache</objectName> !</p>
                <p xmlns="">Le temps pas- sait. La voix de la maman se fit de nouveau en- tendre.</p>
                <p xmlns="">— « Eh bien ! ma fille, que fais- tu ? »</p>
 
