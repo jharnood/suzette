@@ -89,9 +89,7 @@
                   <caption xmlns="">— <persName xmlns=""><persName xmlns="" key="suzette">Suzette</persName></persName> ! <persName xmlns=""><persName xmlns="" key="suzette">Suzette</persName></persName> ! il est grand jour.</caption>
                </figure>
 
-               <p xmlns="">La petite <persName xmlns=""><persName xmlns="" key="suzette">Suzette</persName></persName> eut beau ne se débarbouiller, ne se coiffer qu'à moitié, ne
-                  pas agrafer son tablier ni ranger sa chambre ; elle eut beau garder ses bas mis à
-                  l'envers, elle fut en retard.</p>
+               <p xmlns=""><objectName xmlns="" ana="français">La petite <persName xmlns=""><persName xmlns="" key="suzette">Suzette</persName></persName> eut beau ne se débarbouiller, ne se coiffer qu'à moitié, ne pas agrafer son tablier ni ranger sa chambre ; elle eut beau garder ses bas mis à l'envers, elle fut en retard.</objectName></p>
                <p xmlns="">« Enfin, te voilà dit la mère en la voyant paraître. Surveille le lait qui est sur
                   le feu pen- </p>
                <pb xmlns="" n="22" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_08-03.jpg"/>
@@ -107,13 +105,12 @@
                   <caption xmlns="">Suzette se précipite vers le fourneau, hélas ! trop tard.</caption>
                </figure>
 
-               <p xmlns=""><persName xmlns=""><persName xmlns="" key="suzette">Suzette</persName></persName> se précipite vers le fourneau. Hélas ! trop tard ; la moitié du déjeuner
-                  est partie. La maman arrive :</p>
+               <p xmlns=""><persName xmlns=""><persName xmlns="" key="suzette">Suzette</persName></persName> se précipite vers le fourneau. <objectName xmlns="" ana="français">Hélas ! trop tard ; la moitié du déjeuner est partie</objectName>. La maman arrive :</p>
                <p xmlns=""> — « Maman, murmure <persName xmlns=""><persName xmlns="" key="suzette">Suzette</persName></persName>, c'est que j ai voulu arroser ma plante de...
                   »</p>
                <p xmlns="">Elle n'achève pas ; elle se souvient que le réséda est sous le robinet de la
                   fontaine ; et le robinet coule toujours.</p>
-               <p xmlns="">Elle court le fermer, mais la cuisine est déjà, remplie d'eau. </p>
+               <p xmlns="">Elle court le fermer, <objectName xmlns="" ana="français">mais la cuisine est déjà, remplie d'eau.</objectName> </p>
 
                <pb xmlns="" n="23" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_08-04.jpg"/>
                <fw xmlns="">L'ACCROC REPRISÉ 23</fw>
@@ -123,8 +120,7 @@
                   casserole parce que je ferais trop de chagrin à la petite <persName xmlns=""><persName xmlns="" key="suzette">Suzette</persName></persName>.</p>
                <p xmlns="">« Là encore, c'est nous qui devons veilier. — « Ah ! soupire <persName xmlns=""><persName xmlns="" key="suzette">Suzette</persName></persName>,
                   avant-hier tout marchait si bien ! </p>
-               <p xmlns="">— « Avant-hier, ma mie, tu mettais à ce que tu faisais toute ton attention, toute
-                  ta volonté, et c'est ainsi qu'il faut agir ; sinon les choses que nous
+               <p xmlns="">— « Avant-hier, ma mie, <objectName xmlns="" ana="français">tu mettais à ce que tu faisais toute ton attention, toute ta volonté, et c'est ainsi qu'il faut agir</objectName> ; sinon les choses que nous
                   devons mener nous mènent, et nous ne faisons que des sottises. »</p>
                <p xmlns="">Ainsi parla la maman, et petite <persName xmlns=""><persName xmlns="" key="suzette">Suzette</persName></persName> s'es- suya les yeux, car elle sentait
                   bien que ce qui rachète les fautes, ce sont non pas les pleurs, mais les actes.
