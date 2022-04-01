@@ -92,8 +92,7 @@
                   celle qui est perdue vaut à elle seule deux francs cinquante. » </p>
                <p xmlns=""><persName xmlns=""><persName xmlns="" key="ludivine">Ludivine</persName></persName> se mit à soupirer : </p>
                <p xmlns="">— « Ah ! quel enfant ! quel enfant ! Depuis le commencement de cette année
-                  seulement, j'ai déjà passé au moins cinq journées à ôter les taches, à
-                  réparer les accrocs de ses vêtements (Ici, on regarda M. <persName xmlns="" key="françois">François</persName>)... des journées
+                  seulement,<objectName xmlns="" ana="morale"> j'ai déjà passé au moins cinq journées à ôter les taches, à réparer les accrocs de ses vêtements</objectName> (Ici, on regarda M. <persName xmlns="" key="françois">François</persName>)... des journées
                   qui me rapportent 1 fr. 50, quand je les emploie à travailler pour les autres.
                   Voyez un peu ! cinq fois 1 fr. 50 !</p>
                <p xmlns=""> — De plus, ces réparations m'ont coûté en savon, en pièces, en mercerie, 3
@@ -101,7 +100,7 @@
                <p xmlns="">« Joignez à cela 4 francs pour le raccommo- </p>
                <pb xmlns="" n="33" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_11-03.jpg"/>
                <fw xmlns="">UN COMPTE DE LUDIVINE. 33 </fw>
-               <p xmlns=""> dage de ses souliers, sans compter la galoche de 2 fr. 50.</p>
+               <p xmlns=""> dage de ses <objectName xmlns="" ana="connaissances_usuelles">souliers</objectName>, sans compter la galoche de 2 fr. 50.</p>
                <p xmlns="">« Il m'a cassé deux couteaux à 75 centimes l'un, dépaillé une chaise à
                   force de monter dessus, d'où un rempaillage : 90 centimes.</p>
                <p xmlns="">« Il m'a perdu sa casquette du dimanche, une casquette à galons d'or de
@@ -115,8 +114,8 @@
                      il y a trois jours ?</caption>
                </figure>
 
-               <p xmlns="">« Ah ! et la pipe de son grand-père <persName xmlns=""><persName xmlns="" key="benoît">Benoît</persName></persName>, avec le briquet, une belle pipe de
-                  vingt-six sous et un briquet de neuf sous qu'il a pris et égarés !... </p>
+               <p xmlns="">« Ah ! et la pipe de son grand-père <persName xmlns=""><persName xmlns="" key="benoît">Benoît</persName></persName>, avec le <objectName xmlns="" ana="connaissances_usuelles">briquet</objectName>, une belle pipe de
+                  vingt-six sous et un <objectName xmlns="" ana="connaissances_usuelles">briquet</objectName> de neuf sous qu'il a pris et égarés !... </p>
                <p xmlns="">« Et ce n'est pas tout ! Vous connaissiez mon beau lapin roux dont
                   j'avais refusé 4 francs il y à trois jours ? Pas plus tard qu'hier
                   <persName xmlns="" key="vincent">Vincent</persName> me </p>
@@ -140,7 +139,7 @@
                <p xmlns="">Quand la brave femme fut sortie, la petite <persName xmlns=""><persName xmlns="" key="suzette">Suzette</persName></persName> montra un papier sur lequel
                   elle avait écrit les dépenses faites par <persName xmlns=""><persName xmlns="" key="ludivine">Ludivine</persName></persName> pour Vincent, à mesure que
                   celle-ci les énumérait.</p>
-               <p xmlns="">— « <persName xmlns=""><persName xmlns="" key="jacques">Jacques</persName></persName> et moi, dit <persName xmlns=""><persName xmlns="" key="suzette">Suzette</persName></persName>, nous avons fait le compte : 39 fr. 55. »</p>
+               <p xmlns="">— « <persName xmlns=""><persName xmlns="" key="jacques">Jacques</persName></persName> et moi, dit <persName xmlns=""><persName xmlns="" key="suzette">Suzette</persName></persName>, <objectName xmlns="" ana="arithmétique">nous avons fait le compte : 39 fr. 55.</objectName> »</p>
                <p xmlns="">Le <persName xmlns="">père</persName> vérifia l'addition qui était exacte : </p>
                <pb xmlns="" n="35" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_11-05.jpg"/>
                <fw xmlns="">UN COMPTE DE LUDIVINE. 35 </fw>
@@ -159,7 +158,7 @@
                </figure>
 
                <p xmlns="">A partir de ce moment, la petite <persName xmlns=""><persName xmlns="" key="suzette">Suzette</persName></persName> s'appliqua à espacer un peu ses
-                  pieds en marchant ; car jusque-là elle avait battu le briquet avec ses chevilles,
+                  pieds en marchant ; car jusque-là elle <objectName xmlns="" ana="grammaire">avait battu le briquet avec ses chevilles</objectName>,
                   ce qui use beaucoup la chaussure.</p>
                <p xmlns="">Et <persName xmlns=""><persName xmlns="" key="jacques">Jacques</persName></persName> cessa aussi d'essuyer ses plumes sur sa manche, comme il en avait
                   la mauvaise habitude.</p>
