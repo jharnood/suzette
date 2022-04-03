@@ -94,7 +94,7 @@
 
                <p xmlns="">— Ah ! quel spectacle ! Tout le fond de la halle semblait embrasé.</p>
                <p xmlns="">D'une longue rangée de fours aux portes de fer rougies par l'ardente
-                  <objectName xmlns="" ana="industrie">chaleur</objectName>, sortait comme un roulement lointain de tonnerre. L'atmosphère était
+                  <objectName xmlns="" ana="industrie">chaleur</objectName>, sortait comme un roulement lointain de tonnerre. <objectName xmlns="" ana="sciences_naturelles">L'atmosphère</objectName> était
                   brûlante.</p>
                <p xmlns="">Des hommes en bras de chemise, les manches retroussées, le visage en sueur,
                   passaient affairés. — « Ce sont les verriers, » dit <persName xmlns="" key="m_garnier" type="fictif">M. Garnier</persName>.</p>
@@ -198,11 +198,11 @@
             </div>
             <div xmlns="" type="causerie">
                <p xmlns="">[17] <label xmlns="">CAUSERIE</label>: <term xmlns="" ana="sciences_naturelles">Sciences naturelles</term>. — Qu'est-ce que
-                  <objectName xmlns="" ana="sciences_naturelles">l'atmosphère</objectName> ?</p>
-               <p xmlns=""> <term xmlns="" ana="industrie">Industrie</term>. — Avec quelles substances fait-on <objectName xmlns="" ana="industrie">le verre</objectName> ? — Quel moyen emploie-t-on
-                  pour <objectName xmlns="" ana="industrie">fondre</objectName> et <objectName xmlns="" ana="industrie">mélanger</objectName> ces substances ? — Faut-il une grande <objectName xmlns="" ana="industrie">chaleur</objectName> pour les
-                  <objectName xmlns="" ana="industrie">fondre</objectName> ? — Racontez l'opération du coulage d'<objectName xmlns="" ana="industrie">une glace</objectName>.</p>
-               <p xmlns=""><term xmlns="" ana="connaissances_usuelles">Connaissances usuelles</term>. — Qu'est-ce qu'un <objectName xmlns="" ana="connaissances_usuelles">métal poli</objectName> ? </p>
+                  l'atmosphère ?</p>
+               <p xmlns=""> <term xmlns="" ana="industrie">Industrie</term>. — Avec quelles substances fait-on le verre ? — Quel moyen emploie-t-on
+                  pour fondre et mélanger ces substances ? — Faut-il une grande chaleur pour les
+                  fondre ? — Racontez l'opération du coulage d'une glace.</p>
+               <p xmlns=""><term xmlns="" ana="connaissances_usuelles">Connaissances usuelles</term>. — Qu'est-ce qu'un métal poli ? </p>
                <p xmlns=""><term xmlns="" ana="histoire">Histoire</term>. — Qui est <persName xmlns="" type="historique">Colbert</persName> ?</p>
                <p xmlns=""><term xmlns="" ana="géographie">Géographie</term>. — De quel département fait partie <placeName xmlns="" ana="france">Saint-Gobain</placeName> et quel est le
                   chef-lieu de ce département ? — Où est situee <placeName xmlns="" ana="europe">Venise</placeName> ? </p>
