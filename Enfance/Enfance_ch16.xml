@@ -95,8 +95,7 @@
                   avaient la même saveur.</p>
                <p>— « Ils n'ont pourtant pas la même origine, » dit <persName key="suzette" type="fictif">Suzette</persName>.</p>
                <p><persName key="m_adrien" type="fictif">M. Adrien</persName> reprit :</p>
-               <p>— « Non ; le sucre que vous avez pris, petite <persName key="suzette" type="fictif">Suzette</persName>, vient, comme je vous
-                  l'ai dit, de la betterave, <objectName ana="histoire_naturelle">racine</objectName> bien connue de vous tous. La cassonade
+               <p>— « Non ; <term ana="histoire_naturelle">le sucre que vous avez pris, petite <persName key="suzette" type="fictif">Suzette</persName>, vient, comme je vous l'ai dit, de la betterave, <objectName ana="histoire_naturelle">racine</objectName> bien connue de vous tous</term>. La cassonade
                   qu'a goûtée <persName key="jacques" type="fictif">Jacques</persName>, je l'ai vue aux <placeName>Antilles</placeName>, quand elle était encore à
                   l'état liquide dans les grands roseaux à grosse <objectName ana="histoire_naturelle">tige</objectName> qu'on appelle pour
                   cette raison cannes à sucre. « Quant aux tablettes que <persName key="françois" type="fictif">François </persName>a choisies, elles
@@ -132,7 +131,7 @@
                   <caption>La traction du sucre d'érable. Les érables trouvés, nous fîmes avec
                      des couteaux une incision sur l'écorce de chacun; au pied de ces arbres
                      furent placés les chau- drons, les bassines qui, le lendemain, à notre réveil,
-                     se trouvèrent remplis d'une eau liquoreuse et sucrée.</caption>
+                     <term ana="grammaire">se trouvèrent remplis d'une eau liquoreuse et sucrée.</term></caption>
                </figure>
                <p>— « Je peux vous le dire, car je les ai faites mcimême. Au printemps dernier, je
                   me trouvais dans <placeName>l'Amérique du Nord</placeName>, au <placeName>Canada</placeName>, chez des </p>
@@ -235,8 +234,8 @@
                   l'adjectif liquoreux ? </p>
                <p><term ana="géographie">Géographie</term>. — Dans quelle partie du monde est située l'<placeName>Inde</placeName> ? —
                   Qu'est-ce que la zone torride ? la zone tempérée ? la zone glaciale ? — Où
-                  sont situées les <placeName>Antilles</placeName> ? — Quelles sont les deux iles des <placeName>Antilles </placeName>qui
-                  appartiennent à la <placeName>France </placeName>?</p>
+                  sont situées les <placeName><placeName ana="amérique_nord">Antilles</placeName></placeName> ? — Quelles sont les deux iles des <placeName><placeName ana="amérique_nord">Antilles</placeName> </placeName>qui
+                  appartiennent à la <placeName><placeName ana="france">France</placeName> </placeName>?</p>
                <p><term ana="histoire_naturelle">Histoire naturelle</term>. — Quelle partie de la plante est la racine ? — Quelle partie
                   est la tige ? — Quel nom prend la tige d'un arbre ? — Qu'est-ce que la
                   sève ? — Qu'est-ce que l'abeille ?—De quelle arme est-elle pourvue ? —
