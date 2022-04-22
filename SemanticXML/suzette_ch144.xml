@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
 <?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
+<TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -88,6 +88,7 @@
                   
                   <pb type="page" n="518"/>
                   <fw>518 SUZETTE.</fw>
+
                   
                   
                   <lb/>nants d'esprit et de bonté, est la chérie du vieillard, qui 
@@ -124,6 +125,7 @@
                <p>Mais sa petite fille <persName type="fictif" key="marguerite">Marguerite</persName> le ramène à une autre 
                   <lb/>question. Elle veut arriver la première à ces buissons, 
                   <lb/>là-bas.</p>
+
                <p>Obéissant, il la met sur son dos.</p>
                <p>— Et vite, vite, grand-père ! </p>
                <p>Il presse le pas et si bien qu'il prend la tête. Bientôt, 

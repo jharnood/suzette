@@ -52,9 +52,7 @@
 			<sourceDesc>
 				<biblStruct>
 					<monogr>
-						<title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles.
-							Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine –
-							Couture</title>
+						<title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles. Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine – Couture</title>
 						<author>Robert Halt</author>
 						<textLang>French</textLang>
 						<imprint>
@@ -76,8 +74,7 @@
 	<text>
 		<body>
 			<div1 type="chapitre" n="010">
-			<pb type="page" n="033"/>	
-			
+				<pb type="page" n="033" />
 				<head>10. — Grosse affaire. (Élève, p. 25.)</head>
 				<div2 type="récit">
 				<p>— Ah ! ah ! tout va marcher comme il faut ! <persName type="fictif" key="m_dumay">Papa</persName> m&apos;a 
@@ -332,6 +329,7 @@
 				<lb/>royaume. Il mourut prématurément en 638, après un règne de dix ans.</p>
 				</div4>	
 				</div3>	
+
 				</div2>
 			</div1>
 		</body>
