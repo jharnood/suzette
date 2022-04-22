@@ -84,10 +84,10 @@
                <p> — « Mais, demanda <persName key="françois" type="fictif">François</persName>, pourquoi ne voyons-nous pas l'air ?</p>
                <p>— « Parce que, répondit <persName key="jacques" type="fictif">Jacques</persName>, l'air est un gaz et que les gaz sont
                   invisibles.</p>
-               <p>« Nous respirons l'air par les narines, d'où il descend dans
-                  l'intérieur de nos poumons.</p>
-               <p>« C'est l'air qui rougit entièrement notre sang, et c'est le sang
-                  qui, ainsi rougi et rendu vivifiant, va, en circulant à travers les artères,
+               <p>« Nous respirons l'air par les <objectName ana="histoire_naturelle">narines</objectName>, d'où il descend dans
+                  l'intérieur de nos <objectName ana="histoire_naturelle">poumons</objectName>.</p>
+               <p>« C'est l'air qui rougit entièrement notre <objectName ana="histoire_naturelle">sang</objectName>, et c'est le <objectName ana="histoire_naturelle">sang</objectName>
+                  qui, ainsi rougi et rendu vivifiant, va, en circulant à travers les <objectName ana="histoire_naturelle">artères</objectName>,
                   porter la vie et la force dans toutes les parties de notre corps ; c'est lui
                   qui le soutient, le fortifie et le renouvelle. Si nous nous mouvons, si nous
                   agissons, si nous sentons, si nous parlons, si nous comprenons, c'est par
@@ -95,7 +95,7 @@
                   d'air nous tue. »</p>
 
                <figure>
-                  <caption>Appareil respiratoire de l'homme.</caption>
+                  <caption><term ana="histoire_naturelle">Appareil respiratoire de l'homme</term>.</caption>
                </figure>
 
                <p>A ce moment le chat miaula.</p>
@@ -106,12 +106,11 @@
                <fw>LA DEVINETTE DE JACOUES. 113 </fw>
                <p> terre, ceux qui volent au-dessus, ceux qui nagent dans l'eau, ne vivraient
                   pas plus que nous s'ils étaient privés d'air ; car l'eau en
-                  contient aussi, quoique en petite quantité. Les arbres, les plantes, tous les
-                  végétaux respirent également ; c'est par leurs feuilles. Le charbon dans le
+                  contient aussi, quoique en petite quantité. <term ana="histoire_naturelle">Les arbres, les plantes, tous les végétaux respirent également ; c'est par leurs feuilles</term>. Le charbon dans le
                   poêle, le pétrole dans cette lampe ne brûleraient pas non plus sans air. »</p>
 
                <figure>
-                  <caption>Appareil respiratoire des poissons.</caption>
+                  <caption><term ana="histoire_naturelle">Appareil respiratoire des poissons</term>.</caption>
                </figure>
 
 

@@ -77,14 +77,14 @@
                <p> Le lendemain, un jeudi, la petite <persName key="suzette" type="fictif">Suzette</persName> s'assit, pour faire ses devoirs,
                   en face de l'horloge neuve. Elle la revoyait avec plaisir, la trouvant encore
                   plus jolie sous le grand soleil qui la frappait.</p>
-               <p>― « <persName key="mme_dumay" type="fictif">Maman</persName>, dit-elle a sa mère qui allait au jardin cueillir de la salade, je veux
+               <p>― « <persName key="mme_dumay" type="fictif">Maman</persName>, dit-elle a <persName key="mme_dumay" type="fictif">sa mère</persName> qui allait au jardin cueillir de la salade, je veux
                   voir combien de temps je mets pour écrire une ligne d'écriture en gros.</p>
                <figure>
                   <caption>Le lendemain, un jeudi, <persName key="suzette" type="fictif">Suzette</persName> s'assit, pour faire ses devoirs, en
                      face de l'horloge neuve.</caption>
                </figure>
-               <p>― « Bien, mon enfant ; quand tu le sauras, tu me le diras. »</p>
-               <p>La petite fille regarda l'horloge qui marquait une heure et trois minutes.
+               <p>― « Bien, <persName key="suzette" type="fictif">mon enfant</persName> ; quand tu le sauras, tu me le diras. »</p>
+               <p><persName key="suzette" type="fictif">La petite fille</persName> regarda l'horloge qui marquait une heure et trois minutes.
                   Aussi- </p>
                <pb n="16" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_06-02.jpg"/>
                <fw>16 L'ENFANCE DE SUZETTE.</fw>
@@ -114,7 +114,7 @@
                <p>― « Deux minutes, <persName key="mme_dumay" type="fictif">maman</persName>.</p>
                <p>― « Et pour écrire l'autre, si laide ? </p>
                <p>― « Quatorze minutes. J'ai flâné. </p>
-               <p>― « Eh bien, tu le vois, mon enfant, bien écrire et avec application coûte sept
+               <p>― « Eh bien, tu le vois, <persName key="suzette" type="fictif">mon enfant</persName>, bien écrire et avec application coûte sept
                   fois moins de temps qu'écrire en flânant ; c'est ce que t'apprend
                   l'horloge.</p>
                <p>« Quand j'étais petite comme toi, celle de mes parents m'apprit, à moi,
@@ -136,7 +136,7 @@
                   comptes. » </p>
                <p>Notre petite <persName key="suzette" type="fictif">Suzette</persName> avait le grave défaut de se décourager facilement et de
                   manquer un peu d'énergie.</p>
-               <p>Sa maman lui en fit l'observation et lui dit également que toutes les petites
+               <p><persName key="mme_dumay" type="fictif">Sa maman</persName> lui en fit l'observation et lui dit également que toutes les petites
                   filles peuvent être raisonnables lorsqu'elles veulent bien s'en donner
                   la peine. [6] </p>
             </div>

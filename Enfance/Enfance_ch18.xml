@@ -79,7 +79,7 @@
                   verre en fusion.</p>
                <p>Il passa la canne à un second ouvrier qui, par l'autre extrémité, se mit à
                   souffler dedans comme dans une trompette, si bien que sous son souffle la goutte
-                  de <objectName ana="menage">verre</objectName> se gonfla.</p>
+                  de <objectName ana="histoire">verre</objectName> se gonfla.</p>
                <p>Il l'emprisonna alors dans un moule, tout en continuant de souffler. Quelques
                   instants après, il ouvrait le moule, et en tirait une jolie carafe qu'il
                   termina en quelques coups de ciseaux. En effet, tant que le verre n'est pas
@@ -128,7 +128,7 @@
                <p><persName key="m_delorme" type="fictif">M. Delorme</persName> répondit :</p>
                <p>— « Il y a, dans un <objectName ana="connaissances_usuelles">musée</objectName> d'An- gleterre, un grain de collier de verre qui,
                   d'après l'inscription en écriture égyptienne qu'il porte, a
-                  appartenu à une reine <placeName>d'Égypte</placeName>, nommée Ra-ma-ka. Ra-ma-ka vivait quinze cents
+                  appartenu à une reine <placeName ana="afrique">d'Égypte</placeName>, nommée Ra-ma-ka. Ra-ma-ka vivait quinze cents
                   ans avant notre ère. Ce grain de verre a donc près de trois mille cinq cents
                   ans.</p>
 
@@ -137,7 +137,7 @@
                      égyptienne.</caption>
                </figure>
 
-               <p>« Les Romains eurent aussi des <objectName ana="histoire"><objectName ana="menage">verreries</objectName></objectName> Ils en créèrent en <placeName>Gaule</placeName> après leur
+               <p>« Les Romains eurent aussi des <objectName ana="histoire"><objectName ana="histoire">verreries</objectName></objectName> Ils en créèrent en <placeName ana="france">Gaule</placeName> après leur
                   conquête de ce pays qui est le nôtre.</p>
 
                <figure>

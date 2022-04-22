@@ -92,7 +92,7 @@
 				      <p xmlns="">Y a-t-il rien de plus joli, 
 				      de plus accueillant qu'un <objectName xmlns="" ana="menage">couvert</objectName> brillant de 
 				      propreté et orné de fleurs?</p>
-				      <p xmlns="">L'institutrice, <persName xmlns=""><persName xmlns="" key="mme_delorme" type="fictif">Mme Delorme</persName></persName>, qui venait d'arriver, félicita la petite <persName xmlns=""><persName xmlns="" key="suzette" type="fictif">Suzette</persName></persName> pendant que <persName xmlns=""><persName xmlns="" key="m_delorme" type="fictif">M. De- lorme</persName></persName> présentait à toute la famille son frère le 
+				      <p xmlns=""><persName xmlns="" type="fictif">L'institutrice</persName>, <persName xmlns=""><persName xmlns="" key="mme_delorme" type="fictif">Mme Delorme</persName></persName>, qui venait d'arriver, félicita la petite <persName xmlns=""><persName xmlns="" key="suzette" type="fictif">Suzette</persName></persName> pendant que <persName xmlns=""><persName xmlns="" key="m_delorme" type="fictif">M. De- lorme</persName></persName> présentait à toute la famille son frère le 
 				      voyageur, <persName xmlns=""><persName xmlns="" key="m_adrien" type="fictif">M. Adrien</persName></persName>.
 				   </p>
 		
@@ -101,19 +101,18 @@
 				   <fw xmlns="">40 L'ENFANCE DE SUZETTE.</fw>
 				   <p xmlns="">
 				      
-				      Ludivine, venue pour aider <persName xmlns="" key="mme_dumay" type="fictif">Mme Dumay</persName>, et 
+				      <persName xmlns="" key="ludivine" type="fictif">Ludivine</persName>, venue pour aider <persName xmlns="" key="mme_dumay" type="fictif">Mme Dumay</persName>, et 
 				      aussi pour s'occuper du petit <persName xmlns=""><persName xmlns="" key="charlot" type="fictif">Charlot</persName></persName>, qui n'aimait pas à rester longtemps en place, entendit 
 				      les compliments que faisait <persName xmlns=""><persName xmlns="" key="mme_delorme" type="fictif">Mme Delorme</persName></persName> à <persName xmlns=""><persName xmlns="" key="suzette" type="fictif">Suzette</persName></persName> 
 				      sur son <objectName xmlns="" ana="menage">couvert</objectName> si bien 
 				      mis.</p>
-				      <p xmlns="">— « Mon père, <persName xmlns=""><persName xmlns="" key="benoît" type="fictif">Benoît</persName></persName>, 
+				      <p xmlns="">— « <persName xmlns="" type="fictif">Mon père</persName>, <persName xmlns=""><persName xmlns="" key="benoît" type="fictif">Benoît</persName></persName>, 
 				      dit-elle, m'a conté que 
 				      de son temps les riches 
 				      bourgeois seuls voyaient 
 				      sur leur table du linge, 
 				      de la vaisselle fine et 
-				      de la verrerie. Chez ses 
-				      parents, le <objectName xmlns="" ana="menage">pétrin</objectName> servait 
+				      de la verrerie. Chez <persName xmlns="" type="fictif">ses parents</persName>, le <objectName xmlns="" ana="menage">pétrin</objectName> servait 
 				      de table à manger.</p>
 				   
 				   <figure xmlns="">
@@ -130,9 +129,9 @@
 				      avoir remplies au <objectName xmlns="" ana="menage">chaudron</objectName> pendu à la <objectName xmlns="" ana="menage">crémaillère</objectName>, au-dessus de 
 				      <objectName xmlns="" ana="menage">l'âtre</objectName>; et l'on buvait 
 				      dans des gobelets <objectName xmlns="" ana="sciences_naturelles">d'étain</objectName> ou de <objectName xmlns="" ana="sciences_naturelles">fer-blanc</objectName>.</p>
-				      <p xmlns="">— « Qui, dit l'instituteur, l'usage de la
+				      <p xmlns="">— « Qui, dit <persName xmlns="" type="fictif">l'instituteur</persName>, l'usage de la
 				      <objectName xmlns="" ana="industrie">faïence</objectName>, de la <objectName xmlns="" ana="industrie">porcelaine</objectName> et du verre ne date 
-				      en <placeName xmlns="">France</placeName>, que de deux cents ans environ et 
+				      en <placeName xmlns="" ana="france">France</placeName>, que de deux cents ans environ et 
 				      d'un siècle tout au plus dans les humbles maisons. »</p>
 				      <p xmlns="">Après ces paroles, chacun prit place à la table
 				   </p>
@@ -141,7 +140,7 @@
 				   <fw xmlns="">UN DINER DE FÊTE. 41</fw>
 				   <p xmlns="">
 				       
-				      et lorsque la soupe fut mangée, l'instituteur, à 
+				      et lorsque la soupe fut mangée, <persName xmlns="" type="fictif">l'instituteur</persName>, à 
 				      la demande de <persName xmlns=""><persName xmlns="" key="mme_dumay"><persName xmlns="" key="m_dumay">M. Dumay</persName></persName></persName>, reprit :</p>
 				      <p xmlns="">—« La fabrication de la <objectName xmlns="" ana="industrie"><objectName xmlns="" ana="histoire">faience</objectName></objectName>, qui n'est qu'une 
 				      <objectName xmlns="" ana="industrie">poterie</objectName> <objectName xmlns="" ana="sciences_naturelles">d'argile</objectName> 
@@ -178,10 +177,10 @@
 				      
 				      — « Oh ! la grosse <objectName xmlns="" ana="industrie">poterie</objectName> de simple <objectName xmlns="" ana="sciences_naturelles">argile</objectName> brune,
 				      recouverte d'un émail brun, était déjà connue en 
-				      <placeName xmlns="">France</placeName> à <objectName xmlns="" ana="histoire">l'époque</objectName> gallo-romaine, il y a dix-huit
-				      cents ans. Et voilà six mille ans qu'on la fabriquait en <placeName xmlns="">Egypte</placeName>.</p>
+				      <placeName xmlns="" ana="france">France</placeName> à <objectName xmlns="" ana="histoire">l'époque</objectName> gallo-romaine, il y a dix-huit
+				      cents ans. Et voilà six mille ans qu'on la fabriquait en <placeName xmlns="" ana="afrique">Egypte</placeName>.</p>
 				      <p xmlns="">— « Et le verre, Monsieur ? »</p>
-				      <p xmlns="">L'institutrice regarda son mari, qui répondit en 
+				      <p xmlns=""><persName xmlns="" type="fictif">L'institutrice</persName> regarda son mari, qui répondit en 
 				      souriant : </p>
 				      <p xmlns="">— « Le verre, on vous en parlera bientôt.</p>
 				      <p xmlns="">— « <persName xmlns=""><persName xmlns="" key="jacques" type="fictif">Jacques</persName></persName>, il faut laisser ton maître manger 
@@ -203,7 +202,7 @@
 				      <p xmlns=""><term xmlns="" ana="histoire">Histoire</term>. — De quelle époque date la fabrication de la porcelaine ? — Savez-vous le nom par lequel on désigne, au seizième siècle,
 				      l'époque où tous les arts, éclipsés pendant les guerres du moyen âge,
 				      semblèrent renaître ? — Depuis combien de temps l'usage de la
-				      faïence et de la porcelaine s'est-il répandu en <placeName xmlns="">France</placeName> ?  </p>
+				      faïence et de la porcelaine s'est-il répandu en France ?  </p>
 				</div>
 			</div>
 		</body>

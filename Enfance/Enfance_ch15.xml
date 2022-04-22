@@ -163,10 +163,10 @@
             </div>
             <div type="causerie">
                <p> [15] <label>CAUSERIE</label>: <term ana="géographie">Géographie</term>. — Qu'est-ce qu'un port de mer
-                  ? — Sur quelle mer est situé Le <placeName>Havre </placeName>? et <placeName>Nantes </placeName>? et <placeName>Bordeaux</placeName> ? et <placeName>Marseille</placeName> ? —
+                  ? — Sur quelle mer est situé Le <placeName><placeName ana="france">Havre</placeName> </placeName>? et <placeName><placeName ana="france">Nantes</placeName> </placeName>? et <placeName><placeName ana="france">Bordeaux</placeName></placeName> ? et <placeName><placeName ana="france">Marseille</placeName></placeName> ? —
                   Dans quels départements se trouvent ces ports ? — Quelle est la situation
-                  géographique de <placeName>l'Asie</placeName>, de <placeName>l'Afrique</placeName>, de <placeName>l'Amérique</placeName> par rapport à
-                  <placeName>l'Europe</placeName> ? — Dans quel océan se trouvent les îles qui composent
+                  géographique de <placeName><placeName ana="asie">l'Asie</placeName></placeName>, de <placeName><placeName ana="afrique">l'Afrique</placeName></placeName>, de <placeName><placeName ana="amérique_nord">l'Amérique</placeName></placeName> par rapport à
+                  <placeName><placeName ana="europe">l'Europe</placeName></placeName> ? — Dans quel océan se trouvent les îles qui composent
                   <placeName>l'Océanie</placeName> ? </p>
                <p><term ana="commerce">Commerce</term>. — De quelle manière se fait le commerce du café ? </p>
                <p><term ana="menage">Ménage</term>. — Comment se prépare le café ? — De combien de parties se compose un

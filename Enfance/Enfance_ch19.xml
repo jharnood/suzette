@@ -86,7 +86,7 @@
 				   <p>
 				      
 				      A cette vue, la petite <persName key="suzette" type="fictif">Suzette</persName> et <persName key="jacques" type="fictif">Jacques</persName> ouvrirent de grands yeux.</p>
-				     <p> — « Nous allons à <placeName>Coucy</placeName>, leur dit <persName key="mme_delorme" type="fictif">Mme Delorme</persName>, et la route est un peu longue. Petite 
+				     <p> — « Nous allons à <placeName ana="france">Coucy</placeName>, leur dit <persName key="mme_delorme" type="fictif">Mme Delorme</persName>, et la route est un peu longue. Petite 
 				      <persName key="suzette" type="fictif">Suzette</persName>, monte sur cet 
 				      <objectName ana="histoire_naturelle">âne</objectName>. Allons, hop ! ≫</p>
 				      <p>Et elle l'assit sur le 
@@ -172,7 +172,7 @@
 				      la guerre pour le cas où notre patrie aurait, par 
 				      malheur, à lutter contre l'étranger.</p>
 				      <p>— « Oui, dit <persName key="jacques" type="fictif">Jacques</persName>, il faut toujours être prêt 
-				      à défendre la <placeName>France</placeName>.</p>
+				      à défendre la <placeName ana="france">France</placeName>.</p>
 				      <p>« J'espère qu'elle ne sera jamais attaquée, 
 				      dit doucement la petite <persName key="suzette" type="fictif">Suzette</persName> en regardant son 
 				      frère d'un air de tendresse craintive.</p>
@@ -187,7 +187,7 @@
 				      maux, » ajouta <persName key="mme_delorme" type="fictif">Mme Delorme</persName>.</p>
 				      <p>Cependant les troupes s'éloignaient ; elles dis-
 				      parurent bientôt derrière un pli de terrain, et non
-				      amis purent reprendre leur marche vers <placeName>Coucy</placeName>
+				      amis purent reprendre leur marche vers <placeName ana="france">Coucy</placeName>
 				      Mais petite <persName key="suzette" type="fictif">Suzette</persName> avait cessé de chanter et la
 				      petit <objectName ana="histoire_naturelle">âne</objectName> ne trottait plus aussi gaillardement. [19]</p>
 					

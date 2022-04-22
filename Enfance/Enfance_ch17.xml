@@ -74,7 +74,7 @@
                <pb xmlns="" n="60" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_17-01.jpg"/>
                <p xmlns=""> On partit de bon matin, avant le réveil de <persName xmlns="" key="françois" type="fictif">François</persName> et de <persName xmlns="" key="charlot" type="fictif">Charlot</persName>, pour qui le
                   voyage eût été trop fatigant. <persName xmlns="" key="m_adrien" type="fictif">M. Adrien</persName> conduisait la carriole. Vers neuf heures,
-                  on descendait de voiture à <placeName xmlns=""><objectName xmlns="" ana="géographie">Saint-Gobain</objectName></placeName>.</p>
+                  on descendait de voiture à <placeName xmlns=""><objectName xmlns="" ana="géographie"><placeName xmlns="" ana="france">Saint-Gobain</placeName></objectName></placeName>.</p>
                <p xmlns="">Comment ! c'était là le pays du <objectName xmlns="" ana="industrie">verre</objectName>, du <objectName xmlns="" ana="industrie">verre</objectName> si transparent, si joli à
                   regarder ? </p>
                <pb xmlns="" n="61" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_17-02.jpg"/>
@@ -83,7 +83,7 @@
                   d'abord que de noires usines, de hautes cheminées, d'épaisses colonnes
                   de fumée qui obscurcissaient le ciel. Leurs pieds, en marchant, enfonçaient dans
                   une poussière noire et charbonneuse.</p>
-               <p xmlns="">Le père de l'institutrice, <persName xmlns="" key="m_garnier">M. Garnier</persName>, contremaître à la grande verrerie,
+               <p xmlns=""><persName xmlns="" type="fictif">Le père de l'institutrice</persName>, <persName xmlns="" key="m_garnier">M. Garnier</persName>, contremaître à la grande verrerie,
                   vint au-devant des visiteurs et les conduisit vers un très grand bâtiment dont la
                   porte d'entrée s'ouvrait sur une immense « halle ». </p>
 
@@ -94,7 +94,7 @@
 
                <p xmlns="">— Ah ! quel spectacle ! Tout le fond de la halle semblait embrasé.</p>
                <p xmlns="">D'une longue rangée de fours aux portes de fer rougies par l'ardente
-                  <objectName xmlns="" ana="industrie">chaleur</objectName>, sortait comme un roulement lointain de tonnerre. L'atmosphère était
+                  <objectName xmlns="" ana="industrie">chaleur</objectName>, sortait comme un roulement lointain de tonnerre. <objectName xmlns="" ana="sciences_naturelles">L'atmosphère</objectName> était
                   brûlante.</p>
                <p xmlns="">Des hommes en bras de chemise, les manches retroussées, le visage en sueur,
                   passaient affairés. — « Ce sont les verriers, » dit <persName xmlns="" key="m_garnier" type="fictif">M. Garnier</persName>.</p>
@@ -140,9 +140,9 @@
                <p xmlns="">Et il ajouta, en se tournant vers <persName xmlns=""><persName xmlns="" key="suzette" type="fictif">Suzette</persName></persName> :</p>
                <p xmlns="">— « Les demoiselles auront de quoi se mirer.</p>
                <p xmlns="">— «, Il n'y a que deux cents ans, dit <persName xmlns=""><persName xmlns="" key="mme_delorme" type="fictif">Mme Delorme</persName></persName>, qu'on fabrique des
-                  glaces en <placeName xmlns="">France</placeName>. »</p>
+                  glaces en <placeName xmlns="" ana="france">France</placeName>. »</p>
                <p xmlns=""><persName xmlns=""><persName xmlns="" key="suzette" type="fictif">Suzette</persName></persName>, tout émue pendant l'opération du coulage, s'était remise à
-                  sourire. Elle demanda : — « On ne se mirait donc pas en <placeName xmlns="">France</placeName>, il y a deux cents
+                  sourire. Elle demanda : — « On ne se mirait donc pas en <placeName xmlns="" ana="france">France</placeName>, il y a deux cents
                   ans ? </p>
                <p xmlns="">— « Partout depuis le commencement du monde, répondit <persName xmlns="" key="mme_delorme" type="fictif">Mme Delorme</persName>, on s'est
                   miré, ne serait-ce que dans l'eau des fontaines ; et même on a fait des
@@ -157,10 +157,10 @@
                <p xmlns=""> « Au quatorzième siècle seulement, les Vénitiens les premiers fabriquèrent les
                   miroirs de <objectName xmlns="" ana="industrie">verre</objectName> appelés glaces de <placeName xmlns=""><objectName xmlns="" ana="géographie">Venise</objectName></placeName>. Mais ils gardèrent pendant trois cents
                   ans le secret de cette fabrication.</p>
-               <p xmlns="">« C'était alors en <placeName xmlns="">Europe</placeName> un grand objet de luxe. Chez nous, par exemple, les
+               <p xmlns="">« C'était alors en <placeName xmlns="" ana="europe">Europe</placeName> un grand objet de luxe. Chez nous, par exemple, les
                   nobles ornaient du haut en bas les murs de leurs appartements, et même
                   l'intérieur de leurs carrosses, de glaces de <placeName xmlns=""><objectName xmlns="" ana="géographie">Venise</objectName></placeName>.</p>
-               <p xmlns="">« Cela faisait sortir de <placeName xmlns="">France</placeName> beaucoup d'argent. Aussi <persName xmlns=""><persName xmlns="" type="historique"><objectName xmlns="" ana="histoire">Colbert</objectName></persName></persName>, le fameux
+               <p xmlns="">« Cela faisait sortir de <placeName xmlns="" ana="france">France</placeName> beaucoup d'argent. Aussi <persName xmlns=""><persName xmlns="" type="historique"><objectName xmlns="" ana="histoire">Colbert</objectName></persName></persName>, le fameux
                   mi- nistre de <persName xmlns=""><persName xmlns="" type="historique">Louis XIV</persName></persName>, employa- t-il toute sa volonté à encou- rager
                   l'industrie du <objectName xmlns="" ana="industrie">verre</objectName> dans notre pays.</p>
 
@@ -168,8 +168,8 @@
                   <caption xmlns="">Une grande dame au treizième siècle.</caption>
                </figure>
 
-               <p xmlns="">« Il fonda la verrerie de <placeName xmlns="">Saint-Gobain</placeName> où nous somes, et bientôt les verriers
-                  français surpassèrent ceux de <placeName xmlns=""><objectName xmlns="" ana="géographie">Venise</objectName></placeName> en inventant le coulage du <objectName xmlns="" ana="industrie">verre</objectName>, tel que
+               <p xmlns="">« Il fonda la verrerie de <placeName xmlns="" ana="france"><objectName xmlns="" ana="géographie">Saint-Gobain</objectName></placeName> où nous somes, et bientôt les verriers
+                  français surpassèrent ceux de <placeName xmlns=""><objectName xmlns="" ana="géographie"><placeName xmlns="" ana="europe"><objectName xmlns="" ana="géographie">Venise</objectName></placeName></objectName></placeName> en inventant le coulage du <objectName xmlns="" ana="industrie">verre</objectName>, tel que
                   vous venez de le voir. Les Vénitiens n’employaient que le procédé du « soufflage »
                   qui, d'ailleurs, date de l'antiquité la plus lointaine.</p>
                <p xmlns="">« Nous allons maintenant voir le soufflage. Suivez-moi. »</p>
@@ -183,29 +183,29 @@
                   l'or.</p>
                <p xmlns=""><persName xmlns="" key="m_garnier" type="fictif">M. Garnier</persName>, à cette question, se baissa, ramassa un peu de sable et dit à <persName xmlns=""><persName xmlns="" key="jacques" type="fictif">Jacques</persName></persName>: </p>
                <p xmlns=""> — « Tendez votre main. »</p>
-               <p xmlns="">Jacques tendit la main ; <persName xmlns="" key="m_garnier"><persName xmlns="" type="fictif"><persName xmlns="" key="m_garnier">M. Garnier</persName></persName></persName> y mit ce sable, puis, s'approchant
+               <p xmlns="">Jacques tendit la main ; <persName xmlns="" key="m_garnier"><persName xmlns="" type="fictif"><persName xmlns="" key="m_garnier" type="fictif">M. Garnier</persName></persName></persName> y mit ce sable, puis, s'approchant
                   d'un tas de cristaux blancs qui se trouvaient là, il en prit une pincée et
                   dit à <persName xmlns=""><persName xmlns="" key="suzette" type="fictif">Suzette</persName></persName> de tendre aussi sa main : ce qu'elle fit.</p>
-               <p xmlns="">Il y plaça les cristaux que la petite fille reconnut pour être de ceux que sa mère
+               <p xmlns="">Il y plaça les cristaux que la petite fille reconnut pour être de ceux que <persName xmlns="" type="fictif">sa mère</persName>
                   employait dans les nettoyages.</p>
                <p xmlns="">— « Mais c'est de la soude, dit-elle.</p>
-               <p xmlns="">— « Eh bien, reprit <persName xmlns="" key="m_garnier" type="fictif">M. Garnier</persName>, mélangez cette soude et ce sable; mettez-les dans
+               <p xmlns="">— « Eh bien, reprit <persName xmlns="" key="m_garnier" type="fictif">M. Garnier</persName>, <objectName xmlns="" ana="industrie">mélangez</objectName> cette soude et ce sable; mettez-les dans
                   un vase de terre solide, puis chauffez dans un four jusqu'à une température
                   quinze fois plus brûlante que celle de l'eau bouillante. Au bout d'une
-                  trentaine d'heures, soude et sable fondus ensemble for- meront ce liquide que
+                  trentaine d'heures, soude et sable <objectName xmlns="" ana="industrie">fondus</objectName> ensemble for- meront ce liquide que
                   vous avez vu se répandre sur la table de fer; et ce sera du <objectName xmlns="" ana="industrie">verre</objectName>. » [17]</p>
 
             </div>
             <div xmlns="" type="causerie">
-               <p xmlns="">[17] <label xmlns="">CAUSERIE</label>: Sciences naturelles. — Qu'est-ce que
+               <p xmlns="">[17] <label xmlns="">CAUSERIE</label>: <term xmlns="" ana="sciences_naturelles">Sciences naturelles</term>. — Qu'est-ce que
                   l'atmosphère ?</p>
                <p xmlns=""> <term xmlns="" ana="industrie">Industrie</term>. — Avec quelles substances fait-on le verre ? — Quel moyen emploie-t-on
                   pour fondre et mélanger ces substances ? — Faut-il une grande chaleur pour les
                   fondre ? — Racontez l'opération du coulage d'une glace.</p>
                <p xmlns=""><term xmlns="" ana="connaissances_usuelles">Connaissances usuelles</term>. — Qu'est-ce qu'un métal poli ? </p>
-               <p xmlns=""><term xmlns="" ana="histoire">Histoire</term>. — Qui est <persName xmlns="">Colbert</persName> ?</p>
-               <p xmlns=""><term xmlns="" ana="géographie">Géographie</term>. — De quel département fait partie <placeName xmlns="">Saint-Gobain</placeName> et quel est le
-                  chef-lieu de ce département ? — Où est situee <placeName xmlns="">Venise</placeName> ? </p>
+               <p xmlns=""><term xmlns="" ana="histoire">Histoire</term>. — Qui est <persName xmlns="" type="historique">Colbert</persName> ?</p>
+               <p xmlns=""><term xmlns="" ana="géographie">Géographie</term>. — De quel département fait partie <placeName xmlns="" ana="france">Saint-Gobain</placeName> et quel est le
+                  chef-lieu de ce département ? — Où est situee <placeName xmlns="" ana="europe">Venise</placeName> ? </p>
                <fw xmlns="">4.</fw>
             </div>
          </div>

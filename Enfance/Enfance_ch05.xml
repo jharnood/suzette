@@ -72,7 +72,7 @@
                   <title>5. ― « La bête » qui est dedans.</title>
                </p>
                <pb n="12" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/Enfance/enfance_images/enfance_05-01.jpg"/>
-               <p> <objectName ana="connaissances_usuelles">Cette horloge avait un cadran où les heures étaient marquées en chiffres romains. On y voyait aussi deux aiguilles de cuivre brillant, l'une longue et l'autre courte. La grande indiquait les minutes, la petite indiquait les heures. L'horloge avait également un balancier et des poids ; ceux-ci étaient suspendus au bout de deux chaînes.</objectName></p>
+               <p> <term ana="connaissances_usuelles">Cette horloge avait un cadran où les heures étaient marquées en chiffres romains. On y voyait aussi deux aiguilles de cuivre brillant, l'une longue et l'autre courte. La grande indiquait les minutes, la petite indiquait les heures. L'horloge avait également un balancier et des poids ; ceux-ci étaient suspendus au bout de deux chaînes</term>.</p>
                <p><persName key="m_dumay" type="fictif">M. Dumay</persName> l'accrocha au mur, à la place de la vieille ; il remonta les poids,
                   mit les aiguilles à l'heure, puis donna un petit coup au balancier qui se mit
                   à aller et venir de droite à gauche et de gauche à droite, en faisant tic tac, tic
@@ -84,7 +84,7 @@
                <p>Le petit <persName key="charlot" type="fictif">Charlot</persName> se mit à rire de plaisir et demanda à voir « la bête » qui,
                   là-dedans, faisait ce bruit et ce tic tac.</p>
                <p>― « Oui, <persName key="m_dumay" type="fictif">papa</persName>, ajouta <persName key="suzette" type="fictif">Suzette</persName>, qu'est-ce qu'il y a là-dedans ? » </p>
-               <p>Le papa ouvrit un des côtés de l'horloge et élevant la petite <persName key="suzette" type="fictif">Suzette</persName> dans
+               <p><persName key="m_dumay" type="fictif">Le papa</persName> ouvrit un des côtés de l'horloge et élevant la petite <persName key="suzette" type="fictif">Suzette</persName> dans
                   ses bras :</p>
                <p>― « Regarde, lui dit-il, que vois-tu ?</p>
                <p>― « Je vois des roues de cuivre qui s'engrènent les unes dans les autres par
@@ -110,13 +110,13 @@
                </figure>
 
                <p>A la suite de <persName key="suzette" type="fictif">Suzette</persName>, <persName key="jacques" type="fictif">Jacques</persName>, hissé sur une chaise, et <persName key="françois" type="fictif">François</persName> sur les bras de
-                  sa mère, re- gardèrent l'intérieur de l'horloge et comprirent
+                  <persName key="mme_dumay" type="fictif">sa mère</persName>, re- gardèrent l'intérieur de l'horloge et comprirent
                   l'explication qui venait de leur être donnée. Ils avaient l'air joyeux,
                   car rien n'est plus agréable que de comprendre.</p>
                <p>Puis toute la famille s'en alla souper et l'on mangea avec plaisir du
                   bon ragoût préparé avec tant de soin.</p>
                <p>Au milieu du repas, <persName key="charlot" type="fictif">Charlot</persName>, dont c'était l'ha- bitude, ferma les yeux
-                  et sa maman l'emporta doucement dans son petit lit en chantonnant dodo,
+                  et <persName key="mme_dumay" type="fictif">sa maman</persName> l'emporta doucement dans son petit lit en chantonnant dodo,
                   l'enfant do, comme elle faisait tous les soirs. [5] </p>
 
             </div>

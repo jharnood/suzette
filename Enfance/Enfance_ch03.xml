@@ -86,8 +86,8 @@
 					<fw>8 L'ENFANCE DE SUZETTE.</fw>
 					<p> <persName key="marcelline" type="fictif">Marcelline</persName> répondit : « Je vais à l'école pour gagner des bons points
 						et des prix. » </p>
-					<p>Petite <persName key="suzette" type="fictif">Suzette</persName> écrivit : « <objectName ana="morale">Je vais à l'école pour apprendre les choses utiles que je ne sais pas ; j'y vais pour apprendre à bien conduire mon ménage quand je serai grande.</objectName> » </p>
-					<p>― « Très bien, petite <persName key="suzette" type="fictif">Suzette</persName>, dit l'institu- trice ; ajoute qu'on
+					<p>Petite <persName key="suzette" type="fictif">Suzette</persName> écrivit : « <term ana="morale">Je vais à l'école pour apprendre les choses utiles que je ne sais pas ; j'y vais pour apprendre à bien conduire mon ménage quand je serai grande.</term> » </p>
+					<p>― « Très bien, petite <persName key="suzette" type="fictif">Suzette</persName>, dit <persName key="mme_delorme" type="fictif">l'institu- trice</persName> ; ajoute qu'on
 						va encore à l'école pour apprendre à agir, en toute chose, moralement,
 						c'est-à-dire avec droiture et avec bonté. »</p>
 					<p>Puis elle donna un bon point à <persName key="suzette" type="fictif">Suzette</persName>.</p>
