@@ -83,7 +83,9 @@
                <pb type="page" n="30" />
                <p> A ces douze ans-là s'ajoutaient un teint clair, des <lb />dents blanches et propres, une souple et longue cheve <lb />lure ornant un visage à l'air ouvert et avenant. Le jour de
                   <lb />son anniversaire* <gloss> Anniversaire. Époque ou cérémonie que ramène le souvenir d'un événement arrivé à pareil jour. </gloss> tombait juste la veille des vacances. </p>
-               <p> Comme les élèves, assez pressées de les commen- <lb />cer, se levaient, <lb />sans attendre le <lb />coup de l'hor- <lb />loge, <persName type="fictif" key="mme_valon">Mme Valon</persName> <lb />les fit rasseoir. </p>
+               <p> Comme les élèves, assez pressées de les commen- <lb />cer, se levaient, <lb />sans attendre le <lb />coup de l'hor- <lb />loge, <persName type="fictif" key="mme_valon"
+                     >Mme Valon</persName>
+                  <lb />les fit rasseoir. </p>
                <figure type="sujets">
                   <caption>L'art du livre.</caption>
                   <caption>Les caractères d'im- <lb />primerie sont de petites <lb />tiges de métal qui por- <lb />tent en relief à l'une de <lb />leurs extrémités une lettre de l'alphabet. L’ouvrier
@@ -98,17 +100,19 @@
                <fw type="header"> LA CLEF DU TRÉSOR. 31 </fw>
                <pb type="page" n="31" />
                <p>Les demoiselles de douze ans, et les autres plus <lb />jeunes, se mirent à rire. </p>
-               <p> — Oui, reprit <persName type="fictif" key="mme_valon">Mme Valon</persName>, vous emportez d'ici la lec- <lb />ture, clef d'un vaste trésor qui est le savoir. Beaucoup <lb />de celles qui vous ont précédées sur ces bancs ont
-                  <lb />oublié cette clef au fond de leur poche et sont retour- <lb />nées aussitôt à la pauvreté, à la stérilité d'esprit* <gloss> Stérilité d'esprit. Etat d'une personne incapable de
-                     tirer parti de ce qu’elle sait. </gloss> d'où <lb />l'école avait voulu les tirer. Voyons, <persName type="fictif" key="jeanne">Jeanne</persName>, et toi, <lb /><persName type="fictif" key="madeleine">Madeleine</persName>, et toi, <persName type="fictif" key="suzette">Suzette</persName>, vous me comprenez ? </p>
+               <p> — Oui, reprit <persName type="fictif" key="mme_valon">Mme Valon</persName>, vous emportez d'ici la lec- <lb />ture, clef d'un vaste trésor qui est le savoir. Beaucoup <lb />de
+                  celles qui vous ont précédées sur ces bancs ont <lb />oublié cette clef au fond de leur poche et sont retour- <lb />nées aussitôt à la pauvreté, à la stérilité d'esprit* <gloss>
+                     Stérilité d'esprit. Etat d'une personne incapable de tirer parti de ce qu’elle sait. </gloss> d'où <lb />l'école avait voulu les tirer. Voyons, <persName type="fictif"
+                     key="jeanne">Jeanne</persName>, et toi, <lb /><persName type="fictif" key="madeleine">Madeleine</persName>, et toi, <persName type="fictif" key="suzette">Suzette</persName>, vous
+                  me comprenez ? </p>
                <p> — Oui, Madame.</p>
                <p>— Eh bien ! que ferez-vous de la clef ? </p>
                <p> — Nous ouvririons le trésor, répondit <persName type="fictif" key="suzette">Suzette</persName>, si <lb />nous avions des livres. </p>
                <p> — A la bonne heure ! </p>
                <p> — Mais nous n'en avons pas. </p>
                <p> — Vraiment! pas un seul chez aucune de vous ? </p>
-               <p> — Moi, dit <persName type="fictif" key="madeleine">Madeleine</persName>, j'en ai un : l'almanach* <gloss> Almanach. Petit livre ou calendrier qui contient la liste des jours de l'année avec des prédictions relatives au temps.
-                  </gloss> de <lb />Mathieu Lænsberg. </p>
+               <p> — Moi, dit <persName type="fictif" key="madeleine">Madeleine</persName>, j'en ai un : l'almanach* <gloss> Almanach. Petit livre ou calendrier qui contient la liste des jours de
+                     l'année avec des prédictions relatives au temps. </gloss> de <lb />Mathieu Lænsberg. </p>
                <p> — Moi, s'écria <persName type="fictif" key="jeanne">Jeanne</persName>, j'en ai trois. </p>
                <p> — Moi, quatre, dit <persName type="fictif" key="suzette">Suzette</persName>. </p>
                <p> — En y comprenant l’almanach, reprit en souriant <persName type="fictif" key="mme_valon">Mme Valon</persName>, cela fait déjà huit. Et vous autres ? </p>
@@ -117,14 +121,14 @@
                      livres. </gloss> que <lb />j'ajouterai, voilà le trésor commun à vous toutes ; vous <lb />y puiserez librement et nous l'accroîtrons avec un peu de bonne volonté. Ce sera le
                   commencement de la bibliothèque scolaire du village. J'attends vos livres demain... Et maintenant, séparons-nous sans adieu. Vous, grandes filles, qui quittez l'école, n'oubliez pas
                   qu'avec cette bibliothèque, vous avez encore ici une amie. </p>
-               <p> Spontanément les grandes filles se levèrent de leurs bancs, et entourèrent <persName type="fictif" key="mme_valon">Mme Valon</persName>. Les petites, celles qui devaient revenir dans six semaines, firent de même. On embrassa
-                  l'institutrice, car on l'aimait. </p>
+               <p> Spontanément les grandes filles se levèrent de leurs bancs, et entourèrent <persName type="fictif" key="mme_valon">Mme Valon</persName>. Les petites, celles qui devaient revenir
+                  dans six semaines, firent de même. On embrassa l'institutrice, car on l'aimait. </p>
                <p> — Allons, hop ! en vacances ! dit-elle avec un sourire ému. </p>
                <p> Ce fut une envolée d'oiseaux à qui l'on ouvre la cage. </p>
                <fw type="header"> 32 SUZETTE. </fw>
                <pb type="page" n="32" />
-               <p> ><persName type="fictif" key="suzette">Suzette</persName>, qui avait le cœur tendre et réfléchi* <gloss> Réfléchi. Le contraire d'étourdi. </gloss>, dit adieu d'un mélancolique regard à ces murs, à son banc, aux six années de sa
-                  jeune vie déjà passées là. </p>
+               <p> ><persName type="fictif" key="suzette">Suzette</persName>, qui avait le cœur tendre et réfléchi* <gloss> Réfléchi. Le contraire d'étourdi. </gloss>, dit adieu d'un mélancolique
+                  regard à ces murs, à son banc, aux six années de sa jeune vie déjà passées là. </p>
             </div2>
             <div2 type="questionnaire">
                <head> Questionnaire. </head>
@@ -206,9 +210,12 @@
                      <p>Pour <term>imprimer un livre</term>, on reproduit le texte du manuscrit de l'auteur au moyen de lettres de métal alignées les unes à côté des autres, de manière à former les
                         mots. L'ouvrier prend les lettres dans de petites cases, et il les dispose sur un cadre ayant les dimensions d'une feuille de papier. (Voir, pour la suite, la légende de la
                         gravure de la page 30.) </p>
-                     <p>L'<term>imprimerie</term> fut découverte en 1434, à <placeName><country ref="france"><settlement ref="strasbourg">Strasbourg</settlement></country></placeName>, par <persName type="historique">Jean Gutenberg</persName>, né à <placeName><country ref="allemagne"><settlement ref="mayence">Mayence</settlement></country></placeName> en 1400 : c'était alors un riche bourgeois. Ruiné par les frais de sa
-                        découverte, il retourna à <placeName><country ref="allemagne"><settlement ref="mayence">Mayence</settlement></country></placeName> vers 1444 et, en 1450, s'y associa avec <persName type="historique">Jean Fust</persName>. Tous deux publièrent la Bible : mais dès que <persName type="historique">Fust</persName> connut les procédés de l'art nouveau, il
-                        poursuivit <persName type="historique">Gutenberg</persName> afin d'obtenir le remboursement des avances qu'il lui avait faites, puis l'abandonna sans ressources pour s'adjoindre <persName type="historique">Pierre Schæffer</persName>. Le malheureux
+                     <p>L'<term>imprimerie</term> fut découverte en 1434, à <placeName><country ref="france"><settlement ref="strasbourg">Strasbourg</settlement></country></placeName>, par <persName
+                           type="historique">Jean Gutenberg</persName>, né à <placeName><country ref="allemagne"><settlement ref="mayence">Mayence</settlement></country></placeName> en 1400 : c'était
+                        alors un riche bourgeois. Ruiné par les frais de sa découverte, il retourna à <placeName><country ref="allemagne"><settlement ref="mayence"
+                           >Mayence</settlement></country></placeName> vers 1444 et, en 1450, s'y associa avec <persName type="historique">Jean Fust</persName>. Tous deux publièrent la Bible : mais
+                        dès que <persName type="historique">Fust</persName> connut les procédés de l'art nouveau, il poursuivit <persName type="historique">Gutenberg</persName> afin d'obtenir le
+                        remboursement des avances qu'il lui avait faites, puis l'abandonna sans ressources pour s'adjoindre <persName type="historique">Pierre Schæffer</persName>. Le malheureux
                         inventeur parvint néanmoins à fonder une imprimerie qu'il posséda jusqu'à la fin de sa vie (1468). </p>
                      <p>Une fois composés en lettres métalliques, les livres peuvent être reproduits à peu de frais à un nombre considérable, ce qui explique leur bon marché. </p>
                      <p>Les feuilles de papier sur lesquelles on imprime ont de grandes dimensions (0m, 80 sur 0m, 60 environ). Si on plie chacune d'elles en <term>deux</term> pour former le livre, on
