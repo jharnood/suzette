@@ -941,6 +941,18 @@
                 <valItem ident="elbeuf" mode="add">
                   <desc>Elbeuf</desc>
                 </valItem>
+                <valItem ident="cicile" mode="add">
+                  <desc>Sicile</desc>
+                </valItem>
+                <valItem ident="lorraine" mode="add">
+                  <desc>Lorraine</desc>
+                </valItem>
+                <valItem ident="franche-comté" mode="add">
+                  <desc>Franche-comté</desc>
+                </valItem>
+                <valItem ident="béarn" mode="add">
+                  <desc>Béarn</desc>
+                </valItem>
               </valList>
             </attDef>
           </attList>
