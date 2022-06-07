@@ -877,6 +877,12 @@
                 <valItem ident="salies" mode="add">
                   <desc>Salies</desc>
                 </valItem>
+                <valItem ident="strasbourg" mode="add">
+                  <desc>Strasbourg</desc>
+                </valItem>
+                <valItem ident="mayence" mode="add">
+                  <desc>Mayence</desc>
+                </valItem>
               </valList>
             </attDef>
           </attList>
