@@ -890,8 +890,8 @@
             </attDef>
           </attList>
         </elementSpec>
-        <!-- Add region @type values -->
-        <elementSpec ident="region" mode="change">
+        <!-- Add region @type values *** trying to fix region ref 06/08/2022-->
+<!--        <elementSpec ident="region" mode="change">
           <attList>
             <attDef ident="type" mode="change">
               <valList mode="change" type="closed">
@@ -910,7 +910,7 @@
               </valList>
             </attDef>
           </attList>
-        </elementSpec>
+        </elementSpec>-->
         <!-- Add region @ref values -->
         <elementSpec ident="region" mode="change">
           <attList>
