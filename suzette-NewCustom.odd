@@ -909,6 +909,11 @@
                 </valItem>
               </valList>
             </attDef>
+          </attList>
+        </elementSpec>
+        <!-- Add region @ref values -->
+        <elementSpec ident="region" mode="change">
+          <attList>
             <attDef ident="ref" mode="change">
               <valList mode="change" type="closed">
                 <valItem ident="lombardie" mode="add">
