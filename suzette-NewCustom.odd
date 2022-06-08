@@ -318,6 +318,9 @@
                 <valItem ident="mathias" mode="add">
                   <desc>Mathias Dumay</desc>
                 </valItem>
+                <valItem ident="lucie_valon" mode="add">
+                  <desc> Lucie Valon</desc>
+                </valItem>
               </valList>
             </attDef>
             <!--      		  <attDef ident="corresp" mode="delete"/>
@@ -904,18 +907,6 @@
                 <valItem ident="état" mode="add">
                   <desc>état</desc>
                 </valItem>
-                <valItem ident="sicile" mode="add">
-                  <desc>Sicile</desc>
-                </valItem>
-                <valItem ident="lorraine" mode="add">
-                  <desc>Lorraine</desc>
-                </valItem>
-                <valItem ident="franche-comté" mode="add">
-                  <desc>Franche-comté</desc>
-                </valItem>
-                <valItem ident="béarn" mode="add">
-                  <desc>Béarn</desc>
-                </valItem>
               </valList>
             </attDef>
             <attDef ident="ref" mode="change">
@@ -942,6 +933,18 @@
                   <desc>Elbeuf</desc>
                 </valItem>
                 <valItem ident="cicile" mode="add">
+                  <desc>Sicile</desc>
+                </valItem>
+                <valItem ident="lorraine" mode="add">
+                  <desc>Lorraine</desc>
+                </valItem>
+                <valItem ident="franche-comté" mode="add">
+                  <desc>Franche-comté</desc>
+                </valItem>
+                <valItem ident="béarn" mode="add">
+                  <desc>Béarn</desc>
+                </valItem>
+                <valItem ident="sicile" mode="add">
                   <desc>Sicile</desc>
                 </valItem>
                 <valItem ident="lorraine" mode="add">
