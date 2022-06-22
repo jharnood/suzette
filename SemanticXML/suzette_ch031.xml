@@ -111,7 +111,7 @@
                         <figure>
                             <caption>
                                 <lb/>Cuiture et récolte du riz, 
-                                <lb/>en <placeName><bloc ref="asie"><country ref="chine">Chine</country></bloc></placeName>. 
+                                <lb/>en <placeName type="réel"><bloc ref="asie"><country ref="chine">Chine</country></bloc></placeName>. 
                                 <lb/>—Le riz est un farineux 
                                 <lb/>dont on fait une excellente 
                                 <lb/>nourriture, en outre de ses 
@@ -139,7 +139,7 @@
                         <lb/>c'est dans mes jardins qu'il a commencé à être cultivé.</p>
                     <p> « C'est le seul qui puisse mûrir au nord de la grande 
                         <lb/>muraille*<gloss>Grande muraille. Mur fortifié de plus de 2,000 kilomètres de long, entre la 
-                            <placeName><bloc ref="asie"><country ref="chine">Chine</country></bloc></placeName> et la <placeName><bloc ref="asie"><country ref="mongolie">Mongolie</country></bloc></placeName>.</gloss>, où les froids finissent très tard et recommen- 
+                            <placeName type="réel"><bloc ref="asie"><country ref="chine">Chine</country></bloc></placeName> et la <placeName type="réel"><bloc ref="asie"><country ref="mongolie">Mongolie</country></bloc></placeName>.</gloss>, où les froids finissent très tard et recommen- 
                         <lb/>cent de fort bonne heure. Mais dans les provinces du 
                         <lb/>midi, où le climat est plus doux et la terre plus fertile, 
                         <lb/>on peut aisément en avoir deux moissons par an. Et 
@@ -172,7 +172,7 @@
                             </list>
                         </div4>
                         <div4 type="réponses">
-                            <p>La plus utile des protessions manuelles est celle d'agricuiteur. En 
+                            <p>La plus utile des professions manuelles est celle d'agriculteur. En 
                                 <lb/>effet, le premier besoin auquel il faut pourvoir dans les sociétés 
                                 <lb/>humaines est la nourriture de chaque individu ; d'où la nécessité indis- 
                                 <lb/>pensable de cultiver le sol, puisque la chasse et la pèche scraient tout 
@@ -198,28 +198,28 @@
                         <head>Géographie.</head>
                         <div4 type="questions">
                             <list>
-                                <item>— Où se trouve la <placeName><bloc ref="asie"><country ref="chine">Chine</country></bloc></placeName> ? </item>
+                                <item>— Où se trouve la <placeName type="réel"><bloc ref="asie"><country ref="chine">Chine</country></bloc></placeName> ? </item>
                                 <item>— Donnez une idée de la grandeur, de la population, des produits de cet immense empire.</item>
                                 <item> — Quels produits en retirons-nous ? </item>
-                                <item>— Que savez-vous du costume et des usages des habitants de la <placeName><bloc ref="asie"><country ref="chine">Chine</country></bloc></placeName> ? </item>
+                                <item>— Que savez-vous du costume et des usages des habitants de la <placeName type="réel"><bloc ref="asie"><country ref="chine">Chine</country></bloc></placeName> ? </item>
                             </list>
                         </div4>
                         <div4 type="réponses">
                             <p>
-                                <lb/>La <placeName><bloc ref="asie"><country ref="chine">Chine</country></bloc></placeName>, située à l'est de 
-                                    l'<placeName><bloc ref="asie">Asie</bloc></placeName>, a une étendue à peu près égale à 
-                                <lb/>celle de l'<placeName><bloc ref="europe">Europe</bloc></placeName>, et sa population dépasse trois cents millions d'habi- 
+                                <lb/>La <placeName type="réel"><bloc ref="asie"><country ref="chine">Chine</country></bloc></placeName>, située à l'est de 
+                                    l'<placeName type="réel"><bloc ref="asie">Asie</bloc></placeName>, a une étendue à peu près égale à 
+                                <lb/>celle de l'<placeName type="réel"><bloc ref="europe">Europe</bloc></placeName>, et sa population dépasse trois cents millions d'habi- 
                                 <lb/>tants. Elle renferme un grand nombre de villes populeuses, indus- 
-                                <lb/>trielles, commerçantes ; telles sont : <placeName><bloc ref="asie"><country ref="chine"><settlement ref="péhing">Péhing</settlement></country></bloc></placeName>, 
-                                    1, 200,000 âmes ; <placeName><bloc ref="asie"><country ref="chine"><settlement ref="hankéou">Han- 
-                                <lb/>kéou</settlement></country></bloc></placeName>, 4,000,000 ; <placeName><bloc ref="asie"><country ref="chine"><settlement ref="nan-king">Nan-king</settlement></country></bloc></placeName>, 
-                                    1,000,000 ; <placeName><bloc ref="asie"><country ref="chine"><settlement ref="nan-tchang">Nan-tchang</settlement></country></bloc></placeName>, 1,000,000; 
-                                    <placeName><bloc ref="asie"><country ref="chine"><settlement ref="soutchéou">Sou- 
-                                <lb/>tchéou</settlement></country></bloc></placeName>, 3,000,000; <placeName><bloc ref="asie"><country ref="chine"><settlement ref="shang-haî">Shang-haî</settlement></country></bloc></placeName>, 
+                                <lb/>trielles, commerçantes ; telles sont : <placeName type="réel"><bloc ref="asie"><country ref="chine"><settlement ref="péhing">Péhing</settlement></country></bloc></placeName>, 
+                                    1, 200,000 âmes ; <placeName type="réel"><bloc ref="asie"><country ref="chine"><settlement ref="hankéou">Han- 
+                                <lb/>kéou</settlement></country></bloc></placeName>, 4,000,000 ; <placeName type="réel"><bloc ref="asie"><country ref="chine"><settlement ref="nan-king">Nan-king</settlement></country></bloc></placeName>, 
+                                    1,000,000 ; <placeName type="réel"><bloc ref="asie"><country ref="chine"><settlement ref="nan-tchang">Nan-tchang</settlement></country></bloc></placeName>, 1,000,000; 
+                                    <placeName type="réel"><bloc ref="asie"><country ref="chine"><settlement ref="soutchéou">Sou- 
+                                <lb/>tchéou</settlement></country></bloc></placeName>, 3,000,000; <placeName type="réel"><bloc ref="asie"><country ref="chine"><settlement ref="shang-haî">Shang-haî</settlement></country></bloc></placeName>, 
                                     800,000; cette ville fait un commerce 
-                                <lb/>annuel qui dépasse 700 millions ; <placeName><bloc ref="asie"><country ref="chine"><settlement ref="canton">Canton</settlement></country></bloc></placeName>, 
-                                    1,200,000; <placeName><bloc ref="asie"><country ref="chine"><settlement ref="tien-tsin">Tien-Tsin</settlement></country></bloc></placeName>, 400,000.</p>
-                            <p>Nul pays au monde n'est mieux cultivé que la <placeName><bloc ref="asie"><country ref="chine">Chine</country></bloc></placeName>, et ne renferme 
+                                <lb/>annuel qui dépasse 700 millions ; <placeName type="réel"><bloc ref="asie"><country ref="chine"><settlement ref="canton">Canton</settlement></country></bloc></placeName>, 
+                                    1,200,000; <placeName type="réel"><bloc ref="asie"><country ref="chine"><settlement ref="tien-tsin">Tien-Tsin</settlement></country></bloc></placeName>, 400,000.</p>
+                            <p>Nul pays au monde n'est mieux cultivé que la <placeName type="réel"><bloc ref="asie"><country ref="chine">Chine</country></bloc></placeName>, et ne renferme 
                                 <lb/>de plus riches mines de houille. Nous en tirons du riz, du thé, de la 
                                 <lb/>soie, des porcelaines. Les habitants portent des robes et conservent 
                                 <lb/>leurs cheveux qu'ils tressent en une longue queue; ils sont intelligents,
@@ -238,7 +238,7 @@
                                 <item>— Comment cultive-t-on le riz ? </item>
                                 <item>— Quels terrains conviennent à cette plante ? </item>
                                 <item>— Quels peuples en font la base de leur nourriture ? </item>
-                                <item>— Dans quelles contrées de l'<placeName><bloc ref="europe">Europe</bloc></placeName> cette céréale est-elle cultivée ? </item>
+                                <item>— Dans quelles contrées de l'<placeName type="réel"><bloc ref="europe">Europe</bloc></placeName> cette céréale est-elle cultivée ? </item>
                             </list>
                         </div4>
                         <div4 type="réponses">
@@ -247,11 +247,11 @@
                                 <lb/>appelle également riz, et qu'on mange cuit à l'état naturel ou en 
                                 <lb/>farine. On le sème au printemps dans des sillons ; puis on inonde le 
                                 <lb/>sol à diverses reprises, et au milieu de l'été ou au commencement de 
-                                <lb/>l'automne, on le récolte. L'<placeName><bloc ref="inde">Hindoustan</bloc></placeName>, la <placeName><bloc ref="asie"><country ref="chine">Chine</country></bloc></placeName>,
-                                    l'<placeName><bloc ref="asie"><country type="colonie" ref="indo_chine">Indo-Chine</country></bloc></placeName>, le <placeName><bloc ref="asie"><country ref="japon">Japon</country></bloc></placeName>
+                                <lb/>l'automne, on le récolte. L'<placeName type="réel"><bloc ref="inde">Hindoustan</bloc></placeName>, la <placeName type="réel"><bloc ref="asie"><country ref="chine">Chine</country></bloc></placeName>,
+                                    l'<placeName type="réel"><bloc ref="asie"><country type="colonie" ref="indo-chine">Indo-Chine</country></bloc></placeName>, le <placeName type="réel"><bloc ref="asie"><country ref="japon">Japon</country></bloc></placeName>
                                 <lb/>en produisent des quantités considérables et il y forme la base de la 
                                 <lb/>nourriture des habitants ; on cultive encore cette plante dans les riches
-                                <lb/>plaines de la <placeName><bloc ref="europe"><country ref="italie"><region type="province" ref="lombardie">Lombardie</region></country></bloc></placeName> qu'arrose le <placeName><geogFeat type="riviére"><geogName ref="pô">Pô</geogName></geogFeat></placeName>.</p>
+                                <lb/>plaines de la <placeName type="réel"><bloc ref="europe"><country ref="italie"><region type="province" ref="lombardie">Lombardie</region></country></bloc></placeName> qu'arrose le <placeName type="réel"><geogFeat type="riviére"><geogName ref="pô">Pô</geogName></geogFeat></placeName>.</p>
                         </div4>
                     </div3>
                     <div3 type="économie_domestique">

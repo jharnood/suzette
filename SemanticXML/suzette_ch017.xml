@@ -241,9 +241,9 @@
                         <lb/>étirées lentement, se transforment en fils blancs qui s'enroulent autour 
                         <lb/>de bobines et sont propres alors à être tricotés ou tissés.</p>
                      <p>La meilleure laine provient des moutons <term>mérinos</term>. Cette race, origi- 
-                        <lb/>naire d'<placeName><bloc ref="europe"><country ref="espagne">Espagne</country></bloc></placeName>, est perfectionnée et améliorée dans la magnifique 
-                        <lb/>bergerie de <placeName><bloc ref="europe"><country ref="france"><settlement ref="rambouillet">Rambouillet</settlement></country></bloc></placeName>. On estime à 6 ou 700,000 le nombre des 
-                        <lb/>mérinos de race pure en <placeName><bloc ref="europe"><country ref="france">France</country></bloc></placeName>.</p>
+                        <lb/>naire d'<placeName type="réel"><bloc ref="europe"><country ref="espagne">Espagne</country></bloc></placeName>, est perfectionnée et améliorée dans la magnifique 
+                        <lb/>bergerie de <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="rambouillet">Rambouillet</settlement></country></bloc></placeName>. On estime à 6 ou 700,000 le nombre des 
+                        <lb/>mérinos de race pure en <placeName type="réel"><bloc ref="europe"><country ref="france">France</country></bloc></placeName>.</p>
                      <p><term>Les moutons</term> sont des animaux domestiques qu'on élève pour leur 
                         <lb/>chair et leur laine ; durant le jour on les conduit au pâturage et, pen- 
                         <lb/>dant la nuit, on les abrite dans de grands bâtiments connus sous le nom 
@@ -262,7 +262,7 @@
                         <item>— Qu'est-ce que le coton ? </item>
                         <item>— De quelles contrées le tirons-nous ? </item>
                         <item>— Que savez-vous de la culture et de la récolte du coton ? </item>
-                        <item>— Comment est-il expédié en <placeName><bloc ref="europe">Europe</bloc></placeName> ? </item>
+                        <item>— Comment est-il expédié en <placeName type="réel"><bloc ref="europe">Europe</bloc></placeName> ? </item>
                         <item>— Quelles étoffes fabrique-t-on avec le coton ? </item>
                         <item>— Prix du mètre de chacune.</item>
                         <item>— Quelles sont les qualités et les inconvénients des étoffes de coton ? </item>
@@ -272,13 +272,13 @@
                      <p><term>Le coton</term> est la bourre qui enveloppe les graines d'un arbre appelé 
                         <lb/>cotonnier ; elle s'échappe des gousses sous forme de flocons blancs, 
                         <lb/>dont la ouate nous donne l'idée. Nous tirons cette matière textile des 
-                        <lb/><placeName><bloc ref="amérique_nord"><country ref="etats_unis">États-Unis</country></bloc></placeName>, de l'<placeName><bloc ref="afrique"><country ref="égypte">Égypte</country></bloc></placeName>, 
-                              de l'<placeName><bloc ref="inde">Hindoustan</bloc></placeName>, de l'<placeName><bloc ref="afrique"><country ref="algérie">Algérie</country></bloc></placeName>, où on la cultive 
+                        <lb/><placeName type="réel"><bloc ref="amérique_nord"><country ref="etats_unis">États-Unis</country></bloc></placeName>, de l'<placeName type="réel"><bloc ref="afrique"><country ref="égypte">Égypte</country></bloc></placeName>, 
+                              de l'<placeName type="réel"><bloc ref="inde">Hindoustan</bloc></placeName>, de l'<placeName type="réel"><bloc ref="afrique"><country ref="algérie">Algérie</country></bloc></placeName>, où on la cultive 
                         <lb/>dans de vastes plantations. Lorsque le coton est recueilli, on l'amasse 
-                        <lb/>en balles qui, fortement pressées et cousues, sont expédiées en <placeName><bloc ref="europe">Europe</bloc></placeName>, 
+                        <lb/>en balles qui, fortement pressées et cousues, sont expédiées en <placeName type="réel"><bloc ref="europe">Europe</bloc></placeName>, 
                         <lb/>où ce produit est employé à la confection de nombre d'étoffes : calicot, 
                         <lb/>mousseline, indienne, jaconas, velours, dentelle, bonneterie, etc.</p>
-                     <p>L'industrie du coton occupe en <placeName><bloc ref="europe">Europe</bloc></placeName> plus de cinq millions d'hommes. 
+                     <p>L'industrie du coton occupe en <placeName type="réel"><bloc ref="europe">Europe</bloc></placeName> plus de cinq millions d'hommes. 
                         <lb/>Les étoffes qu'on en tire sont légères, chaudes, mais d'une résistance 
                         <lb/>inférieure à celle du chanvre ou du lin; leur extrême bon marché en 
                         <lb/>rend l'usage général.</p>
@@ -292,48 +292,48 @@
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>Les villes de <placeName><bloc ref="europe"><country ref="france">France</country></bloc></placeName> où l'on fabriques des draps et d'autres étoffes de 
-                        <lb/>laine sont : <placeName>Elbeuf</placeName>,
-                           <placeName><bloc ref="europe"><country ref="france"><settlement ref="louviers">Louviers</settlement></country></bloc></placeName>, 
-                           <placeName><bloc ref="europe"><country ref="france"><settlement ref="sedan">Sedan</settlement></country></bloc></placeName>, 
-                           <placeName><bloc ref="europe"><country ref="france"><settlement ref="mazamet">Mazamet</settlement></country></bloc></placeName>, 
-                           <placeName><bloc ref="europe"><country ref="france"><settlement ref="castres">Castres</settlement></country></bloc></placeName>, 
-                           <placeName><bloc ref="europe"><country ref="france"><settlement ref="roubaix">Roubaix</settlement></country></bloc></placeName>, 
-                           <lb/><placeName><bloc ref="europe"><country ref="france"><settlement ref="tourcoing">Tourcoing</settlement></country></bloc></placeName>, 
-                           <placeName><bloc ref="europe"><country ref="france"><settlement ref="amiens">Amiens</settlement></country></bloc></placeName>,
-                           <placeName><bloc ref="europe"><country ref="france"><settlement ref="troyes">Troyes</settlement></country></bloc></placeName>, 
-                           <placeName><bloc ref="europe"><country ref="france"><settlement ref="lodève">Lodève</settlement></country></bloc></placeName>, 
-                           <placeName><bloc ref="europe"><country ref="france"><settlement ref="rethel">Rethel</settlement></country></bloc></placeName>, 
-                           <placeName><bloc ref="europe"><country ref="france"><settlement ref="privas">Privas</settlement></country></bloc></placeName>, 
-                           <placeName><bloc ref="europe"><country ref="france"><settlement ref="carcassonne">Carcassonne</settlement></country></bloc></placeName>, 
-                           <placeName><bloc ref="europe"><country ref="france"><settlement ref="orléans">Or- <lb/>léans</settlement></country></bloc></placeName>, 
-                           <placeName><bloc ref="europe"><country ref="france"><settlement ref="tours">Tours</settlement></country></bloc></placeName>,
-                           <placeName><bloc ref="europe"><country ref="france"><settlement ref="beauvais">Beauvais</settlement></country></bloc></placeName>, 
-                           <placeName><bloc ref="europe"><country ref="france"><settlement ref="aubusson">Aubusson</settlement></country></bloc></placeName>, 
-                           <placeName><bloc ref="europe"><country ref="france"><settlement ref="puteaux">Puteaux</settlement></country></bloc></placeName>.</p>
+                     <p>Les villes de <placeName type="réel"><bloc ref="europe"><country ref="france">France</country></bloc></placeName> où l'on fabriques des draps et d'autres étoffes de 
+                        <lb/>laine sont : <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="elbeuf">Elbeuf</settlement></country></bloc></placeName>,
+                           <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="louviers">Louviers</settlement></country></bloc></placeName>, 
+                           <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="sedan">Sedan</settlement></country></bloc></placeName>, 
+                           <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="mazamet">Mazamet</settlement></country></bloc></placeName>, 
+                           <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="castres">Castres</settlement></country></bloc></placeName>, 
+                           <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="roubaix">Roubaix</settlement></country></bloc></placeName>, 
+                           <lb/><placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="tourcoing">Tourcoing</settlement></country></bloc></placeName>, 
+                           <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="amiens">Amiens</settlement></country></bloc></placeName>,
+                           <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="troyes">Troyes</settlement></country></bloc></placeName>, 
+                           <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="lodève">Lodève</settlement></country></bloc></placeName>, 
+                           <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="rethel">Rethel</settlement></country></bloc></placeName>, 
+                           <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="privas">Privas</settlement></country></bloc></placeName>, 
+                           <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="carcassonne">Carcassonne</settlement></country></bloc></placeName>, 
+                           <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="orléans">Or- <lb/>léans</settlement></country></bloc></placeName>, 
+                           <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="tours">Tours</settlement></country></bloc></placeName>,
+                           <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="beauvais">Beauvais</settlement></country></bloc></placeName>, 
+                           <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="aubusson">Aubusson</settlement></country></bloc></placeName>, 
+                           <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="puteaux">Puteaux</settlement></country></bloc></placeName>.</p>
                      <p>Les villes où se développe l'industrie du coton sont : 
-                        <placeName><bloc ref="europe"><country ref="france"><settlement ref="rouen">Rouen</settlement></country></bloc></placeName> et les 
-                        <lb/>localités environnantes, <placeName><bloc ref="europe"><country ref="france"><settlement ref="reims">Reims</settlement></country></bloc></placeName>, 
-                        <placeName><bloc ref="europe"><country ref="france"><settlement ref="chantilly">Chantilly</settlement></country></bloc></placeName>, 
-                        <placeName><bloc ref="europe"><country ref="france"><settlement ref="saint-omer">Saint-Omer</settlement></country></bloc></placeName>, 
-                        <placeName><bloc ref="europe"><country ref="france"><settlement ref="arras">Arras</settlement></country></bloc></placeName>, 
-                        <placeName><bloc ref="europe"><country ref="france"><settlement ref="armentières">Armen- <lb/>tières</settlement></country></bloc></placeName>,
-                        <placeName><bloc ref="europe"><country ref="france"><settlement ref="épinal">Épinal</settlement></country></bloc></placeName> et toute la vallée de la 
-                        <placeName><bloc ref="europe"><country ref="france"><settlement ref="moselle">Moselle</settlement></country></bloc></placeName>, 
-                        <placeName><bloc ref="europe"><country ref="france"><settlement ref="lavaur">Lavaur</settlement></country></bloc></placeName>, 
-                        <placeName><bloc ref="europe"><country ref="france"><settlement ref="valence">Valence</settlement></country></bloc></placeName>, 
-                        <placeName><bloc ref="europe"><country ref="france"><settlement ref="grenoble">Gre- <lb/>noble</settlement></country></bloc></placeName>, 
-                        <placeName><bloc ref="europe"><country ref="france"><settlement ref="le_puy">Le Puy</settlement></country></bloc></placeName>, 
-                        <placeName><bloc ref="europe"><country ref="france"><settlement ref="roanne">Roanne</settlement></country></bloc></placeName>, 
-                        <placeName><bloc ref="europe"><country ref="france"><settlement ref="laval">Laval</settlement></country></bloc></placeName>, 
-                        <placeName><bloc ref="europe"><country ref="france"><settlement ref="cholet">Cholet</settlement></country></bloc></placeName>, 
-                        <placeName><bloc ref="europe"><country ref="france"><settlement ref="le_mans">Le Mans</settlement></country></bloc></placeName>, 
-                        <placeName><bloc ref="europe"><country ref="france"><settlement ref="angers">Angers</settlement></country></bloc></placeName>, 
-                        <placeName><bloc ref="europe"><country ref="france"><settlement ref="condé-sur-noireau">Condé-sur- <lb/>Noireau</settlement></country></bloc></placeName>, 
-                        <placeName><bloc ref="europe"><country ref="france"><settlement ref="flers">Flers</settlement></country></bloc></placeName>, 
-                        <placeName><bloc ref="europe"><country ref="france"><settlement ref="lisieux">Lisieux</settlement></country></bloc></placeName>, 
-                        <placeName><bloc ref="europe"><country ref="france"><settlement ref="bernay">Bernay</settlement></country></bloc></placeName>, 
-                        <placeName><bloc ref="europe"><country ref="france"><settlement ref="cambrai">Cambrai</settlement></country></bloc></placeName>.</p>
+                        <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="rouen">Rouen</settlement></country></bloc></placeName> et les 
+                        <lb/>localités environnantes, <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="reims">Reims</settlement></country></bloc></placeName>, 
+                        <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="chantilly">Chantilly</settlement></country></bloc></placeName>, 
+                        <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="saint-omer">Saint-Omer</settlement></country></bloc></placeName>, 
+                        <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="arras">Arras</settlement></country></bloc></placeName>, 
+                        <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="armentières">Armen- <lb/>tières</settlement></country></bloc></placeName>,
+                        <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="épinal">Épinal</settlement></country></bloc></placeName> et toute la vallée de la 
+                        <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="moselle">Moselle</settlement></country></bloc></placeName>, 
+                        <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="lavaur">Lavaur</settlement></country></bloc></placeName>, 
+                        <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="valence">Valence</settlement></country></bloc></placeName>, 
+                        <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="grenoble">Gre- <lb/>noble</settlement></country></bloc></placeName>, 
+                        <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="le_puy">Le Puy</settlement></country></bloc></placeName>, 
+                        <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="roanne">Roanne</settlement></country></bloc></placeName>, 
+                        <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="laval">Laval</settlement></country></bloc></placeName>, 
+                        <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="cholet">Cholet</settlement></country></bloc></placeName>, 
+                        <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="le_mans">Le Mans</settlement></country></bloc></placeName>, 
+                        <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="angers">Angers</settlement></country></bloc></placeName>, 
+                        <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="condé-sur-noireau">Condé-sur- <lb/>Noireau</settlement></country></bloc></placeName>, 
+                        <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="flers">Flers</settlement></country></bloc></placeName>, 
+                        <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="lisieux">Lisieux</settlement></country></bloc></placeName>, 
+                        <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="bernay">Bernay</settlement></country></bloc></placeName>, 
+                        <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="cambrai">Cambrai</settlement></country></bloc></placeName>.</p>
                   </div4>
                </div3>
             </div2>

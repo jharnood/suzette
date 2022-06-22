@@ -116,7 +116,8 @@
                
                <figure>
                   <caption>Une couveuse. 
-                     <lb/>Ne dérangez jamais la poule <lb/>qui couve. </caption>
+                     <lb/>Ne dérangez jamais la poule 
+                     <lb/>qui couve. </caption>
                </figure>
                
                <p> La curiosité n'est cependant 
@@ -224,11 +225,11 @@
                         <lb/>raissent de bonne heure, sous la forme de petites boules vertes qui, 
                         <lb/>peu à peu, se gonflent d'un suc frais et sucre, et qui prennent une 
                         <lb/>belle couleur rouge. On cueille les cerises au mois de juin dans la 
-                        <lb/>plus grande partie de la <placeName><bloc ref="europe"><country ref="france">France</country></bloc></placeName>, et elles sont recherchées pour leur 
+                        <lb/>plus grande partie de la <placeName type="réel"><bloc ref="europe"><country ref="france">France</country></bloc></placeName>, et elles sont recherchées pour leur 
                         <lb/>saveur délicieuse comme pour leurs propriétés rafraîchissantes.</p>
                      <p>Les <term>principales espèces de cerises</term> sont : les cerises douces, dont les 
-                        <lb/>meilleures se cultivent à <placeName><bloc ref="europe"><country ref="france"><settlement ref="montmorency">Montmorency</settlement></country></bloc></placeName> et dans les
-                              environs d'<placeName><bloc ref="europe"><country ref="france"><settlement ref="auxerre">Auxerre</settlement></country></bloc></placeName>, 
+                        <lb/>meilleures se cultivent à <placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="montmorency">Montmorency</settlement></country></bloc></placeName> et dans les
+                              environs d'<placeName type="réel"><bloc ref="europe"><country ref="france"><settlement ref="auxerre">Auxerre</settlement></country></bloc></placeName>, 
                         <lb/>les bigarreaux, les cerises jaunes, les cerises aigres et les merises, au 
                         <lb/>suc presque noir.</p>
                   </div4>

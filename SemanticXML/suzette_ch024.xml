@@ -104,7 +104,7 @@
                         <lb/>la nuit tombait déjà, et <persName type="fictif" key="suzette">Suzette</persName> vit, au-dessus de la mai-
                         <lb/>son, le vol tournoyant et silencieux de deux grandes 
                         <lb/>ailes blanches.</p>
-                    <p>— Connais-tu cet oiseau, <persName type="fictif" key="suzette">ma fille</persName> ?</p>
+                    <p>— Connais-tu cet oiseau, ma fille ?</p>
                     <p>— C'est une chouette ! répondit <persName type="fictif" key="suzette">Suzette</persName>, toute trem- 
                         <lb/>blante.</p>
                     <p>— Oui, l'oiseau de malheur !...</p>
@@ -134,7 +134,8 @@
                         <lb/>d'aller la trouver ? </p>
                     <p>Une demi-heure avant le souper, <persName type="fictif" key="suzette">Suzette</persName> sortit à pas 
                         <lb/>de loup*<gloss>A pas de loup. Sans bruit et lentement.</gloss> et fut
-                        <lb/>bientôt sous les <lb/>arbres indiqués.</p>
+                        <lb/>bientôt sous les 
+                        <lb/>arbres indiqués.</p>
                     <p>Assise sur la 
                         <lb/>margelle*<gloss>Margelle. Pierre creuse qui forme le rebord d'un puits.</gloss> d'un 
                         <lb/>vieux puits, la 
@@ -164,6 +165,7 @@
                     <p>— Tu en as plus d'une ; donne le reste.</p>
                     <p>Sans se défendre, machinalement, <persName type="fictif" key="suzette">Suzette</persName> donna le 
                         <lb/>reste des cinq francs.</p>
+                    
                     <figure type="illustration">
                         <caption>— Connais-tu cet oiseau, ma fille ?</caption>
                     </figure>
@@ -175,7 +177,8 @@
                     <p>— C'est tout.</p>
                     <p>— Bon. Qu'as-tu là au cou ? Un foulard ? donne-le. 
                         <lb/>Elle prit le foulard avant que l'enfant eût pu obéir.</p>
-                    <p>— Ce foulard et ces cent sous <lb/>serviront à commencer les conju- 
+                    <p>— Ce foulard et ces cent sous 
+                        <lb/>serviront à commencer les conju- 
                         <lb/>rations*<gloss>Conjuration. Paroles et gestes par lesquels certains fripons prétendent guérir les gens ou les animaux malades.</gloss> nécessaires. Mais il faut 
                         <lb/>que demain, à la même heure, tu 
                         <lb/>reviennes ici avec d'autre argent, 
@@ -232,7 +235,9 @@
                                 <lb/>si juste, si sage, un être méchant et dépourvu de raison qui subordon- 
                                 
                                 <figure>
-                                    <caption>Chouette. <lb/>Cet oiseau est fort utile à <lb/>l'agriculture, en ce qu'il <lb/>détruit une grande quan- <lb/>tité de rongeurs.</caption>
+                                    <caption>Chouette. <lb/>Cet oiseau est fort utile à 
+                                    <lb/>l'agriculture, en ce qu'il <lb/>détruit une grande quan- 
+                                    <lb/>tité de rongeurs.</caption>
                                 </figure>
                                 
                                 <pb type="page" n="89" />
@@ -309,7 +314,7 @@
                             <p>On lave à l'eau tiède la plaie qui résulte d'<term>une coupure</term>, et l'on s'assure 
                                 <lb/>qu'il n'y reste aucun corps étranger. Si la blessure saigne abondam-
                                 <lb/>ment, user d'eau froide. Ensuite, on l'essuie avec un linge fin, et l'on en 
-                                <lb/>rapproche les bords que l'on fixe avec du taffetas d'<placeName><bloc ref="europe"><country ref="angleterre">Angleterre</country></bloc></placeName> ou du 
+                                <lb/>rapproche les bords que l'on fixe avec du taffetas d'<placeName type="réel"><bloc ref="europe"><country ref="angleterre">Angleterre</country></bloc></placeName> ou du 
                                 <lb/>diachylon. Lorsque le mal est considérable, la présence du médecin 
                                 <lb/>devient obligatoire.</p>
                             <p>Pour les <term>contusions ordinaires</term>, consistant dans le meurtrissement 
