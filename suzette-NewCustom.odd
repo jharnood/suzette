@@ -83,7 +83,7 @@
                 <valItem ident="français" mode="add" />
                 <valItem ident="composition" mode="add" />
                 <valItem ident="histoire" mode="add" />
-                <valItem ident="horticulture" mode="add"></valItem>
+                <valItem ident="horticulture" mode="add" />
                 <valItem ident="géographie" mode="add" />
                 <valItem ident="sciences_naturelles" mode="add" />
                 <valItem ident="sciences_physiques" mode="add" />
@@ -317,6 +317,9 @@
                 </valItem>
                 <valItem ident="mathias" mode="add">
                   <desc>Mathias Dumay</desc>
+                </valItem>
+                <valItem ident="lucie_valon" mode="add">
+                  <desc> Lucie Valon</desc>
                 </valItem>
               </valList>
             </attDef>
@@ -877,6 +880,12 @@
                 <valItem ident="salies" mode="add">
                   <desc>Salies</desc>
                 </valItem>
+                <valItem ident="strasbourg" mode="add">
+                  <desc>Strasbourg</desc>
+                </valItem>
+                <valItem ident="mayence" mode="add">
+                  <desc>Mayence</desc>
+                </valItem>
               </valList>
             </attDef>
           </attList>
@@ -898,20 +907,13 @@
                 <valItem ident="état" mode="add">
                   <desc>état</desc>
                 </valItem>
-                <valItem ident="sicile" mode="add">
-                  <desc>Sicile</desc>
-                </valItem>
-                <valItem ident="lorraine" mode="add">
-                  <desc>Lorraine</desc>
-                </valItem>
-                <valItem ident="franche-comté" mode="add">
-                  <desc>Franche-comté</desc>
-                </valItem>
-                <valItem ident="béarn" mode="add">
-                  <desc>Béarn</desc>
-                </valItem>
               </valList>
             </attDef>
+          </attList>
+        </elementSpec>
+        <!-- Add region @ref values -->
+        <elementSpec ident="region" mode="change">
+          <attList>
             <attDef ident="ref" mode="change">
               <valList mode="change" type="closed">
                 <valItem ident="lombardie" mode="add">
@@ -934,6 +936,21 @@
                 </valItem>
                 <valItem ident="elbeuf" mode="add">
                   <desc>Elbeuf</desc>
+                </valItem>
+                <valItem ident="cicile" mode="add">
+                  <desc>Sicile</desc>
+                </valItem>
+                <valItem ident="lorraine" mode="add">
+                  <desc>Lorraine</desc>
+                </valItem>
+                <valItem ident="franche-comté" mode="add">
+                  <desc>Franche-comté</desc>
+                </valItem>
+                <valItem ident="béarn" mode="add">
+                  <desc>Béarn</desc>
+                </valItem>
+                <valItem ident="sicile" mode="add">
+                  <desc>Sicile</desc>
                 </valItem>
               </valList>
             </attDef>
@@ -1007,6 +1024,15 @@
                 </valItem>
                 <valItem ident="isthme_suez" mode="add">
                   <desc>Isthme de Suez</desc>
+                </valItem>
+                <valItem ident="zambèze" mode="add">
+                  <desc>Zambèze</desc>
+                </valItem>
+                <valItem ident="sénégal" mode="add">
+                  <desc>Sénégal</desc>
+                </valItem>
+                <valItem ident="niger" mode="add">
+                  <desc>Niger</desc>
                 </valItem>
               </valList>
             </attDef>
