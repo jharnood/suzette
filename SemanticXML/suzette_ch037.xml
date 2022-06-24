@@ -131,6 +131,7 @@
                             </list>
                         </div4>
                         <div4 type="réponses">
+<<<<<<< Updated upstream
                             <p>Les hommes qui vivent entre eux comme les enfants d'un même <lb />père, c'est-à-dire qui se prêtent un mutuel concours dans les cir- <lb />constances difficiles,
                                 pratiquent la fraternité. Dans nul pays du monde <lb />on ne la pratique aussi largement ot aussi délicatement que dans notre <lb /><placeName><bloc ref="europe"
                                             ><country ref="france">France</country></bloc></placeName>.</p>
@@ -148,6 +149,42 @@
                                 <lb />ce qui a été répréhensible dans la vie d'autrui, dans le but de <lb />l'affliger et de lui nuire. L'envieux est chagrin toutes fois qu'il apprend <lb />qu'une
                                 chose avantageuse survient à son prochain. De telles personnes <lb />ignorent ce qu'est la fraternité ; et elles feraient de ce monde un enfer, <lb />si elles étaient
                                 en majorité.</p>
+=======
+                            <p>Les hommes qui vivent entre eux comme les enfants d'un même 
+                                <lb/>père, c'est-à-dire qui se prêtent un mutuel concours dans les cir- 
+                                <lb/>constances difficiles, pratiquent la fraternité. Dans nul pays du monde 
+                                <lb/>on ne la pratique aussi largement ot aussi délicatement que dans notre 
+                                <lb/><placeName type="réel"><bloc ref="europe"><country ref="france">France</country></bloc></placeName>.</p>
+                            <p>Parmi les élèves d'une même école, la fraternité ne règne pas 
+                                <lb/>toujours. Combien d'entre elles sont égoïstes, duros, moqueuses à 
+                                <lb/>l'égard de leurs compagnes, surtout quand ces dernières sont faibles, 
+                                <lb/>timides, disgraciées de la nature ! Ne devraient-elles pas toutes être 
+                                <lb/>indulgentes les unes pour les autres, prévenantes et disposées à partager 
+                                <lb/>leur superflu avec celles qui n'ont pas le nécessaire ? Elles montreraient 
+                                <lb/>ainsi qu'elles se regardaient comme des sœurs dans cette grande famille 
+                                <lb/>qu'on appelle l'école. </p>
+                            <p>Mépriser, dédaigner la société d'une jeune fille douce, sage, bonne, 
+                                <lb/>parce qu'elle appartient à une famille peu favorisée de la fortune, c'est 
+                                <lb/>quelque chose à la fois de sot, de méchant et de lâche. Parce que 
+                                
+                            <pb type="page" n="131" />
+                            <fw type="header">FRATERNITÉ. 131</fw>
+                                
+                                <lb/>cette pauvre enfant n’a pas une aussi jolie robe ; parce que sa coiffure 
+                                <lb/>est moins fraîche, ses bottines moins élégantes ; parce qu'elle n'a pas 
+                                <lb/>de bijoux à suspendre à ses oreilles ou de bagues pour orner sa main 
+                                <lb/>laborieuse, on prend avec elle des airs de hauteur, on la regarde 
+                                <lb/>avec mépris, on s'égaye à ses dépens, on s’en éloigne avec ostenta- 
+                                <lb/>tion. Une telle conduite, de tels procédés sont indignes et ne sauraient 
+                                <lb/>être blâmés trop sévèrement.</p>
+                            <p>L'<term>egoïste</term> ne songe qu'à lui et ne voit que sos intérêts ou sa conve- 
+                                <lb/>nance. Le <term>médisant</term> dévoile sans nécessité et avec un méchant plaisir
+                                <lb/>ce qui a été répréhensible dans la vie d'autrui, dans le but de 
+                                <lb/>l'affliger et de lui nuire. L'envieux est chagrin toutes fois qu'il apprend 
+                                <lb/>qu'une chose avantageuse survient à son prochain. De telles personnes 
+                                <lb/>ignorent ce qu'est la fraternité ; et elles feraient de ce monde un enfer, 
+                                <lb/>si elles étaient en majorité.</p>
+>>>>>>> Stashed changes
                         </div4>
                     </div3>
                     <div3 type="instruction_civique">

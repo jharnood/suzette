@@ -139,6 +139,7 @@
                                 la barbarie des habitants qui <lb />menacent à chaque instant la vie de l'explorateur.</p>
                             <pb type="page" n="214" />
                             <fw>214 SUZETTE.</fw>
+<<<<<<< Updated upstream
                             <p>Pour réussir dans les entreprises de ce genre, il faut joindre, à une <lb />santé de fer, une énergie, un courage que rien n'effraye, une persé- <lb />vérance
                                 invincible, beaucoup de prudence et de savoir, enfin des res- <lb />sources pécuniaires considérables, pour l'achat des objets d'échange <lb />principalement.</p>
                             <p>C'est aux explorateurs que l'on doit la fondation des plus floris- <lb />santes colonies ; l'histoire naturelle, la médecine, la géographie, l'his- <lb />toire ont été
@@ -150,6 +151,26 @@
                                     type="historique">Baxer</persName>, l'ont récemment imitée. Une Autrichienne, Mme <persName type="historique">Ida Pfeiffer</persName>, <lb />a fait davantage ; elle
                                 a entrepris seule plusieurs voyages dans les <lb />régions les moins connues de l'<placeName type="réel"><bloc ref="afrique">Afrique</bloc></placeName>, de l'<placeName
                                     type="réel"><bloc ref="asie">Asie</bloc></placeName> et de l'<placeName type="réel"><bloc ref="océanie">Océanie</bloc></placeName>.</p>
+=======
+                            <p>Pour réussir dans les entreprises de ce genre, il faut joindre, à une 
+                                <lb/>santé de fer, une énergie, un courage que rien n'effraye, une persé- 
+                                <lb/>vérance invincible, beaucoup de prudence et de savoir, enfin des res- 
+                                <lb/>sources pécuniaires considérables, pour l'achat des objets d'échange 
+                                <lb/>principalement.</p>
+                            <p>C'est aux explorateurs que l'on doit la fondation des plus floris- 
+                                <lb/>santes colonies ; l'histoire naturelle, la médecine, la géographie, l'his- 
+                                <lb/>toire ont été enrichies par eux d'une foule de connaissances utiles et 
+                                <lb/>variées; ils ont établi des relations entre des peuples déshérités et les 
+                                <lb/>grandes nations qui dominent le globe.</p>
+                            <p><persName type="historique">Mme Livingstone</persName>, en secondant son mari dans sa double tâche de 
+                                <lb/>missionnaire et d'explorateur, a montré non seulement une grande 
+                                <lb/>tendresse conjugale, mais un courage et un dévouement qui méritent 
+                                <lb/>tous nos hommages.</p>
+                            <p>Une Française, <persName type="historique">Mme d'Ujfalvy</persName>, et deux Anglaises, Mmes <persName type="historique">Blount</persName> et 
+                                <lb/><persName type="historique">Baker</persName>, l'ont récemment imitée. Une Autrichienne, Mme <persName type="historique">Ida Pfeiffer</persName>, 
+                                <lb/>a fait davantage ; elle a entrepris seule plusieurs voyages dans les 
+                                <lb/>régions les moins connues de l'<placeName type="réel"><bloc ref="afrique">Afrique</bloc></placeName>, de l'<placeName type="réel"><bloc ref="asie">Asie</bloc></placeName> et de l'<placeName type="réel"><bloc ref="océanie">Océanie</bloc></placeName>.</p>
+>>>>>>> Stashed changes
                         </div4>
                     </div3>
                     <div3 type="sciences_naturelles">

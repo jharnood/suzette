@@ -99,10 +99,22 @@
                     <p>— Fini? ah, que nenni! et que vous ne valez pas <lb />votre grand mère, ma <persName type="fictif" key="suzette">Suzette</persName>, si vous croyez qu'un <lb />habit a fini son
                         temps quand il a passé d'habit en veste <lb />et de veste en gilet ! L’hiver qui suivit m'en trouva coiffé.</p>
                     <p>— Coiffé de votre gilet, papa !</p>
+<<<<<<< Updated upstream
                     <p>— Oui, de mon gilet, mais il était devenu calotte. Et <lb />voilà ce qu'il reste de la calotte, dit-il, on prenant le mor- <lb />ceau de drap vert. Je le croyais bien perdu.</p>
                     <p>— Bon, s'écria <persName type="fictif" key="françois">François</persName> joyeusement, je disais bien <lb />à <persName type="fictif" key="françois">Suzette</persName> qu'il
                         n'en fallait pas rapetasser* <gloss>Rapetasser. Raccommoder grossièrement de vieux habits.</gloss> mon pan- <lb />talon.</p>
                     <p>— En effet, dit <persName type="fictif" key="jacques">Jacques</persName>, ce morceau est le reste d'un <lb />vêtement célèbre, comme vous l'avez appelé, papa.</p>
+=======
+                    <p>— Oui, de mon gilet, mais il était devenu calotte. Et 
+                        <lb/>voilà ce qu'il reste de la calotte, dit-il, on prenant le mor-
+                        <lb/>ceau de drap vert. Je le croyais bien perdu.</p>
+                    <p>— Bon, s'écria <persName type="fictif" key="françois">François</persName> joyeusement, je disais bien 
+                        <lb/>à <persName type="fictif" key="suzette">Suzette</persName> qu'il n'en fallait pas rapetasser* 
+                        <gloss>Rapetasser. Raccommoder grossièrement de vieux habits.</gloss> mon pan-
+                        <lb/>talon.</p>
+                    <p>— En effet, dit <persName type="fictif" key="jacques">Jacques</persName>, ce morceau est le reste d'un 
+                        <lb/>vêtement célèbre, comme vous l'avez appelé, papa.</p>
+>>>>>>> Stashed changes
                     <p><persName type="fictif" key="m_dumay">M. Dumay</persName> était devenu tout grave :</p>
                     <p>— Un vêtement ne peut pas être célèbre parce que <lb />je l'ai porté sous plusieurs formes, répondit-il; j'au- <lb />rais dit dire « glorieux » au lieu de « célèbre » — il
                         <lb />regarda <persName type="fictif" key="m_valon">M</persName>. et <persName type="fictif" key="mme_valon">Mme Valon,</persName> très attentifs, — oui, glo- <lb />rieux! Car
@@ -158,6 +170,7 @@
                                 abandonnés aux loups et aux vautours quand ils <lb />n'étaient pas achevés par les Russes. Aussi beaucoup de soldats quit- <lb />taient le drapeau, jetaient leurs armes
                                 et suivaient l'armée on traî <lb />nards jusqu'à ce qu'ils tombassent épuisés de fatigue et de misère.</p>
                             <p>L'épisode le plus terrible de la retraite de <placeName type="réel"><bloc ref="europe"><country ref="russie">Russie</country></bloc></placeName> est le passage de
+<<<<<<< Updated upstream
                                 <lb />la <placeName type="réel"><geogFeat type="riviére" ref="bérésina">Bérésina</geogFeat></placeName>. L'ennemi avait détruit le pont ; <persName type="historique"
                                     >Napoléon</persName> on fit élever à <lb />la hâte deux autres sur chevalets par les pontonniers, qui, plongés dans <lb />l'eau glacée pendant deux jours et deux
                                 nuits, périrent presque tous. <lb />Une partie de l'armée put gagner l'autre rive; mais les traînards et <lb />la multitude qui s'étaient refusés à passer quand la
@@ -166,6 +179,23 @@
                                 étaient sur des voitures avec leurs enfants. On <lb />se serrait, on so foulait, on montait sur ceux qui étaient trop faibles pour se sou- <lb />tenir et on les
                                 écrasait sous les pieds. Quand il fallut détruire les <lb />ponts pour arrêter l'ennemi, nombre de traînards qui s'étaient obstinés <lb />à rester sur le rivage se
                                 précipitèrent sur les ponts en flammes, tandis <lb />que d'autres se jetaient dans l'eau glacée et y trouvaient la mort.</p>
+=======
+                                <lb/>la <placeName type="réel"><geogFeat type="rivière" ref="bérésina">Bérésina</geogFeat></placeName>. L'ennemi avait détruit le pont ; <persName type="historique">Napoléon</persName> on fit élever à 
+                                <lb/>la hâte deux autres sur chevalets par les pontonniers, qui, plongés dans 
+                                <lb/>l'eau glacée pendant deux jours et deux nuits, périrent presque tous. 
+                                <lb/>Une partie de l'armée put gagner l'autre rive; mais les traînards et 
+                                <lb/>la multitude qui s'étaient refusés à passer quand la chose était sans 
+                                <lb/>danger, se précipitèrent sur les ponts avec un désordre qui causa d'af-
+                                <lb/>freux malheurs, quand apparurent les Russes. Les boulots ennemis, 
+                                <lb/>tombant au milieu de cette foule compacte, y traçaient d'horribles 
+                                <lb/>sillons et arrachaient des cris de terreur aux pauvres femmes fugi-
+                                <lb/>tives qui étaient sur des voitures avec leurs enfants. On 
+                                <lb/>se serrait, on so foulait, on montait sur ceux qui étaient trop faibles pour se sou-
+                                <lb/>tenir et on les écrasait sous les pieds. Quand il fallut détruire les 
+                                <lb/>ponts pour arrêter l'ennemi, nombre de traînards qui s'étaient obstinés 
+                                <lb/>à rester sur le rivage se précipitèrent sur les ponts en flammes, tandis 
+                                <lb/>que d'autres se jetaient dans l'eau glacée et y trouvaient la mort.</p>
+>>>>>>> Stashed changes
                             <p>L'armée s'éloigna profondément affectée de ce spectacle.</p>
                         </div4>
                     </div3>
