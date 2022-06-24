@@ -76,6 +76,7 @@
             <div1 type="chapitre" xml:lang="fr" n="ch060">
                 <pb type="page" n="208" />
                 <head>60. — A travers les jungles. (Élève, p. 129.)</head>
+<<<<<<< Updated upstream
                 <div2 type="récit">
                     <p>— Eh bien ! voici. Nous ne restâmes à <placeName type="réel"><bloc ref="afrique"><country>Zanzibar</country></bloc></placeName> que <lb />juste le temps de nous joindre à une
                             caravane*<gloss>Caravane. Troupe de marchands, de pèlerins, qui voyagent de compangnie par crainte des pillards.</gloss> qui <lb />partait pour le pays <lb />de <placeName
@@ -128,6 +129,134 @@
                 <div2 type="questionnaire">
                     <head>Questionnaire.</head>
                     <list>
+=======
+                
+                    <div2 type="récit"><p>— Eh bien ! voici. Nous ne restâmes à <placeName type="réel"><bloc ref="afrique"><country>Zanzibar</country></bloc></placeName> que 
+                    <lb/>juste le temps de nous joindre à une caravane*<gloss>Caravane. Troupe de marchands, de pèlerins, qui voyagent de compangnie par crainte des pillards.</gloss> qui 
+                    <lb/>partait pour le pays 
+                    <lb/>de <placeName type="réel"><bloc ref="afrique"><country ref="angola"><settlement ref="benguéla">Benguéla</settlement></country></bloc></placeName>. Elle 
+                    <lb/>comptait soixante-
+                    <lb/>quatre chameaux de 
+                    <lb/>robe*<gloss>Robe. Couleur du poil.</gloss> brune, blan-
+                    <lb/>che ou cendrée, 
+                    <lb/>avec leurs beaux 
+                    <lb/>yeux doux de ga-
+                    <lb/>zelle*<gloss>Gazelle. Quadrupède doux et gracieux des contrées tropicales.</gloss>. Nous mon-
+                    <lb/>tions chacun le 
+                    <lb/>nôtre, assis entre 
+                    <lb/>les deux bosses, — 
+                    <lb/>on n'est pas là aussi 
+                    <figure><caption><lb/>Les voyageurs s'assemblent en troupes pour 
+                    <lb/>traverser les déserts avec plus de sûreté et forment 
+                    <lb/>ce qu'on appelle une caravane.</caption></figure>
+                    <lb/>commodément que sur cette chaise, mais on s'y fait; 
+                    <lb/>— et nous voilà partis avec une pacotille de calicot,
+
+                
+                <pb type="page" n="209"/>
+              
+                  
+                        <fw>A TRAVERS LES JUNGLES. 209</fw>
+                        <lb/>d'indienne, de perles, de verroteries*<gloss>Verroteries. Menus objets fabriqués en verre, comme perles, bagues, etc.</gloss>  que nous devions 
+                        <lb/>échanger contre le blé, le maïs, le sorgho*<gloss>Sorgho. Grande graminée dont nous utilisons les feuilles comme fourrage.</gloss>, la viande 
+                        <lb/>nécessaires à notre subsistance. Des Arabes armés 
+                        <lb/>jusqu'aux dents montaient ou menaient les autres, 
+                        <lb/>chameaux. Et savez-vous ce qu'ils 
+                        <lb/>étaient ?</p>
+                        <p>— Des chasseurs de noirs? ré-
+                        <lb/>pondit <persName type="fictif" key="jacques">Jacques</persName>.</p>
+                        
+                        <figure>
+                            <caption> Hippopotame.
+                        <lb/>C'est un énorme mammifère qui habite le centre 
+                        <lb/>et le midi de l'<placeName type="réel"><bloc ref="afrique">Afrique</bloc></placeName>. Son poids peut atteindre 
+                        <lb/>2, 500 kilog. ; ses dents fournissent un ivoire plus 
+                        <lb/>estimé même que celui de l'éléphant. Cet animal vit 
+                        <lb/>le plus souvent dans les fleuves, dans les lacs ou 
+                        <lb/>dans les marécages. 
+                            </caption>
+                        </figure>
+                        
+                        <figure>
+                        <caption> Dattier.
+                        <lb/>Genre de palmier 
+                        <lb/>très répandu en <placeName type="réel"><bloc ref="afrique">Afri-
+                        <lb/>que</bloc></placeName>, qui donne des 
+                        <lb/>fruits excellents appe-
+                        <lb/>lés dattes. Les Arabes 
+                        <lb/>font leur nourriture or-
+                        <lb/>dinaire de ce fruit qui est 
+                        <lb/>gros comme une prune.
+                        </caption>
+                        </figure>
+                        
+                       <p> — Juste ; mais nous ne le sûmes 
+                        <lb/>que longtemps après. Ils faisaient 
+                        <lb/>leurs dévotions, leurs ablutions*<gloss>Ablution. Acte de se laver.</gloss>, s'humectant les pieds, 
+                        <lb/>les mains, le front 
+                        <lb/>avec des manières 
+                        <lb/>à eux, en se tour-
+                        <lb/>nant du côté de 
+                        <lb/>la <placeName type="réel"><bloc ref="asie"><country ref="arabie_saoudite"><settlement ref="mecque">Mecque</settlement></country></bloc></placeName>, et cela 
+                        <lb/>plusieurs fois par 
+                        <lb/>jour : c'est ce 
+                        <lb/>qu'ils regardent 
+                        <lb/>comme leurs de-
+                        <lb/>voirs envers Dieu.</p>
+                        <p>— C'est une sin-
+                        <lb/>gulière façon d'en-
+                        <lb/>tendre ces devoirs que de pratiquer la chasse aux hommes 
+                            
+                        <figure>
+                        <caption> Les crocodiles, reptiles de grande taille, sont 
+                        <lb/>organisés pour vivre dans l'eau, où ils se meuvent 
+                        <lb/>avec une agilité extraordinaire. C'est en <placeName type="réel"><bloc ref="afrique">Afrique</bloc></placeName> 
+                        <lb/>qu'ils sont le plus nombreux. 
+                        </caption>
+                        </figure>
+                    
+                
+                <pb type="page" n="210"/>
+                
+                   
+                        <fw>210 SUZETTE.</fw>
+                        <lb/>et, pour cela, de piller, brûler, massacrer ! dit <persName type="fictif" key="m_dumay">M. Dumay</persName>.</p>
+                        <p><lb/>— Voilà ce que j'essayai de leur faire comprendre, 
+                        <lb/>mais ils se fâchèrent. Sous un soleil de feu ou sous 
+                        <lb/>une lune de cristal, nous marchions à travers d'inter-
+                        <lb/>minables halliers de broussailles, de dattiers, de bam-
+                        <lb/>bous, d'épines crochues. Il fallait se frayer un sentier 
+                        <lb/>à coups de hache. Ou bien c'était à travers des jungles, 
+                        <lb/>plaines bourbeuses couvertes de roseaux coupants 
+                        <lb/>comme rasoir. Oh ! oh ! <persName type="fictif" key="sylvain">Sylvain</persName>, attention ! — <persName type="fictif" key="sylvain">Sylvain</persName> 
+                        <lb/>leva la tête : — Qu'est-ce que c'est là-bas que cette 
+                        <lb/>masse informe qui se montre dans la vase ? Un hippo-
+                        <lb/>potame !... <persName type="fictif" key="sylvain">Sylvain</persName>, attention ! — De nouveau <persName type="fictif" key="sylvain">Syl-
+                        <lb/>vain</persName> releva la tête : — Ici, à gauche, ce tronc d'arbre 
+                        <lb/>rugueux*<gloss>Rugueux. Dont la surface présente des aspérités.</gloss> couché parmi les roseaux ! Il a l'air de frémir, 
+                        <lb/>il remue ! c'est un crocodile !... Un, deux, dix, vingt cro-
+                        <lb/>codiles, en voilà de tous 
+                        <lb/>côtés ! Filons !-ils vous 
+                        <lb/>goberaient une cara-
+                        <lb/>vane comme un homme 
+                        <lb/>une sardine !... Et ces
+                        <lb/>yeux flamboyants à tra-
+                        <lb/>vers les broussailles 
+                        <lb/>un tigre ! Nous sommes 
+                            
+                       <figure>
+                        <caption>Le tigre, dont la peau est mouchetée, 
+                        <lb/>est un animal féroce qui appartient au genre 
+                        <lb/>chat.</caption>
+                       </figure>
+                            
+                        <lb/>menacés, les chameaux reculent malgré nous. Nous 
+                        <lb/>rebroussons chemin, nous contournons la jungle à dis-
+                        <lb/>tance respectable.</p>
+                    </div2>
+                        <div2 type="questionnaire">
+                            <head>Questionnaire.</head> <list>
+>>>>>>> Stashed changes
                         <item>— Qu'est-ce qu'une caravane ? </item>
                         <item>— Où est le pays de <placeName type="réel"><bloc ref="afrique"><country ref="angola"><settlement ref="benguéla">Benguéla</settlement></country></bloc></placeName>
                             ?</item>
@@ -254,6 +383,7 @@
                             </list>
                         </div4>
                         <div4 type="réponses">
+<<<<<<< Updated upstream
                             <p>Le bambou est un roseau particulier aux régions marécageuses des <lb />tropiques ; il croit principalement dans la <placeName type="réel"><bloc ref="asie"><country
                                             ref="chine">Chine</country></bloc></placeName>, le <placeName type="réel"><bloc ref="asie"><country ref="japon">Japon</country></bloc></placeName>,
                                     l'<placeName type="réel"><bloc ref="asie">Indo-Chine</bloc></placeName>
@@ -261,6 +391,17 @@
                                 mètres. <lb />La dureté de son bois le rend précieux pour une foule d'usages : <lb />maisons, cabanes, meubles, outils ; il n'est pas jusqu'à ses fibres <lb />qu'on ne
                                 tisse ou ne tresse quand on les a réduites en lames minces. <lb />On importe le bambou en <placeName type="réel"><bloc ref="europe">Europe</bloc></placeName>, où il
                                 sert à nombre d'usages indus- <lb />triels ; la plupart des cannes à marcher, des cannes à pêche ne sont <lb />autre chose que des tiges de bambou.</p>
+=======
+                            <p>Le bambou est un roseau particulier aux régions marécageuses des
+                        <lb/>tropiques ; il croit principalement dans la <placeName type="réel"><bloc ref="asie"><country ref="chine">Chine</country></bloc></placeName>, le <placeName type="réel"><bloc ref="asie"><country ref="japon">Japon</country></bloc></placeName>, l'<placeName type="réel"><bloc ref="asie"><country ref="indo-chine">Indo-Chine</country></bloc></placeName> 
+                        <lb/>et les îles de la <placeName type="réel"><bloc ref="asie"><country ref="malaisie">Malaisie</country></bloc></placeName> ; il y atteint une hauteur de 15 à 20 mètres.
+                        <lb/>La dureté de son bois le rend précieux pour une foule d'usages : 
+                        <lb/>maisons, cabanes, meubles, outils ; il n'est pas jusqu'à ses fibres 
+                        <lb/>qu'on ne tisse ou ne tresse quand on les a réduites en lames minces.
+                        <lb/>On importe le bambou en <placeName type="réel"><bloc ref="europe">Europe</bloc></placeName>, où il sert à nombre d'usages indus-
+                        <lb/>triels ; la plupart des cannes à marcher, des cannes à pêche ne sont 
+                        <lb/>autre chose que des tiges de bambou.</p>
+>>>>>>> Stashed changes
                         </div4>
                     </div3>
                 </div2>
