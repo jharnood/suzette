@@ -86,6 +86,7 @@
                         <lb />Le mélilot avait alors la réputation d'écarter les mites. <lb />Cependant, un beau jour, elles l'attaquèrent, ne s'en <lb />prenant heureusement qu'aux manches, qui,
                         d'ailleurs, <lb />furent aussi bien trouées que des écumoires.</p>
                     <p>Ici le père <persName type="fictif" key="benoît">Benoît</persName> ôta sa pipe de ses lèvres :</p>
+<<<<<<< Updated upstream
                     <p>— Pardon, dit-il, <persName type="fictif" key="m_dumay">Denis Dumay</persName>, si je <lb />t'arrête; le mélilot n'a jamais chassé <lb />les mites. Nous avions dans ce temps-la,
                         <lb />et ma fille <persName type="fictif" key="ludivine">Ludivine</persName> a encore un se- <lb />cret de conjuration qui les empêche de <lb />nuire eu les ensorcelant*
                             <gloss>Ensorceler. Causer des maladies, des accidents par des pratiques bizarres à l'effet desquelles on ne croit plus.</gloss>; mais ta mère <lb />aimait à faire à sa
@@ -103,13 +104,85 @@
                                 dans les <lb />crins et qui les ron- <lb />gent. Pour éviter ce <lb />dégât, il faut bat- <lb />tre soigneusement et <lb />souvent les étoffes <lb />et avoir la précau-
                                 <lb />tion de mettre dans <lb />les armoires où l'on <lb />renferme ses vête- <lb />ments, des mor- <lb />ceaux de camphre <lb />et des sachets de
                                 <lb />poivre.</caption>
+=======
+                    <p>— Pardon, dit-il, <persName type="fictif" key="m_dumay">Denis Dumay</persName>, si je 
+                        <lb/>t'arrête; le mélilot n'a jamais chassé
+                        <lb/>les mites. Nous avions dans ce temps-la, 
+                        <lb/>et ma fille <persName type="fictif" key="ludivine">Ludivine</persName> a encore un se-
+                        <lb/>cret de conjuration qui les empêche de 
+                        <lb/>nuire eu les ensorcelant*
+                            <gloss>Ensorceler. Causer des maladies, des accidents par des pratiques
+                            bizarres à l'effet desquelles on ne croit plus.</gloss>; mais ta mère
+                        <lb/>aimait à faire à sa tête.</p>
+                    <p><persName type="fictif" key="m_dumay">M. Dumay</persName>, qui connaissait la manie 
+                        <lb/>du père-<persName type="fictif" key="benoît">Benoît</persName>, sourit et continua :</p>
+                    <p>— Les basques et le reste étaient in-
+                        <lb/>tacts* <gloss>Intact. En bon état.
+                        </gloss>. Ma mère, devant le désastre, 
+                        <lb/>poussa quelques lamentations contre les 
+                        <lb/>ravageurs du pauvre monde, puis, l'habit 
+                        <lb/>en main, le tint devant moi en me di-
+                        <lb/>sant de ne pas bouger. Elle prenait ma 
+                        <lb/>mesure, me comparait au vêtement : 
+                        <lb/> « Ah! bien! ça ira, dit-elle enfin; je 
+                        <lb/>pourrai t'en faire un habillement com-
+                        <lb/>plet ! » </p>
+                    <p>Cette nouvelle m'enchanta, quoique 
+                        <lb/>je n'aimasse pas beaucoup le vert, le 
+                        <lb/>bleu étant alors à la mode. Bref, j'en 
+                        <lb/>eus veste et pantalon, un vêtement des
+                        <lb/>dimanches qui, après long usage, devint vêtement de 
+                        <lb/>tous les jours. Mais alors je me mis à grandir comme 
+                        <lb/>une perche, et malheureusement il se garda d'en faire 
+                        <lb/>autant. Plus je m'allongeais, plus il remontait, des 
+                        <lb/>manches vers les coudes, des ourlets du pantalon 
+                        <lb/>vers les genoux.</p>
+                    <p>Ma mère, à qui plusieurs fois je fis constater ces 
+                        <lb/>fâcheuses dispositions de
+                        l'ancien habit vert, finit par 
+                        <lb/>additionner les jambes du pantalon d'un bon bout de 
+                        
+                        <figure>
+                            <caption>Les mites. 
+                                <lb/>Petits insectes qui 
+                                <lb/>se développent dans 
+                                <lb/>les étoffes de laine, 
+                                <lb/>dans les peaux, dans 
+                                <lb/>les fourrures, dans 
+                                <lb/>les plumes, dans les 
+                                <lb/>crins et qui les ron-
+                                <lb/>gent. Pour éviter ce 
+                                <lb/>dégât, il faut bat-
+                                <lb/>tre soigneusement et 
+                                <lb/>souvent les étoffes 
+                                <lb/>et avoir la précau-
+                                <lb/>tion de mettre dans 
+                                <lb/>les armoires où l'on 
+                                <lb/>renferme ses vête-
+                                <lb/>ments, des mor-
+                                <lb/>ceaux de camphre 
+                                <lb/>et des sachets de 
+                                <lb/>poivre.</caption>
+>>>>>>> Stashed changes
                         </figure>
+                        
                         <fw type="header">LE VIEIL HABIT VERT. 155</fw>
+<<<<<<< Updated upstream
                         <pb type="page" n="155" />
                         <lb />velours côtelé. Des manches, elle ne s'occupa pas et mes <lb />bras prirent l'air tant qu'il leur plut.</p>
                     <p><persName type="fictif" key="m_dumay">M. Dumay</persName> s'interrompit pour recevoir <persName type="fictif" key="m_valon">M</persName>. et <persName type="fictif"
                             key="mme_valon">Mme Va- <lb />lon</persName>, qui venaient passer la soirée chez leurs amis. On <lb />leur fit place, on les mit au courant de l'histoire, et il
                         <lb />continua :</p>
+=======
+                        <pb type="page" n="155"/> 
+                        
+                        <lb/>velours côtelé. Des manches, elle ne s'occupa pas et mes 
+                        <lb/>bras prirent l'air tant qu'il leur plut.</p>
+                    <p><persName type="fictif" key="m_dumay">M. Dumay</persName> s'interrompit pour recevoir <persName type="fictif" key="m_valon">M</persName>. et <persName type="fictif" key="mme_valon">Mme Va-
+                        <lb/>lon</persName>, qui venaient passer la soirée chez leurs amis. On 
+                        <lb/>leur fit place, on les mit au courant de l'histoire, et il 
+                        <lb/>continua :</p>
+>>>>>>> Stashed changes
                 </div2>
                 <div2 type="questionnaire">
                     <head>Questionnaire.</head>
@@ -148,6 +221,7 @@
                                 <lb />exagérée, cette qualité devient le vice connu sous le nom d'avarice, <lb />odieuse disposition qui ferme la main de l'homme riche même quand <lb />on sollicite
                                 auprès de lui quelques secours.</p>
                             <p>Le sage <persName type="historique">Franklin</persName> dit quelque part :</p>
+<<<<<<< Updated upstream
                             <p>« Celui qui ne sait point épargner à mesure qu'il gagne, mourra sans <lb />« avoir un sou, après avoir été toute sa vie collé sur son ouvrage. Si <lb />« vous voulez
                                 être riche, n'apprenez pas seulement comment on gagne, <lb />« mais encore comment on épargne. Un peu répété fait un beaucoup; <lb />« soyez en garde contre les petites
                                 dépenses. Si vous voulez toujours <lb />« avoir de l'argent dans votre poche, dépensez un sou de moins que <lb />« votre bénéfice net. »</p>
@@ -162,6 +236,39 @@
                                 <pb type="page" n="156" />
                                 <lb />soit au minimum 500 francs de rentes. De plus, il serait en mesure de <lb />léguer à ses enfants, au lieu de dettes et de meubles délabrés, un fort <lb />joli
                                 petit héritage.</p>
+=======
+                            <p>« Celui qui ne sait point épargner à mesure qu'il gagne, mourra sans 
+                                <lb/>« avoir un sou, après avoir été toute sa vie collé sur son ouvrage. Si
+                                <lb/>« vous voulez être riche, n'apprenez pas seulement comment on gagne,
+                                <lb/>« mais encore comment on épargne. Un peu répété fait un beaucoup; 
+                                <lb/>« soyez en garde contre les petites dépenses. Si vous voulez toujours
+                                <lb/>« avoir de l'argent dans votre poche, dépensez un sou de moins que 
+                                <lb/>« votre bénéfice net. »</p>
+                            <p>Quand un homme ne se montre pas économe, il tombe dans la mi-
+                                <lb/>sère à la première suspension de travail ; il ne peut secourir les pauvres, 
+                                <lb/>et il se prive ainsi de l'une des plus douces satisfactions de la vie.
+                                <lb/>Seuls, les gens qui épargnent se trouvent on mesure d'être charitables : 
+                                <lb/>il y a toujours dans leur bourse une pièce pour l'indigent, et dans 
+                                <lb/>leur cuisine un morceau de pain pour celui qui en manque.</p>
+                            <p>Les économies les plus faibles finissent, à la suite des années, par
+                                <lb/>produire des sommes considérables. Celui qui met de côté un sou par
+                                <lb/>jour, peut placer chaque année à la Caisse d'épargne 18 fr. 25. — S'il 
+                                <lb/>commence à l'âge de 20 ans, et qu'il continue ainsi à vivre jusqu'à 
+                                <lb/>l'âge de 50 ans, il posséderait alors 18 fr. 25 x 137 fr. 50 = 2,509 francs, 
+                                <lb/>qu'il ne sera pas embarrassé de placer de manière à avoir 100 francs 
+                                <lb/>de rentes.</p>
+                            <p>S'il eût économisé 0 fr. 10 par jour, il eût obtenu 5,000 francs,
+                                soit 
+                                <lb/>200 francs de rentes. L'homme qui dépense quotidiennement 0 fr. 25 
+                                <lb/>en tabac et en liqueurs, pourrait avoir A la môme époque 12,500 francs,
+                                
+                                <fw type="header">156. SUZETTE.</fw>
+                                <pb type="page" n="156"/> 
+                                
+                                <lb/>soit au minimum 500 francs de rentes. De plus, il serait en mesure de 
+                                <lb/>léguer à ses enfants, au lieu de dettes et de meubles délabrés, un fort 
+                                <lb/>joli petit héritage.</p>
+>>>>>>> Stashed changes
                         </div4>
                     </div3>
                     <div3 type="composition">
