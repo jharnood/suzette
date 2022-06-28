@@ -514,7 +514,7 @@
                   <desc>Algérie</desc>
                 </valItem>
                 <valItem ident="égypte" mode="add">
-                  <desc>égypte</desc>
+                  <desc>Égypte</desc>
                 </valItem>
                 <valItem ident="mongolie" mode="add">
                   <desc>Mongolie</desc>
@@ -540,9 +540,6 @@
                 <valItem ident="russie" mode="add">
                   <desc>Russie</desc>
                 </valItem>
-                <valItem ident="suède" mode="add">
-                  <desc>Suède</desc>
-                </valItem>
                 <valItem ident="malaisie" mode="add">
                   <desc>Malaisie</desc>
                 </valItem>
@@ -552,11 +549,8 @@
                 <valItem ident="angola" mode="add">
                   <desc>Angola</desc>
                 </valItem>
-                <valItem ident="arabie" mode="add">
-                  <desc>Arabie</desc>
-                </valItem>
-                <valItem ident="saoudite" mode="add">
-                  <desc>Saoudite</desc>
+                <valItem ident="arabie_saoudite" mode="add">
+                  <desc>Arabie Saoudite</desc>
                 </valItem>
                 <valItem ident="indonésie" mode="add">
                   <desc>Indonésie</desc>
@@ -885,6 +879,12 @@
                 </valItem>
                 <valItem ident="mayence" mode="add">
                   <desc>Mayence</desc>
+                </valItem>
+                <valItem ident="meudon" mode="add">
+                  <desc>Meudon</desc>
+                </valItem>
+                <valItem ident="saint-cloud" mode="add">
+                  <desc>Saint-Cloud</desc>
                 </valItem>
               </valList>
             </attDef>
