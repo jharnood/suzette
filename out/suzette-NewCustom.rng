@@ -5,7 +5,7 @@
          xmlns="http://relaxng.org/ns/structure/1.0"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2022-06-28T21:26:02Z. .
+Schema generated from ODD source 2022-06-29T19:18:57Z. .
 TEI Edition: Version 4.0.0. Last updated on
 	13th February 2020, revision ccd19b0ba
 TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 4.0.0/
@@ -135,7 +135,7 @@ TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 4.0.0/
             </choice>
          </zeroOrMore>
       </element>
-      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e98647-constraint">
+      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e98672-constraint">
          <rule context="tei:content">
             <report test="descendant::*[not(namespace-uri(.) =               ('http://relaxng.org/ns/structure/1.0', 'http://www.tei-c.org/ns/1.0'))]">content descendants must be in the
               namespaces
@@ -184,7 +184,7 @@ TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 4.0.0/
             </choice>
          </zeroOrMore>
       </element>
-      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e99811-constraint">
+      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e99836-constraint">
          <rule context="tei:datatype">
             <report test="descendant::*[not(namespace-uri(.) =               ('http://relaxng.org/ns/structure/1.0', 'http://www.tei-c.org/ns/1.0'))]">datatype descendants must be in the
               namespaces
@@ -11920,6 +11920,8 @@ Suggested values include: 1] paper; 2] parch (parchment); 3] mixed</a:documentat
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Mathias Dumay</a:documentation>
                   <value>lucie_valon</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Lucie Valon</a:documentation>
+                  <value>lisa</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Lisa</a:documentation>
                </choice>
             </attribute>
          </optional>
@@ -12075,8 +12077,8 @@ Suggested values include: 1] paper; 2] parch (parchment); 3] mixed</a:documentat
                <list>
                   <oneOrMore>
                      <choice>
-                        <value>etats_unis</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Etats-Unis</a:documentation>
+                        <value>états-unis</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">États-Unis</a:documentation>
                         <value>angleterre</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Angleterre</a:documentation>
                         <value>allemagne</value>
@@ -12191,12 +12193,12 @@ Suggested values include: 1] paper; 2] parch (parchment); 3] mixed</a:documentat
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Aquitaine</a:documentation>
                         <value>elbeuf</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Elbeuf</a:documentation>
-                        <value>cicile</value>
+                        <value>sicile</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Sicile</a:documentation>
                         <value>lorraine</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Lorraine</a:documentation>
                         <value>franche-comté</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Franche-comté</a:documentation>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Franche-Comté</a:documentation>
                         <value>béarn</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Béarn</a:documentation>
                         <value>sicile</value>
@@ -12248,8 +12250,8 @@ Suggested values include: 1] paper; 2] parch (parchment); 3] mixed</a:documentat
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Aix</a:documentation>
                         <value>louviers</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Louviers</a:documentation>
-                        <value>marseilles</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Marseilles</a:documentation>
+                        <value>marseille</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Marseille</a:documentation>
                         <value>toulouse</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Toulouse</a:documentation>
                         <value>montalban</value>
@@ -12307,7 +12309,7 @@ Suggested values include: 1] paper; 2] parch (parchment); 3] mixed</a:documentat
                         <value>moselle</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Moselle</a:documentation>
                         <value>lavaur</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Laveur</a:documentation>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Lavaur</a:documentation>
                         <value>grenoble</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Grenoble</a:documentation>
                         <value>valence</value>
@@ -12324,8 +12326,8 @@ Suggested values include: 1] paper; 2] parch (parchment); 3] mixed</a:documentat
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Le Mans</a:documentation>
                         <value>angers</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Angers</a:documentation>
-                        <value>condé_sur_noireau</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Condé-sur-noireau</a:documentation>
+                        <value>condé-sur-noireau</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Condé-sur-Noireau</a:documentation>
                         <value>flers</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Flers</a:documentation>
                         <value>lisieux</value>
@@ -12338,17 +12340,17 @@ Suggested values include: 1] paper; 2] parch (parchment); 3] mixed</a:documentat
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Péhing</a:documentation>
                         <value>hankéou</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Hankéou</a:documentation>
-                        <value>nan_king</value>
+                        <value>nan-king</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Nan-king</a:documentation>
-                        <value>nan_tchang</value>
+                        <value>nan-tchang</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Nan-tchang</a:documentation>
                         <value>soutchéou</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Soutchéou</a:documentation>
-                        <value>shang_haî</value>
+                        <value>shang-haî</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Shang-haî</a:documentation>
                         <value>canton</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Canton</a:documentation>
-                        <value>tien_tsin</value>
+                        <value>tien-tsin</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Tien-tsin</a:documentation>
                         <value>montmorency</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Montmorency</a:documentation>
@@ -12372,8 +12374,8 @@ Suggested values include: 1] paper; 2] parch (parchment); 3] mixed</a:documentat
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Bruxelles</a:documentation>
                         <value>milan</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Milan</a:documentation>
-                        <value>san_quentin</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">San Quentin</a:documentation>
+                        <value>saint-quentin</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Saint-Quentin</a:documentation>
                         <value>saint_denis</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Sant-Denis</a:documentation>
                         <value>noyon</value>
@@ -12392,8 +12394,8 @@ Suggested values include: 1] paper; 2] parch (parchment); 3] mixed</a:documentat
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Bayonne</a:documentation>
                         <value>châtellerault</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Châtellerault</a:documentation>
-                        <value>aix_la_chapelle</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Aix la Chapelle</a:documentation>
+                        <value>aix-la-chapelle</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Aix-la-Chapelle</a:documentation>
                         <value>beaucaire</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Beaucaire</a:documentation>
                         <value>provins</value>
@@ -12417,13 +12419,13 @@ Suggested values include: 1] paper; 2] parch (parchment); 3] mixed</a:documentat
                         <value>cracovie</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Cracovie</a:documentation>
                         <value>château-salins</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Château-salins</a:documentation>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Château-Salins</a:documentation>
                         <value>dieuze</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Dieuze</a:documentation>
                         <value>vic</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Vic</a:documentation>
                         <value>lons-le-saunier</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Lons-le-saunier</a:documentation>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Lons-le-Saunier</a:documentation>
                         <value>salins</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Salins</a:documentation>
                         <value>salies</value>
@@ -12436,6 +12438,14 @@ Suggested values include: 1] paper; 2] parch (parchment); 3] mixed</a:documentat
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Meudon</a:documentation>
                         <value>saint-cloud</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Saint-Cloud</a:documentation>
+                        <value>catelet</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Catelet</a:documentation>
+                        <value>câtelet</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Câtelet</a:documentation>
+                        <value>issy</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Issy</a:documentation>
+                        <value>alger</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Alger</a:documentation>
                      </choice>
                   </oneOrMore>
                </list>
@@ -12529,7 +12539,7 @@ Suggested values include: 1] paper; 2] parch (parchment); 3] mixed</a:documentat
             <attribute name="type">
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">characterizes the element in some sense, using any convenient classification scheme or typology.</a:documentation>
                <choice>
-                  <value>riviére</value>
+                  <value>rivière</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Rivière</a:documentation>
                   <value>désert</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Désert</a:documentation>
@@ -12553,6 +12563,8 @@ Suggested values include: 1] paper; 2] parch (parchment); 3] mixed</a:documentat
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Bois</a:documentation>
                   <value>rive</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Rive</a:documentation>
+                  <value>isthme</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Isthme</a:documentation>
                </choice>
             </attribute>
          </optional>
