@@ -73,7 +73,7 @@
    </teiHeader>
    <text>
       <body>
-         <div1 type="chapitre" n="101">
+         <div1 type="chapitre" xml:lang="fr" n="101">
             <pb type="page" n="350" />
             <head>101. — Une nouvelle connaissance. (Elève, p. 212.)</head>
             <div2 type="récit">
@@ -181,9 +181,9 @@
                      <p>On appelle accent local des inflexions ou changements dans le ton <lb />de la voix, particuliers aux habitants de certaines provinces ou aux <lb />personnes d&apos;une
                         condition peu élevée. Ainsi, à Paris, par exemple, on <lb />grasseye excessivement, l&apos;on prononce le g suivi de la voyelle a, comme <lb />s&apos;il était suivi de ui ;
                         dans le Nord, on traîne sur les syllabes finales; <lb />dans le centre, en Bourgogne notamment, les inflexions sont chan- <lb />tantes ; dans, le Midi, on scande les syllabes ;
-                        on y prononce an, in, on <lb />comme si ces voyelles étaient écrites anne, inne, onne, etc., etc.</p> <p>Pour corriger ces défauts, il faut écouter avec attention comment
-                        <lb />s&apos;expriment les personnes instruites qui n&apos;ont jamais eu ou qui ont <lb />perdu l&apos;accent local ; on s&apos;exercera chez soi à reproduire le plus fidè-
-                        <lb />lement possible leurs intonations.</p>
+                        on y prononce an, in, on <lb />comme si ces voyelles étaient écrites anne, inne, onne, etc., etc.</p>
+                     <p>Pour corriger ces défauts, il faut écouter avec attention comment <lb />s&apos;expriment les personnes instruites qui n&apos;ont jamais eu ou qui ont <lb />perdu l&apos;accent
+                        local ; on s&apos;exercera chez soi à reproduire le plus fidè- <lb />lement possible leurs intonations.</p>
                      <p>On remarque, en outre, dans le langage en cours dans la plupart <lb />des provinces, des mots et des tournures de phrases vieillies et même <lb />incorrectes. Ce sont, presque
                         toujours, des souvenirs de l&apos;ancienne <lb />langue ou du patois local, auxquels il faut renoncer dans l&apos;intérêt de <lb />l&apos;uniformité de la langûe nationale
                         moderne. En s&apos;obstinant à les con- <lb />server, on s&apos;expose à n&apos;être pas bien compris et à se rendre ridicule. <lb />On en perdra l&apos;habitude par la lecture
