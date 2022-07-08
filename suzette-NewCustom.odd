@@ -321,6 +321,9 @@
                 <valItem ident="lucie_valon" mode="add">
                   <desc> Lucie Valon</desc>
                 </valItem>
+                <valItem ident="lisa" mode="add">
+                  <desc>Lisa</desc>
+                </valItem>
               </valList>
             </attDef>
             <!--      		  <attDef ident="corresp" mode="delete"/>
@@ -471,8 +474,8 @@
           <attList>
             <attDef ident="ref" mode="change">
               <valList mode="change" type="closed">
-                <valItem ident="etats_unis" mode="add">
-                  <desc>Etats-Unis</desc>
+                <valItem ident="états-unis" mode="add">
+                  <desc>États-Unis</desc>
                 </valItem>
                 <valItem ident="angleterre" mode="add">
                   <desc>Angleterre</desc>
@@ -514,7 +517,7 @@
                   <desc>Algérie</desc>
                 </valItem>
                 <valItem ident="égypte" mode="add">
-                  <desc>égypte</desc>
+                  <desc>Égypte</desc>
                 </valItem>
                 <valItem ident="mongolie" mode="add">
                   <desc>Mongolie</desc>
@@ -540,9 +543,6 @@
                 <valItem ident="russie" mode="add">
                   <desc>Russie</desc>
                 </valItem>
-                <valItem ident="suède" mode="add">
-                  <desc>Suède</desc>
-                </valItem>
                 <valItem ident="malaisie" mode="add">
                   <desc>Malaisie</desc>
                 </valItem>
@@ -552,11 +552,8 @@
                 <valItem ident="angola" mode="add">
                   <desc>Angola</desc>
                 </valItem>
-                <valItem ident="arabie" mode="add">
-                  <desc>Arabie</desc>
-                </valItem>
-                <valItem ident="saoudite" mode="add">
-                  <desc>Saoudite</desc>
+                <valItem ident="arabie_saoudite" mode="add">
+                  <desc>Arabie Saoudite</desc>
                 </valItem>
                 <valItem ident="indonésie" mode="add">
                   <desc>Indonésie</desc>
@@ -610,8 +607,8 @@
                 <valItem ident="louviers" mode="add">
                   <desc>Louviers</desc>
                 </valItem>
-                <valItem ident="marseilles" mode="add">
-                  <desc>Marseilles</desc>
+                <valItem ident="marseille" mode="add">
+                  <desc>Marseille</desc>
                 </valItem>
                 <valItem ident="toulouse" mode="add">
                   <desc>Toulouse</desc>
@@ -698,7 +695,7 @@
                   <desc>Moselle</desc>
                 </valItem>
                 <valItem ident="lavaur" mode="add">
-                  <desc>Laveur</desc>
+                  <desc>Lavaur</desc>
                 </valItem>
                 <valItem ident="grenoble" mode="add">
                   <desc>Grenoble</desc>
@@ -724,8 +721,8 @@
                 <valItem ident="angers" mode="add">
                   <desc>Angers</desc>
                 </valItem>
-                <valItem ident="condé_sur_noireau">
-                  <desc>Condé-sur-noireau</desc>
+                <valItem ident="condé-sur-noireau">
+                  <desc>Condé-sur-Noireau</desc>
                 </valItem>
                 <valItem ident="flers" mode="add">
                   <desc>Flers</desc>
@@ -745,22 +742,22 @@
                 <valItem ident="hankéou" mode="add">
                   <desc>Hankéou</desc>
                 </valItem>
-                <valItem ident="nan_king" mode="add">
+                <valItem ident="nan-king" mode="add">
                   <desc>Nan-king</desc>
                 </valItem>
-                <valItem ident="nan_tchang" mode="add">
+                <valItem ident="nan-tchang" mode="add">
                   <desc>Nan-tchang</desc>
                 </valItem>
                 <valItem ident="soutchéou" mode="add">
                   <desc>Soutchéou</desc>
                 </valItem>
-                <valItem ident="shang_haî" mode="add">
+                <valItem ident="shang-haî" mode="add">
                   <desc>Shang-haî</desc>
                 </valItem>
                 <valItem ident="canton" mode="add">
                   <desc>Canton</desc>
                 </valItem>
-                <valItem ident="tien_tsin" mode="add">
+                <valItem ident="tien-tsin" mode="add">
                   <desc>Tien-tsin</desc>
                 </valItem>
                 <valItem ident="montmorency" mode="add">
@@ -796,8 +793,8 @@
                 <valItem ident="milan" mode="add">
                   <desc>Milan</desc>
                 </valItem>
-                <valItem ident="san_quentin" mode="add">
-                  <desc>San Quentin</desc>
+                <valItem ident="saint-quentin" mode="add">
+                  <desc>Saint-Quentin</desc>
                 </valItem>
                 <valItem ident="saint_denis" mode="add">
                   <desc>Sant-Denis</desc>
@@ -826,8 +823,8 @@
                 <valItem ident="châtellerault" mode="add">
                   <desc>Châtellerault</desc>
                 </valItem>
-                <valItem ident="aix_la_chapelle" mode="add">
-                  <desc>Aix la Chapelle</desc>
+                <valItem ident="aix-la-chapelle" mode="add">
+                  <desc>Aix-la-Chapelle</desc>
                 </valItem>
                 <valItem ident="beaucaire" mode="add">
                   <desc>Beaucaire</desc>
@@ -863,7 +860,7 @@
                   <desc>Cracovie</desc>
                 </valItem>
                 <valItem ident="château-salins" mode="add">
-                  <desc>Château-salins</desc>
+                  <desc>Château-Salins</desc>
                 </valItem>
                 <valItem ident="dieuze" mode="add">
                   <desc>Dieuze</desc>
@@ -872,7 +869,7 @@
                   <desc>Vic</desc>
                 </valItem>
                 <valItem ident="lons-le-saunier" mode="add">
-                  <desc>Lons-le-saunier</desc>
+                  <desc>Lons-le-Saunier</desc>
                 </valItem>
                 <valItem ident="salins" mode="add">
                   <desc>Salins</desc>
@@ -885,6 +882,24 @@
                 </valItem>
                 <valItem ident="mayence" mode="add">
                   <desc>Mayence</desc>
+                </valItem>
+                <valItem ident="meudon" mode="add">
+                  <desc>Meudon</desc>
+                </valItem>
+                <valItem ident="saint-cloud" mode="add">
+                  <desc>Saint-Cloud</desc>
+                </valItem>
+                <valItem ident="catelet" mode="add">
+                  <desc>Catelet</desc>
+                </valItem>
+                <valItem ident="câtelet" mode="add">
+                  <desc>Câtelet</desc>
+                </valItem>
+                <valItem ident="issy" mode="add">
+                  <desc>Issy</desc>
+                </valItem>
+                <valItem ident="alger" mode="add">
+                  <desc>Alger</desc>
                 </valItem>
               </valList>
             </attDef>
@@ -937,14 +952,14 @@
                 <valItem ident="elbeuf" mode="add">
                   <desc>Elbeuf</desc>
                 </valItem>
-                <valItem ident="cicile" mode="add">
+                <valItem ident="sicile" mode="add">
                   <desc>Sicile</desc>
                 </valItem>
                 <valItem ident="lorraine" mode="add">
                   <desc>Lorraine</desc>
                 </valItem>
                 <valItem ident="franche-comté" mode="add">
-                  <desc>Franche-comté</desc>
+                  <desc>Franche-Comté</desc>
                 </valItem>
                 <valItem ident="béarn" mode="add">
                   <desc>Béarn</desc>
@@ -961,7 +976,7 @@
           <attList>
             <attDef ident="type" mode="change">
               <valList mode="change" type="closed">
-                <valItem ident="riviére" mode="add">
+                <valItem ident="rivière" mode="add">
                   <desc>Rivière</desc>
                 </valItem>
                 <valItem ident="désert" mode="add">
@@ -996,6 +1011,9 @@
                 </valItem>
                 <valItem ident="rive" mode="add">
                   <desc>Rive</desc>
+                </valItem>
+                <valItem ident="isthme" mode="add">
+                  <desc>Isthme</desc>
                 </valItem>
               </valList>
             </attDef>
