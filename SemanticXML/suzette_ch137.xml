@@ -73,7 +73,7 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div1 type="chapitre" n="137">
+			<div1 type="chapitre" xml:lang="fr" n="137">
 				<head>137. — Extraits des Lettres de Jacques (suite). <lb />(Élève, p. 290.)</head>
 				<div2 type="récit">
 					<p>« Pour un homme de la plaine comme moi, la nature <lb />de ce sol est un étonnement. Partout soulevé, déchiré. <lb />Des volcans, depuis longtemps éteints, ont formé des
@@ -149,7 +149,7 @@
 				<div2 type="exercices">
 					<head>DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES.</head>
 					<div3 type="géographie" subtype="france">
-						<head>Géographie.</head>
+						<head type="sujets">Géographie.</head>
 						<div4 type="questions">
 							<list>
 								<item>— Que remarque-t-on, au point de vue de la chaleur à mesure qu&apos;on s&apos;enfonce dans le sol ? </item>
@@ -210,7 +210,7 @@
 						</div4>
 					</div3>
 					<div3 type="sciences_naturelles">
-						<head>Sciences naturelles.</head>
+						<head type="sujets">Sciences naturelles.</head>
 						<div4 type="questions">
 							<list>
 								<item>— Donner une idée des animaux et des productions végétales des pays chauds, d&apos;après vos lectures.</item>
@@ -236,7 +236,7 @@
 						</div4>
 					</div3>
 					<div3 type="économie_domestique">
-						<head>Économie domestique.</head>
+						<head type="sujets">Économie domestique.</head>
 						<div4 type="questions">
 							<list>
 								<item>— Exposer comment on prépare une tasse de chocolat et une tasse de café au lait. </item>
