@@ -134,7 +134,7 @@
                   </div4>
                </div3>
                <div3 type="économie_domestique">
-                  <head>Économie domestique.</head>
+                  <head type="sujets">Économie domestique.</head>
                   <div4 type="questions">
                      <list>
                         <item>— Exposer avec détail et petit mémoire à l&apos;appui, ce que coûtera ce vêtement.</item>
@@ -155,7 +155,7 @@
                   </div4>
                </div3>
                <div3 type="industrie">
-                  <head>Industrie.</head>
+                  <head type="sujets">Industrie.</head>
                   <div4 type="questions">
                      <list>
                         <item>— Indiquer comment on doit prendre les mesures pour arriver à faire une robe qui aille bien.</item>
@@ -189,7 +189,7 @@
                   </div4>
                </div3>
                <div3 type="complexe">
-                  <head>Dessin.</head>
+                  <head type="sujets">Dessin.</head>
                   <div4 type="questions">
                      <list>
                         <item>— Dessiner, après mesures prises, et découper les patrons d&apos;une robe pour votre poupée.</item>
