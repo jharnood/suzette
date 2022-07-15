@@ -2,323 +2,222 @@
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
 <?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title type="main">Suzette: a Digital Edition</title>
-				<respStmt>
-					<persName>John Westbrook</persName>
-					<orgName>Bucknell University</orgName>
-					<resp>Editor</resp>
-				</respStmt>
-				<respStmt>
-					<persName xml:id="JAKA1">Diane Jakacki</persName>
-					<orgName>Bucknell University</orgName>
-					<resp>Project Manager</resp>
-				</respStmt>
-				<respStmt>
-					<persName>Annie Girton</persName>
-					<orgName>Bucknell University</orgName>
-					<resp>Research Assistant and Encoder, 2018-2020</resp>
-				</respStmt>
-				<respStmt>
-					<persName>Sarah Haber</persName>
-					<orgName>Bucknell University</orgName>
-					<resp>Research Assistant and Encoder, 2020-Present</resp>
-				</respStmt>
-				<respStmt>
-					<persName>Rebecca Heintzelman</persName>
-					<orgName>Bucknell University</orgName>
-					<resp>Research Assistant and Encoder, 2020-Present</resp>
-				</respStmt>
-				<respStmt>
-					<persName>Juliya Harnood</persName>
-					<orgName>Bucknell University</orgName>
-					<resp>Research Assistant and Encoder, 2021-Present</resp>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<distributor>Bucknell University</distributor>
-				<pubPlace>
-					<address>
-						<addrLine>One Dent Drive</addrLine>
-						<addrLine>Lewisburg, PA 17837</addrLine>
-					</address>
-				</pubPlace>
-				<availability>
-					<licence>Attribution-NonCommercial-ShareAlike 4.0 International</licence>
-				</availability>
-			</publicationStmt>
-			<sourceDesc>
-				<biblStruct>
-					<monogr>
-						<title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles.
-							Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine –
-							Couture</title>
-						<author>Robert Halt</author>
-						<textLang>French</textLang>
-						<imprint>
-							<date>1889</date>
-							<distributor>Libraire Classique Paul Delaplane</distributor>
-							<pubPlace>Paris, France</pubPlace>
-						</imprint>
-					</monogr>
-				</biblStruct>
-			</sourceDesc>
-		</fileDesc>
-		<profileDesc>
-			<langUsage>
-				<language ident="fr">French</language>
-				<language ident="en">English</language>
-			</langUsage>
-		</profileDesc>
-	</teiHeader>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Suzette: a Digital Edition</title>
+            <respStmt>
+               <persName>John Westbrook</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="JAKA1">Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Annie Girton</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and Encoder, 2018-2020</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sarah Haber</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and Encoder, 2020-Present</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rebecca Heintzelman</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and Encoder, 2020-Present</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Juliya Harnood</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and Encoder, 2021-Present</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>Bucknell University</distributor>
+            <pubPlace>
+               <address>
+                  <addrLine>One Dent Drive</addrLine>
+                  <addrLine>Lewisburg, PA 17837</addrLine>
+               </address>
+            </pubPlace>
+            <availability>
+               <licence>Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles. Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine – Couture</title>
+                  <author>Robert Halt</author>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <date>1889</date>
+                     <distributor>Libraire Classique Paul Delaplane</distributor>
+                     <pubPlace>Paris, France</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fr">French</language>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
    <text>
       <body>
-      		   <div1>
-                 <head>108. — Heureuses gens. (Élève, p. 231.) </head>
-                 <div2 type="récit">
-                 <p>On entra. Quelle chaleur ! </p>
-                 <p>Une température d'étuve* <gloss>Étuve. Lieu clos dont on échauffe plus ou moins la température.</gloss> , trente degrés centigrades, 
-                 <lb/>constates par un gros 
-                 <lb/>thermomètre*<gloss>Thermomètre. Instrument pour indiquer les degrés de chaleur ou de froid.</gloss> pendu au 
-                 <lb/>mur. Au milieu de la 
-                 <lb/>pièce, sur une table , 
-                 <lb/>plusieurs boîtes. La pre-
-                 <lb/>mière, fermée, était mu-
-                 <lb/>nie, sur un côté, d'un 
-                 <lb/>petit vitrage derrière 
-                 <lb/>lequel se voyaient des œufs de poule , mollement cou-
-                 <lb/>chés sur de l'ouate. La boîte, la couveuse artificielle, 
-                 <lb/>maintenait  à la température où ils se trouve-
-                 <lb/>raient sous le corps de la poule.</p>
-                  
-                 <figure><caption> Couveuse artificielle. </caption></figure>
-                  
-                 <p> Les petits sont éclos. En voyez-vous dans la sécheuse, 
-                 <lb/>cette cloche, tout à côté, chaufée et douillettement ca-
-                 <lb/>pitonnée*<gloss>Capitonné. Rembourée, matelassé.</gloss> de duvet ? Et séchez-vous, petits poissons ! </p>
-
-      		   <fw type="footer">(1) Le sot-l'y-laisse est un morceau placé sous la cuisse, å la naissance de l'aile,
-      		   <lb/>dont la chair est très délicate, quelque moins blanche.</fw>
-      	
-                 <pb type="page" n="379" />
-      	
-                 <fw>HEUREUSES GENS. 379</fw>
-                	
-                 <p> Vous voilà secs, et en disposition de  quelque 
-      		   <lb/>chose, hein ? </p>
-                 <p>Bon ! autre appareil. Là, des  appropriées à la 
-      		   <lb/>petitesse de votre bec 
-      		   <lb/>d'enfant ; et aussi du gra-
-      		   <lb/>vier pour votre bonne 
-      		   <lb/>digestion , et de l'eau ; et 
-      		   <lb/>la plus étrange, la plus 
-      		   <lb/>curieuse, la plus belle 
-      		   <lb/>chose de l'endroit, une
-      		   <lb/>mère artificielle ! </p>
-                  
-                 <figure><caption>Gaveuse pour engraisser les volailles. </caption></figure>
-                  
-                 <p> Cette mère est un abri, 
-      		   <lb/>en forme de deux ailes sou-
-      		   <lb/>levées, rembourrés de plumes tièdes et douces. Tout 
-      		   <lb/>y est, sauf le gloussement affectueux de la maman 
-      		   <lb/>répondant à vos pépiements légers. </p>
-                 <p> Mais les petits  sont gens d'estomac plutôt 
-      		   <lb/>que de sentiment ; ils becquètent, grattent, mangent 
-      		   <lb/>à plaisir, sans songer aux gloussements absents.</p> 
-                 <p>Ils grandissent et 
-      		   <lb/>échangent bientôt leur 
-      		   <lb/>duvet jaune pour les 
-      		   <lb/>plumes de l'adoles-
-      		   <lb/>cence. </p>
-                 <p>Alors, comme ils 
-      		   <lb/>eussent déserté l'aile maternelle, ils déser-
-      		   <lb/>tent l'aile factice*<gloss>Factice. Qui imite les choses naturelles.</gloss>, et 
-      		   <lb/>on les porte au grand 
-      		   <lb/>air. </p>
-                 <p>Cocorico ! cocorico ! 
-      		   <lb/>Ah ! se font-ils de la 
-      		   <lb/>joie et du muscle sur 
-                 <lb/>cette jolie pelouse ! </p>
-      		   <p>Mais, cela fait, on 
-      		   <lb/>vous reprend les petits 
-      		   <lb/>messieurs qu'il ne s’a-
-      		   <lb/>git plus que d'engrais-
-      		   <lb/>ser ; on vous les met en cellule, dans cette tour mobile 
-      	
-                 <figure><caption>La rôtissoire mècanique.
-                 <lb/> Ce système de mise à la broche pour les vo-
-                 <lb/>lailles est très usité à Paris et dans les grandes
-                 <lb/>villes ; il fonctionne par la chateur même du 
-                 <lb/>foyer ; , dans son mouvement ascen-
-                 <lb/>sionnel, fait tourner les aubes du moulin a que
-                 <lb/> l'on aperçoit au-dessus de la cheminée, moulin
-                 <lb/>qui communique le mouvement aux broches par 
-                 <lb/>un système d'engrenages fixés à l'axe b. </caption></figure>
-               
-      		   <pb type="page" n="380"/>
-                	
-                 <fw>380 SUZETTE.</fw> 
-                	
-                 <lb/>sur un pivot. La tour se meut. Les cous des captifs s'al-
-                 <lb/>longent par une meurtrière*<gloss>Meurtrière. Ouverture étroite pratiquée dans une muraille fortifiée et par laquelle on tire à couvert sur l'ennemi.</gloss>. Les uns après les autres 
-                 <lb/>ils reçoivent, par un tuyau que dirige un employé, la 
-                 <lb/>pâtée cuite, mouillée, salée à point. Il faut s'engraisser 
-                 <lb/>ou dire pourquoi !</p>
-                 <p>La gaveuse est le lieu de bénédiction, c'est la grande 
-                 <lb/>et tranquille gogaille*<gloss>Gogaille. Repas joyeux.</gloss>  à l'abri de la fouine, du renard, 
-                 <lb/>de la pluie et du soleil.</p> 
-                 <p>Enfin, nous sommes gavés ! superbes d'embonpoint ! 
-                 <lb/>nous sommes d'admirables pelotes de graisse, et nous 
-                 <lb/>sortons de la tour hospitalière ! </p>
-                 <p>Et où allons-nous, maintenant, ô mes gras, mes ins-
-                 <lb/>oucieux amis ?...</p> 
-                 <p>A la broche ! </p>
-                 </div2>
-      		   	
-      		   <div2 type="questionnaire">
-      		   <head>Questionnaire.</head>  
-      		   <list>
-      		   <item>— Parlez de la température de la couveuse.</item> 
-      		   <item>— Que voyait-on au milieu de la pièce ? </item> 
-      		   <item>— Qu'y avait-il dans chaque boîte ? </item>
-      		   <item>— Comment la couveuse agit-elle sur les œufs ? </item>
-      		   <item>— Que remarquait-on sous la sécheuse ? </item>
-      		   <item>— Que voyait-on dans un autre appareil ? </item>
-      		   <item>— Décrivez la mère artificielle. </item>
-      		   <item>— Que sont les petits poulets et que font-ils ? </item>
-      		   <item>— Où les porte-t-on quand ils ont grandi ? </item>
-      		   <item>— Où vont-ils ? </item>
-      		   <item>— Pourquoi les met-on en cellule ? </item>
-      		   <item>— Parlez de la tour mobile et de la singulière manière de nourrir les petits poulets. </item>
-      		   <item>— Qu'est la gaveuse pour ces jeunes oiseaux ? </item>
-      		   <item>— Et qu'advient-il enfin des poulets ? </item>
-      		   </list>
-		  	   </div2>
-      		   
-      		   <div2 type="exercices">
-      		   <head>DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES.</head> 
-      		   <div3 type="sciences_naturelles">
-      		   <head>Sciences naturelles.</head> 
-      		   <div4 type="questions">
-      		   <list>
-      		   <item>LE THERMOMÈTRE.</item>
-      		   <item>— L'eau, en s'échauffant, augmente-t-elle ou diminue-t-elle de volume ? </item>
-      		   <item>— Exemples.</item> 
-      		   <item>— En est-il de même pour les autres liquides ? </item>
-      		   <item>— Si l'on met de l'esprit-de-vin ou du mercure dans un tube, qu'adviendra-t-il quand ces liquides s'échaufferont ? </item>
-      		   <item>— Décrire le thermomètre. </item>
-      		   <item>— Comment est-il gradué ? </item>
-      		   <item>— Ses usages.</item>
-      		   </list>
-      		   </div4>
-      		   
-      		   <div4 type="réponses">
-      		   <p>En s'échauffant, l'eau augmente de volume, et il est facile de le cons-
-      		   <lb/>tater en plaçant un vase plein devant un feu vif ; peu de temps après que 
-      		   <lb/>le liquide a subi l'influence de la chaleur, il déborde. C'est une pro-
-      		   <lb/>priété commune à tous los corps qui sont en cet état à la température
-      		   <lb/>ordinaire ; par exemple, au mercure et à l'esprit-de-vin. Si l'on en 
-      		   <lb/>introduisait dans un tube formé à la partie inférieure, laquelle serait 
-      		   <lb/>soumise à l'action d'un foyer allumé, ces liquides monteraient rapide-
-      		   <lb/>ment dans le tube en question, preuve évidente de leur dilatation sous 
-      		   <lb/>l'influence de la chaleur. </p>
-      		   <p>Cette propriété a été appliquée à la mesure de la température des 
-      		   <lb/>corps et l'on a imaginé à cet effet un instrument nommé thermomètre . 
-      		   <lb/>Il se compose d'un tube fin comme un cheveu à l’intérieur, soudé à un 
-      		   <lb/>réservoir cylindrique de même matière. Le réservoir ainsi qu'une partie 
-      		   <lb/>de la tige sont remplis de mercure ou d'alcool, et une échelle graduée, 
-      		   <lb/>tracée sur une règle plate à laquelle le tube est fixé, fait connaître, 
-      		   <lb/>par l'examen ou le compte des divisions, la dilatation du liquide et, 
-      		   <lb/>par suite, l'intensité de la chaleur.</p> 
-      		   <p>Le thermomètre compte 100 divisions égales ou degrés entre la tem-
-      		   <lb/>pérature de la glace et celle de l'eau bouillante. Il sert à mesurer
-      		
-      		   <pb type="page" n="381" />
-                           
-      		   <fw>HEUREUSES GENS. 381</fw> 
-      		   	
-            	 <lb/>la température de l'air, des liquides, du corps des malades, d'une 
-             	<lb/>chambre, etc.</p> 
-      		   </div4>
-             	<div4 type="questions">
-             	<list>
-             	<item>LA DIGESTION. </item>
-             	<item>— Comment introduit-on les aliments dans l'estomac ? </item>
-             	<item>— Fonction des dents, de la salive, de la langue. </item>
-             	<item>— Que se passe-t-il dans l'estomac ? </item>
-             	<item>— La bile. </item>
-             	<item>— Que deviennent les aliments après leur sortie de l'estomac ? </item>
-             	</list>
-             	</div4>
-      		   	
-             	<div4 type="réponses">
-             	<p>La digestion est une fonction naturelle des animaux qui a pour 
-             	<lb/>objet : 1° de transformer la partie nutritive des substances alimentaires 
-             	<lb/>en un liquide propre à se mêler au sang pour nourrir le corps ; — 
-             	<lb/>2° de séparer la partie nutritive des aliments d'avec les parties qui ne
-             	<lb/>possèdent pas cette qualité et qui doivent être rejetées.</p> 
-             	<p>C'est dans la bouche que se passe le premier acte de la digestion. 
-                 <lb/>Les aliments y sont broyés par les dents, opération très importante, 
-                 <lb/>parce qu'à mesure qu'ils sont divisés, ils sont humectés de salive, 
-             	<lb/>et ce liquide facilite le travail de décomposition dont on va parler. De la 
-                 <lb/>bouche, la nourriture, réunie en une masse arrondie, est soulevée par 
-                 <lb/>la langue et précipitée dans l'estomac par le canal de l'œsophage.</p>
-                 <p>L'estomac est une grande poche membraneuse dont les parois sé-
-                 <lb/>crètent un liquide doué de la propriété de réduire les aliments en une 
-             	<lb/>substance semi-liquide à laquelle on donne le nom de chyme. </p>
-                 <p>Le chyme se rend, par l'ouverture du pylore, dans l'intestin grêle 
-                 <lb/>où il se mélange avec la bile, matière verdâtre, de saveur amère, que 
-                 <lb/>produit le foie, organe situé à côté de l'estomac. Les parois de l'intestin 
-                 <lb/>absorbent une partie du nouveau liquide, lequel entre dans la circula-
-                 <lb/>tion du sang par des vaisseaux très minces débouchant, d'une part, dans 
-                 <lb/>l'intestin grêle et, de l'autre, dans une veine voisine du cœur. Ce qui 
-                 <lb/>reste ne peut servir à la nutrition et passe dans le gros intestin. </p>
-             	</div4>
-      		   </div3>
-      		   	
-                 <div3 type="économie_domestique">
-                 <head>Économie domestique.</head> 
-                 <div4 type="questions">
-                 <list>	
-                 <item>— Lorsqu'on digère mal, que doit-on prendre ? </item>
-                 <item>— Quels soins faut-il donner aux enfants, en cas d'indigestion ? </item>
-                 <item>— Quelles sont les causes qui peuvent amener des indigestions ? </item>
-                 <item>— Citez les aliments qui sont le plus indiges-tes pour les enfants. </item>
-                 </list>
-                 </div4>
-                 	
-                 <div4 type="réponses">
-                 <p>Lorsque la digestion se fait difficilement, on conseille de prendre 
-                 <lb/>un exercice modéré, tel que la marche dans la chambre, ou mieux au 
-                 <lb/>dehors, s'il se peut. Mais au cas où le malaise persisterait, il faudrait 
-                 <lb/>boire une infusion de thé bien chaude ou de camomille ; on provoque
-                 <lb/>rait les vomissements, en chatouillant le gosier avec une plume, si la 
-                 <lb/>personne n'éprouvait aucun soulagement. Ensuite, il est nécessaire de 
-                 <lb/>coucher le malade et de lui faire prendre l'une des infusions citées 
-                 <lb/>précédemment.</p>
-                 <p>Les causes qui peuvent provoquer des indigestions sont nombreuses : 
-                 <lb/>l'excès de nourriture, l'absorption de mets lourds à l'estomac, un 
-                 <lb/>exercice trop violent avant ou après le repas. Comme ces indispo-
-                 <lb/>sitions ont souvent un caractère dangereux, les parents tiendront à 
-                 <lb/>nourrir de préférence les enfants avec une soupe le matin ; vers onze
-                 <lb/>heures, un œuf à la coque, un peu de viande et des légumes ; à trois 
-                 <lb/>heures, légère collation faite à la promenade ou à l'air libre, composée 
-                 <lb/>de pain et de fromage, de confitures ou de chocolat ; le soir, ils dîneront 
-                 <lb/>avec de la soupe, de la viande, un légume, un fruit ou quelque frian-
-                 <lb/>dise. Des aliments simples et doux, d'une préparation naturelle, assai-
-                 <lb/>sonnés d'un peu de sel, des viandes bien cuites, des repas à des
-                 <lb/>heures réglées, constituent pour eux le régime le plus favorable. </p>
-                 <p>Evitons de leur donner des viandes trop cuites et des mets trop épicés, 
-                 <lb/>de la chair de porc sans légumes, des aliments très gras, des fruits à 
-                 <lb/>demi mûrs ; ils les digéreraient avec difficulté, même dans les meil-
-                 <lb/>leures conditions hygiéniques.</p>
-                 </div4>
-          	   </div3>
-      		   </div2>
-      		   </div1>
+         <div1 type="chapitre" xml:lang="fr" n="108">
+            <head>108. — Heureuses gens. (Élève, p. 231.) </head>
+            <div2 type="récit">
+               <p>On entra. Quelle chaleur ! </p>
+               <p>Une température d'étuve* <gloss>Étuve. Lieu clos dont on échauffe plus ou moins la température.</gloss> , trente degrés centigrades, <lb />constates par un gros
+                     <lb />thermomètre*<gloss>Thermomètre. Instrument pour indiquer les degrés de chaleur ou de froid.</gloss> pendu au <lb />mur. Au milieu de la <lb />pièce, sur une table ,
+                  <lb />plusieurs boîtes. La pre- <lb />mière, fermée, était mu- <lb />nie, sur un côté, d'un <lb />petit vitrage derrière <lb />lequel se voyaient des œufs de poule , mollement cou-
+                  <lb />chés sur de l'ouate. La boîte, la couveuse artificielle, <lb />maintenait à la température où ils se trouve- <lb />raient sous le corps de la poule.</p>
+               <figure>
+                  <caption> Couveuse artificielle. </caption>
+               </figure>
+               <p> Les petits sont éclos. En voyez-vous dans la sécheuse, <lb />cette cloche, tout à côté, chaufée et douillettement ca- <lb />pitonnée*<gloss>Capitonné. Rembourée, matelassé.</gloss>
+                  de duvet ? Et séchez-vous, petits poissons ! </p>
+               <fw type="footer">(1) Le sot-l'y-laisse est un morceau placé sous la cuisse, å la naissance de l'aile, <lb />dont la chair est très délicate, quelque moins blanche.</fw>
+               <pb type="page" n="379" />
+               <fw>HEUREUSES GENS. 379</fw>
+               <p> Vous voilà secs, et en disposition de quelque <lb />chose, hein ? </p>
+               <p>Bon ! autre appareil. Là, des appropriées à la <lb />petitesse de votre bec <lb />d'enfant ; et aussi du gra- <lb />vier pour votre bonne <lb />digestion , et de l'eau ; et <lb />la
+                  plus étrange, la plus <lb />curieuse, la plus belle <lb />chose de l'endroit, une <lb />mère artificielle ! </p>
+               <figure>
+                  <caption>Gaveuse pour engraisser les volailles. </caption>
+               </figure>
+               <p> Cette mère est un abri, <lb />en forme de deux ailes sou- <lb />levées, rembourrés de plumes tièdes et douces. Tout <lb />y est, sauf le gloussement affectueux de la maman
+                  <lb />répondant à vos pépiements légers. </p>
+               <p> Mais les petits sont gens d'estomac plutôt <lb />que de sentiment ; ils becquètent, grattent, mangent <lb />à plaisir, sans songer aux gloussements absents.</p>
+               <p>Ils grandissent et <lb />échangent bientôt leur <lb />duvet jaune pour les <lb />plumes de l'adoles- <lb />cence. </p>
+               <p>Alors, comme ils <lb />eussent déserté l'aile maternelle, ils déser- <lb />tent l'aile factice*<gloss>Factice. Qui imite les choses naturelles.</gloss>, et <lb />on les porte au
+                  grand <lb />air. </p>
+               <p>Cocorico ! cocorico ! <lb />Ah ! se font-ils de la <lb />joie et du muscle sur <lb />cette jolie pelouse ! </p>
+               <p>Mais, cela fait, on <lb />vous reprend les petits <lb />messieurs qu'il ne s’a- <lb />git plus que d'engrais- <lb />ser ; on vous les met en cellule, dans cette tour mobile <figure>
+                     <caption>La rôtissoire mècanique. <lb /> Ce système de mise à la broche pour les vo- <lb />lailles est très usité à Paris et dans les grandes <lb />villes ; il fonctionne par la
+                        chateur même du <lb />foyer ; , dans son mouvement ascen- <lb />sionnel, fait tourner les aubes du moulin a que <lb /> l'on aperçoit au-dessus de la cheminée, moulin <lb />qui
+                        communique le mouvement aux broches par <lb />un système d'engrenages fixés à l'axe b. </caption>
+                  </figure>
+                  <pb type="page" n="380" />
+                  <fw>380 SUZETTE.</fw>
+                  <lb />sur un pivot. La tour se meut. Les cous des captifs s'al- <lb />longent par une meurtrière*<gloss>Meurtrière. Ouverture étroite pratiquée dans une muraille fortifiée et par
+                     laquelle on tire à couvert sur l'ennemi.</gloss>. Les uns après les autres <lb />ils reçoivent, par un tuyau que dirige un employé, la <lb />pâtée cuite, mouillée, salée à point.
+                  Il faut s'engraisser <lb />ou dire pourquoi !</p>
+               <p>La gaveuse est le lieu de bénédiction, c'est la grande <lb />et tranquille gogaille*<gloss>Gogaille. Repas joyeux.</gloss> à l'abri de la fouine, du renard, <lb />de la pluie et du
+                  soleil.</p>
+               <p>Enfin, nous sommes gavés ! superbes d'embonpoint ! <lb />nous sommes d'admirables pelotes de graisse, et nous <lb />sortons de la tour hospitalière ! </p>
+               <p>Et où allons-nous, maintenant, ô mes gras, mes ins- <lb />oucieux amis ?...</p>
+               <p>A la broche ! </p>
+            </div2>
+            <div2 type="questionnaire">
+               <head>Questionnaire.</head>
+               <list>
+                  <item>— Parlez de la température de la couveuse.</item>
+                  <item>— Que voyait-on au milieu de la pièce ? </item>
+                  <item>— Qu'y avait-il dans chaque boîte ? </item>
+                  <item>— Comment la couveuse agit-elle sur les œufs ? </item>
+                  <item>— Que remarquait-on sous la sécheuse ? </item>
+                  <item>— Que voyait-on dans un autre appareil ? </item>
+                  <item>— Décrivez la mère artificielle. </item>
+                  <item>— Que sont les petits poulets et que font-ils ? </item>
+                  <item>— Où les porte-t-on quand ils ont grandi ? </item>
+                  <item>— Où vont-ils ? </item>
+                  <item>— Pourquoi les met-on en cellule ? </item>
+                  <item>— Parlez de la tour mobile et de la singulière manière de nourrir les petits poulets. </item>
+                  <item>— Qu'est la gaveuse pour ces jeunes oiseaux ? </item>
+                  <item>— Et qu'advient-il enfin des poulets ? </item>
+               </list>
+            </div2>
+            <div2 type="exercices">
+               <head>DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES.</head>
+               <div3 type="sciences_naturelles">
+                  <head>Sciences naturelles.</head>
+                  <div4 type="questions">
+                     <list>
+                        <item>LE THERMOMÈTRE.</item>
+                        <item>— L'eau, en s'échauffant, augmente-t-elle ou diminue-t-elle de volume ? </item>
+                        <item>— Exemples.</item>
+                        <item>— En est-il de même pour les autres liquides ? </item>
+                        <item>— Si l'on met de l'esprit-de-vin ou du mercure dans un tube, qu'adviendra-t-il quand ces liquides s'échaufferont ? </item>
+                        <item>— Décrire le thermomètre. </item>
+                        <item>— Comment est-il gradué ? </item>
+                        <item>— Ses usages.</item>
+                     </list>
+                  </div4>
+                  <div4 type="réponses">
+                     <p>En s'échauffant, l'eau augmente de volume, et il est facile de le cons- <lb />tater en plaçant un vase plein devant un feu vif ; peu de temps après que <lb />le liquide a subi
+                        l'influence de la chaleur, il déborde. C'est une pro- <lb />priété commune à tous los corps qui sont en cet état à la température <lb />ordinaire ; par exemple, au mercure
+                        et à l'esprit-de-vin. Si l'on en <lb />introduisait dans un tube formé à la partie inférieure, laquelle serait <lb />soumise à l'action d'un foyer allumé, ces liquides
+                        monteraient rapide- <lb />ment dans le tube en question, preuve évidente de leur dilatation sous <lb />l'influence de la chaleur. </p>
+                     <p>Cette propriété a été appliquée à la mesure de la température des <lb />corps et l'on a imaginé à cet effet un instrument nommé thermomètre . <lb />Il se compose d'un tube fin
+                        comme un cheveu à l’intérieur, soudé à un <lb />réservoir cylindrique de même matière. Le réservoir ainsi qu'une partie <lb />de la tige sont remplis de mercure ou d'alcool, et
+                        une échelle graduée, <lb />tracée sur une règle plate à laquelle le tube est fixé, fait connaître, <lb />par l'examen ou le compte des divisions, la dilatation du liquide et,
+                        <lb />par suite, l'intensité de la chaleur.</p>
+                     <p>Le thermomètre compte 100 divisions égales ou degrés entre la tem- <lb />pérature de la glace et celle de l'eau bouillante. Il sert à mesurer <pb type="page" n="381" />
+                        <fw>HEUREUSES GENS. 381</fw>
+                        <lb />la température de l'air, des liquides, du corps des malades, d'une <lb />chambre, etc.</p>
+                  </div4>
+                  <div4 type="questions">
+                     <list>
+                        <item>LA DIGESTION. </item>
+                        <item>— Comment introduit-on les aliments dans l'estomac ? </item>
+                        <item>— Fonction des dents, de la salive, de la langue. </item>
+                        <item>— Que se passe-t-il dans l'estomac ? </item>
+                        <item>— La bile. </item>
+                        <item>— Que deviennent les aliments après leur sortie de l'estomac ? </item>
+                     </list>
+                  </div4>
+                  <div4 type="réponses">
+                     <p>La digestion est une fonction naturelle des animaux qui a pour <lb />objet : 1° de transformer la partie nutritive des substances alimentaires <lb />en un liquide propre à se
+                        mêler au sang pour nourrir le corps ; —  <lb />2° de séparer la partie nutritive des aliments d'avec les parties qui ne <lb />possèdent pas cette qualité et qui doivent être
+                        rejetées.</p>
+                     <p>C'est dans la bouche que se passe le premier acte de la digestion. <lb />Les aliments y sont broyés par les dents, opération très importante, <lb />parce qu'à mesure qu'ils
+                        sont divisés, ils sont humectés de salive, <lb />et ce liquide facilite le travail de décomposition dont on va parler. De la <lb />bouche, la nourriture, réunie en une masse
+                        arrondie, est soulevée par <lb />la langue et précipitée dans l'estomac par le canal de l'œsophage.</p>
+                     <p>L'estomac est une grande poche membraneuse dont les parois sé- <lb />crètent un liquide doué de la propriété de réduire les aliments en une <lb />substance semi-liquide à
+                        laquelle on donne le nom de chyme. </p>
+                     <p>Le chyme se rend, par l'ouverture du pylore, dans l'intestin grêle <lb />où il se mélange avec la bile, matière verdâtre, de saveur amère, que <lb />produit le foie, organe
+                        situé à côté de l'estomac. Les parois de l'intestin <lb />absorbent une partie du nouveau liquide, lequel entre dans la circula- <lb />tion du sang par des vaisseaux très
+                        minces débouchant, d'une part, dans <lb />l'intestin grêle et, de l'autre, dans une veine voisine du cœur. Ce qui <lb />reste ne peut servir à la nutrition et passe dans le
+                        gros intestin. </p>
+                  </div4>
+               </div3>
+               <div3 type="économie_domestique">
+                  <head>Économie domestique.</head>
+                  <div4 type="questions">
+                     <list>
+                        <item>— Lorsqu'on digère mal, que doit-on prendre ? </item>
+                        <item>— Quels soins faut-il donner aux enfants, en cas d'indigestion ? </item>
+                        <item>— Quelles sont les causes qui peuvent amener des indigestions ? </item>
+                        <item>— Citez les aliments qui sont le plus indiges-tes pour les enfants. </item>
+                     </list>
+                  </div4>
+                  <div4 type="réponses">
+                     <p>Lorsque la digestion se fait difficilement, on conseille de prendre <lb />un exercice modéré, tel que la marche dans la chambre, ou mieux au <lb />dehors, s'il se peut. Mais au
+                        cas où le malaise persisterait, il faudrait <lb />boire une infusion de thé bien chaude ou de camomille ; on provoque <lb />rait les vomissements, en chatouillant le gosier
+                        avec une plume, si la <lb />personne n'éprouvait aucun soulagement. Ensuite, il est nécessaire de <lb />coucher le malade et de lui faire prendre l'une des infusions citées
+                        <lb />précédemment.</p>
+                     <p>Les causes qui peuvent provoquer des indigestions sont nombreuses : <lb />l'excès de nourriture, l'absorption de mets lourds à l'estomac, un <lb />exercice trop violent avant
+                        ou après le repas. Comme ces indispo- <lb />sitions ont souvent un caractère dangereux, les parents tiendront à <lb />nourrir de préférence les enfants avec une soupe le matin
+                        ; vers onze <lb />heures, un œuf à la coque, un peu de viande et des légumes ; à trois <lb />heures, légère collation faite à la promenade ou à l'air libre, composée <lb />de
+                        pain et de fromage, de confitures ou de chocolat ; le soir, ils dîneront <lb />avec de la soupe, de la viande, un légume, un fruit ou quelque frian- <lb />dise. Des aliments
+                        simples et doux, d'une préparation naturelle, assai- <lb />sonnés d'un peu de sel, des viandes bien cuites, des repas à des <lb />heures réglées, constituent pour eux le régime
+                        le plus favorable. </p>
+                     <p>Evitons de leur donner des viandes trop cuites et des mets trop épicés, <lb />de la chair de porc sans légumes, des aliments très gras, des fruits à <lb />demi mûrs ; ils les
+                        digéreraient avec difficulté, même dans les meil- <lb />leures conditions hygiéniques.</p>
+                  </div4>
+               </div3>
+            </div2>
+         </div1>
       </body>
    </text>
 </TEI>

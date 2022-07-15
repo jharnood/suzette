@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Suzette: a Digital Edition</title>
+            <respStmt>
+               <persName>John Westbrook</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Annie Girton</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and Encoder, 2018-2020</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sarah Haber</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and Encoder, 2020-Present</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rebecca Heintzelman</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and Encoder, 2020-Present</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Juliya Harnood</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and Encoder, 2021-Present</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>Bucknell University</distributor>
+            <pubPlace>
+               <address>
+                  <addrLine>One Dent Drive</addrLine>
+                  <addrLine>Lewisburg, PA 17837</addrLine>
+               </address>
+            </pubPlace>
+            <availability>
+               <licence>Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles. Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine – Couture</title>
+                  <author>Robert Halt</author>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <date>1889</date>
+                     <distributor>Libraire Classique Paul Delaplane</distributor>
+                     <pubPlace>Paris, France</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fr">French</language>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1 type="chapitre" xml:lang="fr" n="115">
+            <head> 115. — Apiculture. (Élève, p. 245.) </head>
+            <pb type="page" n="404" />
+            <div2 type="récit">
+               <p> Le rucher était en bon lieu. Adossé au pignon du sud, <lb />protégé contre le vent du nord par une palissade de <lb />fanes* <gloss>Fanes. Rameaux cueillis et munis encore de leurs
+                     feuilles.</gloss> d'œillettes entremêlées de liens de paille, il pou- <lb />vait attendre que la haie vive de sureau eût la hau- <lb />teur et la force voulues pour don-
+                  <lb />ner, avec l'abri et la verdure, les <lb />fleurs, si chères aux abeilles.</p>
+               <p> Il y avait là maintenant six ruches <lb />bourdonnantes. </p>
+               <p> Autour, quelques champs de colza, <lb />d'œillettes, de sainfoin, de luzerne <lb />s'épanouirent au printemps nou- <lb />veau. Sur les bords du canal, les <lb />acacias, les
+                  marronniers, les tilleuls <lb />éclatèrent en floraison. Le long des <lb />routes, au revers des talus, foison- <lb />nèrent les fleurs sauvages : silènes, <lb />boutons d'or,
+                  liserons, campanules, <lb />serpolet. </p>
+               <figure>
+                  <caption> Œillette et sureau.</caption>
+                  <caption>L'œillette (1) est un pavot dont on extrait une huile comestible appelée huile d'œillette. — Les fleurs de sureau (2) sont employées en infusion pour provoquer la sueur.
+                  </caption>
+               </figure>
+               <p> Et voilà votre table servie ! butinez, amies abeilles ! </p>
+               <p> C'était le temps de la miellée, où l'apiculteur se ré- <lb />jouit. Suzette guettait les mouvements des six laborieuses <lb />républiques. Le va-et-vient, le brouhaha des ouvrières
+                  <lb />indiquait qu'au dedans le couvain prospérait. Elle épiait <lb />le moment où il faudrait mettre à leur service la science apportée de Paris. </p>
+               <p> Et c'est pourquoi, un dimanche matin, par le plus beau <lb />temps, elle se tenait en observation sous un petit ceri- <fw type="header"> APICULTURE. 405 </fw>
+                  <pb type="page" n="405" /> sier du jardin, tout chargé de ses fruits de corail* <gloss>Corail. Production marine en forme d'arbuste et de couleur rouge.</gloss>, et <lb />surveillait
+                  très attentivement la sortie des butineuses. </p>
+               <p> Pendant plusieurs heures, et à mesure que le soleil <lb />montait, ce furent des envolées, des départs sans trêve. <lb />Puis les sorties se firent plus rares, et, tout au
+                  contraire, <lb />le va-et-vient des rentrées augmenta. </p>
+               <p> Voilà l'instant ! Elle appela Jacques. Le nez en <lb />trompette de M. François se montra aussitôt. Mais les <lb />abords du rucher étaient absolument interdits à ce nez <lb />pour
+                  lequel on craignait quelque affaire plus fâcheuse <lb />encore que celle du cliquet de l'éteignoir à chandelle. </p>
+               <p> Jacques arriva à l'appel et, tout doucement, avec les <lb />plus grandes précautions, la sœur et le grand frère trans- <lb />portèrent la première ruche à cinq mètres de la place
+                  <lb />qu'elle occupait et la posèrent sur un support, préparé à <lb />l'avance. Puis ils atten- <lb />dirent. </p>
+               <figure type="sujets">
+                  <caption>1. — Jeune fille cueillant du ti- <lb />lleul. — 2. Fleur du tilleul. <lb />Le bois du tilleul est très <lb />employé en ébénisterie. Cueillez et conservez, les <lb />fleurs
+                     du tilleul ; elles vous serviront à faire des <lb />tisanes sudorifiques et à préparer des bains cal- <lb />mants pour les petits enfants. </caption>
+               </figure>
+               <p> Bientôt les butineuses, <lb />de retour, gagnèrent leur <lb />logis ; celles de la ruche <lb />déplacée cherchèrent le <lb />leur, restèrent un mo- <lb />ment à bourdonner sur
+                  <lb />place, et finalement, <lb />ne le trouvant pas, <lb />passèrent dans la ru- <lb />che la plus proche. </p>
+               <p> Les portières, car <lb />il y a là des portiè- <lb />res, les laissèrent entrer, les voyant char- <lb />gées de miel ; sans <lb />quoi, les étrangères <lb />eussent été reçues
+                  <lb />à coups d'aiguillon. </p>
+               <p> L'opération déli- <lb />cate du passage d’ou- <lb />vrières, d'une ruche dans une autre, avait réussi. <lb />Suzette poussa une exclamation de joie. </p>
+               <fw type="sig"> 23. </fw>
+               <fw type="header"> 406 SUZETTE. </fw>
+               <pb type="page" n="406" />
+            </div2>
+            <div2 type="questionnaire">
+               <head> Questionnaire. </head>
+               <list>
+                  <item>— Où Suzette avait-elle installé son rucher ?</item>
+                  <item>— Qu'est ce qui fournissait la nourriture des abeilles : 1° dans le voisinage des ruches ;</item>
+                  <item>— 2° aux alentours ?</item>
+                  <item>— Que faisait un jour Suzette au temps de la miellée ?</item>
+                  <item>— Où se tenait-elle un dimanche matin ?</item>
+                  <item>— Que vit-on pendant les premières<cb />heures ?</item>
+                  <item>— Qui appela-t-elle à son aide ?</item>
+                  <item>— Comment Jacques arriva-t-il ?</item>
+                  <item>— Quelle opération firent-ils ensemble ?</item>
+                  <item>— Que vit-on bientôt de la part des abeilles ?</item>
+                  <item>— Pourquoi les accueillit-on dans lus ruches voisines ?</item>
+                  <item>— Qu'est-ce que cela prouvait ?</item>
+               </list>
+            </div2>
+            <div2 type="exercices">
+               <head> DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES. </head>
+               <div3 type="sciences_naturelles">
+                  <head type="sujets"> Sciences naturelles. </head>
+                  <div4 type="questions">
+                     <list type="exercices">
+                        <item>— LE VENT.</item>
+                        <item>— Ce qu'est le vent.</item>
+                        <item>— Comment est le vent selon le point cardinal d'où il arrive ?</item>
+                        <item>— Services que rendent les vents.</item>
+                        <item>— Vitesse des vents.</item>
+                        <item>— Qu'entend-on par ouragan, trombes ?</item>
+                        <item>— Dites ce que vous vous rappelez sur les désastres causés par les trombes.</item>
+                     </list>
+                  </div4>
+                  <div4 type="réponses">
+                     <p>(Voir le développement de la 57e leçon pour ce qui concerne les trois premières questions.)</p>
+                     <p>Les <term>ouragans</term> ou <term>cyclones</term> sont de vastes tourbillons qui se forment <lb />dans l'atmosphère, et dans lesquels la force du vent augmente jusqu'à
+                        <lb />une certaine distance du contre. Un calme absolu règne dans la région <lb />centrale, sur mer, mais les flots y sont cependant horriblement agités. </p>
+                     <p>Autour de cet espace, l'air circule avec l'effrayante vitesse de 20 à <lb />240 kilomètres à l'heure, et décrit sur le globe un ovale immense ; <lb />malheur aux navires ou aux
+                        maisons, plantations, forêts qui se trouvent <lb />sur la route du terrible météore ! Le vent déchaîne soulève les vagues <lb />en montagnes colossales ; sur terre, il renverse
+                        tout, au milieu du bruit <lb />formidable du tonnerre qui gronde sans interruption.</p>
+                     <p>Une <term>trombe</term> est un phénomène analogue aux cyclones ; c’est un <lb />amas de vapeurs descendant des nuages sous la forme d'une colonne <lb />conique très allongée,
+                        touchant le sol par son extrémité la moins volu- <lb />mineuse, et qui tournoie avec rapidité en formant des ondulations comme <lb />un serpent gigantesque.</p>
+                     <p>Voici un exemple du spectacle que présente ce météore et des <lb />ravages qu'il commet : </p>
+                     <p>« Une nuée extrêmement épaisse et fort basse, poussée par un vent <lb />« du nord, couvrit la surface du sol sur lequel est placé le bourg de  <lb />« Mirabeau. Différents
+                        tourbillons se formèrent en même temps dans <lb />« cette masse noire chargée de vapeurs épaisses ; il en sortit de la <lb />« grêle ; le tonnerre se fit entendre ; les arbres
+                        et les haies furent <lb />« arrachés ; l'eau de la petite rivière de Mirabeau fut transportée à plus <lb />« de soixante pas de son lit, qui resta à sec ; pendant ce temps,
+                        deux <lb />« hommes qui se trouvèrent enveloppés dans un des tourbillons furent <lb />« portés assez loin sans qu'il leur arrivât rien de fâcheux. Un jeune <lb />« pâtre fut
+                        enlevé plus haut et rejeté au bord de la rivière sans que sa <lb />« chute fût violente ; le tourbillon qui l'avait emporté, le posa à l'endroit <lb />« où il cessa d'agir.
+                        Toute la fureur du météore se disipa dans l'espace <lb />« d'une lieue de longueur sur une demi-lieue de largeur. » (RICHARD, Histoire naturelle de l'air et des météores.)</p>
+                  </div4>
+               </div3>
+               <div3 type="sciences_naturelles">
+                  <head type="sujets">Sciences naturelles. </head>
+                  <div4 type="questions">
+                     <list type="exercices">
+                        <item>ESSAIMS D'ABEILLES.</item>
+                        <item>— Qu'entend-on par essaims ?</item>
+                        <item>— A quelle époque de l'année se forment-ils ?</item>
+                        <item>— Où se posent-ils ?</item>
+                        <item>— Comment sont-ils recueillis ? </item>
+                     </list>
+                  </div4>
+                  <div4 type="réponses">
+                     <p>On appelle essaim un groupe considérable d'abeilles qui, sous la <lb />conduite de la reine, abandonne la ruche pour fonder ailleurs une <lb />colonie nouvelle. Cette curieuse
+                        émigration a lieu aux mois de mai et <lb />de juin ; elle se renouvelle deux fois par an dans le Nord et jusqu'à <lb />quatre fois dans le Midi. </p>
+                     <fw type="header"> APICULTURE. 407 </fw>
+                     <pb type="page" n="407" />
+                     <p>A la suite d'une visite de la reine dans toutes les parties de la ruche, <lb />une agitation générale se manifeste, et une quantité d'abeilles, la reine <lb />en tête, se
+                        précipitent au dehors, formant une masse compacte qui se <lb />fixe sur une branche d'arbre et s'y tient immobile. </p>
+                     <p>C'est le moment où l’apiculteur doit s'emparer de l'essaim et lui <lb />offrir une ruche préparée à l'avance ; il pose au-dessous cette ruche <lb />renversée, imprime une
+                        secousse à l'arbre, dont l'essaim se détache et <lb />tombe. On transporte immédiatement la ruche au lieu où elle doit être <lb />installée ; on la place sur la pierre ou la
+                        planche formant support, et <lb />aussitôt les abeilles commencent leur travail fécond. </p>
+                  </div4>
+               </div3>
+               <div3 type="sciences_naturelles">
+                  <head type="sujets"> Agriculture. </head>
+                  <div4 type="questions">
+                     <list type="exercices">
+                        <item>— Que signifie le terme oléagineuse appliqué à certaines plantes ?</item>
+                        <item>— Nommez des plantes oléagineuses ;</item>
+                        <item>— des fruits oléagineux.</item>
+                        <item>— Dans quelles provinces de France cultive-t-on le plus le colza, l'œillette, le lin ?</item>
+                        <item>— Quel produit tire-t-on encore du lin ?</item>
+                        <item>— Décrire la fleur du lin.</item>
+                     </list>
+                  </div4>
+                  <div4 type="réponses">
+                     <p>Le terme <term>oléagineuse</term> appliqué à certaines plantes indique que l'on <lb />peut tirer de l'huile de ces plantes.</p>
+                     <p>Parmi les <term>plantes oléagineuses</term>, on citera l'œillette, le colza, la <lb />navette, et parmi les <term>fruits oléagineux</term>, la noix, l'olive, la faîne, la noi-
+                        <lb />sette. La graine du lin donne également de l'huile, ainsi que celle du <lb />chanvre. </p>
+                     <p>Le colza, l'œillette et le lin sont cultivés principalement dans la  <lb />région septentrionale de la France. On tire encore du lin une matière <lb />textile avec laquelle on
+                        fait des toiles estimées. Comme nous l'avons <lb />dit précédemment, le lin n'a pas les dimensions du chanvre ; sa tige  <lb />atteint à peine 50 à 60 centimètres, et elle
+                        porte au printemps une <lb />mignonne fleur bleue formée de cinq pétales réunis en clochette. </p>
+                  </div4>
+               </div3>
+               <div3 type="géographie">
+                  <head type="sujets"> Géographie. </head>
+                  <div4 type="questions">
+                     <list type="exercices">
+                        <item>— Qu'est-ce qu'un canal ?</item>
+                        <item>— Pourquoi creuse-t-on un canal ?</item>
+                        <item>— Que représente le profil d'un canal ?</item>
+                        <item>— A quoi servent les écluses ?</item>
+                        <item>— Donnez une idée de la disposition d'une écluse.</item>
+                        <item>— Citez lez principaux canaux de France.</item>
+                     </list>
+                  </div4>
+                  <div4 type="réponses">
+                     <p>Un <term>canal</term> est une sorte de rivière creusée de main d'homme, où l'eau <lb />reste immobile, et qui sert à faciliter le transport des marchandises  <lb />et des
+                        denrées encombrantes. Sur un canal, un cheval peut traîner 30 <lb />ou 40 fois plus que sur une route. </p>
+                     <p>On creuse un canal lorsqu'il n'existe pas de cours d'eau navigable <lb />entre deux villes ou deux régions qui ont entre elles des relations <lb />commerciales importantes.
+                        Comme l'eau ne doit pas couler dans le <lb />canal (car on ne saurait comment s'y prendre pour l'alimenter), on le <lb />forme de parties longues de 1 à 2 ou 3 kilomètres au
+                        maximum, qu'on <lb />appelle biez, et qui se trouvent respectivement les unes au-dessus ou <lb />au-dessous des autres de 7 à 8 mètres. </p>
+                     <p>Un canal, dans son profil, représente donc une sorte d'escalier à <lb />marches très longues qui s'élèvent successivement jusqu'au point le <lb />plus élevé séparant les
+                        lieux à mettre en communication, puis redes- <lb />cendant jusqu'au lieu terminal. </p>
+                     <p>Les <term>écluses</term> sont des fossés à bords perpendiculaires, solidement <lb />maçonnés, profonds de 7 à 8 mètres, et qui servent à faire commun- <lb />iquer deux biez
+                        entre eux. </p>
+                     <p>Toute écluse présente à chacune de ses deux extrémités une porte <lb />énorme. Voici comment le tout fonctionne. Supposons qu'il faille faire <lb />remonter un bateau du biez
+                        inférieur au biez supérieur : l'écluse est <lb />pleine d'eau ; on ouvre deux petites vannes à la partie la plus basse de <lb />la porte du biez inférieur ; l'écluse se vide
+                        rapidement et l'eau y des- <lb />cend au niveau du biez inférieur ; la chose achevée, on ouvre les portes <fw type="header"> 408 SUZETTE. </fw>
+                        <pb type="page" n="408" /> et le bateau est amené dans l'écluse. Les portes étant formées, on <lb />lève les vannes de la porte supérieure ; l'écluse se remplit et bientôt 
+                        <lb />le bateau est au niveau du biez où il doit entrer. La porte supérieure <lb />est alors ouverte, et le bateau pénètre sans difficulté dans le biez en question. </p>
+                     <p>Les principaux canaux de Franco sont ceux de la région de la Flandre, <lb />le canal de Saint-Quentin, celui de la Marne au Rhin, du Rhône  <lb />au Rhin, de Bourgogne, de
+                        Briare, du Centre, de Nantes à Brest, du Ni- <lb />vernais, du Midi. </p>
+                  </div4>
+               </div3>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI>

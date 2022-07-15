@@ -73,7 +73,7 @@
    </teiHeader>
    <text>
       <body>
-         <div1 type="chapitre" n="123">
+         <div1 type="chapitre" xml:lang="fr" n="123">
             <head>123. — Un début. (Élève, p. 200.)</head>
             <div2 type="récit">
                <p>Par un chemin creux, tout fleuri de serpolet, charrue <lb />et laboureurs débusquèrent dans une parcelle bien <fw type="footer">(1) Durée de la digestion de quelques aliments : 1°
@@ -136,7 +136,7 @@
             <div2 type="exercices">
                <head>DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES.</head>
                <div3 type="composition">
-                  <head>Composition.</head>
+                  <head type="sujets">Composition.</head>
                   <div4 type="questions">
                      <list>
                         <item>— Décrire, d&apos;après l&apos;image, une scène de labour. </item>
@@ -150,7 +150,7 @@
                   <fw>UN DÉBUT. 433 </fw>
                </div3>
                <div3 type="industrie">
-                  <head>Industrie.</head>
+                  <head type="sujets">Industrie.</head>
                   <div4 type="questions">
                      <list>
                         <item>— UNE CHARRUE </item>
@@ -174,7 +174,7 @@
                   </div4>
                </div3>
                <div3 type="géographie" subtype="france">
-                  <head>Géographie.</head>
+                  <head type="sujets">Géographie.</head>
                   <div4 type="questions">
                      <list>
                         <item>— Nommer les régions de la France oú l&apos;on élève <lb />les meilleures races de chevaux.</item>
@@ -191,7 +191,7 @@
                   </div4>
                </div3>
                <div3 type="sciences_naturelles">
-                  <head>Agriculture.</head>
+                  <head type="sujets">Agriculture.</head>
                   <div4 type="questions">
                      <list>
                         <item>— Quelle est la meilleure manière de semer les grains ?</item>

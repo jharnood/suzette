@@ -73,18 +73,21 @@
    </teiHeader>
    <text>
       <body>
-         <div1 type="chapitre" n="142">
+         <div1 type="chapitre" xml:lang="fr" n="142">
             <pb type="page" n="508" />
             <head>142. — Un sauvetage. (Élève, p. 307.)</head>
             <div2 type="récit">
                <p>Encore une fois la terre avait parcouru le long che- <lb />min qui la mène du noir hiver au gai printemps. Le <lb />soleil avait reparu, le bon et adoucissant soleil. Et devant
-                  <lb />lui fuyait la grande misère du village. Grâce à une <lb />reprise du travail, les salaires se relevaient et les mé- <lb />nagères, entreprises par <persName type="fictif" key="mme_valon">Mme Valon</persName> et <persName type="fictif" key="suzette">Suzette</persName>, com-
-                  <lb />mençaient à mettre en commun leurs dépenses et se <lb />réjouissaient de voir la maisonnée manger plus et <lb />mieux, à moins de frais.</p>
-               <p>Les gazons étaient pleins de fleurs, les arbres de <lb />chansons ; l&apos;abeille reprenait ses courses à travers <lb />prés et vallons, et <persName type="fictif" key="suzette">Suzette</persName> voltigeait aussi, ce jour-là,
-                  <lb />de fleur en fleur, dans son jardin. De roses de mai, de <lb />petits œillets blancs, de narcisses, de pervenches elle <lb />composait de ces jolis bouquets qu&apos;aimaient
-                  tant les <lb />belles dames de Saint-Quentin : c&apos;était demain samedi, <lb />et on l&apos;attendait au marché.</p>
-               <p>Elle tournait le fil autour des tiges d&apos;un paquet d&apos;œil- <lb />lets blancs, lorsque son père parut, en compagnie de <lb /><persName type="fictif" key="m_cartier">M. Cartier</persName>, le fermier du Bois-Maillard.</p>
-               <p>— Hé ! <persName type="fictif" key="suzette">Suzette</persName>, voilà <persName type="fictif" key="m_cartier">M. Cartier</persName> qui nous apporte des <lb />nouvelles... des nouvelles de la Martinique ! </p>
+                  <lb />lui fuyait la grande misère du village. Grâce à une <lb />reprise du travail, les salaires se relevaient et les mé- <lb />nagères, entreprises par <persName type="fictif"
+                     key="mme_valon">Mme Valon</persName> et <persName type="fictif" key="suzette">Suzette</persName>, com- <lb />mençaient à mettre en commun leurs dépenses et se <lb />réjouissaient
+                  de voir la maisonnée manger plus et <lb />mieux, à moins de frais.</p>
+               <p>Les gazons étaient pleins de fleurs, les arbres de <lb />chansons ; l&apos;abeille reprenait ses courses à travers <lb />prés et vallons, et <persName type="fictif" key="suzette"
+                     >Suzette</persName> voltigeait aussi, ce jour-là, <lb />de fleur en fleur, dans son jardin. De roses de mai, de <lb />petits œillets blancs, de narcisses, de pervenches elle
+                  <lb />composait de ces jolis bouquets qu&apos;aimaient tant les <lb />belles dames de Saint-Quentin : c&apos;était demain samedi, <lb />et on l&apos;attendait au marché.</p>
+               <p>Elle tournait le fil autour des tiges d&apos;un paquet d&apos;œil- <lb />lets blancs, lorsque son père parut, en compagnie de <lb /><persName type="fictif" key="m_cartier">M.
+                     Cartier</persName>, le fermier du Bois-Maillard.</p>
+               <p>— Hé ! <persName type="fictif" key="suzette">Suzette</persName>, voilà <persName type="fictif" key="m_cartier">M. Cartier</persName> qui nous apporte des <lb />nouvelles... des
+                  nouvelles de la Martinique ! </p>
                <p>—De la Martinique, Monsieur ? </p>
                <p>— Oui, Mademoiselle, de la Martinique... d&apos;où pour- <lb />tant je ne viens pas. Je n&apos;arrive que de Cherbourg. <lb />Et ouvrant un journal qu&apos;il tenait à la main : —
                   Voici un <lb />journal, Les Colonies, qui m&apos;est tombé sous les yeux dans <lb />une auberge.</p>
@@ -141,7 +144,7 @@
             <div2 type="exercices">
                <head>DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES.</head>
                <div3 type="morale">
-                  <head>Morale.</head>
+                  <head type="sujets">Morale.</head>
                   <div4 type="questions">
                      <list>
                         <item>— DÉVOUEMENT.</item>
@@ -169,7 +172,7 @@
                   </div4>
                </div3>
                <div3 type="composition">
-                  <head>Composition.</head>
+                  <head type="sujets">Composition.</head>
                   <div4 type="questions">
                      <list>
                         <item> — Décrire soit votre jardin, soit celui d&apos;un voisin, <pb type="page" n="511" />
@@ -181,7 +184,7 @@
                   </div4>
                </div3>
                <div3 type="sciences_naturelles">
-                  <head>Sciences naturelles.</head>
+                  <head type="sujets">Sciences naturelles.</head>
                   <div4 type="questions">
                      <list>
                         <item>— LES FLEURS.</item>
@@ -201,7 +204,7 @@
                   </div4>
                </div3>
                <div3 type="géographie">
-                  <head>Géographie.</head>
+                  <head type="sujets">Géographie.</head>
                   <div4 type="questions">
                      <list>
                         <item>— Qu&apos;appelle-t-on marées ? </item>
