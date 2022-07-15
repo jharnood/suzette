@@ -73,7 +73,7 @@
    </teiHeader>
    <text>
       <body>
-         <div1 type="chapitre" n="ch008">
+         <div1 type="chapitre" xml:lang="fr" n="ch008">
             <head> 8. — Tenons bon ! (Élève, p. 20.) </head>
             <pb type="page" n="26" />
             <div2 type="récit">
