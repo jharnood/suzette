@@ -144,7 +144,7 @@
                                 <item>— Facilités qu'on trouve à le nourrir. </item>
                                 <item>— Détails sur ta manière de le nourrir; les porchers.</item>
                                 <item>— Parler du porc sauvage ou sanglier.</item>
-                                <item>— Rappeler qu'aux <placeName type="réel"><bloc ref="amérique_nord"><country>Etats-Unis</country></bloc></placeName>, dans l'État d'Illinois, on élève des porcs en nombre prodigieux.</item>
+                                <item>— Rappeler qu'aux <placeName type="réel"><bloc ref="amérique_nord"><country ref="états-unis">Etats-Unis</country></bloc></placeName>, dans l'État d'<placeName type="réel"><bloc ref="amérique_nord"><country ref="états-unis">Illinois</country></bloc></placeName>, on élève des porcs en nombre prodigieux.</item>
                             </list>
                         </div4>
                         <div4 type="réponses">
@@ -160,8 +160,8 @@
                                 <lb/>l'orge, le sarrasin, les carottes et les débris de la cuisine. Dans les 
                                 <lb/>pays montagneux où la terre a peu de valeur, les porchers mènent 
                                 <lb/>paître ces animaux, réunis en bandes, sur les friches et les chaumes. 
-                                <lb/>Aux Etats-Unis, on élève les porcs en nombre prodigieux; la ville 
-                                <lb/>de Chicago et celle de Cincinnati en exportent plus d'un million par an. 
+                                <lb/>Aux <placeName type="réel"><bloc ref="amérique_nord"><country ref="états-unis">Etats-Unis</country></bloc></placeName>, on élève les porcs en nombre prodigieux; la ville 
+                                <lb/>de <placeName type="réel"><bloc ref="amérique_nord"><country ref="états-unis"><settlement ref="chicago">Chicago</settlement></country></bloc></placeName> et celle de <placeName type="réel"><bloc ref="amérique_nord"><country ref="états-unis"><settlement ref="cincinnati">Cincinnati</settlement></country></bloc></placeName> en exportent plus d'un million par an. 
                                 <lb/>Le porc vit, à l'état sauvage, dans les bois et les forêts, sous le nom 
                                 <lb/>de sangtier : c'est un animal dangereux et malfaisant, qui dévaste les 
                                 <lb/>terres cultivées voisines des bois et des forêts où il établit son gîte.</p>
@@ -201,7 +201,8 @@
                             <list>
                                 <item>— Indiquer comment on utilise la chair, le sang, la graisse du porc.</item>
                                 <item>— De quelle manière prépare-t-on un rôti en général? </item>
-                                <item>— Garniture d'un rôti. — Manière de le servir et de le découper.</item>
+                                <item>— Garniture d'un rôti. </item>
+                                <item>— Manière de le servir et de le découper.</item>
                             </list>
                         </div4>
                         <div4 type="réponses">
