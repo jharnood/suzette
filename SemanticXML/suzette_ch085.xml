@@ -102,11 +102,11 @@
 					<list>
 						<item>— Combien s&apos;est-il écoulé d&apos;années avant que l&apos;idée de <persName type="historique">Papin</persName> fût de nouveau réalisée ? </item>
 						<item>— Racontez ce que vous savez de <persName type="historique">Fulton</persName> et deson expérience sur la <geogFeat type="fleuve">Seine</geogFeat>. </item>
-						<item>— Pourquoi <persName type="historique">Bonaparte</persName> n&apos;encouragea-t-il pas <persName type="historique">Fulton</persName ?</item>
+						<item>— Pourquoi <persName type="historique">Bonaparte</persName> n&apos;encouragea-t-il pas <persName type="historique">Fulton</persName> ? </item>
 						<item>— Que fit l&apos;inventeur après être retourné en <placeName>Amérique</placeName> ? </item>
 						<item>— Racontez l&apos;expérience qu&apos;il tenta sur l&apos;<geogFeat type="fleuve">Hudson</geogFeat>. </item>
 						<item>— Que fit un homme moins timide que les autres ? </item>
-							<item>— Quel accueil reçut enfin la découverte de <persName type="historique">Fulton</persName ? </item>
+							<item>— Quel accueil reçut enfin la découverte de <persName type="historique">Fulton</persName> ? </item>
 						<item>— Quels services rend aujourd&apos;hui la navigation à vapeur ?</item>
 					</list>
 				</div2>
@@ -161,7 +161,7 @@
 						</div4>
 						<div4 type="réponses">
 							<p>Les <placeName>États-Unis</placeName> de l&apos;<placeName>Amérique du Nord</placeName> s&apos;étendent sur un territoire <lb />presque aussi vaste que la vieille <placeName>Europe</placeName>. Au nord, ils ont pour bornes la
-								<lb /><placeName>Nouvelle-Bretagne</placeName> et le <placeName>Canada</placeName> ; à l&apos;est, l&apos;océan <geogFeat type="océan">Atlantique</geogFeat> ; au sud, <lb /><geogFeat type="">le golf</geogFeat>e et l&apos;Etat du <placeName>Mexique</placeName> ; à l&apos;ouest, l&apos;océan
+								<lb /><placeName>Nouvelle-Bretagne</placeName> et le <placeName>Canada</placeName> ; à l&apos;est, l&apos;océan <geogFeat type="océan">Atlantique</geogFeat> ; au sud, <lb /><geogFeat>le golf</geogFeat>e et l&apos;Etat du <placeName>Mexique</placeName> ; à l&apos;ouest, l&apos;océan
 								<geogFeat type="océan">Pacifique</geogFeat>. La popu- <lb />lation, qui atteignait à peine 5 ou 6 millions d&apos;habitants, il y a un <lb />siècle, dépasse aujourd&apos;hui 60 millions, dont 6 à 7
 								millions de nègres.</p>
 							<p>Le sol y est d&apos;une fertilité prodigieuse et produit en abondance le <lb />blé, le maïs, le coton, le tabac, le vin, le bois ; il nourrit des troupes
@@ -170,7 +170,7 @@
 							<pb type="page" n="295" />
 							<fw>PEINTURE. 295 </fw>
 							<p>Des fleuves considérables arrosent ce magnifique territoire : nous <lb />nommerons l&apos;<geogFeat type="fleuve">Hudson</geogFeat>, <geogFeat type="fleuve">le Delaware</geogFeat>, la <geogFeat type="fleuve">Susquehannah</geogFeat>, l&apos;immense <geogFeat type="fleuve">Mis- <lb />sissipi</geogFeat>, qui
-								reçoit le <geogFeat type="rivière">Missouri</geogFeat>, l&apos;<geogFeat type="rivière"Ohio,/>, l&apos;<geogFeat type="rivière"Arkansas</geogFeat>. N&apos;oublions pas les <lb />lacs qui s&apos;étendent au nord et qui sont connns sous les noms de <geogFeat type="lac">Supé- <lb />rieur</geogFeat>,
+								reçoit le <geogFeat type="rivière">Missouri</geogFeat>, l&apos;<geogFeat type="rivière">Ohio</geogFeat>, l&apos;<geogFeat type="rivière">Arkansas</geogFeat>. N&apos;oublions pas les <lb />lacs qui s&apos;étendent au nord et qui sont connns sous les noms de <geogFeat type="lac">Supé- <lb />rieur</geogFeat>,
 								<geogFeat type="lac">Michigan</geogFeat>, <geogFeat type="lac">Huron</geogFeat>, <geogFeat type="lac">Erié</geogFeat>, <geogFeat type="lac">Ontario</geogFeat>. C&apos;est entre ces deux derniers <lb />que se trouve la fameuse cataracte du <geogFeat>Niagara</geogFeat>.</p>
 							<p>Des villes nombreuses y ont été fondées et elles s&apos;accroissent avec <lb />une rapidité inconcevable : ce sont, la plupart, des centres industriels <lb />et
 								commerciaux très importants. Parmi elles, il faut citer : <placeName>New-York</placeName> <lb />(1, 200,000 hab.), <placeName>Philadelphie</placeName> (900,000) <placeName>Boston</placeName> (320,000) <placeName>Pittsburg</placeName> <lb />(200,000),
