@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?><TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-	<teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title type="main">Suzette: a Digital Edition</title>
@@ -225,157 +226,87 @@
 							<list>
 								<item>— Qu'entend-on par le midi de la <placeName><bloc ref="europe"><country ref="france">France</country></bloc></placeName> ? </item>
 								<item>— Quelles provinces comprend cette région ? </item>
-<<<<<<< HEAD
-								<item>— Quelles montagnes, quels cours d&apos;eau y remarque-t-on ? </item>
-								<item>— Que savez-vous d&apos;<placeName><bloc><country><settlement>Arles</settlement></country></bloc></placeName>,
-													d&apos;<placeName><bloc><country><settlement>Aix</settlement></country></bloc></placeName>, de <placeName><bloc ref="europe"><country ref="france"
-													><settlement>Marseille</settlement></country></bloc></placeName>, de <placeName><bloc ref="europe"><country ref="france"
-													><settlement>Toulouse</settlement></country></bloc></placeName>, de <placeName><bloc ref="europe"><country ref="france"
-													><settlement>Montauban</settlement></country></bloc></placeName>, de <placeName><bloc ref="europe"><country ref="france"
-													><settlement>Pau</settlement></country></bloc></placeName>, de <placeName><bloc ref="europe"><country ref="france"
-												><settlement>Bordeaux</settlement></country></bloc></placeName> ? </item>
-=======
 								<item>— Quelles montagnes, quels cours d'eau y remarque-t-on ? </item>
 								<item>— Que savez-vous d'<placeName><bloc><country><settlement>Arles</settlement></country></bloc></placeName>,
 													d'<placeName><bloc><country><settlement>Aix</settlement></country></bloc></placeName>, de <placeName><bloc ref="europe"><country ref="france"><settlement>Marseille</settlement></country></bloc></placeName>, de <placeName><bloc ref="europe"><country ref="france"><settlement>Toulouse</settlement></country></bloc></placeName>, de <placeName><bloc ref="europe"><country ref="france"><settlement>Montauban</settlement></country></bloc></placeName>, de <placeName><bloc ref="europe"><country ref="france"><settlement>Pau</settlement></country></bloc></placeName>, de <placeName><bloc ref="europe"><country ref="france"><settlement>Bordeaux</settlement></country></bloc></placeName> ? </item>
->>>>>>> 9e11dce0928e29a5361a8568fda5bb2642a852f8
 								<item>— Quels produits sont parliculiers au <placeName>Midi</placeName> ?</item>
 							</list>
 						</div4>
 						<div4 type="réponses">
-<<<<<<< HEAD
-							<p>Le <placeName>Midi</placeName> est cette région de la <placeName>France</placeName> qui comprend le bassin de la <lb /><geogFeat type="fleuve">Garonne</geogFeat>, de l&apos;<geogFeat type="rivière">Adour</geogFeat>, du <geogFeat type="rivière">Têt</geogFeat>, de l&apos;<geogFeat type="rivière">Aude</geogFeat>, de l&apos;<geogFeat type="rivière">Hérault</geogFeat>, du <geogFeat type="rivière">Gard</geogFeat> et de <lb />la
-								<geogFeat type="rivière">Durance</geogFeat>, y compris le littoral de la <geogFeat type="mer">Méditerranée</geogFeat>. Les <geogFeat type="montagne">Pyrénées</geogFeat> la <lb />séparent de l&apos;<placeName>Espagne</placeName>.</p>
-							<p>La <placeName>Gascogne</placeName>, la <placeName>Guyenne</placeName>, le <placeName>Béarn</placeName>, le <placeName>comté de Foix</placeName>, le <placeName>Roussillon</placeName>, <lb />la partie méridionale du <placeName>Languedoc</placeName>, le <placeName>comtat d&apos;Avignon</placeName>, la Provence <lb />et le comté de
+							<p>Le <placeName>Midi</placeName> est cette région de la <placeName>France</placeName> qui comprend le bassin de la <lb /><geogFeat type="fleuve">Garonne</geogFeat>, de '<geogFeat type="rivière">Adour</geogFeat>, du <geogFeat type="rivière">Têt</geogFeat>, de '<geogFeat type="rivière">Aude</geogFeat>, de '<geogFeat type="rivière">Hérault</geogFeat>, du <geogFeat type="rivière">Gard</geogFeat> et de <lb />la
+								<geogFeat type="rivière">Durance</geogFeat>, y compris le littoral de la <geogFeat type="mer">Méditerranée</geogFeat>. Les <geogFeat type="montagne">Pyrénées</geogFeat> la <lb />séparent de '<placeName>Espagne</placeName>.</p>
+							<p>La <placeName>Gascogne</placeName>, la <placeName>Guyenne</placeName>, le <placeName>Béarn</placeName>, le <placeName>comté de Foix</placeName>, le <placeName>Roussillon</placeName>, <lb />la partie méridionale du <placeName>Languedoc</placeName>, le <placeName>comtat d'Avignon</placeName>, la Provence <lb />et le comté de
 								<placeName>Nice</placeName> sont les provinces du midi de la <placeName>France</placeName>.</p>
-							<p>Les <geogFeat type="montagne">monts d&apos;<placeName>Auvergne</placeName></geogFeat> et les <geogFeat type="montagne">Cévennes</geogFeat> le couvrent au nord, les <geogFeat type="montagne">Py- <lb />rénées</geogFeat> au sud et les <geogFeat type="montagne">Alpes</geogFeat> à l&apos;est. Il est arrosé par la <geogFeat type="fleuve">Garonne</geogFeat> qui <lb />reçoit
-								l&apos;<geogFeat type="rivière">Ariège</geogFeat>, le <geogFeat type="rivière">Tarn</geogFeat>, le <geogFeat type="rivière">Lot</geogFeat>, la <geogFeat type="fleuve">Dordogne</geogFeat> grossie de l&apos;<geogFeat type="rivière">Isle</geogFeat>, enfin le <lb /><geogFeat type="rivière">Gers</geogFeat>, puis par l&apos;<geogFeat type="rivière">Adour</geogFeat>, le <geogFeat type="rivière">Têt</geogFeat>, l&apos;<geogFeat type="rivière">Aude</geogFeat>, l&apos;<geogFeat type="rivière">Hérault</geogFeat>, le <geogFeat type="rivière">Gard</geogFeat>, le <geogFeat type="fleuve">Rhône</geogFeat>
-								grossi <lb />de la <geogFeat type="rivière">Durance</geogFeat>, l&apos;<geogFeat type="rivière">Agout</geogFeat> et le <geogFeat type="rivière">Var</geogFeat>.</p>
-							<p>C&apos;est une région fertile, pittoresque, habitée par une race intelli- <lb />gente, vive, entreprenante, apte au commerce et aux œuvres d&apos;art. On <lb />y parle,
-								avec le français, une langue particulière qui a beaucoup de <lb />rapport avec l&apos;espagnol et l&apos;italien ; ce fut autrefois celle des trou- <lb />badours.</p>
-							<p><placeName>Arles</placeName> (24,000 hab.), la première colonie fondée dans les Gaules par les <lb />Romains ; elle en fut la capitale vers la fin de l&apos;empire, puis celle du <lb />royaume
+							<p>Les <geogFeat type="montagne">monts d'<placeName>Auvergne</placeName></geogFeat> et les <geogFeat type="montagne">Cévennes</geogFeat> le couvrent au nord, les <geogFeat type="montagne">Py- <lb />rénées</geogFeat> au sud et les <geogFeat type="montagne">Alpes</geogFeat> à 'est. Il est arrosé par la <geogFeat type="fleuve">Garonne</geogFeat> qui <lb />reçoit
+								'<geogFeat type="rivière">Ariège</geogFeat>, le <geogFeat type="rivière">Tarn</geogFeat>, le <geogFeat type="rivière">Lot</geogFeat>, la <geogFeat type="fleuve">Dordogne</geogFeat> grossie de '<geogFeat type="rivière">Isle</geogFeat>, enfin le <lb /><geogFeat type="rivière">Gers</geogFeat>, puis par '<geogFeat type="rivière">Adour</geogFeat>, le <geogFeat type="rivière">Têt</geogFeat>, '<geogFeat type="rivière">Aude</geogFeat>, '<geogFeat type="rivière">Hérault</geogFeat>, le <geogFeat type="rivière">Gard</geogFeat>, le <geogFeat type="fleuve">Rhône</geogFeat>
+								grossi <lb />de la <geogFeat type="rivière">Durance</geogFeat>, '<geogFeat type="rivière">Agout</geogFeat> et le <geogFeat type="rivière">Var</geogFeat>.</p>
+							<p>C'est une région fertile, pittoresque, habitée par une race intelli- <lb />gente, vive, entreprenante, apte au commerce et aux œuvres d'art. On <lb />y parle,
+								avec le français, une langue particulière qui a beaucoup de <lb />rapport avec 'espagnol et 'italien ; ce fut autrefois celle des trou- <lb />badours.</p>
+							<p><placeName>Arles</placeName> (24,000 hab.), la première colonie fondée dans les Gaules par les <lb />Romains ; elle en fut la capitale vers la fin de 'empire, puis celle du <lb />royaume
 								de Provence en 855. Belles ruines romaines ; remarquable <lb />musée. Les Arlésiennes sont renommées pour leur beauté.</p>
 							<p><placeName>Aix</placeName> (29,000 hab.), fondée par les Romains, qui en appréciaient les eaux <lb />thermales ; ville savante, ancienne capitale de la <placeName>Provence</placeName> ; entrepôt <lb />des denrées de
 								la région.</p>
 							<p><placeName>Marseille</placeName> (320,000 hab.), la plus grande ville du <placeName>Midi</placeName>, fondée il y a <lb />vingt-six siècles par les Phocéens, possède un excellent port considé- <lb />rablement
-								agrandi depuis 1852. C&apos;est un centre industriel pour la fabri- <lb />cation du savon, les raffineries de sucre, et un entrepôt pour les <lb />denrées de
-								l&apos;<placeName>Asie</placeName> et de l&apos;<placeName>Afrique</placeName>, les salaisons, les huiles, les vins <lb />d&apos;<placeName>Algérie</placeName> et d&apos;<placeName>Espagne</placeName>. Son port reçoit de 17,000 à 18,000 navires par <lb />an et
+								agrandi depuis 1852. C'est un centre industriel pour la fabri- <lb />cation du savon, les raffineries de sucre, et un entrepôt pour les <lb />denrées de
+								'<placeName>Asie</placeName> et de '<placeName>Afrique</placeName>, les salaisons, les huiles, les vins <lb />d'<placeName>Algérie</placeName> et d'<placeName>Espagne</placeName>. Son port reçoit de 17,000 à 18,000 navires par <lb />an et
 								son commerce roule sur un chiffre de près de deux milliards. <lb />Un canal y amène les eaux de la <geogFeat type="rivière">Durance</geogFeat>.</p>
 							<pb type="page" n="301" />
 							<fw>PEINTURE. 301</fw>
-							<p><placeName>Toulouse</placeName> (125,000 hab.), l&apos;une des villes les plus anciennes de la <placeName>Gaule</placeName> <lb />et l&apos;ancienne capitale du royaume des Visigoths, est la sixième ville <lb />de
-								<placeName>France</placeName> par sa population. Entrepôt de toutes les denrées de la <lb />plaine garonnaise, cette ville est très commerçante ; son plus bel édifice <lb />est l&apos;<placeName>église
+							<p><placeName>Toulouse</placeName> (125,000 hab.), 'une des villes les plus anciennes de la <placeName>Gaule</placeName> <lb />et 'ancienne capitale du royaume des Visigoths, est la sixième ville <lb />de
+								<placeName>France</placeName> par sa population. Entrepôt de toutes les denrées de la <lb />plaine garonnaise, cette ville est très commerçante ; son plus bel édifice <lb />est '<placeName>église
 								Saint-Sernin</placeName>.</p>
-							<p><placeName>Montauban</placeName> (26,000 hab.)se présente majestueusement sur la rive du <lb /><geogFeat type="rivière">Tarn</geogFeat>, qu&apos;on traverse sur l&apos;un des plus beaux ponts de France bâti <lb />au quatorzième
-								siècle. Elle possède d&apos;importantes manufactures de toile à <lb />bluter, de laines communes et d&apos;étoffes diverses, des moulins, des, <lb />tanneries, des
-								fabriques de faience. Riche bibliothèque et musée remar- <lb />quable. Cette ville a joué un rôle important à l&apos;époque des guerres de <lb />religion.</p>
-							<p><placeName>Pau</placeName> (28, 000 hab.) s&apos;élève sur le bord d&apos;une terrasse d&apos;où l&apos;on con- <lb />temple le magnifique horizon des <geogFeat type="montagne">Pyrénées</geogFeat> ; le climat y est favorable
+							<p><placeName>Montauban</placeName> (26,000 hab.)se présente majestueusement sur la rive du <lb /><geogFeat type="rivière">Tarn</geogFeat>, qu'on traverse sur 'un des plus beaux ponts de France bâti <lb />au quatorzième
+								siècle. Elle possède d'importantes manufactures de toile à <lb />bluter, de laines communes et d'étoffes diverses, des moulins, des, <lb />tanneries, des
+								fabriques de faience. Riche bibliothèque et musée remar- <lb />quable. Cette ville a joué un rôle important à 'époque des guerres de <lb />religion.</p>
+							<p><placeName>Pau</placeName> (28, 000 hab.) s'élève sur le bord d'une terrasse d'où 'on con- <lb />temple le magnifique horizon des <geogFeat type="montagne">Pyrénées</geogFeat> ; le climat y est favorable
 								<lb />aux maladies de poitrine. On y remarque un beau château historique <lb />où naquit <persName type="historique">Henri IV</persName>.</p>
-							<p><placeName>Bordeaux</placeName> (195,000 hab.), sur la rive gauche de la <geogFeat type="fleuve">Garonne</geogFeat> qu&apos;on y tra- <lb />verse sur deux ponts de plus de 500 mêtres de longueur. Peu de cités <lb />présentent
-								un aspect plus grandiose : c&apos;était, sous les Gaulois et sous <lb />les Romains, une ville considérable, centre de commerce, siège d&apos;aca- <lb />démies et
-								rendez-vous d&apos;orateurs. On y remarque un port fréquenté <lb />d&apos;où partent les paquebots transatlantiques à destination du Sénégai et <lb />de l&apos;<placeName>Amérique</placeName>
+							<p><placeName>Bordeaux</placeName> (195,000 hab.), sur la rive gauche de la <geogFeat type="fleuve">Garonne</geogFeat> qu'on y tra- <lb />verse sur deux ponts de plus de 500 mêtres de longueur. Peu de cités <lb />présentent
+								un aspect plus grandiose : c'était, sous les Gaulois et sous <lb />les Romains, une ville considérable, centre de commerce, siège d'aca- <lb />démies et
+								rendez-vous d'orateurs. On y remarque un port fréquenté <lb />d'où partent les paquebots transatlantiques à destination du Sénégai et <lb />de '<placeName>Amérique</placeName>
 								du Sud. <placeName>Bordeaux</placeName> possède de beaux édifices religieux, <lb />un théâtre monumental et de superbes promenades. Les vins de la <lb />région dont cette ville est le centre,
-								sont célèbres dans le monde entier, <lb />et l&apos;on en exporte annuellement de 1,100,000 à 1,200,000 hectolitres.</p>
-=======
-							<p>Le Midi est cette région de la France qui comprend le bassin de la <lb/>Garonne, de l'Adour, du Têt, de l'Aude, de l'Hérault, du Gard et de <lb/>la
-								Durance, y compris le littoral de la Méditerranée. Les Pyrénées la <lb/>séparent de l'Espagne.</p>
-							<p>La Gascogne, la Guyenne, le Béarn, le comté de Foix, le Roussillon, <lb/>la partie méridionale du Languedoc, le comtat d'Avignon, la Provence <lb/>et le comté de
-								Nice sont les provinces du midi de la France.</p>
-							<p>Les monts d'Auvergne et les Cévennes le couvrent au nord, les Py- <lb/>rénées au sud et les Alpes à l'est. Il est arrosé par la Garonne qui <lb/>reçoit
-								l'Ariège, le Tarn, le Lot, la Dordogne grossie de l'Isle, enfin le <lb/>Gers, puis par l'Adour, le Têt, l'Aude, l'Hérault, le Gard, le Rhône
-								grossi <lb/>de la Durance, l'Agout et le Var.</p>
-							<p>C'est une région fertile, pittoresque, habitée par une race intelli- <lb/>gente, vive, entreprenante, apte au commerce et aux œuvres d'art. On <lb/>y parle,
-								avec le français, une langue particulière qui a beaucoup de <lb/>rapport avec l'espagnol et l'italien ; ce fut autrefois celle des trou- <lb/>badours.</p>
-							<p>Arles (24,000 hab.), la première colonie fondée dans les Gaules par les <lb/>Romains ; elle en fut la capitale vers la fin de l'empire, puis celle du <lb/>royaume
-								de Provence en 855. Belles ruines romaines ; remarquable <lb/>musée. Les Arlésiennes sont renommées pour leur beauté.</p>
-							<p>Aix (29,000 hab.), fondée par les Romains, qui en appréciaient les eaux <lb/>thermales ; ville savante, ancienne capitale de la Provence ; entrepôt <lb/>des denrées de
-								la région.</p>
-							<p>Marseille (320,000 hab.), la plus grande ville du Midi, fondée il y a <lb/>vingt-six siècles par les Phocéens, possède un excellent port considé- <lb/>rablement
-								agrandi depuis 1852. C'est un centre industriel pour la fabri- <lb/>cation du savon, les raffineries de sucre, et un entrepôt pour les <lb/>denrées de
-								l'Asie et de l'Afrique, les salaisons, les huiles, les vins <lb/>d'Algérie et d'Espagne. Son port reçoit de 17,000 à 18,000 navires par <lb/>an et
-								son commerce roule sur un chiffre de près de deux milliards. <lb/>Un canal y amène les eaux de la Durance.</p>
-							<pb type="page" n="301"/>
-							<fw>PEINTURE. 301</fw>
-							<p>Toulouse (125,000 hab.), l'une des villes les plus anciennes de la Gaule <lb/>et l'ancienne capitale du royaume des Visigoths, est la sixième ville <lb/>de
-								France par sa population. Entrepôt de toutes les denrées de la <lb/>plaine garonnaise, cette ville est très commerçante ; son plus bel édifice <lb/>est l'église
-								Saint-Sernin.</p>
-							<p>Montauban (26,000 hab.)se présente majestueusement sur la rive du <lb/>Tarn, qu'on traverse sur l'un des plus beaux ponts de France bâti <lb/>au quatorzième
-								siècle. Elle possède d'importantes manufactures de toile à <lb/>bluter, de laines communes et d'étoffes diverses, des moulins, des, <lb/>tanneries, des
-								fabriques de faience. Riche bibliothèque et musée remar- <lb/>quable. Cette ville a joué un rôle important à l'époque des guerres de <lb/>religion.</p>
-							<p>Pau (28, 000 hab.) s'élève sur le bord d'une terrasse d'où l'on con- <lb/>temple le magnifique horizon des Pyrénées ; le climat y est favorable
-								<lb/>aux maladies de poitrine. On y remarque un beau château historique <lb/>où naquit Henri IV.</p>
-							<p>Bordeaux (195,000 hab.), sur la rive gauche de la Garonne qu'on y tra- <lb/>verse sur deux ponts de plus de 500 mêtres de longueur. Peu de cités <lb/>présentent
-								un aspect plus grandiose : c'était, sous les Gaulois et sous <lb/>les Romains, une ville considérable, centre de commerce, siège d'aca- <lb/>démies et
-								rendez-vous d'orateurs. On y remarque un port fréquenté <lb/>d'où partent les paquebots transatlantiques à destination du Sénégai et <lb/>de l'Amérique
-								du Sud. Bordeaux possède de beaux édifices religieux, <lb/>un théâtre monumental et de superbes promenades. Les vins de la <lb/>région dont cette ville est le centre,
-								sont célèbres dans le monde entier, <lb/>et l'on en exporte annuellement de 1,100,000 à 1,200,000 hectolitres.</p>
->>>>>>> 9e11dce0928e29a5361a8568fda5bb2642a852f8
+								sont célèbres dans le monde entier, <lb />et 'on en exporte annuellement de 1,100,000 à 1,200,000 hectolitres.</p>
 						</div4>
 						<div4 type="questions">
 							<lb/>
 							<list>
-<<<<<<< HEAD
-								<item>Qu&apos;est-ce que la <placeName>Franche-Comté</placeName>, la <placeName>Bourgogne</placeName> ?</item>
-								<item> — Enumérez leurs cours d&apos;eau, montagnes et villes principales ; productions, grands hommes.</item>
-							</list>
-						</div4>
-						<div4 type="réponses">
-							<p><placeName>FRANCHE-COMTÉ</placeName>. — La <placeName>Franche-Comté</placeName> est une des provinces orientales <lb />de la <placeName>France</placeName> limitrophe de la <placeName>Suisse</placeName>. Les ramifications du <geogFeat type="montagne">Jura</geogFeat> la couvrent <lb />de leurs
-								vallées pittoresques ; la <geogFeat type="rivière">Saône</geogFeat>, le <geogFeat type="rivière">Doubs</geogFeat> et l&apos;<geogFeat type="rivière">Ain</geogFeat> l&apos;arrosent. <lb />Elle a pour villes principales : <placeName>Besançon</placeName>, <placeName>Montbéliard</placeName>, <placeName>Pontarlier</placeName>, <placeName>Salins</placeName>, <lb /><placeName>Dôle</placeName>,
-								<placeName>Lons-le-Saunier</placeName>, <placeName>Vesoul</placeName>, <placeName>Gray</placeName>, <placeName>Lure</placeName>, <placeName>Fougerolles</placeName>. Elle a donné <lb />naissance au <persName type="historique">cardinal Granvelle</persName>, ministre de <persName type="historique">Charles-Quint</persName>, à <persName type="historique">Victor <lb />Hugo</persName>, à <persName type="historique">Cuvier</persName>, à <persName type="historique">Rouget
-								de Lisle</persName>, à <persName type="historique">Pichegru</persName>, à <persName type="historique">Lecourbe</persName>.</p>
-							<p>La F<placeName>ranche-Comté</placeName> produit d&apos;excellents pâturages où l&apos;on élève beau- <lb />coup de bétail et où l&apos;on fabrique des fromages. Les salines de <placeName>Lons
-								<lb />le-Saunier</placeName> et de <placeName>Salins</placeName> sont célèbres. Elle donne des fruits, des vins <lb />estimés, et l&apos;industrie métallurgique et forestière y est fort active.</p>
-							<p>— <placeName>BOURGOGNE</placeName>. — La <placeName>Bourgogne</placeName> a pour limites la <placeName>Champagne</placeName>, la <lb /><placeName>Franche-Comté</placeName>, la <placeName>Suisse</placeName>, la <placeName>Savoie</placeName>, le <placeName>Dauphiné</placeName>, le <placeName>Lyonnais</placeName>, le <lb /><placeName>Bourbonnais</placeName> et le
-								<placeName>Nivernais</placeName>.</p>
-							<p>Traversée par le<geogFeat> plateau de Langres</geogFeat>, les <geogFeat type="montagne">monts du <placeName>Morvan</placeName></geogFeat>, les <geogFeat>col- <lb />lines</geogFeat> de la <placeName>Côte-d&apos;Or</placeName> et les <geogFeat type="montagne">monts du <placeName>Charolais</placeName></geogFeat>, elle est arrosée par <lb />la <geogFeat type="fleuve">Seine</geogFeat> et son
-								affluent l&apos;<geogFeat type="rivière">Yonne</geogFeat>, par la <geogFeat type="rivière">Saône</geogFeat>, le <geogFeat type="rivière">Doubs</geogFeat> et l&apos;<geogFeat type="rivière">Ain</geogFeat>, dont <lb />les eaux se rendent dans le <geogFeat type="fleuve">Rhône</geogFeat>.</p>
-							<p>Les villes principales de la <placeName>Bourgogne</placeName> sont : <placeName>Auxerre</placeName>, <placeName>Avallon</placeName>, <placeName>Dijon</placeName>, <lb /><placeName>Autun</placeName>, <placeName>Châtillon-sur-Seine</placeName>, <placeName>Semur</placeName>, <placeName>Beaune</placeName>, <placeName>Nuits</placeName>, <placeName>Chalon</placeName>, <placeName>Mâcon</placeName>, <placeName>le <lb />Creusot</placeName>, <placeName>Cluny</placeName>,
-								<placeName>Louhans</placeName>, <placeName>Charolles</placeName>, <placeName>Bourg</placeName>, <placeName>Trévoux</placeName>, <placeName>Belley</placeName>. N&apos;oublions <lb />pas <placeName>Alise-Sainte-Reine</placeName>, l&apos;antique <placeName>Alésia</placeName>.</p>
-							<p>La <placeName>Bourgogne</placeName> produit des céréales, des vins excellents, des bois, du <lb />mas, du houblon, des fruits. Elle possède de riches mines de houille au <lb /><placeName>Creusot</placeName> et dans
-								les environs ainsi que des térrains riches en minerais <lb />de fer. On y trouve les forges si renommées du <placeName>Creusot</placeName> et de <placeName>Châtillon</placeName>, <lb />des fabriques d&apos;étoffes,
-=======
-								<item>Qu'est-ce que la Franche-Comté, la Bourgogne ?</item>
+
+								<item>Qu'est-ce que la <placeName>Franche-Comté</placeName>, la <placeName>Bourgogne</placeName> ?</item>
 								<item> — Enumérez leurs cours d'eau, montagnes et villes principales ; productions, grands hommes.</item>
 							</list>
 						</div4>
 						<div4 type="réponses">
-							<p>FRANCHE-COMTÉ. — La Franche-Comté est une des provinces orientales <lb/>de la France limitrophe de la Suisse. Les ramifications du Jura la couvrent <lb/>de leurs
-								vallées pittoresques ; la Saône, le Doubs et l'Ain l'arrosent. <lb/>Elle a pour villes principales : Besançon, Montbéliard, Pontarlier, Salins, <lb/>Dôle,
-								Lons-le-Saunier, Vesoul, Gray, Lure, Fougerolles. Elle a donné <lb/>naissance au cardinal Granvelle, ministre de Charles-Quint, à Victor <lb/>Hugo, à Cuvier, à Rouget
-								de Lisle, à Pichegru, à Lecourbe.</p>
-							<p>La Franche-Comté produit d'excellents pâturages où l'on élève beau- <lb/>coup de bétail et où l'on fabrique des fromages. Les salines de Lons
-								<lb/>le-Saunier et de Salins sont célèbres. Elle donne des fruits, des vins <lb/>estimés, et l'industrie métallurgique et forestière y est fort active.</p>
-							<p>— BOURGOGNE. — La Bourgogne a pour limites la Champagne, la <lb/>Franche-Comté, la Suisse, la Savoie, le Dauphiné, le Lyonnais, le <lb/>Bourbonnais et le
-								Nivernais.</p>
-							<p>Traversée par le plateau de Langres, les monts du Morvan, les col- <lb/>lines de la Côte-d'Or et les monts du Charolais, elle est arrosée par <lb/>la Seine et son
-								affluent l'Yonne, par la Saône, le Doubs et l'Ain, dont <lb/>les eaux se rendent dans le Rhône.</p>
-							<p>Les villes principales de la Bourgogne sont : Auxerre, Avallon, Dijon, <lb/>Autun, Châtillon-sur-Scine, Semur, Beaune, Nuits, Chalon, Mâcon, le <lb/>Creusot, Cluny,
-								Louhans, Charolles, Bourg, Trévoux, Belley. N'oublions <lb/>pas Alise-Sainte-Reine, l'antique Alésia.</p>
-							<p>La Bourgogne produit des céréales, des vins excellents, des bois, du <lb/>mas, du houblon, des fruits. Elle possède de riches mines de houille au <lb/>Creusot et dans
-								les environs ainsi que des térrains riches en minerais <lb/>de fer. On y trouve les forges si renommées du Creusot et de Châtillon, <lb/>des fabriques d'étoffes,
->>>>>>> 9e11dce0928e29a5361a8568fda5bb2642a852f8
+							<p><placeName>FRANCHE-COMTÉ</placeName>. — La <placeName>Franche-Comté</placeName> est une des provinces orientales <lb />de la <placeName>France</placeName> limitrophe de la <placeName>Suisse</placeName>. Les ramifications du <geogFeat type="montagne">Jura</geogFeat> la couvrent <lb />de leurs
+								vallées pittoresques ; la <geogFeat type="rivière">Saône</geogFeat>, le <geogFeat type="rivière">Doubs</geogFeat> et '<geogFeat type="rivière">Ain</geogFeat> 'arrosent. <lb />Elle a pour villes principales : <placeName>Besançon</placeName>, <placeName>Montbéliard</placeName>, <placeName>Pontarlier</placeName>, <placeName>Salins</placeName>, <lb /><placeName>Dôle</placeName>,
+								<placeName>Lons-le-Saunier</placeName>, <placeName>Vesoul</placeName>, <placeName>Gray</placeName>, <placeName>Lure</placeName>, <placeName>Fougerolles</placeName>. Elle a donné <lb />naissance au <persName type="historique">cardinal Granvelle</persName>, ministre de <persName type="historique">Charles-Quint</persName>, à <persName type="historique">Victor <lb />Hugo</persName>, à <persName type="historique">Cuvier</persName>, à <persName type="historique">Rouget
+								de Lisle</persName>, à <persName type="historique">Pichegru</persName>, à <persName type="historique">Lecourbe</persName>.</p>
+							<p>La F<placeName>ranche-Comté</placeName> produit d'excellents pâturages où 'on élève beau- <lb />coup de bétail et où 'on fabrique des fromages. Les salines de <placeName>Lons
+								<lb />le-Saunier</placeName> et de <placeName>Salins</placeName> sont célèbres. Elle donne des fruits, des vins <lb />estimés, et 'industrie métallurgique et forestière y est fort active.</p>
+							<p>— <placeName>BOURGOGNE</placeName>. — La <placeName>Bourgogne</placeName> a pour limites la <placeName>Champagne</placeName>, la <lb /><placeName>Franche-Comté</placeName>, la <placeName>Suisse</placeName>, la <placeName>Savoie</placeName>, le <placeName>Dauphiné</placeName>, le <placeName>Lyonnais</placeName>, le <lb /><placeName>Bourbonnais</placeName> et le
+								<placeName>Nivernais</placeName>.</p>
+							<p>Traversée par le<geogFeat> plateau de Langres</geogFeat>, les <geogFeat type="montagne">monts du <placeName>Morvan</placeName></geogFeat>, les <geogFeat>col- <lb />lines</geogFeat> de la <placeName>Côte-d'Or</placeName> et les <geogFeat type="montagne">monts du <placeName>Charolais</placeName></geogFeat>, elle est arrosée par <lb />la <geogFeat type="fleuve">Seine</geogFeat> et son
+								affluent '<geogFeat type="rivière">Yonne</geogFeat>, par la <geogFeat type="rivière">Saône</geogFeat>, le <geogFeat type="rivière">Doubs</geogFeat> et '<geogFeat type="rivière">Ain</geogFeat>, dont <lb />les eaux se rendent dans le <geogFeat type="fleuve">Rhône</geogFeat>.</p>
+							<p>Les villes principales de la <placeName>Bourgogne</placeName> sont : <placeName>Auxerre</placeName>, <placeName>Avallon</placeName>, <placeName>Dijon</placeName>, <lb /><placeName>Autun</placeName>, <placeName>Châtillon-sur-Seine</placeName>, <placeName>Semur</placeName>, <placeName>Beaune</placeName>, <placeName>Nuits</placeName>, <placeName>Chalon</placeName>, <placeName>Mâcon</placeName>, <placeName>le <lb />Creusot</placeName>, <placeName>Cluny</placeName>,
+								<placeName>Louhans</placeName>, <placeName>Charolles</placeName>, <placeName>Bourg</placeName>, <placeName>Trévoux</placeName>, <placeName>Belley</placeName>. N'oublions <lb />pas <placeName>Alise-Sainte-Reine</placeName>, 'antique <placeName>Alésia</placeName>.</p>
+							<p>La <placeName>Bourgogne</placeName> produit des céréales, des vins excellents, des bois, du <lb />mas, du houblon, des fruits. Elle possède de riches mines de houille au <lb /><placeName>Creusot</placeName> et dans
+								les environs ainsi que des térrains riches en minerais <lb />de fer. On y trouve les forges si renommées du <placeName>Creusot</placeName> et de <placeName>Châtillon</placeName>, <lb />des fabriques d'étoffes,
+								<list>
+							   <item>Qu'est-ce que la Franche-Comté, la Bourgogne ?</item>
+								<item> — Enumérez leurs cours d'eau, montagnes et villes principales ; productions, grands hommes.</item>
+							</list>
+
 								des tuileries, des manufactures de cristaux.</p>
 							<pb type="page" n="302"/>
 							<fw>302 SUZETTE.</fw>
-<<<<<<< HEAD
+
 							<p>Peu de provinces ont donné le jour à autant de grands hommes : <lb /><persName type="historique">saint Bernard</persName>, <persName type="historique">Bossuet</persName>, <persName type="historique">Crébillon</persName>, <persName type="historique">Rameau</persName>, <persName type="historique">Vaugelas</persName>, <persName type="historique">Buffon</persName>, <persName type="historique">Lalande</persName>, <lb /><persName type="historique">Monge</persName>, <persName type="historique">Lamartine</persName>,
 								<persName type="historique">Lacordaire</persName>, <persName type="historique">Edgar Quinet</persName>, parmi les orateurs, les litté- <lb />rateurs et les savants ; — <persName type="historique">Vauban</persName>, <persName type="historique">Carnot</persName>, <persName type="historique">Davout</persName>, <persName type="historique">Habert</persName>, <persName type="historique">Junot</persName>, <persName type="historique">Mar <lb />mont</persName>, <persName type="historique">Joubert</persName>, <persName type="historique">Mac-Mahon</persName>,
-								<persName type="historique">Changarnier</persName>, <persName type="historique">Vaillant</persName>, parmi les hommes de <lb />guerre ; — <persName type="historique">Soufflot</persName>, <persName type="historique">Rude</persName>, <persName type="historique">Jouffroy</persName>, <persName type="historique">Greuze</persName>, <persName type="historique">Prud&apos;hon</persName>, parmi les artistes.</p>
-=======
-							<p>Peu de provinces ont donné le jour à autant de grands hommes : <lb/>saint Bernard, Bossuet, Crébillon, Rameau, Vaugelas, Buffon, Lalande, <lb/>Monge, Lamartine,
-								Lacordaire, Edgar Quinet, parmi les orateurs, les litté- <lb/>rateurs et les savants ; — Vauban, Carnot, Davout, Habert, Junot, Mar <lb/>mont, Joubert, Mac-Mahon,
-								Changarnier, Vaillant, parmi les hommes de <lb/>guerre ; — Soufflot, Rude, Jouffroy, Greuze, Prud'hon, parmi les artistes.</p>
->>>>>>> 9e11dce0928e29a5361a8568fda5bb2642a852f8
+								<persName type="historique">Changarnier</persName>, <persName type="historique">Vaillant</persName>, parmi les hommes de <lb />guerre ; — <persName type="historique">Soufflot</persName>, <persName type="historique">Rude</persName>, <persName type="historique">Jouffroy</persName>, <persName type="historique">Greuze</persName>, <persName type="historique">Prud'hon</persName>, parmi les artistes.</p>
+
 						</div4>
 					</div3>
 				</div2>
 			</div1>
 		</body>
 	</text>
-<<<<<<< HEAD
-</TEI>
 
-=======
 </TEI>
->>>>>>> 9e11dce0928e29a5361a8568fda5bb2642a852f8
