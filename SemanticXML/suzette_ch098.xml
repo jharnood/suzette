@@ -80,26 +80,26 @@
                <p>A table, au déjeuner, on parla de cet exploit, car une <pb type="page" n="340" />
                   <fw>340 SUZETTE.</fw>
                   <lb />robe, faite en si peu de temps, et de nos propres mains, <lb />ou à peu près, cela peut compter pour un exploit ! </p>
-               <p>Puis, le mécanicien Louis étant là, Suzette voulut <lb />connaître le mécanisme de la couseuse. Un moment <lb />Louis resta songeur.</p>
+               <p>Puis, le mécanicien <persName type="fictif" key="louis">Louis</persName> étant là, <persName type="fictif" key="suzette">Suzette</persName> voulut <lb />connaître le mécanisme de la couseuse. Un moment <lb /><persName type="fictif" key="louis">Louis</persName> resta songeur.</p>
                <figure>
-                  <caption>Le Palais de Justice, à Lyon, et le coteau de Fourvières.</caption>
+                  <caption>Le <placeName>Palais de Justice</placeName>, à <placeName>Lyon</placeName>, et le <placeName>coteau de Fourvières</placeName>.</caption>
                </figure>
-               <p>— Connais-tu le nom de Thimonier ? demanda-t-il <lb />ensuite.</p>
-               <p>— Thimonier ?...</p>
+               <p>— Connais-tu le nom de <persName type="historique">Thimonier</persName> ? demanda-t-il <lb />ensuite.</p>
+               <p>— <persName type="historique">Thimonier</persName> ?...</p>
                <p>— Eh bien ! retiens ce nom ; répands-le surtout parmi <lb />les femmes. C&apos;est le nom encore à peu près inconnu <lb />de l&apos;inventeur de la machine à coudre, un pauvre ou
-                  <lb />vrier de génie, presque aussi malheureux que Denis <lb />Papin. Barthélemy Thimonier, fils d&apos;un teinturier de <lb />Lyon, cette ville si riche en hommes illustres, parmi
+                  <lb />vrier de génie, presque aussi malheureux que <persName type="historique">Denis <lb />Papin</persName>. <persName type="historique">Barthélemy Thimonier</persName>, fils d&apos;un teinturier de <lb /><placeName>Lyon</placeName>, cette ville si riche en hommes illustres, parmi
                      <pb type="page" n="341" />
                   <fw>BARTHÉLEMY THIMONIER. 341</fw>
-                  <lb />lesquels le grand ouvrier Jacquard, était un tailleur <lb />d&apos;Amplepuis, dans le Lyonnais.</p>
+                  <lb />lesquels le grand ouvrier <persName type="historique">Jacquard</persName>, était un tailleur <lb />d&apos;<placeName>Amplepuis</placeName>, dans le <placeName>Lyonnais</placeName>.</p>
                <p>Un jour, l&apos;idée de la couture mécanique*<gloss>Couture méchanique. Faite au moyen d'une machine.</gloss> le saisit et <lb />ne le quitta plus qu&apos;après exécution...</p>
                <p>L&apos;œuvre, très laborieuse, enfin accomplie, il se dit : <lb />Voilà certainement une bonne et belle trouvaille pour <lb />l&apos;industrie du vêtement et du linge ; et voilà
                   aussi du <lb />pain pour mes nombreux enfants ! </p>
                <p>Le besoin de ce pain pressait ; le tailleur était pauvre. <lb />Il parla de son invention, la montra. On se moqua <lb />d&apos;elle et de lui.</p>
-               <p>Il pensa alors qu&apos;on n&apos;est pas prophète dans son pays <lb />et qu&apos;il devait aller à Paris, où il y a des yeux pour <lb />voir et des oreilles pour entendre.</p>
-               <p>— Bon ! mais l&apos;argent pour prendre la diligence ? de <lb />Lyon à Paris on compte cent vingt lieues.</p>
+               <p>Il pensa alors qu&apos;on n&apos;est pas prophète dans son pays <lb />et qu&apos;il devait aller à <placeName>Paris</placeName>, où il y a des yeux pour <lb />voir et des oreilles pour entendre.</p>
+               <p>— Bon ! mais l&apos;argent pour prendre la diligence ? de <lb /><placeName>Lyon</placeName> à <placeName>Paris</placeName> on compte cent vingt lieues.</p>
                <p>Eh bien ! il les fera à pied, ces cent vingt lieues, sa <lb />machine sur le dos. Seulement il faut manger en route. <lb />Et comment ?... Tiens, parbleu, en montrant sa ma-
-                  <lb />chine !.. Qui, mais si elle n&apos;intéresse pas plus les auber- <lb />gistes de la route que les gens d&apos;Amplepuis ? </p>
-               <p>Les inventeurs sont industrieux. Thimonier se fabri- <lb />que des marionnettes, un polichinelle, un commissaire, <lb />un arlequin*<gloss>Arlequin. Personnage de comédie dont le
+                  <lb />chine !.. Qui, mais si elle n&apos;intéresse pas plus les auber- <lb />gistes de la route que les gens d&apos;<placeName>Amplepuis</placeName> ? </p>
+               <p>Les inventeurs sont industrieux. <persName type="historique">Thimonier</persName> se fabri- <lb />que des marionnettes, un polichinelle, un commissaire, <lb />un arlequin*<gloss>Arlequin. Personnage de comédie dont le
                      vêtement est formé de pièces de diverses couleurs.</gloss>, un paillasse, une Colombine*<gloss>Columbine. Personnage de comédie : la femme de Polichinelle.</gloss>. Puis il loge
                   <lb />dans une caisse ces messieurs et cette dame en com- <lb />pagnie de son invention. Il embrasse sa femme et ses <lb />enfants, leur laisse ses dernières pièces de monnaie
                   <lb />qui leur permettront d&apos;attendre son retour. Et le voilà <lb />parti ! </p>
@@ -110,8 +110,8 @@
                <head>Questionnaire.</head>
                <list>
                   <item>— De quelle chose parla-t-on au déjeuner ? </item>
-                  <item>— Que voulut connaitre Suzette ? </item>
-                  <item>— Qu&apos;était Thimonier ? </item>
+                  <item>— Que voulut connaitre <persName type="fictif" key="suzette">Suzette</persName> ? </item>
+                  <item>— Qu&apos;était <persName type="historique">Thimonier</persName> ? </item>
                   <item>— De qui était-il fils et où exercait-il la profession de tailleur ? </item>
                   <item>— Quelle idée lui vint à l&apos;esprit ? </item>
                   <item>— Que se dit-il après avoir réalisé sa découverte ? </item>
@@ -132,7 +132,7 @@
                      <list>
                         <item>— Quand dit-on qu&apos;un enfant met de la persévérance dans ses travaux ? </item>
                         <item>— Quels sont les avantages de la persévérance ? </item>
-                        <item>— Donnez des exemples choisis dans la vie de l&apos;école ; — dans celle de grands inventeurs : — dans celle de Christophe Colomb, de Jacques Amyot, de Brémontier.</item>
+                        <item>— Donnez des exemples choisis dans la vie de l&apos;école ; — dans celle de grands inventeurs : — dans celle de <persName type="historique">Christophe Colomb</persName>, de <persName type="historique">Jacques Amyot</persName>, de <persName type="historique">Brémontier</persName>.</item>
                      </list>
                   </div4>
                   <div4 type="réponses">
@@ -147,19 +147,19 @@
                      <p>Quelles sont les premières dans les divisions de l&apos;école ? quelles sont <lb />les élèves qui réussissent le mieux aux concours ? est-ce celles qui ont <lb />l&apos;esprit
                         le plus vif, la mémoire la plus fidèle ? — Non, mais bien les <lb />jeunes filles qui poursuivent, courageusement et sans interruption ni <lb />défaillance, les études
                         commencées.</p>
-                     <p>Souvenons-nous de Bernard Palissy, l&apos;inventeur des poteries émail- <lb />lées, qui dut travailler plus de trente ans avant de découvrir le secret <lb />des artistes
-                        italiens; — de Fulton, dont nous avons récemment raconté <lb />l&apos;histoire émouvante ; — du czar Pierre le Grand qui, pour s&apos;initier <lb />aux industries des nations
-                        civilisées, s&apos;astreignit aux travaux les plus <lb />fatigants et qui resta trois ans à Saardam, en Hollande, comme ouvrier <lb />charpentier, afin d&apos;apprendre
+                     <p>Souvenons-nous de <persName type="historique">Bernard Palissy</persName>, l&apos;inventeur des poteries émail- <lb />lées, qui dut travailler plus de trente ans avant de découvrir le secret <lb />des artistes
+                        italiens; — de <persName type="historique">Fulton</persName>, dont nous avons récemment raconté <lb />l&apos;histoire émouvante ; — du czar <persName type="historique">Pierre le Grand</persName> qui, pour s&apos;initier <lb />aux industries des nations
+                        civilisées, s&apos;astreignit aux travaux les plus <lb />fatigants et qui resta trois ans à <placeName>Saardam</placeName>, en <placeName>Hollande</placeName>, comme ouvrier <lb />charpentier, afin d&apos;apprendre
                         l&apos;art de construire les navires.</p>
-                     <p>Christophe Colomb (1440-1505), persuadé qu&apos;il existait un nouveau <lb />monde au delà de l&apos;Atlantique, sollicita, pendant plus de vingt ans, <lb />les moyens
-                        d&apos;équiper les navires qui lui permettraient de faire le voyage <lb />nécessaire. Il obtint enfin quelques bâtiments et découvrit ainsi l&apos;Amé- <lb />rique. Après
-                        quatre voyages successifs, il fut abandonné de ses protec- <lb />teurs Ferdinand II et Isabelle, et mourut dans la misère.</p>
-                     <p>Jacques Amyot (1513-1593), pauvre enfant sans ressources, dévoré de <lb />l&apos;amour de la science, travaillait pendant le jour comme domestique <lb />dans un collège de
-                        Paris, et consacrait la plus grande partie de la <lb />nuit à l&apos;étude. Tant de courage fut récompensé; il devint précepteur <lb />des fils de Henri II, grand aumônier de
-                        France et évêque d&apos;Auxerre.</p>
-                     <p>Brémontier, célèbre ingénieur, frappé des désastres que causait la <lb />marche en avant des dunes de Gascogne, entreprit de les arrêter par <lb />des plantations. Il dut
-                        chercher longtemps la plante propre à atteindre <lb />ce résultat, faire de nombreux essais, puis vaincre, avec les préjugés des <lb />paysans ignorants des Landes, les
-                        embûches de ses ennemis : rien ne <lb />le découragea. Grâce à lui, les dunes de Gascogne sont fixées et ne <lb />recouvrent plus la plaine de leurs sables stériles ; mieux
+                     <p><persName type="historique">Christophe Colomb</persName> (1440-1505), persuadé qu&apos;il existait un nouveau <lb />monde au delà de l&apos;<geogFeat type="océan">Atlantique</geogFeat>, sollicita, pendant plus de vingt ans, <lb />les moyens
+                        d&apos;équiper les navires qui lui permettraient de faire le voyage <lb />nécessaire. Il obtint enfin quelques bâtiments et découvrit ainsi l&apos;<placeName>Amé- <lb />rique</placeName>. Après
+                        quatre voyages successifs, il fut abandonné de ses protec- <lb />teurs <persName type="historique">Ferdinand II</persName> et <persName type="historique">Isabelle</persName>, et mourut dans la misère.</p>
+                     <p><persName type="historique">Jacques Amyot</persName> (1513-1593), pauvre enfant sans ressources, dévoré de <lb />l&apos;amour de la science, travaillait pendant le jour comme domestique <lb />dans un collège de
+                        <placeName>Paris</placeName>, et consacrait la plus grande partie de la <lb />nuit à l&apos;étude. Tant de courage fut récompensé; il devint précepteur <lb />des fils de <persName type="historique">Henri II</persName>, grand aumônier de
+                        <placeName>France</placeName> et évêque d&apos;<placeName>Auxerre</placeName>.</p>
+                     <p><persName type="historique">Brémontier</persName>, célèbre ingénieur, frappé des désastres que causait la <lb />marche en avant des dunes de <placeName>Gascogne</placeName>, entreprit de les arrêter par <lb />des plantations. Il dut
+                        chercher longtemps la plante propre à atteindre <lb />ce résultat, faire de nombreux essais, puis vaincre, avec les préjugés des <lb />paysans ignorants des <placeName>Landes</placeName>, les
+                        embûches de ses ennemis : rien ne <lb />le découragea. Grâce à lui, les dunes de <placeName>Gascogne</placeName> sont fixées et ne <lb />recouvrent plus la plaine de leurs sables stériles ; mieux
                         encore, l&apos;État <lb />possède près de cent mille hectares de forêts créées par le procédé <lb />du savant ingenieur (1738-1809).</p>
                   </div4>
                </div3>
@@ -169,23 +169,23 @@
                   <head>Géographie.</head>
                   <div4 type="questions">
                      <list>
-                        <item>— Détails sur la ville de Lyon : position, monuments, population, industrie, commerce.</item>
-                        <item>— Carte et tracé de la voie la plus courte pour se rendre de Lyon à Paris en chemin de fer.</item>
+                        <item>— Détails sur la ville de <placeName>Lyon</placeName> : position, monuments, population, industrie, commerce.</item>
+                        <item>— Carte et tracé de la voie la plus courte pour se rendre de <placeName>Lyon</placeName> à <placeName>Paris</placeName> en chemin de fer.</item>
                         <item>— Indiquer les villes principales, les départements traversés et les cours d&apos;eau dont on suit les vallées.</item>
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>Lyon (350,000 hab. ) est situé au confluent de la Saône et du Rhône, <lb />à 512 kilomètres de Paris ; c&apos;est la seconde ville de France, et elle <lb />comprend, outre
-                        l&apos;ancien Lyon fondé au premier siècle de l&apos;ère chré- <lb />tienne, les faubourgs de la Croix-Rousse, de Vaise, de la Guillotière <lb />et des Brotteaux.</p>
-                     <p>Cette ville a des rues et des places magnifiques ; parmi ses édifices, <lb />nous citerons l&apos;Hôtel de ville, la Bourse, le Palais de Justice, l&apos;Hôtel <lb />Dieu, le
-                        palais des Beaux-Arts ou palais Saint-Pierre, la cathédrale, <lb />la vieille église d&apos;Ainay et celle de Fourvières construite sur l&apos;empla- <lb />cement de
-                        l&apos;ancien forum, l&apos;hospice de l&apos;Antiquaille, le Grand-Théâtre <lb />et des ponts remarquables sur le Rhône et la Saône.</p>
+                     <p><placeName>Lyon</placeName> (350,000 hab. ) est situé au confluent de la <geogFeat type="rivière">Saône</geogFeat> et du <geogFeat type="fleuve">Rhône</geogFeat>, <lb />à 512 kilomètres de <placeName>Paris</placeName> ; c&apos;est la seconde ville de <placeName>France</placeName>, et elle <lb />comprend, outre
+                        l&apos;ancien <placeName>Lyon</placeName> fondé au premier siècle de l&apos;ère chré- <lb />tienne, les faubourgs de la <placeName>Croix-Rousse</placeName>, de <placeName>Vaise</placeName>, de <placeName>la Guillotière</placeName> <lb />et des <placeName>Brotteaux</placeName>.</p>
+                     <p>Cette ville a des rues et des places magnifiques ; parmi ses édifices, <lb />nous citerons l&apos;<placeName>Hôtel de ville</placeName>, <placeName>la Bourse</placeName>, le <placeName>Palais de Justice</placeName>, l&apos;<placeName>Hôtel <lb />Dieu</placeName>, le
+                        <placeName>palais des Beaux-Arts</placeName> ou <placeName>palais Saint-Pierre</placeName>, la <placeName>cathédrale</placeName>, <lb />la vieille <placeName>église d&apos;Ainay</placeName> et celle de <placeName>Fourvières</placeName> construite sur l&apos;empla- <lb />cement de
+                        l&apos;ancien forum, l&apos;<placeName>hospice de l&apos;Antiquaille</placeName>, le <placeName>Grand-Théâtre</placeName> <lb />et des ponts remarquables sur le <geogFeat type="fleuve">Rhône</geogFeat> et la <geogFeat type="rivière">Saône</geogFeat>.</p>
                      <p>L&apos;industrie de la soie, importée par les Italiens au dixième siècle, a <lb />élevé cette ville à la haute position qu&apos;elle occupe dans l&apos;industrie
                         <lb />française ; on y compte 70,000 métiers et environ 140,000 ouvriers dont <lb />un certain nombre travaillent ou demeurent dans la banlieue. Les <lb />usines
                         métallurgiques, les fonderies de cuivre, de bronze, les teintu- <lb />reries, les chapelleries, les brasseries, les bijouteries en faux, donnent <lb />lieu à un chiffre
                         d&apos;affaires considérable.</p>
-                     <p>Le commerce de Lyon porte principalement sur la soie, dont il im- <lb />porte 180 à 200 millions pour les besoins des manufactures et dont il <lb />exporte 250 millions, en
-                        produits manufacturés, surtout en Angleterre <lb />et en Amérique. Il comprend encore les vins et les eaux de-vie, les <lb />lainages, les cotonnades, les draperies, la
+                     <p>Le commerce de <placeName>Lyon</placeName> porte principalement sur la soie, dont il im- <lb />porte 180 à 200 millions pour les besoins des manufactures et dont il <lb />exporte 250 millions, en
+                        produits manufacturés, surtout en <placeName>Angleterre</placeName> <lb />et en <placeName>Amérique</placeName>. Il comprend encore les vins et les eaux de-vie, les <lb />lainages, les cotonnades, les draperies, la
                         houille, les marrons, les <lb />articles de charcuterie, d&apos;épicerie, de droguerie. <lb />(Pour le tracé de la carte, consulter un bon atlas.)</p>
                   </div4>
                </div3>
