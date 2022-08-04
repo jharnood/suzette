@@ -73,7 +73,7 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div1 type="chapitre" n="ch010">
+			<div1 type="chapitre" xml:lang="fr" n="ch010">
 				<pb type="page" n="033" />
 				<head>10. — Grosse affaire. (Élève, p. 25.)</head>
 				<div2 type="récit">
