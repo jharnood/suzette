@@ -90,16 +90,16 @@
                   </caption>
                </figure>
                <p> Et voilà votre table servie ! butinez, amies abeilles ! </p>
-               <p> C'était le temps de la miellée, où l'apiculteur se ré- <lb />jouit. Suzette guettait les mouvements des six laborieuses <lb />républiques. Le va-et-vient, le brouhaha des ouvrières
-                  <lb />indiquait qu'au dedans le couvain prospérait. Elle épiait <lb />le moment où il faudrait mettre à leur service la science apportée de Paris. </p>
+               <p> C'était le temps de la miellée, où l'apiculteur se ré- <lb />jouit. <persName type="fictif" key="suzette">Suzette</persName> guettait les mouvements des six laborieuses <lb />républiques. Le va-et-vient, le brouhaha des ouvrières
+                  <lb />indiquait qu'au dedans le couvain prospérait. Elle épiait <lb />le moment où il faudrait mettre à leur service la science apportée de <placeName>Paris</placeName>. </p>
                <p> Et c'est pourquoi, un dimanche matin, par le plus beau <lb />temps, elle se tenait en observation sous un petit ceri- <fw type="header"> APICULTURE. 405 </fw>
                   <pb type="page" n="405" /> sier du jardin, tout chargé de ses fruits de corail* <gloss>Corail. Production marine en forme d'arbuste et de couleur rouge.</gloss>, et <lb />surveillait
                   très attentivement la sortie des butineuses. </p>
                <p> Pendant plusieurs heures, et à mesure que le soleil <lb />montait, ce furent des envolées, des départs sans trêve. <lb />Puis les sorties se firent plus rares, et, tout au
                   contraire, <lb />le va-et-vient des rentrées augmenta. </p>
-               <p> Voilà l'instant ! Elle appela Jacques. Le nez en <lb />trompette de M. François se montra aussitôt. Mais les <lb />abords du rucher étaient absolument interdits à ce nez <lb />pour
+               <p> Voilà l'instant ! Elle appela <persName type="fictif" key="jacques">Jacques</persName>. Le nez en <lb />trompette de M. <persName type="fictif" key="françois">François</persName> se montra aussitôt. Mais les <lb />abords du rucher étaient absolument interdits à ce nez <lb />pour
                   lequel on craignait quelque affaire plus fâcheuse <lb />encore que celle du cliquet de l'éteignoir à chandelle. </p>
-               <p> Jacques arriva à l'appel et, tout doucement, avec les <lb />plus grandes précautions, la sœur et le grand frère trans- <lb />portèrent la première ruche à cinq mètres de la place
+               <p> <persName type="fictif" key="jacques">Jacques</persName> arriva à l'appel et, tout doucement, avec les <lb />plus grandes précautions, la sœur et le grand frère trans- <lb />portèrent la première ruche à cinq mètres de la place
                   <lb />qu'elle occupait et la posèrent sur un support, préparé à <lb />l'avance. Puis ils atten- <lb />dirent. </p>
                <figure type="sujets">
                   <caption>1. — Jeune fille cueillant du ti- <lb />lleul. — 2. Fleur du tilleul. <lb />Le bois du tilleul est très <lb />employé en ébénisterie. Cueillez et conservez, les <lb />fleurs
@@ -109,7 +109,7 @@
                   <lb />place, et finalement, <lb />ne le trouvant pas, <lb />passèrent dans la ru- <lb />che la plus proche. </p>
                <p> Les portières, car <lb />il y a là des portiè- <lb />res, les laissèrent entrer, les voyant char- <lb />gées de miel ; sans <lb />quoi, les étrangères <lb />eussent été reçues
                   <lb />à coups d'aiguillon. </p>
-               <p> L'opération déli- <lb />cate du passage d’ou- <lb />vrières, d'une ruche dans une autre, avait réussi. <lb />Suzette poussa une exclamation de joie. </p>
+               <p> L'opération déli- <lb />cate du passage d’ou- <lb />vrières, d'une ruche dans une autre, avait réussi. <lb /><persName type="fictif" key="suzette">Suzette</persName> poussa une exclamation de joie. </p>
                <fw type="sig"> 23. </fw>
                <fw type="header"> 406 SUZETTE. </fw>
                <pb type="page" n="406" />
@@ -117,14 +117,14 @@
             <div2 type="questionnaire">
                <head> Questionnaire. </head>
                <list>
-                  <item>— Où Suzette avait-elle installé son rucher ?</item>
+                  <item>— Où <persName type="fictif" key="suzette">Suzette</persName> avait-elle installé son rucher ?</item>
                   <item>— Qu'est ce qui fournissait la nourriture des abeilles : 1° dans le voisinage des ruches ;</item>
                   <item>— 2° aux alentours ?</item>
-                  <item>— Que faisait un jour Suzette au temps de la miellée ?</item>
+                  <item>— Que faisait un jour <persName type="fictif" key="suzette">Suzette</persName> au temps de la miellée ?</item>
                   <item>— Où se tenait-elle un dimanche matin ?</item>
                   <item>— Que vit-on pendant les premières<cb />heures ?</item>
                   <item>— Qui appela-t-elle à son aide ?</item>
-                  <item>— Comment Jacques arriva-t-il ?</item>
+                  <item>— Comment <persName type="fictif" key="jacques">Jacques</persName> arriva-t-il ?</item>
                   <item>— Quelle opération firent-ils ensemble ?</item>
                   <item>— Que vit-on bientôt de la part des abeilles ?</item>
                   <item>— Pourquoi les accueillit-on dans lus ruches voisines ?</item>
@@ -156,12 +156,12 @@
                      <p>Une <term>trombe</term> est un phénomène analogue aux cyclones ; c’est un <lb />amas de vapeurs descendant des nuages sous la forme d'une colonne <lb />conique très allongée,
                         touchant le sol par son extrémité la moins volu- <lb />mineuse, et qui tournoie avec rapidité en formant des ondulations comme <lb />un serpent gigantesque.</p>
                      <p>Voici un exemple du spectacle que présente ce météore et des <lb />ravages qu'il commet : </p>
-                     <p>« Une nuée extrêmement épaisse et fort basse, poussée par un vent <lb />« du nord, couvrit la surface du sol sur lequel est placé le bourg de  <lb />« Mirabeau. Différents
+                     <p>« Une nuée extrêmement épaisse et fort basse, poussée par un vent <lb />« du nord, couvrit la surface du sol sur lequel est placé le bourg de  <lb />« <placeName>Mirabeau</placeName>. Différents
                         tourbillons se formèrent en même temps dans <lb />« cette masse noire chargée de vapeurs épaisses ; il en sortit de la <lb />« grêle ; le tonnerre se fit entendre ; les arbres
                         et les haies furent <lb />« arrachés ; l'eau de la petite rivière de Mirabeau fut transportée à plus <lb />« de soixante pas de son lit, qui resta à sec ; pendant ce temps,
                         deux <lb />« hommes qui se trouvèrent enveloppés dans un des tourbillons furent <lb />« portés assez loin sans qu'il leur arrivât rien de fâcheux. Un jeune <lb />« pâtre fut
                         enlevé plus haut et rejeté au bord de la rivière sans que sa <lb />« chute fût violente ; le tourbillon qui l'avait emporté, le posa à l'endroit <lb />« où il cessa d'agir.
-                        Toute la fureur du météore se disipa dans l'espace <lb />« d'une lieue de longueur sur une demi-lieue de largeur. » (RICHARD, Histoire naturelle de l'air et des météores.)</p>
+                        Toute la fureur du météore se disipa dans l'espace <lb />« d'une lieue de longueur sur une demi-lieue de largeur. » (<persName type="historique">RICHARD</persName>, Histoire naturelle de l'air et des météores.)</p>
                   </div4>
                </div3>
                <div3 type="sciences_naturelles">
@@ -177,7 +177,7 @@
                   </div4>
                   <div4 type="réponses">
                      <p>On appelle essaim un groupe considérable d'abeilles qui, sous la <lb />conduite de la reine, abandonne la ruche pour fonder ailleurs une <lb />colonie nouvelle. Cette curieuse
-                        émigration a lieu aux mois de mai et <lb />de juin ; elle se renouvelle deux fois par an dans le Nord et jusqu'à <lb />quatre fois dans le Midi. </p>
+                        émigration a lieu aux mois de mai et <lb />de juin ; elle se renouvelle deux fois par an dans le <placeName>Nord</placeName> et jusqu'à <lb />quatre fois dans le <placeName>Midi</placeName>. </p>
                      <fw type="header"> APICULTURE. 407 </fw>
                      <pb type="page" n="407" />
                      <p>A la suite d'une visite de la reine dans toutes les parties de la ruche, <lb />une agitation générale se manifeste, et une quantité d'abeilles, la reine <lb />en tête, se
@@ -203,7 +203,7 @@
                      <p>Le terme <term>oléagineuse</term> appliqué à certaines plantes indique que l'on <lb />peut tirer de l'huile de ces plantes.</p>
                      <p>Parmi les <term>plantes oléagineuses</term>, on citera l'œillette, le colza, la <lb />navette, et parmi les <term>fruits oléagineux</term>, la noix, l'olive, la faîne, la noi-
                         <lb />sette. La graine du lin donne également de l'huile, ainsi que celle du <lb />chanvre. </p>
-                     <p>Le colza, l'œillette et le lin sont cultivés principalement dans la  <lb />région septentrionale de la France. On tire encore du lin une matière <lb />textile avec laquelle on
+                     <p>Le colza, l'œillette et le lin sont cultivés principalement dans la  <lb /><placeName>région septentrionale de la France</placeName>. On tire encore du lin une matière <lb />textile avec laquelle on
                         fait des toiles estimées. Comme nous l'avons <lb />dit précédemment, le lin n'a pas les dimensions du chanvre ; sa tige  <lb />atteint à peine 50 à 60 centimètres, et elle
                         porte au printemps une <lb />mignonne fleur bleue formée de cinq pétales réunis en clochette. </p>
                   </div4>
@@ -235,8 +235,8 @@
                         rapidement et l'eau y des- <lb />cend au niveau du biez inférieur ; la chose achevée, on ouvre les portes <fw type="header"> 408 SUZETTE. </fw>
                         <pb type="page" n="408" /> et le bateau est amené dans l'écluse. Les portes étant formées, on <lb />lève les vannes de la porte supérieure ; l'écluse se remplit et bientôt 
                         <lb />le bateau est au niveau du biez où il doit entrer. La porte supérieure <lb />est alors ouverte, et le bateau pénètre sans difficulté dans le biez en question. </p>
-                     <p>Les principaux canaux de Franco sont ceux de la région de la Flandre, <lb />le canal de Saint-Quentin, celui de la Marne au Rhin, du Rhône  <lb />au Rhin, de Bourgogne, de
-                        Briare, du Centre, de Nantes à Brest, du Ni- <lb />vernais, du Midi. </p>
+                     <p>Les principaux canaux de <placeName>France</placeName> sont ceux de la région de la <placeName>Flandre</placeName>, <lb />le <geogFeat>canal de Saint-Quentin</geogFeat>, celui de la <geogFeat>Marne</geogFeat> au <geogFeat>Rhin</geogFeat>, du <geogFeat>Rhône  <lb />au Rhin</geogFeat>, de <geogFeat>Bourgogne</geogFeat>, de
+                        <geogFeat>Briare</geogFeat>, du <geogFeat>Centre</geogFeat>, de <geogFeat>Nantes à Brest</geogFeat>, du <geogFeat>Ni- <lb />vernais</geogFeat>, du <geogFeat>Midi</geogFeat>. </p>
                   </div4>
                </div3>
             </div2>
