@@ -52,7 +52,9 @@
             <sourceDesc>
                 <biblStruct>
                     <monogr>
-                        <title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles. Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine – Couture</title>
+                        <title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles.
+                            Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine –
+                            Couture</title>
                         <author>Robert Halt</author>
                         <textLang>French</textLang>
                         <imprint>
@@ -76,14 +78,19 @@
             <div1 type="chapitre" xml:lang="fr" n="ch067">
                 <head>67. — L'interrogatoire. (Élève, p. 145.)</head>
                 <div2 type="récit">
-                    <p>Mais l'intrépide parleur de tout à l'heure ne se pressait pas de rouvrir la bouche.</p>
-                    <p> Un regard du camarade <persName type="fictif" key="sylvain">Sylvain</persName> l'invita à ne pas prolonger leur gêne ; 
-                        et, sous les autres regards qui le pressaient de tout côté, M. <persName type="fictif" key="pascal">Pascal</persName> dit enfin : </p>
+
+                    <p>Mais l'intrépide parleur de tout à l'heure ne se pressait pas de rouvrir la
+                        bouche.</p>
+                    <p> Un regard du camarade Sylvain l'invita à ne pas prolonger leur gêne ; et,
+                        sous les autres regards qui le pressaient de tout côté, M. Pascal dit enfin
+                        : </p>
+
                     <p> — Vous la connaissez donc, cette montre ?</p>
                     <p>— C'est à moi d'interroger. Où l'avez-vous prise ? Répondez !</p>
                     <p>Le garçon releva la tête :</p>
                     <p> — Monsieur, je ne suis pas un voleur !</p>
                     <p>— Nous verrons bien ; répondez.</p>
+
                     <p>— Réponds, ajouta <persName type="fictif" key="sylvain">Sylvain</persName>, en touchant doucement du coude son camarade.</p>
                     <p>Des larmes, bien qu'énergiquement retenues, rou- laient dans les yeux de M. <persName type="fictif" key="pascal">Pascal</persName>.</p>
                     <p>Eh bien! dit-il enfin, voilà! Cette montre est à 
@@ -106,6 +113,7 @@
                         sous de sa tirelire, et, avec cela, pris la clef des champs, sans tambour ni trompette.</p>
                     <p>— Eh ! dit <persName type="fictif" key="jacques">Jacques</persName>, mais <placeName>Zanzibar</placeName> ? mais les pauvres esclaves entravés par le cou et à vendre ?... mais les caravanes, et les jungles, et les hippopotames, les
                         crocodiles et le baobab de <persName type="historique">Mme Livingstone</persName>, les Touaregs, les razzias, les oasis, le terrible simoun et toutes vos autres fantaisies?... </p>
+
                 </div2>
                 <div2 type="questionnaire">
                     <head>Questionnaire. </head>
@@ -113,9 +121,11 @@
                         <item>— Que se passa-t-il d'abord, et comment intervint le jeune <persName type="fictif" key="sylvain">Sylvain</persName> ? </item>
                         <item>— Qu'est-ce qui fit pleurer <persName type="fictif" key="pascal">Pascal</persName> ? </item>
                         <item>— De qui tenait-il sa montre ?</item>
+
                         <item>— Quelle remarque fit M. <persName type="fictif" key="m_dumay">Dumay</persName> au souvenir du récit du naufrage ?</item>
                         <item>— Reproduisez les aveux de <persName type="fictif" key="pascal">Pascal</persName>. </item>
                         <item>— Que dit <persName type="fictif" key="jacques">Jacques</persName> par manière de moquerie ? </item>
+
                     </list>
                 </div2>
                 <div2 type="exercices">
@@ -124,10 +134,13 @@
                         <head type="sujets">Morale.</head>
                         <div4 type="questions">
                             <list>
-                                <item>— En vous inspirant de vos souvenirs des lectures précédentes, dites ce que vous pensez et savez des conséquences du mensonge.</item>
+                                <item>— En vous inspirant de vos souvenirs des lectures précédentes,
+                                    dites ce que vous pensez et savez des conséquences du
+                                    mensonge.</item>
                             </list>
                         </div4>
                         <div4 type="réponses">
+
                             <p>Afin de se faire passer pour des explorateurs, <persName type="fictif" key="pascal">Pascal</persName> et <persName type="fictif" key="sylvain">Sylvain</persName> avaient commis la faute de mentir, et à cela leur vanité trouvait son compte ; mais déjà
                                 l'épisode de l'interprète avait soulevé des doutes 
                                 
@@ -150,14 +163,17 @@
                         <div4 type="questions">
                             <list>
                                 <item>— Qu'est-ce qu'une veuve ?</item>
-                                <item>— Après la mort du père ou de la mère, quelle réunion de famille est convoquée par le juge de paix ? </item>
+                                <item>— Après la mort du père ou de la mère, quelle réunion de
+                                    famille est convoquée par le juge de paix ? </item>
                                 <item>— Pour quel objet ?</item>
-                                <item>— Qu'est-ce que le tuteur ou la tutrice, le subrogé tuteur un enfant mineur ?</item>
+                                <item>— Qu'est-ce que le tuteur ou la tutrice, le subrogé tuteur un
+                                    enfant mineur ?</item>
                                 <item>— Jusqu'à quel âge dure la minorité? </item>
                                 <item>— Qu'entend-on par émancipation d'une mineure ?</item>
                             </list>
                         </div4>
                         <div4 type="réponses">
+
                             <p>Une veuve est une femme qui a perdu son mari et n'est point remariée.</p>
                             <p>Après la mort du père ou de la mère, un conseil de famille, formé des plus proches parents du côté paternel et du côté maternel, et d'amis à défaut des uns
                                 ou des autres, est convoqué par le juge de paix. Ce conseil nomme le subrogé tuteur, c'est-à-dire la personne chargée de veiller si le tuteur ou la tutrice
@@ -174,7 +190,8 @@
                         <head type="sujets">Géographie.</head>
                         <div4 type="questions">
                             <list>
-                                <item>— Que savez-vous des principaux explorateurs de l'Afrique, d'après vos lectures antérieures ?</item>
+                                <item>— Que savez-vous des principaux explorateurs de l'Afrique,
+                                    d'après vos lectures antérieures ?</item>
                             </list>
                         </div4>
                         <div4 type="réponses">

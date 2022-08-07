@@ -52,7 +52,9 @@
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles. Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine – Couture</title>
+                  <title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles.
+                     Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine –
+                     Couture</title>
                   <author>Robert Halt</author>
                   <textLang>French</textLang>
                   <imprint>
@@ -74,7 +76,7 @@
    <text>
       <body>
          <div1 type="chapitre" xml:lang="fr" n="ch070">
-            <pb type="page" n="242" />
+            <pb type="page" n="242"/>
             <head>70. — Heureux foyer. (Élève, p. 149.)</head>
             <div2 type="récit">
                <p>L'air était piquant, le temps sec, un de ces temps d'hiver où la marche est crépitante, gaie comme une chanson. Les pentes des talus étincelaient
@@ -114,8 +116,10 @@
             <div2 type="questionnaire">
                <head>Questionnaire.</head>
                <list>
+
                   <item>— Quel temps faisait-il au départ pour le <placeName>Cateau</placeName> ?</item>
                   <item>— Parlez de l'aspect de la campagne et des oiseaux qu'apercevait la petite troupe de voyageurs.</item>
+
                   <item>— En quel ordre marchaient-ils ? </item>
                   <item>— Pourquoi <persName type="fictif" key="m_dumay">M. Dumay</persName> avait-il retenu <persName type="fictif" key="sylvain">Sylvain</persName> auprès de lui ? </item>
                   <item>— Sous quel nouvel aspect se présentait le jeune homme ?</item>

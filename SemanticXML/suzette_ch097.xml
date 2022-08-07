@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?><TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -49,7 +52,9 @@
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles. Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine – Couture</title>
+                  <title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles.
+                     Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine –
+                     Couture</title>
                   <author>Robert Halt</author>
                   <textLang>French</textLang>
                   <imprint>
@@ -74,77 +79,114 @@
             <pb type="page" n="335"/>
             <head>97. — Machine à coudre. (Élève, p 203.)</head>
             <div2 type="récit">
-               <p>La leçon de coupe et d'essayage achevée, les diffé- <lb/>rentes pièces du patron assemblées, rectifiées*<gloss>Rectifier. Corriger les défauts d'une chose ou les erreurs qu'on
-                     y a commises.</gloss> par un <lb/>bâti de longs points blancs, <lb/><persName key="mme_richard" type="fictif">Mme Richard</persName> prit par la main <lb/>sa nièce, et la mena devant <lb/>la machine à cou- <lb/>dre.</p>
-               <p>C'était un fin <lb/>outil, de bonne <lb/>marque*<gloss>Bonne marque. Provenant d'une maison recommandable.</gloss> ; toute la <lb/>partie d'acier bril- <lb/>lait comme
-                  de l'ar- <lb/>gent. Il était fixé <lb/>sur une table d'a- <lb/>cajou. <persName key="suzette" type="fictif">Suzette</persName> lui <lb/>sourit comme <lb/>à une jolie <lb/>chose.</p>
-               <p> — Assieds- <lb/>toi, ma fille. <lb/>Pose tes deux <lb/>pieds sur la <lb/>pédale*<gloss>Pédale. Pièce de métal ou appareil qu'on meut avec le pied pour faire tourner une
-                     roue.</gloss> .... <figure>
+               <p>La leçon de coupe et d'essayage achevée, les différentes pièces du patron
+                  assemblées, rectifiées*<gloss>Rectifier. Corriger les défauts d'une chose ou les
+                     erreurs qu'on y a commises.</gloss> par un bâti de longs points blancs,
+                     <persName key="mme_richard" type="fictif">Mme Richard</persName> prit par la
+                  main sa nièce, et la mena devant la machine à coudre.</p>
+               <p>C'était un fin outil, de bonne marque*<gloss>Bonne marque. Provenant d'une maison
+                     recommandable.</gloss> ; toute la partie d'acier brillait comme de l'argent. Il
+                  était fixé sur une table d'acajou. <persName key="suzette" type="fictif"
+                     >Suzette</persName> lui sourit comme à une jolie chose.</p>
+               <p> — Assiedstoi, ma fille. Pose tes deux pieds sur la pédale*<gloss>Pédale. Pièce de
+                     métal ou appareil qu'on meut avec le pied pour faire tourner une roue.</gloss>
+                  .... <figure>
                      <caption>La machine à coudre.</caption>
-                  </figure>
-                  <lb/>presse du pied droit, du pied gauche ! droit ! gauche ! <lb/>droit ! gauche droit ! stop ! </p>
+                  </figure> presse du pied droit, du pied gauche ! droit ! gauche ! droit ! gauche
+                  droit ! stop ! </p>
                <pb type="page" n="336"/>
                <fw>336 SUZETTE.</fw>
-               <p>Ce n'était là qu'un exercice préliminaire*<gloss>Préliminaire. Qui précède les autres choses.</gloss>. Pour mettre <lb/>la machine en train, <persName key="mme_richard" type="fictif">Mme Richard</persName> prit la place de
-                  <lb/><persName key="suzette" type="fictif">Suzette</persName>, disposa la mécanique, puis l'ouvrage, une lon- <figure>
-                     <caption>Les différents points de couture. <lb/>1. Le point devant s'exécute en piquant l'aiguille dans l'étoffe de distance en dis- <lb/>tance. — 2. Le point
-                        arrière exécute à reculons, ou en arrière, la moitié du par- <lb/>cours qu'il vient de faire en avant. — 3. Le point d'ourlet se fait obliquement et de <lb/>bas en
-                        haut. — 4. Le surjet sert à réunir deux bords d'étoffe repliés, soit à fil <lb/>droit; il faut rejeter l'aiguille en conduisant le fil par-dessus les bords, afin
-                        qu'elle <lb/>pique les deux étoffes par un même point. — 5. La piqûre se fait de droite à gauche <lb/>comme le point arrière; mais l'aiguille, au lieu de faire la
-                        moitié du parcours <lb/>qu'elle vient d'exécuter en avant, le fait tout entier et repique dans le point pré- <lb/>cédemment formé. — 6. Le point de chausson fixe
-                        les bords rabattus d'une couture <lb/>à plat et s'emploie pour les raccommodages, principalement pour la flanelle.</caption>
-                  </figure>
-                  <lb/>gue bande destinée à un plissé de la garniture. Il <lb/>s'agissait de l'ourler. Et, se levant à son tour : </p>
-               <p>— A toi, <persName key="suzette" type="fictif">Suzon</persName>, hop !... gauche, droit !...</p>
-               <p>Cette fois, le jeu des pieds sur la pédale mit en mou- <lb/>vement le volant*<gloss>Volant. Pièce cylindrique de métal munie de quatre ailes, ou encore roue pesante de fonte qui,
-                     l'une et l'autre, règlent un mouvement circulaire.</gloss> et le reste du mécanisme. Cela faisait <lb/>un petit et multiple tic tac pressé, régulier. L'aiguille
-                  <lb/>piquait l'étoffe d'outre en outre, se relevait, piquait <pb type="page" n="337"/>
-                  <fw>MACHINE A COUDRE. 337</fw>
-                  <lb/>encore, laissant derrière elle un ourlet orné d'une <lb/>piqûre égale, fine, perlée — et cousait, cousait à l'en- <lb/>chantement des yeux.</p>
-               <p>En quelques minutes, des mètres et des mtres de la <lb/>bande passèrent, s'ourlèrent.</p>
-               <p>Ce travail préparatoire achevé, la bande se plissa de <lb/>petits plis réguliers, par suite d'une autre disposition <lb/>donnée à la machine. Et ce fut une ruche charmante
-                  <lb/>destinée à l'enjolivement du <lb/>corsage.</p>
-               <p>— Passons maintenant à <lb/>la couture même de ce cor- <lb/>sage. Ici, toute votre intel- <lb/>ligence, Mademoiselle ! car <lb/>les outils savants, supérieurs <lb/>veulent des
-                  ouvriers savants, <lb/>supérieurs. La machine ne <lb/>vous remplace pas ; elle est <lb/>la multiplication des qualités <lb/>mécaniques d'une main agile; <lb/>mais elle
-                  n'est que cela, une main armée d'une aiguille.</p>
-               <p>Et qu'est-ce qu'une main armée d'une aiguille, si <lb/>l'intelligence, le goût ne la mènent ? Elle fait cinquante <lb/>bêtises. Elle en fait cinquante mille
-                  quand elle est ma- <lb/>chine à coudre. Donc, <persName key="suzette" type="fictif">Suzette</persName>, tout votre goût ici et <lb/>tout votre esprit ! <lb/>Le nez vous en <lb/>perle*<gloss>Le nez perle. Il se couvre de
-                     gouttelettes de sueur.</gloss>, d'applica- <lb/>tion ; c'est très <lb/>bien; vous l'essuie- <lb/>rez plus tard.</p>
-               <p>Elle va de toute <lb/>son âme. Les petits <lb/>côtés, les devants <lb/>avec les quatre <figure>
-                     <caption>Fronces. <lb/>Il faut savoir très bien froncer pour <lb/>faire de la belle lingerie.</caption>
+               <p>Ce n'était là qu'un exercice préliminaire*<gloss>Préliminaire. Qui précède les
+                     autres choses.</gloss>. Pour mettre la machine en train, <persName
+                     key="mme_richard" type="fictif">Mme Richard</persName> prit la place de
+                     <persName key="suzette" type="fictif">Suzette</persName>, disposa la mécanique,
+                  puis l'ouvrage, une lon<figure>
+                     <caption>Les différents points de couture. 1. Le point devant s'exécute en
+                        piquant l'aiguille dans l'étoffe de distance en distance. — 2. Le point
+                        arrière exécute à reculons, ou en arrière, la moitié du parcours qu'il vient
+                        de faire en avant. — 3. Le point d'ourlet se fait obliquement et de bas en
+                        haut. — 4. Le surjet sert à réunir deux bords d'étoffe repliés, soit à fil
+                        droit; il faut rejeter l'aiguille en conduisant le fil par-dessus les bords,
+                        afin qu'elle pique les deux étoffes par un même point. — 5. La piqûre se
+                        fait de droite à gauche comme le point arrière; mais l'aiguille, au lieu de
+                        faire la moitié du parcours qu'elle vient d'exécuter en avant, le fait tout
+                        entier et repique dans le point précédemment formé. — 6. Le point de
+                        chausson fixe les bords rabattus d'une couture à plat et s'emploie pour les
+                        raccommodages, principalement pour la flanelle.</caption>
+                  </figure> gue bande destinée à un plissé de la garniture. Il s'agissait de
+                  l'ourler. Et, se levant à son tour : </p>
+               <p>— A toi, <persName key="suzette" type="fictif">Suzon</persName>, hop !... gauche,
+                  droit !...</p>
+               <p>Cette fois, le jeu des pieds sur la pédale mit en mouvement le
+                     volant*<gloss>Volant. Pièce cylindrique de métal munie de quatre ailes, ou
+                     encore roue pesante de fonte qui, l'une et l'autre, règlent un mouvement
+                     circulaire.</gloss> et le reste du mécanisme. Cela faisait un petit et multiple
+                  tic tac pressé, régulier. L'aiguille piquait l'étoffe d'outre en outre, se
+                  relevait, piquait <pb type="page" n="337"/>
+                  <fw>MACHINE A COUDRE. 337</fw> encore, laissant derrière elle un ourlet orné d'une
+                  piqûre égale, fine, perlée — et cousait, cousait à l'enchantement des yeux.</p>
+               <p>En quelques minutes, des mètres et des mtres de la bande passèrent,
+                  s'ourlèrent.</p>
+               <p>Ce travail préparatoire achevé, la bande se plissa de petits plis réguliers, par
+                  suite d'une autre disposition donnée à la machine. Et ce fut une ruche charmante
+                  destinée à l'enjolivement du corsage.</p>
+               <p>— Passons maintenant à la couture même de ce corsage. Ici, toute votre
+                  intelligence, Mademoiselle ! car les outils savants, supérieurs veulent des
+                  ouvriers savants, supérieurs. La machine ne vous remplace pas ; elle est la
+                  multiplication des qualités mécaniques d'une main agile; mais elle n'est que cela,
+                  une main armée d'une aiguille.</p>
+               <p>Et qu'est-ce qu'une main armée d'une aiguille, si l'intelligence, le goût ne la
+                  mènent ? Elle fait cinquante bêtises. Elle en fait cinquante mille quand elle est
+                  machine à coudre. Donc, <persName key="suzette" type="fictif">Suzette</persName>,
+                  tout votre goût ici et tout votre esprit ! Le nez vous en perle*<gloss>Le nez
+                     perle. Il se couvre de gouttelettes de sueur.</gloss>, d'application ; c'est
+                  très bien; vous l'essuierez plus tard.</p>
+               <p>Elle va de toute son âme. Les petits côtés, les devants avec les quatre <figure>
+                     <caption>Fronces. Il faut savoir très bien froncer pour faire de la belle
+                        lingerie.</caption>
                   </figure>
                   <figure>
-                     <caption>Plissé. <lb/>Sorte de ruche aplatie employée à la garniture <lb/>des robes ou de la lingerie.</caption>
-                  </figure>
-                  <lb/>pinces, le dos, le collet sont enfin terminés, et gentiment.</p>
-               <p>— Oh ! que c'est joli ! dit-elle sans modestie en regar- <lb/>dant son ouvrage.</p>
-               <p>—Oui, et voilà ! dit la tante. Avec une couseuse méca- <pb type="page" n="338"/>
-                  <fw>338 SUZETTE.</fw>
-                  <lb/>nique dans un coin de la maison, la maman de six enfants <lb/>se moque de l'hiver qui approche et de l'usure des vête- <lb/>ments. Petites chemises, petits bonnets,
-                  petites culottes, <lb/>vestes, robes, manteaux, tout cela se trousse en un <lb/>clin d'œil... Tiens! à propos ; une machine à coudre, <lb/>c'est le cadeau que je te
-                  ferai, <persName key="suzette" type="fictif">Suzon</persName>, quand tu te <lb/>marieras ! </p>
-               <p><persName key="suzette" type="fictif">Suzon</persName> se mit à rire : Et si elle allait rester vieille fille ? </p>
+                     <caption>Plissé. Sorte de ruche aplatie employée à la garniture des robes ou de
+                        la lingerie.</caption>
+                  </figure> pinces, le dos, le collet sont enfin terminés, et gentiment.</p>
+               <p>— Oh ! que c'est joli ! dit-elle sans modestie en regardant son ouvrage.</p>
+               <p>—Oui, et voilà ! dit la tante. Avec une couseuse méca<pb type="page" n="338"/>
+                  <fw>338 SUZETTE.</fw> nique dans un coin de la maison, la maman de six enfants se
+                  moque de l'hiver qui approche et de l'usure des vêtements. Petites chemises,
+                  petits bonnets, petites culottes, vestes, robes, manteaux, tout cela se trousse en
+                  un clin d'œil... Tiens! à propos ; une machine à coudre, c'est le cadeau que je te
+                  ferai, <persName key="suzette" type="fictif">Suzon</persName>, quand tu te
+                  marieras ! </p>
+               <p><persName key="suzette" type="fictif">Suzon</persName> se mit à rire : Et si elle
+                  allait rester vieille fille ? </p>
                <figure>
                   <caption>Patron des diverses parties d'un corsage et manches de corsage.</caption>
                </figure>
-               <p>— Alors, Mademoiselle, répondit, en riant aussi, la <lb/>tante, qui n'avait pas l'air de croire à ce fâcheux destin <lb/>pour une si gentille enfant, alors vous coudrez
-                  de vos <lb/>doigts toute votre vie ! </p>
-               <p>En une matinée, le corsage avec les boutonnières, <lb/>les boutons, le montage des manches, la pose du plissé, <lb/>tout était fini ; n-i ni, fini ! </p>
+               <p>— Alors, Mademoiselle, répondit, en riant aussi, la tante, qui n'avait pas l'air
+                  de croire à ce fâcheux destin pour une si gentille enfant, alors vous coudrez de
+                  vos doigts toute votre vie ! </p>
+               <p>En une matinée, le corsage avec les boutonnières, les boutons, le montage des
+                  manches, la pose du plissé, tout était fini ; n-i ni, fini ! </p>
             </div2>
             <div2 type="questionnaire">
                <head>Questionnaire.</head>
                <list>
-                  <item>— Où <persName key="mme_richard" type="fictif">Mme Richard</persName> conduisit-elle sa nièce ? </item>
+                  <item>— Où <persName key="mme_richard" type="fictif">Mme Richard</persName>
+                     conduisit-elle sa nièce ? </item>
                   <item>— Que savez-vous de cette machine à coudre ? </item>
-                  <item>— Comment indiqua-t-on à <persName key="suzette" type="fictif">Suzette</persName> la manière de s'en servir ? </item>
-                  <item>— Comment <persName key="mme_richard" type="fictif">Mme Richard</persName> donna-t-elle la première leçon ? </item>
+                  <item>— Comment indiqua-t-on à <persName key="suzette" type="fictif"
+                        >Suzette</persName> la manière de s'en servir ? </item>
+                  <item>— Comment <persName key="mme_richard" type="fictif">Mme Richard</persName>
+                     donna-t-elle la première leçon ? </item>
                   <item>— Indiquez comment fonctionne la machine. </item>
                   <item>— Quels sont les différents points de couture et en quoi consistent-ils ? </item>
                   <item>— De quelle manière confectionna-t-on la ruche ? </item>
                   <item>— Pourquoi faut-il être très attentive en emplovant la machine à coudre ? </item>
-                  <item>— Que disait <persName key="suzette" type="fictif">Suzette</persName> en voyant le résultat obtenu ? </item>
+                  <item>— Que disait <persName key="suzette" type="fictif">Suzette</persName> en
+                     voyant le résultat obtenu ? </item>
                   <item>— Que lui répondit sa tante sur les avantages de la couseuse mécanique ? </item>
-                  <item>— Pour quelle époque <persName key="mme_richard" type="fictif">Mme Richard</persName> en promit-elle une à sa nièce ? </item>
+                  <item>— Pour quelle époque <persName key="mme_richard" type="fictif">Mme
+                        Richard</persName> en promit-elle une à sa nièce ? </item>
                   <item>— Quelles réflexions terminèrent l'entretien ? </item>
                   <item>— Qu'avait-on fait dans la matinée ? </item>
                </list>
@@ -155,60 +197,84 @@
                   <head>Français.</head>
                   <div4 type="questions">
                      <list>
-                        <item>— Donner la définition d'un patron, d'une pédale, d'un plissé, d'une garniture, d'un ourlet, d'une piqûre égale, d'une ruche, des
-                           pinces d'une robe, des fronces.</item>
+                        <item>— Donner la définition d'un patron, d'une pédale, d'un plissé, d'une
+                           garniture, d'un ourlet, d'une piqûre égale, d'une ruche, des pinces d'une
+                           robe, des fronces.</item>
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>Un patron est un morceau de papier, de carton, que les tailleurs, <lb/>tes couturières, les lingères, etc, découpent de manière à figurer les <pb type="page" n="339"/>
-                        <fw>BARTHÉLEMY THIMONIER. 339</fw>
-                        <lb/>diffèrentes parties de leurs ouvrages, et sur lequel ils taillent l'étoffe. <lb/>— Une pédale est une pièce de métal qu'on fait mouvoir en y <lb/>appuyant le
-                        pied. — Un plissé est une pièce d'étoffe sur laquelle on <lb/>a formé des plis réguliers. — Une garniture est ce qui est ajouté à <lb/>une robe ou à tout autre vêtement
-                        pour l'orner et le complter. — Un <lb/>ourlet est un repli qu'on assujettit, en le cousant, au bord d'une <lb/>toffe ou d'un morceau de toile pour
-                        empécher qu'il ne s'effile. — <lb/>Une piqûre égale est celle où les rangs de points sont exécutés avec <lb/>régularité. — Une ruche est une bande d'étoffe ou
-                        de dentelle plissée <lb/>pour orner un vêtement ou une coiffure de femme. — Les pinces <lb/>d'une robe sont des plis qu'on fait à l'étoffe même, et qui se
-                        termi- <lb/>nent en pointe. — Les fronces sont les plis menus et serrés qu'on <lb/>fait à du linge.</p>
+                     <p>Un patron est un morceau de papier, de carton, que les tailleurs, tes
+                        couturières, les lingères, etc, découpent de manière à figurer les <pb
+                           type="page" n="339"/>
+                        <fw>BARTHÉLEMY THIMONIER. 339</fw> diffèrentes parties de leurs ouvrages, et
+                        sur lequel ils taillent l'étoffe. — Une pédale est une pièce de métal qu'on
+                        fait mouvoir en y appuyant le pied. — Un plissé est une pièce d'étoffe sur
+                        laquelle on a formé des plis réguliers. — Une garniture est ce qui est
+                        ajouté à une robe ou à tout autre vêtement pour l'orner et le complter. — Un
+                        ourlet est un repli qu'on assujettit, en le cousant, au bord d'une toffe ou
+                        d'un morceau de toile pour empécher qu'il ne s'effile. — Une piqûre égale
+                        est celle où les rangs de points sont exécutés avec régularité. — Une ruche
+                        est une bande d'étoffe ou de dentelle plissée pour orner un vêtement ou une
+                        coiffure de femme. — Les pinces d'une robe sont des plis qu'on fait à
+                        l'étoffe même, et qui se terminent en pointe. — Les fronces sont les plis
+                        menus et serrés qu'on fait à du linge.</p>
                   </div4>
                </div3>
                <div3 type="industrie">
                   <head>Industrie.</head>
                   <div4 type="questions">
                      <list>
-                        <item>— Décrire une machine à coudre en ne désignant que les pièces principales.</item>
+                        <item>— Décrire une machine à coudre en ne désignant que les pièces
+                           principales.</item>
                         <item>— En rappeler les inventeurs.</item>
                         <item>— Quels avantages presente-t-elle ? </item>
                         <item>— Quelles sont les diverses sortes de machines à coudre ? </item>
-                        <item>— Combien peut coûter une petite machine à coudre telle que vous la désireriez ? </item>
+                        <item>— Combien peut coûter une petite machine à coudre telle que vous la
+                           désireriez ? </item>
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>La machine à coudre se compose d'une table de bois ou de fer sur <lb/>quatre pieds réunis par des tiges de métal plus ou moins élégam- <lb/>ment disposées. A la partie
-                        inférieure, une tige transversale supporte <lb/>une pédale qui s'élève ou s'abaisse à volonté sous le pied. Cette pédale <lb/>met en mouvement une bielle qui fait
-                        tourner une roue autour de la- <lb/>quelle circule une courroie ; cette courroie, enfin, imprime un mouve- <lb/>ment de rotation à un cylindre faisant partie du mécanisme
-                        supérieur.</p>
-                     <p>Ce mécanisme, établi dans une forte pièce de fer coudée et solide- <lb/>ment fixée sur la table, fait exécuter à l'aiguille, dans le sens vertical, <lb/>un mouvement de
-                        va-et-vient qu'on accélère ou ralentit à volonté. <lb/>Grâce à une disposition aussi simple qu'ingénieuse, le fil provenant de <lb/>a bobine est entraîné par
-                        l'aiguille ; il pénêtre au travers de l'étoffe et <lb/>exécute un point comme si la main de l'ouvrier dirigeait le petit instru- <lb/>ment.</p>
-                     <p>Le premier inventeur de la machine à aiguille est Thimonier ; elle <lb/> a été perfectionnée et vulgarisée par l'Américain Howe.</p>
+                     <p>La machine à coudre se compose d'une table de bois ou de fer sur quatre
+                        pieds réunis par des tiges de métal plus ou moins élégamment disposées. A la
+                        partie inférieure, une tige transversale supporte une pédale qui s'élève ou
+                        s'abaisse à volonté sous le pied. Cette pédale met en mouvement une bielle
+                        qui fait tourner une roue autour de laquelle circule une courroie ; cette
+                        courroie, enfin, imprime un mouvement de rotation à un cylindre faisant
+                        partie du mécanisme supérieur.</p>
+                     <p>Ce mécanisme, établi dans une forte pièce de fer coudée et solidement fixée
+                        sur la table, fait exécuter à l'aiguille, dans le sens vertical, un
+                        mouvement de va-et-vient qu'on accélère ou ralentit à volonté. Grâce à une
+                        disposition aussi simple qu'ingénieuse, le fil provenant de a bobine est
+                        entraîné par l'aiguille ; il pénêtre au travers de l'étoffe et exécute un
+                        point comme si la main de l'ouvrier dirigeait le petit instrument.</p>
+                     <p>Le premier inventeur de la machine à aiguille est Thimonier ; elle a été
+                        perfectionnée et vulgarisée par l'Américain Howe.</p>
                      <p>Ses avantages... (Voir la leçon.)</p>
-                     <p>Il y a diverses sortes de machines à coudre, depuis les plus fortes qui <lb/>exécutent les coutures dans les étoffes épaisses, jusqu'aux plus mi- <lb/>gnonnes, qui font
-                        des travaux très délicats avec une régularité extrème. <lb/>D'autres plissent, ruchent, etc.</p>
-                     <p>(Pour le prix des machines à coudre, voir un commerçant ou un <lb/>bon prospectus.)</p>
+                     <p>Il y a diverses sortes de machines à coudre, depuis les plus fortes qui
+                        exécutent les coutures dans les étoffes épaisses, jusqu'aux plus mignonnes,
+                        qui font des travaux très délicats avec une régularité extrème. D'autres
+                        plissent, ruchent, etc.</p>
+                     <p>(Pour le prix des machines à coudre, voir un commerçant ou un bon
+                        prospectus.)</p>
                   </div4>
                </div3>
                <div3 type="économie_domestique">
                   <head>Économie domestique.</head>
                   <div4 type="questions">
                      <list>
-                        <item>— Quelles sont les différentes sortes de garnitures qu'on peut appliquer sur une robe ? </item>
-                        <item>— Indiquez la manière de s'y prendre pour faufiler et pour bien ourler.</item>
+                        <item>— Quelles sont les différentes sortes de garnitures qu'on peut
+                           appliquer sur une robe ? </item>
+                        <item>— Indiquez la manière de s'y prendre pour faufiler et pour bien
+                           ourler.</item>
                         <item>— Quel fil convient pour chacune de ces opérations ? </item>
-                        <item>— Donnez quelques détails sur les diverses sortes de fils, avec le prix de la pelole de ch-cune d'elles.</item>
+                        <item>— Donnez quelques détails sur les diverses sortes de fils, avec le
+                           prix de la pelole de ch-cune d'elles.</item>
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>(On a jugé superflu de donner la réponse à ces diverses questions que <lb/>Mmes les institutrices ont maintes occasions de résoudre au cours <lb/>de leurs leçons de
-                        couture.)</p>
+                     <p>(On a jugé superflu de donner la réponse à ces diverses questions que Mmes
+                        les institutrices ont maintes occasions de résoudre au cours de leurs leçons
+                        de couture.)</p>
                   </div4>
                </div3>
             </div2>

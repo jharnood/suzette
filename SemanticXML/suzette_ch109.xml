@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
 <?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +52,9 @@
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles. Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine – Couture</title>
+                  <title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles.
+                     Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine –
+                     Couture</title>
                   <author>Robert Halt</author>
                   <textLang>French</textLang>
                   <imprint>
@@ -74,49 +76,84 @@
    <text>
       <body>
          <div1 type="chapitre" xml:lang="fr" n="109">
-            <pb type="page" n="382" />
+            <pb type="page" n="382"/>
             <head> 109. — La vacherie. (Élève, p. 233) </head>
             <div2 type="récit">
-               <p>Tout en admirant ces superbes volailles, la petite ca- <lb />ravane se trouva devant la vacherie. Le bâtiment était <lb />en forme de chalet ; le long des murs blancs, deux
-                  <lb />rangées de vaches choisies, normandes, flamandes, <lb />bretonnes, hollandaises, luisantes de santé.</p>
-               <p>Un foin frais et fleuri remplissait les râteliers. Elles <lb />mangeaient : quelques-unes, tout en ruminant*<gloss>Ruminer. Faire revenir de l'estomac des mets avalés pour les
-                     mâcher.</gloss>, tour- <lb />naient vers les visiteurs leur tête nonchalante, aux gros <lb />yeux pleins de vague songerie.</p>
-               <p>Elles étaient là dans l'air oxygéné*<gloss>Oxygéné. Qui contient beaucoup d'oxygène.</gloss> des bois, soignées <lb />en princesses et donnaient un lait aussi pur, aussi dé-
-                  <lb />licat que pouvait l'être celui de Trianon*<gloss>Trianon. Petit château dans l'enceinte du parc de Versailles.</gloss> dont la reine <lb />Marie-Antoinette et les dames de sa
-                  cour, déguisées en <lb />fermières, faisaient, de leurs propres mains, leur fro- <lb />mage à la crème et leur beurre.</p>
-               <p>Aussi le lait du Jardin d'acclimatation est-il réservé <lb />aux Parisiens qui peuvent le payer un franc le litre. <lb />On le leur apporte, ou ils viennent le boire, là, dans
-                  <lb />des tasses fines.</p>
-               <p>Parmi les buveurs, nos amis reconnurent quelques <lb />jolis cavaliers de l'éléphant, des chameaux et des <lb />poneys.</p>
-               <p>La petite fée Urgande, descendue de son équipage <lb />mené par l'autruche, avait le nez dans sa tasse ; elle <lb />le leva pour respirer ; de ses yeux doux elle regarda <lb />la
-                  compagnie, et répondit au sourire que Suzette lui <lb />adressait, par un autre, tout blanc de lait.</p>
-               <p>— Ah ! dit la tante Richard, si tous les enfants de <lb />Paris pouvaient boire à pareil bol ! Mais que de pauvres <lb />bébés, dans cette grande ville, y végètent*<gloss>Végéter.
-                     Vivre misérablement.</gloss>, y meurent <lb />par le lait inondé d'eau ou falsifié*<gloss>Falsifié. Qui a été altéré par le mélange de substances étrangères.</gloss> qu'on leur
-                  sert ! </p>
-               <p>Une grosse et blonde dame en blanc bonnet, qui ve- <lb />nait d'entrer, se mit aussitôt de la conversation : </p>
-               <p>— Madame, dit-elle, c'est dans mon pays, en Belgique, <lb />ou même en Hollande qu'il faut aller pour boire du lait, <lb />savez-vous ? Là, il y a des vacheries auprès desquelles
-                  <lb />celle-ci n'est que de la Saint-Jean*<gloss>De la Saint-Jean. Peu de chose ; quelque chose d'inférieur.</gloss> , savez-vous ? </p>
-               <pb type="page" n="383" />
+               <p>Tout en admirant ces superbes volailles, la petite caravane se trouva devant la
+                  vacherie. Le bâtiment était en forme de chalet ; le long des murs blancs, deux
+                  rangées de vaches choisies, normandes, flamandes, bretonnes, hollandaises,
+                  luisantes de santé.</p>
+               <p>Un foin frais et fleuri remplissait les râteliers. Elles mangeaient :
+                  quelques-unes, tout en ruminant*<gloss>Ruminer. Faire revenir de l'estomac des
+                     mets avalés pour les mâcher.</gloss>, tournaient vers les visiteurs leur tête
+                  nonchalante, aux gros yeux pleins de vague songerie.</p>
+               <p>Elles étaient là dans l'air oxygéné*<gloss>Oxygéné. Qui contient beaucoup
+                     d'oxygène.</gloss> des bois, soignées en princesses et donnaient un lait aussi
+                  pur, aussi dé- licat que pouvait l'être celui de
+                     <placeName>Trianon</placeName>*<gloss>Trianon. Petit château dans l'enceinte du
+                     parc de Versailles.</gloss> dont la reine <persName type="historique"
+                     >Marie-Antoinette</persName> et les dames de sa cour, déguisées en fermières,
+                  faisaient, de leurs propres mains, leur fromage à la crème et leur beurre.</p>
+               <p>Aussi le lait du <placeName>Jardin d'acclimatation</placeName> est-il réservé aux
+                  Parisiens qui peuvent le payer un franc le litre. On le leur apporte, ou ils
+                  viennent le boire, là, dans des tasses fines.</p>
+               <p>Parmi les buveurs, nos amis reconnurent quelques jolis cavaliers de l'éléphant,
+                  des chameaux et des poneys.</p>
+               <p>La petite <persName type="fictif">fée Urgande</persName>, descendue de son
+                  équipage mené par l'autruche, avait le nez dans sa tasse ; elle le leva pour
+                  respirer ; de ses yeux doux elle regarda la compagnie, et répondit au sourire
+                     que <persName key="suzette" type="fictif">Suzette</persName> lui adressait, par
+                  un autre, tout blanc de lait.</p>
+               <p>— Ah ! dit la <persName key="mme_richard" type="fictif">tante Richard</persName>,
+                  si tous les enfants de <placeName>Paris</placeName> pouvaient boire à pareil bol !
+                  Mais que de pauvres bébés, dans cette grande ville, y végètent*<gloss>Végéter.
+                     Vivre misérablement.</gloss>, y meurent par le lait inondé d'eau ou
+                     falsifié*<gloss>Falsifié. Qui a été altéré par le mélange de substances
+                     étrangères.</gloss> qu'on leur sert ! </p>
+               <p>Une grosse et blonde dame en blanc bonnet, qui venait d'entrer, se mit aussitôt de
+                  la conversation : </p>
+               <p>— Madame, dit-elle, c'est dans mon pays, en <placeName>Belgique</placeName>, ou
+                  même en <placeName>Hollande</placeName> qu'il faut aller pour boire du lait,
+                  savez-vous ? Là, il y a des vacheries auprès desquelles celle-ci n'est que de la
+                     Saint-Jean*<gloss>De la Saint-Jean. Peu de chose ; quelque chose
+                     d'inférieur.</gloss> , savez-vous ? </p>
+               <pb type="page" n="383"/>
                <fw> LA VACHERIE. 383 </fw>
-               <p>Et elle fit un tableau flamand de ces vacheries cons- <lb />tamment lavées du haut en bas, des épaisses litières <lb />plus vite nettoyées que salies. Le sol y est en pente,
-                  <lb />avec une rigole au bas, pour l'écoulement du purin*<gloss>Purin. Liquide qui s'écoule de la litière ou du fermier.</gloss> , et <figure>
-                     <caption> Il faut les voir, le matin, <lb />sur de petites voitures, trai- <lb />nées par de gros chiens. </caption>
+               <p>Et elle fit un tableau flamand de ces vacheries constamment lavées du haut en bas,
+                  des épaisses litières plus vite nettoyées que salies. Le sol y est en pente, avec
+                  une rigole au bas, pour l'écoulement du purin*<gloss>Purin. Liquide qui s'écoule
+                     de la litière ou du fermier.</gloss> , et <figure>
+                     <caption> Il faut les voir, le matin, sur de petites voitures, trainées par de
+                        gros chiens. </caption>
                   </figure>
                   <figure>
-                     <caption> Canards, oies et dindons. <lb />Ces trois animaux de basse-cour nous sont d'une grande utilité. — La chair du <lb />canard domestique (1) est de bonne qualité ; on peut
-                        la conserver en la salant <lb />ou en la faisant mariner. Avec celle des canetons on confectionne des pâtés <lb />d'Amiens et les foies servent à faire les terrines de Nérac et
-                        de Toulouse. — <lb />L'oie (2) est le mots de prédilection des petits ménages dans les fêtes de famille <lb />pendant l'hiver ; sa chair est délicate et sa graisse très utile
-                        pour bien des prépar- <lb />ations culinaires. Avec la plume des oies en garnit les coussins, les oreillers <lb />et l'on fait des plumes pour écrire. — Le dindon (3) est un
-                        gros oiseau dont la <lb />chair est très estimée et préférée à celle du canard et de l'oie. </caption>
-                  </figure>
-                  <lb />les vaches, quand elles se couchent, n'ont pas même <lb />la permission de traîner leur queue à terre ; on la relève <lb />en l'attachant. Des étables ! ce sont des salons,
-                  savez- <lb />vous ? J’ai été servante, moi, dans une ferme hollan- <lb />daise. Il fallait voir la laiterie ! blanche comme neige, <lb />ventilée, mais sans fenêtres, fraîche ! Et la
-                  vaisselle <pb type="page" n="384" />
-                  <fw> 384 SUZETTE. </fw>
-                  <lb />pour le lait, comme tout cela était rincé ! Mais aussi <lb />quelle crème ! quel beurre ! quel fromage ! Et à Bruxelles, <lb />il faut voir, le matin, dans les rues, les
-                  grandes boîtes <lb />à lait de cuivre poli, brillant comme or. Les laitières <lb />les promènent de porte en porte. Et c'est ça des lai- <lb />tières et du lait, savez-vous ? </p>
-               <p>En parlant ainsi, la Flamande, heureuse de faire valoir <lb />son pays, accompagna un moment nos amis, et les <lb />quitta au détour d'un bout de rivière.</p>
-               <p>Là, des canards bons enfants s'exerçaient à la cul- <lb />bute, au plongeon, et autres amusettes de la nata- <lb />tion ; on apercevait, à travers les branches fleuries d'un
-                  <lb />cytise, un spectacle devant lequel Mme Richard arrêta <lb />sa troupe. </p>
+                     <caption> Canards, oies et dindons. Ces trois animaux de basse-cour nous sont
+                        d'une grande utilité. — La chair du canard domestique (1) est de bonne
+                        qualité ; on peut la conserver en la salant ou en la faisant mariner. Avec
+                        celle des canetons on confectionne des pâtés d'<placeName>Amiens</placeName>
+                        et les foies servent à faire les terrines de <placeName>Nérac</placeName> et
+                        de <placeName>Toulouse</placeName>. — L'oie (2) est le mots de prédilection
+                        des petits ménages dans les fêtes de famille pendant l'hiver ; sa chair est
+                        délicate et sa graisse très utile pour bien des préparations culinaires.
+                        Avec la plume des oies en garnit les coussins, les oreillers et l'on fait
+                        des plumes pour écrire. — Le dindon (3) est un gros oiseau dont la chair est
+                        très estimée et préférée à celle du canard et de l'oie. </caption>
+                  </figure> les vaches, quand elles se couchent, n'ont pas même la permission de
+                  traîner leur queue à terre ; on la relève en l'attachant. Des étables ! ce sont
+                  des salons, savezvous ? J’ai été servante, moi, dans une ferme hollandaise. Il
+                  fallait voir la laiterie ! blanche comme neige, ventilée, mais sans fenêtres,
+                  fraîche ! Et la vaisselle <pb type="page" n="384"/>
+                  <fw> 384 SUZETTE. </fw> pour le lait, comme tout cela était rincé ! Mais aussi
+                  quelle crème ! quel beurre ! quel fromage ! Et à <placeName>Bruxelles</placeName>,
+                  il faut voir, le matin, dans les rues, les grandes boîtes à lait de cuivre poli,
+                  brillant comme or. Les laitières les promènent de porte en porte. Et c'est ça des
+                  laitières et du lait, savez-vous ? </p>
+               <p>En parlant ainsi, la Flamande, heureuse de faire valoir son pays, accompagna un
+                  moment nos amis, et les quitta au détour d'un bout de rivière.</p>
+               <p>Là, des canards bons enfants s'exerçaient à la culbute, au plongeon, et autres
+                  amusettes de la natation ; on apercevait, à travers les branches fleuries d'un
+                  cytise, un spectacle devant lequel <persName key="mme_richard" type="fictif"
+                     >Mme Richard</persName> arrêta sa troupe. </p>
             </div2>
             <div2 type="questionnaire">
                <head>Questionnaire.</head>
@@ -124,14 +161,18 @@
                   <item>— Donnez une idée du bâtiment affecté à la vacherie.</item>
                   <item>— Qu'est-ce qui remplissait les râteliers et que faisaient les vaches ? </item>
                   <item>— Quelle sorte de lait donnaient-elles, et pourquoi ? </item>
-                  <item>— A qui est réservé le lait du Jardin d'acclimatation ? </item>
+                  <item>— A qui est réservé le lait du <placeName>Jardin d'acclimatation</placeName>
+                     ? </item>
                   <item>— Qui reconnut-on parmi les buveurs ? </item>
-                  <item>— Que direz-vous de la petite fille que l'on compara à la fée Urgande ? </item>
-                  <item>— Quel souhait forma la tante Richard ? </item>
+                  <item>— Que direz-vous de la petite fille que l'on compara à la <persName
+                        type="fictif">fée Urgande</persName> ? </item>
+                  <item>— Quel souhait forma la <persName key="mme_richard" type="fictif">tante
+                        Richard</persName> ? </item>
                   <item>— Quelle personne vint à entrer ? </item>
                   <item>— Que se mit-elle à dire ? </item>
-                  <item>— Que raconta-t-elle des vacheries de Belgique et de Hollande ? </item>
-                  <item>— Que voit-on le matin dans les rues de Bruxelles ? </item>
+                  <item>— Que raconta-t-elle des vacheries de <placeName>Belgique</placeName> et de
+                        <placeName>Hollande</placeName> ? </item>
+                  <item>— Que voit-on le matin dans les rues de <placeName>Bruxelles</placeName> ? </item>
                   <item>— Que voyait-on, de la vacherie, à l'autre bout de la rivière ? </item>
                </list>
             </div2>
@@ -149,44 +190,69 @@
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>L'air est un mélange de deux gaz : l'oxygène pour 21 parties sur <lb />100, en volume, et l'azote pour 79. Il forme autour de la terre une <lb />couche dont on évalue
-                        l'épaisseur à 50 ou 60 kilomètres ; au delà est <lb />un air extrêmement raréfié, et à 100 kilomètres de hauteur il n'y a <lb />plus que le vide absolu.</p>
-                     <p>Un litre d'air pèse 1 gramme 3 dixièmes, soit un l kilog. 300 par <lb />mètre cube, à la surface du sol.</p>
-                     <p>L'oxygène est un gaz incolore, sans saveur et sans odeur ; il se com- <lb />bine avec tous les corps en dégageant de la chaleur et parfois de la <lb />lumière ; seul il peut
-                        entretenir la, vie, et c'est grâce à sa présence <lb />dans l'air et dans l'eau que les animaux terrestres et les poissons <lb />y conservent l'existence ; mais il est
-                        dangereux de le respirer pur pen- <lb />dant longtemps.</p>
-                     <p>L'azote est un gaz également incolore, sans saveur ni odeur ; il est <lb />impropre à entretenir la combustion ; une lumière plongée dans un <lb />flacon rempli de ce gaz
-                        s’éteint immédiatement. Il tempère l'activité <lb />de l'oxygène, et se combine à une foule de corps. </p>
-                     <p>L'atmosphère contient en outre de la vapeur d'eau et quelques dix- <lb />millièmes d'un gaz formé d’oxygène et de charbon : l'acide carbonique. <lb />Les animaux en exhalent
-                        pendant l'acte de la respiration, de même <pb type="page" n="385" />
-                        <fw> LA VACHERIE. 385 </fw>
-                        <lb />que les plantes durant la nuit, et certains végétaux en fermentation. <lb />Comme il est impropre à la vie, on comprend qu'il soit malsain de ne <lb />pas renouveler
-                        fréquemment l'air des lieux fermés où se réunissent <lb />plusieurs personnes ou plusieurs animaux. C'est pour ce motif que <lb />l'on ne conserve pas sans danger des plantes
-                        et des fleurs dans une <lb />chambre à coucher.</p>
+                     <p>L'air est un mélange de deux gaz : l'oxygène pour 21 parties sur 100, en
+                        volume, et l'azote pour 79. Il forme autour de la terre une couche dont on
+                        évalue l'épaisseur à 50 ou 60 kilomètres ; au delà est un air extrêmement
+                        raréfié, et à 100 kilomètres de hauteur il n'y a plus que le vide
+                        absolu.</p>
+                     <p>Un litre d'air pèse 1 gramme 3 dixièmes, soit un l kilog. 300 par mètre
+                        cube, à la surface du sol.</p>
+                     <p>L'oxygène est un gaz incolore, sans saveur et sans odeur ; il se combine
+                        avec tous les corps en dégageant de la chaleur et parfois de la lumière ;
+                        seul il peut entretenir la, vie, et c'est grâce à sa présence dans l'air et
+                        dans l'eau que les animaux terrestres et les poissons y conservent
+                        l'existence ; mais il est dangereux de le respirer pur pendant
+                        longtemps.</p>
+                     <p>L'azote est un gaz également incolore, sans saveur ni odeur ; il est
+                        impropre à entretenir la combustion ; une lumière plongée dans un flacon
+                        rempli de ce gaz s’éteint immédiatement. Il tempère l'activité de l'oxygène,
+                        et se combine à une foule de corps. </p>
+                     <p>L'atmosphère contient en outre de la vapeur d'eau et quelques dixmillièmes
+                        d'un gaz formé d’oxygène et de charbon : l'acide carbonique. Les animaux en
+                        exhalent pendant l'acte de la respiration, de même <pb type="page" n="385"/>
+                        <fw> LA VACHERIE. 385 </fw> que les plantes durant la nuit, et certains
+                        végétaux en fermentation. Comme il est impropre à la vie, on comprend qu'il
+                        soit malsain de ne pas renouveler fréquemment l'air des lieux fermés où se
+                        réunissent plusieurs personnes ou plusieurs animaux. C'est pour ce motif que
+                        l'on ne conserve pas sans danger des plantes et des fleurs dans une chambre
+                        à coucher.</p>
                   </div4>
                   <div4 type="questions">
                      <list>
                         <item>LA VACHE.</item>
                         <item>— Que savez-vous de la vache, du veau et du bœuf ? </item>
                         <item>— Produits et services dont nous leur sommes redevables.</item>
-                        <item>— Usages de la peau, des os, des cornes, des tendons, du sang de ces animaux.</item>
+                        <item>— Usages de la peau, des os, des cornes, des tendons, du sang de ces
+                           animaux.</item>
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>La vache est le plus précieux peut-être de nos animaux domestiques ; <lb />elle nous donne à la fois son lait, sa chair et son travail, lequel, dans <lb />certaines contrées,
-                        n'est pas sans importance.</p>
-                     <p>Le bœuf est, après le cheval, le plus utile auxiliaire de l'homme ; il <lb />tire la charrue et traîne les chariots ; engraissé, il fournit une chair <lb />succulente et
-                        fortifiante.</p>
-                     <p>Le veau et la génisse sont les petits de la vache ; un certain nombre <lb />d'entre eux sont destinés à la boucherie ; ils donnent une viande déli- <lb />cate et de facile
-                        digestion.</p>
-                     <p>Ces animaux appartiennent à l'ordre des ruminants, c'est-à-dire <lb />que la nourriture exclusivement végétale dont ils s'accommodent passe <lb />d'abord dans un premier
-                        estomac, revient à la bouche pour être mâ- <lb />chée de nouveau, redescend dans un second estomac, puis se rend <lb />dans un troisième et, enfin, dans un quatrième. </p>
-                     <p>Les services que le bœuf, la vache et leurs petits rendent à l'homme <lb />se prolongent au delà de leur existence : on met à profit toutes leurs <lb />dépouilles. Avec leur
-                        peau, on fait un cuir excellent ; avec leurs <lb />cornes, on confectionne mille petits objets utiles : des boîtes, des <lb />peignes, des manches de couteau, des vitres de
-                        lanternes. Les os du <lb />bœuf remplacent l'ivoire et se vendent à bas prix ; s'ils sont frais, <lb />ou en fait de la gélatine, et, s'ils sont secs, du noir animal ; les
-                        tendons <lb />donnent un fil très fin employé par les selliers ; les pieds fournissent une <lb />huile précieuse ; le sang est employé dans la fabrication du bleu de
-                        <lb />Prusse et de la graisse on tire un suif excellent.</p>
-                     <p>On estime qu'il y a en France douze millions de têtes de l'espèce <lb />bovine.</p>
+                     <p>La vache est le plus précieux peut-être de nos animaux domestiques ; elle
+                        nous donne à la fois son lait, sa chair et son travail, lequel, dans
+                        certaines contrées, n'est pas sans importance.</p>
+                     <p>Le bœuf est, après le cheval, le plus utile auxiliaire de l'homme ; il tire
+                        la charrue et traîne les chariots ; engraissé, il fournit une chair
+                        succulente et fortifiante.</p>
+                     <p>Le veau et la génisse sont les petits de la vache ; un certain nombre
+                        d'entre eux sont destinés à la boucherie ; ils donnent une viande délicate
+                        et de facile digestion.</p>
+                     <p>Ces animaux appartiennent à l'ordre des ruminants, c'est-à-dire que la
+                        nourriture exclusivement végétale dont ils s'accommodent passe d'abord dans
+                        un premier estomac, revient à la bouche pour être mâchée de nouveau,
+                        redescend dans un second estomac, puis se rend dans un troisième et, enfin,
+                        dans un quatrième. </p>
+                     <p>Les services que le bœuf, la vache et leurs petits rendent à l'homme se
+                        prolongent au delà de leur existence : on met à profit toutes leurs
+                        dépouilles. Avec leur peau, on fait un cuir excellent ; avec leurs cornes,
+                        on confectionne mille petits objets utiles : des boîtes, des peignes, des
+                        manches de couteau, des vitres de lanternes. Les os du bœuf remplacent
+                        l'ivoire et se vendent à bas prix ; s'ils sont frais, ou en fait de la
+                        gélatine, et, s'ils sont secs, du noir animal ; les tendons donnent un fil
+                        très fin employé par les selliers ; les pieds fournissent une huile
+                        précieuse ; le sang est employé dans la fabrication du bleu de Prusse et de
+                        la graisse on tire un suif excellent.</p>
+                     <p>On estime qu'il y a en <placeName>France</placeName> douze millions de têtes
+                        de l'espèce bovine.</p>
                   </div4>
                </div3>
                <div3 type="agriculture">
@@ -200,42 +266,81 @@
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>Une prairie est un terrain qui produit de l'herbe, du foin ou  <lb />d'autres plantes servant aux mêmes usages que les deux premières.</p>
+                     <p>Une prairie est un terrain qui produit de l'herbe, du foin ou  d'autres
+                        plantes servant aux mêmes usages que les deux premières.</p>
                      <p>Il y a deux espèces de prairies : </p>
-                     <p>1° Les prairies artificielles, terres labourables sur lesquelles on a <lb />semé, pour quelques années, différentes espèces d'herbes propres à la <lb />nourriture des animaux
-                        domestique, telles que le trèfle, la luzerne, <lb />la minette, le sainfoin.</p>
-                     <p>2° Les prairies naturelles, terrains sur lesquels le foin vient naturel- <lb />lement ou a été semé en vue de produire pendant plusieurs années.</p>
-                     <p>Les terrains qui conviennent aux prairies naturelles doivent être <lb />frais et profonds ; il en est de même pour la luzerne. Le trèfle, la <lb />minette, le sainfoin
-                        réussissent dans les terres maigres et même pier- <lb />reuses ; ce sont des plantes précieuses lorsque le sol n'est pas <lb />arrosé par des fontaines ou des ruisseaux et ne
-                        peut, par conséquent, <lb />se prêter à l'établissement de prairies naturelles et à la culture de la <lb />luzerne.</p>
-                     <p>Les prairies de toutes sortes sont fauchées quand elles sont en fleur ; <fw type="footer"> SUZETTE (Maîtresse). <fw type="sig"> 22 </fw></fw>
-                        <pb type="page" n="386" />
-                        <fw> 386 SUZETTE. </fw>
-                        <lb />on étend l'herbe sur le terrain ; on la retourne pour qu'elle sèche bien <lb />également, et on la rentre ensuite dans les granges, à moins qu'on ne <lb />l'entasse dans
-                        les champs, en masses coniques connues sous le nom de <lb /><term type="prairies">meules</term>. </p>
+                     <p>1° Les prairies artificielles, terres labourables sur lesquelles on a semé,
+                        pour quelques années, différentes espèces d'herbes propres à la nourriture
+                        des animaux domestique, telles que le trèfle, la luzerne, la minette, le
+                        sainfoin.</p>
+                     <p>2° Les prairies naturelles, terrains sur lesquels le foin vient
+                        naturellement ou a été semé en vue de produire pendant plusieurs années.</p>
+                     <p>Les terrains qui conviennent aux prairies naturelles doivent être frais et
+                        profonds ; il en est de même pour la luzerne. Le trèfle, la minette, le
+                        sainfoin réussissent dans les terres maigres et même pierreuses ; ce sont
+                        des plantes précieuses lorsque le sol n'est pas arrosé par des fontaines ou
+                        des ruisseaux et ne peut, par conséquent, se prêter à l'établissement de
+                        prairies naturelles et à la culture de la luzerne.</p>
+                     <p>Les prairies de toutes sortes sont fauchées quand elles sont en fleur ; <fw
+                           type="footer"> SUZETTE (Maîtresse). <fw type="sig"> 22 </fw></fw>
+                        <pb type="page" n="386"/>
+                        <fw> 386 SUZETTE. </fw> on étend l'herbe sur le terrain ; on la retourne
+                        pour qu'elle sèche bien également, et on la rentre ensuite dans les granges,
+                        à moins qu'on ne l'entasse dans les champs, en masses coniques connues sous
+                        le nom de meules. </p>
                   </div4>
                </div3>
                <div3 type="histoire">
                   <head type="sujets"> Histoire. </head>
                   <div4 type="questions">
                      <list>
-                        <item>— Racontez ce que vous savez de la reine Marie-Antoinette, du palais de Versailles et de Trianon.</item>
+                        <item>— Racontez ce que vous savez de la reine <persName type="historique"
+                              >Marie-Antoinette</persName>, du <placeName>palais de
+                              Versailles</placeName> et de <placeName>Trianon</placeName>.</item>
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>Marie-Antoinette d'Autriche, reine de France, naquit à Vienne en <lb />1755 et fut guillotinée le 16 octobre 1793. Elle épousa en 1770 le <lb />Dauphin de France, qui fut
-                        depuis le roi Louis XVI ; à peine ce dernier <lb />était-il sur le trône, que la légèreté et la hauteur de Marie- <lb />Antoinette augmentèrent les embarras de la royauté et du
-                        gouver- <lb />nement ; elle fut en butte à l'inimitié d'une partie de la cour, et, <lb />comme elle s'opposait à toutes les reformes, l'opinion publique se <lb />tourna contre
-                        elle. Sa conduite fut plus qu'imprudente au début de <lb />la révolution et, aux journées des 5 et 6 octobre 1789, elle n'échappa <lb />que par miracle aux poignards des
-                        assassins. Emprisonnée au Temple <lb />avec son mari et ses enfants après le 10 août 1792, elle y souffrit <lb />tous les outrages, tous les tourments, comme reine, comme
-                        épouse et <lb />comme mère ; sa captivité fut un véritable martyre. Traduite devant le <lb />tribunal révolutionnaire et condamnée à mort après avoir entendu <lb />formuler
-                        contre elle les plus lâches et les plus infâmes accusations, <lb />elle marcha au supplice avec beaucoup de fermeté et mourut en par- <lb />donnant à ses ennemis.</p>
-                     <p>Le palais de Versailles est un immense édifice, de 450 mètres de <lb />façade sur les jardins, qui fut construit sous le règne de Louis XIV. <lb />Les architectes Levau et
-                        Hardouin Mansart, le peintre Lebrun, le jar- <lb />dinier Le Nôtre le construisirent ou l'ornèrent ; la dépense a été <lb />estimée à un milliard de la monnaie de l'époque.</p>
-                     <p>Le grand roi y habita de 1672 jusqu'à sa mort ; Louis XV et <lb />Louis XVI y fixèrent leur résidence, et ce dernier jusqu'à ce que le <lb />peuple de Paris le ramenât aux
-                        Tuileries, en octobre 1789. Sous le <lb />règne de Louis-Philippe, ce magnifique édifice fut converti en un <lb />musée des gloires nationales de la France (1837).</p>
-                     <p>Le palais du Grand Trianon, bâti sous Louis XIV vers 1676, et celui <lb />du Petit Trianon, créé par Louis XV, sont de beaux édifices contigus <lb />au jardin du palais de
-                        Versailles. Marie-Antoinette aimait beaucoup <lb />à résider au Petit Trianon.</p>
+                     <p><persName type="historique">Marie-Antoinette d'Autriche</persName>, reine de
+                           <placeName>France</placeName>, naquit à <placeName>Vienne</placeName> en
+                        1755 et fut guillotinée le 16 octobre 1793. Elle épousa en 1770 le Dauphin
+                        de France, qui fut depuis le roi <persName type="historique">Louis
+                           XVI</persName> ; à peine ce dernier était-il sur le trône, que la
+                        légèreté et la hauteur de <persName type="historique"
+                           >MarieAntoinette</persName> augmentèrent les embarras de la royauté et du
+                        gouvernement ; elle fut en butte à l'inimitié d'une partie de la cour, et,
+                        comme elle s'opposait à toutes les reformes, l'opinion publique se tourna
+                        contre elle. Sa conduite fut plus qu'imprudente au début de la révolution
+                        et, aux journées des 5 et 6 octobre 1789, elle n'échappa que par miracle aux
+                        poignards des assassins. Emprisonnée au <placeName>Temple</placeName> avec
+                        son mari et ses enfants après le 10 août 1792, elle y souffrit tous les
+                        outrages, tous les tourments, comme reine, comme épouse et comme mère ; sa
+                        captivité fut un véritable martyre. Traduite devant le tribunal
+                        révolutionnaire et condamnée à mort après avoir entendu formuler contre elle
+                        les plus lâches et les plus infâmes accusations, elle marcha au supplice
+                        avec beaucoup de fermeté et mourut en pardonnant à ses ennemis.</p>
+                     <p>Le <placeName>palais de Versailles</placeName> est un immense édifice, de
+                        450 mètres de façade sur les jardins, qui fut construit sous le règne de
+                           <persName type="historique">Louis XIV</persName>. Les architectes
+                           <persName type="historique">Levau</persName> et <persName
+                           type="historique">Hardouin Mansart</persName>, le peintre <persName
+                           type="historique">Lebrun</persName>, le jardinier <persName
+                           type="historique">Le Nôtre</persName> le construisirent ou l'ornèrent ;
+                        la dépense a été estimée à un milliard de la monnaie de l'époque.</p>
+                     <p>Le grand roi y habita de 1672 jusqu'à sa mort ; <persName type="historique"
+                           >Louis XV</persName> et <persName>Louis XVI</persName> y fixèrent leur
+                        résidence, et ce dernier jusqu'à ce que le peuple de
+                           <placeName>Paris</placeName> le ramenât aux
+                           <placeName>Tuileries</placeName>, en octobre 1789. Sous le règne de
+                           <persName type="historique">Louis-Philippe</persName>, ce magnifique
+                        édifice fut converti en un <placeName>musée des gloires nationales de la
+                           France</placeName> (1837).</p>
+                     <p>Le palais du <placeName>Grand Trianon</placeName>, bâti sous <persName
+                           type="historique">Louis XIV</persName> vers 1676, et celui du
+                           <placeName>Petit Trianon</placeName>, créé par <persName
+                           type="historique">Louis XV,</persName> sont de beaux édifices contigus au
+                        jardin du <placeName>palais de Versailles</placeName>. <persName
+                           type="historique">Marie-Antoinette</persName> aimait beaucoup à résider
+                        au <placeName>Petit Trianon</placeName>.</p>
                   </div4>
                </div3>
                <div3 type="économie_domestique">
@@ -244,21 +349,30 @@
                      <list>
                         <item>— Usages du lait de vache ; — comment on le conserve.</item>
                         <item>— Détails sur une laiterie.</item>
-                        <item>— Quels produits sont fabriqués avec le lait de vache, celui des chèvres et des brebis.</item>
-                        <item>— Détails sur le beurre et le fromage. (Voir, pour ce dernier point, la leçon 29.)</item>
+                        <item>— Quels produits sont fabriqués avec le lait de vache, celui des
+                           chèvres et des brebis.</item>
+                        <item>— Détails sur le beurre et le fromage. (Voir, pour ce dernier point,
+                           la leçon 29.)</item>
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>Le lait est à la fois un aliment solide et une boisson, une source <lb />d'albumine et de graisse, de sucre et de sel : c'est l'aliment des ali- <lb />ments, à la fois très
-                        nourrissant et digestif. On l'emploie pur ; il entre <lb />dans la confection des soupes, des potages, de divers ragoûts, de la <lb />plupart des crèmes et des pâtisseries,
-                        sans en excepter celle du <lb />beurre et du fromage.</p>
-                     <p>En été, on ne peut conserver le lait que dans des vases très propres, <lb />en le faisant bouillir et en le tenant dans un lieu frais. Un peu de <lb />bicarbonate de soude
-                        produit, dit-on, le même effet ; mais ce procédé <lb />n'est pas hygiénique.</p>
-                     <p>Une laiterie est une pièce demi-souterraine ordinairement, exposée <lb />au nord, munie d'une seule fenêtre pour que la lumière n'y arrive <lb />qu'en petite quantité. Les murs
-                        en doivent être épais ; intérieurement, <pb type="page" n="387" />
-                        <fw> LE RUCHER. 387 </fw>
-                        <lb />ils sont garnis de tablettes de pierre ou de bois dur sur lesquelles on <lb />pose les vases de lait ; le pavé, formé de larges dalles, a besoin d'être <lb />fréquemment
-                        lavé à l'eau fraîche.</p>
+                     <p>Le lait est à la fois un aliment solide et une boisson, une source
+                        d'albumine et de graisse, de sucre et de sel : c'est l'aliment des aliments,
+                        à la fois très nourrissant et digestif. On l'emploie pur ; il entre dans la
+                        confection des soupes, des potages, de divers ragoûts, de la plupart des
+                        crèmes et des pâtisseries, sans en excepter celle du beurre et du
+                        fromage.</p>
+                     <p>En été, on ne peut conserver le lait que dans des vases très propres, en le
+                        faisant bouillir et en le tenant dans un lieu frais. Un peu de bicarbonate
+                        de soude produit, dit-on, le même effet ; mais ce procédé n'est pas
+                        hygiénique.</p>
+                     <p>Une laiterie est une pièce demi-souterraine ordinairement, exposée au nord,
+                        munie d'une seule fenêtre pour que la lumière n'y arrive qu'en petite
+                        quantité. Les murs en doivent être épais ; intérieurement, <pb type="page"
+                           n="387"/>
+                        <fw> LE RUCHER. 387 </fw> ils sont garnis de tablettes de pierre ou de bois
+                        dur sur lesquelles on pose les vases de lait ; le pavé, formé de larges
+                        dalles, a besoin d'être fréquemment lavé à l'eau fraîche.</p>
                   </div4>
                </div3>
             </div2>

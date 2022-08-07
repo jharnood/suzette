@@ -52,7 +52,9 @@
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles. Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine – Couture</title>
+                  <title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles.
+                     Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine –
+                     Couture</title>
                   <author>Robert Halt</author>
                   <textLang>French</textLang>
                   <imprint>
@@ -74,7 +76,7 @@
    <text>
       <body>
          <div1 type="chapitre" xml:lang="fr" n="ch072">
-            <pb type="page" n="248" />
+            <pb type="page" n="248"/>
             <fw>248 SUZETTE.</fw>
             <head>72. — Souvenirs d'histoire. (Élève, p. 152.)</head>
             <div2 type="récit">
