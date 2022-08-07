@@ -52,7 +52,9 @@
             <sourceDesc>
                 <biblStruct>
                     <monogr>
-                        <title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles. Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine – Couture</title>
+                        <title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles.
+                            Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine –
+                            Couture</title>
                         <author>Robert Halt</author>
                         <textLang>French</textLang>
                         <imprint>
@@ -74,56 +76,86 @@
     <text>
         <body>
             <div1 type="chapitre" xml:lang="fr" n="ch030">
-                <pb type="page" n="106" />
-                <head>30. — Vive le blé de <placeName type="réel"><country ref="france">France</country></placeName> ! (Élève, p. 71.)</head>
+                <pb type="page" n="106"/>
+                <head>30. — Vive le blé de <placeName type="réel"><country ref="france"
+                            >France</country></placeName> ! (Élève, p. 71.)</head>
                 <div2 type="récit">
-                    <p>Pendant les trois jours qui suivirent, le père, <persName type="fictif" key="jacques">Jacques</persName>, <persName type="fictif" key="suzette">Suzette</persName>, ne
-                        s’entretinrent que de beaux et bons tra- vaux à faire. <persName type="fictif" key="jacques">Jacques</persName> voulait être renseigné sur la situation exacte du
-                        petit bien, sur ses charges*<gloss>Des Charges. Les dépenses qu'on est obligé de faire.</gloss>, ses ressources*<gloss>Ressources. Argent, choses à vendre avec quoi l'on
+                    <p>Pendant les trois jours qui suivirent, le père, <persName type="fictif"
+                            key="jacques">Jacques</persName>, <persName type="fictif" key="suzette"
+                            >Suzette</persName>, ne s’entretinrent que de beaux et bons tra- vaux à
+                        faire. <persName type="fictif" key="jacques">Jacques</persName> voulait être
+                        renseigné sur la situation exacte du petit bien, sur ses charges*<gloss>Des
+                            Charges. Les dépenses qu'on est obligé de faire.</gloss>, ses
+                            ressources*<gloss>Ressources. Argent, choses à vendre avec quoi l'on
                             peut solder ses dépenses.</gloss>.</p>
-                    <p>Il le parcourut en compagnie du père, qui acceptait parfaitement l’idée d'en doubler le rapport, mais sans changer grand'chose au train ordinaire et en rechi-
-                            gnant*<gloss>Rechigner. Témoigner de la répugnance avec mauvaise humeur.</gloss> un peu aux innovations*<gloss>Innovation. Pratique nouvelle qu'on introduit dans sa
-                            manière habituelle de faire une chose.</gloss>, comme font d'ordinaire les gens ancrés*<gloss>Ancré. S'affermir obstinément dans un procédé routinier, dans une
+                    <p>Il le parcourut en compagnie du père, qui acceptait parfaitement l’idée d'en
+                        doubler le rapport, mais sans changer grand'chose au train ordinaire et en
+                        rechi- gnant*<gloss>Rechigner. Témoigner de la répugnance avec mauvaise
+                            humeur.</gloss> un peu aux innovations*<gloss>Innovation. Pratique
+                            nouvelle qu'on introduit dans sa manière habituelle de faire une
+                            chose.</gloss>, comme font d'ordinaire les gens ancrés*<gloss>Ancré.
+                            S'affermir obstinément dans un procédé routinier, dans une
                             habitude.</gloss> dans leurs habitudes.</p>
-                    <p>— Nous aurons beau faire, disait-il, le blé du vieux sol d'<placeName type="réel"><bloc ref="europe">Europe</bloc></placeName>, fatigué par tant de récoltes, ne peut pas
-                        lutter contre le blé d'<placeName type="réel"><country ref="états-unis">Amérique</country></placeName>, qui pousse là-bas presque sans travail dans des terres
-                        toutes neuves. La semaine dernière, ta sœur me lisait dans un livre qu'en ce pays, il y a d'immenses espaces encore à défricher. Un seul Américain en possède
-                        des milliers d'hectares. A l’au- <pb type="page" n="107" />
-                        <fw>VIVE LE BLÉ DE FRANCE ! 107</fw>
-                        tomne, il transporte dans ces solitudes une population d'ouvriers à peupler une ville ; ceux-ci lancent des charrues à vapeur qui remuent le sol ; puis, la
-                        terre à peine retournée, on l'ensemence. Ce- la fait, on lui dit adieu ; on l'aban- donne au hasard des chardons, de
-                            l'ivraie*<gloss>Ivraie. Mauvaise herbe qui croit parmi les blés.</gloss>, des trou- peaux de bisons, à  l’aventure des pluies et des sécheresses.
-                        On revient à l'heure de la récolte. Elle ne donne que le plus faible rendement de nos plus mauvaises terres ; mais c'est un blé qui,
+                    <p>— Nous aurons beau faire, disait-il, le blé du vieux sol d'<placeName
+                            type="réel"><bloc ref="europe">Europe</bloc></placeName>, fatigué par
+                        tant de récoltes, ne peut pas lutter contre le blé d'<placeName type="réel"
+                                ><country ref="états-unis">Amérique</country></placeName>, qui
+                        pousse là-bas presque sans travail dans des terres toutes neuves. La semaine
+                        dernière, ta sœur me lisait dans un livre qu'en ce pays, il y a d'immenses
+                        espaces encore à défricher. Un seul Américain en possède des milliers
+                        d'hectares. A l’au- <pb type="page" n="107"/>
+                        <fw>VIVE LE BLÉ DE FRANCE ! 107</fw> tomne, il transporte dans ces solitudes
+                        une population d'ouvriers à peupler une ville ; ceux-ci lancent des charrues
+                        à vapeur qui remuent le sol ; puis, la terre à peine retournée, on
+                        l'ensemence. Ce- la fait, on lui dit adieu ; on l'aban- donne au hasard des
+                        chardons, de l'ivraie*<gloss>Ivraie. Mauvaise herbe qui croit parmi les
+                            blés.</gloss>, des trou- peaux de bisons, à  l’aventure des pluies et
+                        des sécheresses. On revient à l'heure de la récolte. Elle ne donne que le
+                        plus faible rendement de nos plus mauvaises terres ; mais c'est un blé qui,
                         n'ayant presque rien coûté, écrase le nôtre sur nos marchés.</p>
-                    <p> — Et c'est de la culture, cela ! s'écria <persName type="fictif" key="jacques">Jacques</persName> avec mépris.</p>
+                    <p> — Et c'est de la culture, cela ! s'écria <persName type="fictif"
+                            key="jacques">Jacques</persName> avec mépris.</p>
                     <p>— Non ; mais c'est une culture qui tue la nôtre.</p>
-                    <p>— Parce que la nôtre se laisse tuer, se décou- rage au lieu de lutter par les soins, la science, les méthodes *<gloss>Méthode. Procédés de
-                            culture.</gloss>
-                        nouvelles qui, ap- pliquées à notre merveilleuse terre, la rendraient sans rivale. Et je veux vous entendre crier bientôt : Vive le blé de
-                            <placeName type="réel"><country ref="france">France</country></placeName> !</p>
+                    <p>— Parce que la nôtre se laisse tuer, se décou- rage au lieu de lutter par les
+                        soins, la science, les méthodes *<gloss>Méthode. Procédés de
+                            culture.</gloss> nouvelles qui, ap- pliquées à notre merveilleuse terre,
+                        la rendraient sans rivale. Et je veux vous entendre crier bientôt : Vive le
+                        blé de <placeName type="réel"><country ref="france"
+                            >France</country></placeName> !</p>
                     <figure>
-                        <caption>Blé, seigle, orge, avoine. Le blé, l'orge et le seigle servent à faire le pain ; l'avoine est la principale nourriture des chevaux. L'orge entre
-                            également dans la fabrication de la bière. La paille de ces céréales est employée à différents usages : nourriture et litière des chevaux, paillasses,
-                            etc.</caption>
+                        <caption>Blé, seigle, orge, avoine. Le blé, l'orge et le seigle servent à
+                            faire le pain ; l'avoine est la principale nourriture des chevaux.
+                            L'orge entre également dans la fabrication de la bière. La paille de ces
+                            céréales est employée à différents usages : nourriture et litière des
+                            chevaux, paillasses, etc.</caption>
                     </figure>
                     <figure>
-                        <caption>Le bison. Cet animal sauvage, de la taille d’un bœuf, vit en <placeName type="réel"><country ref="états-unis">Amérique</country></placeName>, où il est
-                            l'objet d'une chasse opiniâtre.</caption>
+                        <caption>Le bison. Cet animal sauvage, de la taille d’un bœuf, vit en
+                                <placeName type="réel"><country ref="états-unis"
+                                >Amérique</country></placeName>, où il est l'objet d'une chasse
+                            opiniâtre.</caption>
                     </figure>
                 </div2>
-                <pb type="page" n="108" />
+                <pb type="page" n="108"/>
                 <fw>108 SUZETTE.</fw>
                 <div2 type="questionnaire">
                     <head>Questionnaire.</head>
                     <list>
-                        <item>— Quel fut l'objet des entretiens de la famille pendant les trois jours suivants ? </item>
-                        <item>— Quelle était l'opinion de <persName type="fictif" key="m_dumay">M. Dumay</persName> sur les améliorations proposées par <persName type="fictif" key="jacques"
-                                >Jacques</persName> ? </item>
+                        <item>— Quel fut l'objet des entretiens de la famille pendant les trois
+                            jours suivants ? </item>
+                        <item>— Quelle était l'opinion de <persName type="fictif" key="m_dumay">M.
+                                Dumay</persName> sur les améliorations proposées par <persName
+                                type="fictif" key="jacques">Jacques</persName> ? </item>
                         <item>— Quelles objections faisait-il sur la culture du blé ? </item>
-                        <item>— <persName type="fictif" key="suzette">Suzette</persName> n'avait-elle pas lu quelques détails sur la semaille et la récolte du blé en <placeName type="réel"><country
-                                    ref="états-unis">Amérique</country></placeName> (<placeName type="réel"><country ref="états-unis">États-Unis</country></placeName>) ? </item>
-                        <item>— A quoi <persName type="fictif" key="jacques">Jacques</persName> attribuait-il l'infériorité de la production du blé en <placeName type="réel"><country ref="france"
-                                    >France</country></placeName> ? </item>
+                        <item>— <persName type="fictif" key="suzette">Suzette</persName>
+                            n'avait-elle pas lu quelques détails sur la semaille et la récolte du
+                            blé en <placeName type="réel"><country ref="états-unis"
+                                    >Amérique</country></placeName> (<placeName type="réel"><country
+                                    ref="états-unis">États-Unis</country></placeName>) ? </item>
+                        <item>— A quoi <persName type="fictif" key="jacques">Jacques</persName>
+                            attribuait-il l'infériorité de la production du blé en <placeName
+                                type="réel"><country ref="france">France</country></placeName> ?
+                        </item>
                     </list>
                 </div2>
                 <div2 type="exercices">
@@ -132,47 +164,100 @@
                         <head type="sujets">Géographie.</head>
                         <div4 type="questions">
                             <list>
-                                <item>— Qu'est-ce que l'<placeName type="réel"><country ref="états-unis">Amérique</country></placeName> ?</item>
+                                <item>— Qu'est-ce que l'<placeName type="réel"><country
+                                            ref="états-unis">Amérique</country></placeName> ?</item>
                                 <item>— En tracer le croquis.</item>
                                 <item>— Racontez comment elle fut découverte.</item>
                             </list>
                         </div4>
                         <div4 type="réponses">
-                            <p>L'<placeName type="réel"><country ref="états-unis">Amérique</country></placeName> est un immense continent situé à l'ouest de l'<placeName type="réel"><bloc ref="europe"
-                                        >Europe</bloc></placeName>, de l'autre côté de l'<placeName type="réel"><geogFeat type="océan" ref="atlantique">Atlantique</geogFeat></placeName>. Il se
-                                divise en deux régions : l'<placeName type="réel"><bloc ref="amérique_nord">Amérique</bloc>
-                                    septentrionale</placeName> et l'<placeName type="réel"><bloc ref="amérique_sud">Amérique méridionale</bloc></placeName>, réunies par <placeName type="réel"
-                                        ><geogFeat type="isthme">l'isthme</geogFeat></placeName> de <placeName type="réel"><country ref="panama">Panama</country></placeName>, à travers lequel
-                                    <persName type="historique">M. de Lesseps</persName> a entrepris de creuser un canal pour le passage des navires, comme il l'a déjà fait pour <placeName
-                                    type="réel"><geogFeat type="isthme">l'isthme de Suez</geogFeat></placeName>.</p>
-                            <p> L'État le plus important de cette partie du monde sont les <placeName type="réel"><country ref="états-unis">États-Unis</country></placeName>, qui comptent environ
-                                soixante millions d'habitants ; on désigne parfois cette contrée sous le nom d'<placeName type="réel"><country ref="états-unis">Amérique</country></placeName>,
-                                comme on l'a fait dans cette leçon, en parlant du blé.</p>
-                            <p><placeName type="réel"><bloc ref="amérique_nord">Le continent américain</bloc></placeName> fut découvert par <persName type="historique">Christophe Colomb</persName>,
-                                navigateur génois né à <placeName type="réel"><settlement ref="calvi">Calvi</settlement></placeName>, en <placeName type="réel">Corse</placeName> (1440-1505).
-                                Plusieurs voyages et l'étude des cartes géographiques lui inspirèrent l'idée que la terre est ronde, et que l’on pouvait arriver aux <placeName type="réel"
-                                        ><country ref="indes">Indes</country></placeName> en faisant voile vers l'ouest. Dès lors, il n'eut plus pour pensée que de faire ce voyage, et il
-                                sollicita de toutes parts les moyens de l'accomplir. Son courage fut égal à la force de son esprit, car il eut à combattre tous les préjugés. Gênes le
-                                traita de visionnaire, <persName type="historique">Henri VII</persName>, roi d'<placeName type="réel"><country ref="angleterre">Angleterre</country></placeName>,
-                                n'écouta pas le frère de <persName type="historique">Colomb</persName>; lui-même essuya un refus de <persName type="historique">Jean II</persName>, roi de
-                                    <placeName type="réel"><country ref="portugal">Portugal</country></placeName>. Il ne pouvait s'adresser à la <placeName type="réel"><country ref="france"
-                                        >France</country></placeName>, dont la marine était toujours négligée. L'empereur d'<placeName type="réel"><country ref="allemagne"
-                                    >Allemagne</country></placeName> n'avait ni flotte, ni ports, ni argent. <persName type="historique">Colomb</persName> n'espéra qu'en la cour d'<placeName
-                                    type="réel"><country ref="espagne">Espagne</country></placeName>. Après huit ans de sollicitations, la reine <persName type="historique">Isabelle</persName>
-                                et le roi <persName type="historique">Ferdinand</persName> consentiront à  lui prêter leur appui ; mais la cour d'<placeName type="réel"><country ref="espagne"
-                                        >Espagne</country></placeName> était pauvre ; il fallut que le prieur <persName type="historique">Pérez</persName> et deux négociants, nommés <persName
-                                    type="historique">Penzone</persName>, avançassent 17,000 ducats pour faire l'armement. <persName type="historique">Colomb</persName> partit enfin de
-                                    <placeName type="réel"><settlement ref="palos">Palos</settlement></placeName>, en  <placeName type="réel"><region type="province" ref="andalousie"
-                                        >Andalousie</region></placeName>, avec trois petits vaisseaux dont un seul était ponté, le 3 août 1492. Trois mois après, le 12 octobre, il découvrit la
-                                première terre de l'<placeName type="réel"><country ref="états-unis">Amérique</country></placeName> : c'était l'une des îles du groupe des <placeName ref="réel"
-                                        ><region type="province" ref="lucayes">Lucayes</region></placeName>, ap- pelée Guanahain par les indigènes ; <persName type="historique">Colomb</persName>
-                                lui donna le nom de <placeName type="réel"><settlement ref="san_salvador">San- Salvador</settlement></placeName>. Il visita ensuite les autres îles <placeName
-                                    type="réel"><region type="province" ref="lucayes">Lucayes</region></placeName>, puis il découvrit <placeName type="réel"><country ref="cuba"
-                                    >Cuba</country></placeName> et <placeName type="réel"><country ref="haïti">Haïti</country></placeName>, que les <orgName>Espagnols</orgName> appelèrent plus tard
+                            <p>L'<placeName type="réel"><country ref="états-unis"
+                                    >Amérique</country></placeName> est un immense continent
+                                situé à l'ouest de l'<placeName type="réel"><bloc ref="europe"
+                                        >Europe</bloc></placeName>, de l'autre côté de l'<placeName
+                                    type="réel"><geogFeat type="océan" ref="atlantique"
+                                        >Atlantique</geogFeat></placeName>. Il se divise en deux
+                                régions : l'<placeName type="réel"><bloc ref="amérique_nord"
+                                        >Amérique</bloc> septentrionale</placeName> et l'<placeName
+                                    type="réel"><bloc ref="amérique_sud">Amérique
+                                    méridionale</bloc></placeName>, réunies par <placeName
+                                    type="réel"><geogFeat type="isthme"
+                                    >l'isthme</geogFeat></placeName> de <placeName type="réel"
+                                        ><country ref="panama">Panama</country></placeName>, à
+                                travers lequel <persName type="historique">M. de Lesseps</persName>
+                                a entrepris de creuser un canal pour le passage des navires, comme
+                                il l'a déjà fait pour <placeName type="réel"><geogFeat type="isthme"
+                                        >l'isthme de Suez</geogFeat></placeName>.</p>
+                            <p> L'État le plus important de cette partie du monde sont les
+                                    <placeName type="réel"><country ref="états-unis"
+                                        >États-Unis</country></placeName>, qui comptent environ
+                                soixante millions d'habitants ; on désigne parfois cette contrée
+                                sous le nom d'<placeName type="réel"><country ref="états-unis"
+                                        >Amérique</country></placeName>, comme on l'a fait dans
+                                cette leçon, en parlant du blé.</p>
+                            <p><placeName type="réel"><bloc ref="amérique_nord">Le continent
+                                        américain</bloc></placeName> fut découvert par <persName
+                                    type="historique">Christophe Colomb</persName>, navigateur
+                                génois né à <placeName type="réel"><settlement ref="calvi"
+                                        >Calvi</settlement></placeName>, en <placeName type="réel"
+                                    >Corse</placeName> (1440-1505). Plusieurs voyages et l'étude des
+                                cartes géographiques lui inspirèrent l'idée que la terre est ronde,
+                                et que l’on pouvait arriver aux <placeName type="réel"><country
+                                        ref="indes">Indes</country></placeName> en faisant voile
+                                vers l'ouest. Dès lors, il n'eut plus pour pensée que de faire ce
+                                voyage, et il sollicita de toutes parts les moyens de l'accomplir.
+                                Son courage fut égal à la force de son esprit, car il
+                                eut à combattre tous les préjugés. Gênes le traita de visionnaire,
+                                    <persName type="historique">Henri VII</persName>, roi
+                                    d'<placeName type="réel"><country ref="angleterre"
+                                        >Angleterre</country></placeName>, n'écouta pas le frère de
+                                    <persName type="historique">Colomb</persName>; lui-même essuya
+                                un refus de <persName type="historique">Jean II</persName>, roi de
+                                    <placeName type="réel"><country ref="portugal"
+                                        >Portugal</country></placeName>. Il ne pouvait s'adresser à
+                                la <placeName type="réel"><country ref="france"
+                                    >France</country></placeName>, dont la marine était toujours
+                                négligée. L'empereur d'<placeName type="réel"><country
+                                        ref="allemagne">Allemagne</country></placeName> n'avait ni
+                                flotte, ni ports, ni argent. <persName type="historique"
+                                    >Colomb</persName> n'espéra qu'en la cour d'<placeName
+                                    type="réel"><country ref="espagne"
+                                >Espagne</country></placeName>. Après huit ans de sollicitations, la
+                                reine <persName type="historique">Isabelle</persName> et le roi
+                                    <persName type="historique">Ferdinand</persName> consentiront à 
+                                lui prêter leur appui ; mais la cour d'<placeName type="réel"
+                                        ><country ref="espagne">Espagne</country></placeName> était
+                                pauvre ; il fallut que le prieur <persName type="historique"
+                                    >Pérez</persName> et deux négociants, nommés <persName
+                                    type="historique">Penzone</persName>, avançassent 17,000 ducats
+                                pour faire l'armement. <persName type="historique">Colomb</persName>
+                                partit enfin de <placeName type="réel"><settlement ref="palos"
+                                        >Palos</settlement></placeName>, en  <placeName type="réel"
+                                        ><region type="province" ref="andalousie"
+                                        >Andalousie</region></placeName>, avec trois petits
+                                vaisseaux dont un seul était ponté, le 3 août 1492. Trois mois
+                                après, le 12 octobre, il découvrit la première terre de l'<placeName
+                                    type="réel"><country ref="états-unis"
+                                    >Amérique</country></placeName> : c'était l'une des îles du
+                                    groupe des <placeName ref="réel"><region type="province"
+                                        ref="lucayes">Lucayes</region></placeName>, ap- pelée
+                                Guanahain par les indigènes ; <persName type="historique"
+                                    >Colomb</persName> lui donna le nom de <placeName type="réel"
+                                        ><settlement ref="san_salvador">San-
+                                    Salvador</settlement></placeName>. Il visita ensuite les autres
+                                îles <placeName type="réel"><region type="province" ref="lucayes"
+                                        >Lucayes</region></placeName>, puis il découvrit <placeName
+                                    type="réel"><country ref="cuba">Cuba</country></placeName> et
+                                    <placeName type="réel"><country ref="haïti"
+                                    >Haïti</country></placeName>, que les
+                                    <orgName>Espagnols</orgName> appelèrent plus tard
                                 Saint-Domingue.</p>
-                            <p> C’est une erreur de penser que le nom d'<placeName type="réel"><bloc ref="amérique_nord">Amérique</bloc></placeName> vient d'<persName type="historique">Albertino
-                                    Vespucci</persName>, navigateur <orgName>italien</orgName> ; les indigènes de ce continent le dési- gnaient sous ce nom même dès la première période de
-                                l'arrivée des <orgName>Européens</orgName>.</p>
+                            <p> C’est une erreur de penser que le nom d'<placeName type="réel"><bloc
+                                        ref="amérique_nord">Amérique</bloc></placeName> vient
+                                    d'<persName type="historique">Albertino Vespucci</persName>,
+                                navigateur <orgName>italien</orgName> ; les indigènes de ce
+                                continent le dési- gnaient sous ce nom même dès la première période
+                                de l'arrivée des <orgName>Européens</orgName>.</p>
                         </div4>
                     </div3>
                     <div3 type="sciences_naturelles">
@@ -180,30 +265,42 @@
                         <div4 type="questions">
                             <list>
                                 <item>LES CÉRÉALES.</item>
-                                <item>— Décrire une tige et un épi de blé, — de seigle, — d'orge,— d'avoine.</item>
+                                <item>— Décrire une tige et un épi de blé, — de seigle, — d'orge,—
+                                    d'avoine.</item>
                             </list>
                         </div4>
                         <div4 type="réponses">
-                            <p>(Les élèves, sous les yeux desquels ou placera ces objets, en feront la description de vive voix au cours d'une Leçon de choses.)</p>
+                            <p>(Les élèves, sous les yeux desquels ou placera ces objets, en feront
+                                la description de vive voix au cours d'une Leçon de choses.)</p>
                         </div4>
                     </div3>
                     <div3 type="agriculture">
                         <head type="sujets">Agriculture.</head>
                         <div4 type="questions">
                             <list>
-                                <item>— Quand et comment sème-t-on, sarcle-t-on et moissonne-t-on le blé ? </item>
-                                <item>— (Mêmes questions et mêmes développements pour le seigle, l'orge et l’avoine).</item>
+                                <item>— Quand et comment sème-t-on, sarcle-t-on et moissonne-t-on le
+                                    blé ? </item>
+                                <item>— (Mêmes questions et mêmes développements pour le seigle,
+                                    l'orge et l’avoine).</item>
                             </list>
                         </div4>
                         <div4 type="réponses">
-                            <p>Le blé peut être semé du 1er octobre à la fin de novembre, soit à la volée, c'est-à-dire à la main, soit au moyen d'une machine désignée <fw>VIVE LE BLÉ DE FRANCE
-                                    ! 109</fw>
-                                <pb type="page" n="109" />   sous le nom de semoir qui économise le grain et le dispose en ligues régulières dans les pièces de terre. Après les gelées, on
-                                fait passer le rouleau sur les champs de blé afin de tasser le sol autour des racines de la plante. Dans le courant de mai, on arrache les mauvaises herbes,
-                                autrement dit, on sarcle. Enfin, en juillet, la maturité des épis étant complète, on les moissonne à la faucille, à la faux ou à l’aide d'une machine.
-                                Le blé est ensuite lié en bottes et conduit dans les granges.</p>
-                            <p>On sème le seigle au mois de septembre, l'orge en octobre et l'avoine  en février ou en mars. Ces diverses céréales reçoivent les mêmes soins que le blé
-                                jusqu'à la récolte, qu'on fait suivant des procédés semblables et qui s'effectue à peu près à la même époque.</p>
+                            <p>Le blé peut être semé du 1er octobre à la fin de novembre, soit à la
+                                volée, c'est-à-dire à la main, soit au moyen d'une machine désignée
+                                    <fw>VIVE LE BLÉ DE FRANCE ! 109</fw>
+                                <pb type="page" n="109"/>   sous le nom de semoir qui économise le
+                                grain et le dispose en ligues régulières dans les pièces de terre.
+                                Après les gelées, on fait passer le rouleau sur les champs de blé
+                                afin de tasser le sol autour des racines de la plante. Dans le
+                                courant de mai, on arrache les mauvaises herbes, autrement dit, on
+                                sarcle. Enfin, en juillet, la maturité des épis étant complète, on
+                                les moissonne à la faucille, à la faux ou à l’aide d'une machine. Le
+                                blé est ensuite lié en bottes et conduit dans les granges.</p>
+                            <p>On sème le seigle au mois de septembre, l'orge en octobre
+                                et l'avoine  en février ou en mars. Ces diverses céréales reçoivent
+                                les mêmes soins que le blé jusqu'à la récolte, qu'on fait suivant
+                                des procédés semblables et qui s'effectue à peu près à la même
+                                époque.</p>
                         </div4>
                     </div3>
                     <div3 type="industrie">
@@ -211,50 +308,76 @@
                         <div4 type="questions">
                             <list>
                                 <item>— LE MOULIN. </item>
-                                <item>— Quelles sont les deux méthodes pour séparer le grain de la paille ? </item>
-                                <item>— Lorsque le grain est battu, comment le sépare-t-on des menues pailles et des poussières ? </item>
+                                <item>— Quelles sont les deux méthodes pour séparer le grain de la
+                                    paille ? </item>
+                                <item>— Lorsque le grain est battu, comment le sépare-t-on des
+                                    menues pailles et des poussières ? </item>
                                 <item>— Qu'est-ce qu'un moulin ? </item>
                                 <item>— Diverses sortes de moulins.</item>
                                 <item>— Quelle est la principale pièce du moulin ? </item>
                                 <item>— En quoi sont faites les meules ? </item>
-                                <item>— Où descend le grain qui est broyé, et que se passe-t-il alors ? </item>
+                                <item>— Où descend le grain qui est broyé, et que se
+                                    passe-t-il alors ? </item>
                             </list>
                         </div4>
                         <div4 type="réponses">
-                            <p>On sépare le grain de la paille, soit en frappant les gerbes au fléau, soit au moyen d'une machine, le battoir. A son tour, le grain est séparé des
-                                pellicules appelées menues pailles, ainsi que des poussières, avec un large plateau d'osier connu sous le nom de van, ou bien avec une machine particulière
-                                dans laquelle un violent courant d'air est produit par un mouvement très rapide imprimé à une roue à volants.</p>
-                            <p>Un moulin est une usine où divers appareils mis en mouvement soit par l'air, soit par l'eau, soit par la vapeur, réduisent en poudre le grain des céréales.
-                                Les pièces principales d'un moulin sont les meules, grosses pierres poreuses comme des éponges, très dures et de forme cylindrique, superposées l'une à
-                                l'autre à un ou deux millimètres de distance. La meule inférieure est immobile ; la supérieure tourne avec vitesse et écrase le blé qui tombe de la trémie.
-                                La poudre ainsi obtenue descend dans un cylindre de toile fine qui tourne lentement, et dans lequel la farine se sépare du son, qui descend peu à peu dans
-                                un sac. On recueille la farine dans des tiroirs où l’amènent des tuyaux de métal.</p>
+                            <p>On sépare le grain de la paille, soit en frappant les gerbes au
+                                fléau, soit au moyen d'une machine, le battoir. A son tour, le grain
+                                est séparé des pellicules appelées menues pailles, ainsi que des
+                                poussières, avec un large plateau d'osier connu sous le nom de van,
+                                ou bien avec une machine particulière dans laquelle un violent
+                                courant d'air est produit par un mouvement très rapide imprimé à une
+                                roue à volants.</p>
+                            <p>Un moulin est une usine où divers appareils mis en mouvement soit par
+                                l'air, soit par l'eau, soit par la vapeur, réduisent en
+                                poudre le grain des céréales. Les pièces principales d'un moulin
+                                sont les meules, grosses pierres poreuses comme des éponges, très
+                                dures et de forme cylindrique, superposées l'une à l'autre à un ou
+                                deux millimètres de distance. La meule inférieure est immobile ; la
+                                supérieure tourne avec vitesse et écrase le blé qui tombe de la
+                                trémie. La poudre ainsi obtenue descend dans un cylindre de toile
+                                fine qui tourne lentement, et dans lequel la farine se sépare du
+                                son, qui descend peu à peu dans un sac. On recueille la farine dans
+                                des tiroirs où l’amènent des tuyaux de métal.</p>
                         </div4>
                     </div3>
                     <div3 type="économie_domestique">
                         <head type="sujets">Économie domestique.</head>
                         <div4 type="questions">
                             <list>
-                                <item>— Comment se fait le pain ? (farine, eau, levain, fermentation, cuisson).</item>
+                                <item>— Comment se fait le pain ? (farine, eau, levain,
+                                    fermentation, cuisson).</item>
                                 <item>— Diverses sortes de pains.</item>
                                 <item>— Prix actuel du pain.</item>
                                 <item>— Usages de la farine et du son.</item>
-                                <item>— Prix du kilogramme de farine et du double décalitre de son.</item>
+                                <item>— Prix du kilogramme de farine et du double décalitre de
+                                    son.</item>
                             </list>
                         </div4>
                         <div4 type="réponses">
-                            <p>LE PAIN. — Pour faire du pain, on délaye de la farine avec de l'eau tiède dans un coffre nommé pétrin, et l'on obtient ainsi de la pâte à laquelle on mêle du
-                                levain, pâte de la veille déjà aigrie, ou de la levure de bière. Ce mélange détermine la fermentation, c'est-à-dire la production de gaz qui font gonfler la
-                                pâte et y forment un grand nombre de cavités auxquelles le pain doit sa légèreté et une cuisson plus  parfaite.</p>
-                            <p>La pâte est ensuite divisée en morceaux de poids égaux ou différents qu'on façonne en pains de toutes formes. Pendant cette opération, le four a été chauffé
-                                et, après l'avoir débarrassé des cendres et des char- bons, on y introduit les pains au moyen d'une large pelle ; leur surface subit immédiatement l'action
-                                de la chaleur, se durcit et prend une belle couleur brune ou blonde ; l'intérieur, de moindre consistance, reste blanc : c'est la mie, qui est criblée de
+                            <p>LE PAIN. — Pour faire du pain, on délaye de la farine avec de l'eau
+                                tiède dans un coffre nommé pétrin, et l'on obtient ainsi de la pâte
+                                à laquelle on mêle du levain, pâte de la veille déjà aigrie, ou de
+                                la levure de bière. Ce mélange détermine la fermentation,
+                                c'est-à-dire la production de gaz qui font gonfler la pâte et y
+                                forment un grand nombre de cavités auxquelles le pain doit sa
+                                légèreté et une cuisson plus  parfaite.</p>
+                            <p>La pâte est ensuite divisée en morceaux de poids égaux ou différents
+                                qu'on façonne en pains de toutes formes. Pendant cette opération, le
+                                four a été chauffé et, après l'avoir débarrassé des cendres et des
+                                char- bons, on y introduit les pains au moyen d'une large pelle ;
+                                leur surface subit immédiatement l'action de la chaleur, se durcit
+                                et prend une belle couleur brune ou blonde ; l'intérieur, de moindre
+                                consistance, reste blanc : c'est la mie, qui est criblée de
                                 trous.</p>
-                            <p>La farine sert encore à confectionner les gâteaux et à préparer les  sauces et les liaisons. </p>
-                            <p>On emploie le son pour la nourriture des volailles, des bêtes de <fw type="footer">SUZETTE (Maîtresse). <fw type="sig">7</fw></fw>
-                                <pb type="page" n="108" />  <fw type="header">110 SUZETTE.</fw>
-                                somme, des porcs ; ordinairement, après qu'on l'a mouillé, on y mêle des légumes hachés ou bien des betteraves et des pommes de terre. C'est un
-                                aliment peu coûteux et rafraîchissant.</p>
+                            <p>La farine sert encore à confectionner les gâteaux et à préparer les 
+                                sauces et les liaisons. </p>
+                            <p>On emploie le son pour la nourriture des volailles, des bêtes de <fw
+                                    type="footer">SUZETTE (Maîtresse). <fw type="sig">7</fw></fw>
+                                <pb type="page" n="108"/>  <fw type="header">110 SUZETTE.</fw>
+                                somme, des porcs ; ordinairement, après qu'on l'a mouillé, on y mêle
+                                des légumes hachés ou bien des betteraves et des pommes de terre.
+                                C'est un aliment peu coûteux et rafraîchissant.</p>
                         </div4>
                     </div3>
                 </div2>
