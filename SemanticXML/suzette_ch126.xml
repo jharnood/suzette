@@ -126,12 +126,12 @@
                <p>« Veuve <persName type="fictif" key="mme_richard">RICHARD</persName>. »</p>
                <p><persName type="fictif">Suzette</persName> était ravie :</p>
                <p>— Oh ! c'est là un bon mariage ! Et vous verrez <placeName>Paris</placeName>, papa !</p>
-               <p>M. Dumay se grattait l'oreille. Il souriait, après la <pb type="page" n="443"/>
+               <p><persName type="fictif" key="m_dumay">M. Dumay</persName> se grattait l'oreille. Il souriait, après la <pb type="page" n="443"/>
                   <fw>UN MARIAGE. 443</fw> lecture, comme avant. L'idée d'un voyage à <placeName>Paris</placeName> ne lui
                   déplaisait pas du tout.</p>
                <p>Mais peu à peu son visage devint sérieux :</p>
                <p>— Non, non, vraiment, je ne puis partir, abandonner la ferme à <persName type="fictif" key="françois">François</persName>.</p>
-               <p>— Je suis là, papa ; François m'écoutera un peu ; puis Charlot sera alors en
+               <p>— Je suis là, papa ; <persName type="fictif" key="françois">François</persName> m'écoutera un peu ; puis <persName type="fictif" key="charlot">Charlot</persName> sera alors en
                   vacances ; et il a déjà la main solide et de la bonne volonté.</p>
                <p>Elle lui représenta que le 23 septembre tombait juste entre la moisson finie et
                   l'arrachage des betteraves non commencé, et que, si le fermier pouvait jamais
