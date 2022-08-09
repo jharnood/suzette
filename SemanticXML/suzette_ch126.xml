@@ -79,21 +79,21 @@
             <pb type="page" n="441"/>
             <head>126. — Un mariage. (Élève, p. 206.)</head>
             <div2 type="récit">
-               <p>« Paris, 1er septembre.</p>
+               <p>« <placeName>Paris</placeName>, 1er septembre.</p>
                <p>« Mon cher frère,</p>
-               <p>« Préparez votre habit de noce : votre neveu Louis se marie. Il s'est choisi, avec
+               <p>« Préparez votre habit de noce : votre neveu <persName type="fictif" key="louis">Louis</persName> se marie. Il s'est choisi, avec
                   mon agrément, sa compagne d'existence.</p>
-               <p>« Vous rappelez-vous, mon frère, nos lectures de Télémaque*<gloss>Télémaque. Livre
-                     de Fénelon qui traite des aventures de Télémaque.</gloss> autrefois, et mon
+               <p>« Vous rappelez-vous, mon frère, nos lectures de Télémaque*<gloss><persName type="fictif">Télémaque</persName>. Livre
+                     de <persName type="historique">Fénelon</persName> qui traite des aventures de <persName type="fictif">Télémaque</persName>.</gloss> autrefois, et mon
                   admiration de jeune fille pour sa fiancée, dont le portrait commence par ces mots
-                  : « Antiope est douce, simple et sage » ?</p>
-               <p>« La fiancée de Louis ne s'appelle pas Antiope ; elle se nomme Madeleine ; mais à
-                  part cela, c'est Antiope, douce, simple et sage.</p>
+                  : « <persName type="fictif">Antiope</persName> est douce, simple et sage » ?</p>
+               <p>« La fiancée de <persName type="fictif" key="louis">Louis</persName> ne s'appelle pas <persName type="fictif">Antiope</persName> ; elle se nomme <persName type="fictif" key="madeleine">Madeleine</persName> ; mais à
+                  part cela, c'est <persName type="fictif">Antiope</persName>, douce, simple et sage.</p>
                <p>« Elle n'apporte pas de dot*<gloss>Dot. Le bien qu'une fille apporte en
                      mariage.</gloss> à un bon travailleur qui peut s'en passer ; elle a mieux que
                   quelques écus : une profession. Elle est institutrice adjointe dans une école
-                  maternelle de Paris.</p>
-               <p>« Louis a voulu que je la visse au milieu de sa classe de cinquante bébés de trois
+                  maternelle de <placeName>Paris</placeName>.</p>
+               <p>« <persName type="fictif" key="louis">Louis</persName> a voulu que je la visse au milieu de sa classe de cinquante bébés de trois
                   à cinq ans.</p>
                <p>« Rien ne pouvait me la rendre plus chère. Ah ! comme elle sait faire manœuvrer,
                   chanter, travailler ce <fw type="footer"><fw type="sig">25.</fw></fw>
@@ -102,35 +102,35 @@
                   tentive, si sérieuse et si gaie à la fois ! Je me disais. Quelle excellente,
                   intelligente et dévouée maman elle fait déjà ! Elle est fille de veuve et soutient
                   sa mère, de faible santé.</p>
-               <p>« Louis et moi, nous vous demandons, mon frère, d'être témoin au mariage. Dans ma
+               <p>« <persName type="fictif" key="louis">Louis</persName> et moi, nous vous demandons, mon frère, d'être témoin au mariage. Dans ma
                   vie, je n'ai pas trop souvent regretté de n'être pas millionnaire ; mais voilà
                   pourtant une belle occasion de regret ! J'aurais tant voulu vous avoir tous, mon
-                  cher Denis, réunir nos deux familles ! la petitesse de notre bourse nous retient
+                  cher <persName type="fictif" key="m_dumay">Denis</persName>, réunir nos deux familles ! la petitesse de notre bourse nous retient
                   des deux côtés.</p>
                <p>« Voici toutefois comment, s'il vous plait, les choses pourraient s'arranger : </p>
                <p>« Vous viendriez seul au mariage, — il se fera le 23 septembre ; — nous
                   réserverions aux cousins et à la cousine, qui ont du temps devant eux, les noces
-                  d'ar- gent*<gloss>Noces d'argent, d'or, de diamant. Le 25e, le 50e, le 60e
+                  d'argent*<gloss>Noces d'argent, d'or, de diamant. Le 25e, le 50e, le 60e
                      anniversaire d'un mariage.</gloss>, d'or, de diamant qui suivront en leur
-                  temps, je l'espère. Mais il est bon que Suzette et notre mariée n'attendent ni
+                  temps, je l'espère. Mais il est bon que <persName type="fictif" key="suzette">Suzette</persName> et notre mariée n'attendent ni
                   soixante ans, ni cinquante, ni même vingt-cinq pour se connaître, s'aimer comme
-                  deux bonnes cousines qu'elles vont être. Donc Louis et Madeleine iraient en voyage
-                  de noce à Fragicourt vous voir tous, et voir aussi le cher village, la terre
+                  deux bonnes cousines qu'elles vont être. Donc <persName type="fictif" key="louis">Louis</persName> et <persName type="fictif" key="madeleine">Madeleine</persName> iraient en voyage
+                  de noce à <placeName type="fictif">Fragicourt</placeName> vous voir tous, et voir aussi le cher village, la terre
                   paternelle. Qu'en dites-vous ?</p>
-               <p>« Pascal, qui n'est pas encore reparti pour l'exploration de l'Afrique, me charge
+               <p>« <persName type="fictif" key="pascal">Pascal</persName>, qui n'est pas encore reparti pour l'exploration de l'Afrique, me charge
                   de vous dire qu'il n'y manquera pas, dès que je le lui permettrai.</p>
-               <p>« En tout cas il n’entend pas se marier avant d'avoir fait une visite à Zanzibar,
-                  au Sahara et au Congo. Il travaille bien ; surtout il lit.</p>
+               <p>« En tout cas il n’entend pas se marier avant d'avoir fait une visite à <placeName>Zanzibar</placeName>,
+                  au <geogFeat type="désert">Sahara</geogFeat> et au <placeName>Congo</placeName>. Il travaille bien ; surtout il lit.</p>
                <p>« Nous vous envoyons à tous nos tendresses ; nous embrassons de cœur chacun de
                   vous.</p>
-               <p>« Veuve RICHARD. »</p>
-               <p>Suzette était ravie :</p>
-               <p>— Oh ! c'est là un bon mariage ! Et vous verrez Paris, papa !</p>
+               <p>« Veuve <persName type="fictif" key="mme_richard">RICHARD</persName>. »</p>
+               <p><persName type="fictif">Suzette</persName> était ravie :</p>
+               <p>— Oh ! c'est là un bon mariage ! Et vous verrez <placeName>Paris</placeName>, papa !</p>
                <p>M. Dumay se grattait l'oreille. Il souriait, après la <pb type="page" n="443"/>
-                  <fw>UN MARIAGE. 443</fw> lecture, comme avant. L'idée d'un voyage à Paris ne lui
+                  <fw>UN MARIAGE. 443</fw> lecture, comme avant. L'idée d'un voyage à <placeName>Paris</placeName> ne lui
                   déplaisait pas du tout.</p>
                <p>Mais peu à peu son visage devint sérieux :</p>
-               <p>— Non, non, vraiment, je ne puis partir, abandonner la ferme à François.</p>
+               <p>— Non, non, vraiment, je ne puis partir, abandonner la ferme à <persName type="fictif" key="françois">François</persName>.</p>
                <p>— Je suis là, papa ; François m'écoutera un peu ; puis Charlot sera alors en
                   vacances ; et il a déjà la main solide et de la bonne volonté.</p>
                <p>Elle lui représenta que le 23 septembre tombait juste entre la moisson finie et
@@ -141,19 +141,19 @@
             <div2 type="questionnaire">
                <head>Questionnaire.</head>
                <list>
-                  <item>— Qu'écrivait Mme Richard à son frère ? </item>
+                  <item>— Qu'écrivait <persName type="fictif" key="mme_richard">Mme Richard</persName> à son frère ? </item>
                   <item>— A qui comparait-elle la fiancée de son fils ? </item>
                   <item>— Qu'est-ce que la jeune fille lui apportait en dot ? </item>
                   <item>— Quels étaient sa fonction, son nom ? </item>
-                  <item>— Où Mme Richard était-elle allée la voir ? </item>
-                  <item>— Que pensait Mme Richard en quittant l'école maternelle ? </item>
+                  <item>— Où <persName type="fictif" key="mme_richard">Mme Richard</persName> était-elle allée la voir ? </item>
+                  <item>— Que pensait <persName type="fictif" key="mme_richard">Mme Richard</persName> en quittant l'école maternelle ? </item>
                   <item>— Que demandait-elle à son frère ? </item>
                   <item>— Comment proposa-t-elle d'arranger les choses ? </item>
-                  <item>— Qu'annonça-t-elle à propos de Suzette ? </item>
-                  <item>— Quelle commission lui avait donnée Pascal ? </item>
-                  <item>— Que pensait M. Dumay d'un voyage à Paris ? </item>
+                  <item>— Qu'annonça-t-elle à propos de <persName type="fictif" key="suzette">Suzette</persName> ? </item>
+                  <item>— Quelle commission lui avait donnée <persName type="fictif" key="pascal">Pascal</persName> ? </item>
+                  <item>— Que pensait <persName type="fictif" key="m_dumay">M. Dumay</persName> d'un voyage à <placeName>Paris</placeName> ? </item>
                   <item>— Qu'est-ce qui le faisait hésiter à quitter la ferme ? </item>
-                  <item>— Que lui dit Suzette pour le décider à assister au mariage de Louis ?
+                  <item>— Que lui dit <persName type="fictif" key="suzette">Suzette</persName> pour le décider à assister au mariage de <persName type="fictif" key="louis">Louis</persName> ?
                   </item>
                </list>
             </div2>
@@ -207,7 +207,7 @@
                         d'elle-même en s'éloignant des occasions de commettre des fautes ; elle a
                         peu d'amies, et seule sa mère possède toute sa conflance ; elle ne recherche
                         pas le plaisir, et ne trouve rien de plus doux que les occupations de
-                        l'école ou du mé- nage. Elle se détermine pour une action, pour une opinion,
+                        l'école ou du ménage. Elle se détermine pour une action, pour une opinion,
                         sans consulter autre chose que sa conscience et sans s'inquiéter du choix
                         des autres ; elle cultive sa raison et cherche la vérité en toute chose.</p>
                   </div4>
@@ -274,7 +274,7 @@
                         après qu'on l'a chauffé et qu'il a subi diverses opérations, on en obtient
                         le sucre sous la forme de cassonade ; puis on le raffine et on le vend en
                         pains coniques très blancs.</p>
-                     <p>La betterave donne la plus forte partie du sucre consommé en France, et l'on
+                     <p>La betterave donne la plus forte partie du sucre consommé en <placeName>France</placeName>, et l'on
                         préfère pour cet objet l'espèce à chair blanche. Après le lavage des
                         racines, on les réduit en pulpe. Cette pulpe, introduite dans des sacs de
                         laine, est soumise à une forte pression, et le jus qui s'en écoule est
