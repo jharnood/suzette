@@ -79,16 +79,16 @@
             <pb type="page" n="456"/>
             <head>130. — Terrible scène. (Élève, p. 274.)</head>
             <div2 type="récit">
-               <p>Suzette, qui s'était contenue pendant cette lecture, se leva vivement quand elle
+               <p><persName type="fictif" key="suzette">Suzette</persName>, qui s'était contenue pendant cette lecture, se leva vivement quand elle
                   fut finie et jetant un petit châle sur ses épaules : </p>
-               <p>— Viens avec moi, dit-elle à Charlot, qui, comprenant, la suivit en silence.</p>
-               <p>Ils se mirent à parcourir Fragicourt. Le village comptait près de deux cent
+               <p>— Viens avec moi, dit-elle à <persName type="fictif" key="charlot">Charlot</persName>, qui, comprenant, la suivit en silence.</p>
+               <p>Ils se mirent à parcourir <placeName type="fictif">Fragicourt</placeName>. Le village comptait près de deux cent
                   cinquante maisons, dont quinze portaient enseigne. Les belles plaines onduleuses
                   qui lui font une riante ceinture, la douceur salutaire*<gloss>Salutaire. Utile,
                      avantageux pour la conservation de la vie.</gloss> d'une promenade en famille,
                   les petits jouant, courant, cueillant des fleurettes sous les yeux du père et de
                   la mère, rien ne valait l'attrait de ces quinze cabarets.</p>
-               <p>Ces hommes de Fragicourt, braves ouvriers tisseurs, eussent été irréprochables si
+               <p>Ces hommes de <placeName type="fictif">Fragicourt</placeName>, braves ouvriers tisseurs, eussent été irréprochables si
                   la semaine avait eu six jours seulement. Mais il y avait le septième, le diman-
                   che. Ce jour-là, ils s'habillaient de leurs plus beaux habits, prenaient en poche
                   quelque vingt, trente sous, de ces sous dont la ménagère, la mère, quand on les
@@ -111,51 +111,51 @@
                         les vapeurs qui s'élèvent de la marmite, traversent le serpentin qui est
                         plongé dans un vase rempli d'eau froide ; elles s'y refroidissent pour
                         passer ensuite à l'état liquide.</caption>
-                  </figure> honteuse, le cœur déchiré, la pauvre Suzette fait comme elles. De
-                  fenêtre en fenêtre, elle glisse le long des cabarets ; Charlot, qui l'accompagne,
+                  </figure> honteuse, le cœur déchiré, la pauvre <persName type="fictif" key="suzette">Suzette</persName> fait comme elles. De
+                  fenêtre en fenêtre, elle glisse le long des cabarets ; <persName type="fictif" key="charlot">Charlot</persName>, qui l'accompagne,
                   y fait un pas sur le seuil pour tâcher de voir dans la fumée des pipes.</p>
                <p>Il a le cœur gros aussi, le brave enfant. Il essaie rassurer sa sœur. Dans leur
                   triste promenade, ils passent devant le cimetière.</p>
-               <p>Charles, lui dit doucement Suzette dans un sanglot, si la pauvre maman nous voit,
+               <p><persName type="fictif" key="charlot">Charles</persName>, lui dit doucement <persName type="fictif" key="suzette">Suzette</persName> dans un sanglot, si la pauvre maman nous voit,
                   nous entend, elle doit bien pleurer ! </p>
                <p>Ils regagnaient la ferme, quand des cris : Au secours ! se font entendre du côté
-                  de la maison de Ludivine.</p>
+                  de la maison de <persName type="fictif" key="ludivine">Ludivine</persName>.</p>
                <p>Ils y courent. Et là, quel spectacle ! La grande pièce. était jonchée de débris de
-                  vaisselle. De toute sa force, Vincent, furieux d'ivresse, horrible à voir, jetait
+                  vaisselle. De toute sa force, <persName type="fictif" key="vincent">Vincent</persName>, furieux d'ivresse, horrible à voir, jetait
                   les dernières assiettes dont l'une venait de frapper sa mère au front.</p>
-               <p>Le vieux père Benoît, Lisa s'efforçaient en vain de le contenir. Charlot, d'autres
+               <p>Le vieux père <persName type="fictif" key="benoît">Benoît</persName>, <persName type="fictif" key="lisa">Lisa</persName> s'efforçaient en vain de le contenir. <persName type="fictif" key="charlot">Charlot</persName>, d'autres
                   voisins accourus, purent enfin s'en rendre maîtres.</p>
-               <p>Ludivine repoussa Suzette qui voulait lui bassiner*<gloss>Bassiner. Laver avec une
+               <p><persName type="fictif" key="ludivine">Ludivine</persName> repoussa <persName type="fictif" key="suzette">Suzette</persName> qui voulait lui bassiner*<gloss>Bassiner. Laver avec une
                      linge mouillé.</gloss> le front avec de l'eau et parlait d'arnica.</p>
                <fw type="footer">SUZETTE (Maitresse). <fw type="sig">26</fw></fw>
                <pb type="page" n="458"/>
                <fw>458 SUZETTE.</fw>
                <p>— Va, j'ai mieux que ça, merci, dit-elle aigrement. Pars avec ton frère qui a
-                  emmené mon Vincent aux Trois Agaces ! </p>
-               <p>Les pupilles dilatées, paraissant ne rien voir, François s'accotait au mur. Sans
-                  répondre à Ludivine, Suzette le prit par un bras ; Charlot le prit par l'autre et
+                  emmené mon <persName type="fictif" key="vincent">Vincent</persName> aux Trois Agaces ! </p>
+               <p>Les pupilles dilatées, paraissant ne rien voir, <persName type="fictif" key="françois">François</persName> s'accotait au mur. Sans
+                  répondre à <persName type="fictif" key="ludivine">Ludivine</persName>, <persName type="fictif" key="suzette">Suzette</persName> le prit par un bras ; <persName type="fictif" key="charlot">Charlot</persName> le prit par l'autre et
                   ils sortirent.</p>
-               <p>A la maison non plus, il n'y eut pas une parole d'échangée. Le visage de François
+               <p>A la maison non plus, il n'y eut pas une parole d'échangée. Le visage de <persName type="fictif" key="françois">François</persName>
                   semblait changé en pierre. Sans chapeau, — il l'avait perdu en route — les cheveux
                   collés aux tempes, les vêtements en désordre il donnait un spectacle navrant.</p>
-               <p>Charlot le mit au lit et, après un quart d'heure, revint dire à Suzette, qui
+               <p><persName type="fictif" key="charlot">Charlot</persName> le mit au lit et, après un quart d'heure, revint dire à <persName type="fictif" key="suzette">Suzette</persName>, qui
                   s'apprêtait à veiller : </p>
                <p>— Il dort. Tu peux aller te reposer.</p>
             </div2>
             <div2 type="questionnaire">
                <head>Questionnaire.</head>
                <list>
-                  <item>— Que fit et dit Suzette, une fois la lecture achevée ? </item>
+                  <item>— Que fit et dit <persName type="fictif" key="suzette">Suzette</persName>, une fois la lecture achevée ? </item>
                   <item>— Quel aspect présentait le village ? </item>
-                  <item>— Comment les tisseurs de Fragicourt employaient-ils la journée du dimanche
+                  <item>— Comment les tisseurs de <placeName type="fictif">Fragicourt</placeName> employaient-ils la journée du dimanche
                      ? </item>
                   <item>— Que faisaient les femmes et les mères pendant ce temps ? </item>
-                  <item>— Où allait, ce soir-là, Suzette avec Charlot ? </item>
+                  <item>— Où allait, ce soir-là, <persName type="fictif" key="suzette">Suzette</persName> avec <persName type="fictif" key="charlot">Charlot</persName> ? </item>
                   <item>— Quelle pensée vint à leur cœur en passant près du cimetière ? </item>
-                  <item>— Que virent-ils en passant devant la maison de Ludivine ? </item>
-                  <item>— Qui s'efforçait de contenir Vincent ? </item>
-                  <item>— Que répondit Ludivine à Suzette lui proposant de la panser ? </item>
-                  <item>— Dans quel état ramena-t-on François à la maison ? </item>
+                  <item>— Que virent-ils en passant devant la maison de <persName type="fictif" key="ludivine">Ludivine</persName> ? </item>
+                  <item>— Qui s'efforçait de contenir <persName type="fictif" key="vincent">Vincent</persName> ? </item>
+                  <item>— Que répondit <persName type="fictif" key="ludivine">Ludivine</persName> à <persName type="fictif" key="suzette">Suzette</persName> lui proposant de la panser ? </item>
+                  <item>— Dans quel état ramena-t-on <persName type="fictif" key="françois">François</persName> à la maison ? </item>
                </list>
             </div2>
             <div2 type="exercices">
