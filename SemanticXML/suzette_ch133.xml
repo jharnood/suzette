@@ -91,7 +91,7 @@
                <p>— Mon fils <persName type="fictif" key="jacques">Jacques</persName> avait tiré le numéro 12 ; notre ami <persName type="fictif" key="sylvain">Sylvain</persName> l'a dépassé, il a
                   pris le 11, dit <persName type="fictif" key="m_dumay">M. Dumay</persName>.</p>
                <p>Et regardant le papier : </p>
-               <p>— Mais je vois qu'on part pour Cherbourg.</p>
+               <p>— Mais je vois qu'on part pour <placeName>Cherbourg</placeName>.</p>
                <p>— Oui, Monsieur.</p>
                <p>— On va retrouver <persName type="fictif" key="jacques">Jacques</persName>, être son frère d'armes *<gloss>Frère d'armes. Celui qui
                      combat avec nous pour la même cause.</gloss> ! Il en sera heureux comme nous le
