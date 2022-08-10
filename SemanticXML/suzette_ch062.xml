@@ -84,14 +84,11 @@
                         la voir ainsi ! Mais la vérité m'oblige à dire qu'elle répond à la
                         description faite par le fameux <persName type="historique">René
                             Caillié</persName>, que l'amour des voyages emporta loin de la
-                            <placeName type="réel"><bloc ref="europe"><country ref="france">France
-                                </country></bloc></placeName>à l'âge de seize ans.</p>
+                            <placeName type="réel">France</placeName>à l'âge de seize ans.</p>
                     <p>— Comme vous, interrompit M. <persName type="fictif" key="m_dumay"
                             >Dumay</persName> avec une pointe de malice.</p>
                     <p>— Comme moi. <persName type="historique">René Caillié</persName> ne vit à
-                            <placeName type="réel"><bloc ref="afrique"><country ref="mali"
-                                        ><settlement ref="tombouctou"
-                                    >Tombouctou</settlement></country></bloc></placeName> que de
+                            <placeName type="réel">Tombouctou</placeName> que de
                         misérables <figure>
                             <caption>Les oasis sont des endroits cultivés et arrosés, au milieu du
                                 désert, où peuvent se reposer les caravanes.</caption>
@@ -101,9 +98,7 @@
                         le nôtre.</p>
                     <p>Il y avait six semaines que nous étions privés de ce
                             condiment*<gloss>Condiment. Substance qui sert à assaisonner les
-                            mets.</gloss> quand nous arrivâmes à <placeName type="réel"><bloc
-                                ref="afrique"><country ref="mali"><settlement ref="tombouctou"
-                                        >Tombouctou</settlement></country></bloc></placeName>. Oh !
+                            mets.</gloss> quand nous arrivâmes à <placeName type="réel">Tombouctou</placeName>. Oh !
                         le premier morceau de viande de chevreau salé à point que nous goûtâmes là,
                         quel régal ! hein ? <persName type="fictif" key="sylvain">Sylvain</persName>
                         !</p>
@@ -115,7 +110,7 @@
                     <p>—Il y manquait du poivre et une pointe d'ail, répondit <persName
                             type="fictif" key="sylvain">Sylvain</persName>, doucement.</p>
                     <p>— Nous ne demeurâmes guère dans ce rendez-vous des caravanes qui traversent
-                        le <placeName type="réel"><bloc ref="afrique">Soudan</bloc></placeName> ; je
+                        le <placeName type="réel">Soudan</placeName> ; je
                         voulais voir <pb type="page" n="216"/>
                         <fw>216 SUZETTE.</fw> le <geogFeat type="désert" ref="sahara">Grand
                             Désert</geogFeat> et les oasis, malgré les dangers de la soif, des
@@ -136,8 +131,7 @@
                         d'autres caravanes. Nous tentons de résister ; mais quatre des nôtres sont
                         déjà tombés ; il faut traiter !</p>
                     <figure>
-                        <caption>Autruche. Dans l'<placeName type="réel"><bloc ref="asie"><country
-                                        ref="inde">Inde</country></bloc></placeName>, on élève des
+                        <caption>Autruche. Dans l'<placeName type="réel">>Inde</placeName>, on élève des
                             troupeaux d'autruches en vue de recueillir leurs plumes, qui servent à
                             orner les coiffures des femmes, à confectionner des panaches,
                             etc.</caption>
@@ -148,7 +142,7 @@
                             personnel.</gloss>, ruinée, peut déguerpir.</p>
                     <p>Du haut de leurs fiers méharis, les voiles noirs, effrayants comme des
                         spectres, attendent immobiles que nous ayons disparu dans le brouillard
-                        incan- descent*<gloss>Incandescent. Porté à une haute chaleur.</gloss>.</p>
+                        incandescent*<gloss>Incandescent. Porté à une haute chaleur.</gloss>.</p>
                     <p>Et de l'eau ? Où y a-t-il de l'eau ? Où est l'oasis, l'unique espérance du
                         voyageur ? Nos yeux brûlés sondent l'horizon. Peu à peu, le brouillard s'est
                         dissipé, l'air est devenu limpide, et tout à coup un cri de soulagement sort
@@ -161,9 +155,7 @@
                     <head>Questionnaire.</head>
                     <list>
                         <item>— Que raconta <persName type="fictif" key="pascal">Pascal</persName>
-                            sur <placeName type="réel"><bloc ref="afrique"><country ref="mali"
-                                            ><settlement ref="tombouctou"
-                                        >Tombouctou</settlement></country></bloc></placeName> ? </item>
+                            sur <placeName type="réel">Tombouctou</placeName> ? </item>
                         <item> — Qu'en a dit le Français <persName type="historique">René Caillié
                             </persName> ? </item>
                         <item>— Quel régal firent, dans cette ville, nos jeunes explorateurs ? </item>
@@ -214,15 +206,10 @@
                                 lesquels ils périssent de folie après avoir subi toutes les tortures
                                 de la chaleur.</p>
                             <p>Le <geogFeat type="désert" ref="sahara">Grand Désert</geogFeat> est
-                                limité au nord par le <placeName type="réel"><bloc ref="afrique"
-                                            ><country ref="maroc"
-                                >Maroc</country></bloc></placeName>, l'<placeName type="réel"><bloc
-                                        ref="afrique"><country ref="algérie"
-                                        >Algerie</country></bloc></placeName> et la ré- gence de
-                                    <placeName type="réel"><bloc ref="afrique"><country ref="libye"
-                                            >Tripoli</country></bloc></placeName> ; à l'est par les
-                                déserts d'Égypte et de Nubie, au sud par la région fertile connue
-                                sous le nom de Nigritie, et à l'ouest par l'<geogFeat type="océan"
+                                limité au nord par le <placeName type="réel">Maroc</placeName>, l'<placeName type="réel">Algerie</placeName> et la régence de
+                                    <placeName type="réel">Tripoli</placeName> ; <placeName>à</placeName> l'est par les
+                                déserts d'<placeName>Égypte</placeName> et de Nubie, au sud par la région fertile connue
+                                sous le nom de <placeName>Nigritie</placeName>, et à l'ouest par l'<geogFeat type="océan"
                                     ref="atlantique">Atlantique</geogFeat>.</p>
                             <p>Dans toutes les parties du <geogFeat type="désert" ref="sahara"
                                     >Sahara</geogFeat> où l'eau jaillit en source, il se forme une
@@ -253,9 +240,7 @@
                                     détails.</item>
                                 <item>— D'où extrait-on le sel ? </item>
                                 <item>— Qu'entendez-vous par marais salants ? </item>
-                                <item>— Citez des villes de <placeName type="réel"><bloc
-                                            ref="europe"><country ref="france"
-                                            >France</country></bloc></placeName> célèbres par leurs
+                                <item>— Citez des villes de <placeName type="réel">France</placeName> célèbres par leurs
                                     sources salées.</item>
                             </list>
                         </div4>
@@ -282,28 +267,16 @@
                                 et particulièrement dans celles de la mer, ou en couches plus ou
                                 moins épaisses au sein de la terre. Il y a des mines de sel gemme
                                 (sous forme de pierre) dans presque tous les pays : en <placeName
-                                    type="réel"><bloc ref="europe"><country ref="pologne"
-                                            >Pologne</country></bloc></placeName>, en <placeName
-                                    type="réel"><bloc ref="europe"><country ref="espagne"
-                                            >Espagne</country></bloc></placeName>, en <placeName
-                                    type="réel"><bloc ref="afrique"><country ref="algérie"
-                                            >Algérie</country></bloc></placeName>, au <placeName
-                                    type="réel"><bloc ref="amérique_sud"><country ref="pérou"
-                                            >Pérou</country></bloc></placeName>, au <placeName
+                                    type="réel">Pologne</placeName>, en <placeName
+                                    type="réel">Espagne</placeName>, en <placeName
+                                    type="réel">\Algérie</placeName>, au <placeName
+                                    type="réel">Pérou</placeName>, au <placeName
                                     type="réel">Etats-Unis</placeName> notamment. Les mines les plus
-                                célèbres de l'<placeName type="réel"><bloc ref="europe"
-                                        >Europe</bloc></placeName> sont celles de <placeName
-                                    type="réel"><bloc ref="europe"><country ref="pologne"
-                                                ><settlement ref="wieliczka"
-                                            >Wieliczka</settlement></country></bloc></placeName> et
-                                de <placeName type="réel"><bloc ref="europe"><country ref="pologne"
-                                                ><settlement ref="bochnia"
-                                            >Bochnia</settlement></country></bloc></placeName>, près
-                                de <placeName type="réel"><bloc ref="europe"><country ref="pologne"
-                                                ><settlement ref="cracovie"
-                                            >Cracovie</settlement></country></bloc></placeName>
-                                    (<placeName type="réel"><bloc ref="europe"><country
-                                            ref="pologne">Pologne</country></bloc></placeName>) ;
+                                célèbres de l'<placeName type="réel">Europe</placeName> sont celles de <placeName
+                                    type="réel">Wieliczka</placeName> et
+                                de <placeName type="réel">Bochnia</placeName>, près
+                                de <placeName type="réel">Cracovie</placeName>
+                                    (<placeName type="réel">Pologne</placeName>) ;
                                 elles ont une longueur de plus de 1,000 kilomètres sur 400 de
                                 largeur. Découvertes vers le milieu du treizième siècle, elles sont
                                 depuis une source inépuisable de richesses. La quantité de sel qu'on
@@ -311,45 +284,27 @@
                                 quintaux.</p>
                             <p>On extrait le sel des eaux de la mer et de celles des sources salées
                                 qu'on yoit jaillir en un grand nombre de lieux.</p>
-                            <p>Dans le midi de la <placeName type="réel"><bloc ref="europe"><country
-                                            ref="france">France</country></bloc></placeName>, on
+                            <p>Dans le midi de la <placeName type="réel">France</placeName>, on
                                 fait arriver l'eau de la mer dans des espaces particuliers,
                                 soigneusement nivelés et divisés en compartiments où l'eau s'évapore
                                 par suite de la chaleur du climat, en laissant une couche de sel. Ce
-                                sont les marais salants. Dans le Nord, on vaporise l'eau des
+                                sont les marais salants. Dans le <placeName>Nord</placeName>, on vaporise l'eau des
                                 fontaines salées au moyen du fou ; mais auparavant on l'obtient à un
                                 certain état de concentration en l'élevant dans des bâtiments où on
                                 la fait descendre à l'état de grande division au travers de fagots.
                                 Le sel est produit à si bon marché dans les marais salants que 100
                                 kilogrammes s'y vendent 40 à 50 centimes au plus.</p>
                             <p>Les localités les plus connues par leurs sources salées sont :
-                                    <placeName type="réel"><bloc ref="europe"><country ref="france"
-                                                ><settlement ref="château-salins">Châ-
-                                                teau-Salins</settlement></country></bloc></placeName>,
-                                    <placeName type="réel"><bloc ref="europe"><country ref="france"
-                                                ><settlement ref="dieuze"
-                                            >Dieuze</settlement></country></bloc></placeName> et
-                                    <placeName type="réel"><bloc ref="europe"><country ref="france"
-                                                ><settlement ref="vic"
-                                        >Vic</settlement></country></bloc></placeName>, en
-                                    <placeName type="réel"><bloc ref="europe"><country ref="france"
-                                                ><region ref="lorraine"
-                                        >Lorraine</region></country></bloc></placeName> ; <placeName
-                                    type="réel"><bloc ref="europe"><country ref="france"><settlement
-                                                ref="lons-le-saunier"
-                                            >Lons-le-Saunier</settlement></country></bloc></placeName>
-                                et <placeName type="réel"><bloc ref="europe"><country ref="france"
-                                                ><settlement ref="salins"
-                                            >Salins</settlement></country></bloc></placeName>, en
-                                    <placeName type="réel"><bloc ref="europe"><country ref="france"
-                                                ><region ref="franche-comté"
-                                            >Franche-Comté</region></country></bloc></placeName> ;
-                                    <placeName type="réel"><bloc ref="europe"><country ref="france"
-                                                ><settlement ref="salies"
-                                            >Salies</settlement></country></bloc></placeName>, en
-                                    <placeName type="réel"><bloc ref="europe"><country ref="france"
-                                                ><region ref="béarn"
-                                    >Béarn</region></country></bloc></placeName>.</p>
+                                    <placeName type="réel">Châ-
+                                                teau-Salins</placeName>,
+                                    <placeName type="réel">Dieuze</placeName> et
+                                    <placeName type="réel">Vic</placeName>, en
+                                    <placeName type="réel">Lorraine</placeName> ; <placeName
+                                    type="réel">Lons-le-Saunier</placeName>
+                                et <placeName type="réel">Salins</placeName>, en
+                                    <placeName type="réel">Franche-Comté</placeName> ;
+                                    <placeName type="réel">Salies</placeName>, en
+                                    <placeName type="réel">Béarn</placeName>.</p>
                         </div4>
                     </div3>
                     <div3 type="hygiène">
