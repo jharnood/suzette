@@ -82,27 +82,28 @@
 					<p>La bise sifflait, balayant les feuilles mortes. Déjà, aux derniers jours
 						d'octobre, des flocons de neige voltigeaient dans l'air. Sous le ciel gris,
 						le rude hiver s'avançait.</p>
-					<p>Ce jour-là, le village de Fragicourt paraissait triste, quoiqu'on y connût
+					<p>Ce jour-là, le village de <placeName type="fictif">Fragicourt</placeName> paraissait triste, quoiqu'on y connût
 						depuis longtemps la bise et la neige ; les fronts étaient soucieux. </p>
 					<p>Des bruits d'arrêt de travail et de baisse de salaire arrivaient des
 						environs. Et, comme au spectacle de la grêle ravageant les champs voisins le
-						laboureur tremble pour les siens, les tisseurs de Fragicourt tremblaient de
-						voir fondre aussi sur eux la grande misère du chômage*. </p>
+						laboureur tremble pour les siens, les tisseurs de <placeName type="fictif">Fragicourt</placeName> tremblaient de
+						voir fondre aussi sur eux la grande misère du chômage*<gloss>Chômage. Temps pondant
+							lequel le travail est suspendu.</gloss>. </p>
 					<p>La ferme, moins directement intéressée à la crainte générale, n'en était pas
 						moins préoccupée, car on y savait penser à la peine d'autrui.</p>
 					<p>Suzette achevait de ranger dans l'armoire son linge tout éblouissant de
 						blancheur.</p>
 					<p>Certes, il n'y avait pas de luxe, et les draps, par exemple, n'étaient pas de
-						cette toile dont vingt aunes* <pb n="489"/>
+						cette toile dont vingt aunes*<gloss>Aune. Ancienne mesura égale à 1m20.</gloss> <pb n="489"/>
 						<fw type="header">MAUVAIS TEMPS. 489</fw> roulées passaient, comme dit le
 						vieux conte, par le trou d'une aiguille ; non, mais c'était de bonne toile
 						de lin au fil bien rond, bien tors, rappelant celui que filaient jadis à la
 						quenouille les « fileresses », nos mères.</p>
-					<p>Quelle bonne odeur fraiche en sortait après la lessive, l'herbée*. le
-						repassage ! Et comme on le choyait ! Ne nous parlez pas d'une ménagère sans
+					<p>Quelle bonne odeur fraiche en sortait après la lessive, l'herbée*<gloss>Herbée.Exposition du linge sur
+						l'herbe.</gloss>, le repassage ! Et comme on le choyait ! Ne nous parlez pas d'une ménagère sans
 						souci de son linge. Ici on avait une devise : « Fais bien ce que tu fais. »
-						Aussi repassait-on com- me on lessivait et rangeait. C'est une besogne
-						proprette que le repassage. Et Suzette la faisait d'ordinaire en ca- raco
+						Aussi repassait-on comme on lessivait et rangeait. C'est une besogne
+						proprette que le repassage. Et <persName type="fictif" key="suzette">Suzette</persName> la faisait d'ordinaire en caraco
 						rose ou lilas, ce qui lui donnait un air de fleur printanière.</p>
 					<figure>
 						<caption> Fers à repasser. 1 et 2. Fer ordinaire des blanchisseuses ; — 3 et
@@ -123,15 +124,15 @@
 						moindre poussière, de gratter prestement les petits amas d'amidon pour les
 						empêcher de se fixer là, d'y former ces sortes de galettes si laides à l'œil
 						et qui affichent si bien l'inexpérience de l'ouvrière.</p>
-					<p>Elle n'était pas arrivée du premier coup à ce talent. M. Dumay, que la
+					<p>Elle n'était pas arrivée du premier coup à ce talent. <persName type="fictif" key="m_dumay">M. Dumay</persName>, que la
 						coquetterie n'étouffait pourtant pas, avait jadis plus d'une fois souri
-						devant les arabesques de faux plis, les empreintes de fer dé corant ses
+						devant les arabesques de faux plis, les empreintes de fer décorant ses
 						plastrons de chemise.</p>
 					<p>Aujourd'hui, vous pouvez mettre vos lunettes, papa, regarder ! même au
-						microscope*... non, pas ça à reprendre Et alors, c'était une façon posée de
+						microscope*<gloss>Microscope. Instrumuent qui grossit les objets qu'on y regarde.</gloss>... non, pas ça à reprendre Et alors, c'était une façon posée de
 						le glisser sur les cols, les poignets, les plastrons, de souffler sur la
 						moindre poussière.... Comme elle posait sur le dernier rayon de l'armoire la
-						dernière rangée de mouchoirs de poche, M. Dumay entra, le visage grave. Elle
+						dernière rangée de mouchoirs de poche, <persName type="fictif" key="m_dumay">M. Dumay</persName> entra, le visage grave. Elle
 						se retourna :</p>
 					<p>— Père, qu'y a-t-il ?... Ah ! le chômage ! </p>
 					<p>— Non, ma fille, pas encore, mais la baisse des salaires. Les meilleurs
@@ -142,7 +143,7 @@
 					<p>— Que vont faire ces pauvres gens ?</p>
 					<pb n="491"/>
 					<fw type="header">MAUVAIS TEMPS. 491</fw>
-					<p>— L'entrepreneur* n'est pas un méchant homme ; il leur a montré ses comptes ;
+					<p>— L'entrepreneur*<gloss>Entrepreneur, Celui qui se charge d'exécuter un travail considérable.</gloss> n'est pas un méchant homme ; il leur a montré ses comptes ;
 						la concurrence étrangère l'écrase. Ils ont accepté. </p>
 				</div2>
 				<div2 type="questionnaire">
@@ -153,7 +154,7 @@
 						<item>— Quelle sorte d'ouvriers renfermait le village ?</item>
 						<item>— Pourquoi s'affligeait-on à la ferme de la baisse des salaires
 							?</item>
-						<item>— Que faisait Suzette durant l'après-midi ?</item>
+						<item>— Que faisait <persName type="fictif" key="suzette">Suzette</persName> durant l'après-midi ?</item>
 						<item>— Qu'était son linge ?</item>
 						<item>— Quels soins lui donnait-elle ?</item>
 						<item>— Quel est l'objet du repassage ?</item>
@@ -162,8 +163,8 @@
 							linge,</item>
 						<item>— 2° le linge fin ?</item>
 						<item>— Que savez vous de ses débuts dans l'art de repasser ?</item>
-						<item>— Pourquoi M. Dumay avait-il le visage grave en rentrant ?</item>
-						<item>— Que dit Suzette ?</item>
+						<item>— Pourquoi <persName type="fictif" key="m_dumay">M. Dumay</persName> avait-il le visage grave en rentrant ?</item>
+						<item>— Que dit <persName type="fictif" key="suzette">Suzette</persName> ?</item>
 						<item>— Qu'entend-on par concurrence ; — par concurrence étrangère ?</item>
 						<item>— Quel était l'effet de cette dernière concurrence ?</item>
 					</list>
@@ -181,7 +182,7 @@
 						</div4>
 						<div4 type="réponses">
 							<p>(Voir COURS DE COMPOSITION FRANÇAISE (Degré supérieur), Partie du
-								maître, par E. LAPORTE, page 300.)</p>
+								maître, par <persName type="historique">E. LAPORTE</persName>, page 300.)</p>
 						</div4>
 					</div3>
 					<div3 type="industrie">
@@ -202,8 +203,8 @@
 								analogie, on donne encore ce nom à quelques autres tissus : toiles
 								métalliques, toile d'amiante. On fabrique la toile avec des métiers
 								mis en œuvre par les tisserands, qui sont très nombreux dans les
-								villes manufacturières du Nord, de l'Est et dans quelques villes des
-								autres régions, telles que Flers, Cholet, Rouen.</p>
+								villes manufacturières du <placeName>Nord</placeName>, de l'<placeName>Est</placeName> et dans quelques villes des
+								autres régions, telles que <placeName>Flers</placeName>, <placeName>Cholet</placeName>, <placeName>Rouen</placeName>.</p>
 							<p>Les toiles de lin et de chanvre sont résistantes et de longue durée ;
 								elles ne blessent pas les peaux délicates, mais elles donnent une
 								sensation désagréable de froid lorsqu'elles sont mouillées par la
