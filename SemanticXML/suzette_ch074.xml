@@ -106,7 +106,7 @@
                <p>— Les miennes ne savent pas tailler, faire une robe.</p>
                <p>— Ce n'est pas leur faute ; il faudra le leur apprendre. Elles n'ont qu'à venir un
                   peu à <placeName>Paris</placeName> en compagnie des miennes.</p>
-               <p>Et comme à ce moment <persName type="fictif" key="m_dumay">M. Dumay</persName> s'approchait, la tante Jeanne se tourna vers lui : </p>
+               <p>Et comme à ce moment <persName type="fictif" key="m_dumay">M. Dumay</persName> s'approchait, la <persName type="fictif" key="mme_richard">tante Jeanne</persName> se tourna vers lui : </p>
                <p>— Savez-vous, <persName type="fictif" key="m_dumay">Denis</persName>, que nous allons avoir à Paris une Exposition
                      universelle*<gloss>Exposition universelle. Exposition dans laquelle figurent
                      les produits de l'industrie et des arts de tous les pays.</gloss> ? ....</p>
@@ -138,7 +138,7 @@
                      Richard</persName>.</item>
                   <item>— Comment se réconcilia-t-elle avec son frère ? </item>
                   <item>— Faites le portrait de <persName type="fictif" key="mme_richard">Mme Richard</persName>.</item>
-                  <item>— Que remarqua Suzette ?</item>
+                  <item>— Que remarqua <persName type="fictif" key="suzette">Suzette</persName> ?</item>
                   <item>— Quelle proposition fit <persName type="fictif" key="mme_richard">Mme Richard</persName> concernant sa nièce ?</item>
                   <item>— Comment <persName type="fictif" key="m_dumay">M. Dumay</persName> l'accucillit-il ? </item>
                   <item>— Quels détails donna <persName type="fictif" key="mme_richard">Mme Richard</persName> sur sa famille ? </item>
@@ -220,7 +220,7 @@
                   <head type="sujets">Histoire.</head>
                   <div4 type="questions">
                      <list>
-                        <item>— TURGOT. </item>
+                        <item>— <persName type="historique">TURGOT</persName>. </item>
                         <item>— Dire quelques mots de la misère des paysans au dix-huitième siècle. </item>
                         <item>— Causes de cette misère.</item>
                         <item>— Que fit <persName type="historique">Turgot</persName> pour la soulager : 1° quand il était intendant du
