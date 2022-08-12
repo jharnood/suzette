@@ -277,7 +277,7 @@
                      <p>C'est au <placeName>mont Saint-Mlichel</placeName>, au sud-ouest de la <geogFeat>presqu'ile de <placeName>Cotentin</placeName></geogFeat>, que
                         la marée modifie le plus l'aspect du rivagé. « A mer basse, l'immense plaine
                         de sable de 250 kilomêtres carrès qui entoure le mont, ressemble à un lit de
-                        cendres que borne au lointain le liséré d'écume de l'Océan ; mais lorsque la
+                        cendres que borne au lointain le liséré d'écume de l'<geogFeat type="océan">Océan</geogFeat> ; mais lorsque la
                         marée, plus rapide qu'un cheval au galop, remonte en écumant la pente
                         presque insensible, il lui suffit de quelques heures pour transformer toute
                         la baie en une nappe d’eau grisâtre. Au reflux, les eaux se retirent avec la
