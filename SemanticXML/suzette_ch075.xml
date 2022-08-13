@@ -79,20 +79,23 @@
             <head>75. — Le beau temps. (Élève, p. 158.)</head>
             <div2 type="récit">
                <p>Un matin de mai, un de ces matins fleuris, bleus, lumineux, chantés du vieux poète
-                  : Le temps a laissé son manteau De vent, de froidure et de pluie, Et s'est vêtu de
-                  broderie, De soleil luisant clair et beau, M. Dumay, dans sa cour, saluait le
+                  : 
+                  <l>Le temps a laissé son manteau</l>
+                  <l>De vent, de froidure et de pluie,</l>
+                  <l>Et s'est vêtu de broderie,</l> 
+                  <l>De soleil luisant clair et beau,</l>
+                  <persName type="fictif" key="m_dumay">M. Dumay</persName>, dans sa cour, saluait le
                   retour de la première hirondelle. Il suivait des yeux le vol ému de l'oiseau,
                   tournoyant, planant*<gloss>Planer. Se dit d'un oiseau qui se soutient en l'air,
                      les ailes étendues et immobiles.</gloss>, tournoyant encore en cercles de plus
                   en plus rapprochés, et soudain, avec un petit chant
                      d'allégresse*<gloss>Allégresse. Joie qui éclate au dehors.</gloss>, courant à
                   tire-d'aile vers son nid de l'an passé, suspendu à la corniche du colombier.</p>
-               <p> A cet instant, la lourde porte s’ouvrit. C'était le facteur, avec une lettre. M.
-                  Dumay la décacheta, ajusta ses lunettes, la parcourat, puis appela : </p>
+               <p> A cet instant, la lourde porte s’ouvrit. C'était le facteur, avec une lettre. <persName type="fictif" key="m_dumay">M. Dumay</persName> la décacheta, ajusta ses lunettes, la parcourat, puis appela : </p>
                <pb type="page" n="259"/>
                <fw>LE BEAU TEMPS. 259</fw>
-               <p>— Suzette ! </p>
-               <p>Suzette parut sur le seuil.</p>
+               <p>— <persName type="fictif" key="suzette">Suzette</persName> ! </p>
+               <p><persName type="fictif" key="suzette">Suzette</persName> parut sur le seuil.</p>
                <p>— Te rappelles-tu ce que je répondis à ta tante quand elle parla d'un voyage à
                   Paris ? </p>
                <p>Oui, père ; vous lui dites : « Attendons le beau temps. »</p>
@@ -107,13 +110,13 @@
                   Qui, le samedi, tirera de l'armoire, sans tout bousculer, les vêtements de
                   rechange, les chemises, les mouchoirs, les chaussettes?</p>
                <p>En songeant ainsi, elle regardait ses trois frères dont les deux derniers, elle le
-                  voyait bien, eussent, pour aller aussi à Paris, donné leur part de toutes les
+                  voyait bien, eussent, pour aller aussi à <placeName>Paris</placeName>, donné leur part de toutes les
                   soupes et de tout le linge blanc du monde. Mais ils n'étaient pas invités, les
                   logements parisiens ne permettant pas une hospitalité aussi large. Eh bien !
                   comment, restant ici, traiteraient-ils la marmite ? comment mangeraient le père et
                   l'aîné, les deux travailleurs ?</p>
-               <p> Mme. Valon, qui entrait en ce moment trancna la question.</p>
-               <p>— Vite, vite à Paris, Mademoiselle Suzette ! Et une fois là, ouvre les yeux ;
+               <p> <persName type="fictif" key="mme_valon">Mme. Valon</persName>, qui entrait en ce moment trancha la question.</p>
+               <p>— Vite, vite à <placeName>Paris</placeName>, Mademoiselle <persName type="fictif" key="suzette">Suzette</persName> ! Et une fois là, ouvre les yeux ;
                   regarde les gens et les choses; ouvre aussi les oreilles, amasse des observations,
                   et écris-nous. Les deux jeunes frères passeront chez moi tout le temps de ton
                   absence ; ma mère s'occupera de leur pâtée. Et même, si tu le veux, celle de
@@ -124,22 +127,22 @@
                <fw>260 SUZETTE.</fw>
                <p>Qu'y avait-il à répondre à tant de bonne grâce ? Embrasser cette excellente amie,
                   et préparer le départ.</p>
-               <p>C'est ce que fit Suzette.</p>
+               <p>C'est ce que fit <persName type="fictif" key="suzette">Suzette</persName>.</p>
             </div2>
             <div2 type="questionnaire">
                <head>Questionnaire.</head>
                <list>
                   <item>— Récitez les vers relatifs à un matin du mois de mai. </item>
-                  <item>— Que regardait M. Dumay ? </item>
+                  <item>— Que regardait <persName type="fictif" key="m_dumay">M. Dumay</persName> ? </item>
                   <item>— Qui entra et que recut le fermier ?</item>
-                  <item> — Comment annonça-t-il à Suzette qu'elle devait se préparer à aller à Paris
+                  <item> — Comment annonça-t-il à <persName type="fictif" key="suzette">Suzette</persName> qu'elle devait se préparer à aller à Paris
                      ?</item>
                   <item> — Quels motifs faisaient hésiter la jeune fille ? </item>
                   <item>— Qu'auraient fait ses trols frères à sa place ? </item>
                   <item>— Qu'est-ce qui l'inquietait à leur égard ? </item>
-                  <item>— En quels termes Mme Valon décida-t-elle Suzette à quitter sa famille pour
+                  <item>— En quels termes <persName type="fictif" key="mme_valon">Mme Valon</persName> décida-t-elle <persName type="fictif" key="suzette">Suzette</persName> à quitter sa famille pour
                      quelques semaines ?</item>
-                  <item>— Comment Suzette lui témoigna-t-elle sa gratitude ? </item>
+                  <item>— Comment <persName type="fictif" key="suzette">Suzette</persName> lui témoigna-t-elle sa gratitude ? </item>
                </list>
             </div2>
             <div2 type="exercices">
@@ -185,24 +188,24 @@
                   <head type="sujets">Composition.</head>
                   <div4 type="questions">
                      <list>
-                        <item>— Lettre de Jarques à l'une de ses tantes. </item>
+                        <item>— Lettre de <persName type="fictif" key="jacques">Jacques</persName> à l'une de ses tantes. </item>
                         <item>— Il lui parte surtout des ennuis, des inconvénients qui résultent,
-                           dans le ménage, du départ de Suzette. </item>
+                           dans le ménage, du départ de <persName type="fictif" key="suzette">Suzette</persName>. </item>
                         <item>— Réflexions sur le rôle important d'une femme dans une maison, dans
                            la famille.</item>
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>SOMMAIRE. — Quelques mots relatifs au départ de Suzette. — Esquisser ce
+                     <p>SOMMAIRE. — Quelques mots relatifs au départ de <persName type="fictif" key="suzette">Suzette</persName>. — Esquisser ce
                         qu'elle faisait chaque jour pour le ménage et les repas; parler des petits
                         services qu'elle rendait à chaque instant ; — dire ce qu'il en est
-                        maintenant, malgre les bons offices de Mme Valon ; — faire une description
+                        maintenant, malgre les bons offices de <persName type="fictif" key="mme_valon">Mme Valon</persName> ; — faire une description
                         quelque peu gaie do l'aspect peu satisfaisant des chambres, des repas. —
-                        Faire remarquer que lorsque Suzette était à la maison, on était si bien
+                        Faire remarquer que lorsque <persName type="fictif" key="suzette">Suzette</persName> était à la maison, on était si bien
                         habitué à voir tout parfaitement tenu et prêt à l'heure, qu'on n'y faisait
                         guère attention, mais qu'aujourd'hui..... — Former le voeu de la voir
                         bientôt de retour. — Ajouter toutefois qu'on est heureux de la savoir
-                        contente de visiter Paris ; — donner des nou<pb type="page" n="261"/>
+                        contente de visiter <placeName>Paris</placeName> ; — donner des nou<pb type="page" n="261"/>
                         <fw>LES ADIEUX. 261</fw> velles de tous ; — présenter des compliments
                         affectueux à l'oncle et des amitiés aux cousins. — Écrire l'adresse à
                         part.</p>
@@ -213,18 +216,18 @@
                   <div4 type="questions">
                      <list>
                         <item> — LE VOYAGE DE SUZETTE.</item>
-                        <item>— Tracer le croquis du parcours en chemin de fer de Saint-Quentin à
-                           Paris; indiquer les stations principales </item>
+                        <item>— Tracer le croquis du parcours en chemin de fer de <placeName>Saint-Quentin</placeName> à
+                           <placeName>Paris</placeName>; indiquer les stations principales </item>
                         <item>— (noter à part les cours d'eau suivis et traversés par le chemin de
                            fer).</item>
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>Les principales stations seront : Saint-Quentin, Tergnier, Chauny, Noyon,
-                        Compiègne, Pont-Sainte-Maxence, Creil, Chantilly, Louvres, Saint-Denis, et
-                        enfin Paris.</p>
-                     <p>On suit le cours de l'Oise jusqu'à Creil : on traverse l'Aisne un peu au
-                        nord de Compiègne et la Nonette à Chantilly.</p>
+                     <p>Les principales stations seront : <placeName>Saint-Quentin</placeName>, <placeName>Tergnier</placeName>, <placeName>Chauny</placeName>, <placeName>Noyon</placeName>,
+                        <placeName>Compiègne</placeName>, <placeName>Pont-Sainte-Maxence</placeName>, <placeName>Creil</placeName>, <placeName>Chantilly</placeName>, <placeName>Louvres</placeName>, <placeName>Saint-Denis</placeName>, et
+                        enfin <placeName>Paris</placeName>.</p>
+                     <p>On suit le cours de l'<geogFeat type="rivière">Oise</geogFeat> jusqu'à <placeName>Creil</placeName> : on traverse l'<geogFeat type="rivière">Aisne</geogFeat> un peu au
+                        nord de <placeName>Compiègne</placeName> et la <geogFeat type="rivière">Nonette</geogFeat> à <placeName>Chantilly</placeName>.</p>
                   </div4>
                </div3>
                <div3 type="complexe">
