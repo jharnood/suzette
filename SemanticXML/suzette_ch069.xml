@@ -78,55 +78,48 @@
             <div1 type="chapitre" xml:lang="fr" n="ch069">
                 <head>69. — Le neveu. (Élève, p. 148.)</head>
                 <div2 type="récit">
-                    <p> S'arrêtant enfin, les bras croisés, devant Pascal : — Elle s'appelle madame
-                        Richard, ta mère ! — Oui, Monsieur... vous la connaissez ? — Tu ne sais pas
-                        que tu es ici à Fragicourt ?... — A Fragicourt !... son pays !</p>
-                    <p>— Et que cette montre a appartenu à ma mère, à qui je l'ai vue pendant toute
-                        ma jeunesse ? Ce chiffre, tiens, là, sur la cuvette, M. D., Marthe
-                        Dumay...</p>
+                    <p>S'arrêtant enfin, les bras croisés, devant <persName type="fictif" key="pascal">Pascal</persName> : </p>
+                        <p>— Elle s'appelle <persName type="fictif" key="mme_richard">madame Richard</persName>, ta mère ! </p>
+                        <p>— Oui, Monsieur... vous la connaissez ? </p>
+                    <p>— Tu ne sais pas que tu es ici à Fragicourt ?...</p> 
+                    <p>— A Fragicourt !... son pays !</p>
+                    <p>— Et que cette montre a appartenu à ma mère, à qui je l'ai vue pendant toute ma jeunesse ? 
+                        Ce chiffre, tiens, là, sur la cuvette, M. D., <persName type="fictif" key="marthe">Marthe Dumay</persName>...</p>
                     <p>— Ah !!</p>
-                    <p>A la suite de Pascal, Jacques, Suzette, François, Charlot firent entendre un
-                        autre Ah !! de surprise. M. Dumay reprit :</p>
-                    <p>— Oui, ce galopin-là est mon neveu !... Je ne m'en fais pas compliment. Quel
-                        âge as-tu ?.. et ton vrai age, s'il te plait !</p>
-                    <p>Quatorze ans, mon oncle, vous l'aviez dit. — Mais tu as un frère, alors ! —
-                        Qui, un frère de dix-huit ans et une sœur de douze.</p>
-                    <p>— Eh bien ! je ne connaissais que l'existence de ton <note type="foot">(1)
-                            Les monts-de-piété sont des bureaux où l'on prête de l'argent contre le
-                            dépôt d'objets mobiliers : linge, literie, meubles, bijoux, elc.</note>
-                        <pb type="page" n="240"/>
-                        <fw>240 SUZETTE.</fw> frère et la tienne; j'ignorais celle de ta sœur, que
-                        ta mère n'a pas pris la peine de m'apprendre ! </p>
-                    <p>Il se remettait à son ressentiment *<gloss>Ressentiment. Souvenir qu'on garde
-                            des injures, avec désir de s'en venger.</gloss> et parlait avec mauvaise
-                        humeur. Suzette le tira à part :</p>
+                    <p>A la suite de <persName type="fictif" key="pascal">Pascal</persName>, <persName type="fictif" key="jacques">Jacques</persName>, <persName type="fictif" key="suzette">Suzette</persName>, <persName type="fictif" key="françois">François</persName>, <persName type="fictif" key="charlot">Charlot</persName> firent entendre un autre 
+                        Ah !! de surprise.</p>
+                        <p>M. Dumay reprit :</p>
+                    <p>— Oui, ce galopin-là est mon neveu !... Je ne m'en fais pas compliment. Quel âge as-tu ?.. et ton vrai age, s'il te plait !</p>
+                    <p>Quatorze ans, mon oncle, vous l'aviez dit.</p> 
+                    <p>— Mais tu as un frère, alors !</p> 
+                    <p>— Qui, un frère de dix-huit ans et une sœur de douze.</p>
+                    <p>— Eh bien ! je ne connaissais que l'existence de ton 
+                        
+                        <note type="foot">(1) Les monts-de-piété sont des bureaux où l'on prête de l'argent contre le dépôt d'objets mobiliers :
+                            linge, literie, meubles, bijoux, etc.</note>
+                        <pb type="page" n="240" />
+                        <fw>240 SUZETTE.</fw>
+                        
+                        frère et la tienne; j'ignorais celle de ta sœur, que ta mère n'a pas pris la peine de m'apprendre ! </p>
+                    <p>Il se remettait à son ressentiment*<gloss>Ressentiment. Souvenir qu'on garde des injures, avec désir de s'en venger.</gloss> et parlait avec mauvaise humeur. <persName type="fictif" key="suzette">Suzette</persName> le
+                        tira à part :</p>
                     <p>Allons, papa, embrassez-le, ce fils de votre sœur.</p>
                     <p>Pour ça, non ! c'est un galopin.</p>
-                    <p>—Cher père, embrassez-le ! Regardez, il a les yeux mouillés de larmes. Et
-                        puis il ressemble à François..</p>
-                    <p>Alors M. Dumay fit le tour de la pièce, lentement, et s'arrêtant enfin,
-                        ouvrit ses bras au pauvre explorateur tout déconfit*<gloss>Déconfit. Réduit
-                            à ne plus savoir que dire.</gloss>, qui s'y jeta et, ensuite, embrassa
-                        ses cousins et sa cousine.</p>
-                    <p>— Mais entends bien ! reprit oncle, tu es mon prisonnier jusqu'à ce que ta
-                        mère, qui doit être dans un terrible souci par ta fuite, vienne te chercher.
-                        Demain, car ce soir il est trop tard, demain, de bonne heure, on ira au
-                        Catelet télégraphier*<gloss>Télégraphier. Faire parvenir un avis par le
-                            télégraphe.</gloss> de tes nouvelles. Maintenant, les enfants, qu'on
-                        prépare dans ma chambre le coucher de ces deux messieurs. Je ne tiens pas à
-                        ce qu'ils decampent.</p>
-                    <p>Et ces deux messieurs, assez réjouis de voir si bien finir leur mésaventure,
-                        échangèrent des amitiés avec toute la famille, puis chacun s'en alla
-                        dormir.</p>
+                    <p>—Cher père, embrassez-le ! Regardez, il a les yeux mouillés de larmes. Et puis il ressemble à <persName type="fictif" key="françois">François</persName>.</p>
+                    <p>Alors <persName type="fictif" key="m_dumay">M. Dumay</persName> fit le tour de la pièce, lentement, et s'arrêtant enfin, ouvrit ses bras au pauvre explorateur tout déconfit*<gloss>Déconfit. Réduit à ne plus savoir
+                            que dire.</gloss>, qui s'y jeta et, ensuite, embrassa ses cousins et sa cousine.</p>
+                    <p>— Mais entends bien ! reprit oncle, tu es mon prisonnier jusqu'à ce que ta mère, qui doit être dans un terrible souci par ta fuite, vienne te chercher. Demain,
+                        car ce soir il est trop tard, demain, de bonne heure, on ira au <placeName>Catelet</placeName> télégraphier*<gloss>Télégraphier. Faire parvenir un avis par le télégraphe.</gloss> de tes
+                        nouvelles. Maintenant, les enfants, qu'on prépare dans ma chambre le coucher de ces deux messieurs. Je ne tiens pas à ce qu'ils decampent.</p>
+                    <p>Et ces deux messieurs, assez réjouis de voir si bien finir leur mésaventure, échangèrent des amitiés avec toute la famille, puis chacun s'en alla dormir.</p>
                 </div2>
                 <div2 type="questionnaire">
                     <head>Questionnaire.</head>
                     <list>
-                        <item>— Reproduisez le dialogue entre M. Dumay et Pascal.</item>
+                        <item>— Reproduisez le dialogue entre <persName type="fictif" key="m_dumay">M. Dumay</persName> et <persName type="fictif" key="pascal">Pascal</persName>.</item>
                         <item>— Quel degré de parenté existait-il entre eux ? </item>
-                        <item>— Quelles questions furent adresssées à Pascal sur sa famille et quels
-                            renseignements donna-t-il ?</item>
-                        <item>— Quelle chose Suzette demanda-t-elle à son père ?</item>
+                        <item>— Quelles questions furent adresssées à <persName type="fictif" key="pascal">Pascal</persName> sur sa famille et quels renseignements donna-t-il ?</item>
+                        <item>— Quelle chose <persName type="fictif" key="suzette">Suzette</persName> demanda-t-elle à son père ?</item>
                         <item>— Que fit ce dernier et quel avis donna-t-il à son neveu ? </item>
                         <item>— Que se proposa-t-on de faire le lendemain matin ? </item>
                         <item>— Comment fluit la journée ?</item>
@@ -138,28 +131,23 @@
                         <head type="sujets">Morale.</head>
                         <div4 type="questions">
                             <list>
-                                <item>— Que pensez-vous de l'escapade de Pascal ?</item>
+                                <item>— Que pensez-vous de l'escapade de <persName type="fictif" key="pascal">Pascal</persName> ?</item>
                                 <item>— Quels motifs auraient dû l'empêcher de la commetre ? </item>
                             </list>
                         </div4>
                         <div4 type="réponses">
-                            <p>Pascal, l'esprit rempli du souvenir de ses lectures de voyages, ne
-                                songea sans doute ni à la peine qu'il causerait a sa mère en
-                                s'enfuyant de la maison paternelle, ni aux difficultés d'argent et
-                                de parcours qui devaient inévitablement mettre fin à son escapade,
-                                car il n'est pas possible d'appeler entreprise une aventure qui
-                                témoignait d'aussi peu de réflexion.</p>
-                            <p>On peut donc comprendre sa faute, mais non l'excuser totalement. S'il
-                                eût été un garçon réfléchi, s'il avait eu le bon esprit de discerner
-                                dans ses lectures le but scientifique des voyages des explorateurs
-                                et se rendre compte de tout ce qui est nécessaire pour les mener à
-                                bonne fin, il aurait certainement hésité avant de prendre la route
-                                d'Anvers. <pb type="page" n="241"/>
-                                <fw>LE NEVEU 241</fw> Enfin, si la pensée du chagrin de sa mère,
-                                déjà si éprouvée par la perte de son mari, fût venue à son
-                                imagination d'etourdi, nul doute qu'il eût remis son départ à un
-                                moment plus opportun, car Pascal aimait vraiment cette mère qui,
-                                tout récemment, lui avait donné, par la montre de la grand'maman, un
+                            <p><persName type="fictif" key="pascal">Pascal</persName>, l'esprit rempli du souvenir de ses lectures de voyages, ne songea sans doute ni à la peine qu'il causerait a sa mère en s'enfuyant de la maison
+                                paternelle, ni aux difficultés d'argent et de parcours qui devaient inévitablement mettre fin à son escapade, car il n'est pas possible d'appeler entreprise
+                                une aventure qui témoignait d'aussi peu de réflexion.</p>
+                            <p>On peut donc comprendre sa faute, mais non l'excuser totalement. S'il eût été un garçon réfléchi, s'il avait eu le bon esprit de discerner dans ses lectures
+                                le but scientifique des voyages des explorateurs et se rendre compte de tout ce qui est nécessaire pour les mener à bonne fin, il aurait certainement hésité
+                                avant de prendre la route d'<placeName>Anvers</placeName>. 
+                                
+                                <pb type="page" n="241" />
+                                <fw>LE NEVEU 241</fw>
+                                
+                                Enfin, si la pensée du chagrin de sa mère, déjà si éprouvée par la perte de son mari, fût venue à son imagination d'etourdi, nul doute qu'il eût remis
+                                son départ à un moment plus opportun, car <persName type="fictif" key="pascal">Pascal</persName> aimait vraiment cette mère qui, tout récemment, lui avait donné, par la montre de la grand'maman, un
                                 nouveau témoignage d'affection et de confiance.</p>
                         </div4>
                     </div3>
@@ -167,24 +155,21 @@
                         <head type="sujets">Composition.</head>
                         <div4 type="questions">
                             <list>
-                                <item>— Supposez que Suzette écrit à sa tante de Paris</item>
-                                <item>— après l'aveu de Pascal,</item>
-                                <item>— qu'elle sollicite le pardon du coupable, et rédigez la
-                                    lettre.</item>
+                                <item>— Supposez que <persName type="fictif" key="suzette">Suzette</persName> écrit à sa tante de <placeName>Paris</placeName>
+                                — après l'aveu de <persName type="fictif" key="pascal">Pascal</persName>,
+                                — qu'elle sollicite le pardon du coupable, et rédigez la lettre.</item>
                             </list>
                         </div4>
                         <div4 type="réponses">
-                            <p>Cette lettre sera un résumé des faits et des incidents qui ont marqué
-                                la soirée de l'arrivée des deux enfants à la ferme. Elle se
-                                terminera par l'assurance du repentir de Pascal, et par une cordiale
-                                invitation de venir voir sa famille de Fragicourt, qui ne lui rendra
-                                le fugitif qu'à cette condition.</p>
+                            <p>Cette lettre sera un résumé des faits et des incidents qui ont marqué la soirée de l'arrivée des deux enfants à la ferme. Elle se terminera par l'assurance
+                                du repentir de <persName type="fictif" key="pascal">Pascal</persName>, et par une cordiale invitation de venir voir sa famille de <placeName>Fragicourt</placeName>, qui ne lui rendra le fugitif qu'à cette condition.</p>
                             <p>Les élèves pourront disposer la lettre de ta manière suivante : </p>
-                            <p>Fragicourt, le 2 janvier 1878.</p>
+                            <p><placeName>Fragicourt</placeName>, le 2 janvier 1878.</p>
                             <p>Ma chère tante, </p>
-                            <p>(Voir, pour le modèle de l'adresse à mettre sur la lettre en
-                                question, page 70 du COURS DE COMPOSITION FRANÇAISE, par E. LAPORTE
-                                (Degré élémentaire et moyen, Partie de l'élève.) </p>
+
+                            <p>(Voir, pour le modèle de l'adresse à mettre sur la lettre en question, page 70 du COURS DE COMPOSITION FRANÇAISE, par <persName type="historique">E. LAPORTE</persName> (Degré élémentaire et moyen,
+                                Partie de l'élève.) </p>
+
                         </div4>
                     </div3>
                     <div3 type="hygiène">
@@ -202,42 +187,26 @@
                             </list>
                         </div4>
                         <div4 type="réponses">
-                            <p>Le sommeit est un état do repos causé par l'assoupissement naturel de
-                                nos sens ; la nécessité s'en fait sentir ordinairement à la fin du
-                                travail de la journée, et on y satisfait durant la nuit. Alors les
-                                fonctions de la vie s'accomplissent avec plus de calme que dans
-                                l'état de veille ; les nerfs se reposent ; le sang se répartit
-                                également dans toutes les parties du corps, et, quand on reprend la
-                                notion de soi-même au matin, tout notre, être, frais et dispos,
-                                peutse livrer de nouveaù à ses occupations quotidiennes.</p>
-                            <p>Ces quelques explications démontrent combien le sommeil est
-                                nécessaire pour le fonctionnement régulier des organes du corps; il
-                                l'est également, si ce n'est plus, à l'esprit, surtout chez les
-                                enfants qui fréquentent l'école et chez les personnes qui s'adonnent
-                                aux travaux de l'intelligence.</p>
-                            <p> «La nuit doit être dévolue au sommeil, dit M. Lévy ; dormir le jour
-                                « et veiller la nuit, ou bien prolonger outre mesure les veillées,
-                                c'est « intervertir la marche naturelle de nos organes; il n'est
-                                point de « cause plus assurée d'étiolement, d'affaiblissement et de
-                                trouble dans « les organes de nutrition.</p>
-                            <p>« Les gens faibles dorment plus que les gens robustes; mais les per-
-                                « sonnes fortes qui ont une propension au sommeil doivent s'en dé- «
-                                fendre comme d'une cause qui prédispose aux congestions cérébrales.
-                                » Aux diffèrents âges, la durée du sommeil doit être : chez les
-                                adolescents, 8 à 10 heures ; chez les aduites, 6 à 8 ; la plupart
-                                des vieillards ont assez de 6 heures. Il ne faut pas, pour les
-                                enfants, prolonger la veillée au delà de 9 heures du soir; ils
-                                doivent se lever, en été, à 6 heures du matin ; en hiver, à 7
-                                heures.</p>
-                            <fw>SUZETTE ( Maîtresse). 14</fw>
-                            <pb type="page" n="242"/>
+                            <p>Le sommeil est un état do repos causé par l'assoupissement naturel de nos sens ; la nécessité s'en fait sentir ordinairement à la fin du travail de la
+                                journée, et on y satisfait durant la nuit. Alors les fonctions de la vie s'accomplissent avec plus de calme que dans l'état de veille ; les nerfs se
+                                reposent ; le sang se répartit également dans toutes les parties du corps, et, quand on reprend la notion de soi-même au matin, tout notre, être, frais et
+                                dispos, peut se livrer de nouveaù à ses occupations quotidiennes.</p>
+                            <p>Ces quelques explications démontrent combien le sommeil est nécessaire pour le fonctionnement régulier des organes du corps ; il l'est également, si ce
+                                n'est plus, à l'esprit, surtout chez les enfants qui fréquentent l'école et chez les personnes qui s'adonnent aux travaux de l'intelligence.</p>
+                            <p> « La nuit doit être dévolue au sommeil, dit <persName type="historique">M. Lévy</persName> ; dormir le jour et veiller la nuit, ou bien prolonger outre mesure les veillées, c'est intervertir
+                                la marche naturelle de nos organes ; il n'est point de « cause plus assurée d'étiolement, d'affaiblissement et de trouble dans les organes de
+                                nutrition.</p>
+                            <p>« Les gens faibles dorment plus que les gens robustes; mais les personnes fortes qui ont une propension au sommeil doivent s'en défendre comme d'une
+                                cause qui prédispose aux congestions cérébrales. » </p>
+                               <p> Aux diffèrents âges, la durée du sommeil doit être : chez les ado- lescents, 8 à 10 heures ; chez les
+                                aduites, 6 à 8 ; la plupart des vieillards ont assez de 6 heures. Il ne faut pas, pour les enfants, prolonger la veillée au delà de 9 heures du soir; ils
+                                doivent se lever, en été, à 6 heures du matin ; en hiver, à 7 heures.</p>
+                            <fw type="footer">SUZETTE (Maîtresse). <fw type="sig">14</fw></fw>
+                            <pb type="page" n="242" />
                             <fw>242 SUZETTE.</fw>
-                            <p>Quelques personnes contractent la fâcheuse habitude de lire
-                                lors-qu'elles sont couchées ; elles fatiguent ainsi leurs yeux et
-                                s'exposent à perdre la vue ; de plus, le flambeau qu'elles gardent
-                                allumé dans le voisinage des rideaux est souvent la cause
-                                d'incendies. Conclusion : une fois au lit, le plus sage est de
-                                dormir.</p>
+                            <p>Quelques personnes contractent la fâcheuse habitude de lire lorsqu'elles sont couchées ; elles fatiguent ainsi leurs yeux et s'exposent à perdre la vue ;
+                                de plus, le flambeau qu'elles gardent allumé dans le voisinage des rideaux est souvent la cause d'incendies. Conclusion : une fois au lit, le plus sage est
+                                de dormir.</p>
                         </div4>
                     </div3>
                 </div2>

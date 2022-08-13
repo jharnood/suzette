@@ -81,64 +81,65 @@
             <div2 type="récit">
                <p>Sur la cheminée s'épanouissait un large bouquet de fleurs des champs et, sur la
                   table, un autre de fleurs de jardin. Une rose blanche parait le corsage de
-                  Suzette. Sur les appuis des deux fenêtres, une rangée de géraniums en pots
+                  <persName type="fictif" key="suzette">Suzette</persName>. Sur les appuis des deux fenêtres, une rangée de géraniums en pots
                   montaient la garde ; tout cela attendant la jeune mariée.</p>
-               <p>— Papa, estelle jolie ? </p>
-               <p>Revenu depuis deux jours, M. Dumay avait précédé de trois les mariés. Et le
+               <p>— Papa, est-elle jolie ? </p>
+               <p>Revenu depuis deux jours, <persName type="fictif" key="m_dumay">M. Dumay</persName> avait précédé de trois les mariés. Et le
                   troisième jour en était à ses onze heures du matin.</p>
-               <p>—Papa, estelle jolie ?</p>
+               <p>—Papa, est-elle jolie ?</p>
                <p>— Jolie ?... jolie ? Je n'en sais trop rien, ma fille. Elle a un visage plaisant
-                  avec des yeux... tiens ! de la couleur de ces pe- tites fleurs-là.</p>
+                  avec des yeux... tiens ! de la couleur de ces petites fleurs-là.</p>
                <p>Juste comme <figure>
-                     <caption>Château d'Amboise (Indre-et-Loire) ; ancien château royal où les
-                        protestants essayèrent de surprendre la cour de François II en
+                     <caption><placeName>Château d'Amboise</placeName> (<placeName>Indre-et-Loire</placeName>) ; ancien château royal où les
+                        protestants essayèrent de surprendre la cour de <persName type="historique">François II</persName> en
                         1560.</caption>
                   </figure> il montrait des myosotis sur la table, le marié et la mariée arrivèrent,
-                  conduits par François.</p>
-               <p>— Eh bien ! non ! elle n'était pas jolie, Mme Louis Richard. <pb type="page"
+                  conduits par <persName type="fictif" key="françois">François</persName>.</p>
+               <p>— Eh bien ! non ! elle n'était pas jolie, <persName type="fictif" key="madeleine">Mme Louis Richard</persName>. <pb type="page"
                      n="464"/>
                   <fw>464 SUZETTE.</fw> Figure trop longue, traits un peu gros. Mais dans les joues,
                   deux aimables fossettes ; aux coins de la bouche, un sourire très bon, et les
                   yeux, ces fieurs bleues dont on avait parlé, compensaient au moins la beauté.</p>
                <p>Les deux cousines se plurent au premier regard. Et <figure>
-                     <caption>Château de Piessis-lès-Tours, où résida et mourut Louis XI
+                     <caption><placeName>Château de Piessis-lès-Tours</placeName>, où résida et mourut <persName type="historique">Louis XI</persName>
                         (1483).</caption>
-                  </figure> les deux institutrices aussi. Car si l'on conduisit vite Mme Louis chez
-                  Mme Valon, vous n'en doutez guère.</p>
+                  </figure> les deux institutrices aussi. Car si l'on conduisit vite <persName type="fictif" key="madeleine">Mme Louis</persName> chez
+                  <persName type="fictif" key="mme_valon">Mme Valon</persName>, vous n'en doutez guère.</p>
                <p>Celle-ci avait déjà invité la famille à déjeuner pour le lendemain et accepté
                   elle-même de dîner à la ferme.</p>
-               <p>A ce dîner, on parla de Paris, et aussi de Blois et de Tours. Car Mme Valon et Mme
-                  Richard, par une heureuse rencontre, étaient nées toutes deux non loin de ces
-                  bords charmants de la Loire, assez riches en monuments, en souvenirs historiques
+               <p>A ce dîner, on parla de <placeName>Paris</placeName>, et aussi de <placeName>Blois</placeName> et de <placeName>Tours</placeName>. Car <persName type="fictif" key="mme_valon">Mme Valon</persName> et <persName type="fictif" key="madeleine">Mme
+                  Richard</persName>, par une heureuse rencontre, étaient nées toutes deux non loin de ces
+                  bords charmants de la <geogFeat type="fleuve">Loire</geogFeat>, assez riches en monuments, en souvenirs historiques
                   pour défrayer*<gloss>Défrayer. Fournir à l'entretien d'une chose.</gloss> la
-                  conversation de plus d'un dîner de Fragicourt.</p>
+                  conversation de plus d'un dîner de <placeName type="fictif">Fragicourt</placeName>.</p>
                <pb type="page" n="465"/>
                <fw>UNE ARRIVÉE. 465</fw>
                <p>Et à travers les souvenirs échangés des deux dames, les convives virent passer
-                  devant leurs yeux les admirables châteaux de Chenonceaux, de Blois, d'Amboise, de
-                  Chambord et les ruines du vieux Plessis de Louis XI.</p>
-               <p>Tout le temps de ce repas, M. François se tint très coi, mais pourtant sans
+                  devant leurs yeux les admirables châteaux de <placeName>Chenonceaux</placeName>, de <placeName>Blois</placeName>, d'<placeName>Amboise</placeName>, de
+                  <placeName>Chambord</placeName> et les ruines du vieux <placeName>Plessis</placeName> de <persName type="historique"
+                     >Louis XI</persName>.</p>
+               <p>Tout le temps de ce repas, M. <persName type="fictif" key="françois">François</persName> se tint très coi, mais pourtant sans
                   confusion.</p>
                <p>Spontanément, le jour du retour de son père, il lui avait tout dit, sa faute et
-                  son serment, et cela avec un si vigoureux accent de volonté que M. Dumay, comme
-                  Suzette, sentit François guéri par le coup de folie même qui eût dû le perdre.</p>
+                  son serment, et cela avec un si vigoureux accent de volonté que <persName type="fictif" key="m_dumay">M. Dumay</persName>, comme
+                  <persName type="fictif" key="suzette">Suzette</persName>, sentit <persName type="fictif" key="françois">François</persName> guéri par le coup de folie même qui eût dû le perdre.</p>
                <p>Depuis, il le traitait avec une gravité plus douce.</p>
             </div2>
             <div2 type="questionnaire">
                <head>Questionnaire.</head>
                <list>
-                  <item>— Comment Suzette avait-elle tiré parti des fleurs de son jardin ? </item>
+                  <item>— Comment <persName type="fictif" key="suzette">Suzette</persName> avait-elle tiré parti des fleurs de son jardin ? </item>
                   <item>— Qui était de retour à la ferme ? </item>
-                  <item>— Que répondit-il à une question de Suzette ? </item>
-                  <item>— Que dit-il des yeux de Mme Louis Richard ? </item>
+                  <item>— Que répondit-il à une question de <persName type="fictif" key="suzette">Suzette</persName> ? </item>
+                  <item>— Que dit-il des yeux de <persName type="fictif" key="madeleine">Mme Louis Richard</persName> ? </item>
                   <item>— Faites son portrait. </item>
-                  <item>— A votre avis, pourquoi Mme Louis Richard, Mme Valon et Suzette se
+                  <item>— A votre avis, pourquoi <persName type="fictif" key="madeleine">Mme Louis Richard</persName>, <persName type="fictif" key="mme_valon">Mme Valon</persName> et <persName type="fictif" key="suzette">Suzette</persName> se
                      plurent-elles au premier regard ? </item>
                   <item>— De quoi parla-t-on au dîner de la ferme ? </item>
-                  <item>— Quels châteaux citèrent les deux dames originaires de la Touraine ? </item>
-                  <item>— Décrivez, d'après les images, les châteaux de Blois, d'Amboise et de
-                     Plessis-les-Tours. </item>
-                  <item>— Comment se tint François pendant le diner ? </item>
+                  <item>— Quels châteaux citèrent les deux dames originaires de la <placeName>Touraine</placeName> ? </item>
+                  <item>— Décrivez, d'après les images, les châteaux de <placeName>Blois</placeName>, d'<placeName>Amboise</placeName> et de
+                     <placeName>Plessis-les-Tours</placeName>. </item>
+                  <item>— Comment se tint <persName type="fictif" key="françois">François</persName> pendant le diner ? </item>
                   <item>— Qu'avait-il spontanément avoué à son père ? </item>
                </list>
             </div2>
@@ -221,41 +222,41 @@
                            villes importantes qu'ils arrosent tous, puis la situation des châteaux
                            nommés dans la lecture.</item>
                         <item>— Quels souvenirs historiques vous rappellent : le château de
-                           Plessis-les-Tours et ceux d'Amboise, de Blois, de Chambord ? </item>
+                           <placeName>Plessis-les-Tours</placeName> et ceux d'<placeName>Amboise</placeName>, de <placeName>Blois</placeName>, de <placeName>Chambord</placeName> ? </item>
                      </list>
                   </div4>
                   <div4 type="réponses">
                      <p>(Accoutumer les élèves à marquer quatre ou cinq points indiquant les
                         principaux changements de direction du fleuve, avant d'en tracer le cours :
-                        Chenonceaux est situé sur le Cher, dans l'arrondissement de Tours, et
-                        Chambord à 16 kilomêtres de Blois, au sud de la Loire.)</p>
-                     <p>Le château de Plessis-les-Tours fut bâti par Louis XI, qui y séjourna
-                        longtemps et y mourut en 1463 ; le 30 avril 1589, Henri IlI et son
-                        beau-frère Henri de Navarre y conclurent une alliance contre la Ligue.</p>
-                     <p>Le château d'Amboise, bâti sur les ruines d'un château romain, fut
+                        <placeName>Chenonceaux</placeName> est situé sur le <geogFeat type="rivière">Cher</geogFeat>, dans l'arrondissement de <placeName>Tours</placeName>, et
+                        <placeName>Chambord</placeName> à 16 kilomêtres de <placeName>Blois</placeName>, au sud de la <geogFeat type="fleuve">Loire</geogFeat>.)</p>
+                     <p>Le château de <placeName>Plessis-les-Tours</placeName> fut bâti par <persName type="historique">Louis XI</persName>, qui y séjourna
+                        longtemps et y mourut en 1463 ; le 30 avril 1589, <persName type="historique">Henri IlI</persName> et son
+                        beau-frère <persName type="historique">Henri de Navarre</persName> y conclurent une alliance contre la Ligue.</p>
+                     <p>Le château d'<placeName>Amboise</placeName>, bâti sur les ruines d'un château romain, fut
                         reconstruit au huitieme siècle, puis, une seconde fois, sous les règnes de
-                        Charles VIII, Louis XII et François Ier. Les rois y résidèrent souvent.
-                        Louis XI y institua l'ordre de Saint-Michel (1469) ; Charles VIIl y naquit
-                        (1470) et y mourut (1498). François Il s'y réfugia lors de la première prise
-                        d'armes des calvinistes (1560), connue sous le nom de conjuration d'Amboise.
-                        Abd-el-kader y fut interné de 1848 à 1852.</p>
-                     <p>Le château actuel de Blois fut commencé par Louis XII, continué sous
-                        François Ier et achevé par Gaston d'Orléans, frère de Louis XIII. Louis XIl
+                        <persName type="historique">Charles VIII</persName>, <persName type="historique">Louis XII</persName> et <persName type="historique">François Ier</persName>. Les rois y résidèrent souvent.
+                        <persName type="historique">Louis XI</persName> y institua l'ordre de Saint-Michel (1469) ; <persName type="historique">Charles VIII</persName> y naquit
+                           (1470) et y mourut (1498). <persName type="historique">François II</persName> s'y réfugia lors de la première prise
+                        d'armes des calvinistes (1560), connue sous le nom de conjuration d'<placeName>Amboise</placeName>.
+                           <persName type="historique">Abd-el-kader</persName> y fut interné de 1848 à 1852.</p>
+                     <p>Le château actuel de <placeName>Blois</placeName> fut commencé par <persName type="historique">Louis XII</persName>, continué sous
+                        <persName type="historique">François Ier</persName> et achevé par <persName type="historique">Gaston d'Orléans</persName>, frère de <persName type="historique">Louis XIII</persName>. <persName type="historique">Louis XII</persName>
                         aimait à y séjourner : c'était d'ailleurs le lieu de sa naissance ; il y
                         signa divers traités. Il s'y tint des Etats généraux en 1577 et 1588 ; c'est
-                        pendant la réunion de ceux de 1588 que Henri IIl y fit assassiner le duc et
-                        le cardinal de Guise qui voulaient le détrôner. Marie de Médicis y fut
-                        reléguée après l'assassinat de Concini (1679). C'est à Blois que
-                        Marie-Louise se retira, le 2 avril 1814, pour en repartir avec son fils le 9
+                        pendant la réunion de ceux de 1588 que <persName type="historique">Henri III</persName> y fit assassiner le duc et
+                        le cardinal de <persName type="historique">Guise</persName> qui voulaient le détrôner. <persName type="historique">Marie de Médicis</persName> y fut
+                        reléguée après l'assassinat de <persName type="historique">Concini</persName> (1679). C'est à <placeName>Blois</placeName> que
+                        <persName type="historique">Marie-Louise</persName> se retira, le 2 avril 1814, pour en repartir avec son fils le 9
                         mai suivant.</p>
-                     <p>Le château de Chambord, le plus beau de France, fut construit sous le règne
-                        de François ler par Pierre Nepveu, sur l'emplacement d'une maison de
-                        plaisance des comtes de Blois. Il fut donné par Louis XV à son beau-père
-                        Stanislas, puis au maréchal de Saxe. Louis XVI en accorda la jouissance aux
-                        Polignac. Napoléon en fit don à Berthier, <pb type="page" n="467"/>
+                     <p>Le château de <placeName>Chambord</placeName>, le plus beau de <placeName>France</placeName>, fut construit sous le règne
+                        de <persName type="historique">François ler</persName> par <persName type="historique">Pierre Nepveu</persName>, sur l'emplacement d'une maison de
+                        plaisance des <persName type="historique">comtes de Blois</persName>. Il fut donné par <persName type="historique">Louis XV</persName> à son beau-père
+                        <persName type="historique">Stanislas</persName>, puis au <persName type="historique">maréchal de Saxe</persName>. <persName type="historique">Louis XVI</persName> en accorda la jouissance aux
+                        <persName type="historique">Polignac</persName>. <persName type="historique">Napoléon</persName> en fit don à <persName type="historique">Berthier</persName>, <pb type="page" n="467"/>
                         <fw>UN DÉPART. 467</fw> prince de Wagram, et, en 1821, il fut acquis au
-                        moyen d'une souscription et offert au petit-neveu du roi Louis XVIIl, futur
-                        héritier du trône, connu plus tard sous le nom de comte de Chambord.</p>
+                        moyen d'une souscription et offert au petit-neveu du roi <persName type="historique">Louis XVIIl</persName>, futur
+                        héritier du trône, connu plus tard sous le nom de <persName type="historique">comte de Chambord</persName>.</p>
                   </div4>
                </div3>
             </div2>
