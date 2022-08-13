@@ -97,7 +97,7 @@
                <p>— <persName type="fictif" key="suzette">Suzette</persName> ! </p>
                <p><persName type="fictif" key="suzette">Suzette</persName> parut sur le seuil.</p>
                <p>— Te rappelles-tu ce que je répondis à ta tante quand elle parla d'un voyage à
-                  Paris ? </p>
+                  <placeName>Paris</placeName> ? </p>
                <p>Oui, père ; vous lui dites : « Attendons le beau temps. »</p>
                <p> —Et quel temps fait-il, aujourd'hui ? </p>
                <p> Elle leva vers le ciel et vers le nid de l'hirondelle un regard souriant.</p>
@@ -135,7 +135,7 @@
                   <item>— Récitez les vers relatifs à un matin du mois de mai. </item>
                   <item>— Que regardait <persName type="fictif" key="m_dumay">M. Dumay</persName> ? </item>
                   <item>— Qui entra et que recut le fermier ?</item>
-                  <item> — Comment annonça-t-il à <persName type="fictif" key="suzette">Suzette</persName> qu'elle devait se préparer à aller à Paris
+                  <item> — Comment annonça-t-il à <persName type="fictif" key="suzette">Suzette</persName> qu'elle devait se préparer à aller à <placeName>Paris</placeName>
                      ?</item>
                   <item> — Quels motifs faisaient hésiter la jeune fille ? </item>
                   <item>— Qu'auraient fait ses trols frères à sa place ? </item>
