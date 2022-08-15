@@ -79,7 +79,7 @@
             <head>79. — Sur la Seine. (Élève, p. 165.)</head>
             <div2 type="récit">
                <p>Le bateau glissait entre les quais magnifiques bordés <figure>
-                     <caption>Hôtel de ville de Paris.</caption>
+                     <caption><placeName>Hôtel de ville de Paris</placeName>.</caption>
                   </figure> d'arbres, de belles maisons, de palais. Au loin, comme <figure>
                      <caption>1. <placeName>Cathédrale Notre-Dame de Paris</placeName>. — 2. La <placeName>Sainte-Chapelle</placeName>, bâtie par
                         <persName type="historique">saint Louis</persName> en 1245, et le <placeName>Palais de Justice de Paris</placeName>.</caption>
@@ -87,11 +87,10 @@
                      n="273"/>
                   <fw>SUR LA SEINE. 273</fw> parisien, se déroulait la suite interminable des ponts. </p>
                <p><persName type="fictif" key="suzette">Suzette</persName>, assise à l'avant du bateau entre la tante <persName type="fictif" key="mme_valon">Jeanne</persName> et la cousine <persName type="fictif" key="marthe">Marthe</persName>, se
-                  taisait, emplissant ses yeux du spectacle. En face. <persName type="fictif" key="louis">Louis</persName> et <persName type="fictif" key="pascal">Pascal</persName> lui nôm-
-                  maient au passage les merveilles à travers lesquelles la petite troupe se rendait
+                  taisait, emplissant ses yeux du spectacle. En face. <persName type="fictif" key="louis">Louis</persName> et <persName type="fictif" key="pascal">Pascal</persName> lui nommaient au passage les merveilles à travers lesquelles la petite troupe se rendait
                   à l'Exposition.</p>
                <p>Embarqués au <placeName>pont Sully</placeName>, on longea, à droite, l'<placeName>Hôtel de ville</placeName>, l'ancienne Maison
-                  aux piliers où, pour la pre mière fois, la bourgeoisie de France, entraînée par le
+                  aux piliers où, pour la première fois, la bourgeoisie de France, entraînée par le
                      prévôt*<gloss> Prévôt des marchands. Magistrat qui était le chef de l'hôtel de
                      ville, le maire, en quelque sorte. </gloss> des marchands de <placeName>Paris</placeName>, <persName type="historique">Etienne
                   Marcel</persName>, révendiqua*<gloss> Revendiquer. Réclamer une chose qui vous appartient
@@ -99,7 +98,7 @@
                   absolue gaspilleuse*<gloss> Gaspiller. Dissiper de l'argent avec une folle
                      prodigalité. </gloss> des deniers publics*<gloss>Deniers publics. Le produit
                      des impôts.</gloss>.</p>
-               <p>L'hôtel de ville de <persName type="historique">François Ier</persName>, qui remplaça cette antique Maison commune, fut à
+               <p>L'<placeName>hôtel de ville</placeName> de <persName type="historique">François Ier</persName>, qui remplaça cette antique Maison commune, fut à
                   son tour remplacé par un autre. Et celui-ci, sa copie exacte, brillait tout neuf
                   dans sa masse élégante, la blancheur de sa pierre, de ses statues, le flamboiement
                   de ses dorures.</p>
@@ -119,7 +118,7 @@
                   l'historien <persName type="historique">Michelet</persName>: </p>
                <pb type="page" n="274"/>
                <fw>274 SUZETTE.</fw>
-               <p>« O Paris ! tu as commis des fautes, mais tu as tant fait pour la liberté du monde
+               <p>« O <placeName>Paris</placeName> ! tu as commis des fautes, mais tu as tant fait pour la liberté du monde
                   qu'on voudrait baiser les pierres de tes monuments, les pavés de tes rues ! »</p>
                <p>Puis, <persName type="fictif" key="pascal">Pascal</persName> montra à gauche la vieille <placeName>Cité</placeName>, son <placeName>Palais de Justice</placeName>, sa
                   <placeName>Sainte-Chapelle</placeName> à la flèche dorée, et les hautes et puissantes tours de <placeName>Notre
@@ -152,12 +151,12 @@
                   <item>— Que faisait <persName type="fictif" key="suzette">Suzette</persName> ?</item>
                   <item>— Où se rendait-elle ?</item>
                   <item>— Qu'est-ce qu'une exposition ? </item>
-                  <item> — Que savez-vous de l'ancien hotel de ville ?</item>
+                  <item> — Que savez-vous de l'ancien <placeName>hôtel de ville</placeName> ?</item>
                   <item>— Que revendiqua <persName type="historique">Etienne Marcel</persName> ? </item>
                   <item>— Comment finit-il ? </item>
                   <item>— Décrivez l'<placeName>hôtel de ville</placeName> actuel. </item>
                   <item>— Quel édifice a-t-il remplacé ? </item>
-                  <item>— Quand périt l'hôtel de ville construit sous <persName type="historique">François Ier</persName> ? </item>
+                  <item>— Quand périt l'<placeName>hôtel de ville</placeName> construit sous <persName type="historique">François Ier</persName> ? </item>
                   <item>— Dites quelque chose des dévastations commises en 1871, sous la Commune. </item>
                   <item>— Rappelez les varoles de l'historien <persName type="fictif">Michelet</persName>. </item>
                   <item>— Quels monuments embellissent l'<placeName>île de la Cité</placeName> ? </item>
@@ -242,7 +241,6 @@
                         de cette époque que la tour de l'horloge et les tours voisines. L'édifice a
                         été considerablement agrandi sous les règnes de <persName type="historique">Louis XV</persName>, de <persName type="historique">Louis-Philippe</persName>
                         et de <persName type="historique">Napoléon III</persName>.</p>
-                     <p>(Pour <persName type="historique">Etienne Marcel</persName>, voir le traité d'histoire en usage à l'école.)</p>
                      <p>(Mème remarque pour les pirates normands.)</p>
                   </div4>
                </div3>
