@@ -168,7 +168,7 @@
                 </div2>
                 <div2 type="exercices">
                     <head>DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES</head>
-                    <!-in the div3 type="sujets" section, @subtype is added from the schema. -->
+                    <!--in the div3 type="sujets" section, @subtype is added from the schema. -->
                     <div3 type="morale">
                         <head type="sujets"> Morale.</head>
                         <div4 type="questions">
