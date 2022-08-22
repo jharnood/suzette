@@ -82,9 +82,9 @@
                <p> « Sans le regret du village qui me tient toujours, je serais ici comme un poisson dans l'eau. </p>
                <pb type="page" n="76" />
                <fw type="header"> 76 SUZETTE. </fw>
-               <p> « Le <placeName type="réel"><settlement>Paraclet</settlement></placeName> est charmant*<gloss>Charmant. Très agréable.</gloss>. L'école, bâtie sur le flanc d'une colline, domine une
-                  belle vallée où coulent l'<placeName type="réel"><geogFeat type="fleuve" ref="avre">Avre</geogFeat></placeName> et la <placeName type="réel"><geogFeat type="fleuve" ref="moye"
-                     >Moye</geogFeat></placeName>. Un petit village de maisonnettes rouges et blanches, avec son clocher qui ressemble à celui de <placeName type="fictif">Fragicourt</placeName>,
+               <p> « Le <placeName>Paraclet</placeName> est charmant*<gloss>Charmant. Très agréable.</gloss>. L'école, bâtie sur le flanc d'une colline, domine une
+                  belle vallée où coulent l'<geogFeat type="fleuve" ref="avre">Avre</geogFeat> et la <geogFeat type="fleuve" ref="moye"
+                     >Moye</geogFeat>. Un petit village de maisonnettes rouges et blanches, avec son clocher qui ressemble à celui de <placeName type="fictif">Fragicourt</placeName>,
                   c'est notre horizon. </p>
                <p> « Cent vingt hectares, voilà mon domaine maintenant.</p>
                <p> « Quel grand propriétaire je fais, n'est-ce pas ? Il est vrai que je partage avec de nombreux camarades. </p>
@@ -98,7 +98,7 @@
                   analyse*<!--Analyse has an asterisk but no definition in the lexique--> une plante, en montre un à un les éléments* <gloss>Éléments. Les parties, les substances dont un corps est
                      composé.</gloss> : tant d'azote* <gloss>Azote. L'un des deux gaz qui forment l'air; il ne peut entretenir la combustion.</gloss>, tant de carbone* <gloss>Carbone. Corps
                         qui, à l'état de pureté, est le diamant, et qui constitue la base du bois et du charbon.</gloss>, tant de soufre, d'oxygène* <gloss>Oxygène. Celui des deux gaz de l'air qui peut
-                           entretenir la combustion.</gloss>, d'hydro- gène*<gloss>Hydrogène. Gaz 14 fois et demie plus léger que l'air.</gloss>, etc. ; et le cultivateur ayant appris tout cela, sait encore
+                           entretenir la combustion.</gloss>, d'hydrogène*<gloss>Hydrogène. Gaz 14 fois et demie plus léger que l'air.</gloss>, etc. ; et le cultivateur ayant appris tout cela, sait encore
                   que les plantes puisent ces éléments pour la plus grande partie dans le sol par leurs racines et radicelles* <gloss>Radicelles. Petites ramifications d'une racine.</gloss>. Il lui
                   devient alors aisé de donner, par des engrais appropriés, à chacune la nourriture qui lui convient, et de la rendre ainsi belle et vigoureuse. </p>
                <p> « A étudier et à bêcher tour à tour, je me porte comme un charme*<gloss>Charme. Parfaitement bien.</gloss>. Un professeur nous disait hier que les hommes devraient à peu près tous
@@ -107,7 +107,7 @@
                   agronome contemporain de <persName type="historique">Henri IV</persName>.</gloss>. Sa pensée vit, encore, quoiqu'il soit mort depuis à peu près trois cents ans. On l'appelle le
                   père de l'agriculture. Il créa l'agronomie, il aima les champs, et, par grand désir d'être utile aux hommes, écrivit des livres <pb type="page" n="77" />
                   <fw type="header"> UNE LETTRE DE JACQUES. 77 </fw> qui, après trois siècles, continuent de nous éclairer. </p>
-               <p> « Le directeur du <placeName type="réel"><settlement>Paraclet</settlement></placeName> est un brave. En 1870, sergent de mobiles*<gloss>Mobiles. Les mobiles étaient de jeunes
+               <p> « Le directeur du <placeName>Paraclet</placeName> est un brave. En 1870, sergent de mobiles*<gloss>Mobiles. Les mobiles étaient de jeunes
                   soldats qui n'avaient pas été formés au service militaire.</gloss>, en pleine bataille, il retourna sur ses pas et se rejeta dans la mitraille pour aller reprendre le drapeau de
                   la compagnie aux mains de celui qui le portait et qu'une balle venait de frapper. Il sauva le drapeau. C'est beau, cela, n'est-ce pas ? </p>
                <p> « On appelle pour une promenade agricole. Nous allons visiter une ferme importante des environs. </p>
@@ -121,7 +121,7 @@
                   <item>— Qu'adresseriez-vous à vos parents si vous étiez en pension depuis quelques jours ?</item>
                   <item>— Donnez un aperçu de ce que contiendrait votre lettre ?</item>
                   <item>— Comment la commenceriez-vous et l'achèveriez-vous ?</item>
-                  <item>— Que disait <persName type="fictif" key="jacques">Jacques</persName> de la ferme-école du <placeName type="réel"><settlement>Paraclet</settlement></placeName> ?</item>
+                  <item>— Que disait <persName type="fictif" key="jacques">Jacques</persName> de la ferme-école du <placeName>Paraclet</placeName> ?</item>
                   <item>— Quelle était l’étendue du domaine ?</item>
                   <item>— Quel était l'objet du travail de chaque jour ?</item>
                   <item>— Quel résultat <persName type="fictif" key="jacques">Jacques</persName> prévoyait-il pour la ferme de son père ?</item>
@@ -299,12 +299,10 @@
                         légèrement fumé. Au printemps, on taillera les arbres et on les débarrassera des rameaux mutiles au profit de ceux qui portent des boutons à fruits.</p>
                      <p><term>Le cerisier</term> est un bel arbre des climats tempérés, à tige droite, recouvert, quand il est jeune, d'une écorce brune et luisante ; il porte des feuilles vert foncé
                         allongées en pointe. Ses fleurs ressemblent à de petites roses blanches, et rien n'est charmant comme le spectacle qu'il présente aux premières belles journées du printemps.
-                        Les fruits appa- raissent de bonne heure, sous la forme de petites boules vertes qui, peu à peu, se gonflent d'un suc frais et sucre, et qui prennent une belle couleur rouge.
-                        On cueille les cerises au mois de juin dans la plus grande partie de la <placeName type="réel"><bloc ref="europe"><country ref="france">France</country></bloc></placeName>, et
+                        Les fruits apparaissent de bonne heure, sous la forme de petites boules vertes qui, peu à peu, se gonflent d'un suc frais et sucre, et qui prennent une belle couleur rouge.
+                        On cueille les cerises au mois de juin dans la plus grande partie de la <placeName>France</placeName>, et
                         elles sont recherchées pour leur saveur délicieuse comme pour leurs propriétés rafraîchissantes.</p>
-                     <p>Les <term>principales espèces de cerises</term> sont : les cerises douces, dont les meilleures se cultivent à <placeName type="réel"><bloc ref="europe"><country ref="france"
-                        ><settlement ref="montmorency">Montmorency</settlement></country></bloc></placeName> et dans les environs d'<placeName type="réel"><bloc ref="europe"><country
-                           ref="france"><settlement ref="auxerre">Auxerre</settlement></country></bloc></placeName>, les bigarreaux, les cerises jaunes, les cerises aigres et les merises, au suc
+                     <p>Les <term>principales espèces de cerises</term> sont : les cerises douces, dont les meilleures se cultivent à <placeName>Montmorency</placeName> et dans les environs d'<placeName>Auxerre</placeName>, les bigarreaux, les cerises jaunes, les cerises aigres et les merises, au suc
                         presque noir.</p>
                   </div4>
                </div3>
@@ -379,7 +377,7 @@
                <p>Il montrait le plafond, où se voyaient encore quelques clous, des trous, des dégradations du plâtre :</p>
                <p>— Papa, ça a très bien marché, au moins vingt fois ; l’éteignoir descendait tout seul et fonctionnait à ravir. — Son regard rencontra la bougie à demi consumée et, sur une
                   chaise, une cinquantaine d'allumettes brûlées : — Mais, à la vingt-unième fois, la ficelle casse ; paf ! le cliquet sur…! </p>
-               <p>La main paternelle fit un petit mouvement du côté de l'éteigneur de chan- delles. Mais <persName type="fictif" key="suzette">Suzette</persName>, déjà en train de
+               <p>La main paternelle fit un petit mouvement du côté de l'éteigneur de chandelles. Mais <persName type="fictif" key="suzette">Suzette</persName>, déjà en train de
                   bassiner*<gloss>Bassiner une blessure. Humecter, mouiller avec un liquide tiède ou chaud.</gloss>la blessure, arrêta d'un regard cette main. </p>
                <p>— Papa, dit-elle, ne prenez pas la peine, je vous prie, de vous occuper de ce mauvais garçon. Et vous, Monsieur, tournezvous par ici, cachez à votre père cette vilaine trompette
                   de nez que vous venez de changer en pomme de terre !></p>
@@ -442,7 +440,7 @@
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>En général, les enfants sont observateurs ; ils aiment à examiner les choses, à se rendre compte de ce qu'elles sont, comment elles fonc- tionnent et quel parti on en
+                     <p>En général, les enfants sont observateurs ; ils aiment à examiner les choses, à se rendre compte de ce qu'elles sont, comment elles fonctionnent et quel parti on en
                         peut tirer. Il est donc juste de les encourager quand ils manifestent de semblables dispositions, et de leur venir en aide par des conseils ; peut-être ainsi une
                         vocation se manifestera-t-elle et sera-t-elle le point de départ d'une existence utile à la société.</p>
                      <p>C'est à un enfant qu'on doit la découverte de l'appareil qui règle l'entrée et la sortie de la vapeur dans le cylindre où se meut le piston de la machine ; <persName
@@ -467,8 +465,8 @@
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>On appelle remèdes secrets, remèdes de bonne femme, des remèdes simples en usage parmi les gens peu instruits, et qui, presque tou- jours, n'ont aucune efficacité quand
-                        ils ne présentent pas d'incon- vénients. Il faut se défier des personnes qui font métier de préparer ces remèdes ; car souvent, parmi elles, il se trouve des fripons
+                     <p>On appelle remèdes secrets, remèdes de bonne femme, des remèdes simples en usage parmi les gens peu instruits, et qui, presque toujours, n'ont aucune efficacité quand
+                        ils ne présentent pas d'inconvénients. Il faut se défier des personnes qui font métier de préparer ces remèdes ; car souvent, parmi elles, il se trouve des fripons
                         effrontés ; de plus, comment peut-on croire à la valeur des compositions qu'elles offrent aux naïfs, puisqu'elles-mêmes n'ont aucune notion de la médecine ?</p>
                      <pb type="page" n="85" />
                      <fw type="header">LA BOHÉMIENNE. 85</fw>
@@ -499,7 +497,7 @@
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>Les chandelles sont des cylindres de suif fondu à l'intérieur des- quels on a introduit une mèche de coton.</p>
+                     <p>Les chandelles sont des cylindres de suif fondu à l'intérieur desquels on a introduit une mèche de coton.</p>
                      <p>Pour les fabriquer, on met fondre de la graisse de bœuf ou de vache dans une grande chaudière, et, lorsque le liquide qu'on obtient est suffisamment limpide, on le coule
                         avec une cuiller de fer dans des moules de bois où l’on a tendu une mèche de coton.</p>
                      <p>Le procédé est le même pour les bougies ; seulement la matière employée est la stéarine, qui provient d'huiles grossières ou de graisses animales, et qui jouit de la
@@ -568,7 +566,7 @@
                <p>— C'est tout ?</p>
                <p>— C'est tout.</p>
                <p>— Bon. Qu'as-tu là au cou ? Un foulard ? donne-le. Elle prit le foulard avant que l'enfant eût pu obéir.</p>
-               <p>— Ce foulard et ces cent sous serviront à commencer les conju- rations*<gloss>Conjuration. Paroles et gestes par lesquels certains fripons prétendent guérir les gens ou les
+               <p>— Ce foulard et ces cent sous serviront à commencer les conjurations*<gloss>Conjuration. Paroles et gestes par lesquels certains fripons prétendent guérir les gens ou les
                   animaux malades.</gloss> nécessaires. Mais il faut que demain, à la même heure, tu reviennes ici avec d'autre argent, autant que tu pourras en prendre, au moins vingt
                   francs, et sans avoir parlé de moi à personne... à personne ! tu entends ? </p>
                <p><persName type="fictif" key="suzette">Suzette</persName> fit signe qu'elle entendait.</p>
@@ -664,8 +662,7 @@
                      <p>Pour guérir <term>une écorchure</term>, lavez la plaie à l'eau fraîche et, si elle n'est pas très étendue ou exposée à des chocs et à des frottements, laissez-la telle
                         quelle ; autrement, posez dessus un linge doux, légèrement enduit de beurre et maintenu par une bande faiblement serrée.</p>
                      <p>On lave à l'eau tiède la plaie qui résulte d'<term>une coupure</term>, et l'on s'assure qu'il n'y reste aucun corps étranger. Si la blessure saigne abondamment, user
-                        d'eau froide. Ensuite, on l'essuie avec un linge fin, et l'on en rapproche les bords que l'on fixe avec du taffetas d'<placeName type="réel"><bloc ref="europe"><country
-                           ref="angleterre">Angleterre</country></bloc></placeName> ou du diachylon. Lorsque le mal est considérable, la présence du médecin devient obligatoire.</p>
+                        d'eau froide. Ensuite, on l'essuie avec un linge fin, et l'on en rapproche les bords que l'on fixe avec du taffetas d'<placeName>Angleterre</placeName> ou du diachylon. Lorsque le mal est considérable, la présence du médecin devient obligatoire.</p>
                      <p>Pour les <term>contusions ordinaires</term>, consistant dans le meurtrissement des tissus par suite d'une chute ou d'un coup, il suffit de combattre l'inflammation par
                         l'application de l'eau froide, et d'envelopper ensuite le membre atteint. Si l’enfant contusionné se trouvait indisposé à la suite de l'accident, il serait bon de lui
                         donner à boire quelque chose de chaud et de le mettre au lit. </p>
@@ -936,7 +933,7 @@
                   <div4 type="questions">
                      <list type="exercices">
                         <item>— Qu'appelle-t-on eaux thermales et eaux minérales ?</item>
-                        <item>— Où sont, en <placeName type="réel"><country ref="france">France</country></placeName>, les principales sources de ces eaux ?</item>
+                        <item>— Où sont, en <placeName>France</placeName>, les principales sources de ces eaux ?</item>
                      </list>
                   </div4>
                   <div4 type="réponses">
@@ -945,11 +942,11 @@
                         <pb type="page" n="96" /> affections, telles que les <rs>rhumatismes</rs>, l'<term>anémie</term>, le <term>mal de gorge</term>, etc.</p>
                      <p>Si elles sortent de la terre à une température de beaucoup supérieure à celle de l'atmosphère, on les dit <term>thermales</term>. Quelques-unes atteignent 40, 50, et même 90
                         degrés.</p>
-                     <p>Il existe des sources d'eaux thermales et d'eaux simplement minéra-les à <settlement>Plombières</settlement>, à <settlement>Bussang</settlement>, à
-                        <settlement>Vichy</settlement>, à <settlement>Contrexéville</settlement>, au <settlement>mont Dore</settlement>, à la <settlement>Bourboule</settlement>,
-                        à <settlement>Royat</settlement>, à <settlement>Uriage</settlement>, à <settlement>Chaudesaigues</settlement>, à <settlement>Aix en Pro-vence</settlement>, à
-                        <settlement>Bourbonne-les-Bains</settlement>, à <settlement>Bagnères</settlement>, à <settlement>Barèges</settlement>, à <settlement>Aulus</settlement>,
-                        à <settlement>Enghien</settlement> près de Paris, à <settlement>Saint-Galmier</settlement>, etc.</p>
+                     <p>Il existe des sources d'eaux thermales et d'eaux simplement minéra-les à <placeName>Plombières</placeName>, à <placeName>Bussang</placeName>, à
+                        <placeName>Vichy</placeName>, à <placeName>Contrexéville</placeName>, au <placeName>mont Dore</placeName>, à la <placeName>Bourboule</placeName>,
+                        à <placeName>Royat</placeName>, à <placeName>Uriage</placeName>, à <placeName>Chaudesaigues</placeName>, à <placeName>Aix en Pro-vence</placeName>, à
+                        <placeName>Bourbonne-les-Bains</placeName>, à <placeName>Bagnères</placeName>, à <placeName>Barèges</placeName>, à <placeName>Aulus</placeName>,
+                        à <placeName>Enghien</placeName> près de Paris, à <placeName>Saint-Galmier</placeName>, etc.</p>
                   </div4>
                </div3>
             </div2>
@@ -1279,9 +1276,9 @@
                      <p>Dans tous les temps, chez tous les peuples civilisés, on n'a jamais séparé l'instruction de l'éducation. Autrement, « l'instruction serait un mal pire que l'ignorance,
                         parce qu'elle fait naître de nouveaux besoins sans fournir de moyens honnêtes pour les satisfaire. » (<persName>De Sandis</persName>, ministre de l'instruction publique
                         en Italie, 16 janvier 1875.)</p>
-                     <p>« Utile compagne des métiers et des professions de tout genre, « source de jouissances dans la solitude et d'agrément dans le com- « merce de la vie, l'instruction n'est
-                        ni la directrice de la conduite, « ni la régulatrice des mœurs ; elle est un secours, une parure, et, « par conséquent, elle peut servir au mal comme au bien, et
-                        couvrir « le vice comme la vertu. Si elle accroît la moralité humaine, elle ne « l'inspire pas ; mal dirigée, elle devient un danger. » (<persName>Vessiot</persName>,
+                     <p><l>« Utile compagne des métiers et des professions de tout genre, </l><l>« source de jouissances dans la solitude et d'agrément dans le com- </l><l>« merce de la vie, l'instruction n'est
+                        ni la directrice de la conduite, </l><l>« ni la régulatrice des mœurs ; elle est un secours, une parure, et, </l><l>« par conséquent, elle peut servir au mal comme au bien, et
+                        couvrir </l><l>« le vice comme la vertu. Si elle accroît la moralité humaine, elle ne </l><l>« l'inspire pas ; mal dirigée, elle devient un danger. »</l> (<persName>Vessiot</persName>,
                         inspecteur d'académie.) Donc, tout système d'instruction doit être fondé sur un enseignement moral : ainsi d'ailleurs l'a compris le gouvernement français dans la
                         rédaction des Programmes scolaires.</p>
                   </div4>
@@ -1374,35 +1371,34 @@
          </div1>
          <div1 type="chapitre" xml:lang="fr" n="ch030">
             <pb type="page" n="106" />
-            <head>30. — Vive le blé de <placeName type="réel"><country ref="france">France</country></placeName> ! (Élève, p. 71.)</head>
+            <head>30. — Vive le blé de <placeName>France</placeName> ! (Élève, p. 71.)</head>
             <div2 type="récit">
                <p>Pendant les trois jours qui suivirent, le père, <persName type="fictif" key="jacques">Jacques</persName>, <persName type="fictif" key="suzette">Suzette</persName>, ne
-                  s’entretinrent que de beaux et bons tra- vaux à faire. <persName type="fictif" key="jacques">Jacques</persName> voulait être renseigné sur la situation exacte du petit bien,
+                  s’entretinrent que de beaux et bons travaux à faire. <persName type="fictif" key="jacques">Jacques</persName> voulait être renseigné sur la situation exacte du petit bien,
                   sur ses charges*<gloss>Des Charges. Les dépenses qu'on est obligé de faire.</gloss>, ses ressources*<gloss>Ressources. Argent, choses à vendre avec quoi l'on peut solder ses
                      dépenses.</gloss>.</p>
                <p>Il le parcourut en compagnie du père, qui acceptait parfaitement l’idée d'en doubler le rapport, mais sans changer grand'chose au train ordinaire et en rechi-
                   gnant*<gloss>Rechigner. Témoigner de la répugnance avec mauvaise humeur.</gloss> un peu aux innovations*<gloss>Innovation. Pratique nouvelle qu'on introduit dans sa manière
                      habituelle de faire une chose.</gloss>, comme font d'ordinaire les gens ancrés*<gloss>Ancré. S'affermir obstinément dans un procédé routinier, dans une habitude.</gloss>
                   dans leurs habitudes.</p>
-               <p>— Nous aurons beau faire, disait-il, le blé du vieux sol d'<placeName type="réel"><bloc ref="europe">Europe</bloc></placeName>, fatigué par tant de récoltes, ne peut pas lutter
-                  contre le blé d'<placeName type="réel"><country ref="états-unis">Amérique</country></placeName>, qui pousse là-bas presque sans travail dans des terres toutes neuves. La
+               <p>— Nous aurons beau faire, disait-il, le blé du vieux sol d'<placeName>Europe</placeName>, fatigué par tant de récoltes, ne peut pas lutter
+                  contre le blé d'<placeName>Amérique</placeName>, qui pousse là-bas presque sans travail dans des terres toutes neuves. La
                   semaine dernière, ta sœur me lisait dans un livre qu'en ce pays, il y a d'immenses espaces encore à défricher. Un seul Américain en possède des milliers d'hectares. A l’au- <pb
                      type="page" n="107" />
                   <fw>VIVE LE BLÉ DE FRANCE ! 107</fw> tomne, il transporte dans ces solitudes une population d'ouvriers à peupler une ville ; ceux-ci lancent des charrues à vapeur qui remuent
-                  le sol ; puis, la terre à peine retournée, on l'ensemence. Ce- la fait, on lui dit adieu ; on l'aban- donne au hasard des chardons, de l'ivraie*<gloss>Ivraie. Mauvaise herbe
-                     qui croit parmi les blés.</gloss>, des trou- peaux de bisons, à  l’aventure des pluies et des sécheresses. On revient à l'heure de la récolte. Elle ne donne que le plus
+                  le sol ; puis, la terre à peine retournée, on l'ensemence. Cela fait, on lui dit adieu ; on l'abandonne au hasard des chardons, de l'ivraie*<gloss>Ivraie. Mauvaise herbe
+                     qui croit parmi les blés.</gloss>, des troupeaux de bisons, à  l’aventure des pluies et des sécheresses. On revient à l'heure de la récolte. Elle ne donne que le plus
                   faible rendement de nos plus mauvaises terres ; mais c'est un blé qui, n'ayant presque rien coûté, écrase le nôtre sur nos marchés.</p>
                <p> — Et c'est de la culture, cela ! s'écria <persName type="fictif" key="jacques">Jacques</persName> avec mépris.</p>
                <p>— Non ; mais c'est une culture qui tue la nôtre.</p>
-               <p>— Parce que la nôtre se laisse tuer, se décou- rage au lieu de lutter par les soins, la science, les méthodes *<gloss>Méthode. Procédés de culture.</gloss> nouvelles qui, ap-
-                  pliquées à notre merveilleuse terre, la rendraient sans rivale. Et je veux vous entendre crier bientôt : Vive le blé de <placeName type="réel"><country ref="france"
-                     >France</country></placeName> !</p>
+               <p>— Parce que la nôtre se laisse tuer, se décourage au lieu de lutter par les soins, la science, les méthodes *<gloss>Méthode. Procédés de culture.</gloss> nouvelles qui, ap-
+                  pliquées à notre merveilleuse terre, la rendraient sans rivale. Et je veux vous entendre crier bientôt : Vive le blé de <placeName>France</placeName> !</p>
                <figure>
                   <caption>Blé, seigle, orge, avoine. Le blé, l'orge et le seigle servent à faire le pain ; l'avoine est la principale nourriture des chevaux. L'orge entre également dans la
                      fabrication de la bière. La paille de ces céréales est employée à différents usages : nourriture et litière des chevaux, paillasses, etc.</caption>
                </figure>
                <figure>
-                  <caption>Le bison. Cet animal sauvage, de la taille d’un bœuf, vit en <placeName type="réel"><country ref="états-unis">Amérique</country></placeName>, où il est l'objet d'une
+                  <caption>Le bison. Cet animal sauvage, de la taille d’un bœuf, vit en <placeName>Amérique</placeName>, où il est l'objet d'une
                      chasse opiniâtre.</caption>
                </figure>
             </div2>
@@ -1415,10 +1411,8 @@
                   <item>— Quelle était l'opinion de <persName type="fictif" key="m_dumay">M. Dumay</persName> sur les améliorations proposées par <persName type="fictif" key="jacques"
                      >Jacques</persName> ? </item>
                   <item>— Quelles objections faisait-il sur la culture du blé ? </item>
-                  <item>— <persName type="fictif" key="suzette">Suzette</persName> n'avait-elle pas lu quelques détails sur la semaille et la récolte du blé en <placeName type="réel"><country
-                     ref="états-unis">Amérique</country></placeName> (<placeName type="réel"><country ref="états-unis">États-Unis</country></placeName>) ? </item>
-                  <item>— A quoi <persName type="fictif" key="jacques">Jacques</persName> attribuait-il l'infériorité de la production du blé en <placeName type="réel"><country ref="france"
-                     >France</country></placeName> ? </item>
+                  <item>— <persName type="fictif" key="suzette">Suzette</persName> n'avait-elle pas lu quelques détails sur la semaille et la récolte du blé en <placeName>Amérique</placeName> (<placeName>États-Unis</placeName>) ? </item>
+                  <item>— A quoi <persName type="fictif" key="jacques">Jacques</persName> attribuait-il l'infériorité de la production du blé en <placeName>France</placeName> ? </item>
                </list>
             </div2>
             <div2 type="exercices">
@@ -1427,44 +1421,37 @@
                   <head type="sujets">Géographie.</head>
                   <div4 type="questions">
                      <list>
-                        <item>— Qu'est-ce que l'<placeName type="réel"><country ref="états-unis">Amérique</country></placeName> ?</item>
+                        <item>— Qu'est-ce que l'<placeName>Amérique</placeName> ?</item>
                         <item>— En tracer le croquis.</item>
                         <item>— Racontez comment elle fut découverte.</item>
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>L'<placeName type="réel"><country ref="états-unis">Amérique</country></placeName> est un immense continent situé à l'ouest de l'<placeName type="réel"><bloc ref="europe"
-                        >Europe</bloc></placeName>, de l'autre côté de l'<placeName type="réel"><geogFeat type="océan" ref="atlantique">Atlantique</geogFeat></placeName>. Il se divise
-                        en deux régions : l'<placeName type="réel"><bloc ref="amérique_nord">Amérique</bloc> septentrionale</placeName> et l'<placeName type="réel"><bloc ref="amérique_sud"
-                           >Amérique méridionale</bloc></placeName>, réunies par <placeName type="réel"><geogFeat type="isthme">l'isthme</geogFeat></placeName> de <placeName type="réel"
-                              ><country ref="panama">Panama</country></placeName>, à travers lequel <persName type="historique">M. de Lesseps</persName> a entrepris de creuser un canal pour
-                        le passage des navires, comme il l'a déjà fait pour <placeName type="réel"><geogFeat type="isthme">l'isthme de Suez</geogFeat></placeName>.</p>
-                     <p> L'État le plus important de cette partie du monde sont les <placeName type="réel"><country ref="états-unis">États-Unis</country></placeName>, qui comptent environ
-                        soixante millions d'habitants ; on désigne parfois cette contrée sous le nom d'<placeName type="réel"><country ref="états-unis">Amérique</country></placeName>, comme on
+                     <p>L'<placeName>Amérique</placeName> est un immense continent situé à l'ouest de l'<placeName>Europe</placeName>, de l'autre côté de l'<placeName><geogFeat type="océan" ref="atlantique">Atlantique</geogFeat></placeName>. Il se divise
+                        en deux régions : l'<placeName>Amérique septentrionale</placeName> et l'<placeName>Amérique méridionale</placeName>, réunies par <placeName><geogFeat type="isthme">l'isthme</geogFeat></placeName> de <placeName>Panama</placeName>, à travers lequel <persName type="historique">M. de Lesseps</persName> a entrepris de creuser un canal pour
+                        le passage des navires, comme il l'a déjà fait pour <placeName><geogFeat type="isthme">l'isthme de Suez</geogFeat></placeName>.</p>
+                     <p> L'État le plus important de cette partie du monde sont les <placeName>États-Unis</placeName>, qui comptent environ
+                        soixante millions d'habitants ; on désigne parfois cette contrée sous le nom d'<placeName>Amérique</placeName>, comme on
                         l'a fait dans cette leçon, en parlant du blé.</p>
-                     <p><placeName type="réel"><bloc ref="amérique_nord">Le continent américain</bloc></placeName> fut découvert par <persName type="historique">Christophe Colomb</persName>,
-                        navigateur génois né à <placeName type="réel"><settlement ref="calvi">Calvi</settlement></placeName>, en <placeName type="réel">Corse</placeName> (1440-1505). Plusieurs
-                        voyages et l'étude des cartes géographiques lui inspirèrent l'idée que la terre est ronde, et que l’on pouvait arriver aux <placeName type="réel"><country ref="indes"
-                           >Indes</country></placeName> en faisant voile vers l'ouest. Dès lors, il n'eut plus pour pensée que de faire ce voyage, et il sollicita de toutes parts les
+                     <p><placeName>Le continent américain</placeName> fut découvert par <persName type="historique">Christophe Colomb</persName>,
+                        navigateur génois né à <placeName>Calvi</placeName>, en <placeName>Corse</placeName> (1440-1505). Plusieurs
+                        voyages et l'étude des cartes géographiques lui inspirèrent l'idée que la terre est ronde, et que l’on pouvait arriver aux <placeName>Indes</placeName> en faisant voile vers l'ouest. Dès lors, il n'eut plus pour pensée que de faire ce voyage, et il sollicita de toutes parts les
                         moyens de l'accomplir. Son courage fut égal à la force de son esprit, car il eut à combattre tous les préjugés. Gênes le traita de visionnaire, <persName
-                           type="historique">Henri VII</persName>, roi d'<placeName type="réel"><country ref="angleterre">Angleterre</country></placeName>, n'écouta pas le frère de <persName
-                              type="historique">Colomb</persName>; lui-même essuya un refus de <persName type="historique">Jean II</persName>, roi de <placeName type="réel"><country
-                                 ref="portugal">Portugal</country></placeName>. Il ne pouvait s'adresser à la <placeName type="réel"><country ref="france">France</country></placeName>, dont la
-                        marine était toujours négligée. L'empereur d'<placeName type="réel"><country ref="allemagne">Allemagne</country></placeName> n'avait ni flotte, ni ports, ni argent.
-                        <persName type="historique">Colomb</persName> n'espéra qu'en la cour d'<placeName type="réel"><country ref="espagne">Espagne</country></placeName>. Après huit ans
+                           type="historique">Henri VII</persName>, roi d'<placeName>Angleterre</placeName>, n'écouta pas le frère de <persName
+                              type="historique">Colomb</persName>; lui-même essuya un refus de <persName type="historique">Jean II</persName>, roi de <placeName>Portugal</placeName>. Il ne pouvait s'adresser à la <placeName>France</placeName>, dont la
+                        marine était toujours négligée. L'empereur d'<placeName>Allemagne</placeName> n'avait ni flotte, ni ports, ni argent.
+                        <persName type="historique">Colomb</persName> n'espéra qu'en la cour d'<placeName>Espagne</placeName>. Après huit ans
                         de sollicitations, la reine <persName type="historique">Isabelle</persName> et le roi <persName type="historique">Ferdinand</persName> consentiront à  lui prêter leur
-                        appui ; mais la cour d'<placeName type="réel"><country ref="espagne">Espagne</country></placeName> était pauvre ; il fallut que le prieur <persName type="historique"
+                        appui ; mais la cour d'<placeName>Espagne</placeName> était pauvre ; il fallut que le prieur <persName type="historique"
                            >Pérez</persName> et deux négociants, nommés <persName type="historique">Penzone</persName>, avançassent 17,000 ducats pour faire l'armement. <persName
-                              type="historique">Colomb</persName> partit enfin de <placeName type="réel"><settlement ref="palos">Palos</settlement></placeName>, en  <placeName type="réel"
-                                 ><region type="province" ref="andalousie">Andalousie</region></placeName>, avec trois petits vaisseaux dont un seul était ponté, le 3 août 1492. Trois mois
-                        après, le 12 octobre, il découvrit la première terre de l'<placeName type="réel"><country ref="états-unis">Amérique</country></placeName> : c'était l'une des îles du
-                        groupe des <placeName ref="réel"><region type="province" ref="lucayes">Lucayes</region></placeName>, ap- pelée Guanahain par les indigènes ; <persName
-                           type="historique">Colomb</persName> lui donna le nom de <placeName type="réel"><settlement ref="san_salvador">San- Salvador</settlement></placeName>. Il visita
-                        ensuite les autres îles <placeName type="réel"><region type="province" ref="lucayes">Lucayes</region></placeName>, puis il découvrit <placeName type="réel"><country
-                           ref="cuba">Cuba</country></placeName> et <placeName type="réel"><country ref="haïti">Haïti</country></placeName>, que les <orgName>Espagnols</orgName>
+                              type="historique">Colomb</persName> partit enfin de <placeName>Palos</placeName>, en  <placeName>Andalousie</placeName>, avec trois petits vaisseaux dont un seul était ponté, le 3 août 1492. Trois mois
+                        après, le 12 octobre, il découvrit la première terre de l'<placeName>Amérique</placeName> : c'était l'une des îles du
+                        groupe des <placeName>Lucayes</placeName>, appelée Guanahain par les indigènes ; <persName
+                           type="historique">Colomb</persName> lui donna le nom de <placeName>San-Salvador</placeName>. Il visita
+                        ensuite les autres îles <placeName>Lucayes</placeName>, puis il découvrit <placeName>Cuba</placeName> et <placeName>Haïti</placeName>, que les <orgName>Espagnols</orgName>
                         appelèrent plus tard Saint-Domingue.</p>
-                     <p> C’est une erreur de penser que le nom d'<placeName type="réel"><bloc ref="amérique_nord">Amérique</bloc></placeName> vient d'<persName type="historique">Albertino
-                        Vespucci</persName>, navigateur <orgName>italien</orgName> ; les indigènes de ce continent le dési- gnaient sous ce nom même dès la première période de
+                     <p> C’est une erreur de penser que le nom d'<placeName>Amérique</placeName> vient d'<persName type="historique">Albertino
+                        Vespucci</persName>, navigateur <orgName>italien</orgName> ; les indigènes de ce continent le désignaient sous ce nom même dès la première période de
                         l'arrivée des <orgName>Européens</orgName>.</p>
                   </div4>
                </div3>
@@ -1540,7 +1527,7 @@
                         levain, pâte de la veille déjà aigrie, ou de la levure de bière. Ce mélange détermine la fermentation, c'est-à-dire la production de gaz qui font gonfler la pâte et y
                         forment un grand nombre de cavités auxquelles le pain doit sa légèreté et une cuisson plus  parfaite.</p>
                      <p>La pâte est ensuite divisée en morceaux de poids égaux ou différents qu'on façonne en pains de toutes formes. Pendant cette opération, le four a été chauffé et, après
-                        l'avoir débarrassé des cendres et des char- bons, on y introduit les pains au moyen d'une large pelle ; leur surface subit immédiatement l'action de la chaleur, se
+                        l'avoir débarrassé des cendres et des charbons, on y introduit les pains au moyen d'une large pelle ; leur surface subit immédiatement l'action de la chaleur, se
                         durcit et prend une belle couleur brune ou blonde ; l'intérieur, de moindre consistance, reste blanc : c'est la mie, qui est criblée de trous.</p>
                      <p>La farine sert encore à confectionner les gâteaux et à préparer les  sauces et les liaisons. </p>
                      <p>On emploie le son pour la nourriture des volailles, des bêtes de <fw type="footer">SUZETTE (Maîtresse). <fw type="sig">7</fw></fw>
