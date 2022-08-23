@@ -559,7 +559,7 @@
             <div2 type="questionnaire">
                <head>Questionnaire.</head>
                <list type="questionnaire">
-                  <item>— Que ait <persName type="fictif" key="m_dumay">M. Dumay</persName> au matin du jour du désastre ? </item>
+                  <item>— Que fit <persName type="fictif" key="m_dumay">M. Dumay</persName> au matin du jour du désastre ? </item>
                   <item>— Qu'est-ce qui marquait sa douieur.</item>
                   <item>— Que firent et dirent <persName type="fictif" key="suzette">Suzette</persName> et <persName type="fictif" key="jacques">Jacques</persName> ? </item>
                   <item>— Que demanda-t-on à <persName type="fictif" key="charlot">Charlot</persName> ? </item>
@@ -578,13 +578,13 @@
                   <div4 type="questions">
                      <list type="exercices">
                         <item>— AMOUR FILIAL.</item>
-                        <item>— Rappelez les soins que vous prodiquent vos varents depuis votre naissance, les sacrifices qu'ils s'imposent.</item>
+                        <item>— Rappelez les soins que vous prodiguent vos parents depuis votre naissance, les sacrifices qu'ils s'imposent.</item>
                         <item>— Quelles marques d'affection vous donnent-ils chaque jour ?</item>
-                        <item>—sans eux, que deviendriez-vous ?</item>
+                        <item>— Sans eux, que deviendriez-vous ?</item>
                         <item>— Quels services leur rendezvous ?</item>
                         <item>— Ont-ils besoin de votre aide ?</item>
                         <item>— Cette aide a-t-elle beaucoup de valeur ?</item>
-                        <item>— Tirez une conelusion de tout cela.</item>
+                        <item>— Tirez une conclusion de tout cela.</item>
                         <item>— Que ferez-vous pour vos parents lorsqu'ils seront àgés ?</item>
                      </list>
                   </div4>
@@ -594,10 +594,10 @@
                         douceurs de la vie et même du repos nécessaire après la fatigue du travail. Pour l'enfant, ils n'ont que des sourires et de douces paroles. Plus tard, si leurs soins
                         réclament moins d'assiduité, leurs charges augmentent, et cependant jamais ils ne murmurent.</p>
                      <p>Que les enfants n'oublient pas ces marques d'un amour constant et dévoué ; qu'ils songent encore á ce que serait leur situation s'ils perdaient leurs parents, et ils
-                        comvrendront mieux encore ce qu'ils leur doivent.</p>
-                     <p>Le mère, la mère n'ont aucun besoin de leurs enfants, et même quand il en serait autrement, la valeur des services qu'ils en tirent. est bien faible. Aussi, que ces
-                        derniers accordent leur aide avec empressement et qu'ils sachent reconnaître l'afl'ction dont on les entoure par des attentions, une soumission affectueuse, beaucoup de
-                        reconnaissance et de respect. Que leur olus chère pensée se rapporte à ce qu'ils feront nour embellir les dernières années de ces bons parents.</p>
+                        comprendront mieux encore ce qu'ils leur doivent.</p>
+                     <p>Le père, la mère n'ont aucun besoin de leurs enfants, et même quand il en serait autrement, la valeur des services qu'ils en tirent est bien faible. Aussi, que ces
+                        derniers accordent leur aide avec empressement et qu'ils sachent reconnaître l'affection dont on les entoure par des attentions, une soumission affectueuse, beaucoup de
+                        reconnaissance et de respect. Que leur plus chère pensée se rapporte à ce qu'ils feront pour embellir les dernières années de ces bons parents.</p>
                   </div4>
                   <div4 type="questions">
                      <list type="exercices">
@@ -623,7 +623,7 @@
                         <item>— Comparez le poids de la colonne d'air qui presse votre corps à celui d'une colonne d'eau de même grosseur.</item>
                         <item>— Si l'air pèse sur tous les objets, pourquoi l'eau d'un vase monte-t-elle dans le tuyau d'une serinque vide d'air ?</item>
                         <item>— Si l'air pèse sur tous les objets, pourquoi l'eau monte-t-elle dans le tuyau d'une pompe ?</item>
-                        <item>— A quelle hauteur l'eau peut-elle ainsi s'élever dans ce luyau ?</item>
+                        <item>— A quelle hauteur l'eau peut-elle ainsi s'élever dans ce tuyau ?</item>
                      </list>
                   </div4>
                   <div4 type="réponses">
