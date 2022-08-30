@@ -617,7 +617,7 @@
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>On entend par charcuterie les aliments préparés avec de la viande cuite de porc et destinés à être, le plus souvent, mangés froids.</p>
+                     <p>On entend par <term>charcuterie</term> les aliments préparés avec de la viande cuite de porc et destinés à être, le plus souvent, mangés froids.</p>
                      <p>Le charcutier confectionne des cervelas, des saucissons, des saucisses, du boudin, du fromage à la tête de cochon, des andouilles, des galantines, des pieds de cochon,
                         des jambonneaux, des rillons, etc. Il prépare encore du porc salé et des jambons.</p>
                      <p>BOUDIN. — On lave à l'eau tiède des boyaux de porc, et on les frotte avec une brosse douce de chiendent jusqu'à ce que la dernière eau soit pure. Aussitôt alors qu'on a
@@ -691,9 +691,11 @@
                   <fw>LES EXPLORATEURS. 193</fw>
                   <persName type="fictif" key="françois">François</persName>. <persName type="fictif" key="m_dumay">M. Dumay</persName> le constata en ce moment à la clarté de la lampe qui
                   donnait en plein sur ce jeune visage ; mais cela ne lui apprit pas du tout ce que c'était que des explorateurs. A <placeName type="fictif">Fragicourt</placeName>, on voyait
-                  bien pas <figure>
+                  bien pas- <figure>
                      <caption> Les petites industries. Chaudronnier. — Rempailleur. — Rémouleur.</caption>
-                  </figure> ser de temps en temps des chaudronniers, des rémouleurs, des rempailleurs ; mais des explorateurs, jamais.</p>
+                  </figure> ser de temps en temps des chaudronniers, des rémouleurs, des rempailleurs ; mais des explorateurs, jamais.<figure>
+                     <caption> Les petites industries. Chaudronnier. — Rempailleur. — Rémouleur.</caption>
+                  </figure></p>
                <p><persName type="fictif" key="jacques">Jacques</persName> vint à l'aide .</p>
                <p>— Vous avez exploré l'<placeName>Afrique</placeName> ? demanda-t-il.</p>
                <p>— Mais oui, comme vous voyez ; et nous nous dirigeons maintenant vers l'<placeName>Amérique du Nord</placeName>.</p>
@@ -943,7 +945,7 @@
                   </div4>
                   <div4 type="réponses">
                      <p>On entend par <term>fourrure</term>... (Voir l'exercice précédent.)</p>
-                     <p>On prépare de la manière suivante les peaux des animaux à four rure : l'ouvrier les imbibe d'une eau contenant en dissolution de l'alun et du sel; et elles sont ainsi
+                     <p>On prépare de la manière suivante les peaux des animaux à fourrure : l'ouvrier les imbibe d'une eau contenant en dissolution de l'alun et du sel; et elles sont ainsi
                         préservées de la corruption, sans altération de leur souplesse ni de leur solidité.</p>
                      <p>Les fourrures préservent du froid les habitants des régions où l'hiver sévit avec rigueur ; à la fois chaudes et légères, elles sont indispensables aux habitants des
                         régions polaires dont elles forment exclusive ment les habits et les coiffures. Dans les contrées tempérées, on les emploie pour garnir les robes des magistrats, les
@@ -1085,8 +1087,7 @@
                      et rafraichissante appelée limonade. — Les orangers et les citronniers sont cultivés dans le midi de la <placeName>France</placeName> et dans les pays chauds.
                   </caption>
                </figure> les bananes, qu'on cueille là comme les mûres ici, nous eurent bientôt rendu des forces. La ville est assez bien. Dans ses rues, vous vous croisez avec des Arabes en
-                  burnous*<gloss>Burnous. Grande manteau de laine à capuchon.</gloss> blanc, des nè gres tatoués*<gloss>Tatouer. Voir no 10.</gloss> de signes bizarres, des Persans au bon
-                  net pointu, des Hindous aux somptueux vêtements, des Européens de toute nation ; vous entendez un charivari de langues à vous croire à la <placeName>tour de Babel</placeName>.
+                  burnous*<gloss>Burnous. Grande manteau de laine à capuchon.</gloss> blanc, des nègres tatoués*<gloss>Tatouer. Voir no 10.</gloss> de signes bizarres, des Persans au bonnet pointu, des Hindous aux somptueux vêtements, des Européens de toute nation ; vous entendez un charivari de langues à vous croire à la <placeName>tour de Babel</placeName>.
                   <persName type="fictif" key="sylvain">Sylvain</persName>, tu te rappelles ?... </p>
                <p><persName type="fictif" key="sylvain">Sylvain</persName> inclina la tête.</p>
                <p>— Mais sur la grande place de la ville, quel spectacle un matin !... T'en souviens-tu, <persName type="fictif" key="sylvain">Sylvain</persName> ?</p>
@@ -1100,10 +1101,10 @@
                <p>— Oui, <persName type="fictif" key="pascal">Pascal</persName>.</p>
                <p>Et <persName type="fictif" key="pascal">Pascal</persName> reprit :</p>
                <p>— Figurez-vous une sombre procession de nègres, hommes, femmes, enfants. Elle s'avance vers nous, les hommes attachés deux à deux par des fourches qui leur enserrent le cou, les
-                  femmes et les enfants liés aux hommes par des longes. Tous paraissent hébétés de fatigue et de douleur, et incapables de la moindre résistance. La proces sion, escortée
+                  femmes et les enfants liés aux hommes par des longes. Tous paraissent hébétés de fatigue et de douleur, et incapables de la moindre résistance. La procession, escortée
                   d'Arabes, s'arrête au milieu de la place. Là, attendent, allant et venant ou assis en rond, d'autres Arabes en burnous, au visage placide*<gloss>Placide. Qui a beaucoup de
                      calme.</gloss>, indifférent. Quelques-uns se lèvent, vont regarder de près le noir troupeau. Sur un signe, on détache trois hommes et deux jeunes filles ; on leur fait
-                  faire des exercices, lever la tête, les bras, puis on jette un bâton assez loin, avec comman dement de courir le chercher. Ils courent, ils reviennent : — Monsieur le
+                  faire des exercices, lever la tête, les bras, puis on jette un bâton assez loin, avec commandement de courir le chercher. Ils courent, ils reviennent : — Monsieur le
                   marchand, combien voulez-vous de ce jeune homme ? — Trois cents francs. <figure>
                      <caption> Le burnous est un grand manteau de laine à capuchon que portent les Arabes. </caption>
                   </figure> — Combien de cette jeune fille ? — Deux cents francs. — Êtes-vous fou ? — Le marchand se fâche, crie qu'il vient de faire trois cents lieues à cette chasse aux
@@ -1323,7 +1324,7 @@
                   <div4 type="questions">
                      <list>
                         <item>— Qu'est-ce qu'une langue ?</item>
-                        <item>— En quoi est-il avanta <pb type="page" n="208" />
+                        <item>— En quoi est-il avanta- <pb type="page" n="208" />
                            <fw>208 SUZETTE.</fw> geux de connaitre une ou plusieurs langues étrangères ? </item>
                         <item>— Qu'est-ce qu'une langue vivante ? </item>
                         <item>— Qu'est-ce qu'une langue morte ? </item>
@@ -1435,7 +1436,7 @@
                   </div4>
                   <div4 type="réponses">
                      <p><term>Les chameaux</term> sont de grands animaux à tête petite et fortement arquée, portée sur un cou assez long qui forme une courbe gracieuse. Leur corps est remarquable par la
-                        bosse ou les deux bosses qu'il pré<pb type="page" n="211" />
+                        bosse ou les deux bosses qu'il pré-<pb type="page" n="211" />
                         <fw>A TRAVERS LES JUNGLES. 211</fw> sente sur le dos ; il est porté sur quatre longues jambes terminées par de larges pieds non enveloppés de corne, particularité à
                         laquelle cet animal doit de marcher facilement sur le sable des déserts.</p>
                      <p><persName type="historique">Buffon</persName> a dit que le chameau est le trésor de l'<placeName>Asie</placeName>. En effet, « il nourrit</p> <l>« les habitants de diverses contrées avec son lait et sa chair ; il les habille</l> <l>« de son poil
@@ -1472,7 +1473,7 @@
                   </div4>
                   <div4 type="réponses">
                      <p><term>Le crocodile</term> est un reptile énorme qui atteint jusqu'à dix mètres de longueur ; il apparaît comme une sorte de grand lézard dont la gueule monstrueuse est armée de dents
-                        aigués. Il vit dans les fleuves et les lacs de l'<placeName>Afrique</placeName> et de l'<placeName>>Amérique</placeName>, jetant la terreur parmi les populations riveraines, qui lui font une guerre acharnée, sans réussir à diminuer
+                        aigués. Il vit dans les fleuves et les lacs de l'<placeName>Afrique</placeName> et de l'<placeName>Amérique</placeName>, jetant la terreur parmi les populations riveraines, qui lui font une guerre acharnée, sans réussir à diminuer
                         sensiblement la multitude de ces monstres, tant ils se reproduisent facilement par les œufs qu'ils déposent dans la fange des rivages. Le crocodile se nourrit
                         exclusivement de chair ; il est fort difficile à tuer à cause de la dureté de sa peau, sur laquelle viennent glisser lances et balles de fusils.</p>
                   </div4>
