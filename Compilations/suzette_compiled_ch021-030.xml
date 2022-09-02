@@ -82,9 +82,9 @@
                <p> « Sans le regret du village qui me tient toujours, je serais ici comme un poisson dans l'eau. </p>
                <pb type="page" n="76" />
                <fw type="header"> 76 SUZETTE. </fw>
-               <p> « Le <placeName type="réel"><settlement>Paraclet</settlement></placeName> est charmant*<gloss>Charmant. Très agréable.</gloss>. L'école, bâtie sur le flanc d'une colline, domine une
-                  belle vallée où coulent l'<placeName type="réel"><geogFeat type="fleuve" ref="avre">Avre</geogFeat></placeName> et la <placeName type="réel"><geogFeat type="fleuve" ref="moye"
-                     >Moye</geogFeat></placeName>. Un petit village de maisonnettes rouges et blanches, avec son clocher qui ressemble à celui de <placeName type="fictif">Fragicourt</placeName>,
+               <p> « Le <placeName>Paraclet</placeName> est charmant*<gloss>Charmant. Très agréable.</gloss>. L'école, bâtie sur le flanc d'une colline, domine une
+                  belle vallée où coulent l'<geogFeat type="fleuve" ref="avre">Avre</geogFeat> et la <geogFeat type="fleuve" ref="moye"
+                     >Moye</geogFeat>. Un petit village de maisonnettes rouges et blanches, avec son clocher qui ressemble à celui de <placeName type="fictif">Fragicourt</placeName>,
                   c'est notre horizon. </p>
                <p> « Cent vingt hectares, voilà mon domaine maintenant.</p>
                <p> « Quel grand propriétaire je fais, n'est-ce pas ? Il est vrai que je partage avec de nombreux camarades. </p>
@@ -96,9 +96,9 @@
                   fruits mangeront ceux qui les aiment, par exemple, une jeune fermière de ma connaissance qu'on appelle <persName type="fictif" key="suzette">Suzette</persName> ! </p>
                <p> « La chimie agricole surtout me passionne. Quelle ressource pour l'agronome*<gloss>Agronome. Celui qui s'occupe de perfectionner l'agriculture.</gloss> ! La chimie vous
                   analyse*<!--Analyse has an asterisk but no definition in the lexique--> une plante, en montre un à un les éléments* <gloss>Éléments. Les parties, les substances dont un corps est
-                     composé.</gloss> : tant d'azote* <gloss>Azote. L'un des deux gaz qui forment l'air; il ne peut entretenir la combustion.</gloss>, tant de carbone* <gloss>Carbone. Corps
+                     composé.</gloss> : tant d'azote* <gloss>Azote. L'un des deux gaz qui forment l'air ; il ne peut entretenir la combustion.</gloss>, tant de carbone* <gloss>Carbone. Corps
                         qui, à l'état de pureté, est le diamant, et qui constitue la base du bois et du charbon.</gloss>, tant de soufre, d'oxygène* <gloss>Oxygène. Celui des deux gaz de l'air qui peut
-                           entretenir la combustion.</gloss>, d'hydro- gène*<gloss>Hydrogène. Gaz 14 fois et demie plus léger que l'air.</gloss>, etc. ; et le cultivateur ayant appris tout cela, sait encore
+                           entretenir la combustion.</gloss>, d'hydrogène*<gloss>Hydrogène. Gaz 14 fois et demie plus léger que l'air.</gloss>, etc. ; et le cultivateur ayant appris tout cela, sait encore
                   que les plantes puisent ces éléments pour la plus grande partie dans le sol par leurs racines et radicelles* <gloss>Radicelles. Petites ramifications d'une racine.</gloss>. Il lui
                   devient alors aisé de donner, par des engrais appropriés, à chacune la nourriture qui lui convient, et de la rendre ainsi belle et vigoureuse. </p>
                <p> « A étudier et à bêcher tour à tour, je me porte comme un charme*<gloss>Charme. Parfaitement bien.</gloss>. Un professeur nous disait hier que les hommes devraient à peu près tous
@@ -107,13 +107,13 @@
                   agronome contemporain de <persName type="historique">Henri IV</persName>.</gloss>. Sa pensée vit, encore, quoiqu'il soit mort depuis à peu près trois cents ans. On l'appelle le
                   père de l'agriculture. Il créa l'agronomie, il aima les champs, et, par grand désir d'être utile aux hommes, écrivit des livres <pb type="page" n="77" />
                   <fw type="header"> UNE LETTRE DE JACQUES. 77 </fw> qui, après trois siècles, continuent de nous éclairer. </p>
-               <p> « Le directeur du <placeName type="réel"><settlement>Paraclet</settlement></placeName> est un brave. En 1870, sergent de mobiles*<gloss>Mobiles. Les mobiles étaient de jeunes
+               <p> « Le directeur du <placeName>Paraclet</placeName> est un brave. En 1870, sergent de mobiles*<gloss>Mobiles. Les mobiles étaient de jeunes
                   soldats qui n'avaient pas été formés au service militaire.</gloss>, en pleine bataille, il retourna sur ses pas et se rejeta dans la mitraille pour aller reprendre le drapeau de
                   la compagnie aux mains de celui qui le portait et qu'une balle venait de frapper. Il sauva le drapeau. C'est beau, cela, n'est-ce pas ? </p>
                <p> « On appelle pour une promenade agricole. Nous allons visiter une ferme importante des environs. </p>
                <p>« Je vous quitte : je vous embrasse de tout mon cœur, cher papa, et toi, <persName type="fictif" key="suzette">Suzette</persName>, et vous, <persName type="fictif" key="françois"
                   >François</persName> et <persName type="fictif" key="charlot">Charlot</persName>. </p>
-               <p>« <persName type="fictif" key="jacques">JACQUES</persName> DUMAY. » </p>
+               <p>« <persName type="fictif" key="jacques">JACQUES DUMAY</persName>. » </p>
             </div2>
             <div2 type="questionnaire">
                <head> Questionnaire. </head>
@@ -121,7 +121,7 @@
                   <item>— Qu'adresseriez-vous à vos parents si vous étiez en pension depuis quelques jours ?</item>
                   <item>— Donnez un aperçu de ce que contiendrait votre lettre ?</item>
                   <item>— Comment la commenceriez-vous et l'achèveriez-vous ?</item>
-                  <item>— Que disait <persName type="fictif" key="jacques">Jacques</persName> de la ferme-école du <placeName type="réel"><settlement>Paraclet</settlement></placeName> ?</item>
+                  <item>— Que disait <persName type="fictif" key="jacques">Jacques</persName> de la ferme-école du <placeName>Paraclet</placeName> ?</item>
                   <item>— Quelle était l’étendue du domaine ?</item>
                   <item>— Quel était l'objet du travail de chaque jour ?</item>
                   <item>— Quel résultat <persName type="fictif" key="jacques">Jacques</persName> prévoyait-il pour la ferme de son père ?</item>
@@ -136,7 +136,7 @@
                   <head type="sujets"> Français. </head>
                   <div4 type="questions">
                      <list type="exercices">
-                        <item>— Écrire en marge d'une feuille de papier, et les uns au-essous des autres, tous les verbes de l'alinéa commençant par Aux vacances… et ceux des deux suivants.</item>
+                        <item>— Écrire en marge d'une feuille de papier, et les uns au-dessous des autres, tous les verbes de l'alinéa commençant par Aux vacances… et ceux des deux suivants.</item>
                         <item>— Indiquer à côté de chacun de ces verbes le mode et le temps auxquels ils sont employés. </item>
                      </list>
                   </div4>
@@ -158,7 +158,7 @@
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p><term>La physique</term> étudie les-propriétés des corps, telles que l'élasticité, la pesanteur, la divisibilité, ainsi que les phénomènes (1) <note type="foot">(1) On appelle
+                     <p><term>La physique</term> étudie les propriétés des corps, telles que l'élasticité, la pesanteur, la divisibilité, ainsi que les phénomènes (1) <note type="foot">(1) On appelle
                         phénomène toute chose qui vient à apparaître dans les corps, comme, par exemple, la formation de la vapeur, la dilatation de l'eau chauffée, l'apparition de l'arc-en-ciel,
                         l'ascension d'un liquide dans un morceau de sucre dont la base seule est en contact avec ce liquide, l'écho, le grossissement des objets à travers les lunettes.</note> qui
                         ne changent pas leur nature. </p>
@@ -237,7 +237,7 @@
                <p>Mais M. <persName type="fictif" key="françois">François</persName> s'épongeait le nez au-dessus de sa cuvette, et le nez saignait beaucoup.</p>
                <p>— Eh bien ! qu'est-ce que c'est ? </p>
                <p>— La machine, papa, c'est la machine...</p>
-               <p>— Quelle machine, Monsieur?</p>
+               <p>— Quelle machine, Monsieur ?</p>
                <p>— La machine à éteindre la chandelle, papa.</p>
             </div2>
             <div2 type="questionnaire">
@@ -299,12 +299,10 @@
                         légèrement fumé. Au printemps, on taillera les arbres et on les débarrassera des rameaux mutiles au profit de ceux qui portent des boutons à fruits.</p>
                      <p><term>Le cerisier</term> est un bel arbre des climats tempérés, à tige droite, recouvert, quand il est jeune, d'une écorce brune et luisante ; il porte des feuilles vert foncé
                         allongées en pointe. Ses fleurs ressemblent à de petites roses blanches, et rien n'est charmant comme le spectacle qu'il présente aux premières belles journées du printemps.
-                        Les fruits appa- raissent de bonne heure, sous la forme de petites boules vertes qui, peu à peu, se gonflent d'un suc frais et sucre, et qui prennent une belle couleur rouge.
-                        On cueille les cerises au mois de juin dans la plus grande partie de la <placeName type="réel"><bloc ref="europe"><country ref="france">France</country></bloc></placeName>, et
+                        Les fruits apparaissent de bonne heure, sous la forme de petites boules vertes qui, peu à peu, se gonflent d'un suc frais et sucre, et qui prennent une belle couleur rouge.
+                        On cueille les cerises au mois de juin dans la plus grande partie de la <placeName>France</placeName>, et
                         elles sont recherchées pour leur saveur délicieuse comme pour leurs propriétés rafraîchissantes.</p>
-                     <p>Les <term>principales espèces de cerises</term> sont : les cerises douces, dont les meilleures se cultivent à <placeName type="réel"><bloc ref="europe"><country ref="france"
-                        ><settlement ref="montmorency">Montmorency</settlement></country></bloc></placeName> et dans les environs d'<placeName type="réel"><bloc ref="europe"><country
-                           ref="france"><settlement ref="auxerre">Auxerre</settlement></country></bloc></placeName>, les bigarreaux, les cerises jaunes, les cerises aigres et les merises, au suc
+                     <p>Les <term>principales espèces de cerises</term> sont : les cerises douces, dont les meilleures se cultivent à <placeName>Montmorency</placeName> et dans les environs d'<placeName>Auxerre</placeName>, les bigarreaux, les cerises jaunes, les cerises aigres et les merises, au suc
                         presque noir.</p>
                   </div4>
                </div3>
@@ -379,9 +377,9 @@
                <p>Il montrait le plafond, où se voyaient encore quelques clous, des trous, des dégradations du plâtre :</p>
                <p>— Papa, ça a très bien marché, au moins vingt fois ; l’éteignoir descendait tout seul et fonctionnait à ravir. — Son regard rencontra la bougie à demi consumée et, sur une
                   chaise, une cinquantaine d'allumettes brûlées : — Mais, à la vingt-unième fois, la ficelle casse ; paf ! le cliquet sur…! </p>
-               <p>La main paternelle fit un petit mouvement du côté de l'éteigneur de chan- delles. Mais <persName type="fictif" key="suzette">Suzette</persName>, déjà en train de
+               <p>La main paternelle fit un petit mouvement du côté de l'éteigneur de chandelles. Mais <persName type="fictif" key="suzette">Suzette</persName>, déjà en train de
                   bassiner*<gloss>Bassiner une blessure. Humecter, mouiller avec un liquide tiède ou chaud.</gloss>la blessure, arrêta d'un regard cette main. </p>
-               <p>— Papa, dit-elle, ne prenez pas la peine, je vous prie, de vous occuper de ce mauvais garçon. Et vous, Monsieur, tournezvous par ici, cachez à votre père cette vilaine trompette
+               <p>— Papa, dit-elle, ne prenez pas la peine, je vous prie, de vous occuper de ce mauvais garçon. Et vous, Monsieur, tournez-vous par ici, cachez à votre père cette vilaine trompette
                   de nez que vous venez de changer en pomme de terre !></p>
                <p>Le papa grommela*<gloss>Grommeler. Murmurer, se plaindre entre ses dents.</gloss> un instant, puis : </p>
                <p>— Bon, pose-lui là-dessus une toile d'araignée, quoiqu’il ne mérite pas tant de soins.</p>
@@ -407,10 +405,10 @@
                   type="fictif" key="françois">François</persName> poussa une exclamation, renifla, et avec une grimace :</p>
                <p>— Pff ! pff ! qu'est-ce que c'est que ça ?</p>
                <p>— Trois jours et trois nuits garde-le-moi là où il est, dit <persName type="fictif" key="ludivine">Ludivine</persName>, et tu seras pour longtemps à l'abri des maux de nez et
-                  même d'oreilles. Ma grand-mère, ma mère en ont guéri beaucoup... et demande à <persName type="historique">Plectrude</persName>, à <persName type="historique"
-                     >Jean-Marie</persName>, à <persName type="historique">Morisot</persName>, si je leur ai fait du mal.</p>
+                  même d'oreilles. Ma grand-mère, ma mère en ont guéri beaucoup... et demande à <persName type="fictif">Plectrude</persName>, à <persName type="fictif"
+                     >Jean-Marie</persName>, à <persName type="fictif">Morisot</persName>, si je leur ai fait du mal.</p>
                <p>Mais, le soir, la douleur commencée avec l'application de la toile d'araignée s'accrut beaucoup.</p>
-               <p>— Pff ! pff ! qu'est-ce que c'est que ça? répétait <persName type="fictif" key="françois">François</persName>.</p>
+               <p>— Pff ! pff ! qu'est-ce que c'est que ça ? répétait <persName type="fictif" key="françois">François</persName>.</p>
                <p>Cependant, comme il voulait guérir au plus vite pour chercher une ficelle plus solide et reprendre son <pb type="page" n="84" />
                   <fw type="header"> 84 SUZETTE.</fw> expérience*<gloss>Expérience. Epreuve, essai que l'on fait pour découvrir ou pour arriver à démontrer une vérité.</gloss>, ou quelque autre
                   de ce genre, il tenait bravement.</p>
@@ -442,7 +440,7 @@
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>En général, les enfants sont observateurs ; ils aiment à examiner les choses, à se rendre compte de ce qu'elles sont, comment elles fonc- tionnent et quel parti on en
+                     <p>En général, les enfants sont observateurs ; ils aiment à examiner les choses, à se rendre compte de ce qu'elles sont, comment elles fonctionnent et quel parti on en
                         peut tirer. Il est donc juste de les encourager quand ils manifestent de semblables dispositions, et de leur venir en aide par des conseils ; peut-être ainsi une
                         vocation se manifestera-t-elle et sera-t-elle le point de départ d'une existence utile à la société.</p>
                      <p>C'est à un enfant qu'on doit la découverte de l'appareil qui règle l'entrée et la sortie de la vapeur dans le cylindre où se meut le piston de la machine ; <persName
@@ -467,8 +465,8 @@
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>On appelle remèdes secrets, remèdes de bonne femme, des remèdes simples en usage parmi les gens peu instruits, et qui, presque tou- jours, n'ont aucune efficacité quand
-                        ils ne présentent pas d'incon- vénients. Il faut se défier des personnes qui font métier de préparer ces remèdes ; car souvent, parmi elles, il se trouve des fripons
+                     <p>On appelle remèdes secrets, remèdes de bonne femme, des remèdes simples en usage parmi les gens peu instruits, et qui, presque toujours, n'ont aucune efficacité quand
+                        ils ne présentent pas d'inconvénients. Il faut se défier des personnes qui font métier de préparer ces remèdes ; car souvent, parmi elles, il se trouve des fripons
                         effrontés ; de plus, comment peut-on croire à la valeur des compositions qu'elles offrent aux naïfs, puisqu'elles-mêmes n'ont aucune notion de la médecine ?</p>
                      <pb type="page" n="85" />
                      <fw type="header">LA BOHÉMIENNE. 85</fw>
@@ -480,7 +478,7 @@
                      <p>Chacun sait que les médecins ne sont pas toujours libres de venir auprès d'un malade, lorsqu'on les en prie, car ils se trouvent fréquemment retenus au chevet d'un autre
                         ; il est donc très désirable que, dans chaque maison, une personne sache donner les premiers soins en cas d'indisposition ou de blessure, ce qui, plus d'une fois,
                         enrayera le développement du mal. Tel est le motif pour lequel, dans la plupart des écoles, les maîtresses se font une obligation de dicter aux élèves les conseils et
-                        les recettes pour remplir le rôle de gardemalade ou d'auxiliaire du médecin. Toutes devraient, à la fin de leurs études, se munir d'un bon traité d'hygiène et des
+                        les recettes pour remplir le rôle de garde-malade ou d'auxiliaire du médecin. Toutes devraient, à la fin de leurs études, se munir d'un bon traité d'hygiène et des
                         excellents petits livres intitulés : Remèdes des champs et l'Art de vivre longtemps (Libr. Hachette ; 0 fr. 50 chacun).</p>
                   </div4>
                </div3>
@@ -499,7 +497,7 @@
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>Les chandelles sont des cylindres de suif fondu à l'intérieur des- quels on a introduit une mèche de coton.</p>
+                     <p>Les chandelles sont des cylindres de suif fondu à l'intérieur desquels on a introduit une mèche de coton.</p>
                      <p>Pour les fabriquer, on met fondre de la graisse de bœuf ou de vache dans une grande chaudière, et, lorsque le liquide qu'on obtient est suffisamment limpide, on le coule
                         avec une cuiller de fer dans des moules de bois où l’on a tendu une mèche de coton.</p>
                      <p>Le procédé est le même pour les bougies ; seulement la matière employée est la stéarine, qui provient d'huiles grossières ou de graisses animales, et qui jouit de la
@@ -529,7 +527,7 @@
                <p>— Et qui ne guérira pas ! repartit aussitôt l'étrange*<gloss>Étrange. Qui n'est point comme les choses ou personnes ordinaires.</gloss> créature, avec un ton qui fit frissonner
                   <persName type="fictif" key="suzette">la jeune fille</persName>.</p>
                <p>— Vous dites... qu'il ne guérira pas ? demanda <persName type="fictif" key="suzette">Suzette</persName>, la voix soudainement altérée.</p>
-               <p>— Je le dis!</p>
+               <p>— Je le dis !</p>
                <p>En même temps, elle tendit l'index vers le ciel, d'où la nuit tombait déjà, et <persName type="fictif" key="suzette">Suzette</persName> vit, au-dessus de la maison, le vol
                   tournoyant et silencieux de deux grandes ailes blanches.</p>
                <p>— Connais-tu cet oiseau, ma fille ?</p>
@@ -549,7 +547,7 @@
                <p>Une demi-heure avant le souper, <persName type="fictif" key="suzette">Suzette</persName> sortit à pas de loup*<gloss>A pas de loup. Sans bruit et lentement.</gloss> et fut
                   bientôt sous les arbres indiqués.</p>
                <p>Assise sur la margelle*<gloss>Margelle. Pierre creuse qui forme le rebord d'un puits.</gloss> d'un vieux puits, la femme l'attendait.</p>
-               <p>— Ah ! ah ! ditelle avec un petit ricanement, tu as tardé ; tu ne voulais pas venir... tu vois que je sais tout ! Approche... Je peux sauver ton frère ! </p>
+               <p>— Ah ! ah ! dit-elle avec un petit ricanement, tu as tardé ; tu ne voulais pas venir... tu vois que je sais tout ! Approche... Je peux sauver ton frère ! </p>
                <p><persName type="fictif" key="suzette">Suzette</persName>, dont les jambes fléchissaient, s'accola au puits.</p>
                <p>— Montre ta main.</p>
                <p>La jeune fille tendit sa main droite :</p>
@@ -568,7 +566,7 @@
                <p>— C'est tout ?</p>
                <p>— C'est tout.</p>
                <p>— Bon. Qu'as-tu là au cou ? Un foulard ? donne-le. Elle prit le foulard avant que l'enfant eût pu obéir.</p>
-               <p>— Ce foulard et ces cent sous serviront à commencer les conju- rations*<gloss>Conjuration. Paroles et gestes par lesquels certains fripons prétendent guérir les gens ou les
+               <p>— Ce foulard et ces cent sous serviront à commencer les conjurations*<gloss>Conjuration. Paroles et gestes par lesquels certains fripons prétendent guérir les gens ou les
                   animaux malades.</gloss> nécessaires. Mais il faut que demain, à la même heure, tu reviennes ici avec d'autre argent, autant que tu pourras en prendre, au moins vingt
                   francs, et sans avoir parlé de moi à personne... à personne ! tu entends ? </p>
                <p><persName type="fictif" key="suzette">Suzette</persName> fit signe qu'elle entendait.</p>
@@ -609,7 +607,7 @@
                   <div4 type="réponses">
                      <p>Nos maux viennent de nos imprudences, de la vieillesse ou de causes et d'accidents dont nous discernons parfaitement l'origine. Il est ridicule, il est sot de les
                         attribuer à des influences étrangères, comme le mauvais vouloir d'une personne, l'apparition de certains oiseaux, ou d'un insecte plus ou moins répugnant. C'est faire
-                        de la Providence, si juste, si sage, un être méchant et dépourvu de raison qui subordon<figure>
+                        de la Providence, si juste, si sage, un être méchant et dépourvu de raison qui subordon-<figure>
                            <caption>Chouette. Cet oiseau est fort utile à l'agriculture, en ce qu'il détruit une grande quantité de rongeurs.</caption>
                         </figure>
                         <pb type="page" n="89" />
@@ -664,8 +662,7 @@
                      <p>Pour guérir <term>une écorchure</term>, lavez la plaie à l'eau fraîche et, si elle n'est pas très étendue ou exposée à des chocs et à des frottements, laissez-la telle
                         quelle ; autrement, posez dessus un linge doux, légèrement enduit de beurre et maintenu par une bande faiblement serrée.</p>
                      <p>On lave à l'eau tiède la plaie qui résulte d'<term>une coupure</term>, et l'on s'assure qu'il n'y reste aucun corps étranger. Si la blessure saigne abondamment, user
-                        d'eau froide. Ensuite, on l'essuie avec un linge fin, et l'on en rapproche les bords que l'on fixe avec du taffetas d'<placeName type="réel"><bloc ref="europe"><country
-                           ref="angleterre">Angleterre</country></bloc></placeName> ou du diachylon. Lorsque le mal est considérable, la présence du médecin devient obligatoire.</p>
+                        d'eau froide. Ensuite, on l'essuie avec un linge fin, et l'on en rapproche les bords que l'on fixe avec du taffetas d'<placeName>Angleterre</placeName> ou du diachylon. Lorsque le mal est considérable, la présence du médecin devient obligatoire.</p>
                      <p>Pour les <term>contusions ordinaires</term>, consistant dans le meurtrissement des tissus par suite d'une chute ou d'un coup, il suffit de combattre l'inflammation par
                         l'application de l'eau froide, et d'envelopper ensuite le membre atteint. Si l’enfant contusionné se trouvait indisposé à la suite de l'accident, il serait bon de lui
                         donner à boire quelque chose de chaud et de le mettre au lit. </p>
@@ -679,17 +676,17 @@
             <div2 type="récit">
                <p> La journée commença mal : une poule des plus belles, une grise pailletée*<gloss>Pailleté. Plumage pailleté, celui qui présente des taches nombreuses de teintes variées.</gloss>, à
                   toupet blanc, fut trouvée morte dans le poulailler ; François, dans son lit, avait toujours la fièvre. </p>
-               <p> Oh ! la chouette, la chouette ! l'oiseau de malheur !... Et il fallait attendre encore presque un jour entier avant de revoir la bohémienne ! Aurait-elle au moins com-mencé les
+               <p> Oh ! la chouette, la chouette ! l'oiseau de malheur !... Et il fallait attendre encore presque un jour entier avant de revoir la bohémienne ! Aurait-elle au moins commencé les
                   conjurations ? </p>
-               <p> A ces pensées, <persName type="fictif" key="suzette">Suzette</persName> se sen-tait défaillir*<gloss>Défaillir. Tomber en faiblesse.</gloss>. </p>
+               <p> A ces pensées, <persName type="fictif" key="suzette">Suzette</persName> se sentait défaillir*<gloss>Défaillir. Tomber en faiblesse.</gloss>. </p>
                <p>Son père parti aux champs où le travail pressait, <persName type="fictif" key="charlot">Charlot</persName> ronflant encore, et le patient allongé dans son lit, elle s'assit devant
-                  l'âtre, sans force pour l'ouvrage matinal, et demeura là toute bri-sée. Quelqu'un entra qui, d'une voix bien connue, lui demanda des nou-velles de <persName type="fictif"
+                  l'âtre, sans force pour l'ouvrage matinal, et demeura là toute brisée. Quelqu'un entra qui, d'une voix bien connue, lui demanda des nouvelles de <persName type="fictif"
                      key="françois">François</persName>. </p>
                <figure>
                   <caption> Coq et poule. </caption>
                </figure>
                <p> — Ah ! Madame ! </p>
-               <p> s'é-cria <persName type="fictif" key="suzette">Suzette</persName> en se levant pour se jeter tout en pleurs au cou de <persName type="fictif" key="mme_valon">Mme Valon</persName>. </p>
+               <p> s'écria <persName type="fictif" key="suzette">Suzette</persName> en se levant pour se jeter tout en pleurs au cou de <persName type="fictif" key="mme_valon">Mme Valon</persName>. </p>
                <p> — Eh bien ! qu'y a-t-il, mon enfant ? </p>
                <p> — <persName type="fictif" key="françois">François</persName> est malade, bien malade ! </p>
                <p> — Bien malade ?... de ce mal au nez dont on vient de me parler à l'instant ?... </p>
@@ -698,11 +695,11 @@
                   key="mme_valon">Mme Valon</persName> ; le sourire était vivant, et le regard aussi. </p>
                <p> s'écria-t-elle ; </p>
                <p> mais qu'est-ce que c'est que ce cataplasme ? </p>
-               <p> —Un cataplasme fait par Ludivine. </p>
+               <p> —Un cataplasme fait par <persName type="fictif" key="ludivine">Ludivine</persName>. </p>
                <p> — Par <persName type="fictif" key="ludivine">Ludivine</persName> ! </p>
                <p> — Oh ! Madame, </p>
                <p> dit le pauvre garçon ; </p>
-               <p> il me fait de plus en plus mal. Mais c'est sans doute la force du re<fw type="header"> UN PEU DE LUMIÈRE. 91 </fw>
+               <p> il me fait de plus en plus mal. Mais c'est sans doute la force du re-<fw type="header"> UN PEU DE LUMIÈRE. 91 </fw>
                   <pb type="page" n="91" /> mède, qui est un secret*<gloss>Secret. Moyen connu de peu de personnes.</gloss> de <persName type="fictif" key="ludivine">Ludivine</persName>. Il me faut
                   encore garder cela près de deux jours et deux nuits ! Oh ! oh ! oh ! </p>
                <p> D'un coup de doigt, sans respect pour le secret, <persName type="fictif" key="mme_valon">Mme Valon</persName> fit sauter le cataplasme : elle le déplia en détournant un peu le
@@ -715,7 +712,7 @@
                <p> —Toile d'araignée, fiente de pigeon ! Mais vous avez donc donné rendez-vous à toutes les ordures de la création sur ce pauvre ! </p>
                <p> s'écria <persName type="fictif" key="mme_valon">Mme Valon</persName>, mi-riant, mi-fâchée. </p>
                <p> Il faut qu'il soit solidement accroché pour n'être pas encore parti devant un pareil traitement*<gloss>Traitement. Manière de soigner une maladie.</gloss> ! Vous avez introduit dans
-                  une petite plaie des corps étrangers, malpropres, qui ont exaspéré*<gloss>Exaspérer. Irriter le mal.</gloss> le mal et pro-duit la vilaine suppuration*<gloss>Suppuration. Ecoulement
+                  une petite plaie des corps étrangers, malpropres, qui ont exaspéré*<gloss>Exaspérer. Irriter le mal.</gloss> le mal et produit la vilaine suppuration*<gloss>Suppuration. Ecoulement
                      de pus.</gloss> que voilà. Hop ! hop ! qu'on me nettoie cela ! De l'eau ! de l'eau, petite sotte, et vite ! </p>
             </div2>
             <div2 type="questionnaire">
@@ -738,8 +735,8 @@
                   <head type="sujets"> Économie domestique. </head>
                   <div4 type="questions">
                      <list type="exercices">
-                        <item>— Comment conserve-t-on les œufs?</item>
-                        <item>— Comment prépare-t-on les œufs à la coque, sur le plat, en omelette, à la matelote, puis les œufs à la neige, la salade aux œufs?</item>
+                        <item>— Comment conserve-t-on les œufs ?</item>
+                        <item>— Comment prépare-t-on les œufs à la coque, sur le plat, en omelette, à la matelote, puis les œufs à la neige, la salade aux œufs ?</item>
                      </list>
                   </div4>
                   <div4 type="réponses">
@@ -751,7 +748,7 @@
                      <p>— On choisit des œufs frais, et on les plonge dans l'eau bouillante où ils séjourneront trois minutes. </p>
                      <fw type="header"> 92 SUZETTE. </fw>
                      <pb type="page" n="92" />
-                     <p>ŒUFS SUR LE PLAT. — Mettez fondre dans un plat de faïence, de porce-laine ou de cuivre, autant de fois 45 grammes de beurre que vous vous proposez de faire cuire d'œufs.
+                     <p>ŒUFS SUR LE PLAT. — Mettez fondre dans un plat de faïence, de porcelaine ou de cuivre, autant de fois 45 grammes de beurre que vous vous proposez de faire cuire d'œufs.
                         Lorsqu'il commence à bouillonner, cassez les œufs en vous gardant de rompre les jaunes, ce qui arriverait si on les faisait tomber de haut ; saupoudrez de sel et de poivre, et
                         retirez lorsque le blanc commence à prendre. Quelquefois on pose sur le plat un couvercle chargé de braise ou de charbons ardents. </p>
                      <p>OMELETTE.— Dans un vase de terre, cassez les œufs, saupoudrez de sel et de poivre et battez-les pendant deux ou trois minutes avec un peu de persil ou d'oseille hachée. Mettez
@@ -761,8 +758,8 @@
                      <p>ŒUFS EN MATELOTE. — Dans une sauce au vin bouillante où l'on n'a pas ménagé le beurre, cassez des œufs frais et retirez le tout au bout de trois minutes ; versez dans un plat
                         et servez. </p>
                      <p>ŒUFS A LA NEIGE. — Prenez un demi-litre de lait, deux cuillerées à bouche de fleurs d'oranger, 60 grammes de sucre ; mettez le tout dans une casserole et faites bouillir.
-                        Prenez six œufs ; séparez les jaunes des blancs, battez les blancs en neige bien ferme dans un lieu frais, et sau-poudrez de sucre mêlé de vanille en poudre ou de fleurs
-                        d'oranger. Quand le lait a bouilli, mettez dedans vos œufs en neige par cuillerées : retour-nez-les avec une écumoire pour faire cuire de tous les côtés ; quand ils sont bien
+                        Prenez six œufs ; séparez les jaunes des blancs, battez les blancs en neige bien ferme dans un lieu frais, et saupoudrez de sucre mêlé de vanille en poudre ou de fleurs
+                        d'oranger. Quand le lait a bouilli, mettez dedans vos œufs en neige par cuillerées : retournez-les avec une écumoire pour faire cuire de tous les côtés ; quand ils sont bien
                         cuits, retirez-les et dressez-les sur le plat que vous devez servir. Faites lier le lait sur le feu avec des jaunes d'œufs délayés dans une cuillerée de lait ; versez sur les
                         œufs à la neige ; laissez refroidir et sucrez. <note type="citation"> (<title>Cuisine des campagnes</title>, par <name type="author">Audot</name>.) </note>
                      </p>
@@ -787,15 +784,15 @@
                   </div4>
                   <div4 type="réponses">
                      <p>On reconnaît qu'un enfant a la fièvre lorsque le pouls, au lieu de 75 à 80 pulsations à la minute, en bat 90 à 100 ; lorsque le malade éprouve de légers frissons, de la
-                        lassitude et une pesanteur dans la tête. Il faut alors le coucher en évitant de surcharger le lit de cou-vertures, soumettre le patient à la diète et lui donner des boissons
-                        ra-fraîchissantes en attendant l'arrivée du médecin.</p>
+                        lassitude et une pesanteur dans la tête. Il faut alors le coucher en évitant de surcharger le lit de couvertures, soumettre le patient à la diète et lui donner des boissons
+                        rafraîchissantes en attendant l'arrivée du médecin.</p>
                      <p>La <term>tenue d'une chambre de malade</term> exige une extrême propreté et comporte le fréquent renouvellement de l'air, soit par la cheminée, soit par les fenêtres dans la
                         saison chaude. Il s'exhale, en effet, des poumons et de la peau des malades, certaines émanations animales à odeur fétide qui altèrent l'air en s'y décomposant, et rien n'est
                         plus propre à compromettre la guérison. </p>
                      <fw type="header"> DE L'EAU ! 93 </fw>
                      <pb type="page" n="93" />
-                     <p>C'est pour ce motif qu'il faut se garder de <term>clore le lit</term> avec des rideaux et de l'installer dans une alcôve. L'accumulation des couver-tures et des édredons
-                        provoque des sueurs qui affaiblissent l ma-lade. </p>
+                     <p>C'est pour ce motif qu'il faut se garder de <term>clore le lit</term> avec des rideaux et de l'installer dans une alcôve. L'accumulation des couvertures et des édredons
+                        provoque des sueurs qui affaiblissent l malade. </p>
                      <p><term>Un cataplasme</term> est une matière molle et gluante (telle que la mie de pain, la farine de lin, délayées et cuites à l'eau) qu'on étend sur un linge très fin et qu'on
                         applique aux endroits du corps indiqués par le médecin. </p>
                      <p><term>Le laudanum</term> a pour effet d'engourdir les douleurs provenant de l'irritation des nerfs par suite d'inflammation, comme il arrive pour les maux de dents, les crampes
@@ -805,7 +802,7 @@
             </div2>
          </div1>
          <div1 type="chapitre" xml:lang="fr" n="ch026">
-            <head type="chapter">26. — De l'eau! (Élève, p. 63.)</head>
+            <head type="chapter">26. — De l'eau ! (Élève, p. 63.)</head>
             <pb type="page" n="93" />
             <div2 type="récit">
                <p><persName type="fictif" key="suzette">Suzette</persName>, toute secouée par cet entrain, courut à la cuisine.</p>
@@ -817,10 +814,10 @@
                   typhoïde* <gloss>Fièvre typhoïde. Maladie que caractérise une grande inflammation intérieure.</gloss>, le choléra* <gloss>Choléra. Maladie épidémique et le plus souvent mortelle,
                      caractérisée par des vomissements et des crampes.</gloss>, bien d'autres maladies peuvent y attendre que nous les absorbions* <gloss>Absorber. Introduire dans le corps par les
                         ouvertures du nez ou de la bouche.</gloss>, n'ayant pas su les détruire ? Songe, qu'en ce moment il s'agit de laver une plaie à vif* <gloss>Plaie à vif. Qui laisse voir la
-                           chair.</gloss>, qui n’a été que trop infectée* <gloss>Infecté. Communiquer une mauvaise odeur; gâter, corrompre.</gloss>. Va faire bouillir cette eau pour dé-truire tous les
-                  germes mal-sains qui s'y trouveraient. Pendant ce temps je cours prendre chez moi de l'acide phénique* <gloss>Acide phénique. Liquide désinfectant que l’on tire de la
-                     houille.</gloss>, un excellent caus-tique* <gloss>Caustique. Qui désorganise les chairs ou membranes comme une brûlure.</gloss> désinfectant qu'il faut toujours avoir dans son
-                  ar-moire. </p>
+                           chair.</gloss>, qui n’a été que trop infectée* <gloss>Infecté. Communiquer une mauvaise odeur ; gâter, corrompre.</gloss>. Va faire bouillir cette eau pour détruire tous les
+                  germes malsains qui s'y trouveraient. Pendant ce temps je cours prendre chez moi de l'acide phénique* <gloss>Acide phénique. Liquide désinfectant que l’on tire de la
+                     houille.</gloss>, un excellent caustique* <gloss>Caustique. Qui désorganise les chairs ou membranes comme une brûlure.</gloss> désinfectant qu'il faut toujours avoir dans son
+                  armoire. </p>
                <figure>
                   <caption>Goutte d'eau vue au microscope.</caption>
                   <caption>Ne buvez jamais d'eau sans qu'elle soit filtrée et, dans les temps d'épidémie, sans l'avoir fait bouillir. </caption>
@@ -834,7 +831,7 @@
                <p> — Ah ! disait-il, je ne m'exposerai plus à de pareils accidents ; je sais un moyen. </p>
                <p> — Quel moyen, Monsieur ? </p>
                <p> — C'est d'employer du fil de fer, au lieu de ficelle, pour manœuvrer le cliquet. </p>
-               <p> — Encore le cliquet ! Voulez-vous bien vous ren-dormir tout de suite ! </p>
+               <p> — Encore le cliquet ! Voulez-vous bien vous rendormir tout de suite ! </p>
                <p> lui dit sa sœur. </p>
             </div2>
             <div2 type="questionnaire">
@@ -843,7 +840,7 @@
                   <item>— Qu'apporta <persName type="fictif" key="suzette">Suzette</persName> ?</item>
                   <item>— Quelle remarque fit <persName type="fictif" key="mme_valon">Mme Valon</persName> sur la difficulté d'obtenir de l'eau pure ?</item>
                   <item>— Quelle nécessité y a-t-il de traiter les blessures par l'eau pure ?</item>
-                  <item>— Comment détruit-on les germes dange-<cb />reux de l'eau ?</item>
+                  <item>— Comment détruit-on les germes dange<cb />reux de l'eau ?</item>
                   <item>— Qu'est-ce que l'acide phénique ?</item>
                   <item>— Comment <persName type="fictif" key="mme_valon">Mme Valon</persName> soigna-t-elle <persName type="fictif" key="françois">François</persName> ?</item>
                   <item>— Quel moyen ce dernier avait-il découvert pour éviter le retour de l'accident qui le retenait au lit ?</item>
@@ -859,7 +856,7 @@
                         <item>— Où est le grand réservoir des eaux ?</item>
                         <item>— Ce que sont et à quoi servent les nuages ?</item>
                         <item>— Origine des sources, des rivières, des ruisseaux.</item>
-                        <item>— Qu'est-ce qui se développe dans l'eau exposée à l'air?</item>
+                        <item>— Qu'est-ce qui se développe dans l'eau exposée à l'air ?</item>
                         <item>— Ce qu'on y voit avec un instrument grossissant.</item>
                         <item>— Ce qui peut la corrompre, la rendre dangereuse.</item>
                         <item>— Comment l'eau transmet-elle les maladies ?</item>
@@ -867,14 +864,14 @@
                   </div4>
                   <div4 type="réponses">
                      <p><term>L'eau</term> est le liquide le plus universellement répandu ; sous le nom de mer, l'eau couvre les trois quarts de la surface du globe.</p>
-                     <p>La mer est le grand <term>réservoir</term> des eaux ; il s'en élève continuelle-ment des vapeurs qui s'amassent dans l'air en masses considérables appelées <term>nuages</term>.
-                        Sous l'influence du froid des hautes régions de l'at-mosphère, les vapeurs des nuages se condensent en gouttelettes dont la chute produit le phénomène de la pluie.</p>
+                     <p>La mer est le grand <term>réservoir</term> des eaux ; il s'en élève continuellement des vapeurs qui s'amassent dans l'air en masses considérables appelées <term>nuages</term>.
+                        Sous l'influence du froid des hautes régions de l'atmosphère, les vapeurs des nuages se condensent en gouttelettes dont la chute produit le phénomène de la pluie.</p>
                      <p>La <term>pluie</term> pénètre à l'intérieur du sol ; elle s'accumule sur les roches ou sur les couches terreuses impénétrables à l'eau, et, suivant la pente du terrain, elle
-                        coule et jaillit en <term>sources</term> limpides. La réunion de plusieurs sources forme un <term>ruisseau</term>, et celle de plusieurs ruis-seaux, une
+                        coule et jaillit en <term>sources</term> limpides. La réunion de plusieurs sources forme un <term>ruisseau</term>, et celle de plusieurs ruisseaux, une
                         <term>rivière</term>.</p>
-                     <p>Dans l'eau exposée à l'air, il tombe une foule de germes de plantes et d'œufs d'animaux infiniment petits ; les uns et les autres se déve-loppent dans le liquide avec une
-                        rapidité surprenante, et si, après quelques jours, on l'examine avec un verre grossissant, l'œil y distin-gue tout un monde animé circulant à travers des plantes
-                        microsco-piques (1)<note type="foot"> (1) <term>Microscopique</term> se dit des choses si petites qu'on ne peut les voir qu'au moyen d'un instrument grossissant appelé
+                     <p>Dans l'eau exposée à l'air, il tombe une foule de germes de plantes et d'œufs d'animaux infiniment petits ; les uns et les autres se développent dans le liquide avec une
+                        rapidité surprenante, et si, après quelques jours, on l'examine avec un verre grossissant, l'œil y distingue tout un monde animé circulant à travers des plantes
+                        microscopiques (1)<note type="foot"> (1) <term>Microscopique</term> se dit des choses si petites qu'on ne peut les voir qu'au moyen d'un instrument grossissant appelé
                            <term>microscope</term>. </note>.</p>
                      <p>La cause la plus fréquente de la <term>corruption</term> des eaux des rivières, des sources et des puits, est l'infiltration de liquides provenant de déjections animales, tels
                         que ceux ayant traversé des fumiers et des fosses d'aisances. Il en résulte que ces eaux, où se sont développés les germes de maladies épidémiques, donnent lieu à de véritables
@@ -889,7 +886,7 @@
                         <item>— LES FILTRES.</item>
                         <item>— Comment l'eau se purifie-t-elle naturellement ?</item>
                         <item>— Où la puise-t-on souillée ou infectée ?</item>
-                        <item>— Avec quel appareil peut-on la rendre limpide et saine?</item>
+                        <item>— Avec quel appareil peut-on la rendre limpide et saine ?</item>
                         <item>— Propriétés du charbon et du sable.</item>
                         <item>— Description d'un filtre.</item>
                         <item>— Le papier Joseph.</item>
@@ -897,11 +894,11 @@
                   </div4>
                   <div4 type="réponses">
                      <p>Presque toujours les eaux se purifient naturellement ou traversant les couches de terre et de sable, mais quand la source est trop voisine de la surface, il n'en est plus
-                        ainsi, et il faut aviser à un moyen mé-canique de la débarrasser de ses impuretés. On a imaginé à cet effet un appareil connu sous le nom de <term>filtre</term>.</p>
+                        ainsi, et il faut aviser à un moyen mécanique de la débarrasser de ses impuretés. On a imaginé à cet effet un appareil connu sous le nom de <term>filtre</term>.</p>
                      <p>Un <term>filtre</term> est un appareil formé d'une caisse métallique dans laquelle on dispose alternativement des lits de charbon pulvérisé et de sable. En traversant ces
                         matières, l'eau se débarrasse de ses impuretés et apparaît limpide à la sortie du robinet adapté à la partie inférieure.</p>
                      <p>Il existe des filtres composés d'un vase de terre cuite vernissée au milieu duquel on scelle une pierre poreuse, placée de biais, qui le divise en deux compartiments. Dans le
-                        compartiment supérieur, on verse l'eau à épurer ; elle arrive dans l'autre après avoir passé lente-ment au travers de la pierre dont il a été question, et dans un état de
+                        compartiment supérieur, on verse l'eau à épurer ; elle arrive dans l'autre après avoir passé lentement au travers de la pierre dont il a été question, et dans un état de
                         limpidité qui ne laisse rien à désirer.</p>
                      <p>Le <term>papier Joseph</term> est un papier épais qu'on roule en cornet et dans lequel on verse le liquide à clarifier. Il filtre au travers de l'appareil et coute en
                         gouttelettes, à la partie inférieure, dans un vase disposé à cet effet.</p>
@@ -919,13 +916,13 @@
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>On entend par <term>épidémies</term> des maladies qui se propagent par le con-tact avec les malades ou par l'infection de l'air et des eaux. Telles sont celles qui sont connues
-                        sous le nom de <term>fièvres typhoïdes</term>, <term>rou-geole</term>, <term>fièvre scarlatine</term>, <term>-->choléra</term>. Elles déciment les populations et portent le
+                     <p>On entend par <term>épidémies</term> des maladies qui se propagent par le contact avec les malades ou par l'infection de l'air et des eaux. Telles sont celles qui sont connues
+                        sous le nom de <term>fièvres typhoïdes</term>, <term>rougeole</term>, <term>fièvre scarlatine</term>, <term>choléra</term>. Elles déciment les populations et portent le
                         deuil dans les familles.</p>
-                     <p>Comme nous l'avons déjà fait connaître, les germes des épidémies existent principalement dans les eaux ; il est alors prudent de ne boire que de l’<term>-->eau bouillie</term>
-                        et conservée en vase clos, car l'ébullition détruit tous les organismes. On ne peut prévenir la contagion de cer-taines maladies, la rougeole par exemple, qu'en évitant tous
+                     <p>Comme nous l'avons déjà fait connaître, les germes des épidémies existent principalement dans les eaux ; il est alors prudent de ne boire que de l’<term>eau bouillie</term>
+                        et conservée en vase clos, car l'ébullition détruit tous les organismes. On ne peut prévenir la contagion de certaines maladies, la rougeole par exemple, qu'en évitant tous
                         rapports avec ceux qui en sont atteints, et en ne laissant sortir ces derniers qu'après la période durant laquelle ils peuvent communiquer le mal.</p>
-                     <p>La vapeur du soufre et l'acide phénique sont les principaux <term>désin-fectants</term>. Le premier fait périr les germes dans les vêtements, les étoffes et jusque dans la peau
+                     <p>La vapeur du soufre et l'acide phénique sont les principaux <term>désinfectants</term>. Le premier fait périr les germes dans les vêtements, les étoffes et jusque dans la peau
                         des personnes atteintes ; l'autre détruit les miasmes qui infectent une salle. On emploie le soufre en le faisant brûler sur un fourneau dans une chambre hermétiquement fermée,
                         où sont disposés les objets sur lesquels il faut opérer. L'acide phénique étendu d'eau, dans la proportion de dix à douze fois son volume, est répandu sur le carrelage ou le
                         parquet.</p>
@@ -936,7 +933,7 @@
                   <div4 type="questions">
                      <list type="exercices">
                         <item>— Qu'appelle-t-on eaux thermales et eaux minérales ?</item>
-                        <item>— Où sont, en <placeName type="réel"><country ref="france">France</country></placeName>, les principales sources de ces eaux ?</item>
+                        <item>— Où sont, en <placeName>France</placeName>, les principales sources de ces eaux ?</item>
                      </list>
                   </div4>
                   <div4 type="réponses">
@@ -945,11 +942,11 @@
                         <pb type="page" n="96" /> affections, telles que les <rs>rhumatismes</rs>, l'<term>anémie</term>, le <term>mal de gorge</term>, etc.</p>
                      <p>Si elles sortent de la terre à une température de beaucoup supérieure à celle de l'atmosphère, on les dit <term>thermales</term>. Quelques-unes atteignent 40, 50, et même 90
                         degrés.</p>
-                     <p>Il existe des sources d'eaux thermales et d'eaux simplement minéra-les à <settlement>Plombières</settlement>, à <settlement>Bussang</settlement>, à
-                        <settlement>Vichy</settlement>, à <settlement>Contrexéville</settlement>, au <settlement>mont Dore</settlement>, à la <settlement>Bourboule</settlement>,
-                        à <settlement>Royat</settlement>, à <settlement>Uriage</settlement>, à <settlement>Chaudesaigues</settlement>, à <settlement>Aix en Pro-vence</settlement>, à
-                        <settlement>Bourbonne-les-Bains</settlement>, à <settlement>Bagnères</settlement>, à <settlement>Barèges</settlement>, à <settlement>Aulus</settlement>,
-                        à <settlement>Enghien</settlement> près de Paris, à <settlement>Saint-Galmier</settlement>, etc.</p>
+                     <p>Il existe des sources d'eaux thermales et d'eaux simplement minérales à <placeName>Plombières</placeName>, à <placeName>Bussang</placeName>, à
+                        <placeName>Vichy</placeName>, à <placeName>Contrexéville</placeName>, au <placeName>mont Dore</placeName>, à la <placeName>Bourboule</placeName>,
+                        à <placeName>Royat</placeName>, à <placeName>Uriage</placeName>, à <placeName>Chaudesaigues</placeName>, à <placeName>Aix en Provence</placeName>, à
+                        <placeName>Bourbonne-les-Bains</placeName>, à <placeName>Bagnères</placeName>, à <placeName>Barèges</placeName>, à <placeName>Aulus</placeName>,
+                        à <placeName>Enghien</placeName> près de Paris, à <placeName>Saint-Galmier</placeName>, etc.</p>
                   </div4>
                </div3>
             </div2>
@@ -958,21 +955,21 @@
             <head type="chapitre">27. — L'aveu. (Élève, p. 65.)</head>
             <pb type="page" n="96" />
             <div2 type="récit">
-               <p>Elle suivit <persName type="fictif" key="mme_valon">Mme Valon</persName> que s'en allait, et, toute hon-teuse, les larmes aux yeux :</p>
+               <p>Elle suivit <persName type="fictif" key="mme_valon">Mme Valon</persName> que s'en allait, et, toute honteuse, les larmes aux yeux :</p>
                <p>— Ah ! Madame, dit-elle, pourquoi ne suis-je pas allée hier vous demander conseil ? Quelle chose terrible que l'ignorance ! J'ai un aveu *<gloss>Aveu. Action de dire ce qu'on a
                   fait de mal.</gloss> à vous faire.</p>
                <p>Elle conta toute son aventure avec la bohémienne, depuis l'aumône du morceau de pain et l'apparition de la chouette jusqu'à l'escroquerie *<gloss>Escroquerie. Action de prendre
                   ou d'obtenir quelque chose par tromperie.</gloss> des cinq francs et du foulard :</p>
                <p>— Et j'ai donné rendez-vous pour ce soir, à la brune, sous ces arbres.</p>
                <p>Elle montra l'endroit.</p>
-               <p> — Comment ! s'écria <persName type="fictif" key="mme_valon">Mme Valon</persName>, c'est vous, <persName type="fictif" key="suzette">Made-moiselle Suzette</persName>, qui, sans
+               <p> — Comment ! s'écria <persName type="fictif" key="mme_valon">Mme Valon</persName>, c'est vous, <persName type="fictif" key="suzette">Mademoiselle Suzette</persName>, qui, sans
                   compter la toile d'araignée et le cataplasme de pigeon, avez fait cela ! Vous, qui en êtes encore à ces folies, à ces sottises ! Hier, tu avais donc mis ton esprit sous tes
                   pieds ?</p>
                <p>— Je croyais mon frère bien malade, et cette chouette m'a tant épouvantée !</p>
                <p>— Oui, la peur est la mère de la superstition. Tu n'ignorais pourtant pas que la chouette a comme les autres oiseaux, un estomac à remplir, par conséquent une chasse quotidienne
                   *<gloss>Quotidien, diurne. Qui a lieu chaque jour, pendant le jour.</gloss> à faire. Cette chasse, elle la fait la nuit, ne voyant clair qu'à ce moment, et elle nous
-                  dé-barrasse des souris, des rats, des mulots et autres noctambules *<gloss>Noctambule. Celui qui circule ou travaille pendant la nuit.</gloss> pillards de grains et de
-                  semences. Les pauvres hiboux, petits et gros, sont des bienfaiteurs de l'agri-culture ; et ces braves gens dont, à cause de leur cécité * pendant le jour, tous les oiseaux
+                  débarrasse des souris, des rats, des mulots et autres noctambules *<gloss>Noctambule. Celui qui circule ou travaille pendant la nuit.</gloss> pillards de grains et de
+                  semences. Les pauvres hiboux, petits et gros, sont des bienfaiteurs de l'agriculture ; et ces braves gens dont, à cause de leur cécité * pendant le jour, tous les oiseaux
                   diurnes * se moquent, et qu'ils pourchassent à coups de bec, nous, nous en</p>
                <fw type="header">L"AVEU 97</fw>
                <pb type="page" n="97" />
@@ -995,7 +992,7 @@
                <p>— Cinq francs, un foulard perdus ! J'espère bien que ce soir tu iras lui porter tes bas, tes bottines, ta robe du dimanche, la fameuse robe vert-bouteille, et tout l'argent de
                   la maison !</p>
                <p>— Je n'irai pas, Madame.</p>
-               <p>Après une minute, <persName type="fictif" key="mme_valon">Mme Valon</persName> reprit, cette fois sé-rieusement :</p>
+               <p>Après une minute, <persName type="fictif" key="mme_valon">Mme Valon</persName> reprit, cette fois sérieusement :</p>
                <p>— Si, il faut y aller.</p>
                <p>— Ah ?</p>
                <p>— Oui, et sois sans crainte. Sous ces arbres là-bas, n'est-ce pas ? et à la brune, m’as-tu dit ?</p>
@@ -1012,7 +1009,8 @@
                      proposait de faire ?</item>
                   <item>— Que lui conta-t-elle ?</item>
                   <item>— Quelles observations lui furent adressées par madame l'institutrice ?</item>
-                  <item>— Que dit cette dernière sur la chouette et le hibou ? — Pour quelle raison <cb /> ces oiseaux chassent-ils leur proie durant la nuit ?</item>
+                  <item>— Que dit cette dernière sur la chouette et le hibou ?</item> 
+                  <item>— Pour quelle raison <cb /> ces oiseaux chassent-ils leur proie durant la nuit ?</item>
                   <item>— Quel était l'oiseau de la déesse Minerve ?</item>
                   <item>— Qu'ajouta <persName type="fictif" key="mme_valon">Mme Valon</persName> d'un ton ironique, au sujet de l'argent donné à la bohémienne et du foulard ?</item>
                   <item>— Quel conseil donna-t-elle finalement à la jeune fille ?</item>
@@ -1031,13 +1029,13 @@
                   </div4>
                   <div4 type="réponses" ana="#âme">
                      <p>Une enfant qui a commis une faute doit l'avouer soit à ses parents, soit à une amie, soit à son institutrice, pour qu'ils lui facilitent les moyens de la réparer. Elle
-                        éprouvera ainsi un véritable soulagement ; il lui sem-blera qu'un poids énorme lui a été enlevé sur le cœur ; elle se sentira plus digne d'estime. L'aveu des fautes, a
+                        éprouvera ainsi un véritable soulagement ; il lui semblera qu'un poids énorme lui a été enlevé sur le cœur ; elle se sentira plus digne d'estime. L'aveu des fautes, a
                         dit un sage, ne coûte guère à ceux qui ont le véritable désir de les réparer.</p>
                      <p>C'est d'ailleurs le meilleur parti à prendre. L'auteur d'une faute est tôt ou tard reconnu, et alors, à l'humiliation d'un aveu tardif, s'ajoute le sentiment de la
                         lâcheté qu'il y a à laisser soupçonner autrui.</p>
                      <p> Il peut arriver qu'à l'occasion d'une faute grave commise à l'école, et dont l'autour est inconnu, la maîtresse soit obligée d'en venir à infliger une punition
                         générale. Si la coupable n'est pas dépourvue de bons sentiments, elle doit aller demander la levée de la punition en se désignant pour la subir seule. Sans doute, elle
-                        sera l'objet d'une mesure sévère, mais du moins elle n'aura pas une bassesse à se repro-cher.</p>
+                        sera l'objet d'une mesure sévère, mais du moins elle n'aura pas une bassesse à se reprocher.</p>
                   </div4>
                </div3>
                <div3 type="sciences_naturelles">
@@ -1067,7 +1065,7 @@
                      <pb type="page" n="99" />
                      <p>tations qu'il sait se construire sur le bord des eaux. Tous rongent ce qui est à portée de leurs dents, et sont des ennemis redoutables pour l'homme.</p>
                      <p>Les chouettes, les hiboux et les autres oiseaux de nuit font une guerre acharnée à ces bêtes malfaisantes. Sans leur concours, il serait presque impossible de recueillir
-                        les fruits et les céréales. Aussi consi-dère-t-on comme une chose insensée que de pourchasser et de tuer ces utiles animaux ; le dernier degré de la stupidité est de
+                        les fruits et les céréales. Aussi considère-t-on comme une chose insensée que de pourchasser et de tuer ces utiles animaux ; le dernier degré de la stupidité est de
                         les clouer aux portes des granges comme on le fait dans les campagnes.</p>
                   </div4>
                </div3>
@@ -1081,7 +1079,7 @@
                   </div4>
                   <div4 type="réponses">
                      <p>Honteux se rattache à honte ; — terrible, à terreur ; — diurne, à jour ; — quotidien, à un mot latin qui veut dire chaque et à jour (dies) ; — voleur, à vol ; — clair, à
-                        clarté ; — intelligent, à intelli-gence.</p>
+                        clarté ; — intelligent, à intelligence.</p>
                      <p>A ignorance correspond l'adjectif ignorant ; — à aveu, avouable ; — à pain, pané ; — à folie, fou ; — à superstition, superstitieux ; — à peur, peureux ; — à peine,
                         pénible ; — à argent, argentin ; — à crainte, craintif.</p>
                   </div4>
@@ -1100,9 +1098,9 @@
                <p>Elle ricanait encore joyeusement ; sa bouche édentée *<gloss>Édenté. Privé de ses dents.</gloss> exhalait des vapeurs d'eau-de-vie :</p>
                <p> —Que m'apportes-tu, ma fille ? J'ai rudement travaillé pour toi ! J'ai passé toute la nuit et une bonne partie du jour en conjurations ; et cinq francs n'y font pas long feu
                   *<gloss>Faire long feu. Ne pas durer longtemps, ne pas produire d'effet.</gloss> ! L'enfant est de plus en plus menacé ; j'ai vu cela dans un foie *<gloss>Foie. Organ où se
-                     forme la bile.</gloss> de crapaud. Et le chat-huant, tu l'as en-tendu ce soir encore ? Ah ! il y aura beaucoup à faire ! Tu apportes de l'argent ?... Combien ?
+                     forme la bile.</gloss> de crapaud. Et le chat-huant, tu l'as entendu ce soir encore ? Ah ! il y aura beaucoup à faire ! Tu apportes de l'argent ?... Combien ?
                   voyons...</p>
-               <p>Elle s'était levée et, comme pour fouiller Suzette, avançait vers elle ses longs bras, lorsque brusquement une main s'abattit sur son épaule. C'était une forte</p>
+               <p>Elle s'était levée et, comme pour fouiller <persName type="fictif" key="suzette">Suzette</persName>, avançait vers elle ses longs bras, lorsque brusquement une main s'abattit sur son épaule. C'était une forte</p>
                <fw type="header">100 Suzette.</fw>
                <pb type="page" n="100" />
                <p>main qui la tint en place, quoique la bohémienne essayât de fuir.</p>
@@ -1114,10 +1112,10 @@
                </figure>
                <p>— Monsieur..... mon bon monsieur ! laissez-moi aller, je vous prie !</p>
                <p>Elle tremblait comme la feuille.</p>
-               <p>— Vous en aller ! Oui ! à la gendar-merie, où je vais vous conduire, comme une voleuse que vous êtes !</p>
+               <p>— Vous en aller ! Oui ! à la gendarmerie, où je vais vous conduire, comme une voleuse que vous êtes !</p>
                <p>La bohémienne essaya de lui baiser les mains :</p>
                <p>— Oh ! oh ! non, ne faites pas cela… je n'ai pas volé ; je ne vole pas ; les niais me donnent leur argent, et je le prends ; voilà tout.</p>
-               <p>Suzette intervint : </p>
+               <p><persName type="fictif" key="suzette">Suzette</persName> intervint : </p>
                <p>— Elle dit bien à peu près la vérité, sauf pour le foulard qu'elle m'a arraché du cou. Mais je lui en fais cadeau avec les cinq francs, que d'ailleurs elle a déjà dépensés au
                   cabaret. Il faut payer nos sottises.</p>
                <p>— Eh bien ! dit <persName type="fictif" key="m_valon">M. Valon</persName> en lâchant la bohémienne, allez vous faire pendre ailleurs, mais qu'on ne vous reprenne plus ici !</p>
@@ -1131,7 +1129,7 @@
                   <item>— Que savez-vous de <persName type="fictif" key="françois">François</persName> et de son nez ?</item>
                   <item>— Dans quelle disposition d'esprit <persName type="fictif" key="suzette">Suzette</persName> alla-t-elle au rendez-vous de la bohémienne ?</item>
                   <item>— Qu'aperçut-elle sur la margelle du vieux puits ?</item>
-                  <item>— Quels mensonges ridicules con-<cb />ta-t-elle à <persName type="fictif" key="suzette">Suzette</persName> ?</item>
+                  <item>— Quels mensonges ridicules con<cb />ta-t-elle à <persName type="fictif" key="suzette">Suzette</persName> ?</item>
                   <item>— Où avait-elle vu des présages de malheur ?,</item>
                   <item>— Qui survint au moment où elle allait fouiller <persName type="fictif" key="suzette">Suzette</persName> ?</item>
                   <item>— Reproduisez le dialogue qui eut lieu entre elle et monsieur l’instituteur.</item>
@@ -1152,9 +1150,9 @@
                   </div4>
                   <div4 type="réponses">
                      <p>Tout ce que nous possédons est le fruit de notre travail personnel ou de celui de nos ancêtres ; nous avons donc sur cette propriété des droits indiscutables, et la loi
-                        nous en garantit la jouissance. Le mal-faiteur qui nous l'enlève, commet un acte aussi injuste que s'il refusait de payer, à l'ouvrier qu'il a occupé, le salaire de sa
+                        nous en garantit la jouissance. Le malfaiteur qui nous l'enlève, commet un acte aussi injuste que s'il refusait de payer, à l'ouvrier qu'il a occupé, le salaire de sa
                         journée.</p>
-                     <p>Dérober ce qui est aux autres, c'est leur enlever les moyens de subvenir à leur existence et à l'entretien de leur famille ; c'est les em-pêcher de prendre dans leur
+                     <p>Dérober ce qui est aux autres, c'est leur enlever les moyens de subvenir à leur existence et à l'entretien de leur famille ; c'est les empêcher de prendre dans leur
                         vieillesse le repos nécessaire ; c'est leur interdire de soutenir ceux auxquels ils doivent l'existence ; c'est les mettre dans l'impossibilité d'exercer la
                         bienfaisance envers les pauvres et les abandonnés.</p>
                      <p>On s'approprie injustement le bien d'autrui de plusieurs manières : en le volant, en vendant avec tromperie sur la quantité ou la qualité de la marchandise, en
@@ -1163,8 +1161,8 @@
                      <p>Le <term>vol</term> est un acte qui a pour objet de s'approprier le bien d'autrui.</p>
                      <p>Il prend le nom de <term>maraude</term> s'il s'applique aux fruits des champs.</p>
                      <p>Une <term>escroquerie</term>, consiste à tirer de l'argent de quelqu'un au moyen d'une tromperie, d'un mensonge.</p>
-                     <p><term>Tromper</term>, sur la qualité de la matière vendue, c'est donner, par exem-ple, de la marchandise de seconde qualité comme si elle était de première ; c'est
-                        remettre des produits avariés à celui qui entend ache-ter quelque chose d'excellent.</p>
+                     <p><term>Tromper</term>, sur la qualité de la matière vendue, c'est donner, par exemple, de la marchandise de seconde qualité comme si elle était de première ; c'est
+                        remettre des produits avariés à celui qui entend acheter quelque chose d'excellent.</p>
                      <p>La loi punit sévèrement les voleurs. Selon la gravité de l'action, elle inflige au coupable une amende, la prison ou les travaux forcés.</p>
                      <p>Une domestique que sa maîtresse charge des acquisitions du marché, est une voleuse si elle fait, au retour, payer les denrées plus cher qu'elle ne les a achetées. Elle
                         est, en conscience, tenue à restitution ; de plus, elle s'expose à être déférée aux tribunaux.</p>
@@ -1189,11 +1187,11 @@
                      <fw type="sig">6.</fw>
                      <p>Ils forment comme l'armée du mal. La société leur oppose une autre armée choisie dans l'élite des défenseurs de la patrie. Les gendarmes, les sergents de ville ou
                         gardiens de la paix, tous anciens soldats, munis d'excellents états de service, ayant la plupart versé leur sang sur le champ de bataille, sont placés sous les ordres
-                        du ministre de la guerre ou de l'intérieur pour prêter main-forte à la justice et pré-venir les attaques des malfaiteurs. Au risque de leur vie, ils pour-suivent les
+                        du ministre de la guerre ou de l'intérieur pour prêter main-forte à la justice et prévenir les attaques des malfaiteurs. Au risque de leur vie, ils poursuivent les
                         voleurs et les assassins, les arrêtent, les conduisent dans les prisons d'où ils les amènent devant les juges.</p>
                      <p> C'est une tâche pénible et méritoire que celle remplie par le corps honorable de la gendarmerie et par les agents de police. Jour et nuit, ils veillent à la sûreté
                         publique au prix de dangers de toutes sortes ; à tout instant, ils exposent leur vie pour remplir leur ministère.</p>
-                     <p>Ceux qui les haïssent, les insultent ou les raillent ne sont pas dans la catégorie des honnêtes gens : un coquin, un mauvais sujet, un cri-minel se trahissent par la
+                     <p>Ceux qui les haïssent, les insultent ou les raillent ne sont pas dans la catégorie des honnêtes gens : un coquin, un mauvais sujet, un criminel se trahissent par la
                         haine qu'ils portent à ces hommes dévoués et désintéressés.</p>
                      <p>On a tort de faire des gendarmes des épouvantails pour les enfants. On apprend ainsi à ces derniers à craindre sans raison, à s'effrayer sans motif et à rougir quand la
                         conscience ne reproche rien.</p>
@@ -1206,30 +1204,30 @@
             <pb type="page" n="102" />
             <div2 type="récit">
                <p>Il y avait belle lurette *<gloss>Belle lurette. Lontemps.</gloss> que le nez de M. <persName type="fictif" key="françois">François</persName> était rendu à sa forme naturelle, à
-                  sa taille ordinaire, et que, grâce à l'emploi du fil de fer, l'éteignoir à chan-delle avait manœuvré sans accident. Il manœuvrerait peut-être encore, si <persName type="fictif"
+                  sa taille ordinaire, et que, grâce à l'emploi du fil de fer, l'éteignoir à chandelle avait manœuvré sans accident. Il manœuvrerait peut-être encore, si <persName type="fictif"
                      key="m_dumay">M. Dumay</persName>, en mettant enfin sous clef la boite aux outils et aux clous, n'eût arrêté toute cette mécanique.</p>
                <p>Mais des outils, il y en a plein la nature *<gloss>La nature. Ce qui nous entoure.</gloss> : les épines, les cailloux, les pierres, les os, le bois : voilà la matière et les
-                  premiers instruments du travail ; et comment, avec tout cela, empêcher un inventeur d'inventer ? François, maintenant, fabriquait des briquets, des porte-allumettes, des
+                  premiers instruments du travail ; et comment, avec tout cela, empêcher un inventeur d'inventer ? <persName type="fictif" key="françois">François</persName>, maintenant, fabriquait des briquets, des porte-allumettes, des
                   manches de couteaux.</p>
-               <p>Charlot, lui, prenait ses neuf ans et la tournure d'un garçon posé et gentil, faisant vraiment honneur à Suzette, très occupée de son éducation *<gloss>Education. Science aui a
+               <p><persName type="fictif" key="charlot">Charlot</persName>, lui, prenait ses neuf ans et la tournure d'un garçon posé et gentil, faisant vraiment honneur à <persName type="fictif" key="suzette">Suzette</persName>, très occupée de son éducation *<gloss>Education. Science qui a
                   pour objet de développer et de cultiver les facultés de l'enfant</gloss>.</p>
-               <p>Et le trio fraternel était reconstitué *<gloss>Reconstitué. Tel qu'il était auparavant.</gloss>, car Jacques, après trois ans d'études à l'école d'agriculture, venait
+               <p>Et le trio fraternel était reconstitué *<gloss>Reconstitué. Tel qu'il était auparavant.</gloss>, car <persName type="fictif" key="jacques">Jacques</persName>, après trois ans d'études à l'école d'agriculture, venait
                   précisément d'en sortir.</p>
-               <p>Presque aussi grand que le papa, auquel il res-semblait beaucoup, avec une grosse voix d'homme et des moustaches qui se voyaient sans lunettes, c'était <fw type="header">GRANDS
+               <p>Presque aussi grand que le papa, auquel il ressemblait beaucoup, avec une grosse voix d'homme et des moustaches qui se voyaient sans lunettes, c'était <fw type="header">GRANDS
                   PROJETS. 103</fw>
                   <pb type="page" n="103" /> un de ces grands frères qu'on a du plaisir à regarder. On ne s'en faisait pas faute, et le papa en était tout ému.</p>
                <p>Le jour de l'arrivée, il s'écria :</p>
                <p>— Enfin, enfin ! le voilà, mon fils ! il va m'aider !</p>
                <p>Il l'attendait impatiemment : le poids de sa tâche avait déjà courbé le dos et la force de l'excellent homme.</p>
-               <p>— Oui, cher père, dit Jacques en l'embrassant, me voilà avec des bras solides et quelques bonnes idées en tête !</p>
+               <p>— Oui, cher père, dit <persName type="fictif" key="jacques">Jacques</persName> en l'embrassant, me voilà avec des bras solides et quelques bonnes idées en tête !</p>
                <p>Il regarda autour de lui : le buffet, la table, les chaises, brillaient comme des bijoux. Du plafond, une jardinière *<gloss>Jardinière. Meuble d'ornement qui suppporte une
-                  caisse où l'on met des fleurs.</gloss> suspendue laissait tomber des traînées fleuries de gé-ranium-lierre ; un gros bouquet d'œillets, de roses, de réséda ornait le
+                  caisse où l'on met des fleurs.</gloss> suspendue laissait tomber des traînées fleuries de géranium-lierre ; un gros bouquet d'œillets, de roses, de réséda ornait le
                   manteau de la cheminée pour fêter son arrivée. Le couvert était mis sur une nappe blanc de neige, parfumée de muguet. Sur le poêle, la marmite exhalait de bonnes senteurs.</p>
-               <p>— Merci, Suzette, tout cela est bien joli, bien cordial *<gloss>Cordial. Qui vient du coeur.</gloss>. Ce que tu as fait si gentiment dans ton domaine, je le ferai dans le mien.
-                  Vous verrez, mon père, quelle belle cul-ture je vous apporte de l'école, le bon em-ploi des choses que nous gâchons *<gloss>Gâcher. Employer mal, ne pas tirer profit par
-                     maladresse ou négligence.</gloss> par ignorance, la création de ressources nou-velles, la sélection, c'est-à-dire le choix à faire des se-mences, des races de bétail, de la
+               <p>— Merci, <persName type="fictif" key="suzette">Suzette</persName>, tout cela est bien joli, bien cordial *<gloss>Cordial. Qui vient du cœur.</gloss>. Ce que tu as fait si gentiment dans ton domaine, je le ferai dans le mien.
+                  Vous verrez, mon père, quelle belle culture je vous apporte de l'école, le bon emploi des choses que nous gâchons *<gloss>Gâcher. Employer mal, ne pas tirer profit par
+                     maladresse ou négligence.</gloss> par ignorance, la création de ressources nouvelles, la sélection, c'est-à-dire le choix à faire des semences, des races de bétail, de la
                   volaille. Une basse-cour bien menée doit, à elle seule, suffire à l'entretien de la famille. Cette maison de nos pères est encore solide ; ils l'ont soigneusement bâtie ; nous
-                  y ajoute-rons des granges, des étables, pour continuer, en l'élargissant, l'œuvre commencée ; car le présent n'est que l'amélioration du passé.</p>
+                  y ajouterons des granges, des étables, pour continuer, en l'élargissant, l'œuvre commencée ; car le présent n'est que l'amélioration du passé.</p>
                <figure>
                   <caption><hi> L'étable. </hi> On doit traire les vaches immédiatement avant qu'elles aillent aux champs ou aussitôt après qu'elles en sont revenues ; on les trait deux fois par
                      jour en été et une fois en hiver.</caption>
@@ -1240,14 +1238,14 @@
             <div2 type="questionnaire">
                <head>Questionnaire.</head>
                <list>
-                  <item>— Qu’était-il advenu de François ?</item>
+                  <item>— Qu’était-il advenu de <persName type="fictif" key="françois">François</persName> ?</item>
                   <item>— Que transformait-il en outils, et quels outils fabriquait-il ?</item>
-                  <item>— Que devenait Charlot ?</item>
-                  <item>— Parlez du retour de Jacques et faites le portrait de ce jeune homme.</item>
+                  <item>— Que devenait <persName type="fictif" key="charlot">Charlot</persName> ?</item>
+                  <item>— Parlez du retour de <persName type="fictif" key="jacques">Jacques</persName> et faites le portrait de ce jeune homme.</item>
                   <item>— Pourquoi le père désirait-il le revoir à la ferme ?</item>
                   <item>— Quel<cb /> aspect gracieux présentait la chambre de famille ?</item>
                   <item>— Parlez des préparatifs du repas.</item>
-                  <item>— Quel compliment fit Jacques à sa sœur ?</item>
+                  <item>— Quel compliment fit <persName type="fictif" key="jacques">Jacques</persName> à sa sœur ?</item>
                   <item>— Quelles améliorations projetait-il pour la ferme ?</item>
                   <item>— Que doit être le présent pour les gens laborieux ?</item>
                </list>
@@ -1268,20 +1266,25 @@
                      <p>L'instruction nous fait acquérir les connaissances nécessaires pour que chacun puisse tirer parti de ses facultés ; elle contribue puissamment à former l'esprit et le
                         jugement ; elle facilite l'éducation de la conscience et du caractère.</p>
                      <p>A l'école, l'instruction se fonde sur la morale dont « Dieu est le dernier mot, comme la morale elle-même est la base de la vraie liberté et du vrai patriotisme. »
-                        (Franck, de l'Institut.) Elle comprend, outre la lecture et l'écriture, des notions sur les éléments de la langue maternelle, du calcul, de l'histoire nationale, de la
+                        (<persName type="historique">Franck</persName>, de l'Institut.) Elle comprend, outre la lecture et l'écriture, des notions sur les éléments de la langue maternelle, du calcul, de l'histoire nationale, de la
                         géographie et des sciences naturelles, dans leurs applications les plus utiles aux usages de l'industrie, de l'agriculture, de l'économie domestique et de l'hygiène. La
                         loi proscrit d'ajouter à ce programme, où rien n'est superflu, les premiers principes du dessin, du chant et de la gymnastique.</p>
                      <p>Chacune de ces diverses connaissances a un objet précis indiqué par le nom qu'on lui attribue, et toutes correspondent aux nécessités, aux obligations et aux devoirs de
                         la vie réelle chez une nation civilisée.</p>
                      <p> L'instruction doit être égale pour les enfants des deux sexes, en ce sens que chacun a le droit de connaître ce qui lui est rigoureusement utile, mais elle est
-                        différente dans ses détails. Comme le dit <persName>M. Legouvé</persName> : « Elle présente l'égalité dans la différence. »</p>
+                        différente dans ses détails. Comme le dit <persName type="historique">M. Legouvé</persName> : « Elle présente l'égalité dans la différence. »</p>
                      <p>On entend par éducation du cœur les directions, les conseils et les exemples qui font aimer aux enfants ce qui est bien, ce qui est bon, délicat et généreux. </p>
                      <p>Dans tous les temps, chez tous les peuples civilisés, on n'a jamais séparé l'instruction de l'éducation. Autrement, « l'instruction serait un mal pire que l'ignorance,
-                        parce qu'elle fait naître de nouveaux besoins sans fournir de moyens honnêtes pour les satisfaire. » (<persName>De Sandis</persName>, ministre de l'instruction publique
+                        parce qu'elle fait naître de nouveaux besoins sans fournir de moyens honnêtes pour les satisfaire. » (<persName type="historique">De Sandis</persName>, ministre de l'instruction publique
                         en Italie, 16 janvier 1875.)</p>
-                     <p>« Utile compagne des métiers et des professions de tout genre, « source de jouissances dans la solitude et d'agrément dans le com- « merce de la vie, l'instruction n'est
-                        ni la directrice de la conduite, « ni la régulatrice des mœurs ; elle est un secours, une parure, et, « par conséquent, elle peut servir au mal comme au bien, et
-                        couvrir « le vice comme la vertu. Si elle accroît la moralité humaine, elle ne « l'inspire pas ; mal dirigée, elle devient un danger. » (<persName>Vessiot</persName>,
+                     <p><l>« Utile compagne des métiers et des professions de tout genre, </l>
+                        <l>« source de jouissances dans la solitude et d'agrément dans le com- </l>
+                        <l>« merce de la vie, l'instruction n'est
+                        ni la directrice de la conduite, </l>
+                        <l>« ni la régulatrice des mœurs ; elle est un secours, une parure, et, </l>
+                        <l>« par conséquent, elle peut servir au mal comme au bien, et couvrir </l>
+                        <l>« le vice comme la vertu. Si elle accroît la moralité humaine, elle ne </l>
+                        <l>« l'inspire pas ; mal dirigée, elle devient un danger. »</l> (<persName type="historique">Vessiot</persName>,
                         inspecteur d'académie.) Donc, tout système d'instruction doit être fondé sur un enseignement moral : ainsi d'ailleurs l'a compris le gouvernement français dans la
                         rédaction des Programmes scolaires.</p>
                   </div4>
@@ -1359,14 +1362,14 @@
                         <pb type="page" n="106" /> trou par où passe un bâton terminé par une épaisse rondelle de bois. On élève et l'on abaisse rapidement ce bâton, dit bat-beurre, dans la
                         crème. Peu à peu le beurre apparaît et se réunit en grumeaux ; alors on le retire à la main ; on le pétrit et finalement on le lave à grande eau pour qu'il y reste le
                         moins possible de petit-lait. On obtient ainsi des pains auxquels on donne diverses formes à l'aide de moules en bois.</p>
-                     <p>Le meilleur beurre provient de la Normandie et de la Bretagne, parce qu'on y donne à la fabrication les soins qu'elle exige.</p>
+                     <p>Le meilleur beurre provient de la <placeName>Normandie</placeName> et de la <placeName>Bretagne</placeName>, parce qu'on y donne à la fabrication les soins qu'elle exige.</p>
                      <p>LE FROMAGE. — Le fromage est un aliment qui se fait avec du lait séparé de la crème et du petit-lait. Toutefois, lorsqu'on veut qu'il soit tendre et de bon goût,
                         on y laisse un peu de crème.</p>
                      <p>Pour faire le fromage, on introduit la matière tirée du lait, le caillé, dans un moule cylindrique en osier ; elle s'y égoutte et prend de la consistance. Ce produit,
                         connu sous le nom de fromage frais, peut être mangé. Si on fait égoutter plus longtemps le fromage, après l'avoir salé à diverses reprises et en le retournant tous les
                         jours, on obtient du fromage plus ferme et de longue conservation. Ceux qui contiennent de la crème deviennent, après ce traitement, onctueux comme du beurre ; tels
-                        sont les fromages de Brie, de Camembert, d'Epoisses, de Rollot, de Gérardmer, d'Auvergne, de Neufchâtel.</p>
-                     <p>Nous ne parlerons que pour mémoire des énormes fromages de Gruyère fabriqués dans le Jura et qui sont si appréciés, du roquefort à la pâte duquel on mêle des moisissures
+                        sont les fromages de <placeName>Brie</placeName>, de <placeName>Camembert</placeName>, d'<placeName>Epoisses</placeName>, de <placeName>Rollot</placeName>, de <placeName>Gérardmer</placeName>, d'<placeName>Auvergne</placeName>, de <placeName>Neufchâtel</placeName>.</p>
+                     <p>Nous ne parlerons que pour mémoire des énormes fromages de <placeName>Gruyère</placeName> fabriqués dans le <geogFeat type="montagne">Jura</geogFeat> et qui sont si appréciés, du roquefort à la pâte duquel on mêle des moisissures
                         pour qu'il présente des marbrures. Ce dernier est d'un prix élevé et il est très recherché des amateurs.</p>
                   </div4>
                </div3>
@@ -1374,35 +1377,32 @@
          </div1>
          <div1 type="chapitre" xml:lang="fr" n="ch030">
             <pb type="page" n="106" />
-            <head>30. — Vive le blé de <placeName type="réel"><country ref="france">France</country></placeName> ! (Élève, p. 71.)</head>
+            <head>30. — Vive le blé de <placeName>France</placeName> ! (Élève, p. 71.)</head>
             <div2 type="récit">
                <p>Pendant les trois jours qui suivirent, le père, <persName type="fictif" key="jacques">Jacques</persName>, <persName type="fictif" key="suzette">Suzette</persName>, ne
-                  s’entretinrent que de beaux et bons tra- vaux à faire. <persName type="fictif" key="jacques">Jacques</persName> voulait être renseigné sur la situation exacte du petit bien,
+                  s’entretinrent que de beaux et bons travaux à faire. <persName type="fictif" key="jacques">Jacques</persName> voulait être renseigné sur la situation exacte du petit bien,
                   sur ses charges*<gloss>Des Charges. Les dépenses qu'on est obligé de faire.</gloss>, ses ressources*<gloss>Ressources. Argent, choses à vendre avec quoi l'on peut solder ses
                      dépenses.</gloss>.</p>
-               <p>Il le parcourut en compagnie du père, qui acceptait parfaitement l’idée d'en doubler le rapport, mais sans changer grand'chose au train ordinaire et en rechi-
-                  gnant*<gloss>Rechigner. Témoigner de la répugnance avec mauvaise humeur.</gloss> un peu aux innovations*<gloss>Innovation. Pratique nouvelle qu'on introduit dans sa manière
+               <p>Il le parcourut en compagnie du père, qui acceptait parfaitement l’idée d'en doubler le rapport, mais sans changer grand'chose au train ordinaire et en rechignant*<gloss>Rechigner. Témoigner de la répugnance avec mauvaise humeur.</gloss> un peu aux innovations*<gloss>Innovation. Pratique nouvelle qu'on introduit dans sa manière
                      habituelle de faire une chose.</gloss>, comme font d'ordinaire les gens ancrés*<gloss>Ancré. S'affermir obstinément dans un procédé routinier, dans une habitude.</gloss>
                   dans leurs habitudes.</p>
-               <p>— Nous aurons beau faire, disait-il, le blé du vieux sol d'<placeName type="réel"><bloc ref="europe">Europe</bloc></placeName>, fatigué par tant de récoltes, ne peut pas lutter
-                  contre le blé d'<placeName type="réel"><country ref="états-unis">Amérique</country></placeName>, qui pousse là-bas presque sans travail dans des terres toutes neuves. La
+               <p>— Nous aurons beau faire, disait-il, le blé du vieux sol d'<placeName>Europe</placeName>, fatigué par tant de récoltes, ne peut pas lutter
+                  contre le blé d'<placeName>Amérique</placeName>, qui pousse là-bas presque sans travail dans des terres toutes neuves. La
                   semaine dernière, ta sœur me lisait dans un livre qu'en ce pays, il y a d'immenses espaces encore à défricher. Un seul Américain en possède des milliers d'hectares. A l’au- <pb
                      type="page" n="107" />
                   <fw>VIVE LE BLÉ DE FRANCE ! 107</fw> tomne, il transporte dans ces solitudes une population d'ouvriers à peupler une ville ; ceux-ci lancent des charrues à vapeur qui remuent
-                  le sol ; puis, la terre à peine retournée, on l'ensemence. Ce- la fait, on lui dit adieu ; on l'aban- donne au hasard des chardons, de l'ivraie*<gloss>Ivraie. Mauvaise herbe
-                     qui croit parmi les blés.</gloss>, des trou- peaux de bisons, à  l’aventure des pluies et des sécheresses. On revient à l'heure de la récolte. Elle ne donne que le plus
+                  le sol ; puis, la terre à peine retournée, on l'ensemence. Cela fait, on lui dit adieu ; on l'abandonne au hasard des chardons, de l'ivraie*<gloss>Ivraie. Mauvaise herbe
+                     qui croit parmi les blés.</gloss>, des troupeaux de bisons, à  l’aventure des pluies et des sécheresses. On revient à l'heure de la récolte. Elle ne donne que le plus
                   faible rendement de nos plus mauvaises terres ; mais c'est un blé qui, n'ayant presque rien coûté, écrase le nôtre sur nos marchés.</p>
                <p> — Et c'est de la culture, cela ! s'écria <persName type="fictif" key="jacques">Jacques</persName> avec mépris.</p>
                <p>— Non ; mais c'est une culture qui tue la nôtre.</p>
-               <p>— Parce que la nôtre se laisse tuer, se décou- rage au lieu de lutter par les soins, la science, les méthodes *<gloss>Méthode. Procédés de culture.</gloss> nouvelles qui, ap-
-                  pliquées à notre merveilleuse terre, la rendraient sans rivale. Et je veux vous entendre crier bientôt : Vive le blé de <placeName type="réel"><country ref="france"
-                     >France</country></placeName> !</p>
+               <p>— Parce que la nôtre se laisse tuer, se décourage au lieu de lutter par les soins, la science, les méthodes *<gloss>Méthode. Procédés de culture.</gloss> nouvelles qui, appliquées à notre merveilleuse terre, la rendraient sans rivale. Et je veux vous entendre crier bientôt : Vive le blé de <placeName>France</placeName> !</p>
                <figure>
                   <caption>Blé, seigle, orge, avoine. Le blé, l'orge et le seigle servent à faire le pain ; l'avoine est la principale nourriture des chevaux. L'orge entre également dans la
                      fabrication de la bière. La paille de ces céréales est employée à différents usages : nourriture et litière des chevaux, paillasses, etc.</caption>
                </figure>
                <figure>
-                  <caption>Le bison. Cet animal sauvage, de la taille d’un bœuf, vit en <placeName type="réel"><country ref="états-unis">Amérique</country></placeName>, où il est l'objet d'une
+                  <caption>Le bison. Cet animal sauvage, de la taille d’un bœuf, vit en <placeName>Amérique</placeName>, où il est l'objet d'une
                      chasse opiniâtre.</caption>
                </figure>
             </div2>
@@ -1415,10 +1415,8 @@
                   <item>— Quelle était l'opinion de <persName type="fictif" key="m_dumay">M. Dumay</persName> sur les améliorations proposées par <persName type="fictif" key="jacques"
                      >Jacques</persName> ? </item>
                   <item>— Quelles objections faisait-il sur la culture du blé ? </item>
-                  <item>— <persName type="fictif" key="suzette">Suzette</persName> n'avait-elle pas lu quelques détails sur la semaille et la récolte du blé en <placeName type="réel"><country
-                     ref="états-unis">Amérique</country></placeName> (<placeName type="réel"><country ref="états-unis">États-Unis</country></placeName>) ? </item>
-                  <item>— A quoi <persName type="fictif" key="jacques">Jacques</persName> attribuait-il l'infériorité de la production du blé en <placeName type="réel"><country ref="france"
-                     >France</country></placeName> ? </item>
+                  <item>— <persName type="fictif" key="suzette">Suzette</persName> n'avait-elle pas lu quelques détails sur la semaille et la récolte du blé en <placeName>Amérique</placeName> (<placeName>États-Unis</placeName>) ? </item>
+                  <item>— A quoi <persName type="fictif" key="jacques">Jacques</persName> attribuait-il l'infériorité de la production du blé en <placeName>France</placeName> ? </item>
                </list>
             </div2>
             <div2 type="exercices">
@@ -1427,44 +1425,37 @@
                   <head type="sujets">Géographie.</head>
                   <div4 type="questions">
                      <list>
-                        <item>— Qu'est-ce que l'<placeName type="réel"><country ref="états-unis">Amérique</country></placeName> ?</item>
+                        <item>— Qu'est-ce que l'<placeName>Amérique</placeName> ?</item>
                         <item>— En tracer le croquis.</item>
                         <item>— Racontez comment elle fut découverte.</item>
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>L'<placeName type="réel"><country ref="états-unis">Amérique</country></placeName> est un immense continent situé à l'ouest de l'<placeName type="réel"><bloc ref="europe"
-                        >Europe</bloc></placeName>, de l'autre côté de l'<placeName type="réel"><geogFeat type="océan" ref="atlantique">Atlantique</geogFeat></placeName>. Il se divise
-                        en deux régions : l'<placeName type="réel"><bloc ref="amérique_nord">Amérique</bloc> septentrionale</placeName> et l'<placeName type="réel"><bloc ref="amérique_sud"
-                           >Amérique méridionale</bloc></placeName>, réunies par <placeName type="réel"><geogFeat type="isthme">l'isthme</geogFeat></placeName> de <placeName type="réel"
-                              ><country ref="panama">Panama</country></placeName>, à travers lequel <persName type="historique">M. de Lesseps</persName> a entrepris de creuser un canal pour
-                        le passage des navires, comme il l'a déjà fait pour <placeName type="réel"><geogFeat type="isthme">l'isthme de Suez</geogFeat></placeName>.</p>
-                     <p> L'État le plus important de cette partie du monde sont les <placeName type="réel"><country ref="états-unis">États-Unis</country></placeName>, qui comptent environ
-                        soixante millions d'habitants ; on désigne parfois cette contrée sous le nom d'<placeName type="réel"><country ref="états-unis">Amérique</country></placeName>, comme on
+                     <p>L'<placeName>Amérique</placeName> est un immense continent situé à l'ouest de l'<placeName>Europe</placeName>, de l'autre côté de l'<placeName><geogFeat type="océan" ref="atlantique">Atlantique</geogFeat></placeName>. Il se divise
+                        en deux régions : l'<placeName>Amérique septentrionale</placeName> et l'<placeName>Amérique méridionale</placeName>, réunies par <placeName><geogFeat type="isthme">l'isthme</geogFeat></placeName> de <placeName>Panama</placeName>, à travers lequel <persName type="historique">M. de Lesseps</persName> a entrepris de creuser un canal pour
+                        le passage des navires, comme il l'a déjà fait pour <placeName><geogFeat type="isthme">l'isthme de Suez</geogFeat></placeName>.</p>
+                     <p> L'État le plus important de cette partie du monde sont les <placeName>États-Unis</placeName>, qui comptent environ
+                        soixante millions d'habitants ; on désigne parfois cette contrée sous le nom d'<placeName>Amérique</placeName>, comme on
                         l'a fait dans cette leçon, en parlant du blé.</p>
-                     <p><placeName type="réel"><bloc ref="amérique_nord">Le continent américain</bloc></placeName> fut découvert par <persName type="historique">Christophe Colomb</persName>,
-                        navigateur génois né à <placeName type="réel"><settlement ref="calvi">Calvi</settlement></placeName>, en <placeName type="réel">Corse</placeName> (1440-1505). Plusieurs
-                        voyages et l'étude des cartes géographiques lui inspirèrent l'idée que la terre est ronde, et que l’on pouvait arriver aux <placeName type="réel"><country ref="indes"
-                           >Indes</country></placeName> en faisant voile vers l'ouest. Dès lors, il n'eut plus pour pensée que de faire ce voyage, et il sollicita de toutes parts les
+                     <p><placeName>Le continent américain</placeName> fut découvert par <persName type="historique">Christophe Colomb</persName>,
+                        navigateur génois né à <placeName>Calvi</placeName>, en <placeName>Corse</placeName> (1440-1505). Plusieurs
+                        voyages et l'étude des cartes géographiques lui inspirèrent l'idée que la terre est ronde, et que l’on pouvait arriver aux <placeName>Indes</placeName> en faisant voile vers l'ouest. Dès lors, il n'eut plus pour pensée que de faire ce voyage, et il sollicita de toutes parts les
                         moyens de l'accomplir. Son courage fut égal à la force de son esprit, car il eut à combattre tous les préjugés. Gênes le traita de visionnaire, <persName
-                           type="historique">Henri VII</persName>, roi d'<placeName type="réel"><country ref="angleterre">Angleterre</country></placeName>, n'écouta pas le frère de <persName
-                              type="historique">Colomb</persName>; lui-même essuya un refus de <persName type="historique">Jean II</persName>, roi de <placeName type="réel"><country
-                                 ref="portugal">Portugal</country></placeName>. Il ne pouvait s'adresser à la <placeName type="réel"><country ref="france">France</country></placeName>, dont la
-                        marine était toujours négligée. L'empereur d'<placeName type="réel"><country ref="allemagne">Allemagne</country></placeName> n'avait ni flotte, ni ports, ni argent.
-                        <persName type="historique">Colomb</persName> n'espéra qu'en la cour d'<placeName type="réel"><country ref="espagne">Espagne</country></placeName>. Après huit ans
+                           type="historique">Henri VII</persName>, roi d'<placeName>Angleterre</placeName>, n'écouta pas le frère de <persName
+                              type="historique">Colomb</persName> ; lui-même essuya un refus de <persName type="historique">Jean II</persName>, roi de <placeName>Portugal</placeName>. Il ne pouvait s'adresser à la <placeName>France</placeName>, dont la
+                        marine était toujours négligée. L'empereur d'<placeName>Allemagne</placeName> n'avait ni flotte, ni ports, ni argent.
+                        <persName type="historique">Colomb</persName> n'espéra qu'en la cour d'<placeName>Espagne</placeName>. Après huit ans
                         de sollicitations, la reine <persName type="historique">Isabelle</persName> et le roi <persName type="historique">Ferdinand</persName> consentiront à  lui prêter leur
-                        appui ; mais la cour d'<placeName type="réel"><country ref="espagne">Espagne</country></placeName> était pauvre ; il fallut que le prieur <persName type="historique"
+                        appui ; mais la cour d'<placeName>Espagne</placeName> était pauvre ; il fallut que le prieur <persName type="historique"
                            >Pérez</persName> et deux négociants, nommés <persName type="historique">Penzone</persName>, avançassent 17,000 ducats pour faire l'armement. <persName
-                              type="historique">Colomb</persName> partit enfin de <placeName type="réel"><settlement ref="palos">Palos</settlement></placeName>, en  <placeName type="réel"
-                                 ><region type="province" ref="andalousie">Andalousie</region></placeName>, avec trois petits vaisseaux dont un seul était ponté, le 3 août 1492. Trois mois
-                        après, le 12 octobre, il découvrit la première terre de l'<placeName type="réel"><country ref="états-unis">Amérique</country></placeName> : c'était l'une des îles du
-                        groupe des <placeName ref="réel"><region type="province" ref="lucayes">Lucayes</region></placeName>, ap- pelée Guanahain par les indigènes ; <persName
-                           type="historique">Colomb</persName> lui donna le nom de <placeName type="réel"><settlement ref="san_salvador">San- Salvador</settlement></placeName>. Il visita
-                        ensuite les autres îles <placeName type="réel"><region type="province" ref="lucayes">Lucayes</region></placeName>, puis il découvrit <placeName type="réel"><country
-                           ref="cuba">Cuba</country></placeName> et <placeName type="réel"><country ref="haïti">Haïti</country></placeName>, que les <orgName>Espagnols</orgName>
+                              type="historique">Colomb</persName> partit enfin de <placeName>Palos</placeName>, en  <placeName>Andalousie</placeName>, avec trois petits vaisseaux dont un seul était ponté, le 3 août 1492. Trois mois
+                        après, le 12 octobre, il découvrit la première terre de l'<placeName>Amérique</placeName> : c'était l'une des îles du
+                        groupe des <placeName>Lucayes</placeName>, appelée Guanahain par les indigènes ; <persName
+                           type="historique">Colomb</persName> lui donna le nom de <placeName>San-Salvador</placeName>. Il visita
+                        ensuite les autres îles <placeName>Lucayes</placeName>, puis il découvrit <placeName>Cuba</placeName> et <placeName>Haïti</placeName>, que les <orgName>Espagnols</orgName>
                         appelèrent plus tard Saint-Domingue.</p>
-                     <p> C’est une erreur de penser que le nom d'<placeName type="réel"><bloc ref="amérique_nord">Amérique</bloc></placeName> vient d'<persName type="historique">Albertino
-                        Vespucci</persName>, navigateur <orgName>italien</orgName> ; les indigènes de ce continent le dési- gnaient sous ce nom même dès la première période de
+                     <p> C’est une erreur de penser que le nom d'<placeName>Amérique</placeName> vient d'<persName type="historique">Albertino
+                        Vespucci</persName>, navigateur <orgName>italien</orgName> ; les indigènes de ce continent le désignaient sous ce nom même dès la première période de
                         l'arrivée des <orgName>Européens</orgName>.</p>
                   </div4>
                </div3>
@@ -1540,7 +1531,7 @@
                         levain, pâte de la veille déjà aigrie, ou de la levure de bière. Ce mélange détermine la fermentation, c'est-à-dire la production de gaz qui font gonfler la pâte et y
                         forment un grand nombre de cavités auxquelles le pain doit sa légèreté et une cuisson plus  parfaite.</p>
                      <p>La pâte est ensuite divisée en morceaux de poids égaux ou différents qu'on façonne en pains de toutes formes. Pendant cette opération, le four a été chauffé et, après
-                        l'avoir débarrassé des cendres et des char- bons, on y introduit les pains au moyen d'une large pelle ; leur surface subit immédiatement l'action de la chaleur, se
+                        l'avoir débarrassé des cendres et des charbons, on y introduit les pains au moyen d'une large pelle ; leur surface subit immédiatement l'action de la chaleur, se
                         durcit et prend une belle couleur brune ou blonde ; l'intérieur, de moindre consistance, reste blanc : c'est la mie, qui est criblée de trous.</p>
                      <p>La farine sert encore à confectionner les gâteaux et à préparer les  sauces et les liaisons. </p>
                      <p>On emploie le son pour la nourriture des volailles, des bêtes de <fw type="footer">SUZETTE (Maîtresse). <fw type="sig">7</fw></fw>
