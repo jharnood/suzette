@@ -76,10 +76,10 @@
          <div1 type="chapitre" xml:lang="fr" n="ch061">
             <head>61. — Un baobab. (Élève, p. 132.)</head>
             <div2 type="récit">
-               <p>— Après des jours et des jours, nous entrâmes enfin en terre moins ennemie, non loin du fleuve <geogFeat type="fleuve" ref="zambèze">Zambèze</geogFeat>. Et là nous attendait une
+               <p>— Après des jours et des jours, nous entrâmes enfin en terre moins ennemie, non loin du fleuve <placeName><geogFeat type="fleuve" ref="zambèze">Zambèze</geogFeat></placeName>. Et là nous attendait une
                   découverte bien touchante, celle du monument funèbre d'une femme aussi célèbre par son courage que par son nom.</p>
                <p>Ce monument était un baobab, arbre merveilleux qui atteint vingt à trente mètres de circonférence, quoique sa taille ne dépasse guère sept mètres.</p>
-               <p>Sur le tronc, et à hauteur d'homme, était gravé le nom de <persName type="historique">Mme LIVINGSTONE.</persName></p>
+               <p>Sur le tronc, et à hauteur d'homme, était gravé le nom de <l><persName type="historique">Mme LIVINGSTONE.</persName></l></p>
                <p>La femme du grand explorateur l'avait accompagné jusque-là, à travers toutes les fatigues, tous les périls. — Par beau courage, par dévouement à l'humanité comme lui ! dit
                   <persName type="fictif" key="suzette">Suzette</persName> avec admiration.</p>
                <p>— Oui, et elle était morte à cette place. <persName type="historique">Livingstone</persName> la mit en terre au pied de ce baobab qui portera loin dans le temps le nom de cette
@@ -91,26 +91,24 @@
                   suite de fatigue. </gloss>, maigris de dix ou douze kilos ; te souviens-tu de ma mine d'affamé, <persName type="fictif" key="sylvain">Sylvain</persName> ?</p>
                <p>— Oui, <persName type="fictif" key="pascal">Pascal</persName>, répondit <persName type="fictif" key="sylvain">Sylvain</persName>, qui écoutait avec autant d'attention que les
                   autres.</p>
-               <p>— Enfin nous voilà en vue de hattes de bambous groupées au fond d'une verte vallée bordée de champs de manioc*<gloss> Manioc. Arbrisseau dont la racine donne le tapioca.
+               <p>— Enfin nous voilà en vue de huttes de bambous groupées au fond d'une verte vallée bordée de champs de manioc*<gloss> Manioc. Arbrisseau dont la racine donne le tapioca.
                </gloss>, de sorgho, de blé.</p>
-               <p>C'est dans ce pays que nous changeâmes de caravane. Celle-là allait à <placeName type="réel"><bloc ref="afrique"><country ref="mali"><settlement ref="tombouctou"
-                  >Tombouctou</settlement></country></bloc></placeName>. Vous plaît-il que je vous y mène ?</p>
+               <p>C'est dans ce pays que nous changeâmes de caravane. Celle-là allait à <placeName>Tombouctou</placeName>. Vous plaît-il que je vous y mène ?</p>
                <p>— Nous vous en prions, Monsieur, dit <persName type="fictif" key="suzette">Suzette.</persName> J'ai lu que c'est une grande et magnifique ville située aux confins du <placeName
-                  type="réel"><bloc ref="afrique">Soudan</bloc></placeName>*<gloss> Soudan. Région très chaude de l'<placeName type="réel"><bloc ref="afrique">Afrique</bloc></placeName> au
-                     S. du désert de <geogFeat type="désert" ref="sahara">Sahara</geogFeat>. </gloss>, toute pleine de monuments, et d'ivoire, et de poudre d'or.</p>
+                  type="réel">Soudan</placeName>*<gloss> Soudan. Région très chaude de l'<placeName>Afrique</placeName> au
+                     S. du désert de <placeName><geogFeat type="désert" ref="sahara">Sahara</geogFeat></placeName>. </gloss>, toute pleine de monuments, et d'ivoire, et de poudre d'or.</p>
             </div2>
             <div2 type="questionnaire">
                <head>Questionnaire.</head>
                <list>
-                  <item>— Quelle découverte firent nos explorateurs dans la région du <geogFeat type="fleuve" ref="zambèze">Zambèze</geogFeat> ? </item>
+                  <item>— Quelle découverte firent nos explorateurs dans la région du <placeName><geogFeat type="fleuve" ref="zambèze">Zambèze</geogFeat></placeName> ? </item>
                   <item>— En quoi consistait le monument funèbre de <persName type="historique">Mme Livingstone</persName> ? </item>
                   <item>— Que savez-vous de cette femme dévouée ? </item>
                   <item>— Que fit son mari lorsqu'elle fut morte ? </item>
                   <item>— Que raconta <persName type="fictif" key="pascal">Pascal</persName> des épreuves du voyage ?</item>
                   <item>— Où finirent-ils par arriver ? </item>
                   <item>— Quelle direction prirent-ils dès lors ? </item>
-                  <item>— Qu'avait lu <persName type="fictif" key="suzette">Suzette</persName> relativement à <placeName type="réel"><bloc ref="afrique"><country ref="mali"><settlement
-                     ref="tombouctou">Tombouctou</settlement></country></bloc></placeName> ?</item>
+                  <item>— Qu'avait lu <persName type="fictif" key="suzette">Suzette</persName> relativement à <placeName>Tombouctou</placeName> ?</item>
                </list>
             </div2>
             <div2 type="exercices">
@@ -128,7 +126,7 @@
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>On entend par explorateur un homme instruit et courageux qui parcourt les régions les moins connues et les moins civilisées du globe, afin d'en faire connaître les
+                     <p>On entend par <term>explorateur</term> un homme instruit et courageux qui parcourt les régions les moins connues et les moins civilisées du globe, afin d'en faire connaître les
                         peuples, les produits, le sol et les curiosités de toute sorte.</p>
                      <p>Il se propose un but à la fois humanitaire et intéressé, car tous ses efforts tendent à initier ces peuples aux bienfaits de la civilisation et à provoquer des échanges
                         au commun profit des acheteurs et des vendeurs.</p>
@@ -144,9 +142,8 @@
                      <p><persName type="historique">Mme Livingstone</persName>, en secondant son mari dans sa double tâche de missionnaire et d'explorateur, a montré non seulement une grande
                         tendresse conjugale, mais un courage et un dévouement qui méritent tous nos hommages.</p>
                      <p>Une Française, <persName type="historique">Mme d'Ujfalvy</persName>, et deux Anglaises, Mmes <persName type="historique">Blount</persName> et <persName type="historique"
-                        >Baxer</persName>, l'ont récemment imitée. Une Autrichienne, Mme <persName type="historique">Ida Pfeiffer</persName>, a fait davantage ; elle a entrepris seule
-                        plusieurs voyages dans les régions les moins connues de l'<placeName type="réel"><bloc ref="afrique">Afrique</bloc></placeName>, de l'<placeName type="réel"><bloc
-                           ref="asie">Asie</bloc></placeName> et de l'<placeName type="réel"><bloc ref="océanie">Océanie</bloc></placeName>.</p>
+                        >Baker</persName>, l'ont récemment imitée. Une Autrichienne, Mme <persName type="historique">Ida Pfeiffer</persName>, a fait davantage ; elle a entrepris seule
+                        plusieurs voyages dans les régions les moins connues de l'<placeName>Afrique</placeName>, de l'<placeName>Asie</placeName> et de l'<placeName>Océanie</placeName>.</p>
                   </div4>
                </div3>
                <div3 type="sciences_naturelles">
@@ -156,16 +153,15 @@
                         <item>— LE BAOBAB.</item>
                         <item>— Décrire cet arbre colossal ; parler de l'age des plus gros de ces arbres.</item>
                         <item>— Où les trouve-t-on ? </item>
-                        <item>— Détails sur le sapin de la <placeName type="réel"><bloc ref="amérique_nord"><country ref="états-unis">Californie</country></bloc></placeName>.</item>
+                        <item>— Détails sur le sapin de la <placeName>Californie</placeName>.</item>
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>Le baobab est peut-être le plus gros des arbres ; sa tige, qui n'a guère que 7 à 8 mètres de hauteur, mesure de 30 à 40 mètres de circonférence chez les sujets les plus
+                     <p><term>Le baobab</term> est peut-être le plus gros des arbres ; sa tige, qui n'a guère que 7 à 8 mètres de hauteur, mesure de 30 à 40 mètres de circonférence chez les sujets les plus
                         vieux, auxquels on attribue près de six mille ans. Ce gigantesque végétal porte de longues branches horizontales qui lui donnent, au loin, l'aspect d'un dôme de verdure
-                        ; il ne croît qu'en <placeName type="réel"><bloc ref="afrique">Afrique</bloc></placeName>.</p>
-                     <p>Certains sapins de la <placeName type="réel"><bloc ref="amérique_nord"><country ref="états-unis">Californie</country></bloc></placeName> et des districts orientaux de
-                        l'Amérique anglaise atteignent des dimensions encore plus étonnantes. Il en existe qui mesurent jusqu'à 140 mètres de hauteur sur 30 à 40 mètres de tour. En <placeName
-                           type="réel"><bloc ref="océanie"><country ref="australie">Australie</country></bloc></placeName>, on voit des eucalyptus de 160 à 170 mè- tres de hauteur. Ces
+                        ; il ne croît qu'en <placeName>Afrique</placeName>.</p>
+                     <p>Certains <term>sapins</term> de la <placeName>Californie</placeName> et des districts orientaux de
+                        l'Amérique anglaise atteignent des dimensions encore plus étonnantes. Il en existe qui mesurent jusqu'à 140 mètres de hauteur sur 30 à 40 mètres de tour. En <placeName>Australie</placeName>, on voit des eucalyptus de 160 à 170 mètres de hauteur. Ces
                         merveilles de la végétation datent au moins de cinquante siècles ; on l'a constaté en comptant les couches des troncs d'arbres abattus.</p>
                   </div4>
                   <div4 type="questions">
@@ -177,10 +173,10 @@
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>Le manioc, arbrisseau des contrées les plus chaudes de l'<placeName type="réel"><bloc ref="amérique_sud">Amérique</bloc></placeName>, a une racine volumineuse contenant,
+                     <p><term>Le manioc</term>, arbrisseau des contrées les plus chaudes de l'<placeName>Amérique</placeName>, a une racine volumineuse contenant,
                         avec un principe vénéneux qui se détruit par le feu ou la fermentation, une grande quantité de fécule. Cette racine, râpée, pressée et séchée, donne la farine de
                         manioc, qui est un aliment de grande valeur nutritive.</p>
-                     <p>Le tapioca est cette même fécule séchée sur des plaques chaudes, cuite et agglutinée en grumeaux irréguliers. Elle remplace le pain pour les potages et elle entre de
+                     <p><term>Le tapioca</term> est cette même fécule séchée sur des plaques chaudes, cuite et agglutinée en grumeaux irréguliers. Elle remplace le pain pour les potages et elle entre de
                         plus en plus dans la consommation ordinaire.</p>
                   </div4>
                   <div4 type="questions">
@@ -192,21 +188,18 @@
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>Le sorgho, originaire de la <placeName type="réel"><bloc ref="asie"><country ref="chine">Chine</country></bloc></placeName>, est une graminée dont une des variétés
-                        produit le millet. On le cultive dans le centre et dans le midi de la <placeName type="réel"><bloc ref="europe"><country ref="france"
-                           >France</country></bloc></placeName> pour ses feuilles qui donnent un fourrage estimé. Quelques peuplades d'<placeName type="réel"><bloc ref="afrique"
-                              >Afrique</bloc></placeName> fabriquent une espèce de bière avec le grain du sorgho.</p>
+                     <p><term>Le sorgho</term>, originaire de la <placeName>Chine</placeName>, est une graminée dont une des variétés
+                        produit le millet. On le cultive dans le centre et dans le midi de la <placeName>France</placeName> pour ses feuilles qui donnent un fourrage estimé. Quelques peuplades d'<placeName>Afrique</placeName> fabriquent une espèce de bière avec le grain du sorgho.</p>
                   </div4>
                </div3>
                <div3 type="géographie" subtype="afrique">
                   <head type="sujets">Géographie.</head>
                   <div4 type="questions">
                      <list>
-                        <item> — Dessiner la côte d'<placeName type="réel"><bloc ref="afrique">Afrique</bloc></placeName> de l'embouchure du <geogFeat type="fleuve" ref="sénégal"
-                           >Sénégal</geogFeat> à notre colonie du <placeName type="réel"><bloc ref="afrique"><country ref="gabon">Gabon</country></bloc></placeName>.</item>
-                        <item>— Figurer le cours du <geogFeat type="fleuve" ref="sénégal">Sénégal</geogFeat> et celui du <geogFeat type="fleuve" ref="niger">Niger</geogFeat>.</item>
-                        <item>— Indiquer l'emplacement de <placeName type="réel"><bloc ref="afrique"><country ref="mali"><settlement ref="tombouctou"
-                           >Tombouctou</settlement></country></bloc></placeName>.</item>
+                        <item> — Dessiner la côte d'<placeName>Afrique</placeName> de l'embouchure du <placeName><geogFeat type="fleuve" ref="sénégal"
+                           >Sénégal</geogFeat></placeName> à notre colonie du <placeName>Gabon</placeName>.</item>
+                        <item>— Figurer le cours du <placeName><geogFeat type="fleuve" ref="sénégal">Sénégal</geogFeat></placeName> et celui du <placeName><geogFeat type="fleuve" ref="niger">Niger</geogFeat></placeName>.</item>
+                        <item>— Indiquer l'emplacement de <placeName>Tombouctou</placeName>.</item>
                      </list>
                   </div4>
                   <div4 type="réponses">
@@ -221,9 +214,9 @@
             <head>62. — Le pays de la peur. (Élève, p. 133.)</head>
             <div2 type="récit">
                <p>— Grande, magnifique, pleine de monuments, de poudre d'or... j'aurais voulu la voir ainsi ! Mais la vérité m'oblige à dire qu'elle répond à la description faite par le fameux
-                  <persName type="historique">René Caillié</persName>, que l'amour des voyages emporta loin de la <placeName type="réel">France</placeName>à l'âge de seize ans.</p>
+                  <persName type="historique">René Caillié</persName>, que l'amour des voyages emporta loin de la <placeName>France</placeName>à l'âge de seize ans.</p>
                <p>— Comme vous, interrompit M. <persName type="fictif" key="m_dumay">Dumay</persName> avec une pointe de malice.</p>
-               <p>— Comme moi. <persName type="historique">René Caillié</persName> ne vit à <placeName type="réel">Tombouctou</placeName> que de misérables <figure>
+               <p>— Comme moi. <persName type="historique">René Caillié</persName> ne vit à <placeName>Tombouctou</placeName> que de misérables <figure>
                   <caption>Les oasis sont des endroits cultivés et arrosés, au milieu du désert, où peuvent se reposer les caravanes.</caption>
                </figure> masures habitées par dix ou douze mille nègres et marchands qui échangent l'or, l'ivoire, les esclaves contre les cotonnades, les laines, les épices et surtout le
                   sel, bien autrement rare dans ce pays que l'or dans le nôtre.</p>
@@ -231,11 +224,11 @@
                   >Tombouctou</placeName>. Oh ! le premier morceau de viande de chevreau salé à point que nous goûtâmes là, quel régal ! hein ? <persName type="fictif" key="sylvain"
                      >Sylvain</persName> !</p>
                <figure>
-                  <caption>Les Touaregs forment des tribus nomades qui errent dans le <geogFeat type="désert" ref="sahara">Sahara</geogFeat> et sont très redoutées des caravanes.</caption>
+                  <caption>Les Touaregs forment des tribus nomades qui errent dans le <placeName><geogFeat type="désert" ref="sahara">Sahara</geogFeat></placeName> et sont très redoutées des caravanes.</caption>
                </figure>
                <p>—Il y manquait du poivre et une pointe d'ail, répondit <persName type="fictif" key="sylvain">Sylvain</persName>, doucement.</p>
-               <p>— Nous ne demeurâmes guère dans ce rendez-vous des caravanes qui traversent le <placeName type="réel">Soudan</placeName> ; je voulais voir <pb type="page" n="216" />
-                  <fw>216 SUZETTE.</fw> le <geogFeat type="désert" ref="sahara">Grand Désert</geogFeat> et les oasis, malgré les dangers de la soif, des Touaregs et du simoun.</p>
+               <p>— Nous ne demeurâmes guère dans ce rendez-vous des caravanes qui traversent le <placeName>Soudan</placeName> ; je voulais voir <pb type="page" n="216" />
+                  <fw>216 SUZETTE.</fw> le <placeName><geogFeat type="désert" ref="sahara">Grand Désert</geogFeat></placeName> et les oasis, malgré les dangers de la soif, des Touaregs et du simoun.</p>
                <p>Et la soif commença dès le sixième jour de marche à travers les immenses plaines de sable brûlant et aveuglant. L'air embrasé s'enveloppait d'un brouillard rouge ; on eût cru à
                   un incendie ; nous allions lentement, douloureusement accroupis sur nos montures somnolentes*<gloss>Somnolent. Qui est à demi endormi tout en agissant ou marchant.</gloss> ; un
                   cri retentit :</p>
@@ -245,7 +238,7 @@
                   brillantes au soleil comme des éclairs. Quelques-uns nous couchent en joue avec des fusils volés à d'autres caravanes. Nous tentons de résister ; mais quatre des nôtres sont
                   déjà tombés ; il faut traiter !</p>
                <figure>
-                  <caption>Autruche. Dans l'<placeName type="réel">>Inde</placeName>, on élève des troupeaux d'autruches en vue de recueillir leurs plumes, qui servent à orner les coiffures des
+                  <caption>Autruche. Dans l'<placeName>>Inde</placeName>, on élève des troupeaux d'autruches en vue de recueillir leurs plumes, qui servent à orner les coiffures des
                      femmes, à confectionner des panaches, etc.</caption>
                </figure>
                <p>Celui qui nous commande abandonne six noirs sur douze qu'il menait comme esclaves, huit chameaux, un sac d'or, une balle de plumes d'autruches.</p>
@@ -260,7 +253,7 @@
             <div2 type="questionnaire">
                <head>Questionnaire.</head>
                <list>
-                  <item>— Que raconta <persName type="fictif" key="pascal">Pascal</persName> sur <placeName type="réel">Tombouctou</placeName> ? </item>
+                  <item>— Que raconta <persName type="fictif" key="pascal">Pascal</persName> sur <placeName>Tombouctou</placeName> ? </item>
                   <item> — Qu'en a dit le Français <persName type="historique">René Caillié </persName> ? </item>
                   <item>— Quel régal firent, dans cette ville, nos jeunes explorateurs ? </item>
                   <item>— Quel mot malicieux ajouta <persName type="fictif" key="sylvain">Sylvain</persName> au récit de <persName type="fictif" key="pascal">Pascal</persName> ? </item>
@@ -277,7 +270,7 @@
                   <head type="sujets">Géographie.</head>
                   <div4 type="questions">
                      <list>
-                        <item>— Quelle idée vous faites-vous du <geogFeat type="désert" ref="sahara">Grand Désert</geogFeat> ?</item>
+                        <item>— Quelle idée vous faites-vous du <placeName><geogFeat type="désert" ref="sahara">Grand Désert</geogFeat></placeName> ?</item>
                         <item> — Quels dangers en présente la traversée ? </item>
                         <item>— Indiquez les régions et la mer qui le limitent.</item>
                         <item>— Qu'est-ce qu'une oasis ? </item>
@@ -286,7 +279,7 @@
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>Le grand désert du <geogFeat type="désert" ref="sahara">Sahara</geogFeat> est une contrée sablonneuse recouverte, en grande partie, par une épaisse couche de sable que
+                     <p>Le grand désert du <placeName><geogFeat type="désert" ref="sahara">Sahara</geogFeat></placeName> est une contrée sablonneuse recouverte, en grande partie, par une épaisse couche de sable que
                         le vent amoncelle en dunes mouvantes. La chaleur y est affreuse pendant le jour (+ 67°) et parfois néanmoins la température de la nuit descend à celle de la glace. Les
                         régions dépourvues d'oasis offrent un aspect formidable et sont effrayantes à traverser ; quand la végétation ne manque pas complètement, elle n'est représentée que par
                         des buissons épineux ou des chardons ; la lumière aveuglante éblouit les yeux, et les objets semblent revêtus d'une teinte sombre et infernale. Des mares infectes ou
@@ -294,13 +287,13 @@
                      <p>Outre les souffrances de la soif, le désert présente de grands dangers. Les dunes soulevées par les vents d'orage engloutissent les voyageurs ou, recouvrant les traces
                         auxquelles on reconnaît la route à suivre, les laissent égarés parmi les rochers et les sables dans lesquels ils périssent de folie après avoir subi toutes les tortures
                         de la chaleur.</p>
-                     <p>Le <geogFeat type="désert" ref="sahara">Grand Désert</geogFeat> est limité au nord par le <placeName type="réel">Maroc</placeName>, l'<placeName type="réel"
-                        >Algerie</placeName> et la régence de <placeName type="réel">Tripoli</placeName> ; <placeName>à</placeName> l'est par les déserts d'<placeName>Égypte</placeName> et
-                        de Nubie, au sud par la région fertile connue sous le nom de <placeName>Nigritie</placeName>, et à l'ouest par l'<geogFeat type="océan" ref="atlantique"
-                           >Atlantique</geogFeat>.</p>
-                     <p>Dans toutes les parties du <geogFeat type="désert" ref="sahara">Sahara</geogFeat> où l'eau jaillit en source, il se forme une oasis, île de verdure dont le riant aspect
-                        contraste d'une manière frappante avec l'aridité des sables environnants. On compte les oasis par centaines dans le <geogFeat type="désert" ref="sahara">Grand
-                           Désert</geogFeat> et elles comprennent une surface égale au tiers de cette immense contrée. C'est, par excellence, le pays des dattiers. Au-dessous de leur large
+                     <p>Le <placeName><geogFeat type="désert" ref="sahara">Grand Désert</geogFeat></placeName> est limité au nord par le <placeName>Maroc</placeName>, l'<placeName type="réel"
+                        >Algerie</placeName> et la régence de <placeName>Tripoli</placeName> ; <placeName>à</placeName> l'est par les déserts d'<placeName>Égypte</placeName> et
+                        de Nubie, au sud par la région fertile connue sous le nom de <placeName>Nigritie</placeName>, et à l'ouest par l'<placeName><geogFeat type="océan" ref="atlantique"
+                           >Atlantique</geogFeat></placeName>.</p>
+                     <p>Dans toutes les parties du <placeName><geogFeat type="désert" ref="sahara">Sahara</geogFeat></placeName> où l'eau jaillit en source, il se forme une oasis, île de verdure dont le riant aspect
+                        contraste d'une manière frappante avec l'aridité des sables environnants. On compte les oasis par centaines dans le <placeName><geogFeat type="désert" ref="sahara">Grand
+                           Désert</geogFeat></placeName> et elles comprennent une surface égale au tiers de cette immense contrée. C'est, par excellence, le pays des dattiers. Au-dessous de leur large
                         éventail de feuilles se pressent les abricotiers, les pêchers, les grenadiers, les orangers ; les vignes s'enlacent autour des troncs ; le maïs, le froment, l'orge
                         mûrissent sous l'ombrage de cette forêt splendide.</p>
                      <p>L'eau est l'élément de la fertilité des oasis, et on augmente l'étendue de ces terrains privilégiés par le forage de puits artésiens qui amènent de véritables rivières à
@@ -318,37 +311,33 @@
                         <item> — Citez les mines les plus fameuses avce quelques détails.</item>
                         <item>— D'où extrait-on le sel ? </item>
                         <item>— Qu'entendez-vous par marais salants ? </item>
-                        <item>— Citez des villes de <placeName type="réel">France</placeName> célèbres par leurs sources salées.</item>
+                        <item>— Citez des villes de <placeName>France</placeName> célèbres par leurs sources salées.</item>
                      </list>
                   </div4>
                   <fw type="footer">SUZETTE (Maîtresse). <fw type="sig">13</fw></fw>
                   <pb type="page" n="218" />
                   <fw>218 SUZETTE.</fw>
                   <div4 type="réponses">
-                     <p>On donne le nom d'ivoire à la matière des dents d'éléphant et de quelques autres grands mammifères, tels que les hippopotames et les morses des mers glaciales. C'est une
+                     <p>On donne le nom d'<term>ivoire</term> à la matière des dents d'éléphant et de quelques autres grands mammifères, tels que les hippopotames et les morses des mers glaciales. C'est une
                         substance blanche, qui se travaille assez facilement et prend un beau poli ; elle a une valeur considérable. On en fabrique des statuettes, des ornements, des manches
                         d'outils, des jouets, des dents artificielles, des couteaux à papier.</p>
-                     <p>LE SEL. — Le sel est une substance solide, analogue à la pierre, qui possède une saveur particulière et agréable ; il a été formé dans la nature par le mélange du chlore
+                     <p>LE SEL. — Le <term>sel</term> est une substance solide, analogue à la pierre, qui possède une saveur particulière et agréable ; il a été formé dans la nature par le mélange du chlore
                         et de la soude.</p>
                      <p> « Il n'existe point de produit minéral plus universellement répandu et plus utile aux animaux ; il leur est presque aussi indispensable que l'air qu'ils respirent. »
                         (<persName type="historique">BOUCHARDAT</persName>.) C'est une substance nécessaire à la digestion pour dissoudre les aliments solides dans l'estomac.</p>
                      <p>Le sel se montre sous deux états ; ou en dissolution dans les eaux, et particulièrement dans celles de la mer, ou en couches plus ou moins épaisses au sein de la terre.
-                        Il y a des mines de sel gemme (sous forme de pierre) dans presque tous les pays : en <placeName type="réel">Pologne</placeName>, en <placeName type="réel"
-                           >Espagne</placeName>, en <placeName type="réel">\Algérie</placeName>, au <placeName type="réel">Pérou</placeName>, au <placeName type="réel">Etats-Unis</placeName>
-                        notamment. Les mines les plus célèbres de l'<placeName type="réel">Europe</placeName> sont celles de <placeName type="réel">Wieliczka</placeName> et de <placeName
-                           type="réel">Bochnia</placeName>, près de <placeName type="réel">Cracovie</placeName> (<placeName type="réel">Pologne</placeName>) ; elles ont une longueur de plus
+                        Il y a des mines de sel gemme (sous forme de pierre) dans presque tous les pays : en <placeName>Pologne</placeName>, en <placeName>Espagne</placeName>, en <placeName>\Algérie</placeName>, au <placeName>Pérou</placeName>, au <placeName>Etats-Unis</placeName>
+                        notamment. Les mines les plus célèbres de l'<placeName>Europe</placeName> sont celles de <placeName>Wieliczka</placeName> et de <placeName>Bochnia</placeName>, près de <placeName>Cracovie</placeName> (<placeName>Pologne</placeName>) ; elles ont une longueur de plus
                         de 1,000 kilomètres sur 400 de largeur. Découvertes vers le milieu du treizième siècle, elles sont depuis une source inépuisable de richesses. La quantité de sel qu'on
                         en a tirée jusqu'à ce jour atteint près de 700 millions de quintaux.</p>
                      <p>On extrait le sel des eaux de la mer et de celles des sources salées qu'on yoit jaillir en un grand nombre de lieux.</p>
-                     <p>Dans le midi de la <placeName type="réel">France</placeName>, on fait arriver l'eau de la mer dans des espaces particuliers, soigneusement nivelés et divisés en
-                        compartiments où l'eau s'évapore par suite de la chaleur du climat, en laissant une couche de sel. Ce sont les marais salants. Dans le <placeName>Nord</placeName>, on
+                     <p>Dans le midi de la <placeName>France</placeName>, on fait arriver l'eau de la mer dans des espaces particuliers, soigneusement nivelés et divisés en
+                        compartiments où l'eau s'évapore par suite de la chaleur du climat, en laissant une couche de sel. Ce sont les <term>marais salants</term>. Dans le <placeName>Nord</placeName>, on
                         vaporise l'eau des fontaines salées au moyen du fou ; mais auparavant on l'obtient à un certain état de concentration en l'élevant dans des bâtiments où on la fait
                         descendre à l'état de grande division au travers de fagots. Le sel est produit à si bon marché dans les marais salants que 100 kilogrammes s'y vendent 40 à 50 centimes
                         au plus.</p>
-                     <p>Les localités les plus connues par leurs sources salées sont : <placeName type="réel">Châ- teau-Salins</placeName>, <placeName type="réel">Dieuze</placeName> et
-                        <placeName type="réel">Vic</placeName>, en <placeName type="réel">Lorraine</placeName> ; <placeName type="réel">Lons-le-Saunier</placeName> et <placeName
-                           type="réel">Salins</placeName>, en <placeName type="réel">Franche-Comté</placeName> ; <placeName type="réel">Salies</placeName>, en <placeName type="réel"
-                              >Béarn</placeName>.</p>
+                     <p>Les localités les plus connues par leurs sources salées sont : <term><placeName>Château-Salins</placeName></term>, <term><placeName>Dieuze</placeName></term> et
+                        <term><placeName>Vic</placeName></term>, en <placeName>Lorraine</placeName> ; <term><placeName>Lons-le-Saunier</placeName></term> et <term><placeName>Salins</placeName></term>, en <placeName>Franche-Comté</placeName> ; <term><placeName>Salies</placeName></term>, en <placeName>Béarn</placeName>.</p>
                   </div4>
                </div3>
                <div3 type="hygiène">
@@ -364,7 +353,7 @@
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p> La soif est le besoin de boire ; elle se manifeste par une sensation de sécheresse dans la bouche et la gorge, ce qui arrive lorsque le corps a perdu, par l'évaporation
+                     <p> La <term>soif</term> est le besoin de boire ; elle se manifeste par une sensation de sécheresse dans la bouche et la gorge, ce qui arrive lorsque le corps a perdu, par l'évaporation
                         à la surface de la peau, une partie de l'eau nécessaire à nos organes.</p>
                      <p>Il faut satisfaire la soif quand on l'éprouve, mais avec modération. En été, il est malsain de boire dès qu'on en sent le besoin, car on absorberait trop de liquide, et
                         l'on serait affaibli par l'excès de transpiration qui en résulterait. Les boissons qui conviennent le mieux en cette saison, sont : le vin et le café noir étendus
@@ -372,7 +361,7 @@
                         d'un fâcheux effet pour la santé lorsque les chaleurs sont très fortes. </p>
                      <pb type="page" n="219" />
                      <fw>LE SIMOUN. 219</fw>
-                     <p>Si l'on boit de l'eau glacée quand le corps est échauffé, il y a suspension des fonctions de l'estomac ou congestion puimonaire, c'est-àdire une atteinte grave à la
+                     <p>Si l'on boit de l'eau glacée quand le corps est échauffé, il y a suspension des fonctions de l'estomac ou congestion puimonaire, c'est-à-dire une atteinte grave à la
                         santé ; il faut donc s'en garder, et, si l'on n'a pas d'autre liquide, boire par petites gorgées ou attendre que la température de notre corps soit abaissée.</p>
                   </div4>
                </div3>
@@ -381,24 +370,24 @@
          <div1 type="chapitre" n="063">
             <head>63. — Le simoun. (Élève, p. 135.)</head>
             <div2 type="récit">
-               <p>— A toute bride, le cœur inondé de joie, nous cou- rons à ces délices.</p>
-               <p>Mais à mesure que nous avançons, les sources, la ver- dure s'éloignent. Nous courons encore; elles fuient plus loin !... Hélas ! c'était un mirage, le mensonge du désert, où
+               <p>— A toute bride, le cœur inondé de joie, nous courons à ces délices.</p>
+               <p>Mais à mesure que nous avançons, les sources, la verdure s'éloignent. Nous courons encore; elles fuient plus loin !... Hélas ! c'était un mirage, le mensonge du désert, où
                   l'atmosphère surchauffée réfléchit, comme en un vaste miroir, l'image d'un objet lointain.</p>
-               <p>Le beau rêve s'est perdu derrière les nuages à l'ho- rizon. Mais les tortures*<gloss> Tortures. Souffrances très vives.</gloss> du <placeName>Sahara</placeName> se suivent. En
-                  voici une autre, la plus terrible, qui accourt. La chaleur est devenue effroyable, il s'é- lève un vent de fournaise. Des rafales*<gloss>Rafale. Coup du vent violent.</gloss>
-                  furieuses sou- lèvent le sable en tourbil- lons affolés*<gloss> Affolé. Qui s'élève et se déplace dans toutes les directions. </gloss> qui nous en- veloppent, nous aveuglent,
-                  nous brûlent. Les vagues tumultueuses de l'Océan en tempête sont moins enragées que ces flots de sable. Toute la cara- vane, gens et bêtes, est renversée. Couchés à terre, nous
+               <p>Le beau rêve s'est perdu derrière les nuages à l'horizon. Mais les tortures*<gloss> Tortures. Souffrances très vives.</gloss> du <placeName>Sahara</placeName> se suivent. En
+                  voici une autre, la plus terrible, qui accourt. La chaleur est devenue effroyable, il s'élève un vent de fournaise. Des rafales*<gloss>Rafale. Coup du vent violent.</gloss>
+                  furieuses soulèvent le sable en tourbillons affolés*<gloss> Affolé. Qui s'élève et se déplace dans toutes les directions. </gloss> qui nous enveloppent, nous aveuglent,
+                  nous brûlent. Les vagues tumultueuses de l'Océan en tempête sont moins enragées que ces flots de sable. Toute la caravane, gens et bêtes, est renversée. Couchés à terre, nous
                   y passons plusieurs heures, mourants.</p>
                <figure>
                   <caption>Toute la caravane, gens et bêtes, est renversée.</caption>
                </figure>
                <p> Enfin le simoun s'apaise ; on se redresse, on se tâte, on se compte : un homme a péri ; deux chameaux, morts aussi. Adieu ! on les laisse là où leurs os blanchiront... </p>
-               <p>En voilà d'autres plus loin, perçant le sable. Les osse- ments servent de signes indicateurs en ce pays de dé- solation ; ils nous apprennent que nous sommes bien sur la route
+               <p>En voilà d'autres plus loin, perçant le sable. Les ossements servent de signes indicateurs en ce pays de désolation ; ils nous apprennent que nous sommes bien sur la route
                   des caravanes. </p>
                <pb type="page" n="220" />
                <fw>220 SUZETTE.</fw>
                <p>Et voici l'oasis ! la réelle oasis qui se dessine enfin à l'horizon ! D'un dernier effort nous l'atteignons. C'est un bouquet de palmiers ; deux sources susurrent*<gloss>
-                  Susurrer. Faire entendre un léger murmure. </gloss> douce- ment sous des gazons fleuris. Nous buvons longuement, nous nous baignons ; c'est la résurrection ! c'est la vie
+                  Susurrer. Faire entendre un léger murmure. </gloss> doucement sous des gazons fleuris. Nous buvons longuement, nous nous baignons ; c'est la résurrection ! c'est la vie
                   !</p>
                <p> La caravane prend là vingt-quatre heures de repos ; elle les avait bien gagnées !... </p>
                <p>L'explorateur poussa de larges soupirs de satisfaction, but un nouveau verre de bière, comme pour se rendre son plaisir plus présent, puis reprit : </p>
@@ -428,14 +417,14 @@
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>La chaleur est la sensation que l'on éprouve en passant dans un lieu ou en touchant un objet dont la température est supérieure à celle de notre corps. Les principales
+                     <p>La <term>chaleur</term> est la sensation que l'on éprouve en passant dans un lieu ou en touchant un objet dont la température est supérieure à celle de notre corps. Les principales
                         sources de ce phénemène sont : le soleil, la terre dont l'intérieur est brûlant, la combustion des corps, autrement dit, le feu.</p>
-                     <p>Un des effets les plus connus de la chaleur est l'augmentation de volume, ou dilatation, qu'éprouvent les corps à mesure qu'ils s'échauf- fent. Ainsi, l'eau froide qui
-                        emplit un vase, déborde peu après que ce vase a été placé sur le fou ; une vessie à demi pleine d'air et soi- gneusement ficelée à l'ouverture, se gonfle entièrement
+                     <p>Un des effets les plus connus de la chaleur est l'augmentation de volume, ou <term>dilatation</term>, qu'éprouvent les corps à mesure qu'ils s'échauffent. Ainsi, l'eau froide qui
+                        emplit un vase, déborde peu après que ce vase a été placé sur le feu ; une vessie à demi pleine d'air et soigneusement ficelée à l'ouverture, se gonfle entièrement
                         dès qu'elle a séjourné auprès d'un foyer ; les rails des chemins de fer, séparés les uns des autres en hiver, se touchent en été, etc., etc.</p>
-                     <p>La chaleur écarte les petites parties, ou molécules, qui consti- tuent les corps ; lorsque ces molécules ne sont plus adhérentes, elles roulent les unes sur les autres
-                        si l'on a mis le corps sur une pente. On dit alors qu'il y a fusion. L'eau est de la glace en fusion ; le mercure nous apparaît à l'état de fusion.</p>
-                     <p>Un corps brûle lorsque, étant enflammé, il se décompose de telle sorte qu'il ne lui reste plus rien de son apparence première. Le bois, après avoir brûlé, donne un
+                     <p>La chaleur écarte les petites parties, ou molécules, qui constituent les corps ; lorsque ces molécules ne sont plus adhérentes, elles roulent les unes sur les autres
+                        si l'on a mis le corps sur une pente. On dit alors qu'il y a <term>fusion</term>. L'eau est de la glace en fusion ; le mercure nous apparaît à l'état de fusion.</p>
+                     <p>Un corps <term>brûle</term> lorsque, étant enflammé, il se décompose de telle sorte qu'il ne lui reste plus rien de son apparence première. Le bois, après avoir brûlé, donne un
                         résidu, les cendres, où rien ne nous rappelle la constitution du corps qui les a produites.</p>
                   </div4>
                </div3>
@@ -451,7 +440,7 @@
                         fortement les parties du contour de la roue. </p>
                      <pb type="page" n="221" />
                      <fw>LE SIMOUN. 221</fw>
-                     <p>Les grilles des fourneaux ne doivent pas être encastrées trop juste à leurs extrémités, mais libres au moins à l'une ; sinon elles se tor- dent ou arrachent les pierres
+                     <p>Les grilles des fourneaux ne doivent pas être encastrées trop juste à leurs extrémités, mais libres au moins à l'une ; sinon elles se tordent ou arrachent les pierres
                         du foyer en se dilatant. Lorsqu'on chauffe trop brusquement un vase de verre, il éclate, parce que le verre conduisant mal la chaleur, les parois se dilatent
                         inégalement et une rupture se produit.</p>
                   </div4>
@@ -469,12 +458,12 @@
                      <p>La chaleur et l'humidité sont extrêmement favorables au développement de la végétation ; les régions chaudes et humides du globe, telles que les tropiques, présentent
                         une multitude de plantes et d'arbres qui naissent, croissent et portent des fruits dans un espace de temps d'une durée très restreinte. Sous cette influence, et dans
                         nos climats, les graines germent, les plantes prennent leur accroissement et les fruits arrivent à maturité.</p>
-                     <p>Comme le printemps est souvent tardif, froid et sec, on a imaginé de produire dans le sol une chaleur artificielle en disposant du fu- mier frais sous un lit de terre
+                     <p>Comme le printemps est souvent tardif, froid et sec, on a imaginé de produire dans le sol une chaleur artificielle en disposant du fumier frais sous un lit de terre
                         peu épais ; on obtient alors une couche sur laquelle on sème les graines, en vue de repiquer ensuite les plantes auxquelles elles donneront naissance. En recouvrant la
                         couche d'un châssis vitré, on concentre la chaleur du soleil et, par suite, on active la végétation.</p>
-                     <p>Les serres sont des lieux clos, fermés de châssis dans la partie qui reçoit les rayons lumineux. Les jardiniers les chauffent en hiver pour y maintenir une température
-                        douce et égale, ce qui permet d'y con- server les plantes étrangères auxquelles serait fatale la température de notre saison rigoureuse.</p>
-                     <p>Les fruits en espalier mûrissent plus tôt que les autres, parce que le mur auquel ils sont adossés empêche la déperdition de la chaleur solaire. Les meilleurs chasselas
+                     <p>Les <term>serres</term> sont des lieux clos, fermés de châssis dans la partie qui reçoit les rayons lumineux. Les jardiniers les chauffent en hiver pour y maintenir une température
+                        douce et égale, ce qui permet d'y conserver les plantes étrangères auxquelles serait fatale la température de notre saison rigoureuse.</p>
+                     <p>Les <term>fruits en espalier</term> mûrissent plus tôt que les autres, parce que le mur auquel ils sont adossés empêche la déperdition de la chaleur solaire. Les meilleurs chasselas
                         proviennent des espaliers.</p>
                   </div4>
                </div3>
@@ -491,7 +480,7 @@
                   <div4 type="réponses">
                      <p>L'exposition du corps à une chaleur excessive, telle, par exemple, que celle des rayons d'un soleil ardent, détermine des accidents plus ou moins graves : congestions au
                         cérveau et méningites ; on a vu des moissonneurs tomber morts subitement par suite de l'action des rayons solaires.</p>
-                     <p>Les enfants ne devront jamais rester nu-tête au soleil, surtout au printemps ; ils y gagneraient un érysipèle, vulgairement appelé coup de soleil, dont les effets ne se
+                     <p>Les enfants ne devront jamais rester nu-tête au soleil, surtout au printemps ; ils y gagneraient un érysipèle, vulgairement appelé <term>coup de soleil</term>, dont les effets ne se
                         limitent pas toujours à la peau directement atteinte, mais se communiquent souvent au cerveau. Pendant la saison chaude, ils ne sortiront pas sans être munis d'un
                         chapeau de paille.</p>
                      <p>Les vêtements qui conviennent le mieux en été seront en étoffe légère, larges et flottants, ne comprimant aucune partie du corps. Les personnes délicates se trouveront
@@ -507,10 +496,9 @@
             <pb type="page" n="222" />
             <fw>222 SUZETTE.</fw>
             <div2 type="récit">
-               <p>— Nous avions été plus heureux qu'un pauvre cheval dont nous rencontrâmes la dépouille à quelque dis tance. Tu te rappelles, <persName type="fictif" key="sylvain">Syl
-                  vain</persName> ?</p>
+               <p>— Nous avions été plus heureux qu'un pauvre cheval dont nous rencontrâmes la dépouille à quelque distance. Tu te rappelles, <persName type="fictif" key="sylvain">Sylvain</persName> ?</p>
                <p>— Un cheval mort ?</p>
-               <p>— Oui, un cheval arabe, blanc, probablement échap pé de quelque tribu nomade*<gloss>Nomade. Se dit des tribus, des peuples qui n'ont pas d'habitation fixe.</gloss> des bords du
+               <p>— Oui, un cheval arabe, blanc, probablement échappé de quelque tribu nomade*<gloss>Nomade. Se dit des tribus, des peuples qui n'ont pas d'habitation fixe.</gloss> des bords du
                   <placeName>Sahara</placeName>. — Sans doute la pauvre bête n'avait pas eu la force d'atteindre l'oasis, et était morte de soif. Devant son cadavre, des vers appris jadis
                   dans mon enfance me revinrent <figure>
                      <caption> Cheval arabe. La race arabe fournit les chevaux de selle, de course et de léger attelage. </caption>
@@ -537,36 +525,35 @@
                <p>On applaudit ces beaux vers, et M. <persName type="fictif" key="pascal">Pascal</persName> remercia avec l'air de celui qui les aurait faits.</p>
                <pb type="page" n="223" />
                <fw>SOUS LA TENTE. 223</fw>
-               <p>— Maintenant, reprit-il, nous approchons de la terre des vivants ! Nous allons, après une marche infinie, quitter la terre « de la peur et de la soif », comme l'ap pellent les
+               <p>— Maintenant, reprit-il, nous approchons de la terre des vivants ! Nous allons, après une marche infinie, quitter la terre « de la peur et de la soif », comme l'appellent les
                   Arabes.</p>
-               <p>— Ah ! quelle fête de retrou ver des plantes et des hom mes, d'entendre chanter des oiseaux, de voir bondir les légères gazelles !</p>
-               <p>Est-ce le voisinage du <placeName>Sa hara</placeName> qui, sur les bords du dé sert, rend le nomade si hos pitalier ? mais dès que nous paraissons, les Arabes s'em- pressent, se
+               <p>— Ah ! quelle fête de retrouver des plantes et des hommes, d'entendre chanter des oiseaux, de voir bondir les légères gazelles !</p>
+               <p>Est-ce le voisinage du <placeName>Sahara</placeName> qui, sur les bords du désert, rend le nomade si hospitalier ? mais dès que nous paraissons, les Arabes s'empressent, se
                   partagent le soin de nous héberger*<gloss>Héberger. Recevoir chez soi ; loger.</gloss> . L'un d'eux, m'ouvrant sa tente, me <figure>
-                     <caption>Les gaselles vivent en nombreux troupeaux dans le nord de l'<placeName>Afrique</placeName> et en <placeName>Syrie</placeName>. </caption>
+                     <caption>Les gazelles vivent en nombreux troupeaux dans le nord de l'<placeName>Afrique</placeName> et en <placeName>Syrie</placeName>. </caption>
                   </figure> dit : « Qui que tu sois, entre, mange, prends du repos, tu es chez toi. »</p>
                <p>Il m'offre son plus beau riz, le meilleur lait de ses chamelles, son chevreau le plus gras.</p>
-               <p>— Pas tant d'éloges aux Arabes ! interrompit <persName type="fictif" key="sylvain">Syl vain</persName>, qui décidément s'en hardissait. Nous ne sommes pas ici chez eux, et on
+               <p>— Pas tant d'éloges aux Arabes ! interrompit <persName type="fictif" key="sylvain">Sylvain</persName>, qui décidément s'en hardissait. Nous ne sommes pas ici chez eux, et on
                   nous a encore plus cordialement accueillis.</p>
                <figure>
                   <caption> La force prodigieuse du lion l'a fait surnommer le roi des animaux ; ce quadrupède habite l'<placeName>Asie</placeName> et surtout l'<placeName>Afrique</placeName>.
                   </caption>
                </figure>
-               <p>On sourit à ce compli ment que le conteur appuya d'un geste de la main, sa langue étant occupée à répondre à <persName type="fictif" key="suzette">Suzette</persName> qui lui de
-                  mandait de quoi se compose une tente d'Arabe nomade :</p>
+               <p>On sourit à ce compliment que le conteur appuya d'un geste de la main, sa langue étant occupée à répondre à <persName type="fictif" key="suzette">Suzette</persName> qui lui demandait de quoi se compose une tente d'Arabe nomade :</p>
                <p>— Celle dont je parle était faite d'un tissu en poils de chameau reposant sur des pieux fixés en terre. Mes yeux durent d'abord se faire à la demi-obscurité.</p>
                <p>Le mobilier n'était pas compliqué ; le déménagement <pb type="page" n="224" />
                   <fw>224 SUZETTE.</fw> n'en devait pas coûter cher. Ni table, ni siège, ni lit, ni armoire, ni coffre. Seulement quelques peaux de chèvre et une de lion sur le sol ; au milieu
                   de l'aire, un trou où se consumaient quelques braises. Une esclave noire était en train de préparer le couscoussou*<gloss>Couscoussou. Mets arabe composé de mouton cuit avec du
                      riz.</gloss>. Deux autres négresses, ployées devant un large mortier*<gloss>Mortier. Vase de métal ou de pierre dont on se sert pour y piler certaines choses.</gloss> de
                   granit*<gloss>Granit. Pierre fort dure formée de petits morceaux d'autres pierres.</gloss>, broyaient péniblement la farine du jour.</p>
-               <p>Un rideau se sou leva dans un coin, et la tête d'une femme voilée s'y montra, puis disparut aussitôt, car les femmes arabes ne doivent pas pa- raître devant l'étran ger. Elles
+               <p>Un rideau se souleva dans un coin, et la tête d'une femme voilée s'y montra, puis disparut aussitôt, car les femmes arabes ne doivent pas paraître devant l'étranger. Elles
                   ne sortent jamais que sous un grand voile qui les enveloppe des pieds à la tête. Dans cette sorte de sac, deux <figure>
                      <caption>Tente et femme arabe voilée.</caption>
                   </figure> trous ménagés à la hauteur des yeux leur permettent de voir pour se conduire.</p>
                <p>— Et à quoi s'occupent-elles ? demanda <persName type="fictif" key="suzette">Suzette</persName>.</p>
                <p>— Elles s'occupent à se peindre les yeux pour les faire paraître plus grands, à dorer leurs doigts avec du henné*<gloss>Henné. Pâte que les femmes arabes appliquent sur leurs
                   lévres.</gloss> , et à rougir leurs lèvres.</p>
-               <p>— Ce sont là tous leurs devoirs?</p>
+               <p>— Ce sont là tous leurs devoirs ?</p>
             </div2>
             <div2 type="questionnaire">
                <head>Questionnaire.</head>
@@ -603,7 +590,7 @@
                   <pb type="page" n="225" />
                   <fw>SOUS LA TENTE. 225</fw>
                   <div4 type="réponses">
-                     <p>Le vers est un assemblage de mots comptant, dans leur ensemble, un certain nombre de syllabes et disposés selon certaines règles. Les plus grands vers sont de douze
+                     <p>Le <term>vers</term> est un assemblage de mots comptant, dans leur ensemble, un certain nombre de syllabes et disposés selon certaines règles. Les plus grands vers sont de douze
                         syllabes. Ex. :</p>
                      <p> Le jour n'est pas plus pur que le fond de mon cœur. (<persName type="historique">RACINE</persName>.)</p>
                      <p>Il en est de dix, de huit, de sept, de six syllabes et moins encore.</p>
@@ -613,10 +600,10 @@
                      <p>7 syllabes : Un rien détruit une fleur ; Un rien fait périr l'honneur. (<persName type="historique">PANARD</persName>.)</p>
                      <p>Il est à remarquer que les syllabes terminées par un e muet ne sont comptées, avec la suivante, lorsqu'elle commence par une voyelle ou une h muette, que pour une seule
                         syllabe. Elles sont nulles à la fin du vers.</p>
-                     <p>La rime consiste dans la similitude de terminaison de deux vers qui se suivent ou qui se correspondent. Ex. :</p>
-                     <p>La fleur peut renaître un jour, L'honneur se perd sans retour. (<persName type="historique">PANARD</persName>.) — Ainsi, quand les vents de l'automne Ont dissipé l'ombre
-                        des bois, L'hirondelle agile abandonne Le faite du palais des rois. (<persName type="historique">LAMARTINE</persName>.)</p>
-                     <p>La manière ordinaire de rendre sa pensée s'appelle la prose.</p>
+                     <p>La <term>rime</term> consiste dans la similitude de terminaison de deux vers qui se suivent ou qui se correspondent. Ex. :</p>
+                     <p><l>La fleur peut renaître un jour,</l> <l>L'honneur se perd sans retour. (<persName type="historique">PANARD</persName>.)</l> <l>— Ainsi, quand les vents de l'automne</l> <l>Ont dissipé l'ombre
+                        des bois,</l> <l>L'hirondelle agile abandonne</l> <l>Le faite du palais des rois. (<persName type="historique">LAMARTINE</persName>.)</l></p>
+                     <p>La manière ordinaire de rendre sa pensée s'appelle la <term>prose</term>.</p>
                   </div4>
                </div3>
                <div3 type="composition">
@@ -629,7 +616,7 @@
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>(Voir comme modèles : 1° Le lapin, page 325 du COURS DE COMPOSI TION FRANÇAISE (Degré élémentaire et moyen), Partie du maître, par <persName>E LAPORTE</persName> ; — 2°
+                     <p>(Voir comme modèles : 1° Le lapin, page 325 du COURS DE COMPOSITION FRANÇAISE (Degré élémentaire et moyen), Partie du maître, par <persName type="historique">E LAPORTE</persName> ; — 2°
                         Degré supérieur (du même auteur), Partie du maître : L'âne, page 185 ; Le chien, le cygne, pages 208 et 210.)</p>
                   </div4>
                </div3>
@@ -645,19 +632,19 @@
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>Le lion a la figure imposante, le regard assuré, la démarche fière, la voix terrible. Sa taille est si bien prise et si bien proportionnée que son corps paraît être le
-                        modèle de la force jointe à l'agilité ; aussi so lide que nerveux, il est tout nerfs et tout muscles. Une crinière abon dante couvre sa tête et sa mâchoire est garnie de
+                     <p>Le <term>lion</term> a la figure imposante, le regard assuré, la démarche fière, la voix terrible. Sa taille est si bien prise et si bien proportionnée que son corps paraît être le
+                        modèle de la force jointe à l'agilité ; aussi so lide que nerveux, il est tout nerfs et tout muscles. Une crinière abondante couvre sa tête et sa mâchoire est garnie de
                         dents redoutables.</p>
-                     <p>Le lion s'apprivoise difficilement ; cependant on en a connu qui étaient habitués à suivre leur maître et qui lui témoignaient de l'affec tion. Mais ces cas sont
+                     <p>Le lion s'apprivoise difficilement ; cependant on en a connu qui étaient habitués à suivre leur maître et qui lui témoignaient de l'affection. Mais ces cas sont
                         exceptionnels ; cet animal est naturellement féroce et il attaque l'homme lui-même lorsque la faim le pousse.</p>
-                     <p>Il détruit quantité de bétail chez les nomades du désert, et com munément on le voit franchir d'un saut les barrières des enclos où parquent les bêtes pendant la nuit,
+                     <p>Il détruit quantité de bétail chez les nomades du désert, et communément on le voit franchir d'un saut les barrières des enclos où parquent les bêtes pendant la nuit,
                         saisir un bœuf ou une vache dans ses mâchoires puissantes, et s'élancer au dehors avec cette énorme proie. Ailleurs, sa nourriture la plus ordinaire se compose de
                         singes, de gazelles qu'il saisit souvent du premier bond.</p>
                      <pb type="page" n="226" />
                      <fw>226 SUZETTE.</fw>
                      <p>On donne la chasse au lion avec des chiens de grande taille bien appuyés par des hommes à cheval ; on le déloge des broussailles où se trouve son antre ; on le fait
                         partir en avant et, lorsqu'il est en vue, on lui tire des coups de fusil. Les chiens se jettent sur lui et l'achèvent. On le prend souvent par adresse en le faisant
-                        tomber dans une fosse profonde préalablement recouverte avec des matières légères au-des sus desquelles on a attaché un animal vivant.</p>
+                        tomber dans une fosse profonde préalablement recouverte avec des matières légères au-dessus desquelles on a attaché un animal vivant.</p>
                   </div4>
                   <div4 type="questions">
                      <list>
@@ -668,7 +655,7 @@
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>La gazelle est un charmant animal, de la grosseur d'une chèvre, aux formes élancées ; son pelage est de couleur fauve ou isabelle sur le dos et blanche sous le ventre
+                     <p>La <term>gazelle</term> est un charmant animal, de la grosseur d'une chèvre, aux formes élancées ; son pelage est de couleur fauve ou isabelle sur le dos et blanche sous le ventre
                         avec une bande noire ou brunâtre entre ces deux parties du corps.</p>
                      <p>La gazelle habite l'<placeName>Afrique</placeName> centrale et méridionale, ainsi que le <placeName>Grand Désert</placeName> ; elle vit par troupes nombreuses qui
                         fournissent une proie assurée aux lions, aux panthères, aux hyènes, aux chacals, aux loups, aux aigles et aux vautours.</p>
@@ -683,7 +670,7 @@
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>Le granit est une pierre rose, grise ou bleuâtre d'origine volcanique, à reflets brillants ; il paraît avoir été formé par l'agglomération de grains de minéraux divers
+                     <p>Le <term>granit</term> est une pierre rose, grise ou bleuâtre d'origine volcanique, à reflets brillants ; il paraît avoir été formé par l'agglomération de grains de minéraux divers
                         qui se sont agglutinés sous l'influence d'une chaleur extrème.</p>
                      <p>Le granit a une grande dureté ; on l'emploie, dans les régions où il constitue la base du sol, à la construction des maisons, et sa durée est, pour ainsi dire, infinie.
                         On le taille pour en faire des pavés, des bordures de trottoir, des dalles, des bornes, des voûtes de pont. Il est susceptible de prendre un beau poli, comme on le voit
@@ -698,22 +685,22 @@
          <div1 type="chapitre" xml:lang="fr" n="ch065">
             <head>65. — Vivent les explorateurs ! (Élève, p. 140.)</head>
             <div2 type="récit">
-               <p>— Tous leurs devoirs, oui, Mademoiselle ; la femme arabe n'est pas la compagne de son mari, mais son es clave ; elle a les sentiments de l'esclave ; pas de liberté, pas de
-                  dignité*<gloss> Dignité. Gravité noble qui commande le respect. </gloss> ; elle fait partie des biens de son sei gneur et maître avec le bétail.</p>
+               <p>— Tous leurs devoirs, oui, Mademoiselle ; la femme arabe n'est pas la compagne de son mari, mais son esclave ; elle a les sentiments de l'esclave ; pas de liberté, pas de
+                  dignité*<gloss> Dignité. Gravité noble qui commande le respect. </gloss> ; elle fait partie des biens de son seigneur et maître avec le bétail.</p>
                <p>— Nous avons bien fait de rester en <placeName>France</placeName>, dit en plaisantant <persName type="fictif" key="suzette">Suzette</persName> à son père.</p>
                <p> Est-ce que dans notre colonie africaine il y a un grand nombre de ces Arabes nomades ? demanda <persName type="fictif" key="jacques">Jacques</persName>.</p>
                <p>— Oui, un grand nombre ; mais les colons français <pb type="page" n="227" />
-                  <fw>VIVENT LES EXPLORATEURS ! 227</fw> commencent à s'établir jusque sur la lisière du dé sert. Et le désert sera vaincu, se retirera peu à peu devant l'homme civilisé, faisant
-                  jaillir les puits arté siens, apportant avec lui les graines, les outils, le travail, l'audace*<gloss> Audace. Excessive hardiesse. </gloss> qui doivent un jour
+                  <fw>VIVENT LES EXPLORATEURS ! 227</fw> commencent à s'établir jusque sur la lisière du désert. Et le désert sera vaincu, se retirera peu à peu devant l'homme civilisé, faisant
+                  jaillir les puits artésiens, apportant avec lui les graines, les outils, le travail, l'audace*<gloss> Audace. Excessive hardiesse. </gloss> qui doivent un jour
                   vivifier*<gloss>Vivifier. Ramener la vie, la fertilité. </gloss> ces immenses espaces de désolation. Il ya déjà d'ailleurs des Arabes agriculteurs, ceux du
-                  <placeName>Tell</placeName>, région montagneuse qui sé pare l'<placeName>Algérie</placeName> propre- ment dite du grand <placeName>Sa hara</placeName>. Ceux-là sont des
-                  Arabes supérieurs , pleins de dédain pour leurs frères, les pas teurs nomades. Ecou tez une de leurs poésies :</p>
+                  <placeName>Tell</placeName>, région montagneuse qui sépare l'<placeName>Algérie</placeName> proprement dite du grand <placeName>Sahara</placeName>. Ceux-là sont des
+                  Arabes supérieurs , pleins de dédain pour leurs frères, les pasteurs nomades. Ecoutez une de leurs poésies :</p>
                <figure>
-                  <caption>Les puits artésiens sont parfois très profonds, comme celui de <placeName>Grenelle</placeName> à <placeName>Paris</placeName>, qui a 550 mè tres, et dont l'eau atteint
-                     environ 28 degrés cen- tigrades. L'eau de ces puits jaillit à plusieurs mètres de hauteur. — La gravure représente un puits artésien aux environs de
+                  <caption>Les puits artésiens sont parfois très profonds, comme celui de <placeName>Grenelle</placeName> à <placeName>Paris</placeName>, qui a 550 mètres, et dont l'eau atteint
+                     environ 28 degrés centigrades. L'eau de ces puits jaillit à plusieurs mètres de hauteur. — La gravure représente un puits artésien aux environs de
                      <placeName>Blidah</placeName> (<placeName>Algérie</placeName>). </caption>
                </figure>
-               <p> « O malpropres bu veurs de lait caillé, toujours en marche comme les sauterelles ! ô destruc teurs et pillards ! si nos marchés se fermaient devant vous, vous mourriez de faim.
+               <p> « O malpropres buveurs de lait caillé, toujours en marche comme les sauterelles ! ô destructeurs et pillards ! si nos marchés se fermaient devant vous, vous mourriez de faim.
                   Nous, nous avons de l'orge, du blé, du miel, du <figure>
                      <caption>Les sauterelles dévorent les feuilles et les liges des plantes. </caption>
                   </figure>
@@ -721,31 +708,30 @@
                      <caption>L'olivier est un arbre des pays chauds ; il croit dans le midi de la <placeName>France</placeName>. L'olive, écrasée au pressoir par une meule, donne l'huile
                         d'olive, la meilleure de toutes. </caption>
                   </figure> bois, de l'eau, des bains, des draps, des cotonnades, du sucre, du café, des parfums, du fer, de l'acier, et tout en abondance. Nous sommes heureux. Campés à la tête
-                  des sources d'eau vive, nous y vivons tran <pb type="page" n="228" />
+                  des sources d'eau vive, nous y vivons tran- <pb type="page" n="228" />
                   <fw>228 SUZETTE.</fw> quilles, sans être obligés de courir chaque jour après chacun de nos besoins. »</p>
                <p>— Voilà parler en braves travailleurs, dit <persName type="fictif" key="m_dumay">M. Dumay</persName>. <figure>
-                  <caption>L'oïdium est un tout petit champignon qui s'attache aux vignes et les fait mourir ; on ar rive à le faire disparaitre par le soufrage. — La vignette montre une
+                  <caption>L'oïdium est un tout petit champignon qui s'attache aux vignes et les fait mourir ; on arrive à le faire disparaitre par le soufrage. — La vignette montre une
                      grappe de raisin en bon état et une grappe de raisin attaquée par l'oïdium. </caption>
                </figure>
                   <figure>
                      <caption> Le phylloxera, au contraire, est un insecte ; il produit sur la vigne les mêmes effets désastreux que l'oïdium. La vignette montre cet insecte grossi soixante
-                        fois ; il s'at taque aussi bien aux feuilles qu'aux racines, qu'il dessèche, ainsi que le montre la vignette de gauche. Le sulfure de carbone a pu seul, jus qu'à
+                        fois ; il s'attaque aussi bien aux feuilles qu'aux racines, qu'il dessèche, ainsi que le montre la vignette de gauche. Le sulfure de carbone a pu seul, jusqu'à
                         présent, combattre serieusement le phylloxera. </caption>
-                  </figure> Mais nos terres à nous, — il se tourna vers ses enfants: ces terres où un jour nous parlâ mes d'aller, — que sont-elles, monsieur le voyageur ? </p>
-               <p>Des terres de bénédiction, Monsieur ! un ciel toujours bleu, des plantations d'oran gers, de citron niers, d'oliviers ; des potagers splen- dides, de luxu
-                  riants*<gloss>Luxuriant. Abondant à l'excès.</gloss> vergers, des plaines de céréa les, enfin le grenier d'où les vieux Ro- mains tiraient le meilleur de leur
+                  </figure> Mais nos terres à nous, — il se tourna vers ses enfants: ces terres où un jour nous parlâmes d'aller, — que sont-elles, monsieur le voyageur ? </p>
+               <p>Des terres de bénédiction, Monsieur ! un ciel toujours bleu, des plantations d'orangers, de citronniers, d'oliviers ; des potagers splendides, de luxuriants*<gloss>Luxuriant. Abondant à l'excès.</gloss> vergers, des plaines de céréales, enfin le grenier d'où les vieux Romains tiraient le meilleur de leur
                   subsistance.</p>
                <figure>
                   <caption>Une exploitation de vignes en <placeName>Algérie</placeName>. Ayez soin que le vin en bouteilles soit toujours bien bouché ; sans cette précaution, l'air pourrait
                      entrer peu à peu dans la bouteille et quand on déboucherait celle-ci, au lieu d'excellent vin, on trouverait du vinaigre. </caption>
                </figure>
-               <p>Et où nous finirons bien aussi par puiser large ment ! interrompit <persName type="fictif" key="jacques">Jacques</persName>, qui écoutait avec passion. Déjà la terre algérienne,
+               <p>Et où nous finirons bien aussi par puiser largement ! interrompit <persName type="fictif" key="jacques">Jacques</persName>, qui écoutait avec passion. Déjà la terre algérienne,
                   cette terre française, nous envoie son vin ; nous y avons planté la vigne depuis <pb type="page" n="229" />
                   <fw>VIVENT LES EXPLORATEURS ! 229</fw> que l'oïdium d'abord, ensuite le phylloxera, ces deux malfaiteurs, ont tari les sources de notre vin de <placeName>France</placeName>,
                   comme pour nous enlever notre esprit et notre force. Et jusqu'à ce que ces sources coulent de nouveau, l'<placeName>Algérie</placeName> vendange pour nous du vin qui s'améliore
                   d'année en année. Elle deviendra notre cellier*<gloss>Cellier. Lieu au rez-de-chaussée où l'on serre le vin et d'autres provisions.</gloss>, et aussi notre jardin, et il nous
                   faut faire de tout ce continent africain un jardin sans pareil ! Vivent les hommes qui ouvrent la route à ce grand avenir, les explorateurs, pionniers*<gloss> Pionnier.
-                     Travailleur qui ouvre les chemins. </gloss> de la civilisation, <persName type="historique">Caillié</persName>, <persName type="historique">Li vingstone</persName>,
+                     Travailleur qui ouvre les chemins. </gloss> de la civilisation, <persName type="historique">Caillié</persName>, <persName type="historique">Livingstone</persName>,
                   <persName type="historique">Stanley</persName>, <persName type="historique">Brazza</persName>, <persName type="historique">Soleillet</persName>, dont j'avais déjà lu les
                   noms !</p>
             </div2>
@@ -778,7 +764,7 @@
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>L'olivier est un arbre du tronc duquel s'élancent nombre de rameaux portant un feuillage vert grisâtre qui a toujours été considéré comme l'emblème de la paix. Il vit
+                     <p>L'<term>olivier</term> est un arbre du tronc duquel s'élancent nombre de rameaux portant un feuillage vert grisâtre qui a toujours été considéré comme l'emblème de la paix. Il vit
                         fort longtemps et ne peut croître que dans les contrées où la température de l'hiver reste douce et réguliere, comme la <placeName>Provence</placeName>,
                         l'<placeName>Espagne</placeName>, l'<placeName>Italie</placeName>, la <placeName>Grèce</placeName>, l'<placeName>Asie Mineure</placeName>, la
                         <placeName>Syrie</placeName>.</p>
@@ -793,24 +779,24 @@
                      <list>
                         <item>SAUTERELLES.</item>
                         <item>— Décrire cet animal.</item>
-                        <item>— Que savez-vous de la sauterelle en France ? </item>
-                        <item>— Que savez-vous de la sauterelle dans l'Afrique septentrionale ? </item>
+                        <item>— Que savez-vous de la sauterelle en <placeName>France</placeName> ? </item>
+                        <item>— Que savez-vous de la sauterelle dans l'<placeName>Afrique septentrionale</placeName> ? </item>
                         <item>— Comment combat-on ses invnsions dans ce pays ? </item>
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>La sauterelle ou locuste est un insecte ailé, incapable de marcher, qui s'avance en sautant à l'aide de ses deux pattes postérieures beau coup plus longues que les deux
+                     <p>La <term>sauterelle</term> ou <term>locuste</term> est un insecte ailé, incapable de marcher, qui s'avance en sautant à l'aide de ses deux pattes postérieures beau coup plus longues que les deux
                         autres. Le mâle produit un bruit aigu <pb type="page" n="230" />
                         <fw>230 SUZETTE.</fw> et monotone, connu sous le nom de chant de la sauterelle, en frottant l'une contre l'autre ses ailes supérieures ou élytres.</p>
                      <p>Les sauterelles sont répandues dans toutes les parties du monde ; on en possède plusieurs espèces en <placeName>France</placeName> ; la plus connue est la grande
                         sauterelle verte à laquelle on donne à tort le nom de cigale. Elles vivent dans les prairies, dans les champs, sur les arbres et dévo rent les feuilles des
                         végétaux.</p>
-                     <p>Les criquets sont très bien conformés pour sauter et pour voler ; leur chant est plus varié que celui des sauterelles et provient du frot tement des cuisses de l'animal
+                     <p>Les <term>criquets</term> sont très bien conformés pour sauter et pour voler ; leur chant est plus varié que celui des sauterelles et provient du frot tement des cuisses de l'animal
                         contre les élytres. Ils sont connus dans toutes les parties du monde, mais dans les pays chauds, et notamment en <placeName>Algérie</placeName>, ils se multiplient si
                         prodigieusement qu'ils deviennent un véritable fléau. On les voit arriver en troupes innombrables qui forment dans l'air de véritables nuages ; ils s'abattent sur les
                         champs, les bois, les prairies et, en quelques heures, sur une étendue de plusieurs kilomètres, toute végétation a disparu; tout a été détruit, seié, haché, dévoré.
                         Quand le désastre est accompli, le terrible essaim s'enlève et repart pour de nouvelles dévastations.</p>
-                     <p>Ces dangereux insectes ont souvent désolé l'<placeName>Europe</placeName> par leurs inva sions.</p>
+                     <p>Ces dangereux insectes ont souvent désolé l'<placeName>Europe</placeName> par leurs invasions.</p>
                      <p>On les repousse par la flamme, la fumée, en opposant des toiles à leur passage ; mais ces moyens sont presque toujours insuffisants contre la multitude de ces
                         animaux.</p>
                   </div4>
@@ -843,10 +829,10 @@
                      <p>Les eaux pluviales qui tombent à la surface du sol descendent dans l'intérieur de la terre jusqu'à ce qu'elles rencontrent une couche im perméable, et elles s'y
                         accumulent en lacs souterrains ou bien coulent en suivant la pente du terrain. Si l'on fore avec une sonde un trou jusqu'à la rencontre de cette couche, l'eau jaillit
                         si l'ouverture est à un niveau inférieur à celui du point où commencent à s'arrêter les infiltrations.</p>
-                     <p>Un puits artésien est un trou très étroit foré à la sonde, d'où l'eau s'élève et sort sous forme de jets ou de ruisseaux abondants. Celui qu'on a établi à
+                     <p>Un <term>puits artésien</term> est un trou très étroit foré à la sonde, d'où l'eau s'élève et sort sous forme de jets ou de ruisseaux abondants. Celui qu'on a établi à
                         <placeName>Paris</placeName> sur la place de <placeName>Grenelle</placeName> a 543 mètres de pro fondeur et donne à la minute 3,000 litres d’eau à 27° de chaleur.
                         Celui qu'on a creusé dans la même ville, sur les hauteurs de <placeName>Passy</placeName>, fournit jusqu'à 17 millions de litres par jour.</p>
-                     <p>Les anciens Egyptiens et les Chinois savaient forer des puits arté siens ; en <placeName>France</placeName>, l'ancienne province d'<placeName>Artois</placeName> en
+                     <p>Les anciens Egyptiens et les Chinois savaient forer des puits artésiens ; en <placeName>France</placeName>, l'ancienne province d'<placeName>Artois</placeName> en
                         possède depuis long temps un grand nombre; telle est l'origine de la dénomination sous laquelle on les connaît aujourd'hui.</p>
                   </div4>
                </div3>
@@ -860,11 +846,11 @@
                <p>— Et vivent aussi ces messieurs ! ajouta <persName type="fictif" key="suzette">Suzette</persName>. L'explorateur <persName type="fictif" key="pascal">Pascal</persName> salua de
                   la tête gravement. L'autre ne bougea pas.</p>
                <p>— Voyons, Monsieur <persName type="fictif" key="pascal">Pascal</persName>, dit <persName type="fictif" key="m_dumay">M. Dumay</persName> après avoir un moment regardé les deux
-                  garçons, je vous ai donné, au premier abord, quatorze ans ; vous en avez, dites- vous, dix-huit. Eh bien ! pour avoir ainsi voyagé, traversé tant de pays, et surtout parlé
+                  garçons, je vous ai donné, au premier abord, quatorze ans ; vous en avez, dites-vous, dix-huit. Eh bien ! pour avoir ainsi voyagé, traversé tant de pays, et surtout parlé
                   comme vous venez de le faire avec tant de science et de facilité, vous êtes au moins âgé du double ; trente-six ans ! avouez-les, et dites, s'il vous plait, ce que vous avez
                   fait de votre barbe ?</p>
                <p>L'explorateur souriait avec complaisance comme à un compliment nouveau, quand dix heures sonnèrent.</p>
-               <p>— Eh ! s'écria le fermier en se levant, nous voilà en retard d'une heure pour le coucher! </p>
+               <p>— Eh ! s'écria le fermier en se levant, nous voilà en retard d'une heure pour le coucher ! </p>
                <p>— Monsieur, dit <persName type="fictif" key="pascal">Pascal</persName> en se levant également, si après avoir offert la table aux voyageurs fatigués, vous pouviez leur offrir
                   aussi le lit, une botte de paille dans la grange, ils aimeraient mieux cette auberge que toute autre, et vous n'obligeriez pas des ingrats.</p>
                <p>Il mit la main dans son gousset, en tira une montre d'argent.</p>
@@ -992,7 +978,7 @@
                <p> — Monsieur, je ne suis pas un voleur !</p>
                <p>— Nous verrons bien ; répondez.</p>
                <p>— Réponds, ajouta <persName type="fictif" key="sylvain">Sylvain</persName>, en touchant doucement du coude son camarade.</p>
-               <p>Des larmes, bien qu'énergiquement retenues, rou- laient dans les yeux de M. <persName type="fictif" key="pascal">Pascal</persName>.</p>
+               <p>Des larmes, bien qu'énergiquement retenues, roulaient dans les yeux de M. <persName type="fictif" key="pascal">Pascal</persName>.</p>
                <p>Eh bien ! dit-il enfin, voilà ! Cette montre est à <pb type="page" n="234" />
                   <fw>SUZETTE. 234 </fw> moi. C'est un cadeau que me fit ma mère, à mon dernier anniversaire de naissance, il y a huit jours.</p>
                <p>— Il y a huit jours ?... Votre mère ?... Ah ! ah ! elle n'est done pas morte dans la tempête de Zanzibar, votre mère ?... Et cette montre lui appartenait ?</p>
@@ -1002,7 +988,7 @@
                <p> Le jeune explorateur baissa le front ; <persName type="fictif" key="sylvain">Sylvain</persName> intervint de nouveau :</p>
                <p>— Allons, dis tout !</p>
                <p>Et M. <persName type="fictif" key="pascal">Pascal</persName> finit par dire tout :</p>
-               <p> Sa mère, veuve depuis quatre ans, était couturière à <placeName>Paris</placeName>: la meilleure des femmes, mais pas du tout dis- posée aux projets de voyage de monsieur son
+               <p> Sa mère, veuve depuis quatre ans, était couturière à <placeName>Paris</placeName>: la meilleure des femmes, mais pas du tout disposée aux projets de voyage de monsieur son
                   fils. Par grand désir de partir, non pas pour l'<placeName>Amérique</placeName>, comme il l'avait dit, mais pour l'<placeName>Afrique</placeName>, afin de rejoindre
                   l'expédition <persName type="historique">de Brazza</persName>*<gloss><persName>De Brazza</persName>. Officier de la marine française qui a exploré le
                      <placeName>Gabon</placeName>.</gloss>, ce fils s'était, voilà quatre jours, muni de sa montre ; il avait en outre emporté les quelques sous de sa tirelire, et, avec
@@ -1035,10 +1021,10 @@
                      <p>Afin de se faire passer pour des explorateurs, <persName type="fictif" key="pascal">Pascal</persName> et <persName type="fictif" key="sylvain">Sylvain</persName> avaient
                         commis la faute de mentir, et à cela leur vanité trouvait son compte ; mais déjà l'épisode de l'interprète avait soulevé des doutes <pb type="page" n="235" />
                         <fw>235 L'INTERROGATOIRE.</fw> sur leur sincérité ; celui de la montre les expose à passer pour des voleurs. Il leur faut avouer qu'il n'y a jamais eu de naufrage ;
-                        peut- être, jamais de voyage ! Quelle honte ! quelle mortification ! <persName type="fictif" key="pascal">Pascal</persName> pleure, et ces larmes coûtent à son
+                        peut-être, jamais de voyage ! Quelle honte ! quelle mortification ! <persName type="fictif" key="pascal">Pascal</persName> pleure, et ces larmes coûtent à son
                         amour-propre ; il commence à expier sa mauvaise action.</p>
                      <p> Il en arrive toujours ainsi aux menteurs, et, s'ils ne se corrigent de ce vice détestable, ils prennent l'habitude de la dissimulation et de l'hypocrisie. Sous un
-                        extérieur trompeur, ils cachent de détestables actions ; la carrière du mal leur est ouverte ; ils y ont pénétré ; s'arrê- teront-ils ? Qui le sait ? </p>
+                        extérieur trompeur, ils cachent de détestables actions ; la carrière du mal leur est ouverte ; ils y ont pénétré ; s'arrêteront-ils ? Qui le sait ? </p>
                      <p>On raconte qu'un condamné à mort, en marchant au supplice, disait à la vue de l'échafaud : « Voilà où m'a conduit le mensonge ! » De telles conséquences sont
                         heureusement rares ; mais il est trop fréquent de rencontrer des hommes, des femmes dont la vie a été empoisonnée et la réputation perdue à la suite des fautes où le
                         mensonge les entraîna.</p>
@@ -1374,7 +1360,7 @@
                      <caption>Le corbeau. Ce gros oiseau carnassier a un plumage extrèmement noir.</caption>
                   </figure> devant. <persName type="fictif" key="suzette">Suzette</persName>, <persName type="fictif" key="jacques">Jacques</persName>, à qui la gelée donnait du loisir, et <persName
                      type="fictif" key="sylvain">Sylvain</persName> fermaient la marche avec <persName type="fictif" key="m_dumay">M. Dumay</persName>. Le père ayant justement, ce jour-là, affaire au
-                  <placeName>Catelet</placeName>, accompagnait la troupe. Il avait retenu <placeName type="fictif" key="sylvain">Sylvain</placeName> dont l'air lui revenait, et qui, d'ailleurs,
+                  <placeName>Catelet</placeName>, accompagnait la troupe. Il avait retenu <persName type="fictif" key="sylvain">Sylvain</persName> dont l'air lui revenait, et qui, d'ailleurs,
                   parlait sol et charrue en ouvrier.</p>
                <p>On causait. <persName type="fictif" key="sylvain">Sylvain</persName> disait juste, montrait un cœur simple et même doux, qu'on n'eût pas trop attendu de l'expression légèrement
                   farouche de son visage et du plissement de ses sourcils. Il avait la fierté un peu méfiante du pauvre être solitaire qui s'est meurtri au préjugé*<gloss>Préjugé. Opinion, manière de
@@ -1470,7 +1456,7 @@
                   <div4 type="réponses">
                      <p>Si, du haut d'une colline isolée ou d'un édifice dominant, on considère ce qui nous entoure, le ciel apparaît sous la forme d'une voûte circulaire dont le point le plus élevé
                         se trouve au -dessus de nos têtes. Autour de nous, les plaines, les vallées, le paysage, en un mot, semble entouré d'un cercle dont les dernières limites sont fixées par la
-                        portée de nos regards. Or on a constaté qu'un tel phénomène ne peut se pro- duire que si l'on est placé sur un corps rond. </p>
+                        portée de nos regards. Or on a constaté qu'un tel phénomène ne peut se produire que si l'on est placé sur un corps rond. </p>
                      <p>On a été amené alnsi à croire que la terre est une boule immense, comme le sont d'ailleurs le soleil, la lune et les autres astres qui circulent dans le ciel.</p>
                      <p>Plusieurs preuves le démontrent :</p>
                      <p>1° Pendant les éclipses de lune, l'image de la terre se produit sur cet astre ; or cette image est parfaitement circulaire.</p>
