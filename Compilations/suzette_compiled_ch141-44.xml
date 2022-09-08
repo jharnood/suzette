@@ -455,7 +455,8 @@
                <p xmlns="">— Mon fils ! mon <persName xmlns="" key="jacques" type="fictif">Jacques</persName> ! Ah ! que je te presse sur mon cœur... Et vous aussi, <persName xmlns="" key="sylvain" type="fictif">Sylvain</persName> ! mon brave <persName xmlns="" key="sylvain" type="fictif">Sylvain</persName> ! </p>
                <p xmlns="">On entra dans la maison ; on haussa la flamme de la lampe. Ah ! qu'ils étaient beaux dans leur vareuse bleue, à boutons d'or ! à galons d'or ! Grandis, barbus, de vrais hommes ;
                   et leur honnête cœur brillait sur leur visage épanoui.</p>
-               <p xmlns="">Ils avaient mis trois semaines seulement en mer au lieu de quatre ; et voilà la raison de la surprise ! Ils arrivaient de la ville à pied; n'ayant pas voulu attendre le
+               <p>Ils avaient mis trois semaines seulement en mer au lieu de quatre ; et voilà la raison de la surprise ! Ils arrivaient de la ville à pied; n'ayant pas voulu attendre le
+
                   courrier, qui n'en partait qu'à minuit.</p>
                <fw xmlns="" type="footer"><fw xmlns="" type="sig">29.</fw></fw>
                <pb xmlns="" type="page" n="514"/>
@@ -546,13 +547,15 @@
                         perd anéantie devant la toute-puissance du Créateur.</p>
                   </div4>
                </div3>
-               <div3 xmlns="" type="sciences_naturelles">
+
+               <div3 type="sciences_naturelles">
                   <head xmlns="" type="sujets">Sciences naturelles.</head>
                   <div4 xmlns="" type="questions">
                      <list xmlns="">
                         <item xmlns="">— Que savez-vous des bananes ? — des noix de coco? — des cédrats, du gingembre ? </item>
                         <item xmlns="">— Où croit le thé ? </item>
                         <item xmlns="">— Que recherche-t-on dans cet arbrisseau ? </item>
+
                      </list>
                   </div4>
                   <div4 xmlns="" type="réponses">
@@ -622,8 +625,10 @@
                   <fw xmlns="">518 SUZETTE.</fw> nants d'esprit et de bonté, est la chérie du vieillard, qui l'appelle <persName xmlns="" key="marguerite" type="fictif">Suzette II</persName>.</p>
                <p xmlns="">Auprès d'elle, sa mère et <persName xmlns="" key="sylvain" type="fictif">Sylvain</persName> ; puis <persName xmlns="" key="m_valon" type="fictif">M.</persName> et <persName xmlns="" key="mme_valon" type="fictif">Mme Valon</persName> avec leurs enfants, et un grand garçon de bonne mine, le nez en trompette, M. <persName xmlns="" key="françois" type="fictif">François</persName>,
                   maintenant mécanicien distingué.</p>
-               <p xmlns="">Toute la famille s'est réunie pour ce beau jour de septembre: c'est l'anniversaire du double mariage de <persName xmlns="" key="suzette" type="fictif">Suzette</persName> et de <persName xmlns="" key="jacques" type="fictif">Jacques</persName>, et c'est aussi l'anniversaire de naissance du père.</p>
+
+               <p>Toute la famille s'est réunie pour ce beau jour de septembre: c'est l'anniversaire du double mariage de <persName xmlns="" key="suzette" type="fictif">Suzette</persName> et de <persName xmlns="" key="jacques" type="fictif">Jacques</persName>, et c'est aussi l'anniversaire de naissance du père.</p>
                <p xmlns="">Il a voulu rassembler tous les <orgName xmlns="">Dumay</orgName>. Et ils sont venus se ranger autour du chef de la famille. Seul <persName xmlns="" key="pascal" type="fictif">Pascal</persName>
+
                   manque.</p>
                <p xmlns=""><persName xmlns="" key="pascal" type="fictif">Pascal</persName> accomplit à cette heure le voyage d'exploration que, par un coup de mémoire anticipée, il était venu raconter jadis. Il a
                   suivi l'expédition de <persName xmlns="" type="historique">Brazza</persName> et compte, au printemps prochain, faire une visite à ses vieilles connaissances, les <orgName xmlns="">Touaregs</orgName>,
@@ -634,16 +639,19 @@
                   deux fermes. Avec ses secrets, c'est tout ce qui lui reste. Le père <persName xmlns="" key="benoît" type="fictif">Benoît</persName>, plus heureux qu'elle, est mort.</p>
                <p xmlns="">La caravane familiale passe le long des champs. Complaisamment <persName xmlns="" key="m_dumay" type="fictif">M. Dumay</persName> en montre de joyeux, gras et choyés : ceux-ci sont de
                   Fragicourt, ceux-là de BoisMaillard, les perles du pays ! </p>
-               <p xmlns="">Mais sa petite fille <persName xmlns="" type="fictif" key="marguerite">Marguerite</persName> le ramène à une autre question. Elle veut arriver la première à ces buissons, là-bas.</p>
-               <p xmlns="">Obéissant, il la met sur son dos.</p>
-               <p xmlns="">— Et vite, vite, grand-père ! </p>
-               <p xmlns="">Il presse le pas et si bien qu'il prend la tête. Bientôt, au haut de la colline, les deux silhouettes, la grande et la petite, se dessinent sur le fond clair du ciel. <pb xmlns="" type="page" n="519"/>
+
+               <p>Mais sa petite fille <persName xmlns="" type="fictif" key="marguerite">Marguerite</persName> le ramène à une autre question. Elle veut arriver la première à ces buissons, là-bas.</p>
+               <p>Obéissant, il la met sur son dos.</p>
+               <p>— Et vite, vite, grand-père ! </p>
+               <p>Il presse le pas et si bien qu'il prend la tête. Bientôt, au haut de la colline, les deux silhouettes, la grande et la petite, se dessinent sur le fond clair du ciel. <pb xmlns="" type="page" n="519"/>
                   <fw xmlns="">TROIS ANS APRÈS. 519</fw> Comme si elle avait conscience du radieux tableau qu'elle offre en ce moment à tous les regards, <persName xmlns="" type="fictif" key="marguerite">Mar-
                      guerite</persName> pousse un triomphant cri de joie.</p>
-               <p xmlns="">Son visage, ses beaux et bons yeux d'enfant aimé, sain et charmant, jettent un rayonnement de vie qui pénètre tous les cœurs.</p>
-               <p xmlns=""><persName xmlns="" key="sylvain" type="fictif">Sylvain</persName>, attendri, prend la main de sa femme. Il montre au loin la ferme, nichée dans la verdure.</p>
-               <p xmlns="">Et <persName xmlns="" key="suzette" type="fictif">Suzette</persName> presse cette main. Elle a compris : </p>
-               <p xmlns="">C'est ici, en ce même endroit, qu'un jour, le pauvre garçon solitaire, abandonné, avait rèvé le foyer, la famille, la communauté de tendresse, de peines et de joies qui sont le
+               <p>Son visage, ses beaux et bons yeux d'enfant aimé, sain et charmant, jettent un rayonnement de vie qui pénètre tous les cœurs.</p>
+               <p><persName xmlns="" key="sylvain" type="fictif">Sylvain</persName>, attendri, prend la main de sa femme. Il montre au loin la ferme, nichée dans la verdure.</p>
+               <p>Et <persName xmlns="" key="suzette" type="fictif">Suzette</persName> presse cette main. Elle a compris : </p>
+               <p>C'est ici, en ce même endroit, qu'un jour, le pauvre garçon solitaire, abandonné, avait rèvé le foyer, la famille, la communauté de tendresse, de peines et de joies qui sont le
+
+
                   meilleur de cette vie.</p>
                <p xmlns="">Et maintenant, il les avait !</p>
             </div2>
