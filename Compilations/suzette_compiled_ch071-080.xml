@@ -864,7 +864,7 @@
                   <head type="sujets">Calcul.</head>
                   <div4 type="questions">
                      <list>
-                        <item>— De <placeName>Paris</placeName> à Saint-Quentin on compte 154 kilomêtres; on paye pour le trajet : 10 fr. 45 en 3e classe, 14 fr. 20 en seconde, 18 fr. 95 en première : </item>
+                        <item>— De <placeName>Paris</placeName> à <placeName>Saint-Quentin</placeName> on compte 154 kilomêtres; on paye pour le trajet : 10 fr. 45 en 3e classe, 14 fr. 20 en seconde, 18 fr. 95 en première : </item>
                         <item>— combien économise-t-on en prenant la 3e classe ou la 2e ; </item>
                         <item>— à combien revient le parcours d'un kilomètre dans chaque classe ?</item>
                      </list>
@@ -872,8 +872,8 @@
                   <div4 type="réponses">
                      <p>Économie des troisièmes : 1° sur les secondes — 14 fr. 20 — 10 fr. 45 — — — : 2° sur les premières — 18 fr. 95 — 10 fr. 45 — Économie des secondes sur les premières.... — 18
                         fr. 95 — 14 fr. 20 — 10 fr. 45 Prix du parcours d'un kilomêtre en 3e classe. — — 154 14 fr. 20 — en 2e classe. — — 154 18 fr. 95 — en 1e classe. — — — 154 MODÉLE D'UNE TRAITE.
-                        Toulon, le 5 juillet 1888. B. P. F. 540 Au 25 septembre prochain, il vous plaira payer à l'ordre de M. Henriet, la somme de cinq cent quarante frunes, valeur en marchandises,
-                        que vous passerez suivant mon avis de ce jour. L. TABOURY. A MONSIEUR ILURERT, négociant à LIMOGES. </p>
+                        <placeName>Toulon</placeName>, le 5 juillet 1888. B. P. F. 540 Au 25 septembre prochain, il vous plaira payer à l'ordre de M. Henriet, la somme de cinq cent quarante frunes, valeur en marchandises,
+                        que vous passerez suivant mon avis de ce jour. <persName type="fictif">L. TABOURY</persName>. A <persName type="fictif">MONSIEUR ROBERT</persName>, négociant à <placeName>LIMOGES</placeName>. </p>
                   </div4>
                </div3>
                <pb type="page" n="265" />
@@ -891,18 +891,18 @@
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>Sur le parcours à suivre, lequel est indiqué par des tiges de bois plantées dans la direction arrêtée par les ingénieurs, on nivelle le sol de manière qu'il soit horizontal ou
+                     <p>Sur le parcours à suivre, lequel est indiqué par des tiges de bois plantées dans la direction arrêtée par les <term>ingénieurs</term>, on nivelle le sol de manière qu'il soit horizontal ou
                         qu'il conserve une pente déterminée.</p>
-                     <p>Ce nivellement nécessite : 1° des remblais, amas de terre sur lesquels on établira les rails, et qui offrent une surface solide et bien unie ; — 2° des tranchées, larges fossés
-                        aux bords en talus, au fond desquels circuleront les trains ; — 3° des viadues, ponts établis sur des vallées sèches ; — 4° des tunnels, galeries souterraines creusées sous les
-                        montagnes où il serait impossible ou trop dispendieux d'etablir des tranchées ; — 5° des ponts.</p>
-                     <p>Une gare est une vaste construction précédée d'une place ou d'une cour pour l'arrivée des voyageurs et des voitures. Elle comprend un bâtiment central au rez-de-chaussée duquel
-                        est la salle où l'on prend les billets. Au premier étage est le logement de la famille du chef de gare. Dans des bâtiments latéraux, qui souvent n'ont pas d'étage, on etablit
-                        les salles d'attente et les salles de bagages et de marchandises, ainsi que la consigne. Des constructions de moindre importance servent à remiser les wagons, les ustensiles de
+                     <p>Ce nivellement nécessite : 1° des <term>remblais</term>, amas de terre sur lesquels on établira les rails, et qui offrent une surface solide et bien unie ; — 2° des <term>tranchées</term>, larges fossés
+                        aux bords en talus, au fond desquels circuleront les trains ; — 3° des <term>viaducs</term>, ponts établis sur des vallées sèches ; — 4° des <term>tunnels</term>, galeries souterraines creusées sous les
+                        montagnes où il serait impossible ou trop dispendieux d'etablir des tranchées ; — 5° des <term>ponts</term>.</p>
+                     <p>Une <term>gare</term> est une vaste construction précédée d'une place ou d'une cour pour l'arrivée des voyageurs et des voitures. Elle comprend un bâtiment central au rez-de-chaussée duquel
+                        est la <term>salle où l'on prend les billets</term>. Au premier étage est le logement de la famille du chef de gare. Dans des bâtiments latéraux, qui souvent n'ont pas d'étage, on etablit
+                        les <term>salles d'attente</term> et les <term>salles de bagages</term> et <term>de marchandises</term>, ainsi que la <term>consigne</term>. Des constructions de moindre importance servent à remiser les wagons, les ustensiles de
                         service, les lampes, les lanternes, etc.</p>
-                     <p>On appelle buffet une vaste salle attenante à une gare, dans laquelle on donne à manger et à boire aux voyageurs.</p>
-                     <p>Pour obtenir un billet, on se présente au guichet de la salle d'entrée lorsqu'il est ouvert, et l'on demande un billet de telle ou telle classe pour telle ou telle destination.
-                        Ex. : Une seconde pour Montauban. Si l'on désire un aller et retour, on s'exprime ainsi : Une troisième, aller et retour, pour Grenoble, par exemple.</p>
+                     <p>On appelle <term>buffet</term> une vaste salle attenante à une gare, dans laquelle on donne à manger et à boire aux voyageurs.</p>
+                     <p>Pour <term>obtenir un billet</term>, on se présente au guichet de la salle d'entrée lorsqu'il est ouvert, et l'on demande un billet de telle ou telle classe pour telle ou telle destination.
+                        Ex. : <term>Une seconde pour <placeName>Montauban</placeName></term>. Si l'on désire un aller et retour, on s'exprime ainsi : <term>Une troisième, aller et retour, pour <placeName>Grenoble</placeName></term>, par exemple.</p>
                      <p>Les principaux employés sont : le chef et le sous-chef de gare, les facteurs, le distributeur des billets, les lampistes, les camionneurs.</p>
                   </div4>
                </div3>
