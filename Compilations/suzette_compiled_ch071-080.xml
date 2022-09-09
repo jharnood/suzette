@@ -82,7 +82,7 @@
                <p>— Oui, ajouta <persName type="fictif" key="m_dumay">M. Dumay</persName>. Et tenez ! il nous arriva autrefois, sur ce terroir, un garçon à peu près dans votre situation ; c'était un
                   énergique travailleur. Aujourd'hui, il est maître d'un bon bien, marié, père de trois enfants.</p>
                <p><persName type="fictif" key="m_dumay">M. Dumay</persName> montra un bouquet d'arbres au loin dans la plaine.</p>
-               <p>— Voilà sa ferme du <placeName>Bois-Maillard</placeName>. Vous plait-il que j'aille lui parler de vous ? Il se souviendra, n'étant pas de ceux qui, dans la prospérité, lèvent le nez
+               <p>— Voilà sa ferme du <placeName type="fictif">Bois-Maillard</placeName>. Vous plait-il que j'aille lui parler de vous ? Il se souviendra, n'étant pas de ceux qui, dans la prospérité, lèvent le nez
                   très haut pour s'empécher de voir la terre d'où ils sont sortis. En vous il se reconnaîtra tel qu'il était lui-même voilà vingt-cinq ans, et, s'il n'y a pas de place chez lui, il
                   vous en fera une, ou je me trompe fort. Vous convient-il, mon ami, que je voie <persName type="fictif" key="m_cartier">M. Cartier</persName> ? Il n'est qu'à neuf kilomètres, de chez
                   nous ; c'est deux pas pour la Grise.</p>
@@ -132,13 +132,13 @@
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>La reconnaissance est le souvenir du bienfait reçu joint au désir de payer de rêtour le bienfaiteur. C'est la vertu des bons cœurs.</p>
+                     <p>La <term>reconnaissance</term> est le souvenir du bienfait reçu joint au désir de payer de rêtour le bienfaiteur. C'est la vertu des bons cœurs.</p>
                      <p>Il y a entre le bienfaiteur et l'obligé une convention, sous-entendue <pb type="page" n="247" />
                         <fw>IL Y A DE BONNES GENS. 247</fw> en quelque sorte ; c'est que l'un doit, sur-le-champ, oublier le service qu'il a rendu, et l'autre s'en souvenir toujours.</p>
                      <p>On témoigne sa reconnaissance par de l'affection, des égards, des attentions, qu'on montre sous une forme respectueuse et discrète si l'on est redevable du bienfait à une
                         personne avec laquelle on n'a pas de rapports familiers. Avec ses parents, ses amies, on sera plus expansive, caressante même, et l'on saisira avec bonheur toutes les occasions
                         de leur rendre ces petits services qui attestent qu'on n'a point oublié.</p>
-                     <p>Les enfants doivent toute leur reconnaissance à leurs parents et aux personnes qui remplacent ces derniers auprès d'eux : telles sont les nstitutrices. Ils tiennent des uns et
+                     <p>Les enfants doivent toute leur reconnaissance à leurs parents et aux personnes qui remplacent ces derniers auprès d'eux : telles sont les institutrices. Ils tiennent des uns et
                         des autres la vie de l'âme et celle du corps ; ils reçoivent quotidiennement des marques de leur sollicitude ; comment resteraient-ils indifférents ? </p>
                      <p>Il en est pourtant, des enfants, des hommes, qui perdent le souvenir des bienfaits ; rien n'est plus odieux. On conçoit d'autant moins cette défaillance morale que les animaux
                         mêmes sont reconnaissants. Un tel vice décèle une âme vile et égoïste.</p>
@@ -161,8 +161,8 @@
                         gémissait douloureusement et regardait l'esclave comme s'il le suppliait de venir à son secours. Quelque peu rassuré, <persName type="historique">Androclès</persName> s'avance
                         ; il voit que l'une des pattes du lion est enflée ; enhardi, il la saisit, l'examine et distingue une épine enfoncée dans les chairs. Il l'arrache et le lion témoigne le
                         soulagement qu'il éprouve, par son attitude et ses regards.</p>
-                     <p>Il fut bientôt rétabli, et il montra sa reconnaissance à son bienfaiteur en le pourvoyant de gibier. Mais cétte vie commune, qui était douce à tous deux, ne dura guère ;
-                        l'esclave fut arrêté un soir qu'il. s'était aventuré à travers la campagne. Les tribunaux le condamnèrent à périr dans le cirque sous la dent des bêtes féroces.</p>
+                     <p>Il fut bientôt rétabli, et il montra sa reconnaissance à son bienfaiteur en le pourvoyant de gibier. Mais cette vie commune, qui était douce à tous deux, ne dura guère ;
+                        l'esclave fut arrêté un soir qu'il s'était aventuré à travers la campagne. Les tribunaux le condamnèrent à périr dans le cirque sous la dent des bêtes féroces.</p>
                      <p>Un mois se passe ; le jour du supplice est arrivé, <persName type="historique">Androclès</persName>, étendu dans l'arène, sous les yeux de milliers de spectateurs, attend la
                         mort ; une grille s’ouvre ; un lion monstrueux se précipite sur la victime. O surprise ! l'animal se couche aux pieds de l'esclave, lui lèche les mains et témoigne son
                         affection de la manière la plus touchante.</p>
@@ -238,26 +238,26 @@
                   <div4 type="réponses">
                      <p>Les châteaux forts dont la <placeName>France</placeName> se hérissa à l'époque de la féodalité, étaient presque toujours construits à mi-côte. Quelquefois ils étaient bâtis au
                         sommet d'un rocher et en rase campagne pour commander une vallée ou le passage d'une rivière.</p>
-                     <p>Tout château se composait d'un certain nombre de parties essentielles telles que fessés, ponts, portes, tours, créneaux, plates-formes, donjon et souterrains. Les fossés
+                     <p>Tout château se composait d'un certain nombre de parties essentielles telles que <term>fossés</term>, <term>ponts</term>, <term>portes</term>, <term>tours</term>, <term>créneaux</term>, <term>plates-formes</term>, <term>donjon</term> et <term>souterrains</term>. Les fossés
                         étaient quelquefois remplis d'eau et protégés par des fortifications, extérieures. De l'autre côté s'élevaient la masse imposante des murailles flanquées de tours aux angles,
                         et le donjon, énorme tour qui servait de dernier refuge lorsque l'enceinte avait été emportée d'assaut.</p>
-                     <p>La porte du château ne laissait ordinairement qu'un passage étroit et resserré entre doux tours ; le pont-levis la précédait et, en se relevant, la couvrait contre les attaques
-                        de l'ennemi. On ajoutait à cette défense une herse, lourde grille de fer ou un système de pieux qui glissaient dans des rainures pratiquées aux parois des murailles ; en
-                        arrière, on voyait d'énormes portes hérissées de fer. Dans les murs latéraux, on ménagea plus tard des meurtrières, ouvertures très étroites faîtes pour donner passage aux
-                        flèches ou aux balles, et des embrasures pour les canons.</p>
-                     <p>Les tours soutenaient les murs et contenaient les magasins ; elles étaient ordinairement couronnées d'espèces de boucliers de maçonnerie appelés créneaux, qui protégeaient les
+                     <p>La <term>porte du château</term> ne laissait ordinairement qu'un passage étroit et resserré entre doux tours ; le <term>pont-levis</term> la précédait et, en se relevant, la couvrait contre les attaques
+                        de l'ennemi. On ajoutait à cette défense une <term>herse</term>, lourde grille de fer ou un système de pieux qui glissaient dans des rainures pratiquées aux parois des murailles ; en
+                        arrière, on voyait d'énormes portes hérissées de fer. Dans les murs latéraux, on ménagea plus tard des <term>meurtrières</term>, ouvertures très étroites faîtes pour donner passage aux
+                        flèches ou aux balles, et des <term>embrasures</term> pour les canons.</p>
+                     <p>Les <term>tours</term> soutenaient les murs et contenaient les magasins ; elles étaient ordinairement couronnées d'espèces de boucliers de maçonnerie appelés <term>créneaux</term>, qui protégeaient les
                         défenseurs des remparts tout en leur permettant de faire usage de leurs armes. Les portes et fenêtres, placées à une hauteur où l'escalade était possible, étaient défendues par
                         des balcons munis d'un parapet élevé et à jour dans la partie inferieure ; dans la suite, on multiplia ces parapets et on en garnit le pourtour des murailles ; sous le nom de
-                        machicoulis. Les espaces laissés vides permettaient de lancer des projectiles sur les assaillants.</p>
-                     <p>Dans l'espace qui séparait les tours et aux angles saillants, on élevait souvent des guérites de pierre qu'on appelait échauguettes, destinées à abriter les sentinelles.</p>
-                     <p>A l'intérieur du château, on entrait dans un terrain nommé la basse cour : c'est là qu'étaient les logements, la chapelle, les magasins, les écuries ; on y vovait encore une
+                        <term>machicoulis</term>. Les espaces laissés vides permettaient de lancer des projectiles sur les assaillants.</p>
+                     <p>Dans l'espace qui séparait les tours et aux angles saillants, on élevait souvent des guérites de pierre qu'on appelait <term>échauguettes</term>, destinées à abriter les sentinelles.</p>
+                     <p>A l'intérieur du château, on entrait dans un terrain nommé la <term>basse cour</term> : c'est là qu'étaient les logements, la chapelle, les magasins, les écuries ; on y vovait encore une
                         mare, des citernes ou un puits.</p>
-                     <p>Le donjon était construit ordinairement dans le lieu le plus élevé et de l'accès le plus difficile ; mais il n'avait pas de place déterminée ; tantôt il touchait aux remparts
+                     <p>Le <term>donjon</term> était construit ordinairement dans le lieu le plus élevé et de l'accès le plus difficile ; mais il n'avait pas de place déterminée ; tantôt il touchait aux remparts
                         comme au château de <placeName>Coucy</placeName>, tantôt il était complètement isolé comme dans le château de <placeName>Vincennes</placeName>. Il con- <pb type="page" n="250" />
-                        <fw>250 SUZETTE.</fw> sistait quelquefois en plusieurs tours appelées bastilles, mais, le plus souvent, en une soule tour très élevée nommée la maîtresse tour du château. Le
+                        <fw>250 SUZETTE.</fw> sistait quelquefois en plusieurs tours appelées <term>bastilles</term>, mais, le plus souvent, en une soule tour très élevée nommée la <term>maîtresse tour du château</term>. Le
                         passage des escaliers conduisant aux salles était barricadé par des grilles et des portes ; des boules de pierre énormes placées en réserve sur les paliers pouvaient être
                         roulées dans les escaliers de manière à obstruer le passage et à renverser même un ennemi victorieux.</p>
-                     <p>Les souterrains servaient de magasins, de caves, de prisons ou d'asile en cas de prise de la forteresse. Les oubliettes étaient des puits profonds où l'on précipitait les
+                     <p>Les <term>souterrains</term> servaient de magasins, de caves, de prisons ou d'asile en cas de prise de la forteresse. Les <term>oubliettes</term> étaient des puits profonds où l'on précipitait les
                         criminels ou les victimes.</p>
                      <p>La <placeName>France</placeName> fut couverte de châteaux forts à l'époque de la féodalité, du dixième au douzième siècle ; ils servirent d'abord d'asile aux populations des
                         campagnes contre les invasions ennemies, telles que celles des Normands ; plus tard, ils les protégeaient dans les guerres de seigneur à seigneur. Ils existèrent jusqu'au
@@ -312,15 +312,15 @@
                      <p>Les plantes nuisibles sont celles qui, par leur multiplication, épuisent le sol et entravent le développement des plantes utiles dans les lieux cultivés.</p>
                      <p>Sur les terrains incultes, on voit principalement des chardons, des épines, des orties.</p>
                      <p>Dans les champs et prairies, on remarque : </p>
-                     <p>1° Le chiendent, qui étend de tous côtés ses racines souterraines et se multiplie avec rapidité. Des labours, des hersages répétés par un temps bien sec et l'enlèvement des
+                     <p>1° Le <term>chiendent</term>, qui étend de tous côtés ses racines souterraines et se multiplie avec rapidité. Des labours, des hersages répétés par un temps bien sec et l'enlèvement des
                         tiges sont les meilleurs moyens de s'en débarrasser.</p>
                      <pb type="page" n="251" />
                      <fw>LA DÉPÉCHE. 251 </fw>
-                     <p>2° La cuscute, plante à rameaux filamenteux rougeâtres, très nombreux, qui s'implantent sur les tiges des plantes fourragères et les font périr.</p>
-                     <p>3° La folle avoine, dont les racines ressemblent à de petits oignons qui peuvent produire chacun une tige ; elle est aussi pernicieuse que le chiendent.</p>
-                     <p>4° Le chardon, qui repousse toujours quand on le coupe et dont la multiplication est lacilitée par le nombre prodigieux de ses graines ; il étouffe les plantes utiles dans les
+                     <p>2° La <term>cuscute</term>, plante à rameaux filamenteux rougeâtres, très nombreux, qui s'implantent sur les tiges des plantes fourragères et les font périr.</p>
+                     <p>3° La <term>folle avoine</term>, dont les racines ressemblent à de petits oignons qui peuvent produire chacun une tige ; elle est aussi pernicieuse que le chiendent.</p>
+                     <p>4° Le <term>chardon</term>, qui repousse toujours quand on le coupe et dont la multiplication est lacilitée par le nombre prodigieux de ses graines ; il étouffe les plantes utiles dans les
                         champs dont on ne l'a pas extirpé.</p>
-                     <p>5° Le sénevé ou moutarde sauvage, plante à fleur jaune, qui produit les mêmes effets que le chardon. Il faut l'arracher avant la maturité de la graine.</p>
+                     <p>5° Le <term>sénevé</term> ou <term>moutarde sauvage</term>, plante à fleur jaune, qui produit les mêmes effets que le chardon. Il faut l'arracher avant la maturité de la graine.</p>
                      <p>On emploie les épines pour former des clôtures et pour le chauffage ; les orties hachées sont recherchées par la plupart des volailles de la basse-cour.</p>
                   </div4>
                </div3>
@@ -329,24 +329,24 @@
          <div1 type="chapitre" xml:lang="fr" n="ch073">
             <head>73. — La dépèche. (Élève, p. 154.)</head>
             <div2 type="récit">
-               <p>— Le bureau du télégraphe ! cria François, toujours en avant. On entra ; on remit à l'employé la dépêche pour Mme Richard. A peine avait-on dépassé le seuil que le
+               <p>— Le bureau du télégraphe ! cria François, toujours en avant. On entra ; on remit à l'employé la dépêche pour <persName type="fictif" key="mme_richard">Mme Richard</persName>. A peine avait-on dépassé le seuil que le
                   manipulateur*<gloss>Manipulateur. Appareil pour transmettre les dépêches télégraphiques.</gloss> commençait sa batterie<gloss>Batterie. Succession de petits coups frappés sur un
                      timbre ou sur une pièce différente de métal.</gloss> ; la dépèche partait. Le manipulateur se tut : elle était partie, arrivée !</p>
-               <p>Au siècle dernier, dans une ville d'Amérique, à Boston, un jour d'orage, un enfant joue au cerf-volant ; il a attaché une clé à la queue de ce cerf-volant, trop léger et qu'il faut
+               <p>Au siècle dernier, dans une ville d'<placeName>Amérique</placeName>, à <placeName>Boston</placeName>, un jour d'orage, un enfant joue au cerf-volant ; il a attaché une clé à la queue de ce cerf-volant, trop léger et qu'il faut
                   alourdir. Une petite étincelle lumineuse brille tout à coup sur la clé, à la vive curiosité du garçon, très frappé de ce phénomène*<gloss>Phénomène. Tout ce qui apparait de nouveau
                      dans l'air, dans le ciel ou sur la terre.</gloss>
                </p>
                <figure>
-                  <caption>L'ancien télégraphe. — Nous sommes loin de ces machines de hois à longs bras, qui, de clocher eu clocher, d'un bout de la France à l'autre, s'envoyaient des signaux. Le
+                  <caption>L'ancien télégraphe. — Nous sommes loin de ces machines de hois à longs bras, qui, de clocher eu clocher, d'un bout de la <placeName>France</placeName> à l'autre, s'envoyaient des signaux. Le
                      télégraphe électrique et, depuis peu, le téléphone sont d'admirables découvertes qui nous permettent d'échanger nos idées et mème une conversation avec les habitants de toutes les
                      parties du monde. </caption>
                </figure>
                <pb type="page" n="252" />
                <fw>252 SUZETTE.</fw>
-               <p>L'enfant devint le grand Franxlin ; la petite étincelle est devenue la grande électricité*<gloss>Electricité. Cause, force inconnue qui produit la foudre.</gloss> avec ses nombreuses
+               <p>L'enfant devint le grand <persName type="historique">Franklin</persName> ; la petite étincelle est devenue la grande électricité*<gloss>Electricité. Cause, force inconnue qui produit la foudre.</gloss> avec ses nombreuses
                   applications qui ont déjà changé et changeront encore plus la face de la terre.</p>
                <p>La foudre, la terrible force destructrice devant laquelle les premiers hommes, terrifiés, se prosternaient, l'homme d'aujourd'hui s'en empare, l'annihile*<gloss>Annihiler. Réduire à
-                  rien.</gloss> par le paratonnerre de Franxlin ou la maitrise, lui fait porter sa parole et ses commandements jusqu'au bout de l'uni<figure>
+                  rien.</gloss> par le paratonnerre de <persName type="historique">Franklin</persName> ou la maitrise, lui fait porter sa parole et ses commandements jusqu'au bout de l'uni-<figure>
                      <caption> Le paratonnerre. La lige d'un paratonnerre varie de trois à cinq metres; elle est terminée en haut par une pointe de platine. Une barre en métal, servant de conducteur,
                         est soudce à la tige et descend, en suivant le toit et les murs de l'édifice, soit dans un puits, soit dans un trou profond. Un paratonnerre en mauvais état peut amener des
                         accidents nombreux.</caption>
@@ -355,17 +355,17 @@
                      <caption>Les phares sont dressés sur un cap, sur un point éminent d'une côte, ou sur la jetée d'un port. Une lanterne qui se trouve à leur extrémité est allumée pendant la nuit,
                         et ce feu, connu des navires, les guide au milieu de l'obscurité.</caption>
                   </figure> vers, comme il s'en éclaire contre la nuit ; et quelles autres merveilles n'en tirera-t-il pas demain !</p>
-               <p>— Qui, dit Sylvain, nous sommes loin des feux allumés sur les montagnes pour les communications que les hommes avaient à se faire. Nous sommes loin aussi de ces machines de bois à
+               <p>— Qui, dit <persName type="fictif" key="sylvain">Sylvain</persName>, nous sommes loin des feux allumés sur les montagnes pour les communications que les hommes avaient à se faire. Nous sommes loin aussi de ces machines de bois à
                   longs bras, qui, de clocher en clocher, d'un bout à l'autre de la France, se faisaient des gestes dégingandés*<gloss>Dégingandé. Se dit d'une personne dont la contenance et la
                      démarche sont mal assurées.</gloss>.</p>
-               <p>M. Pascal, qui, malgré son petit désastre de la veille, n'engendrait pas la mélancolie et trouvait généralement <pb type="page" n="253" />
+               <p>M. <persName type="fictif" key="pascal">Pascal</persName>, qui, malgré son petit désastre de la veille, n'engendrait pas la mélancolie et trouvait généralement <pb type="page" n="253" />
                   <fw>LA DÉPÈCHE. 253</fw> dans son excellente mémoire quelque bonne chose à répondre, se mit à chanter :</p>
                <lg>
                   <l>« Que fais-tu, mon vieux télégraphe,</l>
                   <l>Au sommet de ton vieux clocher...</l>
                   <l>Sérieux comme une épitaphe, </l>
                   <l>Immobile comme un rocher ?... »</l>
-                  <l>(G. NADAUD.)</l>
+                  <l>(<persName type="historique">G. NADAUD</persName>.)</l>
                </lg>
             </div2>
             <div2 type="questionnaire">
@@ -374,7 +374,7 @@
                   <item>— Que remit-on au telegraphe ? </item>
                   <item>— Quel était l'objet de la dépèche ? </item>
                   <item>— Qui fut mis immédiatement en mouvement ? </item>
-                  <item>— Qu'est-ce que Boston ? </item>
+                  <item>— Qu'est-ce que <placeName>Boston</placeName> ? </item>
                   <item>— Quel phenomène y observa, au siecle dernier, un enfant qui jouait au cerf-volant ? </item>
                   <item>— Qu'est-ce qu'un cerf-volant ? </item>
                   <item>— Comment cet enfant se nommait-il ? </item>
@@ -382,7 +382,7 @@
                   <item>— Qu'est-ce qui maitrise la foudre ? </item>
                   <item>— Donnez des détails sur le paratonnerre. </item>
                   <item>— Qu'ont rela lacé la lumiere électrique et le telégraphe électrique ? </item>
-                  <item>— Répétez le fragment de chanson que fredonna Pascal.</item>
+                  <item>— Répétez le fragment de chanson que fredonna <persName type="fictif" key="pascal">Pascal</persName>.</item>
                </list>
             </div2>
             <div2 type="exercices">
@@ -391,23 +391,23 @@
                   <head type="sujets">Sciences naturelles.</head>
                   <div4 type="questions">
                      <list>
-                        <item>— Quelle propriété donne-t-on à un bâton de cire ou de soufre en le froitant ;</item>
+                        <item>— Quelle propriété donne-t-on à un bâton de cire ou de soufre en le frottant ;</item>
                         <item>— à un bâton de verre ? </item>
                         <item>— Quelle est la cause de ces phénomènes ? </item>
                         <item>— Où se forme naturellement l'électricité ? </item>
                         <item>— Que produit-elle dans l'atmosphere ? </item>
-                        <item>— Dangers que présenle la chute de la foudre. </item>
+                        <item>— Dangers que présente la chute de la foudre. </item>
                         <item>— Comment s'en préserve t-on ? </item>
                         <item>— Faut-il rester sous les arbres pendant l'orage ?</item>
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>Lorsqu'on frotte, avéc un morceau de drap ou une peau de chat, certaines substances telles que la cire à cacheter, la résine, le soufre, le verre, la soie, elles acquierent la
+                     <p>Lorsqu'on frotte, avec un morceau de drap ou une peau de chat, certaines substances telles que la cire à cacheter, la résine, le soufre, le verre, la soie, elles acquierent la
                         propriété d'attirer les corps lègers, comme les barbes de plume, les brins de paille.</p>
-                     <p>La cause de ces phénomènes est due à une force, l'électricité, dont la présénce se manifeste soit par des attractions semblables à celles dont nous venons de parler, soit par
-                        des apparences lumineuses eu des commotions (1) violentes.</p>
-                     <p>On a remarqué que si l'on présente une balle faite de mœlle de sureau, et suspendne à un fil, à un tube de verre frotté sur un morceau de drap, elle est d'abord attirée, puis
-                        repoussée apres le contact. Mais si l'on approche de la balle de sureau que vient de toucher le tube de verre, un bâton de résine frotté également à la peau de chat, celuici
+                     <p>La cause de ces phénomènes est due à une force, l'électricité, dont la présence se manifeste soit par des attractions semblables à celles dont nous venons de parler, soit par
+                        des apparences lumineuses ou des commotions (1) violentes.</p>
+                     <p>On a remarqué que si l'on présente une balle faite de moelle de sureau, et suspendue à un fil, à un tube de verre frotté sur un morceau de drap, elle est d'abord attirée, puis
+                        repoussée apres le contact. Mais si l'on approche de la balle de sureau que vient de toucher le tube de verre, un bâton de résine frotté également à la peau de chat, celui-ci
                         attire vivement la balle. Il y a donc deux sortes d'électricités.</p>
                      <p>L'électricité se forme naturellement dans les nuages par le frottement des bulles de vapeur ; elle produit dans l'atmosphère des phénomènes lumineux connus sous le nom
                         d'éclairs, à la suite desquels l'air, violemment ébranlé, produit un bruit éclatant que les couches nuageuses répètent à la façon de l'écho, en forme de roulement : c'est le
@@ -445,11 +445,11 @@
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>Dans un bureau télégraphique, on voit, sur une table, un instrument nommé récepteur, dans lequel l'électricité fait agir un poinçon qui sert à écrire les signaux sur une longue
+                     <p>Dans un bureau télégraphique, on voit, sur une table, un instrument nommé <term>récepteur</term>, dans lequel l'électricité fait agir un poinçon qui sert à écrire les signaux sur une longue
                         bande de fort papier enroulée autour d'un tambour, et qui vient s'engager entre deux rouleaux de cuivre.</p>
-                     <p>A côté est un autre appareil, le manipulateur, composé d'une petite planchette de bois servant de support à un levier de métal, qui est mobile par son milieu et frappe un
+                     <p>A côté est un autre appareil, le <term>manipulateur</term>, composé d'une petite planchette de bois servant de support à un levier de métal, qui est mobile par son milieu et frappe un
                         bouton lorsque, au moyen de touches, on le met en communication avec les fils qui transmettent l'électricité de bureau à bureau.</p>
-                     <p>Le fluide électrique qui circule dans les fils, provient d'appareils appelés piles, où il se développe au contact d'acides avec des leuilles de zinc et de cuivre.</p>
+                     <p>Le fluide électrique qui circule dans les fils, provient d'appareils appelés <term>piles</term>, où il se développe au contact d'acides avec des leuilles de zinc et de cuivre.</p>
                      <p>On le transmet de bureau à bureau au moyen de fils de fer soutenus, de distance en distance, par des poteaux. Il se meut avec une vitesse telle qu'il lui faut moins d'une
                         seconde pour effectuer le tour de la tèrre, et, lorsqu'il arrive au bureau, il actionne le levier qui fait marquer au poinçon les signes convenus sur la bande de papier dont il
                         a été précédemment question.</p>
@@ -471,7 +471,7 @@
                      <p>Il existe deux sortes d'électricités et elles tendent sans cesse à se combiner. Si donc on rapproche doux bâtons de charbon de houille ou deux tiges métalliques en contact avec
                         deux piles donnant des électricités diffèrentes, il se produit une flamme brillante à l'extrémité de chaque charbon ou de chaque tige, et, lorsqu'elles se rejoignent, une
                         lumière éblouissante en résulte.</p>
-                     <p>Dans l'air, cette lumière est blanche avec un éclat scintillant qui fatigue la vue. Aussi no peut-on s'en servir que dans les lieux où il s'agit d'éclairer de grandes surfaces
+                     <p>Dans l'air, cette lumière est blanche avec un éclat scintillant qui fatigue la vue. Aussi ne peut-on s'en servir que dans les lieux où il s'agit d'éclairer de grandes surfaces
                         ; telles sont les rues, les places publiques, les gares, les ateliers. Elle a une puissance presque égale à celle du soleil, c'est-à-dire beaucoup plus grande que celle
                         produite par les bougies et les lampes ; mais comme nous l'avons dit, elle agit d'une manière fâcheuse sur la vue, et elle scintille de telle façon qu'elle ne peut être
                         utilisée pour les travaux délicats, Il est infiniment probable qu'on parviendra bientôt à faire disparaître ces graves inconvénients.</p>
@@ -485,7 +485,7 @@
             <div2 type="récit">
                <head>74. — Réconciliation. (Élève, p. 156.)</head>
                <p>Si le père tue le veau gras pour célébrer le retour du fils vagabond*<gloss> Vagabond. Qui erre par les chemins sans but déterminé.</gloss> qu'il croyait perdu et qui est retrouvé,
-                  que fera la mère ? M. Pascal le savait certainement, car à l'arrivée d'une mère attendue, il courut impétueusement à elle et se jeta dans ses bras ouverts. Elle l'y retint en
+                  que fera la mère ? M. <persName type="fictif" key="pascal">Pascal</persName> le savait certainement, car à l'arrivée d'une mère attendue, il courut impétueusement à elle et se jeta dans ses bras ouverts. Elle l'y retint en
                   pleurant :</p>
                <p>— Malheureux enfant ! malheureux enfant ! que de larmes tu as fait couler ! Ah ! j'en serais morte !</p>
                <p>Puis elle embrassa son frère qui lui rendait ce fils adoré. C'est surtout dans l'attendrissement de la réconciliation que les proches sentent la folie de leurs querelles et de leurs
@@ -493,40 +493,40 @@
                <p>C'était une femme assez grande, de taille un peu penchée ; les bandeaux de ses cheveux noirs commençaient à s'argenter de fils blancs ; mais ses yeux noirs avaient encore de l'éclat,
                   et sa tenue élégamment simple, son aisance*<gloss>Aisance. Liberté de corps et d'esprit dans le travail, les manières.</gloss> aimable disaient qu'elle venait de Paris.</p>
                <p>Ses mains surtout furent admirées de sa nièce, pour la gracieuse souplesse, l'adresse des doigts qui rendent si expressives les mains de l'habile travailleuse ! Aux compliments que
-                  lui en fit, le soir même, Suzette, elle sourit.</p>
+                  lui en fit, le soir même, <persName type="fictif" key="suzette">Suzette</persName>, elle sourit.</p>
                <p>— Eh ! oui, elles ont dû s'exercer, ne pas flâner ; ce sont elles qui, surtout depuis mon veuvage, ont élevé mes trois enfants.</p>
-               <p>Et regardant celles de Suzette.</p>
+               <p>Et regardant celles de <persName type="fictif" key="suzette">Suzette</persName>.</p>
                <p>— Mais les tiennes non plus ne paraissent pas trop gauches !</p>
                <p>— Les miennes ne savent pas tailler, faire une robe.</p>
-               <p>— Ce n'est pas leur faute ; il faudra le leur apprendre. Elles n'ont qu'à venir un peu à Paris en compagnie des miennes.</p>
-               <p>Et comme à ce moment M. Dumay s'approchait, la tante Jeanne se tourna vers lui : </p>
-               <p>— Savez-vous, Denis, que nous allons avoir à Paris une Exposition universelle*<gloss>Exposition universelle. Exposition dans laquelle figurent les produits de l'industrie et des arts
+               <p>— Ce n'est pas leur faute ; il faudra le leur apprendre. Elles n'ont qu'à venir un peu à <placeName>Paris</placeName> en compagnie des miennes.</p>
+               <p>Et comme à ce moment <persName type="fictif" key="m_dumay">M. Dumay</persName> s'approchait, la tante <persName type="fictif" key="mme_richard">Jeanne</persName> se tourna vers lui : </p>
+               <p>— Savez-vous, <persName type="fictif" key="m_dumay">Denis</persName>, que nous allons avoir à <placeName>Paris</placeName> une Exposition universelle*<gloss>Exposition universelle. Exposition dans laquelle figurent les produits de l'industrie et des arts
                   de tous les pays.</gloss> ? ....</p>
                <p>— Oui, on en parle.</p>
                <pb type="page" n="256" />
                <fw>256 SUZETTE.</fw>
-               <p>— Et qu'il serait bon de nous y envoyer une jeune fille de notre connaissance, et qui semble avoir des yeux, pour qu'elle y voie cette Exposition, Paris et, par la même occasion,
+               <p>— Et qu'il serait bon de nous y envoyer une jeune fille de notre connaissance, et qui semble avoir des yeux, pour qu'elle y voie cette Exposition, <placeName>Paris</placeName> et, par la même occasion,
                   l'atelier de couture d'une tante qui pourrait lui apprendre quelque chose ?</p>
-               <p>M. Dumay se gratta l'oreille : </p>
+               <p><persName type="fictif" key="m_dumay">M. Dumay</persName> se gratta l'oreille : </p>
                <p>— Ma foi, dit-il, je ne dis pas non ; attendons le beau temps.</p>
-               <p>On passa le reste de la soirée à deviser*<gloss>Deviser. S'entretenir familièrement.</gloss> du passé, de la vieille maison paternelle incendiée, que la tante Jeanne regrettait, puis
-                  de Marthe, de Louis, le frère aîné, ancien élève de l'école Turgot*<gloss>École Turgot. Grande école de Paris dont le nom rappelle celui d'un ministre célébre de Louis XVI.</gloss>
+               <p>On passa le reste de la soirée à deviser*<gloss>Deviser. S'entretenir familièrement.</gloss> du passé, de la vieille maison paternelle incendiée, que la tante <persName type="fictif" key="mme_richard">Jeanne</persName> regrettait, puis
+                  de <persName type="fictif" key="marthe">Marthe</persName>, de <persName type="fictif" key="louis">Louis</persName>, le frère aîné, ancien élève de l'<placeName>école Turgot</placeName>*<gloss><placeName>École Turgot</placeName>. Grande école de Paris dont le nom rappelle celui d'un ministre célébre de <persName type="historique">Louis XVI</persName>.</gloss>
                   et bon mécanicien*<gloss>Mécanicien. Celui qui lavente, construit ou dirige des machines.</gloss> : puis de la mémoire, de l'imagination, de la langue trop bien pendue de monsieur
-                  l'explorateur, qui baissait la tête sous les sourires un peu railleurs. Sylvain n'était pas là : M. Cartier, sur la recommandation de M. Dumay, l'avait aussitôt accepté dans sa
+                  l'explorateur, qui baissait la tête sous les sourires un peu railleurs. <persName type="fictif" key="sylvain">Sylvain</persName> n'était pas là : <persName type="fictif" key="m_cartier">M. Cartier</persName>, sur la recommandation de <persName type="fictif" key="m_dumay">M. Dumay</persName>, l'avait aussitôt accepté dans sa
                   ferme.</p>
             </div2>
             <div2 type="questionnaire">
                <head>Questionnaire.</head>
                <list>
                   <item>— Que fit le père de l'enfant prodigue quand il retrouva ce dernier ? </item>
-                  <item>— Racontez la scène, touchante qui se passa à l'arrivée de Mme Richard.</item>
+                  <item>— Racontez la scène, touchante qui se passa à l'arrivée de <persName type="fictif" key="mme_richard">Mme Richard</persName>.</item>
                   <item>— Comment se réconcilia-t-elle avec son frère ? </item>
-                  <item>— Faites le portrait de Mme Richard.</item>
-                  <item>— Que remarqua Suzette ?</item>
-                  <item>— Quelle proposition fit Mme Richard concernant sa nièce ?</item>
-                  <item>— Comment M. Dumay l'accucillit-il ? </item>
-                  <item>— Quels détails donna Mme Richard sur sa famille ? </item>
-                  <item>— Qu'était devenu Sylvain ?</item>
+                  <item>— Faites le portrait de <persName type="fictif" key="mme_richard">Mme Richard</persName>.</item>
+                  <item>— Que remarqua <persName type="fictif" key="suzette">Suzette</persName> ?</item>
+                  <item>— Quelle proposition fit <persName type="fictif" key="mme_richard">Mme Richard</persName> concernant sa nièce ?</item>
+                  <item>— Comment <persName type="fictif" key="m_dumay">M. Dumay</persName> l'accucillit-il ? </item>
+                  <item>— Quels détails donna <persName type="fictif" key="mme_richard">Mme Richard</persName> sur sa famille ? </item>
+                  <item>— Qu'était devenu <persName type="fictif" key="sylvain">Sylvain</persName> ?</item>
                </list>
             </div2>
             <div2 type="questionnaire">
@@ -544,14 +544,14 @@
                      <p>Après qu'il eut tout dépensé, il arriva une grande famine en ce pays-là, et il commença à tomber dans l'indigence. Alors il s'en alla et se mit au service d'un habitant du pays
                         qui l'envoya à sa maison des champs pour y garder les pourceaux. Et là, il eût souhaité se nourrir des glands que les pourceaux mangeaient ; mais personne ne lui en
                         donnait.</p>
-                     <p>Enfin, étant rentré en lui-même, il dit : Combien y a-t-il de serviteurs dans la maison de mon père qui ont du pain en abondance, et moi, je mours ici de faim ! Il faut que de
-                        ce pas je m'en aille trouver mon père et que je lui dise : Mon père, j'ai péché contre le ciel et contre vous, et je ne suis plus digne d'être appelé votre fils : traitezmoi
+                     <p>Enfin, étant rentré en lui-même, il dit : Combien y a-t-il de serviteurs dans la maison de mon père qui ont du pain en abondance, et moi, je meurs ici de faim ! Il faut que de
+                        ce pas je m'en aille trouver mon père et que je lui dise : Mon père, j'ai péché contre le ciel et contre vous, et je ne suis plus digne d'être appelé votre fils : traitez-moi
                         comme l'un des serviteurs qui sont à vos gages.</p>
                      <p>Il partit donc et s'en vint trouver son père. Lorsqu'il était encore bien loin, son père l'aperçut et en fut touché de compassion ; courant à lui, il se jeta à son cou et le
                         baisa. Et son fils lui dit : Mon père, j'ai <pb type="page" n="257" />
                         <fw>RÉCONCILIATION. 257</fw> péché contre le ciel et contre vous, et je ne suis plus digne d'être appelé votre fils. Alors le père dit a ses serviteurs : Apportez promptement
                         la plus belle robe, et l'en revêtez ; et mettez-lui un anneau au doigt et des souliers aux pieds. Amenez un veau gras et tuez-le : faisons honne chère et réjouissons-nous,
-                        parce que mon fils que voici était mort, et il est ressuscité ; il était perdu et il est retrouvé. (Évangile selon saint Luc.)</p>
+                        parce que mon fils que voici était mort, et il est ressuscité ; il était perdu et il est retrouvé. (Évangile selon <persName type="historique">saint Luc</persName>.)</p>
                   </div4>
                </div3>
                <div3 type="composition">
@@ -582,34 +582,34 @@
                   <head type="sujets">Histoire.</head>
                   <div4 type="questions">
                      <list>
-                        <item>— TURGOT. </item>
+                        <item>— <persName type="historique">TURGOT</persName>. </item>
                         <item>— Dire quelques mots de la misère des paysans au dix-huitième siècle. </item>
                         <item>— Causes de cette misère.</item>
-                        <item>— Que fit Turgot pour la soulager : 1° quand il était intendant du Limousin ; — 2° quand il fut ministre ?</item>
+                        <item>— Que fit <persName type="historique">Turgot</persName> pour la soulager : 1° quand il était intendant du <placeName>Limousin</placeName> ; — 2° quand il fut ministre ?</item>
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>En 1725, le célèbre Saint-Simon écrit au cardinal Fleury a que les pauvres gens de Normandie mangent de l'herbe, et que le royaume se tourne en un vaste hôpital de mourants et
+                     <p>En 1725, le célèbre <persName type="historique">Saint-Simon</persName> écrit au <persName type="historique">cardinal Fleury</persName> a que les pauvres gens de <placeName>Normandie</placeName> mangent de l'herbe, et que le royaume se tourne en un vaste hôpital de mourants et
                         de désespérés. On vit alors se former une association de financiers qui achetaient tous les blés ; en formaient des magasins immenses, pour vendre cette denrée à un prix
-                        exorbitant lorsqu'ils avaient ainsi produit la disette. Louis XV fit une avance de dix millions à cette entreprise abominable, et il se « vantait à tout le monde du lucre
-                        infâme qu'il faisait sur ses sujets. » (LACRETELLE, Hist. de France.)</p>
+                        exorbitant lorsqu'ils avaient ainsi produit la disette. <persName type="historique">Louis XV</persName> fit une avance de dix millions à cette entreprise abominable, et il se « vantait à tout le monde du lucre
+                        infâme qu'il faisait sur ses sujets. » (<persName type="historique">LACRETELLE</persName>, Hist. de France.)</p>
                      <p>Alors la famine ne quitta plus les campagnes ; elle redoubla en 1740, 1741, 1742, 1715, 1767, 1768, 1775, 1776, 1784 et, enfin, en 1789.</p>
-                     <p>Le comte d'Argenson écrivait en 1740 : « Au moment que j'écris, en pleine paix, avec les apparences d'une récolte abondante, les hommes meurent autour de nous comme des
-                        mouches, de pauvreté et broutant l'herbe... Le duc d'Orléans porta dernièrement au conseil du roi un morceau de pain de fougère, il le posa sur la table en disant : Sire, voilà
+                     <p>Le <persName type="historique">comte d'Argenson</persName> écrivait en 1740 : « Au moment que j'écris, en pleine paix, avec les apparences d'une récolte abondante, les hommes meurent autour de nous comme des
+                        mouches, de pauvreté et broutant l'herbe... Le <persName type="historique">duc d'Orléans</persName> porta dernièrement au conseil du roi un morceau de pain de fougère, il le posa sur la table en disant : Sire, voilà
                         de quoi vos sujets se nourrissent. C'est aujourd'hui, ajouta-t-il, à faire pitié même aux bourreaux. »</p>
-                     <p>Duval, en 1752, rentre en Allemagne après un voyage en France, et il écrit : « Ce qui me frappa le plus dans ce long trajet, ce fut qu'au lieu de ces momies vivantes en
-                        haillons de toile et en sabots qui peuplent les huttes et les chaumières de ma chère France, je ne vis en Allemagne que des cultivateurs forts et robustes et des artisans bien
+                     <p><persName type="historique">Duval</persName>, en 1752, rentre en <placeName>Allemagne</placeName> après un voyage en <placeName>France</placeName>, et il écrit : « Ce qui me frappa le plus dans ce long trajet, ce fut qu'au lieu de ces momies vivantes en
+                        haillons de toile et en sabots qui peuplent les huttes et les chaumières de ma chère <placeName>France</placeName>, je ne vis en <placeName>Allemagne</placeName> que des cultivateurs forts et robustes et des artisans bien
                         vêtus, bien nourris et logés comme des hommes doivent l'être. »</p>
-                     <p>En 1752, le parlement de Normandie constate « que les paysans, pour ne pas mourir trop vite de faim, en étaient réduits à se former des nourritures qui font horreur à
+                     <p>En 1752, le parlement de <placeName>Normandie</placeName> constate « que les paysans, pour ne pas mourir trop vite de faim, en étaient réduits à se former des nourritures qui font horreur à
                         l'humanité. »</p>
                      <p>La noblesse, le clergé ainsi que la plus grande partie de la riche bourgeoisie, ne payant point d'impôts, le peuple était écrasé sous des charges si lourdes qu'elles égalaient
                         85 p. 100 du produit de l'industrie et de l'agriculture. Alors, les paysans découragés cultivaient mal leurs <pb type="page" n="258" />
                         <fw>258 SUZETTE.</fw> terres, arrachaient leurs arbres et leurs vignes et n'élevaient presque plus de bétail : tous les historiens contemporains en témoignent.</p>
-                     <p>Turgot (1727-1781), après des études sur les réformes à accomplir dans l'intérèt de la nation tout entière, fut nommé intendant du Limousin ; il y établit la libre circulation
+                     <p><persName type="historique">Turgot</persName> (1727-1781), après des études sur les réformes à accomplir dans l'intérèt de la nation tout entière, fut nommé intendant du <placeName>Limousin</placeName> ; il y établit la libre circulation
                         des grains, adoucit le système des impôts, répara les routes, organisa des bureaux et ateliers de charité et acquit ainsi une véritable popularité.</p>
-                     <p>Appelé au ministère en 1774 par le roi Louis XVI, il entreprit dans l'Etat les réformes qu'il avait essayées à Limoges ; il voulait, entre autres, le remplacement de tous les
-                        impôts par l'impôt foncier et la destruction des droits féodaux. Ses réformes, ses projets lui suscitèrent des ennemis ; tous les privilégiés se liguèrent contre lui et Louis
-                        XVI s'en sépara avec douleur en 1776. « Il n'y a que M. Turgot et moi, disait-il, qui aimons le peuple. »</p>
+                     <p>Appelé au ministère en 1774 par le roi <persName type="historique">Louis XVI</persName>, il entreprit dans l'Etat les réformes qu'il avait essayées à <placeName>Limoges</placeName> ; il voulait, entre autres, le remplacement de tous les
+                        impôts par l'impôt foncier et la destruction des droits féodaux. Ses réformes, ses projets lui suscitèrent des ennemis ; tous les privilégiés se liguèrent contre lui et <persName type="historique">Louis
+                        XVI</persName> s'en sépara avec douleur en 1776. « Il n'y a que M. <persName type="historique">Turgot</persName> et moi, disait-il, qui aimons le peuple. »</p>
                   </div4>
                </div3>
                <div3 type="industrie">
@@ -626,10 +626,10 @@
                   </div4>
                   <div4 type="réponses">
                      <p>Exposer une chose, c'est la placer sous les yeux du public pour que chacun ait la facilité de l'examiner.</p>
-                     <p>Les expositions sont des entreprises... (Voir page précédente, au Sommaire du sujet de composition.)</p>
-                     <p>Il y a des expositions locales et cantonales qui comprennent le plus souvent les produits des champs, des vergers, des jardins ainsi que des parterres de fleurs ; on y joint
-                        les instruments agricoles, du bétail, des chevaux. — Les expositions départementales comprennent les mêmes objets, augmentés de produits industriels et, plus d'une fois, des
-                        travaux des écoliers dans leurs classes. — L'exposition est nationale quand il a été fait appel à tous les producteurs et artistes d'une contrée ; elle est universelle lorsque
+                     <p>Les <term>expositions</term> sont des entreprises... (Voir page précédente, au Sommaire du sujet de composition.)</p>
+                     <p>Il y a des expositions <term>locales</term> et <term>cantonales</term> qui comprennent le plus souvent les produits des champs, des vergers, des jardins ainsi que des parterres de fleurs ; on y joint
+                        les instruments agricoles, du bétail, des chevaux. — Les expositions <term>départementales</term> comprennent les mêmes objets, augmentés de produits industriels et, plus d'une fois, des
+                        travaux des écoliers dans leurs classes. — L'exposition est <term>nationale</term> quand il a été fait appel à tous les producteurs et artistes d'une contrée ; elle est <term>universelle</term> lorsque
                         tous les peuples sont conviés à y prendre part.</p>
                   </div4>
                </div3>
@@ -638,16 +638,16 @@
          <div1 type="chapitre" xml:lang="fr" n="ch075">
             <head>75. — Le beau temps. (Élève, p. 158.)</head>
             <div2 type="récit">
-               <p>Un matin de mai, un de ces matins fleuris, bleus, lumineux, chantés du vieux poète : Le temps a laissé son manteau De vent, de froidure et de pluie, Et s'est vêtu de broderie, De
-                  soleil luisant clair et beau, M. Dumay, dans sa cour, saluait le retour de la première hirondelle. Il suivait des yeux le vol ému de l'oiseau, tournoyant, planant*<gloss>Planer. Se
+               <p>Un matin de mai, un de ces matins fleuris, bleus, lumineux, chantés du vieux poète :</p> <l>Le temps a laissé son manteau</l> <l>De vent, de froidure et de pluie,</l> <l>Et s'est vêtu de broderie,</l> <l>De
+                  soleil luisant clair et beau,</l> <p><persName type="fictif" key="m_dumay">M.Dumay</persName>, dans sa cour, saluait le retour de la première hirondelle. Il suivait des yeux le vol ému de l'oiseau, tournoyant, planant*<gloss>Planer. Se
                      dit d'un oiseau qui se soutient en l'air, les ailes étendues et immobiles.</gloss>, tournoyant encore en cercles de plus en plus rapprochés, et soudain, avec un petit chant
                   d'allégresse*<gloss>Allégresse. Joie qui éclate au dehors.</gloss>, courant à tire-d'aile vers son nid de l'an passé, suspendu à la corniche du colombier.</p>
-               <p> A cet instant, la lourde porte s’ouvrit. C'était le facteur, avec une lettre. M. Dumay la décacheta, ajusta ses lunettes, la parcourat, puis appela : </p>
+               <p> A cet instant, la lourde porte s’ouvrit. C'était le facteur, avec une lettre. <persName type="fictif" key="m_dumay">M.Dumay</persName> la décacheta, ajusta ses lunettes, la parcourat, puis appela : </p>
                <pb type="page" n="259" />
                <fw>LE BEAU TEMPS. 259</fw>
-               <p>— Suzette ! </p>
-               <p>Suzette parut sur le seuil.</p>
-               <p>— Te rappelles-tu ce que je répondis à ta tante quand elle parla d'un voyage à Paris ? </p>
+               <p>— <persName type="fictif" key="suzette">Suzette</persName> ! </p>
+               <p><persName type="fictif" key="suzette">Suzette</persName> parut sur le seuil.</p>
+               <p>— Te rappelles-tu ce que je répondis à ta tante quand elle parla d'un voyage à <placeName>Paris</placeName> ? </p>
                <p>Oui, père ; vous lui dites : « Attendons le beau temps. »</p>
                <p> —Et quel temps fait-il, aujourd'hui ? </p>
                <p> Elle leva vers le ciel et vers le nid de l'hirondelle un regard souriant.</p>
@@ -661,26 +661,26 @@
                   linge blanc du monde. Mais ils n'étaient pas invités, les logements parisiens ne permettant pas une hospitalité aussi large. Eh bien ! comment, restant ici, traiteraient-ils la
                   marmite ? comment mangeraient le père et l'aîné, les deux travailleurs ?</p>
                <p> Mme. Valon, qui entrait en ce moment trancna la question.</p>
-               <p>— Vite, vite à Paris, Mademoiselle Suzette ! Et une fois là, ouvre les yeux ; regarde les gens et les choses; ouvre aussi les oreilles, amasse des observations, et écris-nous. Les
+               <p>— Vite, vite à Paris, Mademoiselle <persName type="fictif" key="suzette">Suzette</persName> ! Et une fois là, ouvre les yeux ; regarde les gens et les choses; ouvre aussi les oreilles, amasse des observations, et écris-nous. Les
                   deux jeunes frères passeront chez moi tout le temps de ton absence ; ma mère s'occupera de leur pâtée. Et même, si tu le veux, celle de Jacques et de ton père bouillira avec la
                   nôtre. — Elle se mit à rire : — Il faut bien avoir pitié de ces pauvres hommes, tous incapables de se nourrir eux-mêmes ! Quant au menage, bah ! il t'attendra.</p>
                <pb type="page" n="260" />
                <fw>260 SUZETTE.</fw>
                <p>Qu'y avait-il à répondre à tant de bonne grâce ? Embrasser cette excellente amie, et préparer le départ.</p>
-               <p>C'est ce que fit Suzette.</p>
+               <p>C'est ce que fit <persName type="fictif" key="suzette">Suzette</persName>.</p>
             </div2>
             <div2 type="questionnaire">
                <head>Questionnaire.</head>
                <list>
                   <item>— Récitez les vers relatifs à un matin du mois de mai. </item>
-                  <item>— Que regardait M. Dumay ? </item>
+                  <item>— Que regardait <persName type="fictif" key="m_dumay">M.Dumay</persName> ? </item>
                   <item>— Qui entra et que recut le fermier ?</item>
-                  <item> — Comment annonça-t-il à Suzette qu'elle devait se préparer à aller à Paris ?</item>
+                  <item> — Comment annonça-t-il à <persName type="fictif" key="suzette">Suzette</persName> qu'elle devait se préparer à aller à Paris ?</item>
                   <item> — Quels motifs faisaient hésiter la jeune fille ? </item>
                   <item>— Qu'auraient fait ses trols frères à sa place ? </item>
                   <item>— Qu'est-ce qui l'inquietait à leur égard ? </item>
-                  <item>— En quels termes Mme Valon décida-t-elle Suzette à quitter sa famille pour quelques semaines ?</item>
-                  <item>— Comment Suzette lui témoigna-t-elle sa gratitude ? </item>
+                  <item>— En quels termes Mme Valon décida-t-elle <persName type="fictif" key="suzette">Suzette</persName> à quitter sa famille pour quelques semaines ?</item>
+                  <item>— Comment <persName type="fictif" key="suzette">Suzette</persName> lui témoigna-t-elle sa gratitude ? </item>
                </list>
             </div2>
             <div2 type="exercices">
@@ -714,14 +714,14 @@
                   <div4 type="questions">
                      <list>
                         <item>— Lettre de Jarques à l'une de ses tantes. </item>
-                        <item>— Il lui parte surtout des ennuis, des inconvénients qui résultent, dans le ménage, du départ de Suzette. </item>
+                        <item>— Il lui parte surtout des ennuis, des inconvénients qui résultent, dans le ménage, du départ de <persName type="fictif" key="suzette">Suzette</persName>. </item>
                         <item>— Réflexions sur le rôle important d'une femme dans une maison, dans la famille.</item>
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>SOMMAIRE. — Quelques mots relatifs au départ de Suzette. — Esquisser ce qu'elle faisait chaque jour pour le ménage et les repas ; parler des petits services qu'elle rendait à
+                     <p>SOMMAIRE. — Quelques mots relatifs au départ de <persName type="fictif" key="suzette">Suzette</persName>. — Esquisser ce qu'elle faisait chaque jour pour le ménage et les repas ; parler des petits services qu'elle rendait à
                         chaque instant ; — dire ce qu'il en est maintenant, malgre les bons offices de Mme Valon ; — faire une description quelque peu gaie do l'aspect peu satisfaisant des chambres,
-                        des repas. — Faire remarquer que lorsque Suzette était à la maison, on était si bien habitué à voir tout parfaitement tenu et prêt à l'heure, qu'on n'y faisait guère attention,
+                        des repas. — Faire remarquer que lorsque <persName type="fictif" key="suzette">Suzette</persName> était à la maison, on était si bien habitué à voir tout parfaitement tenu et prêt à l'heure, qu'on n'y faisait guère attention,
                         mais qu'aujourd'hui..... — Former le vœu de la voir bientôt de retour. — Ajouter toutefois qu'on est heureux de la savoir contente de visiter Paris ; — donner des nou<pb
                            type="page" n="261" />
                         <fw>LES ADIEUX. 261</fw> velles de tous ; — présenter des compliments affectueux à l'oncle et des amitiés aux cousins. — Écrire l'adresse à part.</p>
@@ -773,10 +773,10 @@
             <pb type="page" n="261" />
             <head>76. — Les adieux. (Élève, p. 160.)</head>
             <div2 type="récit">
-               <p>Elle et sa malle furent conduites, dans le char à bancs, à la gare de Saint-Quentin, par toute la famille et par Ludivine qui, ayant affaire pour la première fois de sa vie à
+               <p>Elle et sa malle furent conduites, dans le char à bancs, à la gare de Saint-Quentin, par toute la famille et par <persName type="fictif" key="ludivine">Ludivine</persName> qui, ayant affaire pour la première fois de sa vie à
                   Tergnier*<gloss>Tergnier. Localité du département de l'Aisne où aboutissent plusieurs lignes de chemin de fer.</gloss>, pour la première fois aussi allait monter en chemin de fer.
                   Elle était aussi émue que si elle eût trotté au-devant de sa mort.</p>
-               <fw type="fo;oter"><fw type="sig">15.</fw></fw>
+               <fw type="footer"><fw type="sig">15.</fw></fw>
                <pb type="page" n="262" />
                <fw>262 SUZETTE.</fw>
                <p>Auprès d'elle on était ému aussi, mais à l'idée de la séparation. Des yeux du père coulait de temps en temps une larme qu'il mettait sur le compte de l'air trop vif du matin.</p>
@@ -785,35 +785,35 @@
                   son grand parapluie qu'elle portait sous son bras de façon à menacer ou accrocher les passants.</p>
                <p>Et puis, tout à coup, d'une porte ouverte au fond sortit une voix terrible, énorme, qui criait :</p>
                <p>— Voyageurs pour Maubeuge, Mons, Bruxelles, Charleroi, Namur, Liège, Cologne, Coblence, Ems, Wiesbaden, Mayence, Francfort-sur-le-Mein, Hambourg, en voiture !</p>
-               <p>— Disons tout de suite pour le bout du monde ! fit en souriant M. Dumay.</p>
+               <p>— Disons tout de suite pour le bout du monde ! fit en souriant <persName type="fictif" key="m_dumay">M.Dumay</persName>.</p>
                <pb type="page" n="263" />
                <fw>LES ADIEUX. 263</fw>
                <p>C'était vrai ; peu s'en fallait que de cette gare, en suivant la ligne du Nord jusqu'au point où elle se rattache, par la ligne belge, à celles d'Allemagne, puis de Russie, on ne pût
                   aller jusqu'aux confins*<gloss>Confins. Les extrémités d'un pays, d'une contrée, etc.</gloss> de la terre.</p>
-               <p>Ludivine restait clouée sur place, entendant le bruit sans les mots, comme il arrive aux gens qui ne savent pas écouter tranquillement.</p>
+               <p><persName type="fictif" key="ludivine">Ludivine</persName> restait clouée sur place, entendant le bruit sans les mots, comme il arrive aux gens qui ne savent pas écouter tranquillement.</p>
                <p>Les billets pris, on s'embrassa tout en se faisant des recommandations mutuelles :</p>
                <p>— Jacques ! veille sur François et Charlot ! François ! au moins pas de sottises, jusqu'à mon retour ! n'est-ce pas, chéri ?</p>
                <p>— Oui, oui, va ; d'ailleurs nous serons chez Mme Valon au lieu d'être à Paris.</p>
                <p>— Ma fille... — le père essuya encore une larme plus grosse que les deux autres ; l'air du matin devait être devenu plus vif ; — ma chère, ma bonne fille... porte toi bien ; ne nous
                   laisse pas sans nouvelles... écris.</p>
                <p>— Oui, cher papa.</p>
-               <p>Elle pleurait aussi, Suzette : </p>
+               <p>Elle pleurait aussi, <persName type="fictif" key="suzette">Suzette</persName> : </p>
                <p>Au revoir, Jacques ! au revoir, François ! au revoir, Charlot !</p>
-               <p>— Mon Dieu ! pourvu que j'en réchappe ! répondait Ludivine aux adieux qu'on lui adressait également.</p>
-               <p>Elle suivit Suzette, qui gagnait la salle d'attente, tout en se retournant pour saluer des yeux et de la main.</p>
+               <p>— Mon Dieu ! pourvu que j'en réchappe ! répondait <persName type="fictif" key="ludivine">Ludivine</persName> aux adieux qu'on lui adressait également.</p>
+               <p>Elle suivit <persName type="fictif" key="suzette">Suzette</persName>, qui gagnait la salle d'attente, tout en se retournant pour saluer des yeux et de la main.</p>
             </div2>
             <div2 type="questionnaire">
                <head>Questionnaire.</head>
                <list>
-                  <item>— Où Suzette prit-elle le chemin de fer ? </item>
+                  <item>— Où <persName type="fictif" key="suzette">Suzette</persName> prit-elle le chemin de fer ? </item>
                   <item>— Qui devait voyager avec elle ?</item>
-                  <item>— Qu'est-ce qui marquait la peine qu'éprouva M. Dumay à se séparer de sa fille ?</item>
-                  <item>— Qu'est-ce qui indignait Ludivine à la gare ? </item>
+                  <item>— Qu'est-ce qui marquait la peine qu'éprouva <persName type="fictif" key="m_dumay">M.Dumay</persName> à se séparer de sa fille ?</item>
+                  <item>— Qu'est-ce qui indignait <persName type="fictif" key="ludivine">Ludivine</persName> à la gare ? </item>
                   <item>— De quoi rit un gros monsieur ?</item>
                   <item>— Que se mit à crier l'employé ? </item>
                   <item>— Jusqu'où peut-on aller par les divers chemins de fer aboutissant à Saint-Quentin ?</item>
-                  <item>— En quel état était Ludivine ? </item>
-                  <item>— Quelles recommandations Suzette fit-elle à Jacques ?</item>
+                  <item>— En quel état était <persName type="fictif" key="ludivine">Ludivine</persName> ? </item>
+                  <item>— Quelles recommandations <persName type="fictif" key="suzette">Suzette</persName> fit-elle à Jacques ?</item>
                   <item> — Comment le père prit-il congé de sa chère enfant ? </item>
                   <item>— Comment se sépara-t-on ?</item>
                </list>
@@ -912,32 +912,32 @@
             <div2 type="récit">
                <p>Dans cette salle se trouvaient déjà nombre de voyageurs, des messieurs, des dames, debout ou assis à côté de valises, de sacs de nuit, de cartons à chapeaux, de paniers, de paquets
                   entourés de ficelles ou de courroies.</p>
-               <p>Suzette fit asseoir sur un bout de banquette Ludivine, de plus en plus ahurie*<gloss> Ahuri. Troublé. </gloss>, et qui poussait de profonds soupirs :</p>
-               <p>— Ah ! j'avais bien juré que jamais, au grand jamais, je ne mettrais les pieds ici ! mais le malheur veut que je doive aller moi-même chercher de l'argent à Tergnier ! Suzette, qui
+               <p><persName type="fictif" key="suzette">Suzette</persName> fit asseoir sur un bout de banquette <persName type="fictif" key="ludivine">Ludivine</persName>, de plus en plus ahurie*<gloss> Ahuri. Troublé. </gloss>, et qui poussait de profonds soupirs :</p>
+               <p>— Ah ! j'avais bien juré que jamais, au grand jamais, je ne mettrais les pieds ici ! mais le malheur veut que je doive aller moi-même chercher de l'argent à Tergnier ! <persName type="fictif" key="suzette">Suzette</persName>, qui
                   avait déjà vainement essayé de la rassurer, ne l'écoutait pas.</p>
                <pb type="page" n="266" />
                <fw>266 SUZETTE.</fw>
-               <p>Cependant, après quelques minutes, le visage de Ludivine commença à se dérider. Puis, après avoir regardé autour d'elle et sur la banquette où elle était assise :</p>
+               <p>Cependant, après quelques minutes, le visage de <persName type="fictif" key="ludivine">Ludivine</persName> commença à se dérider. Puis, après avoir regardé autour d'elle et sur la banquette où elle était assise :</p>
                <p>— Ah çà ! mais, on ne le sent point marcher ! Il n'est peut-être pas si dur que je le croyais.</p>
-               <p>Suzette la regarda.</p>
+               <p><persName type="fictif" key="suzette">Suzette</persName> la regarda.</p>
                <p>—Est-ce que tu le sens, toi, petite ?</p>
                <p>Quoi ?</p>
                <p>— Hé ! le chemin de fer, donc ! Ne sommes-nous point en chemin de fer ?</p>
-               <p>La porte de la salle s'ouvrant en ce moment dispensa Suzette de répondre.</p>
+               <p>La porte de la salle s'ouvrant en ce moment dispensa <persName type="fictif" key="suzette">Suzette</persName> de répondre.</p>
                <p>La grosse voix de tout à l'heure cria :</p>
                <p>— Voyageurs pour Tergnier, Chauny, Noyon, Compiègne, Creil, Chantilly, Paris, en voiture !</p>
-               <p>A ces cris, au mouvement qui s'ensuivit, Ludivine <figure>
+               <p>A ces cris, au mouvement qui s'ensuivit, <persName type="fictif" key="ludivine">Ludivine</persName> <figure>
                   <caption>Beites la rencontire des aibdles.</caption>
-               </figure> s'était accrochée au bras de Suzette et, de nouveau ahurie :</p>
+               </figure> s'était accrochée au bras de <persName type="fictif" key="suzette">Suzette</persName> et, de nouveau ahurie :</p>
                <p>—Ma fille ! mais je nous croyais en route !... Ah ! que va-t-il ar river ?</p>
                <p>Du quai*<gloss> Quai. Trottoir le long d'une vole de chemin du fer. </gloss>, au tournant d'une courbe, on vit accourir la locomotive comme un monstrueux animal se ruant à l'ennemi ;
                   on entendit son énorme halètement*<gloss> Halètement. On compare ici la locomotive à un animal haletant, hors d'lia-leine. </gloss>. En soufflant, sifflant, fumant, elle s'arrêta.
                   <pb type="page" n="267" />
                   <fw>LA SALLE D'ATTENTE. 267</fw> Puis les wagons ayant reçu leurs voyageurs, elle souffla, siffla encore et se lança.</p>
-               <p>— Cette fois, Ludivine, nous sommes en route.</p>
+               <p>— Cette fois, <persName type="fictif" key="ludivine">Ludivine</persName>, nous sommes en route.</p>
                <p>— Aïe ! aïe ! je le sens bien, ma fille ;... le ciel ait pitié de moi ! Ah ! quel malheur ! Et ce tapage du diable ! C'est terrible ! Bien sûr j'en resterai au moins sourde ! </p>
                <p>Enfin, voici Tergnier !</p>
-               <p>Ludivine sauta de wagon, fila comme un lièvre ; et, en agitant son parapluie pour saluer une dernière fois Suzette, décoiffa un monsieur, manqua d'éborgner une dame, qui se
+               <p><persName type="fictif" key="ludivine">Ludivine</persName> sauta de wagon, fila comme un lièvre ; et, en agitant son parapluie pour saluer une dernière fois <persName type="fictif" key="suzette">Suzette</persName>, décoiffa un monsieur, manqua d'éborgner une dame, qui se
                   fâchèrent.</p>
                <p>Évitez la rencontre des affolés*<gloss>Affolé. Qui perd la raison.</gloss>.</p>
             </div2>
@@ -945,12 +945,12 @@
                <head>Questionnaire.</head>
                <list>
                   <item>— Que se trouvait-il dans la salle d'attente ? </item>
-                  <item>— Que faisait et disait Ludivine ? </item>
-                  <item>— Quelle idée survint à l'esprit de Ludivine ? </item>
+                  <item>— Que faisait et disait <persName type="fictif" key="ludivine">Ludivine</persName> ? </item>
+                  <item>— Quelle idée survint à l'esprit de <persName type="fictif" key="ludivine">Ludivine</persName> ? </item>
                   <item>— Qu'entendit-on tout à coup ?</item>
-                  <item>— A quel point Ludivine était-elle affolée ?</item>
+                  <item>— A quel point <persName type="fictif" key="ludivine">Ludivine</persName> était-elle affolée ?</item>
                   <item>— Qu'aperçut-on du quai ?</item>
-                  <item>— Reproduisez les absurdes exclamations de Ludivine en wagon.</item>
+                  <item>— Reproduisez les absurdes exclamations de <persName type="fictif" key="ludivine">Ludivine</persName> en wagon.</item>
                   <item>— De quelle manière sortit-elle du wagon et de la gare de Tergnier ? </item>
                </list>
             </div2>
@@ -1047,7 +1047,7 @@
                <p>« Cher papa, chers frères,</p>
                <p>« C'est perchée au moins à quinze mètres au-dessus de la chaussée que je vous écris, dans un de ces casiers à compartiments que les Parisiens appellent appartement.</p>
                <p> « Ma tante habite le cinquième étage d'une maison dont le vis-à-vis barre la vue comme un bandeau de colin-maillard.</p>
-               <p>« Je cherche un coin d'horizon ; mes deux cousins, l'explorateur Pascal et le mécanicien Louis, me répondent qu'en prenant le chemin de fer ou le bateau, on peut, pour quelques sous,
+               <p>« Je cherche un coin d'horizon ; mes deux cousins, l'explorateur <persName type="fictif" key="pascal">Pascal</persName> et le mécanicien Louis, me répondent qu'en prenant le chemin de fer ou le bateau, on peut, pour quelques sous,
                   et après quelques lieues de voyage, se donner ce spectacle.</p>
                <p>« Mais ces Parisiens ont l'air de ne pas trop penser aux grands ciels, aux grandes plaines à perte de vue; ils ont Paris qui leur suffit, comme m'a dit Louis. Ils en sont très fiers,
                   et avec assez de raison, il me semble. C'est une si vaste, une si belle ville, avec des habitants si distingués, au moins dans ce que j'ai pu voir jusqu'ici !</p>
@@ -1057,7 +1057,7 @@
                <p>« Ma tante fait de bien jolies choses en robes et en <pb type="page" n="270" />
                   <fw>270 SUZETTE.</fw> manteaux. Sans compter Marthe, elle a deux ouvrières, l'une de mon âge, l'autre d'au moins dix-huit ans. Toutes les deux se couvrent les joues d'une sorte de
                   farine qui leur donne l'air d'arriver du moulin.</p>
-               <p>« Pascal est gentil ; il me parle de vous, de Fragicourt et même de l'Afrique. Il croit toujours l'avoir parcourue ; et certainement il la parcourra un jour. En attendant, il va à
+               <p>« <persName type="fictif" key="pascal">Pascal</persName> est gentil ; il me parle de vous, de Fragicourt et même de l'Afrique. Il croit toujours l'avoir parcourue ; et certainement il la parcourra un jour. En attendant, il va à
                   l'école Turgot.</p>
                <p>— L'aîné, le cousin Louis, déjà barbu, et qui vous ressemble, cher papa, a un emploi de constructeur*<gloss>Constructeur-mécanicien. Celui qui s'occupe de construire des
                   machines.</gloss> mécanicien dans une grande usine*<gloss>Usine. Établissement où l'on s'aide de machines puissantes pour une fabrication ; telles sont les verreries, les
@@ -1070,15 +1070,15 @@
             <div2 type="questionnaire">
                <head>Questionnaire.</head>
                <list>
-                  <item>— D'où écrivait Suzette ? </item>
+                  <item>— D'où écrivait <persName type="fictif" key="suzette">Suzette</persName> ? </item>
                   <item>— Où habitait la tante ? </item>
                   <item>— Quel horizon s'entrevoit des fenêtres ?</item>
                   <item>— Ou faut-il aller, lorsqu'on est à Paris, pour trouver une vue de la campagne ?</item>
                   <item>— Que pensent les Parisiens de leur ville ? </item>
-                  <item>— Que dit Suzette de sa cousine Marthe, et que lui avait dit celle-ci à la gare ? </item>
+                  <item>— Que dit <persName type="fictif" key="suzette">Suzette</persName> de sa cousine Marthe, et que lui avait dit celle-ci à la gare ? </item>
                   <item>— Donnez quelques détails sur la profession de la tante.</item>
                   <item>— Quel barbouillage pratiquaient ses deux ouvrières ? </item>
-                  <item>— Que dit Suzette de Pascal ; — du cousin Louis? </item>
+                  <item>— Que dit <persName type="fictif" key="suzette">Suzette</persName> de <persName type="fictif" key="pascal">Pascal</persName> ; — du cousin Louis? </item>
                   <item>— Comment termine-t-elle sa lettre ?</item>
                </list>
             </div2>
@@ -1168,7 +1168,7 @@
                   <caption>1. Cathédrale Notre-Dame de Paris. — 2. La Sainte-Chapelle, bâtie par saint Louis en 1245, et le Palais de Justice de Paris.</caption>
                </figure> autant d'ares de triomphe élevés en l'honneur du fleuve <pb type="page" n="273" />
                   <fw>SUR LA SEINE. 273</fw> parisien, se déroulait la suite interminable des ponts. </p>
-               <p>Suzette, assise à l'avant du bateau entre la tante Jeanne et la cousine Marthe, se taisait, emplissant ses yeux du spectacle. En face. Louis et Pascal lui nômmaient au passage les
+               <p><persName type="fictif" key="suzette">Suzette</persName>, assise à l'avant du bateau entre la tante Jeanne et la cousine Marthe, se taisait, emplissant ses yeux du spectacle. En face. Louis et <persName type="fictif" key="pascal">Pascal</persName> lui nômmaient au passage les
                   merveilles à travers lesquelles la petite troupe se rendait à l'Exposition.</p>
                <p>Embarqués au pont Sully, on longea, à droite, l'Hôtel de ville, l'ancienne Maison aux piliers où, pour la pre mière fois, la bourgeoisie de France, entraînée par le prévôt*<gloss>
                   Prévôt des marchands. Magistrat qui était le chef de l'hôtel de ville, le maire, en quelque sorte. </gloss> des marchands de Paris, Etienne Marcel, révendiqua*<gloss>
@@ -1187,14 +1187,14 @@
                <pb type="page" n="274" />
                <fw>274 SUZETTE.</fw>
                <p>« O Paris ! tu as commis des fautes, mais tu as tant fait pour la liberté du monde qu'on voudrait baiser les pierres de tes monuments, les pavés de tes rues ! »</p>
-               <p>Puis, Pascal montra à gauche la vieille Cité, son Palais de Justice, sa Sainte-Chapelle à la flèche dorée, et les hautes et puissantes tours de Notre Dame.</p>
+               <p>Puis, <persName type="fictif" key="pascal">Pascal</persName> montra à gauche la vieille Cité, son Palais de Justice, sa Sainte-Chapelle à la flèche dorée, et les hautes et puissantes tours de Notre Dame.</p>
                <p>— Voilà, dit-il, le berceau de Paris, l'antique Lutèce des Parisii. Des empereurs romains, une fois Rome <figure>
                   <caption>Colonnade du Louvre. Le Louvre est un admirable musée de peinture et de sculpture ; sa construction à été commencée au seizième siècle.</caption>
                </figure> maîtresse de la Gaule, habitèrent sur ces bords. Cette eau, où nous glissons si paisible<figure>
                   <caption>Les Tuileries. Palais construit sous Catherine de Médicis ; les rois et les empereurs y ont résidé, La Convention y a tenu ses séances.</caption>
                </figure> ment, a porté ensuite les ravageuses barques des pirates normands, qui s'appelaient rois de la mer et disaient d'eux-mêmes :</p>
                <p>« Nous prenons la route des cygnes. L'ouragan est à notre service, il nous porte où nous voulons. »</p>
-               <p>Pascal, qui justement venait de lire cette histoire, dépeignit les grandes barques normandes à formes d'oiseaux bizarres, glissant silencieusement, la nuit, sur la Seine ; puis les
+               <p><persName type="fictif" key="pascal">Pascal</persName>, qui justement venait de lire cette histoire, dépeignit les grandes barques normandes à formes d'oiseaux bizarres, glissant silencieusement, la nuit, sur la Seine ; puis les
                   brusques clameurs*<gloss>Clameur. Grand cri.</gloss>, des barbares <pb type="page" n="275" />
                   <fw>SUR LA SEINE. 275</fw> débarqués par surprise, le pillage des maisons, des églises, la dévastation des champs. Il raconta le grand siège de dix-huit mois, où Paris fit des
                   prodiges de résistance et de courage et, par sa force, prit le pas sur les autres villes, à cette heure où la patrie française naissait à peine.</p>
@@ -1203,7 +1203,7 @@
                <head>Questionnaire.</head>
                <list>
                   <item>— Où glissait le le bateau et à quoi ressemblent les ponts ? </item>
-                  <item>— Que faisait Suzette ?</item>
+                  <item>— Que faisait <persName type="fictif" key="suzette">Suzette</persName> ?</item>
                   <item>— Où se rendait-elle ?</item>
                   <item>— Qu'est-ce qu'une exposition ? </item>
                   <item> — Que savez-vous de l'ancien hotel de ville ?</item>
@@ -1322,7 +1322,7 @@
                <p>Entre ces rives magnifiques et historiques, le bateau glisse toujours. Enfin on voit se dresser tout près les tours du Trocadéro*<gloss>Trocadéro. Fort voisin de Cadix qui fut pris
                   par les Français en 1823.</gloss> .</p>
                <p>Pont de l'Alma*<gloss>Alma. Petit fleuve de Crimée sur les bords duquel les Français vainquirent les Russes en 1854.</gloss> ! l'Alma ! crie le pilote.</p>
-               <p>Louis propose de descendre et d'entrer à l'Exposition par le palais, afin de donner à cousine Suzette un autre beau spectacle.</p>
+               <p>Louis propose de descendre et d'entrer à l'Exposition par le palais, afin de donner à cousine <persName type="fictif" key="suzette">Suzette</persName> un autre beau spectacle.</p>
                <fw type="footer">SUZETTE (Maitresse). <fw type="sig">16</fw></fw>
                <pb type="page" n="278" />
                <fw>278 SUZETTE.</fw>
