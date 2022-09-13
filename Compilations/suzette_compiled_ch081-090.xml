@@ -86,9 +86,9 @@
                <p>Toute l'Exposition se déroulait aux yeux ; la vaste plaine du <placeName>Champ de Mars</placeName> était une ville de bâtiments à toitures vitrées. Au-dessus flottaient à la brise, et comme tout
                   joyeux de leur pacifique rendez-vous, les drapeaux de toutes les nations d'<placeName>Europe</placeName>, ceux de la grande république américaine et des républiques du Sud, ceux encore de l'extrême
                   Orient, de la <placeName>Chine</placeName> et du <placeName>Japon</placeName>. A ce spectacle, un grand souffle d'humaine fraternité élargissait le cœur.</p>
-               <p>Dans les jardins, et sur le <placeName>pont d'Iéna</placeName> ralliant les deux parties de l'Exposition, four-<figure>
+               <p>Dans les jardins, et sur le <placeName>pont d'Iéna</placeName> ralliant les deux parties de l'Exposition, fourmillait une immense foule bigarrée, se mouvant dans les deux sens.</p><figure>
                   <caption>l. Les <placeName>lnvalides</placeName>, asile fondé par <persName type="historique">Louis XIV</persName> pour les soldats infirmes ou agés. — 2. Le <placeName>Trocadèro</placeName>.</caption>
-               </figure> millait une immense foule bigarrée, se mouvant dans les deux sens.</p>
+               </figure> 
                <p>Pascal montra de majestueux Arabes en burnous blanc, des nègres vêtus à l'européenne, des Chinois, des Japonais au teint jaune, en vêtements de soie de coleur admirable, des
                   Turcs coiffés du fez rouge.</p>
                <p>Et en les désignant il avait l'air de les reconnaitre, en homme qui les aurait tous rencontrés dans ses longs voyages.</p>
@@ -139,7 +139,7 @@
                      <list>
                         <item>— Qu'est-ce que des soldats invalides ? </item>
                         <item>— Pourquoi <persName type="historique">Louis XIV</persName> fonda-t-il un lieu de refuge pour eux ? </item>
-                        <item>— Que fait encore aujourd'hui la France en faveur des soldats mutilés ? </item>
+                        <item>— Que fait encore aujourd'hui la <placeName>France</placeName> en faveur des soldats mutilés ? </item>
                         <item>— Quel événement rappelle le <placeName>pont d'Iéna</placeName> ? </item>
                      </list>
                   </div4>
@@ -190,7 +190,7 @@
                         d'habitants), <placeName>Yokohama</placeName>, <placeName>Kioto</placeName> ou <placeName>Miako</placeName>, <placeName>Osaka</placeName>, <placeName>Satsuma</placeName> et <placeName>Nagasaki</placeName>.</p>
                      <p>La grande république américaine est celle des <placeName><term>Etats-Unis</term></placeName> (60 millions d'habitants), qui occupe un territoire aussi grand que l'<placeName>Europe</placeName>, sillonné par 130,909 kilomètres de
                         chemins de fer, très fertile et qui produit en quantités prodigieuses le blé, le maïs, le coton, le tabac. Le sol renferme des mines abondantes de houille, de fer, de
-                        cuivre, d'argent et de mercure. Après l'Angleterre, c'est le pays dont l'industrie et le commerce ont pris le plus grand développement.</p>
+                        cuivre, d'argent et de mercure. Après l'<placeName>Angleterre</placeName>, c'est le pays dont l'industrie et le commerce ont pris le plus grand développement.</p>
                      <pb type="page" n="283" />
                      <fw>PIERRE, BRONZE, FER. 283 </fw>
                      <p>Les villes principales sont : <placeName>New-York</placeName> (1, 200,000 hab.), <placeName>Philadelphie</placeName> (900,000), <placeName>Boston</placeName> (320,000), <placeName>Baltimore</placeName> (300,000), <placeName>Washington</placeName>, la capitale (100,000), <placeName>Chicago</placeName>
@@ -229,7 +229,7 @@
                <list>
                   <item>— Que voyait-on d'abord dans les premières vitrines de l'histoire du travail ; </item>
                   <item>— dans celles qui suivaient ? </item>
-                  <item>— Qu'étaient les grossiers outits de silex ? </item>
+                  <item>— Qu'étaient les grossiers outils de silex ? </item>
                   <item>— Quelle matière l'homme employa-t-il ensuite au lieu du silex ? </item>
                   <item>— Qu'a fait depuis l'humanité ?</item>
                   <item>— Quel engin fit remarquer <persName type="fictif">Louis</persName> ? </item>
@@ -281,8 +281,8 @@
                      <p>Le <term>cuivre</term> est un métal très anciennement connu, d'un beau rouge éclatant, plus dur que l'or et l'argent et pesant 8 fois 78 plus que l'eau ; il est doué d'une odeur et
                         d'une saveur désagréables ; la plupart de ses combinaisons sont des poisons. — On le trouve dans le sol, soit à l'état de pureté, soit combiné avec diverses substances
                         minérales ; les mines les plus abondantes sont celles d'<placeName>Espagne</placeName>, de <placeName>Toscane</placeName>, des <placeName>Etats-Unis</placeName> et du <placeName>Chili</placeName>. Le cuivre natif
-                        existe en amas puissants aux <placeName>Etats-Unis</placeName> sur la rive sud-ouest du lac
-                        Supérieur, où il est l'objet d'une active exploitation.</p>
+                        existe en amas puissants aux <placeName>Etats-Unis</placeName> sur la rive sud-ouest du <placeName><geogFeat type="lac">lac
+                        Supérieur</geogFeat></placeName>, où il est l'objet d'une active exploitation.</p>
                      <p>A l'air humide, le cuivre se couvre d'un oxyde verdâtre, connu sous le nom de <term>vert-de-gris</term>. Cette substance est un poison énergique ; aussi faut-il tenir dans le plus
                         grand état de propreté les vases et ustensiles de cuisine faits avec ce métal.</p>
                   </div4>
@@ -402,7 +402,7 @@
                   <div4 type="réponses">
                      <p>Le <term>fer</term> est un métal d'un gris bleuâtre pesant 7 fois 78 plus que l'eau et doué d'un certain éclat. Susceptible de s'étirer en fils ténus et de s'etendre en lames très
                         minces, il est tenace et sonore. Peu de metaux sont aussi difficiles à fondre ; il se ramollit toutefois à une température bien inferieure à colle du point où il entre
-                        en fusion ; alors on peut le pétrir sous le marteau et le souder sur lui-même. A l'air libre, il se couvre d'un oxyde rouge connu sous le nom de rouille ; à la chaleur
+                        en fusion ; alors on peut le pétrir sous le marteau et le souder sur lui-même. A l'air libre, il se couvre d'un oxyde rouge connu sous le nom de <term>rouille</term> ; à la chaleur
                         rouge, il se forme à sa surface des écailles d'oxyde noir.</p>
                      <p>Le fer sert à la fabrication de la plupart des outils, des instruments, des armes. Il se substitue actuellement au bois et à la pierre dans la construction des maisons,
                         des ponts, des navires, etc.</p>
@@ -600,7 +600,7 @@
                         enfin des magasins pour les vivres, les marchandises et les bagages.</p>
                      <p>On entend par <term>mal de mer</term> des troubles d'estomac qui causent de continuels et douloureux vomissements aux passagers des paquebots, durant les premiers jours de la
                         navigation.</p>
-                     <p>Une <term>jetée</term> est un amas de matériaux (sable, cailloux, pierres) amoncolés le long du canal qui forme l'entrée d'un port, ordinairement soutenu de pilotis, et destiné à
+                     <p>Une <term>jetée</term> est un amas de matériaux (sable, cailloux, pierres) amoncelés le long du canal qui forme l'entrée d'un port, ordinairement soutenu de pilotis, et destiné à
                         rompre l'impétuosité des vagues.</p>
                      <p>Un <term>phare</term> est une tour construite à l'entrée d'un port ou aux environs, et au sommet de laquelle on tient des feux allumés pendant la nuit pour guider les vaisseaux qui
                         approchent des côtes. Fréquemment ils sont fondés sur des rochers isolés, battus des vagues et qu'on ne peut aborder pendant des semaines entières quand règne la
@@ -847,7 +847,7 @@
                      <p>Un <term>tableau</term> est un ouvrage de peinture sur une table de bois, de métal ou sur de la toile. — Un <term>portrait</term> est l'image d'une personne, faite avec le pinceau, le burin, le
                         crayon, le ciseau. — Une <term>scène d'histoire</term> est la représentation d'un fait historique, comme l'entrée de <persName type="historique">Jeanne d'Arc</persName> à
                         <placeName>Orléans</placeName>, les cuirassiers de <placeName>Reischoffen</placeName>, la vieille garde à <placeName>Waterloo</placeName> (on voit ces tableaux dans nos musées de peinture). — Des <term>eaux transparentes</term>
-                        sont des eaux à travers lesquelles on peut voir lès objets. — Une <term>lande sauvage</term> est une grande étendue de terre inculte et stérile où les hommes ne séjournent ou ne
+                        sont des eaux à travers lesquelles on peut voir les objets. — Une <term>lande sauvage</term> est une grande étendue de terre inculte et stérile où les hommes ne séjournent ou ne
                         passent presque jamais. — La <term>bienvenue</term> est le plaisir exprimé que procure l'arrivée de quelqu'un. — Un <term>chevalier</term> était, au moyen âge, un guerrier d'origine noble qui
                         faisait partie d'une confrérie militaire dont les membres s'engageaient à protéger les faibles et à combattre les oppresseurs. — Le <term>moyen âge</term> est, au point de vue
                         historique, le temps écoulé entre l'invasion des Barbares au cinquième siècle et la prise de <placeName>Constantinople</placeName> par les Turcs en 1453. — Un <term>coin poétique</term> est un petit espace de terrain dont l'aspect est propre à
@@ -922,7 +922,7 @@
                               ><placeName>Durance</placeName></geogFeat>, l'<geogFeat type="rivière"><placeName>Agout</placeName></geogFeat> et le <geogFeat type="rivière"><placeName>Var</placeName></geogFeat>.</p>
                      <p>C'est une région fertile, pittoresque, habitée par une race intelligente, vive, entreprenante, apte au commerce et aux œuvres d'art. On y parle, avec le français, une
                         langue particulière qui a beaucoup de rapport avec l'espagnol et l'italien ; ce fut autrefois celle des troubadours.</p>
-                     <p><placeName>Arles</placeName> (24,000 hab.), la première colonie fondée dans les Gaules par les Romains ; elle en fut la capitale vers la fin del'empire, puis celle du
+                     <p><placeName>Arles</placeName> (24,000 hab.), la première colonie fondée dans les <placeName>Gaules</placeName> par les Romains ; elle en fut la capitale vers la fin del'empire, puis celle du
                         royaume de <placeName>Provence</placeName> en 855. Belles ruines romaines ; remarquable musée. Les Arlésiennes sont renommées pour leur beauté.</p>
                      <p><placeName>Aix</placeName> (29,000 hab.), fondée par les Romains, qui en appréciaient les eaux thermales ; ville savante, ancienne capitale de la
                         <placeName>Provence</placeName> ; entrepôt des denrées de la région.</p>
@@ -933,10 +933,10 @@
                         les eaux de la <geogFeat type="rivière"><placeName>Durance</placeName></geogFeat>.</p>
                      <pb type="page" n="301" />
                      <fw>PEINTURE. 301</fw>
-                     <p><placeName>Toulouse</placeName> (125,000 hab.),l'une des villes les plus anciennes de la <placeName>Gaule</placeName> etl'ancienne capitale du royaume des Visigoths, est
-                        la sixième ville de <placeName>France</placeName> par sa population. Entrepôt de toutes les denrées de la plaine garonnaise, cette ville est très commerçante ; son plus
+                     <p><placeName>Toulouse</placeName> (125,000 hab.),l'une des villes les plus anciennes de la <placeName>Gaule</placeName> et l'ancienne capitale du royaume des Visigoths, est
+                        la sixième ville de <placeName>France</placeName> par sa population. Entrepôt de toutes les denrées de la <geogFeat><placeName>plaine garonnaise</placeName></geogFeat>, cette ville est très commerçante ; son plus
                         bel édifice est l'<placeName>église Saint-Sernin</placeName>.</p>
-                     <p><placeName>Montauban</placeName> (26,000 hab.)se présente majestueusement sur la rive du <geogFeat type="rivière"><placeName>Tarn</placeName></geogFeat>, qu'on traverse surl'un des plus beaux
+                     <p><placeName>Montauban</placeName> (26,000 hab.) se présente majestueusement sur la rive du <geogFeat type="rivière"><placeName>Tarn</placeName></geogFeat>, qu'on traverse surl'un des plus beaux
                         ponts de <placeName>France</placeName> bâti au quatorzième siècle. Elle possède d'importantes manufactures de toile à bluter, de laines communes et d'étoffes diverses, des moulins, des,
                         tanneries, des fabriques de faience. Riche bibliothèque et musée remarquable. Cette ville a joué un rôle important àl'époque des guerres de religion.</p>
                      <p><placeName>Pau</placeName> (28, 000 hab.) s'élève sur le bord d'une terrasse d'oùl'on contemple le magnifique horizon des <geogFeat type="montagne"><placeName>Pyrénées</placeName></geogFeat>
@@ -945,7 +945,7 @@
                         mêtres de longueur. Peu de cités présentent un aspect plus grandiose : c'était, sous les Gaulois et sous les Romains, une ville considérable, centre de commerce, siège
                         d'académies et rendez-vous d'orateurs. On y remarque un port fréquenté d'où partent les paquebots transatlantiques à destination du <placeName>Sénégal</placeName> et
                         de l'<placeName>Amérique</placeName> du Sud. <placeName>Bordeaux</placeName> possède de beaux édifices religieux, un théâtre monumental et de superbes promenades. Les
-                        vins de la région dont cette ville est le centre, sont célèbres dans le monde entier, etl'on en exporte annuellement de 1,100,000 à 1,200,000 hectolitres.</p>
+                        vins de la région dont cette ville est le centre, sont célèbres dans le monde entier, et l'on en exporte annuellement de 1,100,000 à 1,200,000 hectolitres.</p>
                   </div4>
                   <div4 type="questions">
                      <list>
@@ -1177,7 +1177,7 @@
                         <item>— Qu'est-ce que la musique ? </item>
                         <item>— Quels effets produit la bonne musique ? </item>
                         <item>— Qu'est-ce qu'une chanson ? </item>
-                        <item>— Quels sujets de >chansons conviennent aux jeunes filles ?</item>
+                        <item>— Quels sujets de chansons conviennent aux jeunes filles ?</item>
                         <item>— Que doit-on faire lorsqu'on entend chanter une chanson peu convenable ? </item>
                         <item>— Écrivez la chanson que vous aimez le mieux.</item>
                      </list>
@@ -1368,7 +1368,7 @@
                      <p>Les harengs se pêchent avec d'immenses filets que relèvent les équipages des navires affectés à cette opération ; alors on vide les poissons et, séance tenante, on
                         les dépose dans des barils en alternant une couche de sel et une couche de harengs. On les fume encore, et ils prennent sous cet état le nom de harengs saurs. </p>
                      <p>La <term>raie</term> est un poisson plat de forme ovale, ayant de 0m,25 à Om,30 de diamètre qui fournit une chair blanche et délicate. La sole est également un poisson plat, mais de
-                        forme plus allongée que la raie* on le recherche encore davantage ; quant aux <term>homards</term>, ce sont d'énormes crustacés qui ressemblent aux écrevisses et dont la chair fort
+                        forme plus allongée que la raie ; on le recherche encore davantage ; quant aux <term>homards</term>, ce sont d'énormes crustacés qui ressemblent aux écrevisses et dont la chair fort
                         estimée, quoique indigeste, paraît sur les meilleures tables.</p>
                   </div4>
                </div3>
@@ -1408,7 +1408,7 @@
             <head>90. — Fleurs et verdures. (Élève, p. 188.)</head>
             <div2 type="récit">
                <p>— <persName type="fictif" key="suzette">Suzette</persName>, regarde ! dit-elle.</p>
-               <p>C'était un enchantement : des gardénias, des azalées, des camélias, des tubéreuses, des glaeuls, du mimosa, de l'oranger, des anémones, des roses, des bégonias venus des pays du
+               <p>C'était un enchantement : des gardénias, des azalées, des camélias, des tubéreuses, des glaïeuls, du mimosa, de l'oranger, des anémones, des roses, des bégonias venus des pays du
                   soleil ; puis les fleurs plus connues des gens de <placeName type="fictif">Fragicourt</placeName> : la giroflée, la pervenche, la primevère, la jacinthe, le narcisse, le muguet des
                   bois. Et tout cela par énormes bottées, par charretées !</p>
                <p>— Quelle splendeur ! dit <persName type="fictif" key="suzette">Suzette</persName> ravie.</p>
@@ -1433,7 +1433,7 @@
                <p>— Pour quelques semaines ! répondit la tante ; c'est simplement <figure>
                   <caption>Asperge. C'est une plante potagère dont les jeunes pousses, cuites dans l'eau bouillante, sont mangées soit à l'huile, soit à la sauce blanche.</caption>
                </figure> la ration d'un jour, comme toute l'abondance que tu viens de voir. Et que de gens encore ne déjeuneront pas ce matin, ou se coucheront ce soir sans diner !
-                  <placeName>Paris</placeName>, cette mère Gigogne, a plus de deux millions d'enfants à nourrir. Et, en réalité, malgré cette apparence magnifique des
+                  <placeName>Paris</placeName>, cette <persName type="fictif">mère Gigogne</persName>, a plus de deux millions d'enfants à nourrir. Et, en réalité, malgré cette apparence magnifique des
                   <placeName>Halles</placeName>, les vivres y sont rares, puisqu'ils y sont chers.</p>
                <p>Ce dernier mot sonna plus haut que les autres.</p>
                <figure>
