@@ -113,7 +113,7 @@
                <p><persName type="fictif" key="mme_richard">Mme Richard</persName> lui présenta <persName type="fictif" key="suzette">Suzette</persName>.</p>
                <p>Et la <placeName>Picardie</placeName> et le <placeName>Languedoc</placeName> se trouvèrent bientôt en telle sympathie que <persName type="fictif">Mlle Villette</persName> reprit : </p>
                <p>— J'ai à courir tout le jour. Puisque mademoiselle <persName type="fictif" key="suzette">Suzette</persName> est ici pour voir <placeName>Paris</placeName>, confiez-la-moi. — Puis se
-                  levant : — Habillez-vous, Mademoiselle; je des- cends mettre mon chapeau.</p>
+                  levant : — Habillez-vous, Mademoiselle ; je descends mettre mon chapeau.</p>
                <p>Moins d'une demi-heure après, on courait vers les <placeName>Ternes</placeName>*<gloss><placeName>Ternes</placeName>. Quartier du N.-O. de <placeName>Paris</placeName>.</gloss>, où
                   il y avait un autre petit panier à porter. On était en omnibus aux premières places, sur l'impériale, endroit des plus commodes, par le beau temps, pour voir
                   <placeName>Paris</placeName> sans fatigue.</p>
@@ -179,7 +179,7 @@
                   <div4 type="réponses">
                      <p>On appelle accent local des inflexions ou changements dans le ton de la voix, particuliers aux habitants de certaines provinces ou aux personnes d'une condition peu élevée.
                         Ainsi, à <placeName>Paris</placeName>, par exemple, on grasseye excessivement, l'on prononce le g suivi de la voyelle a, comme s'il était suivi de ui ; dans le
-                        <placeName>Nord,</placeName> on traîne sur les syllabes finales; dans le <placeName>centre</placeName>, en <placeName>Bourgogne</placeName> notamment, les inflexions sont
+                        <placeName>Nord,</placeName> on traîne sur les syllabes finales ; dans le <placeName>centre</placeName>, en <placeName>Bourgogne</placeName> notamment, les inflexions sont
                         chantantes ; dans, le <placeName>Midi</placeName>, on scande les syllabes ; on y prononce an, in, on comme si ces voyelles étaient écrites anne, inne, onne, etc., etc.</p>
                      <p>Pour corriger ces défauts, il faut écouter avec attention comment s'expriment les personnes instruites qui n'ont jamais eu ou qui ont perdu l'accent local ; on s'exercera chez
                         soi à reproduire le plus fidèlement possible leurs intonations.</p>
@@ -192,9 +192,9 @@
                   <head>Géographie.</head>
                   <div4 type="questions">
                      <list>
-                        <item>— Tracer la carte de la partie de la <placeName>France</placeName> baignée par la <geogFeat type="mer">Méditerranée</geogFeat>.</item>
-                        <item>— Y faire figurer le <geogFeat type="fleuve">Rhône</geogFeat>, le <geogFeat type="rivière">Gard</geogFeat>, l'<geogFeat type="fleuve">Aude</geogFeat>, l'<geogFeat
-                           type="fleuve">Hérault</geogFeat>. </item>
+                        <item>— Tracer la carte de la partie de la <placeName>France</placeName> baignée par la <geogFeat type="mer"><placeName>Méditerranée</placeName></geogFeat>.</item>
+                        <item>— Y faire figurer le <geogFeat type="fleuve"><placeName>Rhône</placeName></geogFeat>, le <geogFeat type="rivière"><placeName>Gard</placeName></geogFeat>, l'<geogFeat type="fleuve">Aude</geogFeat>, l'<geogFeat
+                           type="fleuve"><placeName>Hérault</placeName></geogFeat>. </item>
                         <item>— Y marquer les villes citées dans la leçon de lecture, ainsi que <placeName>Marseille</placeName>, <placeName>Perpignan</placeName>, <placeName>Narbonne</placeName>,
                            <placeName>Carcassonne</placeName>, <placeName>Béziers</placeName>, <placeName>Cette</placeName>, <placeName>Avignon</placeName>, <placeName>Arles</placeName>,
                            <placeName>Aix</placeName>, <placeName>Draguignan</placeName>, <placeName>Grasse</placeName>, <placeName>Nice</placeName>.</item>
@@ -205,14 +205,14 @@
                   </div4>
                   <div4 type="réponses">
                      <p>(Consulter, pour le tracé en question, un bon atlas.)</p>
-                     <p>L'ile de <placeName>Corse</placeName> et onze départements du littoral de la <geogFeat type="mer">Méditerranée</geogFeat> fournissent la meilleure huile d'olive du monde. Les
-                        mêmes régions de la <placeName>France</placeName> et d'autres départements du <placeName>Midi</placeName> récoltent la feuille du mûrier, qui nourrit le ver a soie; mais la,
-                        gloire et la grande richesse de la <placeName>France méridionale</placeName>, ce sont ses vignobles. Au pied des <geogFeat type="montagne">Cèvennes</geogFeat> et des <geogFeat
-                           type="montagne">Alpes</geogFeat>, dans la vallée-du <geogFeat type="fleuve">Rhône</geogFeat> et de la <geogFeat type="rivière">Saône</geogFeat>, dans le
+                     <p>L'ile de <placeName>Corse</placeName> et onze départements du littoral de la <geogFeat type="mer"><placeName>Méditerranée</placeName></geogFeat> fournissent la meilleure huile d'olive du monde. Les
+                        mêmes régions de la <placeName>France</placeName> et d'autres départements du <placeName>Midi</placeName> récoltent la feuille du mûrier, qui nourrit le ver a soie ; mais la,
+                        gloire et la grande richesse de la <placeName>France méridionale</placeName>, ce sont ses vignobles. Au pied des <geogFeat type="montagne"><placeName>Cèvennes</placeName></geogFeat> et des <geogFeat
+                           type="montagne"><placeName>Alpes</placeName></geogFeat>, dans la vallée-du <geogFeat type="fleuve"><placeName>Rhône</placeName></geogFeat> et de la <geogFeat type="rivière"><placeName>Saône</placeName></geogFeat>, dans le
                         <placeName>Bordelais</placeName>, sur les pentes de l'<placeName>Angoumois</placeName> et de la <placeName>Saintonge</placeName> tournées vers le soleil, se trouvent les
                         vignobles les plus étendus et les plus productifs de <placeName>France</placeName>. Les environs de <placeName>Nice</placeName>, de <placeName>Cannes</placeName>,
                         d'<placeName>Hyères</placeName> sont de vastes champs de fleurs d'où l'on exporte, dans la saison d'hiver <pb type="page" n="355" />
-                        <fw>UN AMÉRICAIN. 355</fw> des roses, des lilas, des violettes en quantités vraiment prodigieuses. Enfin, la vallée de la <geogFeat type="fleuve">Garonne</geogFeat> produit des
+                        <fw>UN AMÉRICAIN. 355</fw> des roses, des lilas, des violettes en quantités vraiment prodigieuses. Enfin, la vallée de la <geogFeat type="fleuve"><placeName>Garonne</placeName></geogFeat> produit des
                         fruits délicieux ; les pruneaux d'<placeName>Agen</placeName> sont célèbres.</p>
                   </div4>
                </div3>
@@ -235,10 +235,10 @@
                   <fw>356 SUZETTE.</fw> comme l'omnibus suivait la voiture filant devant le Ministère de l'Intérieur*<gloss>Ministère de l'intérieur. Celui qui veille à l'exécution des lois et à la
                      bonne administration de la France.</gloss>.</p>
                <p>Une voix répondit : </p>
-               <p>— Pourquoi, Mademoiselle, un président de république ne serait-il pas simple, je vous prie ? Le voudriezvous avec des yeux insolents et avec un grand plumet à son chapeau ? Nos
-                  présidents des <placeName>Etats-Unis</placeName> depuis <persName type="historique">Washington</persName>*<gloss>Washington (1732 1799). Général et premier président de la république
+               <p>— Pourquoi, Mademoiselle, un président de république ne serait-il pas simple, je vous prie ? Le voudriez-vous avec des yeux insolents et avec un grand plumet à son chapeau ? Nos
+                  présidents des <placeName>Etats-Unis</placeName> depuis <persName type="historique">Washington</persName>*<gloss><persName type="historique">Washington</persName> (1732 1799). Général et premier président de la république
                      des <placeName>Etats-Unis</placeName>.</gloss> se sont montrés simples aussi, comme votre papa, et comme moi.</p>
-               <p>L'Américain, un homme à figure barbue, joviale, qui parlait ainsi, avec une brusquerie agréable, était assis à côté de <persName type="fictif" key="suzette">Suzette</persName>.</p>
+               <p>L'<persName type="fictif">Américain</persName>, un homme à figure barbue, joviale, qui parlait ainsi, avec une brusquerie agréable, était assis à côté de <persName type="fictif" key="suzette">Suzette</persName>.</p>
                <p><persName type="fictif">Mlle Villette</persName>, assise de l'autre côté, se pencha, regarda l'étranger, et lui trouvant honnête mine, continua la conversation, qui en vint vite aux
                   écoles : </p>
                <p>— Ah ! ah ! les écoles, oui, nous nous en occupons, Mademoiselle ! Dans le seul <placeName>Etat de New-York</placeName>, dont je suis, — et la république américaine compte
@@ -247,7 +247,7 @@
                   mourant, une partie de nos biens aux écoles qui nous ont rendus capables de mener notre vie et nos affaires.</p>
                <p>Il tira un journal de sa poche, et frappant dessus : </p>
                <p>— Voilà pourtant un Français qui, s'adressant aux paysans, ose écrire que « la France dépense trop pour ses écoles » ! Mais où donc veut-il qu'elle place mieux son argent ? </p>
-               <p>On arrivait à l'avenue*<gloss>Avenue. Large allée bordée d'arbres.</gloss> de <placeName>Wagram</placeName> qui débouche sur l'<placeName>Arc de triomphe</placeName>. L'Américain se
+               <p>On arrivait à l'avenue*<gloss>Avenue. Large allée bordée d'arbres.</gloss> de <placeName>Wagram</placeName> qui débouche sur l'<placeName>Arc de triomphe</placeName>. L'<persName type="fictif">Américain</persName> se
                   leva, et, après un léger salut de la tête, descendit.</p>
             </div2>
             <div2 type="questionnaire">
@@ -260,7 +260,7 @@
                   <item>— Quels détails donna-t-il sur les écoles des <placeName>Etats-Unis</placeName> ? </item>
                   <item>— Pourquoi les citoyens des <placeName>Etats-Unis</placeName> attachent-ils autant d'importance aux écoles ? </item>
                   <item>— Que font certains d'entre eux en mourant ? </item>
-                  <item>— Quelle remarque fit l'Américain au sujet d'un article du journai qu'il lisait ? </item>
+                  <item>— Quelle remarque fit l'<persName type="fictif">Américain</persName> au sujet d'un article du journai qu'il lisait ? </item>
                   <item>— Où s'arrèta l'omnibus ? </item>
                </list>
             </div2>
@@ -284,7 +284,7 @@
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>Une école est un établissement où l'on enseigne, avec la lecture et l'écriture, les éléments des lettres, des sciences et des arts.</p>
+                     <p>Une <term>école</term> est un établissement où l'on enseigne, avec la lecture et l'écriture, les éléments des lettres, des sciences et des arts.</p>
                      <p>On applique quelquefois ce nom au local où l'école est établie.</p>
                      <p>Les écoles sont créées par l'État, qui nomme et paye les instituteurs et les institutrices chargés de les diriger. Les communes font bâtir le local où l'on installe ces
                         établissements ; elles pourvoient à l'achat du mobilier nécessaire à la salle de classe et du matériel d'enscignement, comme les cartes, les tableaux d'histoire naturelle, les
@@ -293,14 +293,14 @@
                      <p>Les écoles rendent de grands services, car les parents n'ont ni le temps ni souvent les connaissances nécessaires pour instruire leurs enfants, et dans ces établissements des
                         fonctionnaires choisis par l'Etat donnent à la jeunesse l'éducation qui développe chez tous les facultés de l'âme, de l'esprit et du corps.</p>
                      <p>Il y a trois sortes d'écoles primaires : </p>
-                     <p>Les écoles maternelles, pour les enfants de deux ans révolus à six ans ; </p>
-                     <p>Les écoles primaires, pour les enfants de six à treize ans ; </p>
-                     <p>Les écoles primaires supérieures, pour les enfants plus agès et munis de leur certificat d'études.</p>
-                     <p>Les écoles maternelles sont confiées à des femmes qui prennent le titre de directrices d'écoles maternelles ; — les écoles primaires, à des instituteurs et à des institutrices
-                        qui ont droit au titre de directeur ou de directrice, si l'établissement à la tête duquel ils sont placés compte plusieurs classes ; — les écoles primaires supérieures ont un
-                        directeur et des professeurs munis au moins du brevet supérieur.</p>
-                     <p>Dans chaque arrondissement, un inspecteur est chargé de surveiller les écoles et de constater les progrès des élèves ; il a pour collaberateurs des notables qui, sous le nom de
-                        délégués, s'enquièrent des besoins des établissements d'instruction et les signalent à l'autorité supérieure.</p>
+                     <p>Les <term>écoles maternelles</term>, pour les enfants de deux ans révolus à six ans ; </p>
+                     <p>Les <term>écoles primaires</term>, pour les enfants de six à treize ans ; </p>
+                     <p>Les <term>écoles primaires</term> supérieures, pour les enfants plus agès et munis de leur certificat d'études.</p>
+                     <p>Les écoles maternelles sont confiées à des femmes qui prennent le titre de <term>directrices d'écoles maternelles</term> ; — les écoles primaires, à des instituteurs et à des institutrices
+                        qui ont droit au titre de <term>directeur</term> ou de <term>directrice</term>, si l'établissement à la tête duquel ils sont placés compte plusieurs classes ; — les écoles primaires supérieures ont un
+                        <term>directeur</term> et des <term>professeurs</term> munis au moins du brevet supérieur.</p>
+                     <p>Dans chaque arrondissement, un <term>inspecteur</term> est chargé de surveiller les écoles et de constater les progrès des élèves ; il a pour collaberateurs des notables qui, sous le nom de
+                        <term>délégués</term>, s'enquièrent des besoins des établissements d'instruction et les signalent à l'autorité supérieure.</p>
                   </div4>
                </div3>
                <div3 type="instruction_civique">
@@ -316,8 +316,8 @@
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>Le chef du gouvernement français a le titre de président de la République ; il est élu par les sénateurs et les députes réunis à <placeName>Versailles</placeName> en Assembiée
-                        nationale ; la durée de ses fonctions est de sept ans, et il jouit d'un traitement de 1,200,000 francs.</p>
+                     <p>Le chef du gouvernement français a le titre de président de la République ; il est élu par les sénateurs et les députes réunis à <placeName>Versailles</placeName> en <term>Assembiée
+                        nationale</term> ; la durée de ses fonctions est de sept ans, et il jouit d'un traitement de 1,200,000 francs.</p>
                      <p>Le président de la République fait exécuter les lois votées par les Chambres, avec, le concours de ministres responsables dont il a le <pb type="page" n="358" />
                         <fw>SUZETTE. 358</fw> choix. Il a le droit de faire grâce ; il dispose de la force armée ; il nomme à tous les emplois civils et militaires ; il peut, sur l'avis con forme du
                         Sénat, dissoudre la Chambre des députés avant l'expiration de son mandat. C'est lui encore qui préside aux solennités nationales et reçoit les ambassadeurs des puissances
@@ -330,31 +330,31 @@
                   <head>Histoire.</head>
                   <div4 type="questions">
                      <list>
-                        <item>— Qui a fondé <placeName>Nimes</placeName> ? </item>
+                        <item>— Qui a fondé <placeName>Nîmes</placeName> ? </item>
                         <item>— Qui l'a embellie ? </item>
                         <item>— Qu'étaient-ce que les Romains ? </item>
-                        <item>— Que voûs rappelle <placeName>Wagram</placeName> ? </item>
+                        <item>— Que vous rappelle <placeName>Wagram</placeName> ? </item>
                         <item>— Pourquoi élève-t-on des ares de triomphe et des colonnes sur les places publiques des grandes villes ? </item>
                         <item>— Citez les ares de triomphe et tes colonnes historiques qu'on remarque à <placeName>Paris</placeName>.</item>
-                        <item>— Connaissez-vous des villes de <placeName>France</placeName> où les Romains ont bâti des ares de triomphe ou des portes triomphales ? </item>
+                        <item>— Connaissez-vous des villes de <placeName>France</placeName> où les Romains ont bâti des arcs de triomphe ou des portes triomphales ? </item>
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p><placeName>Nimes</placeName> a été fondée aux temps les, plus anciens de la <placeName>Gaule</placeName> par la tribu de Volces dont elle devint la capitale ; elle reçut une
+                     <p><placeName>Nîmes</placeName> a été fondée aux temps les plus anciens de la <placeName>Gaule</placeName> par la tribu de Volces dont elle devint la capitale ; elle reçut une
                         colonie de <placeName>Marseille</placeName>, et, vers l'an 120 avant J.-C., elle était soumise aux Romains. L'empereur <persName type="historique">Auguste</persName> y envoya
                         une colonie de vétérans ; elle prit alors un rapide développement et atteignit une splendeur dont témoignent les magnifiques monuments qui sont encore debout.</p>
                      <p>Les Romains étaient un peuple du centre de l'<placeName>Italie</placeName> qui subjugua d'abord cette contrée, puis toutes les nations établies sur les rivages de la <geogFeat
                         type="mer">Méditerranée</geogFeat>. Leur domination formait un immense empire de plus de 120 millions d'habitants.</p>
-                     <p><placeName>Wagram</placeName>, petit village de la basse <placeName>Autriche</placeName>, est célèbre par la vic toire que <persName type="historique">Napoléon</persName> ler
-                        remporta sur les Autrichiens, les 5 et 6 juillet 1809, et par laquelle il tes rejeta en <placeName>Bohême</placeName>.</p>
-                     <p>On élève des ares de triomphe et des colonnes de pierre ou de bronze sur les places publiques pour perpétuer le souvenir de conquê tes et de victoires. On remarque à
+                     <p><placeName>Wagram</placeName>, petit village de la basse <placeName>Autriche</placeName>, est célèbre par la victoire que <persName type="historique">Napoléon</persName> ler
+                        remporta sur les Autrichiens, les 5 et 6 juillet 1809, et par laquelle il les rejeta en <placeName>Bohême</placeName>.</p>
+                     <p>On élève des arcs de triomphe et des colonnes de pierre ou de bronze sur les places publiques pour perpétuer le souvenir de conquêtes et de victoires. On remarque à
                         <placeName>Paris</placeName> l'arc de triomphe de l'Etoile, élevé à la mémoire des immortelles campagnes de <persName type="historique">Napoléon Ier</persName> ; les portes
                         <placeName>Saint-Denis</placeName> et <placeName>Saint-Martin</placeName>, qui rappellent les conquêtes de <persName type="historique">Louis XIV</persName> ; la
                         <placeName>colonne Vendôme</placeName>, édifiée en souvenir de la campagne de 1305, et dont les plaques de bronze qui la revêtent ont été tirées des canons pris à
-                        <placeName>Ulm</placeName> et à <placeName>Austerlitz</placeName> ; la colonne de la <placeName>place du Châ telet</placeName>, la <placeName>colonne de
+                        <placeName>Ulm</placeName> et à <placeName>Austerlitz</placeName> ; la colonne de la <placeName>place du Châtelet</placeName>, la <placeName>colonne de
                            Juillet</placeName>.</p>
-                     <p>Les Romains édifièrent des arcs de triomphe ou des portes triom phales dans la plupart des grandes villes. Il en existe encore dans les villes de
-                        <placeName>Saintes</placeName>, <placeName>Autun</placeName>, <placeName>Nimes</placeName>, <placeName>Besançon</placeName>, <placeName>Orange</placeName>.</p>
+                     <p>Les Romains édifièrent des arcs de triomphe ou des portes triomphales dans la plupart des grandes villes. Il en existe encore dans les villes de
+                        <placeName>Saintes</placeName>, <placeName>Autun</placeName>, <placeName>Nîmes</placeName>, <placeName>Besançon</placeName>, <placeName>Orange</placeName>.</p>
                   </div4>
                </div3>
             </div2>
@@ -364,15 +364,15 @@
             <head>103. — Un grand magasin. (Élève, p. 212.)</head>
             <div2 type="récit">
                <p>Jusqu'aux <placeName>Ternes</placeName>, <persName type="fictif">Mlle Villette</persName> et <persName type="fictif" key="suzette">Suzette</persName> ne tarirent*<gloss>Tarir.
-                  Ne pas arreêter de parler.</gloss> pas sur la question.</p>
+                  Ne pas arrêter de parler.</gloss> pas sur la question.</p>
                <p>Le panier remis à son adresse, elles remontèrent sur un autre omnibus qui les mena au <placeName>magasin du Louvre</placeName>, où la demoiselle devait faire des commandes pour
-                  ses amies due <placeName>Midi</placeName>. Lorsqu’on revient de province á <pb type="page" n="359" />
+                  ses amies due <placeName>Midi</placeName>. Lorsqu’on revient de province à <pb type="page" n="359" />
                   <fw>UN GRAND MAGASIN. 359</fw>
                   <placeName>Paris</placeName>, c'est généralement les bras chargés de paniers et de commissions.</p>
                <p>Le <placeName>magasin du Louvre</placeName> rappela les grandes <placeName>Halles</placeName> à <persName key="suzette" type="fictif">Suzette</persName>. C'était une abondance.
-                  pareille à colle des victuailles, un amoncellement de choses à faire croire que toutes les créations de l'industrie se concentraient*<gloss>Concentrer (se). Rassembler des
+                  pareille à celle des victuailles, un amoncellement de choses à faire croire que toutes les créations de l'industrie se concentraient*<gloss>Concentrer (se). Rassembler des
                      personnes et des choses en un lieu donné.</gloss> ici.</p>
-               <p>Elle vit au passage les batistes, les toiles de la <placeName>Flandre</placeName> et de la <placeName>Normandie</placeName>, les tulles du <placeName>Pasde-Calais</placeName>,
+               <p>Elle vit au passage les batistes, les toiles de la <placeName>Flandre</placeName> et de la <placeName>Normandie</placeName>, les tulles du <placeName>Pas-de-Calais</placeName>,
                   les draperies de <placeName>Lodève</placeName>, de <placeName>Sedan</placeName>, d'<placeName>Elbeuf</placeName>, <figure>
                      <caption>Tulle noir, sorte de tissu en reseau</caption>
                   </figure>
@@ -407,8 +407,8 @@
                   <pb type="page" n="361" />
                   <fw>UN GRAND MAGASIN. 361 </fw> d'<placeName>Orient</placeName>, d'<placeName>Aubusson</placeName>, de <placeName>Beauvais</placeName> et de ces belles moquettes tissées au
                   jacquard.</p>
-               <p>La plupart de ces pièces, basses, sans jour, étaient éclairées par une lumière blanche, froide, comme celle d'un clair de lune très in- tense*<gloss>Intense. Qui agit
-                  fortement.</gloss>, la lumière électrique*<gloss>Lumière électrique. Produite par l'électricité.</gloss>. auprès de laquelle celle du gaz n'est plus guère qu'u quinquet
+               <p>La plupart de ces pièces, basses, sans jour, étaient éclairées par une lumière blanche, froide, comme celle d'un clair de lune très intense*<gloss>Intense. Qui agit
+                  fortement.</gloss>, la lumière électrique*<gloss>Lumière électrique. Produite par l'électricité.</gloss>. auprès de laquelle celle du gaz n'est plus guère qu'um quinquet
                   fumeux. Ici, comme en bas et partout, à chaque rayon, c'était un tohu-bohu d'achieteurs et d'acheteuses, de vendeurs et surtout de vendeuses pliant, dépliant, offrant la
                   marchandise.</p>
                <p><persName key="suzette" type="fictif">Suzette</persName> fut frappée de la pâleur de ces demoiselles de magasin.</p>
@@ -521,7 +521,7 @@
                <p>— La Ville de <placeName>Paris</placeName>, dit <persName type="fictif">Mlle Villette</persName> en entrant, c'est le Conseil municipal qui, sur la question des écoles, pense et agit
                   comme l'Américain de tout à l'heure.</p>
                <figure>
-                  <caption>Principaux ustensiles de cuisine. La pole (1) sert spécialement pour les fritures et les omelettes; la marmite (2), pour le pot-au-feu et la soupe aux choux ; la casserole
+                  <caption>Principaux ustensiles de cuisine. La pole (1) sert spécialement pour les fritures et les omelettes ; la marmite (2), pour le pot-au-feu et la soupe aux choux ; la casserole
                      (3) et le polon (4) servent dans les campagnes pour préparer la nourriture des bestiaux et dans les villes pour faire chauffer de l'eau. Une autre marmite (5), plus grande que la
                      première, est souvent employée pour faire bouillir le linge. — Les ustensiles de cuisine sont en cuivre, en fer battu, en terre ou en tôle émaillée. Ceux en cuivre doivent être
                      nettoyés avec du grès, du tripoll et un acide appelé eau de cuivre ; sans ces précautions, on voit se développer la rouille du cuivre, le vert-de-gris, qui est un terrible poison.
@@ -529,7 +529,7 @@
                      bouillante.</caption>
                </figure>
                <p>Après avoir salué la directrice, <persName type="historique">Mme Lajotte</persName>, elle lui présenta <persName type="fictif" key="suzette">Suzette</persName> comme une jeune
-                  fermière à qui elle voudrait bien faire goûter les cours, et aussi le dé- jeuner de l'étâblissement.</p>
+                  fermière à qui elle voudrait bien faire goûter les cours, et aussi le déjeuner de l'étâblissement.</p>
                <pb type="page" n="364" />
                <fw>364. SUZETTE.</fw>
                <p><persName type="historique">Mme Lajotte</persName> répondit gracieusement que Mlle <persName type="fictif" key="suzette">Suzette</persName> goûterait des deux, mais du déjeuner avec
@@ -577,7 +577,7 @@
                <list>
                   <item>— Quel établisse ment se trouve à <placeName>Grenelle</placeName>, <placeName>rue Fondary</placeName> ? </item>
                   <item>— Qui a installé l'école professionnelle ? </item>
-                  <item>— A qui Suzette fut-elle présentée et comment fut-elle accueillie?</item>
+                  <item>— A qui Suzette fut-elle présentée et comment fut-elle accueillie ?</item>
                   <item>— Que lui proposa-t-on ? </item>
                   <item>— Décrivez la cuisine de l'école. </item>
                   <item>— Que faisaient, dans cette pièce, huit jeunes filles ? </item>
@@ -600,7 +600,7 @@
                   <div4 type="questions">
                      <list>
                         <item>— LE DRAPEAU NATIONAL.</item>
-                        <item>— En quoi il consiste; ce qu'on lit sur celui de chaque régiment. </item>
+                        <item>— En quoi il consiste ; ce qu'on lit sur celui de chaque régiment. </item>
                         <item>— De quoi est-il l'emblème ?</item>
                         <item>— Qui le garde, qui le défend ?</item>
                         <item>— Qu'indique-t-il quand il est placé sur certains édifices ? </item>
@@ -691,7 +691,7 @@
          <div1 type="chapitre" xml:lang="fr" n="105">
             <head>105. — Jeunes travailleuses. (Élève, p. 224.)</head>
             <div2 type="récit">
-               <p>Après le repas et la récréation, on monta au premier étage, aux ateliers. Il y en avait sept : un pour chacune des professions enseignées: couture et confection, lingerie,
+               <p>Après le repas et la récréation, on monta au premier étage, aux ateliers. Il y en avait sept : un pour chacune des professions enseignées : couture et confection, lingerie,
                   blanchissage et repassage, broderie sur étoffe et d'ameublement, fleurs, corsets, modes.</p>
                <p><persName key="suzette" type="fictif">Suzette</persName> suivit <persName type="fictif">Mlle Villette</persName> dans celui de la broderie : quinze métiers, quelques-uns avec leurs
                   broderies déjà commencées, broderies de soies nuancées*<gloss> Nuancé. Qui présente dos couleurs disposées de manière qu'il y ait une diminution insensible d'une couleur à l'autre.
@@ -718,7 +718,7 @@
                      <caption>Instruments servant à la fabrication des fleurs artificielles. 1. Ciseaux. — 2. Porte-bobines du fil qui sert à fixer les pétales autour du cœur de la fleur. — 3.
                         Outil-boule pour préparer sur une pelote les pétales de roses. — 4. Outil-boule spécial pour les jacinthes. — 5. Pince dont l'extrémité effilée sert à prendre la pâte pour
                         coller les pétales et l'autre bout pour saisir la fleur. 1. Boulage d'un pétale de rose. —2. Patrons de différentes grandeurs d'une mme lfeur. Fabrication des fleurs
-                        artificielles: 3. Montage d'une fleur. 4. Fleur complètement achvée. </caption>
+                        artificielles : 3. Montage d'une fleur. 4. Fleur complètement achvée. </caption>
                   </figure>
                   <fw type="footer"><fw type="sig">21.</fw></fw>
                   <pb type="page" n="370" />
@@ -741,10 +741,10 @@
                   <item>— Combien y avait-il d'ateliers au premier étage de l'école professionnelle ? </item>
                   <item>— Qu'est-ce que <persName key="suzette" type="fictif">Suzette</persName> remarqua dans l'atelier de broderie ? </item>
                   <item>— Qu'y faisait <persName type="fictif">Mlle Villette</persName> ?</item>
-                  <item>— Que vit-on dans l'atelier des modistes? </item>
-                  <item>— Comment était celui des repasseuses? </item>
+                  <item>— Que vit-on dans l'atelier des modistes ? </item>
+                  <item>— Comment était celui des repasseuses ? </item>
                   <item>— Que raconterez-vous de celui des fleuristes ?</item>
-                  <item>— Quels instruments servent à la fabrication des fleurs artificielles? </item>
+                  <item>— Quels instruments servent à la fabrication des fleurs artificielles ? </item>
                   <item>— Que se passa-t-il près d'une élève qui confectionnait une glycine ? </item>
                   <item>— Que voyait-on dans les vitrines d'exposition de l'école ? </item>
                   <item>— Qu'apprit <persName type="fictif">Mlle Villette</persName> à <persName key="suzette" type="fictif">Suzette</persName> sur les autres professions féminines enseignées dans
@@ -797,7 +797,7 @@
                      <list>
                         <item>— LA ROSE.</item>
                         <item>— Dire quelques mots du rosier, de la tige, des rameaux, des boutons ; parler ensuile de la fleur avec son calice, ses pétales, ses étamines, ses graines.</item>
-                        <item>— Principales espèces de roses; ce qui les distingue.</item>
+                        <item>— Principales espèces de roses ; ce qui les distingue.</item>
                         <item>— Localités renommées pour la culture des roses.</item>
                      </list>
                   </div4>
@@ -833,7 +833,7 @@
                <fw>AU JARDIN D'ACCLIMATATION. 373</fw>
                <p>D'autres enfants allaient sur de mignons poneys*<gloss>Poney. Petit cheval à long poil.</gloss> des <placeName>Shetland</placeName>*<gloss><placeName>Shetland</placeName>. Iles
                   au N. de l'Ecosse.</gloss> ou sur des hémiones*<gloss>Hémiones. Quadrepède du genre cheval qui vit en Asie.</gloss>.</p>
-               <p>Dans une allée sablée, une demoiselle d'au moins quatre ans, à très gentil minois, toute mignonne, trônait dans une petite voi- ture attelée d'une autruche. Elle était là
+               <p>Dans une allée sablée, une demoiselle d'au moins quatre ans, à très gentil minois, toute mignonne, trônait dans une petite voiture attelée d'une autruche. Elle était là
                   gentiment assise, regardant la foule de ses yeux bleus, profonds et doux On eût dit la <persName type="fictif">fée Urgande</persName>, la jolie fée des vieux contes, essayant
                   un nouvel <figure>
                      <caption>Ils se promenaient à dos d'éléphant, de chameau, de dromadaire.</caption>
@@ -962,7 +962,7 @@
             <div2 type="récit">
                <p>C'était un long treillage divisé en compartiments dont chacun contenait son poulailler. Et il fallait en<pb type="page" n="376" />
                   <fw>376 SUZETTE.</fw> tendre et voir le train de caquetage, de grattage qu'on menait d'un bout à l'autre de ce pays de cocagne*<gloss>Pays de cocagne. Pays où tout abonde, où
-                     l'on fait bonne chère à bon marché.</gloss>! Les retentissants cocoricos des coqs se répondaient en joyeux clairons ; les poules choisies, admirables, se donnaient des airs
+                     l'on fait bonne chère à bon marché.</gloss> ! Les retentissants cocoricos des coqs se répondaient en joyeux clairons ; les poules choisies, admirables, se donnaient des airs
                   de millionnaires. On savait à qui l'on avait affaire, grâce aux écri<figure>
                      <caption>Poules de Houdan. — Poules de Cochinchine.</caption>
                   </figure> teaux. Ici, c'étaient les crèvecœurs, d'un noir changeant ; les houdans, pailletées de blanc et de noir, coiffées presque toujours de travers d'un toupet sous lequel
@@ -985,7 +985,7 @@
                   <item>— Sous quel aspect se présentait la basse-cour ? </item>
                   <item>— Qu'y entendait-on, qu'y voyait-on ?</item>
                   <item>— Quelles races de poules y signalaient les écriteaux ? </item>
-                  <item>— Quels caractères sont particuliers aux crèvecœurs, aux houdans, aux cochinchines, aux brahmapoutres, aux campines, aux dorkings (prononcez : dorkignes)? </item>
+                  <item>— Quels caractères sont particuliers aux crèvecœurs, aux houdans, aux cochinchines, aux brahmapoutres, aux campines, aux dorkings (prononcez : dorkignes) ? </item>
                   <item>— Quels avantages et quels inconvénients prèsente la race de Houdan ?</item>
                   <item>— Quels sont ceux d'autres races ? </item>
                   <item>— Quels services rendent les naturalistes ? </item>
@@ -1002,7 +1002,7 @@
                         <item>— Produits que nous en retirons.</item>
                         <item>— Leur nourriture. </item>
                         <item>— Doivent-ils être renfermés dans la basse-cour ? </item>
-                        <item>— Le poulailler ; soins à donner á ce local.</item>
+                        <item>— Le poulailler ; soins à donner à ce local.</item>
                      </list>
                   </div4>
                   <div4 type="réponses">
@@ -1090,7 +1090,7 @@
                <p>On entra. Quelle chaleur ! </p>
                <p>Une température d'étuve* <gloss>Étuve. Lieu clos dont on échauffe plus ou moins la température.</gloss> , trente degrés centigrades, constates par un gros
                   thermomètre*<gloss>Thermomètre. Instrument pour indiquer les degrés de chaleur ou de froid.</gloss> pendu au mur. Au milieu de la pièce, sur une table , plusieurs boîtes. La
-                  première, fermée, était munie, sur un côté, d'un petit vitrage derrière lequel se voyaient des œufs de poule , mollement cou- chés sur de l'ouate. La boîte, la couveuse artificielle,
+                  première, fermée, était munie, sur un côté, d'un petit vitrage derrière lequel se voyaient des œufs de poule , mollement couchés sur de l'ouate. La boîte, la couveuse artificielle,
                   maintenait à la température où ils se trouveraient sous le corps de la poule.</p>
                <figure>
                   <caption> Couveuse artificielle. </caption>
@@ -1229,7 +1229,7 @@
                   choisies, normandes, flamandes, bretonnes, hollandaises, luisantes de santé.</p>
                <p>Un foin frais et fleuri remplissait les râteliers. Elles mangeaient : quelques-unes, tout en ruminant*<gloss>Ruminer. Faire revenir de l'estomac des mets avalés pour les
                   mâcher.</gloss>, tournaient vers les visiteurs leur tête nonchalante, aux gros yeux pleins de vague songerie.</p>
-               <p>Elles étaient là dans l'air oxygéné*<gloss>Oxygéné. Qui contient beaucoup d'oxygène.</gloss> des bois, soignées en princesses et donnaient un lait aussi pur, aussi dé- licat que
+               <p>Elles étaient là dans l'air oxygéné*<gloss>Oxygéné. Qui contient beaucoup d'oxygène.</gloss> des bois, soignées en princesses et donnaient un lait aussi pur, aussi délicat que
                   pouvait l'être celui de <placeName>Trianon</placeName>*<gloss>Trianon. Petit château dans l'enceinte du parc de Versailles.</gloss> dont la reine <persName type="historique"
                      >Marie-Antoinette</persName> et les dames de sa cour, déguisées en fermières, faisaient, de leurs propres mains, leur fromage à la crème et leur beurre.</p>
                <p>Aussi le lait du <placeName>Jardin d'acclimatation</placeName> est-il réservé aux Parisiens qui peuvent le payer un franc le litre. On le leur apporte, ou ils viennent le boire, là,
@@ -1499,7 +1499,7 @@
                         travaillerait isolément. La fermière qui fait son pain, allume son four, y met le pain, l'y laisse cuire, le retire, est dans le même cas.</ab>
                      <p>Un travail demande beaucoup plus de temps, lorsqu'il est long et compliqué, si la même personne l'exécute ; il est encore bien plus dispendieux. Aussi y a-t-il longtemps
                         que les hommes se sont associés afin que chacun, exécutant toujours la même tâche, puisse la faire mieux, plus vite et à meilleur compte. Qu'en serait-il, par exemple,
-                        si chaque père et mère de famille étaient tenus de bâtir leur maison, de confectionner leurs meubles, leurs outils, les étoffes des vêtements, les chaussures, etc, etc?
+                        si chaque père et mère de famille étaient tenus de bâtir leur maison, de confectionner leurs meubles, leurs outils, les étoffes des vêtements, les chaussures, etc., etc ?
                         ils n'auraient pas un instant pour cultiver le champ et le jardin qui doivent produire la nourriture nécessaire.</p>
                      <p>Qui pourrait d'ailleurs se passer entièrement de l'aide et du secours d'autrui ? Nous en avons besoin dans l'enfance ; nous en avons besoin en tout et toujours.
                         Représentez-vous un homme seul, sans relations avec ses semblables, n'en recevant rien, ne leur rendant rien : ce serait le sauvage au milieu des bois ; ce serait bien
