@@ -859,7 +859,7 @@
                   </div4>
                   <div4 type="réponses">
                      <p>Le <term>miel</term> est une substance liquide et sucrée que les abeilles pompent dans les fleurs ou recueillent sur les feuilles des plantes. Elles l'apportent dans leur
-                        estomac et le dégorgent dans des cellules pour le conserver ; il est destiné à la consommation journalière des habi tantes de la ruche, et doit aussi servir de réserve pour
+                        estomac et le dégorgent dans des cellules pour le conserver ; il est destiné à la consommation journalière des habitantes de la ruche, et doit aussi servir de réserve pour
                         l’époque où les plantes n'en fourniront plus. </p>
                      <p>La principale récolte du miel a lieu en mai, en juin ou en juillet, suivant les localités. On opère la taille des gâteaux dans des conditions plus on moins fortes, selon la
                         quantité du miel préparé et l'état de la saison. Seulement, les abeilles ne verraient pas sans colère cette violation de leur domicile et ce vol de leurs provisions d'hiver.
@@ -884,7 +884,7 @@
                   <div4 type="réponses">
                      <p>La <term>cire</term> est un produit sécrété par l'insecte, et non le simple pollen recueilli dans les fleurs. On aperçoit très bien les petites plaques de cire en soulevant un
                         peu les derniers anneaux du ventre de l'abeille. Cette matière sert à la confection des alvéoles où les insectes de la ruche déposent le miel et les œufs que pond seule la
-                        reine. <note type="reference">(FIGUIER, Les insectes.)</note></p>
+                        reine. <note type="reference">(<persName type="historique">FIGUIER</persName>, Les insectes.)</note></p>
                      <p>Chaque alvéole constitue un petit godet à six pans, fermé d'un côté, et la masse des alvéoles réunis en double couche constitue les gâteaux.</p>
                      <p>On blanchit la cire en l'exposant à la lumière du soleil et à la fraîcheur des nuits sous forme de copeaux très minces ou en la traitant par certains acides. </p>
                   </div4>
@@ -898,7 +898,7 @@
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p> On fabrique les bougies au moyen de moules de fer-blanc ou d'étain à la base desquels est adaptée une moitié de tuyau servant d'enton<fw type="header"> 410 SUZETTE. </fw>
+                     <p> On fabrique les bougies au moyen de moules de fer-blanc ou d'étain à la base desquels est adaptée une moitié de tuyau servant d'enton-<fw type="header"> 410 SUZETTE. </fw>
                         <pb type="page" n="410" /> noir à la matière liquide. Chaque moule est garni en son milieu vertical d'une mèche tressée, fixée en bas par un nœud et en haut par une cheville de
                         bois posée de travers. La cire en fusion, versée dans le tuyau supérieur, remplit les moules où elle se fige et donne les bougies. </p>
                      <p>La fabrication des cierges a lieu de la même manière. </p>
@@ -963,29 +963,29 @@
                <p>— Vous voilà prévenue, ma main ! dit <persName key="jacques" type="fictif">Jacques</persName>, en affectant la gaieté.</p>
                <p>Il embrasse <persName key="suzette" type="fictif">Suzette</persName> et s'éloigne avec son père.</p>
                <p>MM. <persName key="françois" type="fictif">François</persName> et <persName key="charlot" type="fictif">Charlot</persName> n'avaient pas paru à cette scène. Pris, ce matin-là, d'un
-                  zèle rare et beau, ils étaient déjà partis du côté de l'école pour une pressante préparation de leçon de géographie, dirent-ils.</p>
-               <p>Mais on sait l'histoire de l'Anglais John : très pressé de rentrer chez lui, il choisit et enfourche un cheval au galop si impétueux que, quatre fois, John, impuissant à le retenir,
-                  passe et repasse, comme un vent d'orage, devant sa demeure, sous les yeux et aux cris de Mme John, qui ne sait que penser de cette course effrénée.</p>
-               <p>Le coursier de François et de Charlot, c'était leur passion de voir tirer au sort, passer les jeunes conscrits avec leurs chansons et leurs chapeaux ornés du numéro. C'est pourquoi,
-                  partis, les jambes à leur cou, ils ne parvinrent pas à s'arrêter devant l'école et filèrent comme flèches sur le Catelet.</p>
-               <p>Leurs frimousses émoustillées de plaisir furent les premières qu'aperçurent M. Dumay et Jacques en y <pb type="page" n="412" />
+                zèle rare et beau, ils étaient déjà partis du côté de l'école pour une pressante préparation de leçon de géographie, dirent-ils.</p>
+               <p>Mais on sait l'histoire de l'<persName type="fictif">Anglais John</persName> : très pressé de rentrer chez lui, il choisit et enfourche un cheval au galop si impétueux que, quatre fois, John, impuissant à le retenir,
+                  passe et repasse, comme un vent d'orage, devant sa demeure, sous les yeux et aux cris de <persName type="fictif">Mme John</persName>, qui ne sait que penser de cette course effrénée.</p>
+               <p>Le coursier de <persName type="fictif" key="françois">François</persName> et de <persName type="fictif" key="charlot">Charlot</persName>, c'était leur passion de voir tirer au sort, passer les jeunes conscrits avec leurs chansons et leurs chapeaux ornés du numéro. C'est pourquoi,
+                  partis, les jambes à leur cou, ils ne parvinrent pas à s'arrêter devant l'école et filèrent comme flèches sur le <placeName>Catelet</placeName>.</p>
+               <p>Leurs frimousses émoustillées de plaisir furent les premières qu'aperçurent <persName type="fictif" key="m_dumay">M. Dumay</persName> et <persName type="fictif" key="jacques">Jacques</persName> en y <pb type="page" n="412" />
                   <fw>412 SUZETTE.</fw> arrivant. Sans le frère aîné qui intercéda en leur faveur. elles eussent fortement changé d'expression.</p>
-               <p>Et ce furent eux qui, avec la rapidité dont ils étaient partis, vinrent en estafette annoncer à Suzette la nouvelle qu'elle attendait fiévreusement.</p>
+               <p>Et ce furent eux qui, avec la rapidité dont ils étaient partis, vinrent en estafette annoncer à <persName type="fictif" key="suzette">Suzette</persName> la nouvelle qu'elle attendait fiévreusement.</p>
             </div2>
             <div2 type="questionnaire">
                <head>Questionnaire.</head>
                <list>
-                  <item>— Où est Jacques et que regarde-t-il ? </item>
+                  <item>— Où est <persName type="fictif" key="jacques">Jacques</persName> et que regarde-t-il ? </item>
                   <item>— Qu'est-ce qu'on n'entend pas ? </item>
-                  <item>— Pourquoi croirait-on que Suzette dort ?</item>
+                  <item>— Pourquoi croirait-on que <persName key="suzette" type="fictif">Suzette</persName> dort ?</item>
                   <item>— Que chantent des voix lointaines ? </item>
                   <item> — Que dit <persName type="fictif" key="jacques">Jacques</persName> et que répond <persName type="fictif" key="jacques">Jacques</persName> ? </item>
                   <item>— Où allaient-ils ensemble ? </item>
-                  <item>— Quel souhait fit Suzette en serrant la main de son </item>
-                  <item>— Qu'était-il advenu de François et de Charlot ? </item>
+                  <item>— Quel souhait fit <persName type="fictif" key="suzette">Suzette</persName> en serrant la main de son </item>
+                  <item>— Qu'était-il advenu de <persName type="fictif" key="françois">François</persName> et de <persName type="fictif" key="charlot">Charlot</persName> ? </item>
                   <item>— Que racente-t-on, à ce sujet, d'un Anglais ? </item>
                   <item>— Pourquoi les deux enfants n'étaient-ils point allés à l'école ? </item>
-                  <item>— Qu'aperçurent Jacques et M. Dumay en entrant au Catelet ? </item>
+                  <item>— Qu'aperçurent <persName key="jacques" type="fictif">Jacques</persName> et <persName type="fictif" key="m_dumay">M. Dumay</persName> en entrant au <placeName>Catelet</placeName> ? </item>
                   <item>— Quelle commission firent-ils ?</item>
                </list>
             </div2>
@@ -997,18 +997,18 @@
                      <list>
                         <item>— Que doivent, au service de la patrie, tous les jeunes gens valides ?</item>
                         <item>— Qu'est-ce qu'un conscrit ? </item>
-                        <item>— En quoiconsiste le tirage au sort ? </item>
+                        <item>— En quoi consiste le tirage au sort ? </item>
                         <item> — Pourquoi le fait-on ?</item>
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>Tous les jeunes gens valides doivent à la patrie le service militaire ; pendant trois ans, ils restent à l'armée ; on les y forme à la pratique des armes et aux manoeuvres de la
+                     <p>Tous les jeunes gens valides doivent à la patrie le service militaire ; pendant trois ans, ils restent à l'armée ; on les y forme à la pratique des armes et aux manœouvres de la
                         guerre ; et, le cas écheant, ils partent à la frontière pour repousser ou attaquer l'ennemi.</p>
                      <p>Être soldat ! ce n'est pas seulement un devoir, c'est un honneur ; l'uniforme est interdit aux Français que les tribunaux ont condamnés pour des actes coupables.</p>
-                     <p>Un conserit est un jeune homme agé de vingt ans qui est appelé au service militaire. Il se rend alors au chef-lieu de son canton ou lui et ses camarades nés la même année
+                     <p>Un <term>conscrit</term> est un jeune homme agé de vingt ans qui est appelé au service militaire. Il se rend alors au chef-lieu de son canton ou lui et ses camarades nés la même année
                         doivent tirer au sort.</p>
                      <p>Quoique tout le monde doive être soldat, chacun vient tirer un numéro dans une urne, en présence du préfet ou de son représentant et des maires du canton ; cette opération est
-                        nécessaire afin que la nondésignation pour certains services dangereux ou l'inscription sur la liste de ceux qui ne servent qu'un an, ne soient point accordées à la faveur,
+                        nécessaire afin que la non-désignation pour certains services dangereux ou l'inscription sur la liste de ceux qui ne servent qu'un an, ne soient point accordées à la faveur,
                         mais relèvent uniquement du hasard.</p>
                   </div4>
                   <div4 type="questions">
@@ -1021,21 +1021,21 @@
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>Une armée est un nombre plus ou moins considérable de troupes assemblées sous la conduite d'un général. Elle comprend ordinairement un ou plusieurs corps comprenant les uns et
+                     <p>Une <term>armée</term> est un nombre plus ou moins considérable de troupes assemblées sous la conduite d'un général. Elle comprend ordinairement un ou plusieurs corps comprenant les uns et
                         les autres un certain nombre de divisions dont chacune compte au moins quatre régiments, non compris l'artillerie.</p>
                      <p>On entend par :</p>
-                     <p>Infanterie, les gens de guerre qui combattent à pied ; ils sont armés de fusils ; </p>
-                     <p>Infanterie de marine, un corps de soldats d'infanterie préposés à la garde des colonies, sauf l'Algérie ;</p>
-                     <p>Cavalerie, toutes les troupes qui combattent à cheval ; </p>
-                     <p>Artillerie, le matériel de guerre qui comprend les canons, les mortiers, les boulets, les bombes. On désigne également sous ce nom les troupes affectées à cette arme ; </p>
-                     <p>Train des équipages, tout l'attirail des voitures nécessaires au ser<pb type="page" n="413" />
-                        <fw>LES BRAS LONGS. 413 </fw> vice de l'artillerie et au transport des vivres, et aussi les troupes spéciale ment chargées de ce service ; </p>
-                     <p>Flotte de guerre, un certain nombre de navires de guerre qui vont ensemble sous le commandement d'un chef unique ; </p>
-                     <p>Escadre, un nombre de vaisseaux de guerre moins considérable qu'une flotte ;</p>
-                     <p>Régiment, un corps de gens de guerre (3,000 à 3,600 hommes) composé de plusieurs bataillons, et dont le chef s'appelle colonel ; </p>
-                     <p>Bataillon, un corps de troupes faisant partie d'un régiment, formé de huit compagnies ordinairement, et comptant de 800 à 1, 200 hommes ; une compagnie est forte de 100 à 150
+                     <p><term>Infanterie</term>, les gens de guerre qui combattent à pied ; ils sont armés de fusils ; </p>
+                     <p><term>Infanterie de marine</term>, un corps de soldats d'infanterie préposés à la garde des colonies, sauf l'Algérie ;</p>
+                     <p><term>Cavalerie</term>, toutes les troupes qui combattent à cheval ; </p>
+                     <p><term>Artillerie</term>, le matériel de guerre qui comprend les canons, les mortiers, les boulets, les bombes. On désigne également sous ce nom les troupes affectées à cette arme ; </p>
+                     <p><term>Train des équipages</term>, tout l'attirail des voitures nécessaires au ser<pb type="page" n="413" />
+                        <fw>LES BRAS LONGS. 413 </fw> vice de l'artillerie et au transport des vivres, et aussi les troupes spécialement chargées de ce service ; </p>
+                     <p><term>Flotte de guerre</term>, un certain nombre de navires de guerre qui vont ensemble sous le commandement d'un chef unique ; </p>
+                     <p><term>Escadre</term>, un nombre de vaisseaux de guerre moins considérable qu'une flotte ;</p>
+                     <p><term>Régiment</term>, un corps de gens de guerre (3,000 à 3,600 hommes) composé de plusieurs bataillons, et dont le chef s'appelle colonel ; </p>
+                     <p><term>Bataillon</term>, un corps de troupes faisant partie d'un régiment, formé de huit compagnies ordinairement, et comptant de 800 à 1, 200 hommes ; une compagnie est forte de 100 à 150
                         hommes ; un capitaine la commande ; </p>
-                     <p>Batterie, un ensemble de six pièces de canon, y compris les hommes qui les manoeuvrent et les voitures portant les munitions et les pièces de rechange.</p>
+                     <p><term>Batterie</term>, un ensemble de six pièces de canon, y compris les hommes qui les manoeuvrent et les voitures portant les munitions et les pièces de rechange.</p>
                      <p>Le commandant est à la tête d'un bataillon ; un colonel, à la tête d'un régiment ; un général, à la tête d'une brigade (2 régiments) ou d'une division.</p>
                   </div4>
                </div3>
@@ -1048,7 +1048,7 @@
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>(Voir COURS DE COMPOSITION FRANÇAISE (Degré élémentaire et moyen), par E. LAPORTE, Partie du maître, page 317.)</p>
+                     <p>(Voir COURS DE COMPOSITION FRANÇAISE (Degré élémentaire et moyen), par <persName type="historique">E. LAPORTE</persName>, Partie du maître, page 317.)</p>
                   </div4>
                </div3>
                <div3 type="géographie" subtype="france">
@@ -1057,18 +1057,18 @@
                      <list>
                         <item>— Qu'est-ce qu'une ville forte ? </item>
                         <item>— Donnez une idée de ce que sont des fortifications si vous avez eu occasion d'en voir.</item>
-                        <item>— Quelles sont les principales villes fortes des frontières du Nord, de l'Est ? </item>
+                        <item>— Quelles sont les principales villes fortes des frontières du <placeName>Nord</placeName>, de l'<placeName>Est</placeName> ? </item>
                         <item>— Qu'est-ce qu'une garnison ?</item>
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>Une ville forte est une ville entourée d'ouvrages de terre et de maconnerie pour empêcher l'ennemi de s'en emparer.</p>
-                     <p>Les fortifications consistent en un fossé profond de 8 ou 10 mêtres dont un des côtés, formé de terres en pente, est opposé à une muraille à pic surmontée de terrassements
+                     <p>Une <term>ville forte</term> est une ville entourée d'ouvrages de terre et de maconnerie pour empêcher l'ennemi de s'en emparer.</p>
+                     <p>Les <term>fortifications</term> consistent en un fossé profond de 8 ou 10 mêtres dont un des côtés, formé de terres en pente, est opposé à une muraille à pic surmontée de terrassements
                         destinés à abriter les pièces d'artillerie. Cette muraille n'a pas une direction rectiligne ni circulaire, mais elle comporte des angles rentrants et saillants en vue de mieux
                         accabler de feux l'ennemi qui donnerait l'assaut.</p>
-                     <p>Les principales villes fortes des frontières du Nord sont : Lille, Douai, Valenciennes, Avesnes, Rocroi, Mézières, Sedan.</p>
-                     <p>Celles de l'Est sont : Montmédy, Verdun, Toul, Nancy, Epinal et Belfort.</p>
-                     <p>On entend par garnison les troupes qu'on met dans une place de guerre ou une forteresse pour la défendre contre l'ennemi, tenir le pays en respect ou simplement pour y faire un
+                     <p>Les principales villes fortes des frontières du <placeName>Nord</placeName> sont : <placeName>Lille</placeName>, <placeName>Douai</placeName>, <placeName>Valenciennes</placeName>, <placeName>Avesnes</placeName>, <placeName>Rocroi</placeName>, <placeName>Mézières</placeName>, <placeName>Sedan</placeName>.</p>
+                     <p>Celles de l'Est sont : <placeName>Montmédy</placeName>, <placeName>Verdun</placeName>, <placeName>Toul</placeName>, <placeName>Nancy</placeName>, <placeName>Epinal</placeName> et <placeName>Belfort</placeName>.</p>
+                     <p>On entend par <term>garnison</term> les troupes qu'on met dans une place de guerre ou une forteresse pour la défendre contre l'ennemi, tenir le pays en respect ou simplement pour y faire un
                         séjour de quelque durée. </p>
                   </div4>
                </div3>
@@ -1091,7 +1091,7 @@
                   résignation* <gloss>Résignation. Soumission à la volonté de celui qui a pouvoir sur nous.</gloss>et les sentiments patriotiques. Le service de la patrie est le premier devoir qu'on
                   doive attendre d'un homme de cœur, dirent-ils. <persName key="jacques" type="fictif">Jacques</persName> savait déjà cela.</p>
                <p><persName key="mme_valon" type="fictif">L'institutrice</persName> et <persName key="m_valon" type="fictif">son mari</persName> partis, ce fut le tour des voisins, parmi lesquels le
-                  vieux père <persName key="benoît" type="fictif">Benoit</persName> en compagnie de sa pipe, de sa fille <persName key="ludivine" type="fictif">Ludivine</persName>, de <persName
+                  vieux père <persName key="benoît" type="fictif">Benoît</persName> en compagnie de sa pipe, de sa fille <persName key="ludivine" type="fictif">Ludivine</persName>, de <persName
                      key="vincent" type="fictif">Vincent</persName> et de <persName key="lisa" type="fictif">Lisa</persName>, ses petits-enfants.</p>
                <p>— Ça y est, hein ! dit-il en s'asseyant. Puis il alluma sa pipe et après deux ou trois bouffées : — Ceux d'aujourd'hui ont déboisé. Autrefois, il y avait ici de grands bois. Et
                   savez-vous ce que faisaient les mauvais numéros du vieux temps ? Ils filaient dans les bois. Et va les chercher ! On les traitait de réfractaires, c'était tout. Mon père, mon oncle
@@ -1101,7 +1101,7 @@
                   <persName key="jacques" type="fictif">Jacques</persName> et <persName key="suzette" type="fictif">Suzette</persName> se contentèrent de lever les épaules, et <persName
                      key="françois" type="fictif">François</persName> s'écria :</p>
                <p>— Mais c'étaient des poltrons, des lâches, vos réfractaires !</p>
-               <p>Tiens ! ils sauvaient leur peau, dit le père <persName key="benoît" type="fictif">Benoit</persName>.</p>
+               <p>Tiens ! ils sauvaient leur peau, dit le père <persName key="benoît" type="fictif">Benoît</persName>.</p>
                <p>— Oui, répondit <persName key="jacques" type="fictif">Jacques</persName>, c'est là justement ce que vous dit <persName key="françois" type="fictif">François</persName>.</p>
                <p>Pendant ce temps, d'un clin d'œil, <persName key="ludivine" type="fictif">Ludivine</persName> avait appelé à part <persName key="m_dumay" type="fictif">M. Dumay</persName> et
                   l'entreprenait dans un coin.</p>
@@ -1124,7 +1124,7 @@
                   <item>— Quelles sont les conditions dans lesquelles on est admis à ne servir qu'un an, sous le titre de volontaire ? </item>
                   <item>— Que répondait <persName key="jacques" type="fictif">Jacques</persName> aux condoléances des voisins ? </item>
                   <item>— Que firent et dirent <persName key="m_valon" type="fictif">M</persName>. et <persName key="mme_valon" type="fictif">Mme Valon</persName> ? </item>
-                  <item>— Quel singulier discours tint le père <persName key="benoît" type="fictif">Benoit</persName>, après le départ de tous les voisins, à <orgName>la famille Dumay</orgName> ? </item>
+                  <item>— Quel singulier discours tint le père <persName key="benoît" type="fictif">Benoît</persName>, après le départ de tous les voisins, à <orgName>la famille Dumay</orgName> ? </item>
                   <item>— Comment <persName key="jacques" type="fictif">Jacques</persName> et <persName key="suzette" type="fictif">Suzette</persName> accueillirent-ils ce discours ? </item>
                   <item>— Que dit <persName key="françois" type="fictif">François</persName> ? </item>
                   <item>— A qui <persName key="ludivine" type="fictif">Ludivine</persName> conseilla-t-elle à <persName key="m_dumay" type="fictif">M. Dumay</persName> de s'adresser pour faire
@@ -1138,8 +1138,8 @@
                   <head>Morale.</head>
                   <div4 type="questions">
                      <list>
-                        <item>— Qu'est-ce qu'un conserit réfractaire ? </item>
-                        <item>— Que pensez-vous des réfractaires dont parlait le père <persName key="benoît" type="fictif">Benoit</persName> ? </item>
+                        <item>— Qu'est-ce qu'un conscrit réfractaire ? </item>
+                        <item>— Que pensez-vous des réfractaires dont parlait le père <persName key="benoît" type="fictif">Benoît</persName> ? </item>
                         <item>— Justifiez votre opinion. </item>
                         <item>— Pourquoi risque t-on ou perd-on la vie sur les champs de bataille ? </item>
                         <item>— Quelles raisons portent les soldats à combattre avec bravoure ? </item>
@@ -1148,7 +1148,7 @@
                   </div4>
                   <div4 type="réponses">
                      <p>Un conscrit réfractaire est celui qui se dérobe par la fuite au devoir de servir et de défendre sa patrie.</p>
-                     <p>Je pense que les réfractaires dont parlait le père <persName key="benoît" type="fictif">Benoit</persName> étaient des cœurs faibles et des âmes sans énergie ; quoique, à cette
+                     <p>Je pense que les réfractaires dont parlait le père <persName key="benoît" type="fictif">Benoît</persName> étaient des cœurs faibles et des âmes sans énergie ; quoique, à cette
                         époque, <persName type="historique">Napoléon</persName> fit périr chaque année des centaines de mille hommes pour satisfaire son ambition, et qu'il fût terrible pour les jeunes
                         gens de partir à l'armée sans chance de retour, il fallait accepter courageusement cette terrible situation. C'était le drapeau de la <placeName>France</placeName> qu'on
                         était appel à défendre, et jamais on ne peut sans crime manquer à ce devoir, quel que soit celui qui nous y appelle.</p>
@@ -1162,10 +1162,10 @@
                      <p>Toute mère qui comprend ce qu'est le devoir envers la patrie, dira à ses fils comme la mère d'un poète, lors de nos désastres de 1870 :</p>
                      <lg>
                         <l>« Partez : ils sant vaincus les soldats de la <placeName>France</placeName> !</l>
-                        <l> « Mon cœur, pour conquérir ne vous eût pas prètés ; </l>
+                        <l>« Mon cœur, pour conquérir ne vous eût pas prètés ; </l>
                         <l> « Ce n'est plus la conquête, enfants, c'est la défense ; </l>
                         <l> « Le sol est envahi ; je vous donne, partez ! » </l>
-                        <l>(DÉROULÈDE.)</l>
+                        <l>(<persName type="historique">DÉROULÈDE</persName>.)</l>
                      </lg>
                   </div4>
                </div3>
@@ -1180,7 +1180,7 @@
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>Une colonie, dans le sens primitif, est une réunion d'hommes sortis d'un pays pour aller en habiter un autre. Dans le sens le plus commun, c'est un territoire d'une partie du
+                     <p>Une <term>colonie</term>, dans le sens primitif, est une réunion d'hommes sortis d'un pays pour aller en habiter un autre. Dans le sens le plus commun, c'est un territoire d'une partie du
                         monde, autre que l'<placeName>Europe</placeName>, où un Etat établit sa domination.</p>
                      <p>On fonde des colonies pour obtenir à meilleur compte les matières premières nécessaires à l'industrie et à la consommation qu'on ne peut tirer de son propre pays. Tels sont :
                         le coton, la soie, le café, le cacao, le sucre, les épices, etc.</p>
@@ -1210,10 +1210,10 @@
                         produisaient qu'un effet passager, et <persName type="historique">Colbert</persName>, au temps de <persName type="historique">Louis <persName type="historique"
                         />XIV</persName>, avait déjà pensé que, pour en finir, il faudrait s'emparer de ce nid de corsaires.</p>
                      <p>Depuis longtemps des démêlés existaient entre la <placeName>France</placeName> et le <persName type="historique">dey d'<placeName>Alger</placeName></persName>, <persName
-                        type="historique">Hussein-Pa<persName type="historique" />cha</persName>. On négocia, on bloqua avec une puissante flotte de guerre les côtes de
+                        type="historique">Hussein-Pacha</persName>. On négocia, on bloqua avec une puissante flotte de guerre les côtes de
                         l'<placeName>Algérie</placeName> ; cela n'aboutit qu'à faire insulter deux fois la <placeName>France</placeName> dans la personne de son représentant (1827-1830) Le
                         gouvernement du roi <persName type="historique">Charles X</persName> décida alors une expédition malgré l'opposition de l'<placeName>Angleterre</placeName>, de
-                        l'Ita<placeName />lie et de l'<placeName>Espagne</placeName> ; une armée de 40,000 hommes débarqua, le 13 juin 1830, près d'<placeName>Alger</placeName>, et, le 5 juillet, <pb
+                        l'<placeName>Italie</placeName> et de l'<placeName>Espagne</placeName> ; une armée de 40,000 hommes débarqua, le 13 juin 1830, près d'<placeName>Alger</placeName>, et, le 5 juillet, <pb
                            type="page" n="417" />
                         <fw>CHEZ LE DÉPUTÉ. 417</fw> la ville capitulait. Les jours suivants, <placeName>Bone</placeName> et <placeName>Oran</placeName> ouvrirent leurs portes.</p>
                      <p>Après avoir soumis la <placeName>province d'Alger</placeName>, le gouvernement français fit, en 1836, une première tentative pour prendre <placeName>Constantine</placeName> ;
@@ -1235,7 +1235,7 @@
             <head>119. — Chez le député. (Élève, p. 253.) </head>
             <div2 type="récit">
                <p>Un mercredi matin, <persName type="fictif" key="m_dumay">M. Dumay</persName>, en tenue de dimanche, se faisait annoncer à <persName type="fictif">M. Thierry</persName>, le député,
-                  qui, une fois la semaine, se tenait à la disposition de ses électeurs dans l'hôtel du Dragon d'Or, à <placeName>Saint-Quentin</placeName>.</p>
+                  qui, une fois la semaine, se tenait à la disposition de ses électeurs dans l'<placeName type="fictif">hôtel du Dragon d'Or</placeName>, à <placeName>Saint-Quentin</placeName>.</p>
                <p>Un peu gêné dans la demande qu'il allait faire, <persName type="fictif" key="m_dumay">M. Dumay</persName> avait prié <persName type="fictif" key="suzette">Suzette</persName> de
                   l'accompagner, et remis à un peu plus tard de lui dire pourquoi.</p>
                <p>Le député fit entrer le père et la fille. C'était un homme grisonnant, au visage sympathique. <persName type="fictif" key="m_dumay">M. Dumay</persName> exposa sa requête longuement,
@@ -1294,9 +1294,9 @@
                      <p>Tous les citoyens de l'Etat le pourraient-ils, comment les convoquer tous, entendre leurs opinions, les discuter, les résumer ? C'est tout simplement une impossibilité,
                         d'autant plus que nombre de lois concernant chacune une localité particulière, nont point assez d'importance pour motiver une telle enquête et de tels déplacements.</p>
                      <p>On a donc été amené de tous temps à inviter les citoyens à choisir, à élire quelques-uns d'entre eux pour s'occuper de la confection des lois. En <placeName>France</placeName>,
-                        ces élections ont lieu tous les quatre ans, et les électeurs de chaque département nomment un certain nombre de députés pour les représenter dans l'assemblée chargée de
-                        préparer les lois. Cette assemblée, qu'on nomme la Chambre des députés, se réunit à <placeName>Paris</placeName> sur la convocation du Président de la République.</p>
-                     <p>Une autre assemblée, le Sénat, nommée par les délégués des conseils municipaux, se réunit également à <placeName>Paris</placeName>. Elle a aussi le pouvoir de faire des lois ;
+                        ces élections ont lieu tous les quatre ans, et les électeurs de chaque département nomment un certain nombre de <term>députés</term> pour les représenter dans l'assemblée chargée de
+                        préparer les lois. Cette assemblée, qu'on nomme la <term>Chambre des députés</term>, se réunit à <placeName>Paris</placeName> sur la convocation du Président de la République.</p>
+                     <p>Une autre assemblée, le <term>Sénat</term>, nommée par les délégués des conseils municipaux, se réunit également à <placeName>Paris</placeName>. Elle a aussi le pouvoir de faire des lois ;
                         mais son rôle principal est d'examiner les lois votées par les députés, pour les approuver, les repousser ou les modifier.</p>
                      <p>Le mandat d'un député duré quatre ans ; chacun touche annuellement une indemnité de 9,000 francs, depuis 1871. Auparavant leurs fonctions, comme celles des sénateurs, étaient
                         gratuites.</p>
@@ -1313,11 +1313,11 @@
                   <pb type="page" n="420" />
                   <fw>420 SUZETTE.</fw>
                   <div4 type="réponses">
-                     <p>La salle où délibèrent les députés, est une vaste pièce au fond de laquelle est une tribune où se tient le président, lequel est élu au commencement de chaque session annuelle.
-                        Aux côtés de ce dernier se placent les minisires. En avant de lui, on voit une seconde tribune moins élevée où montent les députés pour soutenir, critiquer ou combattre les
-                        projets de lois ; on appelle ceux qui parlent ainsi les orateurs.</p>
+                     <p>La salle où délibèrent les députés, est une vaste pièce au fond de laquelle est une tribune où se tient le <term>président</term>, lequel est élu au commencement de chaque session annuelle.
+                        Aux côtés de ce dernier se placent les <term>ministres</term>. En avant de lui, on voit une seconde tribune moins élevée où montent les députés pour soutenir, critiquer ou combattre les
+                        projets de lois ; on appelle ceux qui parlent ainsi les <term>orateurs</term>.</p>
                      <p>Quand la discussion est close, les députés qui sont assis, en face du président, sur des sièges disposés en amphithéâtre, votent, c'est-à-dire déposent dans des urnes que font
-                        circuler les huissiers, une boule blanche ou noire selon qu'ils sont favorables ou non au projet de loi. Si le nombre des boules blanches excède celui des noires, le projet est
+                        circuler les <term>huissiers</term>, une boule blanche ou noire selon qu'ils sont favorables ou non au projet de loi. Si le nombre des boules blanches excède celui des noires, le projet est
                         adopté ; dans le cas contraire, il est repoussé.</p>
                      <p>Le public peut être admis à assister aux séances de la Chambre des députés et à celles du Sénat, dans des galeries placées au-dessus et en arrière des sièges des députés, des
                         sénateurs et du président.</p>
@@ -1351,7 +1351,7 @@
          <div1 type="chapitre" n="120">
             <head>120. — La France ! (Élève, p, 255.)</head>
             <div2 type="récit">
-               <head>Suzette avait parlé d'une voix contenue où vibrait l'émotion.</head>
+               <head><persName type="fictif" key="suzette">Suzette</persName> avait parlé d'une voix contenue où vibrait l'émotion.</head>
                <p><persName>Le député</persName> lui adressa de la main un signe approbatif :</p>
                <p>— Voilà de bonnes paroles, <persName type="fictif" key="suzette">Mademoiselle</persName>, et de très intelligents sentiments qui devraient être dans toutes les têtes en
                   <placeName>Europe</placeName>. Qui, pourquoi la haine, pourquoi la guerre, pourquoi le massacre, pourquoi la ruine ? Ces grandes misères durent depuis le commencement des temps.
@@ -1366,7 +1366,7 @@
                <figure>
                   <caption><persName type="historique">Jeanne d'Arc</persName> à <placeName>Orléans</placeName>. En 1429, <placeName>Orléans</placeName>, assiégée par les Anglais, était à bout de
                      résistance ; les ennemis avaient élevé des bastilles ou forteresses autour de la place ; <persName type="historique">Jeanne d'Arc</persName> les en chassa en dix jours (mai 1429)
-                     et les culbuta dans leur retraite ; les <geogFeat type="fleuve">bords de la Loire</geogFeat> étaient redevenus libres.</caption>
+                     et les culbuta dans leur retraite ; les <geogFeat type="fleuve">bords de la <placeName>Loire</placeName></geogFeat> étaient redevenus libres.</caption>
                </figure>
                <p>— Et à cette heure, reprit-il, ils en lèvent encore. d'immenses amas de troupes, de canons, de fusils nous entourent, nous menacent du démembrement de la
                   <placeName>France</placeName>, c'est-à-dire de sa mort ! Et la mort de la <placeName>France</placeName> ferait un vide immense dans la civilisation. Car, il n'y a pas de vanité
@@ -1377,7 +1377,7 @@
                   doivent tirer de leur cœur, non des larmes, mais des exhortations à l'héroïsme ! elles doivent mépriser le lâche ! elles doivent, comme l'a dit le grand appel de la Convention*
                   <gloss>Convention. Célèbre assemblée de députés pendant la première Republique.</gloss>, faire les habits et les tentes des soldats, s'il en est besoin ! elles doivent panser les
                   blessés ! enfin, elles doivent se souvenir que, jadis, à l'heure où la <placeName>France</placeName> sombrait sous l'invasion, où les, hommes perdaient courage, le patriotisme éclata
-                  brusquement, magnifiquement, dans une âme de femme, la grande <persName type="historique">Jeanne d'Arc</persName>, et sauva tout !... Aujourd'hui en core, le patriotisme compte sur
+                  brusquement, magnifiquement, dans une âme de femme, la grande <persName type="historique">Jeanne d'Arc</persName>, et sauva tout !... Aujourd'hui encore, le patriotisme compte sur
                   l'âme des femmes. Elles ne peuvent pas vouloir que le sacrifice qu'une telle patrie commande, un seul de nous le repousse.</p>
                <p>Il parlait avec force.</p>
                <p>Le père et la fille s'étaient levés comme électrisés.</p>
@@ -1421,7 +1421,7 @@
                         de troupes ennemies revendiquant des territoires cédés par les traités, comme la chose eut lieu en 1896, lorsque les Prussiens sommèrent les Français d'evacuer les provinces
                         conquises par <persName type="historique">Napoléon</persName> ; — une insulte à nos representants : consuls, ambassadeurs ; tel fut le principal motif de la guerre déclarée en
                         1830 au <persName type="historique">dey d'<placeName>Alger</placeName></persName> ; — le refus par un gouvernement étranger de faire droit aux justes réclamations d'un autre
-                        gouvernement, pour pillage des biens de ses nationaux, pour mauvais traitements à eux infliges. Ainsi, en 18G8, l'<placeName>Angleterre</placeName> déclara la guerre au
+                        gouvernement, pour pillage des biens de ses nationaux, pour mauvais traitements à eux infliges. Ainsi, en 1868, l'<placeName>Angleterre</placeName> déclara la guerre au
                         <persName>roi d'<placeName>Abyssinie</placeName></persName>, qui avait chargé de fers et fait mourir des citoyens anglais au mépris de toute justice.</p>
                      <p>Rien ne peut alors dispenser les chefs des Etats et les nations elles-mêmes de se résoudre à cette térrible nécessité. Il s'agit de défendre les intérêts les plus essentiels
                         d'un pays, et souvent encore plus que cela, son honneur, son existence ; on ne saurait reculer. Seuls des esclaves dégrades pourraient se résoudre à subir de telles hontes ;
@@ -1445,17 +1445,17 @@
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>Les députés des Etats généraux réclamaient qu'il fût donné satisfaction aux demandes suivantes qui, se trouvant dans presque tous les cahiers (1), n'etaient l'objet d'aucune
+                     <p>Les députés des <term>Etats généraux</term> réclamaient qu'il fût donné satisfaction aux demandes suivantes qui, se trouvant dans presque tous les <term>cahiers</term> (1), n'etaient l'objet d'aucune
                         contestation : </p>
-                     <p>Urgence de donner une constitution à la <placeName>France</placeName> ; — droit pour les États genéraux de faire les lois qui, avant d'être exécutoires, devaient (1) On
-                        désignait sous le nom de cahiers les mémoires que rédigeaient les divers ordres, clergé, noblesse et tiers état, réunis dans les assemblées des Etats géné raux, pour exprimer
-                        leurs plaintes et leurs vœux. <pb n="15" />
+                     <p>Urgence de donner une constitution à la <placeName>France</placeName> ; — droit pour les États genéraux de faire les lois qui, avant d'être exécutoires, devaient <l>(1) On
+                        désignait sous le nom de <term>cahiers</term> les mémoires que rédigeaient les divers ordres, clergé, noblesse et tiers état, réunis dans les assemblées des Etats géné raux, pour exprimer
+                        leurs plaintes et leurs vœux.</l> <pb n="15" />
                         <fw>424 SUZETTE.</fw> obtenir la sanction royale, de contrôler les dépenses publiques, de voter l'impôt ; — abolition des privilèges financiers et autres, du clergé et de la
                         noblesse* — admissibilité de tous les citoyens aux emplois publics ; — liberté du culte et de la presse (1) ; éducation par l'Etat des enfants pauvres et abandonnés ; — unité
                         de la législation, publicité des débats judiciaires ; adoucissement des lois pénales ; — création d'assemblées provinciales pour contrôler la gestion des fonctionnaires ; —
                         unité de poids et de mesures ; nouvelle division du royaume ; — liberté de l'industrie, suppression des douanes intérieures ; remplacement des divers impôts par un impôt
                         territorial et mobilier qui atteindrait seulement les revenus.</p>
-                     <p>Les puissances étrangères, sur les sollicitations des émigrés, dévoilèrent hautement, en 1791, leur intention de rétablir <persName type="historique">Louis XVI</persName> dans
+                     <p>Les <term>puissances étrangères</term>, sur les sollicitations des émigrés, dévoilèrent hautement, en 1791, leur intention de rétablir <persName type="historique">Louis XVI</persName> dans
                         ses anciens droits, et la noblesse comme le clergé dans les privilèges auxquels ils avaient renoncé dans la nuit du 4 août 1789. Ils firent de nombreux rassemblements de
                         troupes sur nos frontières afin d'arriver à ce but, et ils refusèrent de se retirer à moins que la monarchie ne fût rétablie sur ses anciennes bases. C'était une insulte au
                         roi, à la nation, à là constitution jurée par l'un et faite par l'autre. Le roi déclara, le 20 avril, la guerre à l'<placeName>Autriche</placeName> et à ses alliés.</p>
