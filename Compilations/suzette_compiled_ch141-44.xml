@@ -171,10 +171,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004133400310",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004133546375",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-04T17:34:00.310Z",
-	"dcterms:modified": "2022-10-04T17:35:46.375Z",
+	"dcterms:created": "2022-10-04T17:35:46.375Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -184,7 +183,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004133400310#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004133546375#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml",
@@ -198,7 +197,7 @@
 			"schema:softwareVersion": "2.0.1"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004133400310#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004133546375#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[2]/div2[3]/div3[4]/div4[2]/p[3]/placeName"
 		}
@@ -249,10 +248,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?person_annotation_20221004133715225",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?person_annotation_20221004133822919",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-04T17:37:15.225Z",
-	"dcterms:modified": "2022-10-04T17:38:22.919Z",
+	"dcterms:created": "2022-10-04T17:38:22.919Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -262,7 +260,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?person_annotation_20221004133715225#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?person_annotation_20221004133822919#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml",
@@ -276,7 +274,7 @@
 			"schema:softwareVersion": "2.0.1"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?person_annotation_20221004133715225#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?person_annotation_20221004133822919#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[2]/div2[3]/div3[4]/div4[2]/p[3]/persName"
 		}
@@ -284,6 +282,330 @@
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
 		"@id": "http://viaf.org/viaf/315643242/",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.0.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004134330641",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-10-04T17:43:30.641Z",
+	"dcterms:modified": "2022-10-04T17:43:54.871Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004134330641#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.0.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004134330641#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1[2]/div2[3]/div3[4]/div4[2]/p[4]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q45797",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.0.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004134418850",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-10-04T17:44:18.850Z",
+	"dcterms:modified": "2022-10-04T17:44:57.331Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004134418850#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.0.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004134418850#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1[2]/div2[3]/div3[4]/div4[2]/p[4]/placeName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q42810",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.0.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004134540457",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-10-04T17:45:40.457Z",
+	"dcterms:modified": "2022-10-04T17:45:40.457Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004134540457#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.0.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004134540457#Selector",
+			"@type": "oa:RangeSelector",
+			"oa:hasStartSelector": {
+				"@type": "oa:XPathSelector",
+				"rdf:value": "TEI/text/body/div1[2]/div2[3]/div3[4]/div4[2]/p[5]"
+			},
+			"oa:hasEndSelector": {
+				"@type": "oa:XPathSelector",
+				"rdf:value": "TEI/text/body/div1[2]/div2[3]/div3[4]/div4[2]/p[5]/placeName[4]"
+			},
+			"oa:refinedBy": {
+				"@type": "oa:TextPositionSelector",
+				"oa:start": 272,
+				"oa:end": 12
+			}
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q20741250",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.0.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004134600766",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-10-04T17:46:00.766Z",
+	"dcterms:modified": "2022-10-04T17:46:25.348Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004134600766#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.0.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004134600766#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1[2]/div2[3]/div3[4]/div4[2]/p[5]/placeName[5]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q121378",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -634,9 +956,9 @@
                         <persName ref="http://viaf.org/viaf/315643242/">E. RECLUS</persName>, <title>L'Océan</title>.)</p>
                      <p>La hauteur de la marée est plus grande dans les golfes que sur les plages largement découvertes. Au fond de la <geogFeat>baie du <placeName>mont
                         Saint-Michel</placeName></geogFeat>, elle marque 14 à 15 mêtres entre le niveau du flux et celui des plus basses eaux ; elle n'est que de 5 à 6 mêtres à
-                        <placeName>Dunkerque</placeName> et au <placeName>Havre</placeName>.</p>
+                        <placeName key="Dunkirk" ref="http://www.wikidata.org/entity/Q45797">Dunkerque</placeName> et au <placeName key="Le Havre" ref="http://www.wikidata.org/entity/Q42810">Havre</placeName>.</p>
                      <p>La <geogFeat type="mer">Méditerranée</geogFeat>, qui est une mer fermée, a des marées presque insensibles. Sur nos côtes et celles d'<placeName>Espagne</placeName> ou
-                        d'<placeName>Italie</placeName>, la difference n'est que de 0m,30 entre le flux et le reflux ; de 0m,60 à 0m,90 à <placeName>Venise</placeName>. au fond de l'<geogFeat type="mer">Adriatique</geogFeat> ; de 0m,15 à l'<placeName>ile de Zante</placeName> et de 0m,020 à <placeName>Corfou</placeName>.</p>
+                        d'<placeName>Italie</placeName>, la difference n'est que de 0m,30 entre le flux et le reflux ; de 0m,60 à 0m,90 à <placeName>Venise</placeName>. au fond de l'<geogFeat type="mer">Adriatique</geogFeat> ; de 0m,15 à l'<placeName>ile de Zante</placeName> et de 0m,020 à <placeName key="Corfu" ref="http://www.wikidata.org/entity/Q121378">Corfou</placeName>.</p>
                   </div4>
                </div3>
             </div2>
