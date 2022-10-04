@@ -927,17 +927,17 @@ pb:after {
 }
 
 
-/*persName {
+persName {
     color: blue;
     display: inline;
     font-weight: bold;
-}*/
+}
 
-/*placeName {
+placeName {
     color: purple;
     display: inline;
     font-weight: bold;
-}*/
+}
 
 div persName,
 div placeName,
