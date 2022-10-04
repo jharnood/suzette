@@ -617,6 +617,84 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?note_annotation_20221004135031841",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-10-04T17:50:31.841Z",
+	"dcterms:modified": "2022-10-04T17:50:31.841Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?note_annotation_20221004135031841#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.0.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?note_annotation_20221004135031841#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2/p[26]/note[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": "Immersion. Action de plonger dans l'eau."
+	},
+	"as:generator": {
+		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.0.1"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><profileDesc>
          <langUsage>
             <language ident="fr">French</language>
@@ -683,7 +761,7 @@
                <p>Le savonnage achevé, et dans les règles, car il y a là deux paires d'yeux joliment ouverts, on commence le rinçage. Attention ! il s'agit maintenant de noyer les derniers
                   vestiges de savon, qui prendraient en séchant une teinte rousse et gâteraient le meilleur blanchissage.</p>
                <p>On plonge, on presse la layette dans deux eaux claires ; car la peau tendre et irritable des bébés veut un linge pur. On parachève <note type="annotation">Parachever. Terminer avec soin.</note> 
-                  par une immersion*<gloss>Immersion. Action de plonger dans l'eau.</gloss> dans un baquet d'eau azurée.</p>
+                  par une immersion <note type="annotation">Immersion. Action de plonger dans l'eau.</note>   dans un baquet d'eau azurée.</p>
                <p>Puis on tend des cordes, on y suspend tout l'attirail et même une petite robe d'indienne à mille raies blanches et roses, qui habilla jadis l'enfance de <persName type="fictif">Mlle Lucie Valon</persName>. La petite déshéritée qui vient de naître sera gentiment nippée pour quelque temps.</p>
                <p>Vous pouvez maintenant aller jouer, les quatre lavandières ! et vous, <persName type="fictif">Margot</persName>, remonter vos bas tout à l'aise, la layette séchera pendant la
                   nuit.</p>
