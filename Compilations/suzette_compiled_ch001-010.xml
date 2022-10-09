@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -64,7 +61,787 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <profileDesc>
+      <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153544425",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-10-09T19:35:44.425Z",
+	"dcterms:modified": "2022-10-09T19:35:46.925Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153544425#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.0.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153544425#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2/p/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": "Âtre. L'endroit de la cheminée où l'on fait le feu."
+	},
+	"as:generator": {
+		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.0.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153600523",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-10-09T19:36:00.523Z",
+	"dcterms:modified": "2022-10-09T19:36:02.360Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153600523#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.0.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153600523#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2/p/note[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": "Ramages. Représentation de rameaux, de\n                  feuillages, de fleurs sur vases ou étoffes."
+	},
+	"as:generator": {
+		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.0.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153611759",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-10-09T19:36:11.759Z",
+	"dcterms:modified": "2022-10-09T19:36:18.027Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153611759#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.0.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153611759#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2/p/note[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": " Pampe. Feuille des céréales. "
+	},
+	"as:generator": {
+		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.0.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153635541",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-10-09T19:36:35.541Z",
+	"dcterms:modified": "2022-10-09T19:36:37.395Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153635541#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.0.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153635541#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1[3]/div2/p/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": " Dodeliner. Balancer lentement la tête de droite à gauche."
+	},
+	"as:generator": {
+		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.0.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153659157",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-10-09T19:36:59.157Z",
+	"dcterms:modified": "2022-10-09T19:37:00.679Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153659157#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.0.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153659157#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1[2]/div2/p[17]/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": "Sérénade. Concert de voix et d'instruments, ici \n                  on veut désigner le chant de\n                  l'insecte."
+	},
+	"as:generator": {
+		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.0.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153727391",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-10-09T19:37:27.391Z",
+	"dcterms:modified": "2022-10-09T19:37:29.011Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153727391#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.0.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153727391#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2/p[6]/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": "Physionomie. Les traits du visage."
+	},
+	"as:generator": {
+		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.0.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153748890",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-10-09T19:37:48.890Z",
+	"dcterms:modified": "2022-10-09T19:37:50.745Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153748890#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.0.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153748890#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2/p[6]/note[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": "Affabilité. Qualité de celui qui reçoit ou écoute avec bonté ceux qui s'adressent à lui."
+	},
+	"as:generator": {
+		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.0.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153813825",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-10-09T19:38:13.825Z",
+	"dcterms:modified": "2022-10-09T19:38:15.645Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153813825#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.0.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153813825#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2/p[7]/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": "Lignée. Les descendants d'un ancêtre ou les enfants\n                     d'un père ou d'une mère."
+	},
+	"as:generator": {
+		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.0.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153840776",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-10-09T19:38:40.776Z",
+	"dcterms:modified": "2022-10-09T19:38:42.710Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153840776#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.0.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153840776#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1[2]/div2/p/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": "Spacieux. Qui est de grande étendue."
+	},
+	"as:generator": {
+		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.0.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153853673",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-10-09T19:38:53.673Z",
+	"dcterms:modified": "2022-10-09T19:38:55.260Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153853673#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.0.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153853673#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1[2]/div2/p/note[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": "Volubilis. Plante grimpante ayant de jolies fleurs en clochette."
+	},
+	"as:generator": {
+		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.0.1"
+	}
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData><profileDesc>
          <langUsage>
             <language ident="fr">French</language>
             <language ident="en">English</language>
@@ -75,7 +852,7 @@
       <body>
          <div1 type="chapitre" xml:lang="fr" n="ch001">
             <head>1. — A l'abandon. (Élève, p. 3.)</head>
-            <pb type="page" n="1" />
+            <pb type="page" n="1"/>
             <div2 type="récit">
                <p> Par terre, devant l'âtre*<note type="annotation">Âtre. L'endroit de la cheminée où l'on fait le feu.</note>, une grosse soupière 
                   blanche à ramages*<note type="annotation">Ramages. Représentation de rameaux, de
@@ -90,7 +867,7 @@
                   rapportant au texte qui précède, et qui peuvent donner lieu à de nouveaux
                   exercices soit oraux, soit écrits. </note>
                <fw type="footer"> SUZETTE (Maîtresse). <fw type="sig">1</fw> </fw>
-               <pb type="page" n="2" />
+               <pb type="page" n="2"/>
                <fw type="header">2 SUZETTE.</fw>
                <p> Sous la crémaillère brûlait un restant de bûche ; à côté, un gros chat et un chien roux, tous deux couchés, 
                   clignaient paresseusement des yeux vers une grande table ronde, au
@@ -117,7 +894,7 @@
                   comment on tient sa cuiller. Une fillette, qui leur faisait face, la maniait encore plus joliment qu'eux. Elle 
                   avait une dizaine d'années, une physionomie*<note type="annotation">Physionomie. Les traits du visage.</note> vive, des yeux frais, 
                   très ouverts, pleins d'affa-
-                  <pb type="page" n="3" />
+                  <pb type="page" n="3"/>
                   <fw type="header"> A L'ABANDON. 3 </fw>
                   bilité* <note type="annotation">Affabilité. Qualité de celui qui reçoit ou écoute avec bonté ceux qui s'adressent à lui.</note>. Ce n'était pas une
                   beauté, mais bien une de ces bonnes et aimables têtes qu'on aime à voir sur les épaules d'une petite fille. </p>
@@ -146,7 +923,7 @@
                   tard, de petits exposés comprenant plusieurs propositions. Ce sera d'ailleurs une manière efficace de les 
                   préparer aux exercices de composition. </note>
             </div2>
-            <pb type="page" n="80" />
+            <pb type="page" n="80"/>
             <div2 type="exercices">
                <head>DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES</head>
                <div3 type="morale">
@@ -175,7 +952,7 @@
                         Une jeune fille soigneuse n'oubliera pas de recoudre un bouton, de nouer un lacet, de surveiller 
                         le lait qu'elle met bouillir, de ponctuer
                         ses devoirs, etc.</p>
-                     <pb type="page" n="4" />
+                     <pb type="page" n="4"/>
                      <fw type="header"> 4 SUZETTE. </fw>
                      <p>L'enfant du fermier qui me semble le plus à plaindre, est le bébé. A son âge, on a tant besoin de 
                         la maman ! et la sienne n’est plus auprès de lui et elle ne reviendra
@@ -249,7 +1026,7 @@
             </div2>
          </div1>
          <div1 type="chapitre" xml:lang="fr" n="ch002">
-            <pb type="page" n="5" />
+            <pb type="page" n="5"/>
             <fw type="header"> LE GRILLON DU FOYER. 5 </fw>
             <head type="chapitre"> 2. — Le grillon du foyer. (Élève, p. 5.) </head>
             <div2 type="récit">
@@ -275,7 +1052,7 @@
                   le chaume de 
                   
                   <fw type="header"> 6 SUZETTE.</fw>
-                  <pb type="page" n="6" /> 
+                  <pb type="page" n="6"/> 
                   la grange, en face, barrant l'horizon, paraissait presque noir sur le fond d'or pâle du ciel. Puis l'air fraîchit, le jour tomba ; 
                   une étoile parut, avec
                   l'éclat scintillant* <note type="annotation">Scintillant. Qui a un vif mouvement dans la lumière qu'il envoie.</note> et doux d'un beau regard. </p>
@@ -306,7 +1083,7 @@
                   ainsi qu'il se passe dans un monde où
                   oiseaux et gens veulent avoir la meilleure place ; puis on se tassa et le calme se fit. </p>
                <fw type="header"> LE GRILLON DU FOYER. 7</fw>
-               <pb type="page" n="7" />
+               <pb type="page" n="7"/>
                <p>
                   <persName type="fictif" key="suzette">Suzette,</persName> prit le tisonnier, en frappa la braise : une gerbe d'étincelles monta, qui éclaira 
                   tous les visages. Et alors, comme à un signal, descendit
@@ -393,7 +1170,7 @@
                         moins coûteuse que les autres (0 fr. 45 le
                         litre). </p>
                      <fw type="header"> 8 SUZETTE.</fw>
-                     <pb type="page" n="8" />
+                     <pb type="page" n="8"/>
                      <p>Les vapeurs qu'il dégage continuellement sont très inflammables, et si l'on ne prend de grandes précautions, la flamme se 
                         communique au liquide et il se produit une terrible
                         explosion.</p>
@@ -446,7 +1223,7 @@
          </div1>
          <div1 type="chapitre" xml:lang="fr" n="ch003">
             <head> 3. — Où est la maman ? (Élève, p. 8.) </head>
-            <pb type="page" n="8" />
+            <pb type="page" n="8"/>
             <div2 type="récit">
               
                <p> Mais bientôt la tête joufflue du petit bambin se mit à dodeliner* <note type="annotation"> Dodeliner. Balancer lentement la tête de droite à gauche.</note>, 
@@ -462,7 +1239,7 @@
                      Dumay</persName>, celui-là même qui a bâti la maison qui nous abrite. Et il ne faut pas que vous redeveniez des 
                   
                   <fw type="header"> OU EST LA MAMAN ? 9 </fw>
-                  <pb type="page" n="9" /> sauvages. J'aurais dû vous dire de prendre vos livres après souper ; encore un oubli... 
+                  <pb type="page" n="9"/> sauvages. J'aurais dû vous dire de prendre vos livres après souper ; encore un oubli... 
                   Et puis, pas de pétrole. Quatre enfants, une charrue, une ferme à
                   conduire ! Trop à faire, trop à faire !... Ma pauvre femme !... Ma chère aide si tôt partie !... </p>
                <p> Il secoua la tête tristement et reprit : </p>
@@ -490,7 +1267,7 @@
                <p> Pauvre maisonnée, pauvre foyer sans âme ! La mère 
                   <fw type="footer"><fw type="sig"> 1. </fw></fw>
                   <fw type="header"> 10 SUZETTE.</fw>
-                  <pb type="page" n="10" /> aussi dormait, mais au cimetière, depuis tantôt deux ans ; et c'est elle, sans doute, que cherchait, depuis ce 
+                  <pb type="page" n="10"/> aussi dormait, mais au cimetière, depuis tantôt deux ans ; et c'est elle, sans doute, que cherchait, depuis ce 
                   temps-là, l'œil bleu vaguement*
                   <note type="annotation">Vaguement. Sans but bien déterminé, bien fixé.</note> étonné de <persName type="fictif" key="charlot">Charlot,</persName>, le dernier né. </p>
             </div2>
@@ -565,7 +1342,7 @@
                   <div4 type="questions">
                      <list type="exercices">
                         <item>— Racontez ce que vous savez de l'instruction des gens 
-                           <pb type="page" n="11" />
+                           <pb type="page" n="11"/>
                            <fw type="header"> LA FEMME DE LA CAVERNE. 11 </fw>
                             de la campagne aux siècles passés.</item>
                         <item>— Que racontent les personnes âgées, et entre autres vos grands-parents, de l'école qu'ils fréquentaient dans leur enfance ?</item>
@@ -592,7 +1369,7 @@
          </div1>
          <div1 type="chapitre" xml:lang="fr" n="ch004">
             <head> 4. — La femme de la caverne* <note type="annotation">Caverne. Lieu en creux dans des rochers ou sur le flanc et l'intérieur d'une colline.</note>. (Élève, p. 10.) </head>
-            <pb type="page" n="11" />
+            <pb type="page" n="11"/>
             <div2 type="récit">
                <p> Le soleil frappait en plein dans les vitres ; les grands stores* <note type="annotation">Store. Espèce de rideau qui se lève ou se baisse à l'aide d'un ressort.</note> 
                   de calicot blanc étaient
@@ -638,7 +1415,7 @@
                   bâton à bout pointu et durci. </note>, un homme s'avançait 
                   
                   <fw type="header"> LA FEMME DE LA CAVERNE. 13 </fw>
-                  <pb type="page" n="13" /> 
+                  <pb type="page" n="13"/> 
                   avec précaution, l'œil, l'oreille au guet. Il s'arrêta ; de ses lèvres sortit un sifflement strident. 
                   Presque aussitôt le rideau de broussailles
                   s'entrouvrit : une autre créature humaine, vêtue de peaux de bêtes comme la première, apparut. Elle tenait dans ses bras
@@ -665,7 +1442,7 @@
                <p> Car c'était la femme qui venait de créer la première délicatesse du nid familial, pour adoucir l'homme et le charmer, 
                   pendant qu'au dehors hurlaient les loups et les autres ennemis. </p>
                <fw type="header"> 14 SUZETTE. </fw>
-               <pb type="page" n="14" />
+               <pb type="page" n="14"/>
             </div2>
             <div2 type="questionnaire">
                <head> Questionnaire. </head>
@@ -744,7 +1521,7 @@
                         nourriture ; ils vivaient encore de poissons et des âpres fruits qu'ils recueillaient sur les arbres. </p>
                      <p>Ils habitèrent d'abord sous les arbres, puis s'établirent à l'abri de 
                         <fw type="header"> LE BON CHEMIN. 15 </fw>
-                        <pb type="page" n="15" /> roches surplombantes, et enfin dans des cavernes où des fouilles récentes ont mis à découvert des débris de leurs 
+                        <pb type="page" n="15"/> roches surplombantes, et enfin dans des cavernes où des fouilles récentes ont mis à découvert des débris de leurs 
                         foyers, des os et des silex taillés
                         dont ils se servaient comme d'armes, de couteaux ou de grattoirs. A une époque assez rapprochée de la nôtre, 
                         nos ancêtres élevèrent des huttes qu'ils construisaient souvent sur
@@ -785,7 +1562,7 @@
          </div1>
          <div1 type="chapitre" xml:lang="fr" n="ch005">
             <head> 5. — Le bon chemin. (Élève, p. 13.) </head>
-            <pb type="page" n="15" />
+            <pb type="page" n="15"/>
             <div2 type="récit">
                <p> La classe s'acheva ; les enfants sortirent. <persName type="fictif" key="mme_valon">Mme Valon</persName> arrêta 
                   <persName type="fictif" key="suzette">Suzette,</persName>, qui s'en allait aussi, mais lentement et
@@ -800,7 +1577,7 @@
                   Le buffet, les chaises brillaient, le carreau était 
                   
                   <fw type="header"> 16 SUZETTE. </fw>
-                  <pb type="page" n="16" /> 
+                  <pb type="page" n="16"/> 
                   rouge, éclatant de netteté*<note type="annotation"> Netteté. Qualité de ce qui est sans souillure. </note>. 
                   Une appétissante odeur de bonne cuisine sortait de droite.
                   <persName type="fictif" key="m_valon">M. Valon</persName>, le mari, dont la classe venait aussi de finir, entra, sourit à la bonne grâce 
@@ -820,7 +1597,7 @@
                   paille, sans compter des toiles d'araignées à prendre toutes les mouches du
                   
                   <fw type="header"> LE BON CHEMIN. 17 </fw>
-                  <pb type="page" n="17" /> pays. C'est un peu pour cela que j'ai fait tout à l'heure cette lecture ; je te savais des oreilles et du cœur. 
+                  <pb type="page" n="17"/> pays. C'est un peu pour cela que j'ai fait tout à l'heure cette lecture ; je te savais des oreilles et du cœur. 
                   Je savais également, par ce qu'on m'en a
                   dit, l'ordre, la propreté, la gentillesse de ta pauvre maman. </p>
                <p>
@@ -875,7 +1652,7 @@
                         ont le courage de le poursuivre. </p>
                      <p>Dans les contrées septentrionales, alors que des neiges abondantes 
                         <fw type="header"> 18 SUZETTE. </fw>
-                        <pb type="page" n="18" /> couvrent le sol, les loups affamés se réunissent par bandes, et malheur aux créatures
+                        <pb type="page" n="18"/> couvrent le sol, les loups affamés se réunissent par bandes, et malheur aux créatures
                         humaines qu'ils rencontrent ! Parfois ils s'acharnent à la
                         poursuite des traîneaux, et si les chevaux, excédés de fatigue, viennent à s'abattre, les loups se 
                         jettent sur eux et les mettent en pièces comme les malheureux voyageurs. </p>
@@ -944,7 +1721,7 @@
                         
                         <fw type="header">
                            MONSIEUR FRANÇOIS EST UN HOMME ! 19 </fw>
-                        <pb type="page" n="19" /> 
+                        <pb type="page" n="19"/> 
                         
                         toiles d'araignées ; 
                         le foyer présente un amas de cendres et de débris entouré de vases ébréchés et malpropres.
@@ -959,7 +1736,7 @@
          </div1>
          <div1 type="chapitre" xml:lang="fr" n="ch006">
             <head> 6. — <persName type="fictif" key="françois">Monsieur François</persName> est un homme ! (Él., p. 15.) </head>
-            <pb type="page" n="19" />
+            <pb type="page" n="19"/>
             <div2 type="récit">
                <p> Le lendemain, jeudi, fut un jeudi fameux en balayage et en rangement. </p>
                <p> — Vous, les bottes, par ici ! toi, la soupière, par là ! 
@@ -974,7 +1751,7 @@
                <p> Elle s'était mise au ménage à six heures, après le départ du père pour les champs, et sans le prévenir. 
                   
                   <fw type="header"> 20 SUZETTE. </fw>
-                  <pb type="page" n="20" /> 
+                  <pb type="page" n="20"/> 
                   Vers dix heures, toute haletante, n'en pouvant plus, elle appela <persName type="fictif" key="françois">François,</persName>, qui,
                   revenant d’on ne sait où, passait en
                   sifflant comme un merle. </p>
@@ -1013,7 +1790,7 @@
                   les yeux mouillés : </p>
                <p> — Est-ce que ta pauvre maman serait revenue ? </p>
                <fw type="header"> MONSIEUR FRANÇOIS EST UN HOMME ! 21 </fw>
-               <pb type="page" n="21" />
+               <pb type="page" n="21"/>
                <p> — Hélas ! non, papa, dit-elle, en se jetant dans ses bras ; mais si je pouvais lui ressembler ! </p>
             </div2>
             <div2 type="questionnaire">
@@ -1086,7 +1863,7 @@
                         sont sèches, on les frotte avec soin en n'oubliant pas de débarrasser tous les angles 
                         des matières qui s'y accumulent. </p>
                      <fw type="header"> 22 SUZETTE. </fw>
-                     <pb type="page" n="22" />
+                     <pb type="page" n="22"/>
                      <p>2° On lave les vitres avec de l'eau contenant un vingtième d'eau-de-vie, et on les
                         frotte ensuite avec un linge propre jusqu'à ce qu'elles soient bien claires. </p>
                      <p>Le <term>lavage de la vaisselle</term> suppose qu'à l'avance on a fait chauffer de l'eau à une température voisine
@@ -1145,7 +1922,7 @@
          </div1>
          <div1 type="chapitre" xml:lang="fr" n="ch007">
             <head> 7. — Le petit héroïsme. (Élève, p. 17.) </head>
-            <pb type="page" n="22" />
+            <pb type="page" n="22"/>
             <div2 type="récit">
                <p> L'héroïsme* <note type="annotation"> Héroïsme. Disposition à faire des actions utiles et désintéressées. </note> est une des plus belles 
                   vertus de l'humanité. </p>
@@ -1157,10 +1934,9 @@
                   </note> bourguignon déjà planté sur le rempart et détermine la victoire. </p>
                <p>En 1870, en <placeName>Lorraine</placeName>, un régiment français, poursuivi, passe devant la ferme de <placeName>Villedieu</placeName>. Bientôt après 
                   <fw type="header"> LE PETIT HÉROÏSME. 23 </fw>
-                  <pb type="page" n="23" />
+                  <pb type="page" n="23"/>
                   arrivent <orgName>les Prussiens</orgName> : — « Quelle route ont suivie <orgName>les Français</orgName>? » demande le capitaine à la jeune 
-                  fermière, <figure
-                     type="illustration">
+                  fermière, <figure type="illustration">
                      <caption>
                         <persName type="historique">Jeanne Hachette</persName> arrache <objectName>un étendard bourguignon</objectName>… </caption>
                   </figure>
@@ -1168,7 +1944,7 @@
                   répondre. — « Parle ! ou tu vas
                   mourir. » — Elle se tait. Les fusils sont braqués sur elle ; elle se tait encore. — « Feu ! » — La noble fille tombe foudroyée. </p>
                <fw type="header"> 24 SUZETTE. </fw>
-               <pb type="page" n="24" />
+               <pb type="page" n="24"/>
                <p> Ces deux femmes sont des héroïnes. Ce sont des héros aussi les citoyens qui, spontanément* <note type="annotation"> Spontanément. Agir spontanément, c'est faire une
                   chose sans que personne vous y
                   excite. </note>, sans le moindre souci de récompense, se jettent à la tête d'un cheval emporté* <note type="annotation"> Cheval emporté. Cheval 
@@ -1192,7 +1968,7 @@
                </lg>
                <p> Les frères sont sous bois ; <persName type="fictif" key="jacques">Jacques,</persName> cherche des pa-
                   <fw type="header"> LE PETIT HÉROÏSME. 25 </fw>
-                  <pb type="page" n="25" /> pillons ; <persName type="fictif" key="charlot">Charlot,</persName> court à ses côtés, et probablement
+                  <pb type="page" n="25"/> pillons ; <persName type="fictif" key="charlot">Charlot,</persName> court à ses côtés, et probablement
                   monsieur <persName type="fictif" key="françois">François,</persName> grimpe de
                   branche en branche à la poursuite des oiseaux. </p>
                <p> Mais ici on balaye, on range, on frotte ; et parfois, à la moindre distraction des yeux ou des mains, paf ! voilà un verre par 
@@ -1207,7 +1983,7 @@
                   <item>— de <persName type="historique">Suzanne Didier</persName>.</item>
                   <item>— Où se trouvent <placeName>Beauvais</placeName>, <placeName>la Lorraine</placeName>, <placeName>Metz</placeName>?</item>
                   <item>— Quels citoyens donnent également des exemples d'un courage héroïque ?</item>
-                  <item>— Quel héroïsme modeste est admirable <cb /> encore ?</item>
+                  <item>— Quel héroïsme modeste est admirable <cb/> encore ?</item>
                   <item>— Que faisaient, un certain jeudi, les amies de <persName type="fictif" key="suzette">Suzette</persName> ;</item>
                   <item>— ses frères ?</item>
                   <item>— Comment passait-elle, à son tour, cette même journée ?</item>
@@ -1266,7 +2042,7 @@
                         <placeName>Marseille</placeName>, en 1525. En 1871, une jeune receveuse des postes et des 
                         <fw type="footer"> SUZETTE (Maîtresse). <fw type="sig">2</fw> </fw>
                         <fw type="header"> 26 SUZETTE. </fw>
-                        <pb type="page" n="26" /> télégraphes, <persName type="historique">Mlle Dodu</persName>, intercepta au péril de sa vie les dépêches ennemies ; et à la même époque, combien de sœurs
+                        <pb type="page" n="26"/> télégraphes, <persName type="historique">Mlle Dodu</persName>, intercepta au péril de sa vie les dépêches ennemies ; et à la même époque, combien de sœurs
                         de charité tombèrent sous les balles allemandes en soignant les blessés, sur les champs de bataille ! </p>
                   </div4>
                </div3>
@@ -1305,10 +2081,10 @@
          </div1>
          <div1 type="chapitre" xml:lang="fr" n="ch008">
             <head> 8. — Tenons bon ! (Élève, p. 20.) </head>
-            <pb type="page" n="26" />
+            <pb type="page" n="26"/>
             <div2 type="récit">
-               <figure type="sujets" />
-               <pb type="page" n="026" />
+               <figure type="sujets"/>
+               <pb type="page" n="026"/>
                <p> Un joli papillon, fleur ailée, vient voltiger devant la fenêtre ; sur les arbres voisins, les oiseaux se répondent ; 
                   au-dessous, les voix des fillettes en font autant : </p>
                <figure>
@@ -1329,7 +2105,7 @@
                <p> — Ma chère enfant, il faut toujours savoir ce qu'on fait. Tenons bon ! </p>
                
                <fw> TENONS BON ! 27 </fw>
-               <pb type="page" n="027" />
+               <pb type="page" n="027"/>
                <p>
                   <persName type="fictif" key="suzette">Suzette</persName> est désolée, car elle connaît déjà l'importance de la cuisine 
                   qui donne les bonnes ou les mauvaises digestions, le plaisir ou
@@ -1340,8 +2116,7 @@
                <figure>
                   <caption> Elle le transvase, le rafraîchit de quelques aromates nouveaux : il sera presque mangeable. </caption>
                </figure>
-               <p> palais ; c'est avec cela et de l'attention que se fait la bonne soupe, et le reste. <persName type="fictif" key="mme_liénard">Mme Liénard</persName>, la mère de  <persName
-                  type="fictif" key="mme_valon">Mme Valon</persName>, qui s'y entend, conseille <persName type="fictif" key="suzette">Suzette,</persName>. </p>
+               <p> palais ; c'est avec cela et de l'attention que se fait la bonne soupe, et le reste. <persName type="fictif" key="mme_liénard">Mme Liénard</persName>, la mère de  <persName type="fictif" key="mme_valon">Mme Valon</persName>, qui s'y entend, conseille <persName type="fictif" key="suzette">Suzette,</persName>. </p>
                <p> On sait donc ici le moyen de sauver à peu près le ragoût brûlé. Sous les yeux de 
                   <persName type="fictif" key="mme_valon">Mme Valon</persName>, elle le transvase, le rafraîchit de
                   quelques aromates*<note type="annotation"> Aromate. Substance à odeur forte dont on parfume les mets. </note> nouveaux : 
@@ -1349,7 +2124,7 @@
                <p> Pourtant elle se sent le cœur gros. Et il faut la consoler : </p>
                <p> — Courage, ma mignonne ! Tenons bon ! </p>
                <fw> 28 SUZETTE. </fw>
-               <pb type="page" n="028" />
+               <pb type="page" n="028"/>
                <p> Mais il y a aussi des jours heureux, et ils sont de plus en plus nombreux,
                   à mesure que le temps s'écoule et que <persName type="fictif" key="suzette">Suzette</persName> grandit en
                   taille et en bon vouloir. </p>
@@ -1388,8 +2163,7 @@
                   <head type="sujets"> Français. </head>
                   <div4 type="questions">
                      <list>
-                        <item>— Formez des propositions dans lesquelles vous indiquerez ce que font ou faisaient : le papillon, les oiseaux, les fillettes, le ragoût, <persName type="fictif"
-                           key="mme_liénard">Mme Liénard</persName>, <persName type="fictif" key="suzette">Suzette</persName>, la marmite, la famille à table. </item>
+                        <item>— Formez des propositions dans lesquelles vous indiquerez ce que font ou faisaient : le papillon, les oiseaux, les fillettes, le ragoût, <persName type="fictif" key="mme_liénard">Mme Liénard</persName>, <persName type="fictif" key="suzette">Suzette</persName>, la marmite, la famille à table. </item>
                      </list>
                   </div4>
                   <div4 type="réponses">
@@ -1413,7 +2187,7 @@
                         voisine du fond du vase serait exposée à brûler. Le
                         lait déborderait alors et se perdrait en 
                         
-                        <pb type="page" n="029" />
+                        <pb type="page" n="029"/>
                         <fw> LA CLEF DU TRÉSOR. 29 </fw> 
                         
                         partie, tandis que le reste contracterait un goût détestable ; il ne faut donc jamais le perdre de vue, ce qu'oublie 
@@ -1475,13 +2249,13 @@
          </div1>
          <div1 type="chapitre" xml:lang="fr" n="ch009">
             <head> 9. — La clef du trésor. (Élève, p. 22.) </head>
-            <pb type="page" n="29" />
+            <pb type="page" n="29"/>
             <div2 type="récit">
                <p><persName type="fictif" key="suzette">Suzette</persName> avait maintenant douze ans, et c'était pour elle la fin des classes qui arrive
                   toujours un peu trop vite. </p>
                <fw type="footer"><fw type="sig"> 2. </fw></fw>
                <fw type="header"> 30 SUZETTE. </fw>
-               <pb type="page" n="30" />
+               <pb type="page" n="30"/>
                <p> A ces douze ans-là s'ajoutaient un teint clair, des dents blanches et propres, une souple et longue chevelure ornant un visage à
                   l'air ouvert et avenant. Le jour de son
                   anniversaire* <note type="annotation"> Anniversaire. Époque ou cérémonie que ramène le souvenir d'un événement arrivé à pareil jour. </note> tombait
@@ -1505,7 +2279,7 @@
                    <persName type="fictif" key="mme_valon">Mme Valon</persName> répéta sa demande. </p>
                <p> — Eh bien ! reprit-elle, après un nouveau silence, on vous a appris à lire, tout simplement pour que vous lisiez ! </p>
                <fw type="header"> LA CLEF DU TRÉSOR. 31 </fw>
-               <pb type="page" n="31" />
+               <pb type="page" n="31"/>
                <p>Les demoiselles de douze ans, et les autres plus jeunes, se mirent à rire. </p>
                <p> — Oui, reprit <persName type="fictif" key="mme_valon">Mme Valon</persName>, vous emportez d'ici la lecture, clef d'un vaste 
                   trésor qui est le savoir. Beaucoup de celles qui vous ont
@@ -1542,7 +2316,7 @@
                <p> — Allons, hop ! en vacances ! dit-elle avec un sourire ému. </p>
                <p> Ce fut une envolée d'oiseaux à qui l'on ouvre la cage. </p>
                <fw type="header"> 32 SUZETTE. </fw>
-               <pb type="page" n="32" />
+               <pb type="page" n="32"/>
                <p><persName type="fictif" key="suzette">Suzette</persName>, qui avait le cœur tendre et réfléchi* <note type="annotation"> Réfléchi. Le contraire d'étourdi. </note>, dit adieu d'un mélancolique
                   regard à ces murs, à son banc, aux six années de sa jeune vie déjà passées là. </p>
             </div2>
@@ -1621,7 +2395,7 @@
                   </div4>
                </div3>
                <fw type="header"> GROSSE AFFAIRE. 33 </fw>
-               <pb type="page" n="33" />
+               <pb type="page" n="33"/>
                <div3 type="industrie">
                   <head type="sujets"> Industrie. </head>
                   <div4 type="questions">
@@ -1642,8 +2416,7 @@
                         mots. L'ouvrier prend les lettres dans de petites cases, et il les dispose sur un cadre ayant les
                         dimensions d'une feuille de papier. (Voir, pour la suite, la légende de la
                         gravure de la page 30.) </p>
-                     <p>L'<term>imprimerie</term> fut découverte en 1434, à <placeName>Strasbourg</placeName>, par <persName
-                        type="historique">Jean Gutenberg</persName>, né à <placeName>Mayence</placeName> en 1400 : c'était
+                     <p>L'<term>imprimerie</term> fut découverte en 1434, à <placeName>Strasbourg</placeName>, par <persName type="historique">Jean Gutenberg</persName>, né à <placeName>Mayence</placeName> en 1400 : c'était
                         alors un riche bourgeois. Ruiné par les frais de sa découverte, il retourna à <placeName>Mayence</placeName> vers 1444 et, en 1450,
                         s'y associa avec <persName type="historique">Jean Fust</persName>. Tous deux publièrent la Bible : mais
                         dès que <persName type="historique">Fust</persName> connut les procédés de l'art nouveau, il poursuivit
@@ -1669,7 +2442,7 @@
             </div2>
          </div1>
          <div1 type="chapitre" xml:lang="fr" n="ch010">
-            <pb type="page" n="033" />
+            <pb type="page" n="033"/>
             <head>10. — Grosse affaire. (Élève, p. 25.)</head>
             <div2 type="récit">
                <p>— Ah ! ah ! tout va marcher comme il faut ! Papa m'a confié la maison, me voilà la maîtresse !</p>
@@ -1681,7 +2454,7 @@
                <p>Il n'y avait plus à cette heure qu'à faire sentir la main*<note type="annotation">Sentir la main. S'apercevoir qu'on est 
                   dirigé, guidé.</note>, d'abord, à la basse-cour qui, tant qu'on allait à
                   l'école, ne se gênait pas pour vagabonder, ou se per-
-                  <pb type="page" n="034" />
+                  <pb type="page" n="034"/>
                   <fw>34 SUZETTE.</fw> 
                   dre ; et puis à MM. <persName type="fictif" key="françois">François</persName> et <persName type="fictif" key="charlot">Charlot</persName>,
                   plus indociles
@@ -1707,7 +2480,7 @@
                   vestes, leurs pantalons en loques. Pour le débarbouillage de leurs vilaines mains et de leurs joues de charbonniers,
                   ils refusaient d'y entendre ; autant leur proposer une
                   médecine.</p>
-               <pb type="page" n="035" />
+               <pb type="page" n="035"/>
                <fw>GROSSE AFFAIRE. 35</fw>
                <p>Justement, ce matin-là, le père et <persName type="fictif" key="jacques">Jacques</persName> étant partis ensemble, 
                   les deux gamins se présentèrent, au saut du lit, avec les
@@ -1742,7 +2515,7 @@
                <p>Et ils se sauvèrent.</p>
                <p>Restée seule, <persName type="fictif" key="suzette">Suzette</persName> se mit à pleurer. Quel début dans la maîtrise ! Et 
                   comment s'y prendre pour obtenir
-                  <pb type="page" n="036" />
+                  <pb type="page" n="036"/>
                   <fw>36 SUZETTE.</fw>
                   des gens leur débarbouillage ? Oh ! que bien faire est difficile !</p>
             </div2>
@@ -1829,7 +2602,7 @@
                      </list>
                   </div4>
                   <div4 type="réponses">
-                     <p>La plupart des jeunes filles comprennent ce que prescrivent, au <pb type="page" n="037" />
+                     <p>La plupart des jeunes filles comprennent ce que prescrivent, au <pb type="page" n="037"/>
                         <fw>LA PETITE HIRONDELLE. 37</fw> point de vue des gestes, la modestie et les convenances ; cependant il en est 
                         quelques-unes qui ne craignent pas de répondre comme
                         <persName type="fictif" key="françois">François</persName> à un ordre et à une observation. D'autres agitent les
