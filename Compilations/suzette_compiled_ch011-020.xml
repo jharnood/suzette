@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -64,7 +61,85 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <profileDesc>
+      <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch011-020.xml?note_annotation_20221009155835953",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-10-09T19:58:35.953Z",
+	"dcterms:modified": "2022-10-09T19:58:51.288Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch011-020.xml?note_annotation_20221009155835953#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch011-020.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.0.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch011-020.xml?note_annotation_20221009155835953#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2/p[2]/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": "Secouer le souci. En éloigner le\n                     souvenir."
+	},
+	"as:generator": {
+		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.0.1"
+	}
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData><profileDesc>
          <langUsage>
             <language ident="fr">French</language>
             <language ident="en">English</language>
@@ -74,15 +149,15 @@
    <text>
       <body>
          <div1 type="chapitre">
-            <pb type="page" n="ch037" />
+            <pb type="page" n="ch037"/>
             <head>11. — La petite hirondelle. (Élève, p. 28.)</head>
             <div2 type="récit">
                <p>Le lendemain, <persName type="fictif" key="suzette">Suzette</persName> revenait, à cette pensée par une de ces matinées 
                   dorées qui annoncent l'automne ; un léger voile de brouillard
                   flottait au loin sur la plaine, et, sous un vent doux, s'en allait par lambeaux.</p>
                <p> Levée la première, <persName type="fictif" key="suzette">Suzette</persName>, à ce
-                  charme matinal, secoua un peu le souci* <gloss>Secouer le souci. En éloigner le
-                     souvenir.</gloss> qui la tenait de voir recommencer la scène de la veille. Elle
+                  charme matinal, secoua un peu le souci* <note cert="high" evaluate="all" place="below" type="annotation" xml:space="default">Secouer le souci. En éloigner le
+                     souvenir.</note> qui la tenait de voir recommencer la scène de la veille. Elle
                   fit quelques pas hors de la porte, admira la pureté du ciel, puis regarda le faîte du portique à 
                   colombier où les hirondelles allaient,
                   venaient à tire-d'aile* <gloss>A tire-d'aile. De toute la vitesse de ses
@@ -95,7 +170,7 @@
                </figure>
                <fw type="footer">Suzette (Maîtresse) <fw type="sig">3</fw></fw>
                <fw>38 SUZETTE. </fw>
-               <pb type="page" n="38" />
+               <pb type="page" n="38"/>
                <p> Une d'entre elles, toute mignonne, toute jeunette, décrivait ses courbes avec des cris 
                   de joie, s'élevait, descendait en ondulant* <gloss>Onduler. Voler en abaissant et en élevant
                      lentement son vol.</gloss> ; deux fois elle passa près de la jeune fille à la toucher ; 
@@ -117,7 +192,7 @@
                   <caption> Bonjour, bonjour, petite sœur hirondelle !</caption>
                </figure>
                <fw> LA PETITE HIRONDELLE. 39</fw>
-               <pb type="page" n="39" />
+               <pb type="page" n="39"/>
                <p>—Oui, qui l'a tuée? répéta <persName type="fictif" key="jacques">Jacques</persName>. </p>
                <p>Mais <persName type="fictif" key="suzette">Suzette</persName> ne nomma pas le coupable.—
                   Il se tenait derrière la porte entrouverte, et elle l'avait aperçu. Elle dit seulement, d'une
@@ -176,7 +251,7 @@
                      <p>Les animaux sentent comme nous ; ils souffrent des mauvais traite-
                         
                         <fw> 40 SUZETTE.</fw>
-                        <pb type="page" n="40" /> 
+                        <pb type="page" n="40"/> 
                         ments et des privations qu'on leur inflige, et la mort n'a pas moins d'angoisses pour eux que pour les hommes. 
                         C'est donc commettre une mauvaise
                         action que de les faire souffrir et de les priver de la vie. De telles choses sont permises seulement 
@@ -241,7 +316,7 @@
                         betterave, sans compter les fruits des arbres. Plusieurs variétés de ces animaux détruisent le
                         
                         <fw>ON SE DÉBARBOUILLE. 41</fw>
-                        <pb type="page" n="41" />
+                        <pb type="page" n="41"/>
                         plant à sa sortie de la terre : les limaces, par exemple, dont les ravages sont incalculables lors des années humides. 
                         D'autres s'attaquent aux
                         racines des légumes, comme les courtilières et les larves des hannetons.</p>
@@ -260,7 +335,7 @@
          </div1>
          <div1 type="chapitre" xml:lang="fr" n="ch012">
             <head> 12. — On se débarbouille. (Élève, p. 30.) </head>
-            <pb type="page" n="41" />
+            <pb type="page" n="41"/>
             <div2 type="récit">
                <p>Alors la porte s'ouvrit tout à fait ; <persName type="fictif">François</persName> s'avança en sanglotant* <gloss>Sanglot.
                   Soupir poussé avec une voix entrecoupée.</gloss>.</p>
@@ -283,7 +358,7 @@
                   respectée.</p>
                <p>D'ailleurs on grandissait ; et il faut bien qu'avec la taille grandisse aussi la sagesse.</p>
                <fw type="header"> 42 SUZETTE. </fw>
-               <pb type="page" n="42" />
+               <pb type="page" n="42"/>
                <p>Malheureusement les choses, en vieillissant, ne changent pas toutes aussi favorablement que les gens : 
                   les robes du dimanche, par exemple. Il arriva un moment où, après cent
                   nettoyages, repassages, raccommodages, <persName type="fictif" key="suzette">Suzette</persName> dut renoncer à la sienne.</p>
@@ -340,7 +415,7 @@
                         débarrasser de ce qui reste de poussière. Les chaussures devront être décrottées aussitôt après qu'on les aura quittées ; elles sécheront pendant la nuit et, au matin, rien ne
                            sera
                         <fw type="header">ON SE DÉBARBOUILLE. 43</fw>
-                        <pb type="page" n="43" />
+                        <pb type="page" n="43"/>
                         plus facile que de les cirer. Le cirage entretient la souplesse du cuir et en assure la durée.</p>
                      <p>Dans une chambre, les meubles, les sièges et les tapis ont une place déterminée ; il faut donc chaque jour, après le nettoyage de la pièce, remettre ces objets à l'endroit
                         habituel ; ainsi l'on s'accoutume à l'ordre et l'on prévient les accidents.</p>
@@ -407,7 +482,7 @@
          </div1>
          <div1 type="chapitre" xml:lang="fr" n="013">
             <head>13. — Une bonne idée. (Élève, p. 31.)</head>
-            <pb type="page" n="44" />
+            <pb type="page" n="44"/>
             <div2 type="récit">
                <p><persName type="fictif" key="suzette">Suzette</persName> exposa la double question au papa.</p>
                <p>— Hum ! hum ! répondit-il en se grattant l'oreille, des souliers, une robe, tout à la fois ! Si tu attendais que 
@@ -459,7 +534,7 @@
             </div2>
             <div2 type="questionnaire">
                <fw type="header">46. SUZETTE.</fw>
-               <pb type="page" n="46" />
+               <pb type="page" n="46"/>
                <head>Questionnaire.</head>
                <list>
                   <item>— Que répondit le père lorsqu'il fut question de l'achat d'une robe et de souliers ? </item>
@@ -541,7 +616,7 @@
                      <p>Selon que les lunettes sont pour l'usage des vieillards ou des myopes, 
                         
                         <fw type="header">BRUNEHAUT. 47</fw>
-                        <pb type="page" n="47" /> les verres sont bombés des deux côtés ou concaves, c'est-à-dire creusés vers le centre.</p>
+                        <pb type="page" n="47"/> les verres sont bombés des deux côtés ou concaves, c'est-à-dire creusés vers le centre.</p>
                      <p>L'instrument appelé lunette est un tube cylindrique, noirci intérieurement, dans lequel on dispose des verres de forme lenticulaire. 
                         La lunette rapproche les objets situés à
                         de grandes distances ; elle rend ainsi les plus utiles services aux navigateurs, aux militaires, enfin aux astronomes à qui elle a donné le
@@ -553,7 +628,7 @@
          </div1>
          <div1 type="chapitre" xml:lang="fr" n="ch014">
             <head type="chapter">14. — Brunehaut. (Élève, p. 34.)</head>
-            <pb type="page" n="47" />
+            <pb type="page" n="47"/>
             <div2 type="récit">
                <p>Dans les villages où les chemins de fer ne sont encore qu'à l'état de jalons* <gloss>Jalon. Bâton droit qu'on plante en terre pour prendre 
                   des alignements.</gloss> peints en rouge et
@@ -580,7 +655,7 @@
                <p>— La traverse eût abrégé, dit <persName type="fictif" key="m_dumay">M. Dumay</persName>, mais, char-
                   
                   <fw type="header">48 SUZETTE.</fw>
-                  <pb type="page" n="48" /> 
+                  <pb type="page" n="48"/> 
                   
                   gés comme nous le sommes, la <placeName>chaussée Brunehaut</placeName> est plus sûre.</p>
                <p>Il prononça Bruneau.</p>
@@ -602,7 +677,7 @@
                      <caption>Cinq <orgName>Dumay</orgName> et sept voisins, vieux ou jeunes, étaient tassés à ne pas pouvoir se moucher.</caption>
                   </figure>
                   <fw type="header">BRUNEHAUT. 49</fw>
-                  <pb type="page" n="49" /> 
+                  <pb type="page" n="49"/> 
                   sieurs autres du nord de la <placeName>France</placeName>, s'appelaient du nom de la reine d'<placeName>Austrasie</placeName>*
                   <gloss><placeName>Austrasie</placeName>. Région N.-E. de la <placeName>France</placeName> mérovingienne. </gloss>,
                   <persName type="historique">Brunehaut</persName>, qui les avait frayées, voilà douze siècles, à travers les grandes forêts couvrant alors 
@@ -619,7 +694,7 @@
                   <item> — Quelles personnes s'étaient entassés dans le char à bancs ? </item>
                   <item> — Que savez-vous sur <persName type="fictif" key="lejoly">Florentin Lejoly</persName> ? </item>
                   <item>— Pourquoi le garde champêtre allait-il à la foire ? </item>
-                  <item>— Quelle <cb />raison détermina <persName type="fictif" key="m_dumay">M. Dumay</persName> à prendre la grande route ? </item>
+                  <item>— Quelle <cb/>raison détermina <persName type="fictif" key="m_dumay">M. Dumay</persName> à prendre la grande route ? </item>
                   <item>Que demanda <persName type="fictif" key="ludivine">Ludivine</persName> à propos de la chaussée ? </item>
                   <item>— Donnez quelques détails sur la toilette prétentieuse de <persName type="fictif" key="lejoly">Lejoly</persName>.</item>
                   <item>— Quelle sotte question posa-t-il après <persName type="fictif" key="ludivine">Ludivine</persName> ? </item>
@@ -660,7 +735,7 @@
                         que l'on prête, une leçon qu'on explique, un problème
                         dont on communique l'énoncé, un jouet dont on se prive ; toutefois, l'obligeance ne saurait aller jus-
                         
-                        <pb type="page" n="50" />
+                        <pb type="page" n="50"/>
                         <fw type="header">50 SUZETTE.</fw>
                         qu'à favoriser la négligence des esprits paresseux, en leur épargnant des recherches ou des travaux préparatoires.</p>
                      <p>S'il est, dans les compagnes de classe d'une élève, une catégorie d'enfants, envers qui l'on sera davantage porté à
@@ -740,7 +815,7 @@
                      <p><term>Un chemin rural</term> est une voie tracée entre les champs, où l'on circule avec difficulté parce qu'il n'est
                         l'objet d'aucun travail de réparation.</p>
                      <fw type="header"> LA CHARTE DU COMTE HERBERT. 51</fw>
-                     <pb type="page" n="51" />
+                     <pb type="page" n="51"/>
                      <p><term>Un chemin vicinal</term> est une route étroite, établie dans de bonnes conditions de durée, qui
                         facilite les communications entre les localités voisines.</p>
                      <p> <term>Une route</term> est une large voie de communication construite avec soin pour que les hommes et 
@@ -755,7 +830,7 @@
             <head type="chapter">15. — La charte*<gloss> Charte. Acte écrit où l'on mentionnait, au moyen âge, les droits ou 
                les redevances des vassaux ou des communes.</gloss>du comte Herbert
                (Élève, p. 36.)</head>
-            <pb type="page" n="51" />
+            <pb type="page" n="51"/>
             <div2 type="récit">
                <p>Comme le carillon* <gloss>Carillon. Réunion de cloches de différents tons. </gloss> de <placeName>Saint-Quentin</placeName> 
                   entonnait sa chanson joyeuse, les voyageurs arrivaient sur la place de l'hôtel de
@@ -786,7 +861,7 @@
                      préparée pour écrire.</gloss> que fait un scribe* <gloss>Scribe. Homme qui gagne sa vie à copier.</gloss>.
                   Derrière ce groupe, une garde d'hommes d’armes massés, la lance 
                   <fw type="header">52 SUZETTE.</fw>
-                  <pb type="page" n="52" /> au poing, prouve qu'on a ici affaire à des personnages d'importance. En face, une foule de 
+                  <pb type="page" n="52"/> au poing, prouve qu'on a ici affaire à des personnages d'importance. En face, une foule de 
                   gens pauvrement vêtus de costumes divers, et aux visages
                   exprimant l'émotion, lèvent la main droite, dans l'attitude du serment. </p>
                <p>— Eh ! murmura <persName type="fictif" key="ludivine">Ludivine</persName>, les yeux très écarquillés*
@@ -794,7 +869,7 @@
                      <caption><placeName>Hôtel de ville de Saint-Quentin</placeName>.</caption>
                   </figure>
                   <fw type="header">LA CHARTE DU COMTE HERBERT. 53</fw>
-                  <pb type="page" n="53" /> 
+                  <pb type="page" n="53"/> 
                   pour être habillés comme ça, c'est au moins des gens de l'<placeName>Amérique</placeName> !</p>
                <p>Elle dit l'<placeName>Amérique</placeName> comme elle eût dit la lune.</p>
                <p>M. <persName type="fictif" key="lejoly">Florentin Lejoly</persName> ricana de nouveau. Les pouces dans les entournures 
@@ -828,7 +903,7 @@
                         (XVe et XVIe siècle).</caption>
                   </figure>
                   <fw type="header">54 SUZETTE.</fw>
-                  <pb type="page" n="54" /> fondée par la sœur du <persName type="historique">comte Herbert IV</persName>, 
+                  <pb type="page" n="54"/> fondée par la sœur du <persName type="historique">comte Herbert IV</persName>, 
                   <persName type="historique">Adèle de Vermandois</persName>. L'église, le beffroi, l'hôtel de ville, c'étaient les
                   monuments dont s'enorgueillissait le
                   moyen âge. </p>
@@ -855,7 +930,7 @@
                </list>
             </div2>
             <fw type="header">LA CHARTE DU COMTE HERBERT. 55</fw>
-            <pb type="page" n="55" />
+            <pb type="page" n="55"/>
             <div2 type="exercices">
                <head>DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES.</head>
                <div3 type="instruction_civique">
@@ -924,7 +999,7 @@
                         les gravures pour les préserver des effets du contact de l'air.</p>
                      <p>(1) <term>Oxyde de plomb</term>, corps gris noirâtre qui se forme à la surface du plomb exposé à l'air. 
                         Tous les oxydes de plomb sont de violents poisons.</p>
-                     <pb type="page" n="56" />
+                     <pb type="page" n="56"/>
                      <fw type="header">56 SUZETTE.</fw>
                      <p><term>Les vitraux</term> sont des clôtures de fenêtres formées de petits morceaux de verre de différentes couleurs qui représentent soit des personnages, soit des animaux, des
                         plantes, ou qui offrent des combinaisons de lignes. Ils font le plus bel ornement des édifices religieux, et l'on commence à les adopter dans les appartements. Les plus anciens
@@ -974,14 +1049,14 @@
          </div1>
          <div1 type="chapitre" xml:lang="fr" n="ch016">
             <head type="chapter">16. — Hésitations. (Élève, p. 40.)</head>
-            <pb type="page" n="56" />
+            <pb type="page" n="56"/>
             <div2 type="récit">
                <p>Que c'était beau sur la place ! les rangées de tentes de toile grise ou blanche, ornées de lambrequins* 
                   <gloss>Lambrequin. Ornement qui pend aux contours d'un objet.</gloss> de toute
                   couleur flottant au vent ; des drapeaux, du bruit, de la musique ! </p>
                <p>Et quelle agréable odeur de gaufres ! les spacieuses
                   <fw type="header">HÉSITATIONS. 57</fw>
-                  <pb type="page" n="57" />
+                  <pb type="page" n="57"/>
                   narines de <persName key="françois" type="fictif">François</persName> étaient à une grande fête ;
                   quelques bons morceaux de la pâtisserie dorée passèrent
                   immédiatement par sa bouche, tout aussi affriandée* <gloss>Affriandé. Attiré par quelque chose d'agréable.</gloss>.</p>
@@ -997,7 +1072,7 @@
                      <caption>Que c'était beau sur la place !</caption>
                   </figure>
                   <fw type="header">58 SUZETTE.</fw>
-                  <pb type="page" n="58" /> aperçurent tout à coup des ribambelles de souliers à cheval sur de longues ficelles très 
+                  <pb type="page" n="58"/> aperçurent tout à coup des ribambelles de souliers à cheval sur de longues ficelles très 
                   tendues :</p>
                <p>
                   <hi rend="italic">« A la chaussure du Juif-Errant! * <gloss>Juif-Errant. Personnage qu'une légende représente comme 
@@ -1032,7 +1107,7 @@
                         <placeName>Seine-Inférieure</placeName>.</caption>
                   </figure>
                   <fw type="header">HÉSITATIONS. 59</fw>
-                  <pb type="page" n="59" /> encore son boniment* <gloss>Boniment, Annonce de charlatan.</gloss> :
+                  <pb type="page" n="59"/> encore son boniment* <gloss>Boniment, Annonce de charlatan.</gloss> :
                   « Inusable, inusable! la chaussure du Juif-Errant ! »</p>
                <p>Maintenant il ne s'agissait plus que de la robe : bleue ? verte ? rouge ? orange ? jaune ? violette ? ou même 
                   de toutes ces couleurs à la fois ? Et l'étoffe ? s'il vous plaît : laine ? coton ?
@@ -1117,7 +1192,7 @@
                         <item>—LE CUIR.</item>
                         <item>— Comment prépare-t-on le cuir ?</item>
                         <fw type="header">60 SUZETTE.</fw>
-                        <pb type="page" n="60" />
+                        <pb type="page" n="60"/>
                         <item>— Quelles peaux tanne-t-on ? </item>
                         <item>— A quels usages applique-t-on : 1° les peaux des bœufs et des vaches ;</item>
                         <item>— 2° des chevaux ;</item>
@@ -1177,7 +1252,7 @@
             </div2>
          </div1>
          <div1 type="chapitre" n="017">
-            <pb type="page" n="61" />
+            <pb type="page" n="61"/>
             <head>17. — Tout laine. (Élève, p. 43.)</head>
             <div2 type="récit">
                <p>Tout à coup elle se sentit attrapée par la manche, en même temps qu'une voix très caressante lui disait : </p>
@@ -1199,7 +1274,7 @@
                <figure>
                   <caption>Voilà la nouveauté de la saison.</caption>
                </figure>
-               <pb type="page" n="62" />
+               <pb type="page" n="62"/>
                <fw type="header">62 SUZETTE.</fw>
                <p>Assez embarrassée, <persName type="fictif" key="suzette">Suzette</persName> regarda autour d'elle. Ses trois frères étaient en ce moment à quatre pas occupés par les
                      lazzi*<gloss>Lazzi. Gestes et propos plaisants.</gloss> d'un paillasse faisant la parade*<gloss>Parade. Scène burlesque qu'on donne à la porte des théâtres forains.</gloss> ; et
@@ -1248,7 +1323,7 @@
                         <item>— Citez une fable où il est question d'un flatteur.</item>
                      </list>
                   </div4>
-                  <pb type="page" n="63" />
+                  <pb type="page" n="63"/>
                   <fw type="header">TOUT LAINE. 63</fw>
                   <div4 type="réponses">
                      <p><term>Flatter</term>, c'est donner à quelqu'un des louanges excessives dans le but de lui plaire et d'en obtenir quelque avantage. Le flatteur est celui qui se fait une
@@ -1287,15 +1362,14 @@
                         entonnoirs de fer-blanc sur un autre machine appelée <term>la peigneuse</term>.</p>
                      <p>Au sortir de la peigneuse, la laine apparaît sous la forme de longues mèches qui se rendent sur un cylindre recouvert d'une étoffe épaisse, et elles s'y joignent bout à bout. A
                         la filature, ces mèches, amincies, étirées lentement, se transforment en fils blancs qui s'enroulent autour de bobines et sont propres alors à être tricotés ou tissés.</p>
-                     <p>La meilleure laine provient des moutons <term>mérinos</term>. Cette race, originaire d'<placeName>Espagne</placeName>, est perfectionnée et améliorée dans la magnifique bergerie de <placeName>Rambouillet</placeName>. On estime à 6 ou 700,000 le nombre des mérinos de race pure en <placeName
-                           type="réel">France</placeName>.</p>
+                     <p>La meilleure laine provient des moutons <term>mérinos</term>. Cette race, originaire d'<placeName>Espagne</placeName>, est perfectionnée et améliorée dans la magnifique bergerie de <placeName>Rambouillet</placeName>. On estime à 6 ou 700,000 le nombre des mérinos de race pure en <placeName type="réel">France</placeName>.</p>
                      <p><term>Les moutons</term> sont des animaux domestiques qu'on élève pour leur chair et leur laine ; durant le jour on les conduit au pâturage et, pendant la nuit, on les abrite
                         dans de grands bâtiments connus sous le nom de <term>bergeries</term>. Ils y séjournent également lorsque le temps est pluvieux.</p>
                      <p>La nourriture des moutons se compose de l'herbe des champs et de celle qui croit spontanément sur les friches et sur les bords des chemins. En toute saison, on y ajoute de la
                         paille, du foin et, parfois, des feuilles d'arbres.</p>
                      <p>(Pour les étoffes tissées de laine, voir le lexique de la 16e leçon.)</p>
                   </div4>
-                  <pb type="page" n="64" />
+                  <pb type="page" n="64"/>
                   <fw type="header">64 SUZETTE.</fw>
                   <div4 type="questions">
                      <list>
@@ -1313,8 +1387,7 @@
                      <p><term>Le coton</term> est la bourre qui enveloppe les graines d'un arbre appelé cotonnier ; elle s'échappe des gousses sous forme de flocons blancs, dont la ouate nous donne
                         l'idée. Nous tirons cette matière textile des <placeName>États-Unis</placeName>, de
                            l'<placeName>Égypte</placeName>, de l'<placeName>Hindoustan</placeName>, de l'<placeName>Algérie</placeName>, où on la cultive dans de vastes
-                        plantations. Lorsque le coton est recueilli, on l'amasse en balles qui, fortement pressées et cousues, sont expédiées en <placeName><bloc ref="europe"
-                           >Europe</bloc></placeName>, où ce produit est employé à la confection de nombre d'étoffes : calicot, mousseline, indienne, jaconas, velours, dentelle, bonneterie, etc.</p>
+                        plantations. Lorsque le coton est recueilli, on l'amasse en balles qui, fortement pressées et cousues, sont expédiées en <placeName><bloc ref="europe">Europe</bloc></placeName>, où ce produit est employé à la confection de nombre d'étoffes : calicot, mousseline, indienne, jaconas, velours, dentelle, bonneterie, etc.</p>
                      <p>L'industrie du coton occupe en <placeName><bloc ref="europe">Europe</bloc></placeName> plus de cinq millions d'hommes. Les étoffes qu'on en tire sont légères,
                         chaudes, mais d'une résistance inférieure à celle du chanvre ou du lin ; leur extrême bon marché en rend l'usage général.</p>
                   </div4>
@@ -1329,7 +1402,7 @@
                   </div4>
                   <div4 type="réponses">
                      <p>Les villes de <placeName>France</placeName> où l'on fabriques des draps et d'autres étoffes de laine sont
-                        : <placeName>Elbeuf</placeName>, <placeName>Louviers</placeName>, <placeName>Sedan</placeName>, <placeName>Mazamet</placeName>, <placeName>Castres</placeName>, <placeName>Roubaix</placeName>, <placeName>Tourcoing</placeName>, <placeName>Amiens</placeName>, <placeName>Troyes</placeName>, <placeName>Lodève</placeName>, <placeName>>Rethel</placeName>, <placeName>Privas</placeName>, <placeName>Carcassonne</placeName>, <placeName>Orléans</placeName>, <placeName>Tours</placeName>, <placeName>Beauvais</placeName>, <placeName>Aubusson</placeName>, <placeName>Puteaux</placeName>.</p>
+                        : <placeName>Elbeuf</placeName>, <placeName>Louviers</placeName>, <placeName>Sedan</placeName>, <placeName>Mazamet</placeName>, <placeName>Castres</placeName>, <placeName>Roubaix</placeName>, <placeName>Tourcoing</placeName>, <placeName>Amiens</placeName>, <placeName>Troyes</placeName>, <placeName>Lodève</placeName>, <placeName>&amp;gt;Rethel</placeName>, <placeName>Privas</placeName>, <placeName>Carcassonne</placeName>, <placeName>Orléans</placeName>, <placeName>Tours</placeName>, <placeName>Beauvais</placeName>, <placeName>Aubusson</placeName>, <placeName>Puteaux</placeName>.</p>
                      <p>Les villes où se développe l'industrie du coton sont : <placeName>Rouen</placeName> et les localités environnantes, <placeName>Reims</placeName>, <placeName>Chantilly</placeName>, <placeName>Saint-Omer</placeName>, <placeName>Arras</placeName>, <placeName>Armentières</placeName>, <placeName>Épinal</placeName> et toute la vallée de la <geogFeat type="rivière">Moselle</geogFeat>, <placeName>Lavaur</placeName>, <placeName>Valence</placeName>, <placeName>Grenoble</placeName>, <placeName>Le
                               Puy</placeName>, <placeName>Roanne</placeName>, <placeName>Laval</placeName>, <placeName>Cholet</placeName>, <placeName>Le
                                  Mans</placeName>, <placeName>Angers</placeName>, <placeName>Condé-sur-
@@ -1339,7 +1412,7 @@
             </div2>
          </div1>
          <div1 type="chapitre" xml:lang="fr" n="ch018">
-            <pb type="page" n="64" />
+            <pb type="page" n="64"/>
             <head type="chapter">18. — Laine et coton. (Élève, p. 45.)</head>
             <div2 type="récit">
                <p>Le soir même, après la rentrée au village, au bruit des trompettes de deux sous dont sonnaient ses deux jeunes frères, <persName type="fictif" key="suzette">Suzette</persName> alla
@@ -1348,7 +1421,7 @@
                <p><persName type="fictif" key="mme_valon">Mme Valon</persName> ayant examiné l’étoffe et parfilé*<gloss>Parfiler. Défaire un tissue fil à fil.</gloss> plusieurs fils de la
                      trame*<gloss>Trame. Fil conduit par la navette entre les fils qui constituent la chaine d'une étoffe.</gloss> et de la chaîne*<gloss>Chaîne. Les fils tendus sur les deux rouleaux
                      de gauche et de droite d'un métier.</gloss>, fit une petite moue peu rassurante.</p>
-               <pb type="page" n="65" />
+               <pb type="page" n="65"/>
                <fw>LAINE ET COTON. 65</fw>
                <p>Puis elle alluma une bougie, en approcha un fil ; le fil commença de brûler avec une petite flamme courte, laissant après elle une cendre compacte*<gloss>Compact. Qui est épais et
                      serré.</gloss> et grasse ; en même temps, une légère odeur de roussi particulière et connue se dégagea. Quatre autres fils, éprouvés de même, donnèrent la même flamme, la même
@@ -1366,7 +1439,7 @@
                <figure>
                   <caption>Le métier à tisser.</caption>
                </figure>
-               <pb type="page" n="66" />
+               <pb type="page" n="66"/>
                <fw>66 SUZETTE.</fw>
                <p>— Trois francs, hélas ! oui, <persName type="fictif" key="mme_valon">Madame</persName>, trois francs ! Il n'y avait ni sergé ni bleu marine.
                   <orgName>Les Parisiennes</orgName> n'en
@@ -1398,7 +1471,7 @@
                         joli papillon. C'est avec les fils provenant du cocon dévidé que se fabriquent les étoffes de soie, robes, 
                         rubans, velours. C'est à <placeName>Lyon</placeName> que se trouvent les plus grandes fabriques de soieries.</caption>
                   </figure>
-                  <pb type="page" n="67" />
+                  <pb type="page" n="67"/>
                   <fw>LAINE ET COTON. 67</fw> transférée à <placeName>Saint-Denis</placeName> par <persName type="historique">Charles le
                   Chauve</persName>.</p>
                <p><placeName>Beaucaire</placeName>, <placeName>Provins</placeName>, <placeName>Troyes</placeName>, <placeName>Saint-Quentin</placeName>, « ville drapante », appelaient à elles tous les acheteurs
@@ -1421,7 +1494,7 @@
                   <item>— Qu'eu conclut-elle ? </item>
                   <item>— Que dit <persName type="fictif" key="suzette">Suzette</persName> pour expliquer son achat ? </item>
                   <item>— Pourquoi pleura-t-elle ensuite ? </item>
-                  <item>— Est-il prudent d'a-<cb />cheter aux foires l'étoffe des robes ? </item>
+                  <item>— Est-il prudent d'a-<cb/>cheter aux foires l'étoffe des robes ? </item>
                   <item>— Pour quel motif ? </item>
                   <item>— Que savez-vous des anciennes foires ? </item>
                   <item>— Qu'est-ce qui en explique l'importance ? </item>
@@ -1465,7 +1538,7 @@
                         <item>EXEMPLE. — <persName type="fictif" key="suzette">Suzette</persName>, n. pr. fém, sing. — <placeName>Reims</placeName>, n. pr, masc. sing.</item>
                      </list>
                   </div4>
-                  <pb type="page" n="68" />
+                  <pb type="page" n="68"/>
                   <fw>68 SUZETTE.</fw>
                   <div4 type="réponses" ana="#français">
                      <p>N. B. — Cet exercice sera fait oralement, de préférence. Il donne un spécimen des sujets
@@ -1546,7 +1619,7 @@
                         rubans.</p>
                      <p>Le mètre de satin coûte... ; celui de faille....., etc.</p>
                      <p>Ces étoffes servent à confectionner les robes, les rideaux, les chapeaux, les écharpes, les drapeaux, les bannières, les bas ; on en recouvre
-                        les <pb type="page" n="69" />
+                        les <pb type="page" n="69"/>
                         <fw>OU IRA JACQUES ? 69</fw>
                         parapluies et les ombrelles. En général, elles ont un brillant très doux à l'œil ; mais elles se coupent et se
                         graissent facilement par l'usage.</p>
@@ -1572,7 +1645,7 @@
             </div2>
          </div1>
          <div1 type="chapitre" xml:lang="fr" n="ch019">
-            <pb type="page" n="69" />
+            <pb type="page" n="69"/>
             <head>19. — Où ira Jacques ? (Élève, p. 48.)</head>
             <div2 type="récit">
                <p>Quand <persName key="suzette" type="fictif">Suzette</persName> rentra à la maison, avec son chagrin, on n'eut pas trop le temps de la
@@ -1604,7 +1677,7 @@
                   <gloss>Citoyen envoyé par ses concitoyens dans une
                      assemblée où se discutent les choses qui intéressent la nation.</gloss>...</p>
                <p>Et ce beau spectacle de M. <persName type="fictif" key="jacques">Jacques</persName> comptant au village et à la ville pour un personnage considérable ne blessait pas trop M. <persName type="fictif" key="jacques">Jacques</persName>lui-même, ni sa sœur, Mme <persName type="fictif" key="suzette">Suzette</persName>.</p>
-               <pb type="page" n="70" />
+               <pb type="page" n="70"/>
                <fw>70 SUZETTE.</fw>
                <p>Mais le petit orgueil familial ne tint pas trois minutes devant le bon sens aussitôt évoqué *<gloss>Evoquer. Faire apparaître.</gloss> par ces
                   paroles de <persName type="fictif" key="m_valon">M. Valon</persName> qui revinrent à
@@ -1664,7 +1737,7 @@
                         toilette, constituerait seulement un régime de vie
                         qu'on pût avouer.</p>
                      <p>Évitons ces travers d'esprit égoïstes et ridicules et honorons les professions manuelles.</p>
-                     <pb type="page" n="71" />
+                     <pb type="page" n="71"/>
                      <fw>OU IRA JACQUES ? 71</fw>
                      <p>L'agriculteur donne le pain quotidien ; au maçon nous devons les maisons ; aux couturières, nos vêtements ; aux cuisinières,
                         les aliments qui entretiennent la vie ; etc., etc.
@@ -1718,7 +1791,7 @@
                         autant de jours pour arriver au destinataire qu'elle a
                         employé d'heures. Cela suffit pour montrer les avantages de l'institution du service des postes.</p>
                      <p>(Voir sur un calendrier postal ce qu'il en est des diverses catégories de lettres, et effectuer 
-                        cette recherche en présence des enfants, pour <pb type="page" n="72" />
+                        cette recherche en présence des enfants, pour <pb type="page" n="72"/>
                         <fw>72 SUZETTE.</fw>
                         qu'au besoin ils sachent où sont les renseignements de ce genre.)</p>
                   </div4>
@@ -1740,7 +1813,7 @@
          </div1>
          <div1 type="chapitre" xml:lang="fr" n="ch020">
             <head type="chapter">20. — La veille du départ. (Élève, p. 50.)</head>
-            <pb type="page" n="72" />
+            <pb type="page" n="72"/>
             <div2 type="récit">
                <p>Comme une bonne petite mère attentive et tendre, <persName type="fictif" key="suzette">Suzette</persName> 
                   prépara le trousseau *<gloss>Trousseau. Habits et linge qu'on donne à une jeune fille en se mariant, ou à un enfant qui va en
@@ -1767,7 +1840,7 @@
                <p>— Eh bien ! mes enfants, avant ce départ de <persName type="fictif" key="jacques">Jacques</persName> notre première séparation
                   depuis que votre pauvre</p>
                <fw type="header">LA VEILLE DU DÉPART. 73</fw>
-               <pb type="page" n="73" />
+               <pb type="page" n="73"/>
                <p>mère, nous a quittés, je voudrais aller avec vous sur sa tombe.</p>
                <p><persName type="fictif" key="suzette">Suzette</persName> appela Charlot et François qui jouaient au jardin et y cueillit un
                   bouquet des plus belles pensées.</p>
@@ -1788,7 +1861,7 @@
                </figure>
                <fw type="footer">Suzette (Maîtresse) <fw type="sig">5</fw></fw>
                <fw type="header">74 SUZETTE. </fw>
-               <pb type="page" n="74" />
+               <pb type="page" n="74"/>
                <p>pensé qu'au moment où tu vas nous quitter, entrer dans une vie nouvelle, dans une liberté plus grande de tes actions, oui, j'ai 
                   pensé qu'il était bon que tu entendisses ici, sur
                   cette tombe, et comme de ta mère elle-même, ces paroles qu'elle prononça sur ton berceau. Emporte-les, mon fils ; qu'elles soient
@@ -1856,7 +1929,7 @@
                   </div4>
                </div3>
                <fw type="header">UNE LETTRE DE JACQUES. 75 </fw>
-               <pb type="paged" n="75" />
+               <pb type="paged" n="75"/>
                <div3 type="industrie">
                   <head type="sujets">Industrie.</head>
                   <div4 type="questions">
