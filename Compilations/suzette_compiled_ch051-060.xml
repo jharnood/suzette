@@ -74,19 +74,19 @@
    <text>
       <body>
          <div1 type="chapitre" xml:lang="fr" n="ch051">
-            <head>51. — Au gui*<gloss> Gui. Plante qui croit sur divers arbres, tels que pommiers, peupliers. </gloss> l'an neuf ! (Élève, p. 111.)</head>
+            <head>51. — Au gui*<note type="annotation"> Gui. Plante qui croit sur divers arbres, tels que pommiers, peupliers. </note> l'an neuf ! (Élève, p. 111.)</head>
             <div2 type="récit">
                <p>La maison était en grande tenue de bas en haut, jusqu'à la girouette toute neuve, en forme de moulin à vent, l'œuvre de <persName type="fictif" key="françois"
                   >François</persName>. Ce jour de premier de l'an, elle indiquait le nord dune façon fort décidée.</p>
-               <p>L'air, très froid, semblait fait d'invisibles aiguilles ; le givre habillait de blanc les arbres du jardin, à peine voilé d'une buée*<gloss> Buée. Vapeur blanchâtre très légère.
-               </gloss> légère.</p>
+               <p>L'air, très froid, semblait fait d'invisibles aiguilles ; le givre habillait de blanc les arbres du jardin, à peine voilé d'une buée*<note type="annotation"> Buée. Vapeur blanchâtre très légère.
+               </note> légère.</p>
                <p>D'un des arbres, un petit rouge-gorge depuis un moment avançait sa jolie tête, guettant de ses yeux perlés, à droite, à gauche, devant, derrière. Il prit bientôt son vol jusqu à
                   la fenêtre, sachant bien que la <pb type="page" n="178" />
-                  <fw>178 SUZETTE.</fw> manne*<gloss> Manne. Ici, nourriture, qu'on a seulement la peine de recueillir. </gloss>, si rare aux oiseaux par ce temps d'hiver, se trouvait là assez
+                  <fw>178 SUZETTE.</fw> manne*<note type="annotation"> Manne. Ici, nourriture, qu'on a seulement la peine de recueillir. </note>, si rare aux oiseaux par ce temps d'hiver, se trouvait là assez
                   souvent. C'était le premier invité. </p>
                <p>Presque aussitôt la porte s'ouvrit, et la face de <persName type="fictif" key="françois">François</persName>, suivie de celle de <persName type="fictif" key="charlot"
                   >Charlot</persName>, se montra. Toutes deux luisaient de bon savonnage au-dessus d'une belle cravate cerise en nœud à coques. Les chemises bien blanches, les vestes et les
-                  pantalons parfaitement brossés, tout cela annonçait le grand gala*<gloss> Gala. Grand repas. </gloss>.</p>
+                  pantalons parfaitement brossés, tout cela annonçait le grand gala*<note type="annotation"> Gala. Grand repas. </note>.</p>
                <p>Comme le petit oiseau de tout à l'heure, les deux frères regardèrent à droite, à gauche, puis encore à droite, puis encore à gauche, et enfin ils s'écrièrent :</p>
                <p>— Les voilà ! les voilà !</p>
                <figure>
@@ -105,9 +105,9 @@
                <p> — Salut, ami <persName type="fictif" key="jacques">Jacques</persName> !.. Et <persName type="fictif" key="suzette">Suzette</persName> ? où est <persName type="fictif"
                   key="suzette">Suzette</persName> ?</p>
                <p>Allez la chercher par là d'où vient une si bonne, si <pb type="page" n="179" />
-                  <fw>AU GUI L'AN NEUF ! 179</fw> accueillante odeur de bouillon savamment mené*<gloss> Mené. Dirigé, conduit. </gloss> et de viande rôtie !</p>
+                  <fw>AU GUI L'AN NEUF ! 179</fw> accueillante odeur de bouillon savamment mené*<note type="annotation"> Mené. Dirigé, conduit. </note> et de viande rôtie !</p>
                <p>On se presse dans la jolie salle où, pour la circonstance, le couvert est mis. La table est en bois blanc, et cela se voit, car il n'y a pas de nappe. Mais une chanson le dit :
-                  « On peut bien manger sans nappe », surtout si quelque main pleine de goût a suppléé*<gloss> Suppléer. Ajouter ce qui manque. </gloss> à ce petit luxe par un autre aussi joli,
+                  « On peut bien manger sans nappe », surtout si quelque main pleine de goût a suppléé*<note type="annotation"> Suppléer. Ajouter ce qui manque. </note> à ce petit luxe par un autre aussi joli,
                   sinon plus. Près de chaque <figure>
                      <caption>Branche de houx. Le houx est volontiers recherché pour l'ornement des bosquets.</caption>
                   </figure>
@@ -244,8 +244,8 @@
                   <persName type="fictif" key="suzette">Suzette</persName>, comment le fais-tu ?... <persName type="fictif" key="lisa">Lisa</persName>, ma fille, écoute bien ce qu'on va
                   dire.</p>
                <p><persName type="fictif" key="suzette">Suzette</persName> dit bonnement, pour la vingtième fois, qu'elle faisait le pot-au-feu comme tout le monde, avec les
-                  ingrédients*<gloss>Ingrédients. Choses qui entrent dans la composition d'un mets.</gloss> ordinaires de viande, de légumes et de sel; mais qu'elle veillait à n'amener que
-                  lentement l'ébullition*<gloss>Ebullition. Action de bouillir.</gloss>, puis à la maintenir égale jusqu'au bout.</p>
+                  ingrédients*<note type="annotation">Ingrédients. Choses qui entrent dans la composition d'un mets.</note> ordinaires de viande, de légumes et de sel; mais qu'elle veillait à n'amener que
+                  lentement l'ébullition*<note type="annotation">Ebullition. Action de bouillir.</note>, puis à la maintenir égale jusqu'au bout.</p>
                <fw type="footer">SUZETTE (Maîtresse). <fw type="sig">11</fw></fw>
                <pb type="page" n="182" />
                <fw>182 SUZETTE.</fw>
@@ -254,20 +254,20 @@
                      sel est indispensable pour assaisonner les aliments.</caption>
                </figure> linotte ; dès le troisième mot, elle était déjà loin de la question.</p>
                <p>Il y a des gens ainsi construits ; les facultés capitales d'écouter et de regarder, facultés sans lesquelles l'homme passe en cette vie comme un animal, et un animal très
-                  inférieur*<gloss>Animal inférieur. De peu d'intelligence ; au-dessous des autres.</gloss>, semblent leur manquer, quoiqu'ils aient des oreilles et des yeux. Rien ne les
+                  inférieur*<note type="annotation">Animal inférieur. De peu d'intelligence ; au-dessous des autres.</note>, semblent leur manquer, quoiqu'ils aient des oreilles et des yeux. Rien ne les
                   arrête, rien ne les touche. Ils sont sans désir d'être agréables, non pas seulement à leur prochain, mais encore à eux-mêmes, par un peu d'effort à faire. Et c'est pourquoi on
                   ne mangeait jamais rien d'honnêtement préparé chez la voisine <persName type="fictif" key="ludivine">Ludivine</persName>.</p>
                <figure>
                   <caption>Le persil, plante potagère, sert en cuisine pour donner du goût à certains plats.</caption>
                </figure>
-               <p>Après la soupe vint le bouilli, couronné de persil, flanqué*<gloss>Flanquer. Placer à côté, entourer.</gloss> de légumes joliment arrangés tout autour.</p>
+               <p>Après la soupe vint le bouilli, couronné de persil, flanqué*<note type="annotation">Flanquer. Placer à côté, entourer.</note> de légumes joliment arrangés tout autour.</p>
                <p>Le vieux père <persName type="fictif" key="benoît">Benoît</persName> mangeait à fond comme tout bon paysan à la fête, mais il ne louait pas. <persName type="fictif"
                   key="vincent">Vincent</persName>
                   <pb type="page" n="183" />
                   <fw>A TABLE. 183 </fw> riait au plat ; <persName type="fictif" key="ludivine">Ludivine</persName> aussi était contente et, après avoir bu un coup de bière, elle exprima sa
                   satisfaction : </p>
-               <p>— Oui, c'est à croire que l'incendie de votre maison, en grillant ici bien des choses, a grillé également votre mauvais sort*<gloss>Sort. Mat dû à des influences malfaisantes,
-                  d'après les gens ignorants.</gloss> ; car, depuis, tout vous est prospère, les semailles, les récoltes, la basse-cour, et les samedis au marché de la ville. <persName
+               <p>— Oui, c'est à croire que l'incendie de votre maison, en grillant ici bien des choses, a grillé également votre mauvais sort*<note type="annotation">Sort. Mat dû à des influences malfaisantes,
+                  d'après les gens ignorants.</note> ; car, depuis, tout vous est prospère, les semailles, les récoltes, la basse-cour, et les samedis au marché de la ville. <persName
                      type="fictif" key="françois">François</persName> lui-même n'attrape plus de mauvais coups, et se passe de mon onguent.</p>
                <p>— Ne parlez pas d'onguent ! s'écria <persName type="fictif" key="françois">François</persName>, vous m'empècheriez de dîner.</p>
             </div2>
@@ -407,8 +407,8 @@
             <div2 type="récit">
                <p>Rien n'avait pu tirer de l'esprit de <persName type="fictif" key="ludivine">Ludivine</persName> que la guérison du nez de <persName type="fictif" key="françois"
                   >François</persName> n'eût été l'effet de cet onguent, à l'odeur effroyable. Rien non plus ne par vint à lui mettre en tête qu'il n'existe pas de sort, bon ou mauvais.
-                  <persName type="fictif" key="mme_valon">Mme Valon</persName> lui dit en vain que le travail, le courage, l'honnêteté, la bonté, font surtout notre destinée*<gloss>Destinée.
-                     Ce mot est pris ici dans le sens de ce qu'est la vie.</gloss> ; elle abandonna l'inutile discours à l'apparition du rôti porté par <persName type="fictif" key="suzette"
+                  <persName type="fictif" key="mme_valon">Mme Valon</persName> lui dit en vain que le travail, le courage, l'honnêteté, la bonté, font surtout notre destinée*<note type="annotation">Destinée.
+                     Ce mot est pris ici dans le sens de ce qu'est la vie.</note> ; elle abandonna l'inutile discours à l'apparition du rôti porté par <persName type="fictif" key="suzette"
                         >Suzette</persName>. Ce rôti était un morceau de filet de porc, mais si doré, si joli, si odorant, si appétissant, que l'eau en venait à la bouche. Et dès que les morceaux
                   furent au bout des fourchettes, on félicita la cuisinière. <figure>
                      <caption> Le porc est un des animaux les plus utiles pour l'alimentation. Les soies du porc servent à confectionner des brosses fines et des pinceaux.</caption>
@@ -419,8 +419,8 @@
                   <fw>186 SUZETTE.</fw> — Beaucoup trop ! beaucoup trop ! répondit le père <persName type="fictif" key="benoît">Benoît</persName>. Voulez-vous que je vous dise ? je trouve qu'à
                   cette heure on fait bien des embarras pour rôtir un morceau de cochon. — Des embarras ! dit <persName type="fictif" key="mme_valon">Mme Valon</persName> ; mais on en faisait
                   jadis cent et mille fois plus pour rôtir seulement un petit cochon de lait ! Voulez-vous l'apprendre ? Mon mari va vous dire après dîner ce qu'il lisait hier dans un auteur
-                  anglais, <persName type="historique">Charles Lamb</persName>. Pour la digestion*<gloss>Digestion. Fonction de la vie par laquelle les aliments réparent les pertes du
-                     corps.</gloss>, d'ailleurs, rien ne vaut une bonne histoire. Le rôti, les légumes, les flans*<gloss>Flan. Tarte faite avec de la crème.</gloss> mangés, et le café servi,
+                  anglais, <persName type="historique">Charles Lamb</persName>. Pour la digestion*<note type="annotation">Digestion. Fonction de la vie par laquelle les aliments réparent les pertes du
+                     corps.</note>, d'ailleurs, rien ne vaut une bonne histoire. Le rôti, les légumes, les flans*<note type="annotation">Flan. Tarte faite avec de la crème.</note> mangés, et le café servi,
                   <persName type="fictif" key="m_valon">M. Valon</persName> commença : </p>
             </div2>
             <div2 type="questionnaire">
@@ -516,16 +516,16 @@
             <head>54. — Petits cochons de lait. (Élève, p. 117.)</head>
             <pb type="page" n="187" />
             <div2 type="récit">
-               <p>Un jour, dans les vieux temps, le porcher <persName type="fictif">Ho-ti</persName>, étant allé au bois ramasser la glandée*<gloss>Glandée. Les glands tombés sur le sol.</gloss>, laissa la garde de la maison à son
+               <p>Un jour, dans les vieux temps, le porcher <persName type="fictif">Ho-ti</persName>, étant allé au bois ramasser la glandée*<note type="annotation">Glandée. Les glands tombés sur le sol.</note>, laissa la garde de la maison à son
                   fils <persName type="fictif">Bo-ba</persName>, un grand dadais, dont le pre- <pb type="page" n="188" />
                   <fw>188 SUZETTE.</fw> mier soin fut de mettre le feu à une botte de paille, grâce à laquelle l'habitation flamba en un clin d'œil. — Ici, M. <persName type="fictif"
-                     key="françois">François</persName> baissa la tête. — L'étable à côté flamba aussi. Il s'y trouvait juste en ce moment toute une portée*<gloss>Portée. L'ensemble des petits
-                        d'une truie.</gloss> de petits cochons de lait*<gloss>Cochon de lait. Cochon qui tette encore sa mère.</gloss> nouveau-nés. Leur maman, heureusement pour elle, faisait en
+                     key="françois">François</persName> baissa la tête. — L'étable à côté flamba aussi. Il s'y trouvait juste en ce moment toute une portée*<note type="annotation">Portée. L'ensemble des petits
+                        d'une truie.</note> de petits cochons de lait*<note type="annotation">Cochon de lait. Cochon qui tette encore sa mère.</note> nouveau-nés. Leur maman, heureusement pour elle, faisait en
                   ce moment une promenade matinale aux environs. </p>
                <p><persName type="fictif">Bo-ba</persName> se désola, non pour la maison qui ne se composait que de quelques branches de bois mort, mais pour les pauvres petits cochons qui gémissaient en grillant. Quand ces
                   innocents eurent cessé de se plaindre, il s'approcha, attiré d'ailleurs vers eux par une odeur délicieuse, toute nouvelle à ses narines.</p>
-               <p>Il se pencha pour voir s'ils étaient aussi morts qu'ils en avaient l'air, et du doigt en tâta un : Aïe ! cela brûlait !... Vivement, selon l'instinct*<gloss>Instinct.
-                  Disposition naturelle qui fait agir sans qu'il y ait reflexion.</gloss> de nature, il fourra son doigt dans sa bouche.</p>
+               <p>Il se pencha pour voir s'ils étaient aussi morts qu'ils en avaient l'air, et du doigt en tâta un : Aïe ! cela brûlait !... Vivement, selon l'instinct*<note type="annotation">Instinct.
+                  Disposition naturelle qui fait agir sans qu'il y ait reflexion.</note> de nature, il fourra son doigt dans sa bouche.</p>
                <p>Quelques bribes de peau étaient restées au bout de ce doigt, et pour la première fois de sa vie et de la vie de toute la <placeName>Chine</placeName> — car <persName type="fictif">Bo-ba</persName> était Chinois et le fait se passait en <placeName>Chine</placeName>, où, de temps immémorial, on ne mangeait le cochon que bouilli, — la bonté, la bonne odeur du rôti lui furent révélées.</p>
                <p><persName type="fictif">Bo-ba</persName> reporta bientôt son doigt à l'endroit d'où il venait, regoûta, et dès que la température des petits martyrs le permit, il y mit toute la main, puis les deux. — Ah ! quelle
                   bombance ! </p>
@@ -540,13 +540,13 @@
                <fw>PETITS COCHONS DE LAIT. 189</fw>
                <p>Le soir même, ils avaient, du bois de quelques fagots, reconstruit leur hutte, l'étable aussi, où rentra la mère des pauvres victimes.</p>
                <p>Et après chaque portée de petits cochons de lait, la hutte, l'étable flambaient à plaisir ; on incendiait et on se régalait entre père et fils.</p>
-               <p>À la fin, ces incendies réitérés*<gloss>Réitéré. Qui se reproduit de nouveau.</gloss>, dont ils n'avaient garde de dire le mot, les rendirent suspects ; on les accusa de
-                  sorcellerie*<gloss>Sorcellerie. Art prétendu de jeter ou d'enlever des sorts (Voir no 52).</gloss>. Ils comparurent devant le tribunal de <placeName>Pékin</placeName>, et peu s'en fallut qu'ils ne fussent rôtis aussi comme les petits
+               <p>À la fin, ces incendies réitérés*<note type="annotation">Réitéré. Qui se reproduit de nouveau.</note>, dont ils n'avaient garde de dire le mot, les rendirent suspects ; on les accusa de
+                  sorcellerie*<note type="annotation">Sorcellerie. Art prétendu de jeter ou d'enlever des sorts (Voir no 52).</note>. Ils comparurent devant le tribunal de <placeName>Pékin</placeName>, et peu s'en fallut qu'ils ne fussent rôtis aussi comme les petits
                   cochons.</p>
                <p>Mais <persName type="fictif">Ho-ti</persName> demanda à parler en particulier à chacun des juges, et il n'eut pas de peine à les adoucir en leur faisant goûter de la merveilleuse nouveaute. Tous s'en régalèrent,
                   et <persName type="fictif">Ho-ti</persName> et <persName type="fictif">Bo-ba</persName> furent acquittés. </p>
                <p>Dès lors les incendies d'étables à porcs se multiplièrent en <placeName>Chine</placeName> à l'infini ; les
-                  cochons jeunes et vieux montèrent à des prix fous*<gloss>Prix fous. Prix très élevés au-dessus de la valeur réelle.</gloss>. Enfin un sage découvrit que l'incendie d'une
+                  cochons jeunes et vieux montèrent à des prix fous*<note type="annotation">Prix fous. Prix très élevés au-dessus de la valeur réelle.</note>. Enfin un sage découvrit que l'incendie d'une
                   maison et même d'une étable n'était pas précisément nécessaire pour rôtir un cochon, et que quelques brandons y suffisaient.</p>
                <p>Beaucoup plus tard, car, en ce monde, le progrès marche à pas de tortue, un autre savant inventa la broche ; et peu à peu vinrent la rôtissoire, le tournebroche, le four,
                   toutes les méthodes de rôtisserie.</p>
@@ -655,7 +655,7 @@
             </div2>
          </div1>
          <div1 type="chapitre" xml:lang="fr" n="ch055">
-            <head>55. — Les explorateurs*<gloss>Explorateur. Celui qui va ou qu'on envoie dans un pays étranger pour le faire connaître</gloss>. (Élève, p. 119.)</head>
+            <head>55. — Les explorateurs*<note type="annotation">Explorateur. Celui qui va ou qu'on envoie dans un pays étranger pour le faire connaître</note>. (Élève, p. 119.)</head>
             <div2 type="récit">
                <p>La compagnie s'était retirée ; la famille venait de s’asseoir autour du poêle ; <persName type="fictif" key="suzette">Suzette</persName> achevait de ranger la vaisselle. Avec
                   le soir qui tombait, le vent glacial s'était levé ; il hurlait à réjouir les gens bien à l'abri, au coin d'un bon feu.</p>
@@ -669,11 +669,11 @@
                   <pb type="page" n="192" />
                   <fw>192 SUZETTE.</fw> loin ! Le froid piquait ; cette maison étant la première du village et d'air très avenant, ils avaient pensé qu'elle ne refuserait pas d'accueillir des
                   marcheurs fatigués.</p>
-               <p>Cela fut dit avec une politesse assurée*<gloss>Politesse assurée. Qui indique une certaine confiance en soi.</gloss>, un accent qui ne sentaient pas du tout le village.
+               <p>Cela fut dit avec une politesse assurée*<note type="annotation">Politesse assurée. Qui indique une certaine confiance en soi.</note>, un accent qui ne sentaient pas du tout le village.
                   L'orateur ajouta même avec grâce :</p>
                <p>— Nous vous souhaitons à tous une bonne année !</p>
                <p>Il paraissait a voir quatorze ou quinze ans. Il était bien vêtu, presque élégamment.</p>
-               <p>Le second étranger se tenait coi*<gloss>Coi. Sans bouger.</gloss>. Il était un peu plus grand que son compagnon, avec des vêtements râpés, des souliers endommagés sous la
+               <p>Le second étranger se tenait coi*<note type="annotation">Coi. Sans bouger.</note>. Il était un peu plus grand que son compagnon, avec des vêtements râpés, des souliers endommagés sous la
                   poussière qui les couvrait. Mais il avait de beaux yeux, quoique légèrement farouches. </p>
                <figure>
                   <caption>Deux garçons parurent sur le seuil.</caption>
@@ -681,7 +681,7 @@
                <p>Asseyez-vous, dit <persName type="fictif" key="m_dumay">M. Dumay</persName>.</p>
                <p><persName type="fictif" key="suzette">Suzette</persName> avança deux chaises près du poêle. Ils s’assirent en remerciant.</p>
                <p>— Et d'où venez-vous donc comme ça, s'il vous plait ?</p>
-               <p>— Nous venons du fond de l'<placeName>Afrique</placeName>, Monsieur, répondit le premier, du fin fond*<gloss>Fin fond. L'endroit le plus éloigné.</gloss> de
+               <p>— Nous venons du fond de l'<placeName>Afrique</placeName>, Monsieur, répondit le premier, du fin fond*<note type="annotation">Fin fond. L'endroit le plus éloigné.</note> de
                   l'<placeName>Afrique</placeName>.</p>
                <p>— Diable ! c'est marcher !</p>
                <p> — Oui, nous sommes des explorateurs.</p>
@@ -805,7 +805,7 @@
             <head>56. — Qui sont-ils ? (Élève, p. 121.)</head>
             <div2 type="récit">
                <p><persName type="fictif" key="jacques">Jacques</persName>, qui avait regardé <persName type="fictif" key="suzette">Suzette</persName> dont les yeux souriaient finement à ces
-                  étranges nouvelles, reprit d'un air légèrement goguenard*<gloss>Goguenard. Air plaisant et railleur, mais avec mauvais goût.</gloss> :</p>
+                  étranges nouvelles, reprit d'un air légèrement goguenard*<note type="annotation">Goguenard. Air plaisant et railleur, mais avec mauvais goût.</note> :</p>
                <p>— Et c'est par notre pays que vous gagnez l'<placeName>Amérique du Nord</placeName> !</p>
                <p>— Parfaitement, répondit le garçon avec plus d'assurance encore. Les sources de l''<geogFeat type="fleuve"><placeName>Escaut</placeName></geogFeat> ne sont-elles pas à deux ou trois quarts d'heure d'ici ?
                   l'<geogFeat type="fleuve"><placeName>Escaut</placeName></geogFeat> ne mène t-il pas à <placeName>Anvers</placeName> ? et <placeName>Anvers</placeName> en <placeName>Amérique</placeName> par de nombreux et
@@ -820,19 +820,19 @@
                   <geogFeat type="lac"><placeName>Grand-Ours</placeName></geogFeat>
                   <pb type="page" n="196" />
                   <fw>196 SUZETTE.</fw> et de <geogFeat type="lac"><placeName>l'Esclave</placeName></geogFeat>, sans oublier le <geogFeat><placeName>Niagara</placeName></geogFeat>. On aura affaire certainement aux Hurons*, aux Pawnies* et même aux
-                  Esquimaux* : il s'agit d'éclairer la topographie*<gloss>Topographie. Description détaillée d'un lieu, d'un canton particulier.</gloss>, l'anthropologie*<gloss>Anthropologie.
-                     Histoire naturelle de l'homme.</gloss>.</p>
+                  Esquimaux* : il s'agit d'éclairer la topographie*<note type="annotation">Topographie. Description détaillée d'un lieu, d'un canton particulier.</note>, l'anthropologie*<note type="annotation">Anthropologie.
+                     Histoire naturelle de l'homme.</note>.</p>
                <p>Là, les enfants, confondus par tant de science, se regardèrent.</p>
-               <p>— En route, nous ferons des échanges avec les trappeurs*<gloss>Trappeur. Chasseur des régions du N. et des prairies de l'<placeName>Amérique</placeName>.</gloss>; nous enverrons
+               <p>— En route, nous ferons des échanges avec les trappeurs*<note type="annotation">Trappeur. Chasseur des régions du N. et des prairies de l'<placeName>Amérique</placeName>.</note>; nous enverrons
                   en <placeName>Europe</placeName> des fourrures de marte, de petit-gris, de renard bleu.</p>
                <figure>
                   <caption> La chute principale du <geogFeat type="rivière"><placeName>Niagara</placeName></geogFeat>, rivière de l'<placeName>Amérique du Nord</placeName>, atteint à la hauteur de 50 mètres. </caption>
                </figure>
                <p>Il y eut un moment de silence et de timidité, comme si l'on se fût trouvé devant un indigène d'une autre planète où les garçons, sitôt leurs dents percées, se feraient
-                  explorateurs, savants et marchands de pelleteries* <gloss> Pelleteries. Peaux qu'on emploie comme fourrures.</gloss>. Cependant l'autre, le camarade, continuait de ne pas
+                  explorateurs, savants et marchands de pelleteries* <note type="annotation"> Pelleteries. Peaux qu'on emploie comme fourrures.</note>. Cependant l'autre, le camarade, continuait de ne pas
                   bouger. A peine, de temps en temps, faisait-il un petit signe de tête, et qui encore manquait de clarté : disait-il oui ? disait-il non ? </p>
                <p>Mais que des étrangers viennent de loin ou de près, aillent ou non en <placeName>Amérique</placeName> par les sources de l'<placeName>Escaut</placeName>, ils peuvent avoir
-                  besoin de se refaire l'estomac..... C'est ce que <persName type="fictif" key="suzette">Suzette</persName> dit tout bas à son père, qui répondit par un geste d'acquiescement*<gloss>Acquiescement. Acte de consentir à une chose.</gloss>.</p>
+                  besoin de se refaire l'estomac..... C'est ce que <persName type="fictif" key="suzette">Suzette</persName> dit tout bas à son père, qui répondit par un geste d'acquiescement*<note type="annotation">Acquiescement. Acte de consentir à une chose.</note>.</p>
                <figure>
                   <caption>La marte, dont le corps se revêt en hiver d'une laine fine, serrée, très abondante et d'un beau lustré, donne une fourrure des plus recherchées. La marte dévaste les
                      basses-cours et détruit en peu de temps volailles et lapins. </caption>
@@ -962,7 +962,7 @@
                <l>« Les miettes de chaque morceau</l> <l>« Sautaient par dessus leur chapeau ! »</l>
                <p>Leur appétit à moitié satisfait, <persName type="fictif" key="m_dumay">M. Dumay</persName> demanda : </p>
                <p>— Mais, s'il vous plait, et sans vous déranger, mes amis, quel âge avez-vous donc?</p>
-               <p>Caquet-Bon-Bec*<gloss>Caquet-Bon-bec. Nom familier qu'on donne aux bavards.</gloss> répondit aussitôt :</p>
+               <p>Caquet-Bon-Bec*<note type="annotation">Caquet-Bon-bec. Nom familier qu'on donne aux bavards.</note> répondit aussitôt :</p>
                <p>— Je parie que vous ne me donnez pas plus de quatorze ans !</p>
                <p>— Oui, à peu près quatorze.</p>
                <p>— Bon, j'en ai dix-huit ; et <persName type="fictif" key="sylvain">Sylvain</persName>, mon compagnon, va atteindre ses vingt ans.</p>
@@ -970,12 +970,12 @@
                <p>— Et vos parents ?</p>
                <p>— Nos parents ? hélas !... morts... dans un naufrage.</p>
                <p>— Dans un naufrage !</p>
-               <p>— Oui, une tempête horrible ! — il soupira. — Vous n'avez jamais vu de tempête ?... non ?... Eh bien ! voilà ! Les passagers ont bien tranquilles dans les cabines*<gloss>Cabine.
-                  Petite chambre pour les passagers à bord des navires.</gloss> ; ou sur le pont*<gloss>Pont. Le plancher supérieur et les planchers intérieurs des vaisseaux.</gloss>; ils
+               <p>— Oui, une tempête horrible ! — il soupira. — Vous n'avez jamais vu de tempête ?... non ?... Eh bien ! voilà ! Les passagers ont bien tranquilles dans les cabines*<note type="annotation">Cabine.
+                  Petite chambre pour les passagers à bord des navires.</note> ; ou sur le pont*<note type="annotation">Pont. Le plancher supérieur et les planchers intérieurs des vaisseaux.</note>; ils
                   causent, ils rient. Tout à coup le vent s'élève, le ciel est noir, des éclairs déchirent les nues ; les vagues, hautes comme des montagnes, hurlent, s'écroulent, balayant les
-                  mâts, balayant les cordages, balayant le pont. Le vaisseau désemparé*<gloss>Désemparé. Privé de ses mâts.</gloss>, ballotté, va, vient, à gauche, à droite, à l'aventure.
-                  Soudain un craquement formidable, une clameur désespérée des passagers en détresse !... puis, plus rien ! Le vaisseau a sombré*<gloss>Sombrer. Disparaitre sous les
-                     flots.</gloss>, corps et biens !... Nos parents étaient là !... Comment,le lendemain, au point du jour, nous trouvâmes-nous, mon camarade et moi, flottant à califourchon
+                  mâts, balayant les cordages, balayant le pont. Le vaisseau désemparé*<note type="annotation">Désemparé. Privé de ses mâts.</note>, ballotté, va, vient, à gauche, à droite, à l'aventure.
+                  Soudain un craquement formidable, une clameur désespérée des passagers en détresse !... puis, plus rien ! Le vaisseau a sombré*<note type="annotation">Sombrer. Disparaitre sous les
+                     flots.</note>, corps et biens !... Nos parents étaient là !... Comment,le lendemain, au point du jour, nous trouvâmes-nous, mon camarade et moi, flottant à califourchon
                   sur un débris de mât, les deux seuls survivants de l'épouvantable désastre... ! comment, dans notre malheur, ce débris de mât nous porta-t-il sains et saufs sur la côte de
                   <placeName>Zanzibar</placeName>, ne me le demandez pas, <pb type="page" n="200" />
                   <fw>200 SUZETTE.</fw> je n'en sais rien ! Mais les journaux en ont parlé.</p>
@@ -1087,7 +1087,7 @@
                      et rafraichissante appelée limonade. — Les orangers et les citronniers sont cultivés dans le midi de la <placeName>France</placeName> et dans les pays chauds.
                   </caption>
                </figure> les bananes, qu'on cueille là comme les mûres ici, nous eurent bientôt rendu des forces. La ville est assez bien. Dans ses rues, vous vous croisez avec des Arabes en
-                  burnous*<gloss>Burnous. Grande manteau de laine à capuchon.</gloss> blanc, des nègres tatoués*<gloss>Tatouer. Voir no 10.</gloss> de signes bizarres, des Persans au bonnet pointu, des Hindous aux somptueux vêtements, des Européens de toute nation ; vous entendez un charivari de langues à vous croire à la <placeName>tour de Babel</placeName>.
+                  burnous*<note type="annotation">Burnous. Grande manteau de laine à capuchon.</note> blanc, des nègres tatoués*<note type="annotation">Tatouer. Voir no 10.</note> de signes bizarres, des Persans au bonnet pointu, des Hindous aux somptueux vêtements, des Européens de toute nation ; vous entendez un charivari de langues à vous croire à la <placeName>tour de Babel</placeName>.
                   <persName type="fictif" key="sylvain">Sylvain</persName>, tu te rappelles ?... </p>
                <p><persName type="fictif" key="sylvain">Sylvain</persName> inclina la tête.</p>
                <p>— Mais sur la grande place de la ville, quel spectacle un matin !... T'en souviens-tu, <persName type="fictif" key="sylvain">Sylvain</persName> ?</p>
@@ -1102,14 +1102,14 @@
                <p>Et <persName type="fictif" key="pascal">Pascal</persName> reprit :</p>
                <p>— Figurez-vous une sombre procession de nègres, hommes, femmes, enfants. Elle s'avance vers nous, les hommes attachés deux à deux par des fourches qui leur enserrent le cou, les
                   femmes et les enfants liés aux hommes par des longes. Tous paraissent hébétés de fatigue et de douleur, et incapables de la moindre résistance. La procession, escortée
-                  d'Arabes, s'arrête au milieu de la place. Là, attendent, allant et venant ou assis en rond, d'autres Arabes en burnous, au visage placide*<gloss>Placide. Qui a beaucoup de
-                     calme.</gloss>, indifférent. Quelques-uns se lèvent, vont regarder de près le noir troupeau. Sur un signe, on détache trois hommes et deux jeunes filles ; on leur fait
+                  d'Arabes, s'arrête au milieu de la place. Là, attendent, allant et venant ou assis en rond, d'autres Arabes en burnous, au visage placide*<note type="annotation">Placide. Qui a beaucoup de
+                     calme.</note>, indifférent. Quelques-uns se lèvent, vont regarder de près le noir troupeau. Sur un signe, on détache trois hommes et deux jeunes filles ; on leur fait
                   faire des exercices, lever la tête, les bras, puis on jette un bâton assez loin, avec commandement de courir le chercher. Ils courent, ils reviennent : — Monsieur le
                   marchand, combien voulez-vous de ce jeune homme ? — Trois cents francs. <figure>
                      <caption> Le burnous est un grand manteau de laine à capuchon que portent les Arabes. </caption>
                   </figure> — Combien de cette jeune fille ? — Deux cents francs. — Êtes-vous fou ? — Le marchand se fâche, crie qu'il vient de faire trois cents lieues à cette chasse aux
-                  nègres, de traverser des torrents, des jungles*<gloss>Jungles. Plaines marécageuses couvertes de roseaux.</gloss>, des forêts vierges*<gloss>Forêts vierges. Forêts dont on n'a
-                     jamais coupé les arbres.</gloss>; donc il ne rabattra pas un sou ! On discute longtemps ; on finit par s'entendre. Les acheteurs emmènent les trois jeunes gens et les deux
+                  nègres, de traverser des torrents, des jungles*<note type="annotation">Jungles. Plaines marécageuses couvertes de roseaux.</note>, des forêts vierges*<note type="annotation">Forêts vierges. Forêts dont on n'a
+                     jamais coupé les arbres.</note>; donc il ne rabattra pas un sou ! On discute longtemps ; on finit par s'entendre. Les acheteurs emmènent les trois jeunes gens et les deux
                   jeunes filles. Les mères, encore attachées et à vendre, pleurent et se désolent en vain.</p>
                <p>— Mais c'est horrible ! c'est affreux ! s'écria <persName type="fictif" key="suzette">Su zette</persName>.</p>
                <p>— Vous n'avez pas crié au voleur ? dit <persName type="fictif" key="françois">François</persName>.</p>
@@ -1263,9 +1263,9 @@
                <p>— Vous êtes très intéressant à entendre, lui dit-il ; mais, s'il vous plait, comment faisiez-vous à <placeName>Zanzibar</placeName> pour ne pas perdre un mot des discours des
                   marchands d'esclaves? je l'ai demandé tout bas à votre camarade, qui ne m'a pas répondu.</p>
                <p>Pascal se tourna vers le camarade :</p>
-               <p>— Il n'a pas répondu ? il a donc oublié <persName type="fictif">Mohammed</persName> ? <persName>Mohammed</persName>, notre interprète*<gloss>Interprète. Celui qui traduit en
-                  notre langue les paroles d'un étranger.</gloss>, qui ne nous a jamais quittés, et qui savait non seulement l'arabe, mais aussi tous les dialectes*<gloss>Dialecte. Langage
-                     particulier d'une ville, d'une province.</gloss> de l'<placeName>Afrique</placeName> ! Parbleu ! <persName type="fictif" key="sylvain">Sylvain</persName>, n'avions-nous pas
+               <p>— Il n'a pas répondu ? il a donc oublié <persName type="fictif">Mohammed</persName> ? <persName>Mohammed</persName>, notre interprète*<note type="annotation">Interprète. Celui qui traduit en
+                  notre langue les paroles d'un étranger.</note>, qui ne nous a jamais quittés, et qui savait non seulement l'arabe, mais aussi tous les dialectes*<note type="annotation">Dialecte. Langage
+                     particulier d'une ville, d'une province.</note> de l'<placeName>Afrique</placeName> ! Parbleu ! <persName type="fictif" key="sylvain">Sylvain</persName>, n'avions-nous pas
                   un interprète ?</p>
                <p>— Ah ! oui, répondit <persName type="fictif" key="sylvain">Sylvain</persName>, nous avions un interprète.</p>
                <p>— Et puis, reprit <persName type="fictif" key="pascal">Pascal</persName>, quand on a vécu en <placeName>Algérie</placeName>, comme nous, on a toujours dans la poche assez
@@ -1365,13 +1365,13 @@
             <head>60. — A travers les jungles. (Élève, p. 129.)</head>
             <div2 type="récit">
                <p>— Eh bien ! voici. Nous ne restâmes à <placeName>Zanzibar</placeName> que juste le temps de nous joindre à une
-                  caravane*<gloss>Caravane. Troupe de marchands, de pèlerins, qui voyagent de compangnie par crainte des pillards.</gloss> qui partait pour le pays de <placeName>Benguéla</placeName>. Elle comptait soixante-quatre chameaux de
-                  robe*<gloss>Robe. Couleur du poil.</gloss> brune, blanche ou cendrée, avec leurs beaux yeux doux de gazelle*<gloss>Gazelle. Quadrupède doux et gracieux des contrées
-                     tropicales.</gloss>. Nous montions chacun le nôtre, assis entre les deux bosses, — on n'est pas là aussi <figure>
+                  caravane*<note type="annotation">Caravane. Troupe de marchands, de pèlerins, qui voyagent de compangnie par crainte des pillards.</note> qui partait pour le pays de <placeName>Benguéla</placeName>. Elle comptait soixante-quatre chameaux de
+                  robe*<note type="annotation">Robe. Couleur du poil.</note> brune, blanche ou cendrée, avec leurs beaux yeux doux de gazelle*<note type="annotation">Gazelle. Quadrupède doux et gracieux des contrées
+                     tropicales.</note>. Nous montions chacun le nôtre, assis entre les deux bosses, — on n'est pas là aussi <figure>
                         <caption>Les vovageurs s'assemblent en troupes pour traverser les déserts avec plus de sûreté et forment ce qu'on appelle une caravane.</caption>
                      </figure> commodément que sur cette chaise, mais on s'y fait ; — et nous voilà partis avec une pacotille de calicot, <pb type="page" n="209" />
-                  <fw>A TRAVERS LES JUNGLES. 209</fw> d'indienne, de perles, de verroteries*<gloss>Verroteries. Menus objets fabriqués en verre, comme perles, bagues, etc.</gloss> que nous
-                  devions échanger contre le blé, le maïs, le sorgho*<gloss>Sorgho. Grande graminée dont nous utilisons les feuilles comme fourrage.</gloss>, la viande nécessaires à notre
+                  <fw>A TRAVERS LES JUNGLES. 209</fw> d'indienne, de perles, de verroteries*<note type="annotation">Verroteries. Menus objets fabriqués en verre, comme perles, bagues, etc.</note> que nous
+                  devions échanger contre le blé, le maïs, le sorgho*<note type="annotation">Sorgho. Grande graminée dont nous utilisons les feuilles comme fourrage.</note>, la viande nécessaires à notre
                   subsistance. Des Arabes armés jusqu'aux dents montaient ou menaient les autres, chameaux. Et savez-vous ce qu'ils étaient ?</p>
                <p>— Des chasseurs de noirs? répondit <persName type="fictif" key="jacques">Jacques</persName>.</p>
                <figure>
@@ -1383,7 +1383,7 @@
                   <caption>Dattier. Genre de palmier très répandu en <placeName>Afrique</placeName>, qui donne des fruits excellents appelés dattes. Les
                      Arabes font leur nourriture ordinaire de ce fruit qui est gros comme une prune.</caption>
                </figure>
-               <p> — Juste ; mais nous ne le sûmes que longtemps après. Ils faisaient leurs dévotions, leurs ablutions*<gloss>Ablution. Acte de se laver.</gloss>, s'humectant les pieds, les
+               <p> — Juste ; mais nous ne le sûmes que longtemps après. Ils faisaient leurs dévotions, leurs ablutions*<note type="annotation">Ablution. Acte de se laver.</note>, s'humectant les pieds, les
                   mains, le front avec des manières à eux, en se tournant du côté de la <placeName>Mecque</placeName>, et cela plusieurs fois par jour : c'est ce qu'ils regardent comme leurs devoirs envers Dieu.</p>
                <p>— C'est une singulière façon d'entendre ces devoirs que de pratiquer la chasse aux hommes <figure>
                   <caption>Les crocodiles, reptiles de grande taille, sont organisés pour vivre dans l'eau, où ils se meuvent avec une agilité extraordinaire. C'est en <placeName type="réel"
@@ -1396,7 +1396,7 @@
                   couvertes de roseaux coupants comme rasoir. Oh ! oh ! <persName type="fictif" key="sylvain">Sylvain</persName>, attention ! — <persName type="fictif" key="sylvain"
                      >Sylvain</persName> leva la tête : — Qu'est-ce que c'est là-bas que cette masse informe qui se montre dans la vase ? Un hippopotame !... <persName type="fictif"
                         key="sylvain">Sylvain</persName>, attention ! — De nouveau <persName type="fictif" key="sylvain">Sylvain</persName> releva la tête : — Ici, à gauche, ce tronc d'arbre
-                  rugueux*<gloss>Rugueux. Dont la surface présente des aspérités.</gloss> couché parmi les roseaux ! Il a l'air de frémir, il remue ! c'est un crocodile !... Un, deux, dix,
+                  rugueux*<note type="annotation">Rugueux. Dont la surface présente des aspérités.</note> couché parmi les roseaux ! Il a l'air de frémir, il remue ! c'est un crocodile !... Un, deux, dix,
                   vingt crocodiles, en voilà de tous côtés ! Filons !-ils vous goberaient une caravane comme un homme une sardine !... Et ces yeux flamboyants à travers les broussailles un tigre
                   ! Nous sommes <figure>
                      <caption>Le tigre, dont la peau est mouchetée, est un animal féroce qui appartient au genre chat.</caption>
