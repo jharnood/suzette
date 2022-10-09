@@ -77,7 +77,7 @@
             <head>71. — Il y a de bonnes gens. (Élève, p. 151.)</head>
             <div2 type="récit">
                <p><persName type="fictif" key="jacques">Jacques</persName> lui toucha l'épaule : </p>
-               <p>— Le déshérité*<gloss>Déshérité. Celui qui n'a rien recueilli de sa famille, — qui est abandonné de tous.</gloss> qui a bon bras et bonne volonté peut venir aux champs ; il y
+               <p>— Le déshérité*<note type="annotaiton">Déshérité. Celui qui n'a rien recueilli de sa famille, — qui est abandonné de tous.</note> qui a bon bras et bonne volonté peut venir aux champs ; il y
                   trouvera du travail, des amis, une famille aussi.</p>
                <p>— Oui, ajouta <persName type="fictif" key="m_dumay">M. Dumay</persName>. Et tenez ! il nous arriva autrefois, sur ce terroir, un garçon à peu près dans votre situation ; c'était un
                   énergique travailleur. Aujourd'hui, il est maître d'un bon bien, marié, père de trois enfants.</p>
@@ -97,8 +97,8 @@
                <p>Pendant ce temps, monsieur le neveu, qui allait toujours devant, entre <persName type="fictif" key="françois">François</persName> et <persName type="fictif" key="charlot"
                   >Charlot</persName>, leur contait les chasses au lion de <persName type="historique">Jules Gérard</persName>, qu'il savait par cœur, comme ses autres histoires
                   d'<placeName>Afrique</placeName>. Et, s'échauffant. tout à coup il prenait le fusil des mains de <persName type="historique">Jules Gérard</persName>,
-                  s'embusquait*<gloss>S'embusquer. Se cacher dans un bois, un ravin, pour surprendre le gibier, l'ennemi.</gloss>, attendait le fauve*<gloss>Un fauve. Les bêtes à poil fauve ; ici,
-                     les grands carnassiers du désert.</gloss>, l'entendait approcher :</p>
+                  s'embusquait*<note type="annotaiton">S'embusquer. Se cacher dans un bois, un ravin, pour surprendre le gibier, l'ennemi.</note>, attendait le fauve*<note type="annotaiton">Un fauve. Les bêtes à poil fauve ; ici,
+                     les grands carnassiers du désert.</note>, l'entendait approcher :</p>
                <p>— Ah ! quel rugissement ! le grondement même du tonnerre !... Le voilà ! il a vu l'ennemi ; ses yeux flamboient, il bondit !... Pan ! pan ! deux balles dans le front ; il roule, il
                   est mort !.. Une autre fois le Seigneur à la grosse tête, comme l'appellent les Arabes, n'a été que blessé. Il s'élance sur le tireur, le renverse, va le déchirer... Je suis perdu !
                   Mais je trouve encore la force de lui plonger mon couteau dans le cœur ! </p>
@@ -191,9 +191,9 @@
             <fw>248 SUZETTE.</fw>
             <head>72. — Souvenirs d'histoire. (Élève, p. 152.)</head>
             <div2 type="récit">
-               <p>Un pan de vieux mur lézardé*<gloss>Lézardé. Qui présente des crevasses dans la maçonnerie.</gloss> , d'anciens glacis*<gloss>Glacis. Pente douce et unie aboutissant à un
-                  fossé.</gloss> couronnés de sombre verdure, un fossé comblé par les orties et les ronces, c'est tout ce qui reste au <placeName>Catelet</placeName> de son
-                  belliqueux*<gloss>Belliqueux. Qui se rapporte à la guerre.</gloss> passé. </p>
+               <p>Un pan de vieux mur lézardé*<note type="annotaiton">Lézardé. Qui présente des crevasses dans la maçonnerie.</note> , d'anciens glacis*<note type="annotaiton">Glacis. Pente douce et unie aboutissant à un
+                  fossé.</note> couronnés de sombre verdure, un fossé comblé par les orties et les ronces, c'est tout ce qui reste au <placeName>Catelet</placeName> de son
+                  belliqueux*<note type="annotaiton">Belliqueux. Qui se rapporte à la guerre.</note> passé. </p>
                <p>Cette forteresse, à qui fut jadis confié l'honneur de garder la frontière de <placeName>France</placeName> contre les attaques de l'empereur <persName type="historique"
                   >Charles-Quint</persName>, n'avait déjà plus rien à faire lorsque <persName type="historique">Louis XIV</persName>, par la conquête de la <placeName>Flandre</placeName>, recula de
                   ce côté les bornes du pays jusqu'où nous les voyons encore aujourd'hui.</p>
@@ -207,7 +207,7 @@
                <p>— Et, ajouta <persName type="fictif" key="suzette">Suzette</persName> en riant, ils seraient même capables d'explorer l'<placeName>Afrique</placeName> comme toi.</p>
                <p>— Pourquoi, reprit <persName type="fictif" key="jacques">Jacques</persName>, resterions-nous éternellement en arrière des villes ? Ici, par exemple, à
                   <placeName>Fragicourt</placeName>, la jeunesse a appris que la petite motte de terre où se dresse son village est de noble terre, de terre de <placeName>France</placeName> ; que
-                  les efforts, les vicissitudes*<gloss>Vicissitudes. Changement de choses qui se succèdent les unes aux autres.</gloss>, les malheurs et les gloires de la patrie y ont marqué leur <pb
+                  les efforts, les vicissitudes*<note type="annotaiton">Vicissitudes. Changement de choses qui se succèdent les unes aux autres.</note>, les malheurs et les gloires de la patrie y ont marqué leur <pb
                      type="page" n="249" />
                   <fw>SOUVENIRS D'HISTOIRE. 249</fw> trace. Et devant l'histoire de son passé, cette jeunesse s'émeut et comprend son devoir, tout comme celle de <placeName>Paris</placeName> ! Les
                   livres nous font vos égaux.</p>
@@ -330,11 +330,11 @@
             <head>73. — La dépèche. (Élève, p. 154.)</head>
             <div2 type="récit">
                <p>— Le bureau du télégraphe ! cria François, toujours en avant. On entra ; on remit à l'employé la dépêche pour <persName type="fictif" key="mme_richard">Mme Richard</persName>. A peine avait-on dépassé le seuil que le
-                  manipulateur*<gloss>Manipulateur. Appareil pour transmettre les dépêches télégraphiques.</gloss> commençait sa batterie<gloss>Batterie. Succession de petits coups frappés sur un
-                     timbre ou sur une pièce différente de métal.</gloss> ; la dépèche partait. Le manipulateur se tut : elle était partie, arrivée !</p>
+                  manipulateur*<note type="annotaiton">Manipulateur. Appareil pour transmettre les dépêches télégraphiques.</note> commençait sa batterie<note type="annotaiton">Batterie. Succession de petits coups frappés sur un
+                     timbre ou sur une pièce différente de métal.</note> ; la dépèche partait. Le manipulateur se tut : elle était partie, arrivée !</p>
                <p>Au siècle dernier, dans une ville d'<placeName>Amérique</placeName>, à <placeName>Boston</placeName>, un jour d'orage, un enfant joue au cerf-volant ; il a attaché une clé à la queue de ce cerf-volant, trop léger et qu'il faut
-                  alourdir. Une petite étincelle lumineuse brille tout à coup sur la clé, à la vive curiosité du garçon, très frappé de ce phénomène*<gloss>Phénomène. Tout ce qui apparait de nouveau
-                     dans l'air, dans le ciel ou sur la terre.</gloss>
+                  alourdir. Une petite étincelle lumineuse brille tout à coup sur la clé, à la vive curiosité du garçon, très frappé de ce phénomène*<note type="annotaiton">Phénomène. Tout ce qui apparait de nouveau
+                     dans l'air, dans le ciel ou sur la terre.</note>
                </p>
                <figure>
                   <caption>L'ancien télégraphe. — Nous sommes loin de ces machines de hois à longs bras, qui, de clocher eu clocher, d'un bout de la <placeName>France</placeName> à l'autre, s'envoyaient des signaux. Le
@@ -343,10 +343,10 @@
                </figure>
                <pb type="page" n="252" />
                <fw>252 SUZETTE.</fw>
-               <p>L'enfant devint le grand <persName type="historique">Franklin</persName> ; la petite étincelle est devenue la grande électricité*<gloss>Electricité. Cause, force inconnue qui produit la foudre.</gloss> avec ses nombreuses
+               <p>L'enfant devint le grand <persName type="historique">Franklin</persName> ; la petite étincelle est devenue la grande électricité*<note type="annotaiton">Electricité. Cause, force inconnue qui produit la foudre.</note> avec ses nombreuses
                   applications qui ont déjà changé et changeront encore plus la face de la terre.</p>
-               <p>La foudre, la terrible force destructrice devant laquelle les premiers hommes, terrifiés, se prosternaient, l'homme d'aujourd'hui s'en empare, l'annihile*<gloss>Annihiler. Réduire à
-                  rien.</gloss> par le paratonnerre de <persName type="historique">Franklin</persName> ou la maitrise, lui fait porter sa parole et ses commandements jusqu'au bout de l'uni-<figure>
+               <p>La foudre, la terrible force destructrice devant laquelle les premiers hommes, terrifiés, se prosternaient, l'homme d'aujourd'hui s'en empare, l'annihile*<note type="annotaiton">Annihiler. Réduire à
+                  rien.</note> par le paratonnerre de <persName type="historique">Franklin</persName> ou la maitrise, lui fait porter sa parole et ses commandements jusqu'au bout de l'uni-<figure>
                      <caption> Le paratonnerre. La lige d'un paratonnerre varie de trois à cinq metres; elle est terminée en haut par une pointe de platine. Une barre en métal, servant de conducteur,
                         est soudce à la tige et descend, en suivant le toit et les murs de l'édifice, soit dans un puits, soit dans un trou profond. Un paratonnerre en mauvais état peut amener des
                         accidents nombreux.</caption>
@@ -356,8 +356,8 @@
                         et ce feu, connu des navires, les guide au milieu de l'obscurité.</caption>
                   </figure> vers, comme il s'en éclaire contre la nuit ; et quelles autres merveilles n'en tirera-t-il pas demain !</p>
                <p>— Qui, dit <persName type="fictif" key="sylvain">Sylvain</persName>, nous sommes loin des feux allumés sur les montagnes pour les communications que les hommes avaient à se faire. Nous sommes loin aussi de ces machines de bois à
-                  longs bras, qui, de clocher en clocher, d'un bout à l'autre de la France, se faisaient des gestes dégingandés*<gloss>Dégingandé. Se dit d'une personne dont la contenance et la
-                     démarche sont mal assurées.</gloss>.</p>
+                  longs bras, qui, de clocher en clocher, d'un bout à l'autre de la France, se faisaient des gestes dégingandés*<note type="annotaiton">Dégingandé. Se dit d'une personne dont la contenance et la
+                     démarche sont mal assurées.</note>.</p>
                <p>M. <persName type="fictif" key="pascal">Pascal</persName>, qui, malgré son petit désastre de la veille, n'engendrait pas la mélancolie et trouvait généralement <pb type="page" n="253" />
                   <fw>LA DÉPÈCHE. 253</fw> dans son excellente mémoire quelque bonne chose à répondre, se mit à chanter :</p>
                <lg>
@@ -484,14 +484,14 @@
             <fw>RÉCONCILIATION. 255</fw>
             <div2 type="récit">
                <head>74. — Réconciliation. (Élève, p. 156.)</head>
-               <p>Si le père tue le veau gras pour célébrer le retour du fils vagabond*<gloss> Vagabond. Qui erre par les chemins sans but déterminé.</gloss> qu'il croyait perdu et qui est retrouvé,
+               <p>Si le père tue le veau gras pour célébrer le retour du fils vagabond*<note type="annotaiton"> Vagabond. Qui erre par les chemins sans but déterminé.</note> qu'il croyait perdu et qui est retrouvé,
                   que fera la mère ? M. <persName type="fictif" key="pascal">Pascal</persName> le savait certainement, car à l'arrivée d'une mère attendue, il courut impétueusement à elle et se jeta dans ses bras ouverts. Elle l'y retint en
                   pleurant :</p>
                <p>— Malheureux enfant ! malheureux enfant ! que de larmes tu as fait couler ! Ah ! j'en serais morte !</p>
                <p>Puis elle embrassa son frère qui lui rendait ce fils adoré. C'est surtout dans l'attendrissement de la réconciliation que les proches sentent la folie de leurs querelles et de leurs
                   divisions. La nièce et les neveux embrassèrent ensuite leur tante.</p>
                <p>C'était une femme assez grande, de taille un peu penchée ; les bandeaux de ses cheveux noirs commençaient à s'argenter de fils blancs ; mais ses yeux noirs avaient encore de l'éclat,
-                  et sa tenue élégamment simple, son aisance*<gloss>Aisance. Liberté de corps et d'esprit dans le travail, les manières.</gloss> aimable disaient qu'elle venait de <placeName>Paris</placeName>.</p>
+                  et sa tenue élégamment simple, son aisance*<note type="annotaiton">Aisance. Liberté de corps et d'esprit dans le travail, les manières.</note> aimable disaient qu'elle venait de <placeName>Paris</placeName>.</p>
                <p>Ses mains surtout furent admirées de sa nièce, pour la gracieuse souplesse, l'adresse des doigts qui rendent si expressives les mains de l'habile travailleuse ! Aux compliments que
                   lui en fit, le soir même, <persName type="fictif" key="suzette">Suzette</persName>, elle sourit.</p>
                <p>— Eh ! oui, elles ont dû s'exercer, ne pas flâner ; ce sont elles qui, surtout depuis mon veuvage, ont élevé mes trois enfants.</p>
@@ -500,8 +500,8 @@
                <p>— Les miennes ne savent pas tailler, faire une robe.</p>
                <p>— Ce n'est pas leur faute ; il faudra le leur apprendre. Elles n'ont qu'à venir un peu à <placeName>Paris</placeName> en compagnie des miennes.</p>
                <p>Et comme à ce moment <persName type="fictif" key="m_dumay">M. Dumay</persName> s'approchait, la tante <persName type="fictif" key="mme_richard">Jeanne</persName> se tourna vers lui : </p>
-               <p>— Savez-vous, <persName type="fictif" key="m_dumay">Denis</persName>, que nous allons avoir à <placeName>Paris</placeName> une Exposition universelle*<gloss>Exposition universelle. Exposition dans laquelle figurent les produits de l'industrie et des arts
-                  de tous les pays.</gloss> ? ....</p>
+               <p>— Savez-vous, <persName type="fictif" key="m_dumay">Denis</persName>, que nous allons avoir à <placeName>Paris</placeName> une Exposition universelle*<note type="annotaiton">Exposition universelle. Exposition dans laquelle figurent les produits de l'industrie et des arts
+                  de tous les pays.</note> ? ....</p>
                <p>— Oui, on en parle.</p>
                <pb type="page" n="256" />
                <fw>256 SUZETTE.</fw>
@@ -509,9 +509,9 @@
                   l'atelier de couture d'une tante qui pourrait lui apprendre quelque chose ?</p>
                <p><persName type="fictif" key="m_dumay">M. Dumay</persName> se gratta l'oreille : </p>
                <p>— Ma foi, dit-il, je ne dis pas non ; attendons le beau temps.</p>
-               <p>On passa le reste de la soirée à deviser*<gloss>Deviser. S'entretenir familièrement.</gloss> du passé, de la vieille maison paternelle incendiée, que la tante <persName type="fictif" key="mme_richard">Jeanne</persName> regrettait, puis
-                  de <persName type="fictif" key="marthe">Marthe</persName>, de <persName type="fictif" key="louis">Louis</persName>, le frère aîné, ancien élève de l'<placeName>école Turgot</placeName>*<gloss><placeName>École Turgot</placeName>. Grande école de <placeName>Paris</placeName> dont le nom rappelle celui d'un ministre célébre de <persName type="historique">Louis XVI</persName>.</gloss>
-                  et bon mécanicien*<gloss>Mécanicien. Celui qui lavente, construit ou dirige des machines.</gloss> : puis de la mémoire, de l'imagination, de la langue trop bien pendue de monsieur
+               <p>On passa le reste de la soirée à deviser*<note type="annotaiton">Deviser. S'entretenir familièrement.</note> du passé, de la vieille maison paternelle incendiée, que la tante <persName type="fictif" key="mme_richard">Jeanne</persName> regrettait, puis
+                  de <persName type="fictif" key="marthe">Marthe</persName>, de <persName type="fictif" key="louis">Louis</persName>, le frère aîné, ancien élève de l'<placeName>école Turgot</placeName>*<note type="annotaiton"><placeName>École Turgot</placeName>. Grande école de <placeName>Paris</placeName> dont le nom rappelle celui d'un ministre célébre de <persName type="historique">Louis XVI</persName>.</note>
+                  et bon mécanicien*<note type="annotaiton">Mécanicien. Celui qui lavente, construit ou dirige des machines.</note> : puis de la mémoire, de l'imagination, de la langue trop bien pendue de monsieur
                   l'explorateur, qui baissait la tête sous les sourires un peu railleurs. <persName type="fictif" key="sylvain">Sylvain</persName> n'était pas là : <persName type="fictif" key="m_cartier">M. Cartier</persName>, sur la recommandation de <persName type="fictif" key="m_dumay">M. Dumay</persName>, l'avait aussitôt accepté dans sa
                   ferme.</p>
             </div2>
@@ -639,9 +639,9 @@
             <head>75. — Le beau temps. (Élève, p. 158.)</head>
             <div2 type="récit">
                <p>Un matin de mai, un de ces matins fleuris, bleus, lumineux, chantés du vieux poète :</p> <l>Le temps a laissé son manteau</l> <l>De vent, de froidure et de pluie,</l> <l>Et s'est vêtu de broderie,</l> <l>De
-                  soleil luisant clair et beau,</l> <p><persName type="fictif" key="m_dumay">M.Dumay</persName>, dans sa cour, saluait le retour de la première hirondelle. Il suivait des yeux le vol ému de l'oiseau, tournoyant, planant*<gloss>Planer. Se
-                     dit d'un oiseau qui se soutient en l'air, les ailes étendues et immobiles.</gloss>, tournoyant encore en cercles de plus en plus rapprochés, et soudain, avec un petit chant
-                  d'allégresse*<gloss>Allégresse. Joie qui éclate au dehors.</gloss>, courant à tire-d'aile vers son nid de l'an passé, suspendu à la corniche du colombier.</p>
+                  soleil luisant clair et beau,</l> <p><persName type="fictif" key="m_dumay">M.Dumay</persName>, dans sa cour, saluait le retour de la première hirondelle. Il suivait des yeux le vol ému de l'oiseau, tournoyant, planant*<note type="annotaiton">Planer. Se
+                     dit d'un oiseau qui se soutient en l'air, les ailes étendues et immobiles.</note>, tournoyant encore en cercles de plus en plus rapprochés, et soudain, avec un petit chant
+                  d'allégresse*<note type="annotaiton">Allégresse. Joie qui éclate au dehors.</note>, courant à tire-d'aile vers son nid de l'an passé, suspendu à la corniche du colombier.</p>
                <p> A cet instant, la lourde porte s’ouvrit. C'était le facteur, avec une lettre. <persName type="fictif" key="m_dumay">M.Dumay</persName> la décacheta, ajusta ses lunettes, la parcourat, puis appela : </p>
                <pb type="page" n="259" />
                <fw>LE BEAU TEMPS. 259</fw>
@@ -654,7 +654,7 @@
                <p>— Eh bien ! ma fille, prépare tes hardes, voilà une lettre de ta tante.</p>
                <p> La lettre lue, elle embrassa joyeusement son père.</p>
                <p>Une heure après, elle hésitait :</p>
-               <p>Voyons ! S'en aller pendant une quinzaine, abandonner les rênes*<gloss>Les rênes de la maison. La direction de la maison.</gloss> de sa maison, pour une ménagère, ce n'est pas une
+               <p>Voyons ! S'en aller pendant une quinzaine, abandonner les rênes*<note type="annotaiton">Les rênes de la maison. La direction de la maison.</note> de sa maison, pour une ménagère, ce n'est pas une
                   mince affaire ! Qui va faire le ménage et la soupe ? Qui, le samedi, tirera de l'armoire, sans tout bousculer, les vêtements de rechange, les chemises, les mouchoirs, les
                   chaussettes?</p>
                <p>En songeant ainsi, elle regardait ses trois frères dont les deux derniers, elle le voyait bien, eussent, pour aller aussi à <placeName>Paris</placeName>, donné leur part de toutes les soupes et de tout le
@@ -774,7 +774,7 @@
             <head>76. — Les adieux. (Élève, p. 160.)</head>
             <div2 type="récit">
                <p>Elle et sa malle furent conduites, dans le char à bancs, à la gare de <placeName>Saint-Quentin</placeName>, par toute la famille et par <persName type="fictif" key="ludivine">Ludivine</persName> qui, ayant affaire pour la première fois de sa vie à
-                  <placeName>Tergnier</placeName>*<gloss>Tergnier. Localité du département de l'<placeName>Aisne</placeName> où aboutissent plusieurs lignes de chemin de fer.</gloss>, pour la première fois aussi allait monter en chemin de fer.
+                  <placeName>Tergnier</placeName>*<note type="annotaiton">Tergnier. Localité du département de l'<placeName>Aisne</placeName> où aboutissent plusieurs lignes de chemin de fer.</note>, pour la première fois aussi allait monter en chemin de fer.
                   Elle était aussi émue que si elle eût trotté au-devant de sa mort.</p>
                <fw type="footer"><fw type="sig">15.</fw></fw>
                <pb type="page" n="262" />
@@ -789,7 +789,7 @@
                <pb type="page" n="263" />
                <fw>LES ADIEUX. 263</fw>
                <p>C'était vrai ; peu s'en fallait que de cette gare, en suivant la ligne du Nord jusqu'au point où elle se rattache, par la ligne belge, à celles d'<placeName>Allemagne</placeName>, puis de <placeName>Russie</placeName>, on ne pût
-                  aller jusqu'aux confins*<gloss>Confins. Les extrémités d'un pays, d'une contrée, etc.</gloss> de la terre.</p>
+                  aller jusqu'aux confins*<note type="annotaiton">Confins. Les extrémités d'un pays, d'une contrée, etc.</note> de la terre.</p>
                <p><persName type="fictif" key="ludivine">Ludivine</persName> restait clouée sur place, entendant le bruit sans les mots, comme il arrive aux gens qui ne savent pas écouter tranquillement.</p>
                <p>Les billets pris, on s'embrassa tout en se faisant des recommandations mutuelles :</p>
                <p>— <persName type="fictif" key="jacques">Jacques</persName> ! veille sur <persName type="fictif" key="françois">François</persName> et <persName type="fictif" key="charlot">Charlot</persName> ! <persName type="fictif" key="françois">François</persName> ! au moins pas de sottises, jusqu'à mon retour ! n'est-ce pas, chéri ?</p>
@@ -913,7 +913,7 @@
             <div2 type="récit">
                <p>Dans cette salle se trouvaient déjà nombre de voyageurs, des messieurs, des dames, debout ou assis à côté de valises, de sacs de nuit, de cartons à chapeaux, de paniers, de paquets
                   entourés de ficelles ou de courroies.</p>
-               <p><persName type="fictif" key="suzette">Suzette</persName> fit asseoir sur un bout de banquette <persName type="fictif" key="ludivine">Ludivine</persName>, de plus en plus ahurie*<gloss> Ahuri. Troublé. </gloss>, et qui poussait de profonds soupirs :</p>
+               <p><persName type="fictif" key="suzette">Suzette</persName> fit asseoir sur un bout de banquette <persName type="fictif" key="ludivine">Ludivine</persName>, de plus en plus ahurie*<note type="annotaiton"> Ahuri. Troublé. </note>, et qui poussait de profonds soupirs :</p>
                <p>— Ah ! j'avais bien juré que jamais, au grand jamais, je ne mettrais les pieds ici ! mais le malheur veut que je doive aller moi-même chercher de l'argent à <placeName>Tergnier</placeName> ! <persName type="fictif" key="suzette">Suzette</persName>, qui
                   avait déjà vainement essayé de la rassurer, ne l'écoutait pas.</p>
                <pb type="page" n="266" />
@@ -931,8 +931,8 @@
                   <caption>Évitez la rencontire des affolés.</caption>
                </figure> s'était accrochée au bras de <persName type="fictif" key="suzette">Suzette</persName> et, de nouveau ahurie :</p>
                <p>—Ma fille ! mais je nous croyais en route !... Ah ! que va-t-il arriver ?</p>
-               <p>Du quai*<gloss> Quai. Trottoir le long d'une vole de chemin du fer. </gloss>, au tournant d'une courbe, on vit accourir la locomotive comme un monstrueux animal se ruant à l'ennemi ;
-                  on entendit son énorme halètement*<gloss> Halètement. On compare ici la locomotive à un animal haletant, hors d'lia-leine. </gloss>. En soufflant, sifflant, fumant, elle s'arrêta.
+               <p>Du quai*<note type="annotaiton"> Quai. Trottoir le long d'une vole de chemin du fer. </note>, au tournant d'une courbe, on vit accourir la locomotive comme un monstrueux animal se ruant à l'ennemi ;
+                  on entendit son énorme halètement*<note type="annotaiton"> Halètement. On compare ici la locomotive à un animal haletant, hors d'lia-leine. </note>. En soufflant, sifflant, fumant, elle s'arrêta.
                   <pb type="page" n="267" />
                   <fw>LA SALLE D'ATTENTE. 267</fw> Puis les wagons ayant reçu leurs voyageurs, elle souffla, siffla encore et se lança.</p>
                <p>— Cette fois, <persName type="fictif" key="ludivine">Ludivine</persName>, nous sommes en route.</p>
@@ -940,7 +940,7 @@
                <p>Enfin, voici <placeName>Tergnier</placeName> !</p>
                <p><persName type="fictif" key="ludivine">Ludivine</persName> sauta de wagon, fila comme un lièvre ; et, en agitant son parapluie pour saluer une dernière fois <persName type="fictif" key="suzette">Suzette</persName>, décoiffa un monsieur, manqua d'éborgner une dame, qui se
                   fâchèrent.</p>
-               <p>Évitez la rencontre des affolés*<gloss>Affolé. Qui perd la raison.</gloss>.</p>
+               <p>Évitez la rencontre des affolés*<note type="annotaiton">Affolé. Qui perd la raison.</note>.</p>
             </div2>
             <div2 type="questionnaire">
                <head>Questionnaire.</head>
@@ -1053,16 +1053,16 @@
                <p>« Mais ces Parisiens ont l'air de ne pas trop penser aux grands ciels, aux grandes plaines à perte de vue; ils ont <placeName>Paris</placeName> qui leur suffit, comme m'a dit <persName type="fictif" key="louis">Louis</persName>. Ils en sont très fiers,
                   et avec assez de raison, il me semble. C'est une si vaste, une si belle ville, avec des habitants si distingués, au moins dans ce que j'ai pu voir jusqu'ici !</p>
                <p>« Par exemple, je me fais l'effet d'une écolière devant ma cousine <persName type="fictif" key="marthe">Marthe</persName> qui, de quatre ans plus jeune que moi, parle déjà presque aussi bien que <persName type="fictif" key="mme_valon">Mme Valon</persName> et se tient avec
-                  l'aisance d'une dame. Ma gaucherie*<gloss>Gaucherie. Manque d'aisance, de grâce, d'adresse.</gloss> , ma simplicité campagnarde la font sourire. Elle me traite en petite fille. A la
+                  l'aisance d'une dame. Ma gaucherie*<note type="annotaiton">Gaucherie. Manque d'aisance, de grâce, d'adresse.</note> , ma simplicité campagnarde la font sourire. Elle me traite en petite fille. A la
                   gare, où elle m'attendait hier avec ma tante et l'explorateur, elle m'a dit après deux minutes : « Tu ne serais pas mal si tu savais te coiffer. »</p>
                <p>« Ma tante fait de bien jolies choses en robes et en <pb type="page" n="270" />
                   <fw>270 SUZETTE.</fw> manteaux. Sans compter <persName type="fictif" key="marthe">Marthe</persName>, elle a deux ouvrières, l'une de mon âge, l'autre d'au moins dix-huit ans. Toutes les deux se couvrent les joues d'une sorte de
                   farine qui leur donne l'air d'arriver du moulin.</p>
                <p>« <persName type="fictif" key="pascal">Pascal</persName> est gentil ; il me parle de vous, de <placeName type="fictif">Fragicourt</placeName> et même de l'Afrique. Il croit toujours l'avoir parcourue ; et certainement il la parcourra un jour. En attendant, il va à
                   l'<placeName>école Turgot</placeName>.</p>
-               <p>— L'aîné, le cousin <persName type="fictif" key="louis">Louis</persName>, déjà barbu, et qui vous ressemble, cher papa, a un emploi de constructeur*<gloss>Constructeur-mécanicien. Celui qui s'occupe de construire des
-                  machines.</gloss> mécanicien dans une grande usine*<gloss>Usine. Établissement où l'on s'aide de machines puissantes pour une fabrication ; telles sont les verreries, les
-                     moulins.</gloss>.</p>
+               <p>— L'aîné, le cousin <persName type="fictif" key="louis">Louis</persName>, déjà barbu, et qui vous ressemble, cher papa, a un emploi de constructeur*<note type="annotaiton">Constructeur-mécanicien. Celui qui s'occupe de construire des
+                  machines.</note> mécanicien dans une grande usine*<note type="annotaiton">Usine. Établissement où l'on s'aide de machines puissantes pour une fabrication ; telles sont les verreries, les
+                     moulins.</note>.</p>
                <p>« C'est lui surtout qui nous guidera à travers l'Exposition. Comme il est tres instruit, j'y passerai mon temps, je crois, d'une manière qui ne déplaira pas trop à <persName type="fictif" key="mme_valon">Mme Valon</persName>. Nous
                   irons après-demain dimanche.</p>
                <p>« Tout <placeName>Paris</placeName> embrasse tout <placeName type="fictif">Fragicourt</placeName> et lui recommande la santé et la gaieté, deux bons biens de ce monde. Pour moi, dès que je suis seule, mon cœur s'envole au village près de
@@ -1102,7 +1102,7 @@
                         <l>« marquez de quelle manière elle s'adresse à ses supérieurs, sur quel </l>
                         <l>« ton elle converse avec ses égales, et comment elle traite ses infé-</l>
                         <l>« rieures. Réfléchissez aux tournures variées que prend sa conversa-</l>
-                        <l>« tion dans les diverses circonstances où elle se trouve, soit durant<gloss> * </gloss> les </l>
+                        <l>« tion dans les diverses circonstances où elle se trouve, soit durant<note type="annotaiton"> * </note> les </l>
                         <l>« visites, soit à table, ou enfin le soir dans les réceptions. Imitez-la </l>
                         <l>« sans la contrefaire, et soyez son ombre, ou un autre elle-même sans </l><pb type="page" n="271" />
                         <fw>A PARIS. 271</fw> 
@@ -1182,14 +1182,14 @@
                   <fw>SUR LA SEINE. 273</fw> parisien, se déroulait la suite interminable des ponts. </p>
                <p><persName type="fictif" key="suzette">Suzette</persName>, assise à l'avant du bateau entre la tante <persName type="fictif" key="mme_richard">Jeanne</persName> et la cousine <persName type="fictif" key="marthe">Marthe</persName>, se taisait, emplissant ses yeux du spectacle. En face. <persName type="fictif" key="louis">Louis</persName> et <persName type="fictif" key="pascal">Pascal</persName> lui nômmaient au passage les
                   merveilles à travers lesquelles la petite troupe se rendait à l'Exposition.</p>
-               <p>Embarqués au <placeName>pont Sully</placeName>, on longea, à droite, l'<placeName>Hôtel de ville</placeName>, l'ancienne Maison aux piliers où, pour la première fois, la bourgeoisie de France, entraînée par le prévôt*<gloss>
-                  Prévôt des marchands. Magistrat qui était le chef de l'hôtel de ville, le maire, en quelque sorte. </gloss> des marchands de <placeName>Paris</placeName>, <persName type="historique">Etienne Marcel</persName>, révendiqua*<gloss>
-                     Revendiquer. Réclamer une chose qui vous appartient et qui est dans les mains d'un autre. </gloss> ses droits contre la monarchie absolue gaspilleuse*<gloss> Gaspiller. Dissiper
-                        de l'argent avec une folle prodigalité. </gloss> des deniers publics*<gloss>Deniers publics. Le produit des impôts.</gloss>.</p>
+               <p>Embarqués au <placeName>pont Sully</placeName>, on longea, à droite, l'<placeName>Hôtel de ville</placeName>, l'ancienne Maison aux piliers où, pour la première fois, la bourgeoisie de France, entraînée par le prévôt*<note type="annotaiton">
+                  Prévôt des marchands. Magistrat qui était le chef de l'hôtel de ville, le maire, en quelque sorte. </note> des marchands de <placeName>Paris</placeName>, <persName type="historique">Etienne Marcel</persName>, révendiqua*<note type="annotaiton">
+                     Revendiquer. Réclamer une chose qui vous appartient et qui est dans les mains d'un autre. </note> ses droits contre la monarchie absolue gaspilleuse*<note type="annotaiton"> Gaspiller. Dissiper
+                        de l'argent avec une folle prodigalité. </note> des deniers publics*<note type="annotaiton">Deniers publics. Le produit des impôts.</note>.</p>
                <p>L'hôtel de ville de <persName type="historique">François Ier</persName>, qui remplaça cette antique Maison commune, fut à son tour remplacé par un autre. Et celui-ci, sa copie exacte, brillait tout neuf dans sa masse
                   élégante, la blancheur de sa pierre, de ses statues, le flamboiement de ses dorures.</p>
-               <p>Le modèle avait été incendié; <persName type="fictif" key="mme_richard">Mme Richard</persName> en avait vu les flammes. Elle le dit ; à demi-voix, elle conta les souvenirs douloureux et terribles de la guerre civile*<gloss>Guerre civile.
-                  Guerre entre les citoyens d'un même pays.</gloss> : l'<placeName>Hôtel de ville</placeName> brûlant, et les hommes, les frères se massacrant en tre eux. La voix, à force d'émotion, lui manqua
+               <p>Le modèle avait été incendié; <persName type="fictif" key="mme_richard">Mme Richard</persName> en avait vu les flammes. Elle le dit ; à demi-voix, elle conta les souvenirs douloureux et terribles de la guerre civile*<note type="annotaiton">Guerre civile.
+                  Guerre entre les citoyens d'un même pays.</note> : l'<placeName>Hôtel de ville</placeName> brûlant, et les hommes, les frères se massacrant en tre eux. La voix, à force d'émotion, lui manqua
                   bientôt.</p>
                <figure>
                   <caption>Pirates normands. Les Normands, ou Northmans, originaires de la <placeName>Scandinavie</placeName>, étaient des marins audacieux qui remontaient les fleuves, pillaient les villes et dévastaient
@@ -1207,7 +1207,7 @@
                </figure> ment, a porté ensuite les ravageuses barques des pirates normands, qui s'appelaient rois de la mer et disaient d'eux-mêmes :</p>
                <p>« Nous prenons la route des cygnes. L'ouragan est à notre service, il nous porte où nous voulons. »</p>
                <p><persName type="fictif" key="pascal">Pascal</persName>, qui justement venait de lire cette histoire, dépeignit les grandes barques normandes à formes d'oiseaux bizarres, glissant silencieusement, la nuit, sur la <placeName><geogFeat type="fleuve">Seine</geogFeat></placeName> ; puis les
-                  brusques clameurs*<gloss>Clameur. Grand cri.</gloss>, des barbares <pb type="page" n="275" />
+                  brusques clameurs*<note type="annotaiton">Clameur. Grand cri.</note>, des barbares <pb type="page" n="275" />
                   <fw>SUR LA SEINE. 275</fw> débarqués par surprise, le pillage des maisons, des églises, la dévastation des champs. Il raconta le grand siège de dix-huit mois, où <placeName>Paris</placeName> fit des
                   prodiges de résistance et de courage et, par sa force, prit le pas sur les autres villes, à cette heure où la patrie française naissait à peine.</p>
             </div2>
@@ -1317,23 +1317,23 @@
             <pb type="page" n="276" />
             <head>80. — Monuments. (Élève, p. 169.)</head>
             <div2 type="récit">
-               <p>Maintenant voilà, à droite, le <placeName>Louvre</placeName>, le second grand monument de la gracieuse et élégante Renaissance, aux proportions*<gloss>Proportions harmonieuses. On désigne ainsi les
-                  dimensions des diverses parties d'un édifice, quand elles donnent un ensemble agréable aux regards.</gloss> harmonieuses.</p>
+               <p>Maintenant voilà, à droite, le <placeName>Louvre</placeName>, le second grand monument de la gracieuse et élégante Renaissance, aux proportions*<note type="annotaiton">Proportions harmonieuses. On désigne ainsi les
+                  dimensions des diverses parties d'un édifice, quand elles donnent un ensemble agréable aux regards.</note> harmonieuses.</p>
                <pb type="page" n="277" />
                <fw>MONUMENTS. 277</fw>
                <p>C'était autrefois, au temps de la monarchie, la demeure des rois. Là où ils habitèrent, sont réunis aujourd'hui les splendides trésors du génie humain de tous les temps, de tous les
                   lieux, depuis ceux de la France et de l'<placeName>Europe</placeName> modernes jusqu'aux œuvres artistiques, si pures, de la vieille <placeName>Grèce</placeName>, de l'antique <placeName>Egypte</placeName> et de la mystérieuse <placeName>Assyrie</placeName>. Les
-                  sphinx*<gloss>Sphinx. Monstre imaginaire avec une tête de femme et le corps d'un lion.</gloss> énormes, les taureaux de pierre, les monstrueuses idoles, les sépultures arrachées
+                  sphinx*<note type="annotaiton">Sphinx. Monstre imaginaire avec une tête de femme et le corps d'un lion.</note> énormes, les taureaux de pierre, les monstrueuses idoles, les sépultures arrachées
                   aux entrailles de la terre nous racontent la vie des peuples disparus depuis des milliers d'années.</p>
                <p>Ici, sur ce vaste emplacement, furent les royales <figure>
                   <caption>Place de la Concorde. Au milieu de la place, l'<placeName>obélisque</placeName>, monument égyptien, d'une seule pierre, de vingt-deux mêtres de hauteur ; dans le fond, la <placeName>Chambre des députés</placeName>.
                   </caption>
                </figure> <placeName>Tuileries</placeName>, disparues aussi dans les flammes de la guerre civile. Le jardin est resté; la nature a la vie plus longue que les monuments.</p>
-               <p>Au bout, la vaste et noble <placeName>place de la Concordé</placeName> avec son obélisque*<gloss>Obélisque. Monument en forme de pyramide très allongée, ordinairement d'une seule pierre.</gloss> égyptien,
+               <p>Au bout, la vaste et noble <placeName>place de la Concordé</placeName> avec son obélisque*<note type="annotaiton">Obélisque. Monument en forme de pyramide très allongée, ordinairement d'une seule pierre.</note> égyptien,
                   son cercle de statues ; puis un coin verdoyant des <placeName>Champs-Elysées</placeName>.</p>
-               <p>Entre ces rives magnifiques et historiques, le bateau glisse toujours. Enfin on voit se dresser tout près les tours du <placeName>Trocadéro</placeName>*<gloss><placeName>Trocadéro</placeName>. Fort voisin de <placeName>Cadix</placeName> qui fut pris
-                  par les Français en 1823.</gloss> .</p>
-               <p><placeName>Pont de l'Alma</placeName>*<gloss><placeName><geogFeat type="fleuve">Alma</geogFeat></placeName>. Petit fleuve de <placeName>Crimée</placeName> sur les bords duquel les Français vainquirent les Russes en 1854.</gloss> ! l'<placeName>Alma</placeName> ! crie le pilote.</p>
+               <p>Entre ces rives magnifiques et historiques, le bateau glisse toujours. Enfin on voit se dresser tout près les tours du <placeName>Trocadéro</placeName>*<note type="annotaiton"><placeName>Trocadéro</placeName>. Fort voisin de <placeName>Cadix</placeName> qui fut pris
+                  par les Français en 1823.</note> .</p>
+               <p><placeName>Pont de l'Alma</placeName>*<note type="annotaiton"><placeName><geogFeat type="fleuve">Alma</geogFeat></placeName>. Petit fleuve de <placeName>Crimée</placeName> sur les bords duquel les Français vainquirent les Russes en 1854.</note> ! l'<placeName>Alma</placeName> ! crie le pilote.</p>
                <p><persName type="fictif" key="louis">Louis</persName> propose de descendre et d'entrer à l'Exposition par le palais, afin de donner à cousine <persName type="fictif" key="suzette">Suzette</persName> un autre beau spectacle.</p>
                <fw type="footer">SUZETTE (Maitresse). <fw type="sig">16</fw></fw>
                <pb type="page" n="278" />

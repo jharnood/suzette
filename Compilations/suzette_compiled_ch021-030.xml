@@ -82,7 +82,7 @@
                <p> « Sans le regret du village qui me tient toujours, je serais ici comme un poisson dans l'eau. </p>
                <pb type="page" n="76" />
                <fw type="header"> 76 SUZETTE. </fw>
-               <p> « Le <placeName>Paraclet</placeName> est charmant*<gloss>Charmant. Très agréable.</gloss>. L'école, 
+               <p> « Le <placeName>Paraclet</placeName> est charmant*<note type="annotation">Charmant. Très agréable.</note>. L'école, 
                   bâtie sur le flanc d'une colline, domine une
                   belle vallée où coulent l'<placeName><geogFeat type="fleuve" ref="avre">Avre</geogFeat></placeName> et la 
                   <placeName><geogFeat type="fleuve" ref="moye">Moye</geogFeat></placeName>. Un petit village de maisonnettes rouges et blanches, 
@@ -91,44 +91,44 @@
                <p> « Cent vingt hectares, voilà mon domaine maintenant.</p>
                <p> « Quel grand propriétaire je fais, n'est-ce pas ? Il est vrai que je partage avec de nombreux camarades. </p>
                <p> « Et le travail des champs marche ici avec celui de l'esprit ; l'histoire, la chimie* 
-                  <gloss>Chimie. Science qui étudie ce qui peut changer l'état des corps et les applications
-                  utiles qui en résultent.</gloss>, la physique*<gloss>Physique. Science qui étudie les propriétés des corps matériels 
-                     sans les décomposer, comme on le fait en chimie.</gloss>,
+                  <note type="annotation">Chimie. Science qui étudie ce qui peut changer l'état des corps et les applications
+                  utiles qui en résultent.</note>, la physique*<note type="annotation">Physique. Science qui étudie les propriétés des corps matériels 
+                     sans les décomposer, comme on le fait en chimie.</note>,
                   l'horticulture, l'arboriculture, nous occupent une partie du jour. </p>
-               <p> « Des professeurs et un laboratoire* <gloss>Laboratoire. Local disposé pour faire les expériences de physique et de chimie.
-               </gloss> ! rien ne nous manque. Aux vacances, vous verrezre
-                  comme on taillera, greffera* <gloss>Greffer. Fixer, dans la fente d'une tige d'arbre, une petite branche que 
-                     l'on coupe sur un arbre de meilleure espèce.</gloss> ! Et quels beaux
+               <p> « Des professeurs et un laboratoire* <note type="annotation">Laboratoire. Local disposé pour faire les expériences de physique et de chimie.
+               </note> ! rien ne nous manque. Aux vacances, vous verrezre
+                  comme on taillera, greffera* <note type="annotation">Greffer. Fixer, dans la fente d'une tige d'arbre, une petite branche que 
+                     l'on coupe sur un arbre de meilleure espèce.</note> ! Et quels beaux
                   fruits mangeront ceux qui les aiment, par exemple, une jeune fermière de ma connaissance qu'on appelle 
                   <persName type="fictif" key="suzette">Suzette</persName> ! </p>
-               <p> « La chimie agricole surtout me passionne. Quelle ressource pour l'agronome*<gloss>Agronome. Celui qui s'occupe de perfectionner
-                  l'agriculture.</gloss> ! La chimie vous
+               <p> « La chimie agricole surtout me passionne. Quelle ressource pour l'agronome*<note type="annotation">Agronome. Celui qui s'occupe de perfectionner
+                  l'agriculture.</note> ! La chimie vous
                   analyse*<!--Analyse has an asterisk but no definition in the lexique--> une plante, en montre un à un les éléments*
-                  <gloss>Éléments. Les parties, les substances dont un corps est
-                     composé.</gloss> : tant d'azote* <gloss>Azote. L'un des deux gaz qui forment l'air ; il ne peut entretenir la combustion.</gloss>,
-                  tant de carbone* <gloss>Carbone. Corps
-                        qui, à l'état de pureté, est le diamant, et qui constitue la base du bois et du charbon.</gloss>, tant de soufre,
-                  d'oxygène*<gloss>Oxygène. Celui des deux gaz de l'air qui peut
-                           entretenir la combustion.</gloss>, d'hydrogène*<gloss>Hydrogène. Gaz 14 fois et demie plus léger que l'air.</gloss>, etc. ; 
+                  <note type="annotation">Éléments. Les parties, les substances dont un corps est
+                     composé.</note> : tant d'azote* <note type="annotation">Azote. L'un des deux gaz qui forment l'air ; il ne peut entretenir la combustion.</note>,
+                  tant de carbone* <note type="annotation">Carbone. Corps
+                        qui, à l'état de pureté, est le diamant, et qui constitue la base du bois et du charbon.</note>, tant de soufre,
+                  d'oxygène*<note type="annotation">Oxygène. Celui des deux gaz de l'air qui peut
+                           entretenir la combustion.</note>, d'hydrogène*<note type="annotation">Hydrogène. Gaz 14 fois et demie plus léger que l'air.</note>, etc. ; 
                   et le cultivateur ayant appris tout cela, sait encore
                   que les plantes puisent ces éléments pour la plus grande partie dans le sol par leurs racines et radicelles* 
-                  <gloss>Radicelles. Petites ramifications d'une racine.</gloss>. Il lui
+                  <note type="annotation">Radicelles. Petites ramifications d'une racine.</note>. Il lui
                   devient alors aisé de donner, par des engrais appropriés, à chacune la nourriture qui lui convient, et de la
                   rendre ainsi belle et vigoureuse. </p>
-               <p> « A étudier et à bêcher tour à tour, je me porte comme un charme*<gloss>Charme. Parfaitement bien.</gloss>. 
+               <p> « A étudier et à bêcher tour à tour, je me porte comme un charme*<note type="annotation">Charme. Parfaitement bien.</note>. 
                   Un professeur nous disait hier que les hommes devraient à peu près tous
                   pouvoir partager ainsi leur journée entre le travail des mains et celui de l'esprit. Ils s'en porteraient 
                   mieux intellectuellement, et peut-être en viendront-ils là dans l'avenir. </p>
                <p> « J'ai fait ici la connaissance d'un homme que vous aimeriez beaucoup, cher père : c'est 
-                  <persName type="historique">Olivier de Serres</persName>* <gloss>Olivier de Serres. Grand
-                  agronome contemporain de <persName type="historique">Henri IV</persName>.</gloss>. Sa pensée vit, encore, 
+                  <persName type="historique">Olivier de Serres</persName>* <note type="annotation">Olivier de Serres. Grand
+                  agronome contemporain de <persName type="historique">Henri IV</persName>.</note>. Sa pensée vit, encore, 
                   quoiqu'il soit mort depuis à peu près trois cents ans. On l'appelle le
                   père de l'agriculture. Il créa l'agronomie, il aima les champs, et, par grand désir d'être utile aux 
                   hommes, écrivit des livres <pb type="page" n="77" />
                   <fw type="header"> UNE LETTRE DE JACQUES. 77 </fw> qui, après trois siècles, continuent de nous éclairer. </p>
                <p> « Le directeur du <placeName>Paraclet</placeName> est un brave. En 1870, sergent de mobiles*
-                  <gloss>Mobiles. Les mobiles étaient de jeunes
-                  soldats qui n'avaient pas été formés au service militaire.</gloss>, en pleine bataille, 
+                  <note type="annotation">Mobiles. Les mobiles étaient de jeunes
+                  soldats qui n'avaient pas été formés au service militaire.</note>, en pleine bataille, 
                   il retourna sur ses pas et se rejeta dans la mitraille pour aller reprendre le drapeau de
                   la compagnie aux mains de celui qui le portait et qu'une balle venait de frapper.
                   Il sauva le drapeau. C'est beau, cela, n'est-ce pas ? </p>
@@ -253,10 +253,10 @@
                <pb type="page" n="79" />
                <fw type="header">UN ÉTEIGNOIR A CHANDELLE. 79</fw>
                <p>Une demi-heure auparavant, <persName type="fictif" key="françois">François</persName> avait détruit une chaise, — c'était la troisième ;
-                  l'horloge, le bac à charbon*<gloss>Bac à
-                  charbon. Caisse où l'on place le charbon.</gloss> avaient péri de sa main ; le jardin montrait un cerisier, deux poiriers et trois
-                  pommiers fort éclopés*<gloss> Eclopé. Celui dont
-                     l'ètat n'est pas satisfaisant.</gloss> de son fait. Les serrures des portes et des armoires avaient été démontées plusieurs fois
+                  l'horloge, le bac à charbon*<note type="annotation">Bac à
+                  charbon. Caisse où l'on place le charbon.</note> avaient péri de sa main ; le jardin montrait un cerisier, deux poiriers et trois
+                  pommiers fort éclopés*<note type="annotation"> Eclopé. Celui dont
+                     l'ètat n'est pas satisfaisant.</note> de son fait. Les serrures des portes et des armoires avaient été démontées plusieurs fois
                   pour laisser voir ce qu'elles contenaient, comme
                   il arrive aux poupées dont les petites filles curieuses crèvent la peau pour s'assurer de ce qu'il y a dedans.</p>
                <figure>
@@ -264,12 +264,12 @@
                </figure>
                <p> La curiosité n'est cependant pas toujours mauvaise, et celle de <persName type="fictif" key="françois">François</persName> avait un côté
                   assez intéressant. Il en tirait, quoique à
-                  grands frais*<gloss>Grands frais. Avec grande dépense.</gloss>, des idées parfois ingénieuses*<gloss>Idée ingénieuse. Idée qui 
+                  grands frais*<note type="annotation">Grands frais. Avec grande dépense.</note>, des idées parfois ingénieuses*<note type="annotation">Idée ingénieuse. Idée qui 
                      inspire des amèlioations auxquelles on ne sougeait
-                     pas.</gloss>.</p>
+                     pas.</note>.</p>
                <p>Une nuit de jeudi, <persName type="fictif" key="suzette">Suzette</persName>, affairée à ses couveuses*
-                  <gloss>Couveuses. Poule qui couve.</gloss>, qui lui donnaient en ce moment pas
-                  mal de surcroît*<gloss>Surcroît. Ce qui s'ajoute à quelque chose pour en augmenter le poids ou l'importance.</gloss> de besogne, 
+                  <note type="annotation">Couveuses. Poule qui couve.</note>, qui lui donnaient en ce moment pas
+                  mal de surcroît*<note type="annotation">Surcroît. Ce qui s'ajoute à quelque chose pour en augmenter le poids ou l'importance.</note> de besogne, 
                   n'avait pu regarder que d'un œil aux agissements du
                   galopin. Sur le coup de onze heures, toute la famille étant au lit depuis longtemps, un grand fracas d'écroulement s'entendit soudain.</p>
                <p><persName type="fictif" key="suzette">Suzette</persName>, <persName type="fictif" key="m_dumay">M. Dumay</persName>, se levèrent, 
@@ -444,27 +444,27 @@
             <pb type="page" n="81" />
             <head>23. — Le secret de <persName type="fictif" key="ludivine">Ludivine</persName>. (Élève, p. 56.)</head>
             <div2 type="récit">
-               <p>Il dit cela avec la belle tranquillité de l'inventeur*<gloss>Inventeur. Celui qui fait une invention.</gloss> sans reproche, et il 
+               <p>Il dit cela avec la belle tranquillité de l'inventeur*<note type="annotation">Inventeur. Celui qui fait une invention.</note> sans reproche, et il 
                   continua : </p>
                <fw type="footer"><fw type="sig">5.</fw></fw>
                <pb type="page" n="82" />
                <fw>82 SUZETTE.</fw>
-               <p>— La ficelle a cassé ; et comme j'étais couché, le cliquet*<gloss>Cliquet. Petit levier pour empêcher une roue dentée de revenir en
-                  arrière.</gloss> m'est tombé sur le nez.</p>
+               <p>— La ficelle a cassé ; et comme j'étais couché, le cliquet*<note type="annotation">Cliquet. Petit levier pour empêcher une roue dentée de revenir en
+                  arrière.</note> m'est tombé sur le nez.</p>
                <p>Il montrait le plafond, où se voyaient encore quelques clous, des trous, des dégradations du plâtre :</p>
                <p>— Papa, ça a très bien marché, au moins vingt fois ; l’éteignoir descendait tout seul et fonctionnait à ravir. — Son regard rencontra 
                   la bougie à demi consumée et, sur une
                   chaise, une cinquantaine d'allumettes brûlées : — Mais, à la vingt-unième fois, la ficelle casse ; paf ! le cliquet sur…! </p>
                <p>La main paternelle fit un petit mouvement du côté de l'éteigneur de chandelles. Mais 
                   <persName type="fictif" key="suzette">Suzette</persName>, déjà en train de
-                  bassiner*<gloss>Bassiner une blessure. Humecter, mouiller avec un liquide tiède ou chaud.</gloss>la blessure, arrêta d'un regard 
+                  bassiner*<note type="annotation">Bassiner une blessure. Humecter, mouiller avec un liquide tiède ou chaud.</note>la blessure, arrêta d'un regard 
                   cette main. </p>
                <p>— Papa, dit-elle, ne prenez pas la peine, je vous prie, de vous occuper de ce mauvais garçon. Et vous, Monsieur, tournez-vous par ici,
                   cachez à votre père cette vilaine trompette
                   de nez que vous venez de changer en pomme de terre !></p>
-               <p>Le papa grommela*<gloss>Grommeler. Murmurer, se plaindre entre ses dents.</gloss> un instant, puis : </p>
+               <p>Le papa grommela*<note type="annotation">Grommeler. Murmurer, se plaindre entre ses dents.</note> un instant, puis : </p>
                <p>— Bon, pose-lui là-dessus une toile d'araignée, quoiqu’il ne mérite pas tant de soins.</p>
-               <p>Mais où étaient-elles les toiles d'araignées ? Depuis longtemps cela avait déserté*<gloss>Déserter. Voir nº 11.</gloss> la maison.</p>
+               <p>Mais où étaient-elles les toiles d'araignées ? Depuis longtemps cela avait déserté*<note type="annotation">Déserter. Voir nº 11.</note> la maison.</p>
                <p>Avant qu'on eût le temps de le retenir, <persName type="fictif" key="françois">François</persName>
                   <figure>
                      <caption>— C'est la ficelle qui a cassé et le cliquet m'est tombé sur le nez.</caption>
@@ -485,8 +485,8 @@
                   mère. — Puis, doucement, en femme qui a un secret, et qui ne veut pas le laisser tomber en route, 
                   <persName type="fictif" key="ludivine">Ludivine</persName> alla au colombier.
                   Elle reparut bientôt, tenant quelque chose dans sa main fermée, et annonça à voix basse qu'avant une heure elle rapporterait un 
-                  onguent*<gloss>Onguent. Mélange ou composition
-                     molle qu'on étend sur du linge, du papier, et qu'on applique sur une plaie.</gloss> dont on lui dirait des nouvelles.</p>
+                  onguent*<note type="annotation">Onguent. Mélange ou composition
+                     molle qu'on étend sur du linge, du papier, et qu'on applique sur une plaie.</note> dont on lui dirait des nouvelles.</p>
                <p>Après trois quarts d'heure, elle revint avec le visage d'une personne enchantée de faire le bien, et de ses propres mains plaça 
                   sur la toile d'araignée un cataplasme. <persName
                   type="fictif" key="françois">François</persName> poussa une exclamation, renifla, et avec une grimace :</p>
@@ -500,7 +500,7 @@
                <p>Cependant, comme il voulait guérir au plus vite pour chercher une ficelle plus solide et reprendre son
                   <pb type="page" n="84" />
                   <fw type="header"> 84 SUZETTE.</fw>
-                  expérience*<gloss>Expérience. Epreuve, essai que l'on fait pour découvrir ou pour arriver à démontrer une vérité.</gloss>, 
+                  expérience*<note type="annotation">Expérience. Epreuve, essai que l'on fait pour découvrir ou pour arriver à démontrer une vérité.</note>, 
                   ou quelque autre
                   de ce genre, il tenait bravement.</p>
                <p>Mais <persName type="fictif" key="suzette">Suzette</persName> devenait inquiète.</p>
@@ -627,9 +627,9 @@
             <pb type="page" n="85" />
             <head>24. — La bohémienne. (Élève, p. 58.)</head>
             <div2 type="récit">
-               <p>Après le coucher du soleil, comme elle causait sur la porte avec le patient*<gloss>Le patient. Celui qui souffre.</gloss>, qui 
+               <p>Après le coucher du soleil, comme elle causait sur la porte avec le patient*<note type="annotation">Le patient. Celui qui souffre.</note>, qui 
                   se trouvait mieux à l'air, tout à coup
-                  surgit*<gloss>Surgir. Sortir de, s'élever au-dessus, apparaître sans être attendu.</gloss> à quelques pas une longue et 
+                  surgit*<note type="annotation">Surgir. Sortir de, s'élever au-dessus, apparaître sans être attendu.</note> à quelques pas une longue et 
                   
                   <pb type="page" n="86" />
                   <fw type="header">86 SUZETTE.</fw>
@@ -641,7 +641,7 @@
                   de <persName type="fictif" key="suzette">Suzette</persName> : </p>
                <p>— Il est malade, le petit ?</p>
                <p>— Oui, d'un bobo qui ne se presse pas de guérir.</p>
-               <p>— Et qui ne guérira pas ! repartit aussitôt l'étrange*<gloss>Étrange. Qui n'est point comme les choses ou personnes ordinaires.</gloss> créature, 
+               <p>— Et qui ne guérira pas ! repartit aussitôt l'étrange*<note type="annotation">Étrange. Qui n'est point comme les choses ou personnes ordinaires.</note> créature, 
                   avec un ton qui fit frissonner la jeune fille.</p>
                <p>— Vous dites... qu'il ne guérira pas ? demanda <persName type="fictif" key="suzette">Suzette</persName>, la voix soudainement altérée.</p>
                <p>— Je le dis !</p>
@@ -663,14 +663,14 @@
                   car, en ce moment, point 
                   <pb type="page" n="87" />
                   <fw type="header">LA BOHÉMIENNE. 87</fw> 
-                  d'autre malade que lui au village. Ah ! ne fallait-il pas tout tenter*<gloss>Tenter une chose. Essayer ; mettre, pour réussir, un moyen
-                     quelconque en usage.</gloss> contre ce terrible souci ? Quand cette grande femme, qui semblait avoir quelque puissance mystérieuse, 
+                  d'autre malade que lui au village. Ah ! ne fallait-il pas tout tenter*<note type="annotation">Tenter une chose. Essayer ; mettre, pour réussir, un moyen
+                     quelconque en usage.</note> contre ce terrible souci ? Quand cette grande femme, qui semblait avoir quelque puissance mystérieuse, 
                   attendait là, à côté, pouvait-on se
                   défendre d'aller la trouver ? </p>
                <p>Une demi-heure avant le souper, <persName type="fictif" key="suzette">Suzette</persName> sortit à pas de loup*
-                  <gloss>A pas de loup. Sans bruit et lentement.</gloss> et fut
+                  <note type="annotation">A pas de loup. Sans bruit et lentement.</note> et fut
                   bientôt sous les arbres indiqués.</p>
-               <p>Assise sur la margelle*<gloss>Margelle. Pierre creuse qui forme le rebord d'un puits.</gloss> d'un vieux puits, la femme l'attendait.</p>
+               <p>Assise sur la margelle*<note type="annotation">Margelle. Pierre creuse qui forme le rebord d'un puits.</note> d'un vieux puits, la femme l'attendait.</p>
                <p>— Ah ! ah ! dit-elle avec un petit ricanement, tu as tardé ; tu ne voulais pas venir... tu vois que je sais tout ! Approche... Je peux sauver ton
                   frère ! </p>
                <p><persName type="fictif" key="suzette">Suzette</persName>, dont les jambes fléchissaient, s'accola au puits.</p>
@@ -691,9 +691,9 @@
                <p>— C'est tout ?</p>
                <p>— C'est tout.</p>
                <p>— Bon. Qu'as-tu là au cou ? Un foulard ? donne-le. Elle prit le foulard avant que l'enfant eût pu obéir.</p>
-               <p>— Ce foulard et ces cent sous serviront à commencer les conjurations*<gloss>Conjuration. Paroles et gestes par lesquels certains fripons prétendent 
+               <p>— Ce foulard et ces cent sous serviront à commencer les conjurations*<note type="annotation">Conjuration. Paroles et gestes par lesquels certains fripons prétendent 
                   guérir les gens ou les
-                  animaux malades.</gloss> nécessaires.
+                  animaux malades.</note> nécessaires.
                   Mais il faut que demain, à la même heure, tu reviennes ici avec d'autre argent, autant que tu pourras en prendre, au moins vingt
                   francs, et sans avoir parlé de moi à personne... à personne ! tu entends ? </p>
                <p><persName type="fictif" key="suzette">Suzette</persName> fit signe qu'elle entendait.</p>
@@ -701,7 +701,7 @@
                <p>Comme <persName type="fictif" key="suzette">Suzette</persName> repassait le seuil de sa maison, elle entendit le pas de plusieurs chevaux qui
                   s'avançaient au grand trot. Bientôt
                   ils parurent.</p>
-               <p>C'était la gendarmerie en tournée*<gloss>Tournée (en). En excursion.</gloss>.</p>
+               <p>C'était la gendarmerie en tournée*<note type="annotation">Tournée (en). En excursion.</note>.</p>
             </div2>
             <div2 type="questionnaire">
                <head>Questionnaire.</head>
@@ -820,12 +820,12 @@
             <pb type="page" n="90" />
             <div2 type="récit">
                <p> La journée commença mal : une poule des plus belles, une grise pailletée*
-                  <gloss>Pailleté. Plumage pailleté, celui qui présente des taches nombreuses de teintes variées.</gloss>, à
+                  <note type="annotation">Pailleté. Plumage pailleté, celui qui présente des taches nombreuses de teintes variées.</note>, à
                   toupet blanc, fut trouvée morte dans le poulailler ; François, dans son lit, avait toujours la fièvre. </p>
                <p> Oh ! la chouette, la chouette ! l'oiseau de malheur !... Et il fallait attendre encore presque un jour entier avant de revoir la bohémienne !
                   Aurait-elle au moins commencé les
                   conjurations ? </p>
-               <p> A ces pensées, <persName type="fictif" key="suzette">Suzette</persName> se sentait défaillir*<gloss>Défaillir. Tomber en faiblesse.</gloss>. </p>
+               <p> A ces pensées, <persName type="fictif" key="suzette">Suzette</persName> se sentait défaillir*<note type="annotation">Défaillir. Tomber en faiblesse.</note>. </p>
                <p>Son père parti aux champs où le travail pressait, <persName type="fictif" key="charlot">Charlot</persName> ronflant encore, et le patient allongé 
                   dans son lit, elle s'assit devant
                   l'âtre, sans force pour l'ouvrage matinal, et demeura là toute brisée. Quelqu'un entra qui, d'une voix bien connue, lui demanda des nouvelles de 
@@ -848,7 +848,7 @@
                   
                   <fw type="header"> UN PEU DE LUMIÈRE. 91 </fw>
                   <pb type="page" n="91" /> 
-                  mède, qui est un secret*<gloss>Secret. Moyen connu de peu de personnes.</gloss> 
+                  mède, qui est un secret*<note type="annotation">Secret. Moyen connu de peu de personnes.</note> 
                   de <persName type="fictif" key="ludivine">Ludivine</persName>. Il me faut
                   encore garder cela près de deux jours et deux nuits ! Oh ! oh ! oh ! </p>
                <p> D'un coup de doigt, sans respect pour le secret, <persName type="fictif" key="mme_valon">Mme Valon</persName> fit sauter le cataplasme : 
@@ -861,10 +861,10 @@
                <p>— Non, de la toile d'araignée, Madame. </p>
                <p> — Toile d'araignée, fiente de pigeon ! Mais vous avez donc donné rendez-vous à toutes les ordures de la création sur ce pauvre ! s'écria 
                   <persName type="fictif" key="mme_valon">Mme Valon</persName>, mi-riant, mi-fâchée. Il faut qu'il soit solidement accroché pour n'être pas 
-                  encore parti devant un pareil traitement*<gloss>Traitement. Manière de soigner une maladie.</gloss> ! Vous avez introduit dans
-                  une petite plaie des corps étrangers, malpropres, qui ont exaspéré*<gloss>Exaspérer. Irriter le mal.</gloss> 
-                  le mal et produit la vilaine suppuration*<gloss>Suppuration. Ecoulement
-                     de pus.</gloss> que voilà. Hop ! hop ! qu'on me nettoie cela ! De l'eau ! de l'eau, petite sotte, et vite ! </p>
+                  encore parti devant un pareil traitement*<note type="annotation">Traitement. Manière de soigner une maladie.</note> ! Vous avez introduit dans
+                  une petite plaie des corps étrangers, malpropres, qui ont exaspéré*<note type="annotation">Exaspérer. Irriter le mal.</note> 
+                  le mal et produit la vilaine suppuration*<note type="annotation">Suppuration. Ecoulement
+                     de pus.</note> que voilà. Hop ! hop ! qu'on me nettoie cela ! De l'eau ! de l'eau, petite sotte, et vite ! </p>
             </div2>
             <div2 type="questionnaire">
                <head>Questionnaire.</head>
@@ -986,18 +986,18 @@
                <p> — De l'eau propre. </p>
                <p> — De l'eau propre ? ah ! vraiment ? Tu es bien sûre de sa propreté ? Ne sais-tu pas que cette eau propre peut être pleine d'impuretés, 
                   de bêtes malfaisantes : que la fièvre
-                  typhoïde* <gloss>Fièvre typhoïde. Maladie que caractérise une grande inflammation intérieure.</gloss>, le choléra* 
-                  <gloss>Choléra. Maladie épidémique et le plus souvent mortelle,
-                     caractérisée par des vomissements et des crampes.</gloss>, bien d'autres maladies peuvent y attendre que nous les absorbions*
-                  <gloss>Absorber. Introduire dans le corps par les
-                        ouvertures du nez ou de la bouche.</gloss>, n'ayant pas su les détruire ? Songe, qu'en ce moment 
-                  il s'agit de laver une plaie à vif* <gloss>Plaie à vif. Qui laisse voir la
-                           chair.</gloss>, qui n’a été que trop infectée* <gloss>Infecté. Communiquer une mauvaise odeur ; 
-                              gâter, corrompre.</gloss>. Va faire bouillir cette eau pour détruire tous les
+                  typhoïde* <note type="annotation">Fièvre typhoïde. Maladie que caractérise une grande inflammation intérieure.</note>, le choléra* 
+                  <note type="annotation">Choléra. Maladie épidémique et le plus souvent mortelle,
+                     caractérisée par des vomissements et des crampes.</note>, bien d'autres maladies peuvent y attendre que nous les absorbions*
+                  <note type="annotation">Absorber. Introduire dans le corps par les
+                        ouvertures du nez ou de la bouche.</note>, n'ayant pas su les détruire ? Songe, qu'en ce moment 
+                  il s'agit de laver une plaie à vif* <note type="annotation">Plaie à vif. Qui laisse voir la
+                           chair.</note>, qui n’a été que trop infectée* <note type="annotation">Infecté. Communiquer une mauvaise odeur ; 
+                              gâter, corrompre.</note>. Va faire bouillir cette eau pour détruire tous les
                   germes malsains qui s'y trouveraient. Pendant ce temps je cours prendre chez moi de l'acide phénique* 
-                  <gloss>Acide phénique. Liquide désinfectant que l’on tire de la
-                     houille.</gloss>, un excellent caustique* 
-                  <gloss>Caustique. Qui désorganise les chairs ou membranes comme une brûlure.</gloss> désinfectant qu'il faut toujours avoir dans son
+                  <note type="annotation">Acide phénique. Liquide désinfectant que l’on tire de la
+                     houille.</note>, un excellent caustique* 
+                  <note type="annotation">Caustique. Qui désorganise les chairs ou membranes comme une brûlure.</note> désinfectant qu'il faut toujours avoir dans son
                   armoire. </p>
                <figure>
                   <caption>Goutte d'eau vue au microscope.</caption>
@@ -1181,11 +1181,11 @@
             <div2 type="récit">
                <p>Elle suivit <persName type="fictif" key="mme_valon">Mme Valon</persName> que s'en allait, et, toute honteuse, les larmes aux yeux :</p>
                <p>— Ah ! Madame, dit-elle, pourquoi ne suis-je pas allée hier vous demander conseil ? Quelle chose terrible que l'ignorance ! J'ai un aveu*
-                  <gloss>Aveu. Action de dire ce qu'on a
-                  fait de mal.</gloss> à vous faire.</p>
+                  <note type="annotation">Aveu. Action de dire ce qu'on a
+                  fait de mal.</note> à vous faire.</p>
                <p>Elle conta toute son aventure avec la bohémienne, depuis l'aumône du morceau de pain et l'apparition de la chouette
-                  jusqu'à l'escroquerie*<gloss>Escroquerie. Action de prendre
-                  ou d'obtenir quelque chose par tromperie.</gloss> des cinq francs et du foulard :</p>
+                  jusqu'à l'escroquerie*<note type="annotation">Escroquerie. Action de prendre
+                  ou d'obtenir quelque chose par tromperie.</note> des cinq francs et du foulard :</p>
                <p>— Et j'ai donné rendez-vous pour ce soir, à la brune, sous ces arbres.</p>
                <p>Elle montra l'endroit.</p>
                <p> — Comment ! s'écria <persName type="fictif" key="mme_valon">Mme Valon</persName>, c'est vous,
@@ -1195,23 +1195,23 @@
                   pieds ?</p>
                <p>— Je croyais mon frère bien malade, et cette chouette m'a tant épouvantée !</p>
                <p>— Oui, la peur est la mère de la superstition. Tu n'ignorais pourtant pas que la chouette a comme les autres oiseaux, un estomac à remplir, 
-                  par conséquent une chasse quotidienne*<gloss>Quotidien, diurne. Qui a lieu chaque jour, pendant le jour.</gloss> à faire. Cette chasse,
+                  par conséquent une chasse quotidienne*<note type="annotation">Quotidien, diurne. Qui a lieu chaque jour, pendant le jour.</note> à faire. Cette chasse,
                   elle la fait la nuit, ne voyant clair qu'à ce moment, et elle nous
-                  débarrasse des souris, des rats, des mulots et autres noctambules *<gloss>Noctambule. Celui qui circule ou travaille pendant la nuit.</gloss> 
+                  débarrasse des souris, des rats, des mulots et autres noctambules *<note type="annotation">Noctambule. Celui qui circule ou travaille pendant la nuit.</note> 
                   pillards de grains et de
                   semences. Les pauvres hiboux, petits et gros, sont des bienfaiteurs de l'agriculture ; et ces braves gens dont, à cause de leur cécité*
-                  <gloss>Cécité. Privation de la vue</gloss>
+                  <note type="annotation">Cécité. Privation de la vue</note>
                   pendant le jour, tous les oiseaux
                   diurnes* se moquent, et qu'ils pourchassent à coups de bec, nous, nous en
                <fw type="header">L'AVEU 97</fw>
                <pb type="page" n="97" />
                avons peur ! Tu as lu un jour en classe que les Grecs autrefois honoraient le hibou jusqu'à le mettre comme un emblème*
-                  <gloss>Emblème. Figure d'un objet qui rappelle une
-                  sentence.</gloss> sur le casque de leur déesse de la sagesse, Minerve.</p>
+                  <note type="annotation">Emblème. Figure d'un objet qui rappelle une
+                  sentence.</note> sur le casque de leur déesse de la sagesse, Minerve.</p>
                <p>— Oui, je me rappelle.</p>
                <p>— C'est bien la peine ! Après les Grecs, voilà où nous en sommes aujourd'hui ! Ce n'est pas flatteur pour notre temps... 
                   Et cette bohémienne mendiante et voleuse, par qui tu te
-                  laisses mener comme un toton*<gloss>Toton. Dé traversé par une cheville et que l'on fait tourner.</gloss>, 
+                  laisses mener comme un toton*<note type="annotation">Toton. Dé traversé par une cheville et que l'on fait tourner.</note>, 
                   est-ce encore joli, cela? est-ce intelligent?</p>
                <figure>
                   <caption>
@@ -1351,12 +1351,12 @@
                   sachant ce qu'elle faisait là. Et, du même
                   œil, elle aperçut sur la margelle du vieux puits la terrible femme, arrivée la première, avec son regard hardi et son nez crochu :</p>
                <p>— Bonsoir, petite !</p>
-               <p>Elle ricanait encore joyeusement ; sa bouche édentée*<gloss>Édenté. Privé de ses dents.</gloss> exhalait des vapeurs d'eau-de-vie :</p>
+               <p>Elle ricanait encore joyeusement ; sa bouche édentée*<note type="annotation">Édenté. Privé de ses dents.</note> exhalait des vapeurs d'eau-de-vie :</p>
                <p> —Que m'apportes-tu, ma fille ? J'ai rudement travaillé pour toi ! J'ai passé toute la nuit et une bonne partie du jour en conjurations ;
                   et cinq francs n'y font pas long feu
-                  *<gloss>Faire long feu. Ne pas durer longtemps, ne pas produire d'effet.</gloss> ! L'enfant est de plus en plus menacé ; 
-                  j'ai vu cela dans un foie *<gloss>Foie. Organ où se
-                     forme la bile.</gloss> de crapaud. Et le chat-huant, tu l'as entendu ce soir encore ? Ah ! il y aura beaucoup à faire ! 
+                  *<note type="annotation">Faire long feu. Ne pas durer longtemps, ne pas produire d'effet.</note> ! L'enfant est de plus en plus menacé ; 
+                  j'ai vu cela dans un foie *<note type="annotation">Foie. Organ où se
+                     forme la bile.</note> de crapaud. Et le chat-huant, tu l'as entendu ce soir encore ? Ah ! il y aura beaucoup à faire ! 
                   Tu apportes de l'argent ?... Combien ?
                   voyons...</p>
                <p>Elle s'était levée et, comme pour fouiller <persName type="fictif" key="suzette">Suzette</persName>, avançait vers 
@@ -1381,7 +1381,7 @@
                   cabaret. Il faut payer nos sottises.</p>
                <p>— Eh bien ! dit <persName type="fictif" key="m_valon">M. Valon</persName> en lâchant la bohémienne, allez vous faire pendre ailleurs, 
                   mais qu'on ne vous reprenne plus ici !</p>
-               <p>Sans demander son reste, elle détala*<gloss>Détaler. Se sauver.</gloss>.</p>
+               <p>Sans demander son reste, elle détala*<note type="annotation">Détaler. Se sauver.</note>.</p>
                <fw type="header">SOUS LES ARBES. 101</fw>
                <pb type="page" n="101" />
             </div2>
@@ -1482,22 +1482,22 @@
             <head type="chapter">29. Grands Projets. (Élève, p. 69.)</head>
             <pb type="page" n="102" />
             <div2 type="récit">
-               <p>Il y avait belle lurette*<gloss>Belle lurette. Longtemps.</gloss> que le nez de M. 
+               <p>Il y avait belle lurette*<note type="annotation">Belle lurette. Longtemps.</note> que le nez de M. 
                   <persName type="fictif" key="françois">François</persName> était rendu à sa forme naturelle, à
                   sa taille ordinaire, et que, grâce à l'emploi du fil de fer, l'éteignoir à chandelle avait manœuvré sans accident. 
                   Il manœuvrerait peut-être encore, si <persName type="fictif"
                      key="m_dumay">M. Dumay</persName>, en mettant enfin sous clef la boite aux outils et aux clous, n'eût arrêté toute cette
                   mécanique.</p>
-               <p>Mais des outils, il y en a plein la nature *<gloss>La nature. Ce qui nous entoure.</gloss> : les épines, les cailloux, les pierres, les os,
+               <p>Mais des outils, il y en a plein la nature *<note type="annotation">La nature. Ce qui nous entoure.</note> : les épines, les cailloux, les pierres, les os,
                   le bois : voilà la matière et les
                   premiers instruments du travail ; et comment, avec tout cela, empêcher un inventeur d'inventer ?
                   <persName type="fictif" key="françois">François</persName>, maintenant, fabriquait des briquets, des porte-allumettes, des
                   manches de couteaux.</p>
                <p><persName type="fictif" key="charlot">Charlot</persName>, lui, prenait ses neuf ans et la tournure d'un garçon posé et gentil, 
                   faisant vraiment honneur à <persName type="fictif" key="suzette">Suzette</persName>, très occupée de son éducation*
-                  <gloss>Education. Science qui a
-                  pour objet de développer et de cultiver les facultés de l'enfant.</gloss>.</p>
-               <p>Et le trio fraternel était reconstitué *<gloss>Reconstitué. Tel qu'il était auparavant.</gloss>, car 
+                  <note type="annotation">Education. Science qui a
+                  pour objet de développer et de cultiver les facultés de l'enfant.</note>.</p>
+               <p>Et le trio fraternel était reconstitué *<note type="annotation">Reconstitué. Tel qu'il était auparavant.</note>, car 
                   <persName type="fictif" key="jacques">Jacques</persName>, après trois ans d'études à l'école d'agriculture, venait
                   précisément d'en sortir.</p>
                <p>Presque aussi grand que le papa, auquel il ressemblait beaucoup, avec une grosse voix d'homme et des moustaches qui se voyaient 
@@ -1511,16 +1511,16 @@
                <p>— Oui, cher père, dit <persName type="fictif" key="jacques">Jacques</persName> en l'embrassant, me voilà avec des bras solides et 
                   quelques bonnes idées en tête !</p>
                <p>Il regarda autour de lui : le buffet, la table, les chaises, brillaient comme des bijoux. Du plafond, une jardinière* 
-                  <gloss>Jardinière. Meuble d'ornement qui suppporte une
-                  caisse où l'on met des fleurs.</gloss> suspendue laissait tomber des traînées fleuries de géranium-lierre ; un gros bouquet d'œillets,
+                  <note type="annotation">Jardinière. Meuble d'ornement qui suppporte une
+                  caisse où l'on met des fleurs.</note> suspendue laissait tomber des traînées fleuries de géranium-lierre ; un gros bouquet d'œillets,
                   de roses, de réséda ornait le
                   manteau de la cheminée pour fêter son arrivée. Le couvert était mis sur une nappe blanc de neige, parfumée de muguet. Sur le poêle,
                   la marmite exhalait de bonnes senteurs.</p>
-               <p>— Merci, <persName type="fictif" key="suzette">Suzette</persName>, tout cela est bien joli, bien cordial*<gloss>Cordial. Qui vient du cœur.</gloss>.
+               <p>— Merci, <persName type="fictif" key="suzette">Suzette</persName>, tout cela est bien joli, bien cordial*<note type="annotation">Cordial. Qui vient du cœur.</note>.
                   Ce que tu as fait si gentiment dans ton domaine, je le ferai dans le mien.
                   Vous verrez, mon père, quelle belle culture je vous apporte de l'école, le bon emploi des choses que nous gâchons*
-                  <gloss>Gâcher. Employer mal, ne pas tirer profit par
-                     maladresse ou négligence.</gloss> par ignorance, la création de ressources nouvelles, la sélection, 
+                  <note type="annotation">Gâcher. Employer mal, ne pas tirer profit par
+                     maladresse ou négligence.</note> par ignorance, la création de ressources nouvelles, la sélection, 
                   c'est-à-dire le choix à faire des semences, des races de bétail, de la
                   volaille. Une basse-cour bien menée doit, à elle seule, suffire à l'entretien de la famille. 
                   Cette maison de nos pères est encore solide ; ils l'ont soigneusement bâtie ; nous
@@ -1726,15 +1726,15 @@
                   <persName type="fictif" key="suzette">Suzette</persName>, ne
                   s’entretinrent que de beaux et bons travaux à faire. <persName type="fictif" key="jacques">Jacques</persName> voulait 
                   être renseigné sur la situation exacte du petit bien,
-                  sur ses charges*<gloss>Des Charges. Les dépenses qu'on est obligé de faire.</gloss>, 
-                  ses ressources*<gloss>Ressources. Argent, choses à vendre avec quoi l'on peut solder ses
-                     dépenses.</gloss>.</p>
+                  sur ses charges*<note type="annotation">Des Charges. Les dépenses qu'on est obligé de faire.</note>, 
+                  ses ressources*<note type="annotation">Ressources. Argent, choses à vendre avec quoi l'on peut solder ses
+                     dépenses.</note>.</p>
                <p>Il le parcourut en compagnie du père, qui acceptait parfaitement l’idée d'en doubler
                   le rapport, mais sans changer grand'chose au train ordinaire et en rechignant*
-                  <gloss>Rechigner. Témoigner de la répugnance avec mauvaise humeur.</gloss> 
-                  un peu aux innovations*<gloss>Innovation. Pratique nouvelle qu'on introduit dans sa manière
-                     habituelle de faire une chose.</gloss>, comme font d'ordinaire les gens ancrés*
-                  <gloss>Ancré. S'affermir obstinément dans un procédé routinier, dans une habitude.</gloss>
+                  <note type="annotation">Rechigner. Témoigner de la répugnance avec mauvaise humeur.</note> 
+                  un peu aux innovations*<note type="annotation">Innovation. Pratique nouvelle qu'on introduit dans sa manière
+                     habituelle de faire une chose.</note>, comme font d'ordinaire les gens ancrés*
+                  <note type="annotation">Ancré. S'affermir obstinément dans un procédé routinier, dans une habitude.</note>
                   dans leurs habitudes.</p>
                <p>— Nous aurons beau faire, disait-il, le blé du vieux sol d'<placeName>Europe</placeName>, 
                   fatigué par tant de récoltes, ne peut pas lutter
@@ -1746,15 +1746,15 @@
                   tomne, il transporte dans ces solitudes une population d'ouvriers à peupler une ville ; ceux-ci lancent des charrues à vapeur 
                   qui remuent
                   le sol ; puis, la terre à peine retournée, on l'ensemence. Cela fait, on lui dit adieu ; 
-                  on l'abandonne au hasard des chardons, de l'ivraie*<gloss>Ivraie. Mauvaise herbe
-                     qui croit parmi les blés.</gloss>, des troupeaux de bisons, à  l’aventure des pluies et des sécheresses. 
+                  on l'abandonne au hasard des chardons, de l'ivraie*<note type="annotation">Ivraie. Mauvaise herbe
+                     qui croit parmi les blés.</note>, des troupeaux de bisons, à  l’aventure des pluies et des sécheresses. 
                   On revient à l'heure de la récolte. Elle ne donne que le plus
                   faible rendement de nos plus mauvaises terres ; mais c'est un blé qui, n'ayant presque rien 
                   coûté, écrase le nôtre sur nos marchés.</p>
                <p> — Et c'est de la culture, cela ! s'écria <persName type="fictif" key="jacques">Jacques</persName> avec mépris.</p>
                <p>— Non ; mais c'est une culture qui tue la nôtre.</p>
                <p>— Parce que la nôtre se laisse tuer, se décourage au lieu de lutter par les soins, la science, 
-                  les méthodes *<gloss>Méthode. Procédés de culture.</gloss> nouvelles qui, appliquées à notre merveilleuse terre,
+                  les méthodes *<note type="annotation">Méthode. Procédés de culture.</note> nouvelles qui, appliquées à notre merveilleuse terre,
                   la rendraient sans rivale. Et je veux vous entendre crier bientôt : Vive le blé de <placeName>France</placeName> !</p>
                <figure>
                   <caption>Blé, seigle, orge, avoine. Le blé, l'orge et le seigle servent à faire le pain ;
