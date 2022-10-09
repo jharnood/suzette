@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -325,10 +325,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004134330641",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004134354871",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-04T17:43:30.641Z",
-	"dcterms:modified": "2022-10-04T17:43:54.871Z",
+	"dcterms:created": "2022-10-04T17:43:54.871Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -338,7 +337,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004134330641#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004134354871#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml",
@@ -352,7 +351,7 @@
 			"schema:softwareVersion": "2.0.1"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004134330641#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004134354871#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[2]/div2[3]/div3[4]/div4[2]/p[4]/placeName"
 		}
@@ -403,10 +402,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004134418850",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004134457331",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-04T17:44:18.850Z",
-	"dcterms:modified": "2022-10-04T17:44:57.331Z",
+	"dcterms:created": "2022-10-04T17:44:57.331Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -416,7 +414,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004134418850#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004134457331#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml",
@@ -430,7 +428,7 @@
 			"schema:softwareVersion": "2.0.1"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004134418850#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004134457331#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[2]/div2[3]/div3[4]/div4[2]/p[4]/placeName[2]"
 		}
@@ -484,7 +482,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004134540457",
 	"type": "oa:Annotation",
 	"dcterms:created": "2022-10-04T17:45:40.457Z",
-	"dcterms:modified": "2022-10-04T17:45:40.457Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -516,7 +513,7 @@
 			},
 			"oa:hasEndSelector": {
 				"@type": "oa:XPathSelector",
-				"rdf:value": "TEI/text/body/div1[2]/div2[3]/div3[4]/div4[2]/p[5]/placeName[4]"
+				"rdf:value": "TEI/text/body/div1[2]/div2[3]/div3[4]/div4[2]/p[5]/placeName[5]"
 			},
 			"oa:refinedBy": {
 				"@type": "oa:TextPositionSelector",
@@ -571,10 +568,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004134600766",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004134625348",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-04T17:46:00.766Z",
-	"dcterms:modified": "2022-10-04T17:46:25.348Z",
+	"dcterms:created": "2022-10-04T17:46:25.348Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -584,7 +580,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004134600766#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004134625348#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml",
@@ -598,9 +594,9 @@
 			"schema:softwareVersion": "2.0.1"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004134600766#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221004134625348#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div1[2]/div2[3]/div3[4]/div4[2]/p[5]/placeName[5]"
+			"rdf:value": "TEI/text/body/div1[2]/div2[3]/div3[4]/div4[2]/p[5]/placeName[6]"
 		}
 	},
 	"oa:hasBody": {
@@ -685,6 +681,162 @@
 		"@type": "oa:TextualBody",
 		"dc:format": "text/plain",
 		"rdf:value": "Immersion. Action de plonger dans l'eau."
+	},
+	"as:generator": {
+		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.0.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221006100853974",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-10-06T14:08:53.974Z",
+	"dcterms:modified": "2022-10-06T14:08:53.974Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221006100853974#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.0.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?place_annotation_20221006100853974#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1[2]/div2[3]/div3[4]/div4[2]/p[5]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q4918",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.0.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?person_annotation_20221006100955251",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-10-06T14:09:55.251Z",
+	"dcterms:modified": "2022-10-06T14:11:17.554Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?person_annotation_20221006100955251#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.0.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch141-44.xml?person_annotation_20221006100955251#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1[3]/div2/lg[2]/l[9]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/71475811/",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
@@ -1031,11 +1183,11 @@
                         l'<geogFeat type="océan">Océan</geogFeat> ; mais lorsque la marée, plus rapide qu'un cheval au galop, remonte en écumant la pente presque insensible, il lui suffit de
                         quelques heures pour transformer toute la baie en une nappe d’eau grisâtre. Au reflux, les eaux se retirent avec la même rapidité à plus de 10 kilomêtres du rivage et laissent
                         à nu la grande plage déserte que parcourent des ruisseaux, en formant çà et là des gouffres perfides de vase molle où les voyageurs risquent de s'engloutir. » (D'après
-                        <persName ref="http://viaf.org/viaf/315643242/">E. RECLUS</persName>, <title>L'Océan</title>.)</p>
+                        <persName ref="http://viaf.org/viaf/315643242/">E. RECLUS</persName>, <title><title level="m">L'Océan</title></title>.)</p>
                      <p>La hauteur de la marée est plus grande dans les golfes que sur les plages largement découvertes. Au fond de la <geogFeat>baie du <placeName>mont
                         Saint-Michel</placeName></geogFeat>, elle marque 14 à 15 mêtres entre le niveau du flux et celui des plus basses eaux ; elle n'est que de 5 à 6 mêtres à
                         <placeName key="Dunkirk" ref="http://www.wikidata.org/entity/Q45797">Dunkerque</placeName> et au <placeName key="Le Havre" ref="http://www.wikidata.org/entity/Q42810">Havre</placeName>.</p>
-                     <p>La <geogFeat type="mer">Méditerranée</geogFeat>, qui est une mer fermée, a des marées presque insensibles. Sur nos côtes et celles d'<placeName>Espagne</placeName> ou
+                     <p><placeName key="Mediterranean Sea" ref="http://www.wikidata.org/entity/Q4918">La <geogFeat type="mer">Méditerranée</geogFeat>,</placeName> qui est une mer fermée, a des marées presque insensibles. Sur nos côtes et celles d'<placeName>Espagne</placeName> ou
                         d'<placeName>Italie</placeName>, la difference n'est que de 0m,30 entre le flux et le reflux ; de 0m,60 à 0m,90 à <placeName>Venise</placeName>. au fond de l'<geogFeat type="mer">Adriatique</geogFeat> ; de 0m,15 à l'<placeName>ile de Zante</placeName> et de 0m,020 à <placeName key="Corfu" ref="http://www.wikidata.org/entity/Q121378">Corfou</placeName>.</p>
                   </div4>
                </div3>
@@ -1073,7 +1225,7 @@
                   <l>Les pieds blancs de poussière ; </l>
                   <l>Un jour.., puis en marche, et bonsoir</l>
                   <l>La ferme et la fermière ! » </l>
-                  <l>(<persName type="historique">HÉGÉSIPPE MOREAU</persName>.)</l>
+                  <l>(<persName ref="http://viaf.org/viaf/71475811/" role="aut">HÉGÉSIPPE MOREAU</persName>.)</l>
                </lg>
                <p>Un bruit de pas suivit la chanson. <persName key="suzette" type="fictif">Suzette</persName>, tout émue, courut à la porte.</p>
                <p>Sur la route, sous les arbres, s'apercevaient deux ombres. Elles arrivèrent en pleine clarté de la lune : et c'étaient deux soldats de l'infanterie de marine.</p>
