@@ -400,6 +400,12 @@
                 <valItem ident="fictif" mode="add">
                   <desc xml:lang="fr">fictif</desc>
                 </valItem>
+                <valItem ident="authority" mode="add">
+                  <desc>authority place name</desc>
+                </valItem>
+                <valItem ident="variant" mode="add">
+                  <desc>variant place name</desc>
+                </valItem>
               </valList>
             </attDef>
           </attList>
