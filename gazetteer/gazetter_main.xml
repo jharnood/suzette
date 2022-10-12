@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Suzette: a Digital Edition</title>
+            <respStmt>
+               <persName>John Westbrook</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Annie Girton</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and Encoder, 2018-2020</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sarah Haber</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and Encoder, 2020-Present</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rebecca Heintzelman</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and Encoder, 2020-Present</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Juliya Harnood</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and Encoder, 2021-Present</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>Bucknell University</distributor>
+            <pubPlace>
+               <address>
+                  <addrLine>One Dent Drive</addrLine>
+                  <addrLine>Lewisburg, PA 17837</addrLine>
+               </address>
+            </pubPlace>
+            <availability>
+               <licence>Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles. Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine – Couture</title>
+                  <author>Robert Halt</author>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <date>1889</date>
+                     <distributor>Libraire Classique Paul Delaplane</distributor>
+                     <pubPlace>Paris, France</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+      <standOff>
+         <listPlace>
+            <place xml:id="suzpl0001" type="bloc">
+               <placeName>Afrique</placeName>
+               <location>
+                  <geo/>
+               </location>
+               <idno type="URI">https://www.wikidata.org/wiki/Q15</idno>
+            </place>
+            <place xml:id="suzpl0002" type="bloc">
+               <placeName>Amérique du nord</placeName>
+               <location>
+                  <geo/>
+               </location>
+               <idno type="URI">https://www.wikidata.org/wiki/Q49</idno>
+            </place>
+            <place xml:id="suzpl0003" type="bloc">
+               <placeName>Amérique du sud</placeName>
+               <idno type="URI">https://www.wikidata.org/wiki/Q18</idno>
+            </place>
+            <place xml:id="suzpl0004" type="bloc">
+               <placeName>Asie</placeName>
+               <idno type="URI">https://www.wikidata.org/wiki/Q48</idno>
+            </place>
+            <place xml:id="suzpl0005" type="bloc">
+               <placeName>Europe</placeName>
+               <idno type="URI">https://www.wikidata.org/wiki/Q46</idno>
+            </place>
+            <place xml:id="suzpl0006" type="bloc">
+               <placeName>Océanie</placeName>
+               <idno type="URI">https://www.wikidata.org/wiki/Q55643</idno>
+            </place>
+            <!-- question about whether Inde should be both a country and a bloc -->
+            <place xml:id="suzpl0007" type="bloc">
+               <placeName>Inde</placeName>
+            </place>
+            <place xml:id="suzpl0008" type="country">
+               <placeName type="authority">Indo-Chine</placeName>
+               <placeName type="variant">Indochine</placeName>
+               <idno type="URI">https://www.wikidata.org/wiki/Q43467</idno>
+            </place>
+         </listPlace>
+      </standOff>
+  
+</TEI>
