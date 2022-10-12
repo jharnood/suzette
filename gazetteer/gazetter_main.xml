@@ -52,7 +52,9 @@
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles. Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine – Couture</title>
+                  <title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles.
+                     Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine –
+                     Couture</title>
                   <author>Robert Halt</author>
                   <textLang>French</textLang>
                   <imprint>
@@ -64,49 +66,136 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
-      <standOff>
-         <listPlace>
-            <place xml:id="suzpl0001" type="bloc">
-               <placeName>Afrique</placeName>
-               <location>
-                  <geo/>
-               </location>
-               <idno type="URI">https://www.wikidata.org/wiki/Q15</idno>
-            </place>
-            <place xml:id="suzpl0002" type="bloc">
-               <placeName>Amérique du nord</placeName>
-               <location>
-                  <geo/>
-               </location>
-               <idno type="URI">https://www.wikidata.org/wiki/Q49</idno>
-            </place>
-            <place xml:id="suzpl0003" type="bloc">
-               <placeName>Amérique du sud</placeName>
-               <idno type="URI">https://www.wikidata.org/wiki/Q18</idno>
-            </place>
-            <place xml:id="suzpl0004" type="bloc">
-               <placeName>Asie</placeName>
-               <idno type="URI">https://www.wikidata.org/wiki/Q48</idno>
-            </place>
-            <place xml:id="suzpl0005" type="bloc">
-               <placeName>Europe</placeName>
-               <idno type="URI">https://www.wikidata.org/wiki/Q46</idno>
-            </place>
-            <place xml:id="suzpl0006" type="bloc">
-               <placeName>Océanie</placeName>
-               <idno type="URI">https://www.wikidata.org/wiki/Q55643</idno>
-            </place>
-            <!-- question about whether Inde should be both a country and a bloc -->
-            <place xml:id="suzpl0007" type="bloc">
-               <placeName>Inde</placeName>
-            </place>
-            <place xml:id="suzpl0008" type="country">
-               <placeName type="authority">Indo-Chine</placeName>
-               <placeName type="variant">Indochine</placeName>
-               <idno type="URI">https://www.wikidata.org/wiki/Q43467</idno>
-            </place>
-         </listPlace>
-      </standOff>
-  
+   </teiHeader>
+   <standOff>
+      <listPlace>
+         <place xml:id="suzpl0001">
+            <placeName>Afrique</placeName>
+            <location>
+               <geo/>
+            </location>
+            <idno type="URI">https://www.wikidata.org/wiki/Q15</idno>
+         </place>
+      </listPlace>
+      <listPlace>
+         <place xml:id="suzpl0002" type="bloc">
+            <placeName>Amérique du nord</placeName>
+            <location>
+               <geo/>
+            </location>
+            <idno type="URI">https://www.wikidata.org/wiki/Q49</idno>
+         </place>
+      </listPlace>
+      <listPlace>
+         <place xml:id="suzpl0003" type="bloc">
+            <placeName>Amérique du sud</placeName>
+            <location>
+               <geo/>
+            </location>
+            <idno type="URI">https://www.wikidata.org/wiki/Q18</idno>
+         </place>
+      </listPlace>
+      <listPlace>
+         <place xml:id="suzpl0004" type="bloc">
+            <placeName>Asie</placeName>
+            <location>
+               <geo/>
+            </location>
+            <idno type="URI">https://www.wikidata.org/wiki/Q48</idno>
+         </place>
+      </listPlace>
+      <listPlace>
+         <place xml:id="suzpl0005" type="bloc">
+            <placeName>Europe</placeName>
+            <location>
+               <geo/>
+            </location>
+            <idno type="URI">https://www.wikidata.org/wiki/Q46</idno>
+         </place>
+      </listPlace>
+      <listPlace>
+         <place xml:id="suzpl0006" type="bloc">
+            <placeName>Océanie</placeName>
+            <location>
+               <geo/>
+            </location>
+            <idno type="URI">https://www.wikidata.org/wiki/Q55643</idno>
+         </place>
+      </listPlace>
+      <!-- question about whether Inde should be both a country and a bloc -->
+      <listPlace>
+         <place xml:id="suzpl0007" type="bloc">
+            <placeName>Inde</placeName>
+            <location>
+               <geo/>
+            </location>
+         </place>
+      </listPlace>
+      <listPlace>
+         <place xml:id="suzpl0008" type="country">
+            <placeName>Indo-Chine</placeName>
+            <placeName>Indochine</placeName>
+            <location>
+               <geo/>
+            </location>
+            <idno type="URI">https://www.wikidata.org/wiki/Q43467</idno>
+         </place>
+         <relation passive="#suzpl0004"/>         
+      </listPlace>
+      <listPlace>
+         <place xml:id="suzlp0009" type="country">
+            <placeName>États-Unis</placeName>
+            <location>
+               <geo/>
+            </location>
+            <idno type="URI">https://www.wikidata.org/wiki/Q30</idno>
+         </place>
+         <relation passive="#suzpl0002"/>         
+      </listPlace>
+      <listPlace>
+         <place >
+            <placeName></placeName>
+            <location>
+               <geo/>
+            </location>
+            <idno></idno>
+         </place>
+         <relation>
+         </relation>
+      </listPlace>
+      <listPlace>
+         <place >
+            <placeName></placeName>
+            <location>
+               <geo/>
+            </location>
+            <idno></idno>
+         </place>
+         <relation>
+         </relation>
+      </listPlace>
+      <listPlace>
+         <place >
+            <placeName></placeName>
+            <location>
+               <geo/>
+            </location>
+            <idno></idno>
+         </place>
+         <relation>
+         </relation>
+      </listPlace>
+      <listPlace>
+         <place >
+            <placeName></placeName>
+            <location>
+               <geo/>
+            </location>
+            <idno></idno>
+         </place>
+         <relation>
+         </relation>
+      </listPlace>
+   </standOff>
+
 </TEI>
