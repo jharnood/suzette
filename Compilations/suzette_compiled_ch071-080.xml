@@ -1734,7 +1734,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch071-080.xml?note_annotation_20221018135720259",
 	"type": "oa:Annotation",
 	"dcterms:created": "2022-10-18T17:57:20.259Z",
-	"dcterms:modified": "2022-10-18T17:57:20.259Z",
+	"dcterms:modified": "2022-10-18T17:57:24.799Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -1764,9 +1764,399 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:Note",
+		"@type": "oa:TextualBody",
 		"dc:format": "text/plain",
 		"rdf:value": "Confins. Les extrémités d'un pays, d'une contrée, etc."
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.2.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch071-080.xml?note_annotation_20221018135741241",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-10-18T17:57:41.241Z",
+	"dcterms:modified": "2022-10-18T17:57:45.765Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch071-080.xml?note_annotation_20221018135741241#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch071-080.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.2.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch071-080.xml?note_annotation_20221018135741241#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1[7]/div2/p[2]/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": " Ahuri. Troublé. "
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.2.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch071-080.xml?note_annotation_20221018135751816",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-10-18T17:57:51.816Z",
+	"dcterms:modified": "2022-10-18T17:57:55.114Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch071-080.xml?note_annotation_20221018135751816#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch071-080.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.2.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch071-080.xml?note_annotation_20221018135751816#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1[7]/div2/p[15]/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": " Quai. Trottoir le long d'une vole de chemin du fer. "
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.2.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch071-080.xml?note_annotation_20221018135758983",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-10-18T17:57:58.983Z",
+	"dcterms:modified": "2022-10-18T17:58:02.541Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch071-080.xml?note_annotation_20221018135758983#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch071-080.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.2.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch071-080.xml?note_annotation_20221018135758983#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1[7]/div2/p[15]/note[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": " Halètement. On compare ici la locomotive à un animal haletant, hors d'lia-leine. "
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.2.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch071-080.xml?note_annotation_20221018135808399",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-10-18T17:58:08.399Z",
+	"dcterms:modified": "2022-10-18T17:58:12.115Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch071-080.xml?note_annotation_20221018135808399#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch071-080.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.2.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch071-080.xml?note_annotation_20221018135808399#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1[7]/div2/p[20]/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": "Affolé. Qui perd la raison."
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.2.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch071-080.xml?note_annotation_20221018135825603",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-10-18T17:58:25.603Z",
+	"dcterms:modified": "2022-10-18T17:58:29.565Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch071-080.xml?note_annotation_20221018135825603#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch071-080.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.2.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch071-080.xml?note_annotation_20221018135825603#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1[8]/div2/p[7]/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": "Gaucherie. Manque d'aisance, de grâce, d'adresse."
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2495,7 +2885,7 @@
                <pb type="page" n="263"/>
                <fw>LES ADIEUX. 263</fw>
                <p>C'était vrai ; peu s'en fallait que de cette gare, en suivant la ligne du Nord jusqu'au point où elle se rattache, par la ligne belge, à celles d'<placeName>Allemagne</placeName>, puis de <placeName>Russie</placeName>, on ne pût
-                  aller jusqu'aux confins*<note type="annotaiton">Confins. Les extrémités d'un pays, d'une contrée, etc.</note> de la terre.</p>
+                  aller jusqu'aux confins*<note type="annotation">Confins. Les extrémités d'un pays, d'une contrée, etc.</note> de la terre.</p>
                <p><persName type="fictif" key="ludivine">Ludivine</persName> restait clouée sur place, entendant le bruit sans les mots, comme il arrive aux gens qui ne savent pas écouter tranquillement.</p>
                <p>Les billets pris, on s'embrassa tout en se faisant des recommandations mutuelles :</p>
                <p>— <persName type="fictif" key="jacques">Jacques</persName> ! veille sur <persName type="fictif" key="françois">François</persName> et <persName type="fictif" key="charlot">Charlot</persName> ! <persName type="fictif" key="françois">François</persName> ! au moins pas de sottises, jusqu'à mon retour ! n'est-ce pas, chéri ?</p>
@@ -2619,7 +3009,7 @@
             <div2 type="récit">
                <p>Dans cette salle se trouvaient déjà nombre de voyageurs, des messieurs, des dames, debout ou assis à côté de valises, de sacs de nuit, de cartons à chapeaux, de paniers, de paquets
                   entourés de ficelles ou de courroies.</p>
-               <p><persName type="fictif" key="suzette">Suzette</persName> fit asseoir sur un bout de banquette <persName type="fictif" key="ludivine">Ludivine</persName>, de plus en plus ahurie*<note type="annotaiton"> Ahuri. Troublé. </note>, et qui poussait de profonds soupirs :</p>
+               <p><persName type="fictif" key="suzette">Suzette</persName> fit asseoir sur un bout de banquette <persName type="fictif" key="ludivine">Ludivine</persName>, de plus en plus ahurie*<note type="annotation"> Ahuri. Troublé. </note>, et qui poussait de profonds soupirs :</p>
                <p>— Ah ! j'avais bien juré que jamais, au grand jamais, je ne mettrais les pieds ici ! mais le malheur veut que je doive aller moi-même chercher de l'argent à <placeName>Tergnier</placeName> ! <persName type="fictif" key="suzette">Suzette</persName>, qui
                   avait déjà vainement essayé de la rassurer, ne l'écoutait pas.</p>
                <pb type="page" n="266"/>
@@ -2637,8 +3027,8 @@
                   <caption>Évitez la rencontire des affolés.</caption>
                </figure> s'était accrochée au bras de <persName type="fictif" key="suzette">Suzette</persName> et, de nouveau ahurie :</p>
                <p>—Ma fille ! mais je nous croyais en route !... Ah ! que va-t-il arriver ?</p>
-               <p>Du quai*<note type="annotaiton"> Quai. Trottoir le long d'une vole de chemin du fer. </note>, au tournant d'une courbe, on vit accourir la locomotive comme un monstrueux animal se ruant à l'ennemi ;
-                  on entendit son énorme halètement*<note type="annotaiton"> Halètement. On compare ici la locomotive à un animal haletant, hors d'lia-leine. </note>. En soufflant, sifflant, fumant, elle s'arrêta.
+               <p>Du quai*<note type="annotation"> Quai. Trottoir le long d'une vole de chemin du fer. </note>, au tournant d'une courbe, on vit accourir la locomotive comme un monstrueux animal se ruant à l'ennemi ;
+                  on entendit son énorme halètement*<note type="annotation"> Halètement. On compare ici la locomotive à un animal haletant, hors d'lia-leine. </note>. En soufflant, sifflant, fumant, elle s'arrêta.
                   <pb type="page" n="267"/>
                   <fw>LA SALLE D'ATTENTE. 267</fw> Puis les wagons ayant reçu leurs voyageurs, elle souffla, siffla encore et se lança.</p>
                <p>— Cette fois, <persName type="fictif" key="ludivine">Ludivine</persName>, nous sommes en route.</p>
@@ -2646,7 +3036,7 @@
                <p>Enfin, voici <placeName>Tergnier</placeName> !</p>
                <p><persName type="fictif" key="ludivine">Ludivine</persName> sauta de wagon, fila comme un lièvre ; et, en agitant son parapluie pour saluer une dernière fois <persName type="fictif" key="suzette">Suzette</persName>, décoiffa un monsieur, manqua d'éborgner une dame, qui se
                   fâchèrent.</p>
-               <p>Évitez la rencontre des affolés*<note type="annotaiton">Affolé. Qui perd la raison.</note>.</p>
+               <p>Évitez la rencontre des affolés*<note type="annotation">Affolé. Qui perd la raison.</note>.</p>
             </div2>
             <div2 type="questionnaire">
                <head>Questionnaire.</head>
@@ -2759,7 +3149,7 @@
                <p>« Mais ces Parisiens ont l'air de ne pas trop penser aux grands ciels, aux grandes plaines à perte de vue; ils ont <placeName>Paris</placeName> qui leur suffit, comme m'a dit <persName type="fictif" key="louis">Louis</persName>. Ils en sont très fiers,
                   et avec assez de raison, il me semble. C'est une si vaste, une si belle ville, avec des habitants si distingués, au moins dans ce que j'ai pu voir jusqu'ici !</p>
                <p>« Par exemple, je me fais l'effet d'une écolière devant ma cousine <persName type="fictif" key="marthe">Marthe</persName> qui, de quatre ans plus jeune que moi, parle déjà presque aussi bien que <persName type="fictif" key="mme_valon">Mme Valon</persName> et se tient avec
-                  l'aisance d'une dame. Ma gaucherie*<note type="annotaiton">Gaucherie. Manque d'aisance, de grâce, d'adresse.</note> , ma simplicité campagnarde la font sourire. Elle me traite en petite fille. A la
+                  l'aisance d'une dame. Ma gaucherie*<note type="annotation">Gaucherie. Manque d'aisance, de grâce, d'adresse.</note> , ma simplicité campagnarde la font sourire. Elle me traite en petite fille. A la
                   gare, où elle m'attendait hier avec ma tante et l'explorateur, elle m'a dit après deux minutes : « Tu ne serais pas mal si tu savais te coiffer. »</p>
                <p>« Ma tante fait de bien jolies choses en robes et en <pb type="page" n="270"/>
                   <fw>270 SUZETTE.</fw> manteaux. Sans compter <persName type="fictif" key="marthe">Marthe</persName>, elle a deux ouvrières, l'une de mon âge, l'autre d'au moins dix-huit ans. Toutes les deux se couvrent les joues d'une sorte de
