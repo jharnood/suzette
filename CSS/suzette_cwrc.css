@@ -724,7 +724,8 @@ l {
     display: block;
     white-space: nowrap;
 }
-l:after {
+/* hiding line numbers */
+/*  l:after {
     content: counter(line);
     counter-increment: line;
     text-align: right;
@@ -732,6 +733,7 @@ l:after {
     color: silver;
     margin-right: 50px;
 }
+  */
 label {
     display: inline;
     font-weight: bold;
