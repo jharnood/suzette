@@ -1181,12 +1181,15 @@ taxonomy {
     display: block;
     margin-bottom: 0.5em;
 }
+
+/* hiding green font color, adding italic/bold */
 term {
     font-family: sans-serif;
-    color: green;
+    /*color: green;*/
     background-color: inherit;
     display: inline;
     font-weight: bold;
+    font-style: italic;
 }
 textClass {
     display: block;
