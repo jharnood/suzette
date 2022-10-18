@@ -93,10 +93,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153544425",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153546925",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:35:44.425Z",
-	"dcterms:modified": "2022-10-09T19:35:46.925Z",
+	"dcterms:created": "2022-10-09T19:35:46.925Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -106,7 +105,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153544425#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153546925#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -114,13 +113,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153544425#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153546925#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2/p/note"
 		}
@@ -131,11 +130,11 @@
 		"rdf:value": "Âtre. L'endroit de la cheminée où l'on fait le feu."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -171,10 +170,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153600523",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153602360",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:36:00.523Z",
-	"dcterms:modified": "2022-10-09T19:36:02.360Z",
+	"dcterms:created": "2022-10-09T19:36:02.360Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -184,7 +182,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153600523#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153602360#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -192,13 +190,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153600523#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153602360#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2/p/note[2]"
 		}
@@ -209,11 +207,11 @@
 		"rdf:value": "Ramages. Représentation de rameaux, de\n                  feuillages, de fleurs sur vases ou étoffes."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -249,10 +247,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153611759",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153618027",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:36:11.759Z",
-	"dcterms:modified": "2022-10-09T19:36:18.027Z",
+	"dcterms:created": "2022-10-09T19:36:18.027Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -262,7 +259,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153611759#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153618027#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -270,13 +267,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153611759#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153618027#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2/p/note[3]"
 		}
@@ -287,11 +284,11 @@
 		"rdf:value": " Pampe. Feuille des céréales. "
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -327,10 +324,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153635541",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153637395",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:36:35.541Z",
-	"dcterms:modified": "2022-10-09T19:36:37.395Z",
+	"dcterms:created": "2022-10-09T19:36:37.395Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -340,7 +336,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153635541#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153637395#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -348,13 +344,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153635541#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153637395#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[3]/div2/p/note"
 		}
@@ -365,11 +361,11 @@
 		"rdf:value": " Dodeliner. Balancer lentement la tête de droite à gauche."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -405,10 +401,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153659157",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153700679",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:36:59.157Z",
-	"dcterms:modified": "2022-10-09T19:37:00.679Z",
+	"dcterms:created": "2022-10-09T19:37:00.679Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -418,7 +413,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153659157#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153700679#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -426,13 +421,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153659157#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153700679#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[2]/div2/p[17]/note"
 		}
@@ -443,11 +438,11 @@
 		"rdf:value": "Sérénade. Concert de voix et d'instruments, ici \n                  on veut désigner le chant de\n                  l'insecte."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -483,10 +478,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153727391",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153729011",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:37:27.391Z",
-	"dcterms:modified": "2022-10-09T19:37:29.011Z",
+	"dcterms:created": "2022-10-09T19:37:29.011Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -496,7 +490,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153727391#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153729011#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -504,13 +498,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153727391#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153729011#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2/p[6]/note"
 		}
@@ -521,11 +515,11 @@
 		"rdf:value": "Physionomie. Les traits du visage."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -561,10 +555,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153748890",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153750745",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:37:48.890Z",
-	"dcterms:modified": "2022-10-09T19:37:50.745Z",
+	"dcterms:created": "2022-10-09T19:37:50.745Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -574,7 +567,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153748890#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153750745#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -582,13 +575,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153748890#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153750745#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2/p[6]/note[2]"
 		}
@@ -599,11 +592,11 @@
 		"rdf:value": "Affabilité. Qualité de celui qui reçoit ou écoute avec bonté ceux qui s'adressent à lui."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -639,10 +632,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153813825",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153815645",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:38:13.825Z",
-	"dcterms:modified": "2022-10-09T19:38:15.645Z",
+	"dcterms:created": "2022-10-09T19:38:15.645Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -652,7 +644,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153813825#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153815645#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -660,13 +652,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153813825#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153815645#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2/p[7]/note"
 		}
@@ -677,11 +669,11 @@
 		"rdf:value": "Lignée. Les descendants d'un ancêtre ou les enfants\n                     d'un père ou d'une mère."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -717,10 +709,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153840776",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153842710",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:38:40.776Z",
-	"dcterms:modified": "2022-10-09T19:38:42.710Z",
+	"dcterms:created": "2022-10-09T19:38:42.710Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -730,7 +721,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153840776#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153842710#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -738,13 +729,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153840776#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153842710#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[2]/div2/p/note"
 		}
@@ -755,11 +746,11 @@
 		"rdf:value": "Spacieux. Qui est de grande étendue."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -795,10 +786,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153853673",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153855260",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:38:53.673Z",
-	"dcterms:modified": "2022-10-09T19:38:55.260Z",
+	"dcterms:created": "2022-10-09T19:38:55.260Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -808,7 +798,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153853673#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153855260#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -816,13 +806,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153853673#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153855260#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[2]/div2/p/note[2]"
 		}
@@ -833,11 +823,11 @@
 		"rdf:value": "Volubilis. Plante grimpante ayant de jolies fleurs en clochette."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -873,10 +863,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153915923",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153917852",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:39:15.923Z",
-	"dcterms:modified": "2022-10-09T19:39:17.852Z",
+	"dcterms:created": "2022-10-09T19:39:17.852Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -886,7 +875,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153915923#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153917852#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -894,13 +883,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153915923#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153917852#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[2]/div2/p[3]/note"
 		}
@@ -911,11 +900,11 @@
 		"rdf:value": "Moulures. Ornements en saillie sur des pierres ou des meubles."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -951,10 +940,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153928856",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153930362",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:39:28.856Z",
-	"dcterms:modified": "2022-10-09T19:39:30.362Z",
+	"dcterms:created": "2022-10-09T19:39:30.362Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -964,7 +952,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153928856#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153930362#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -972,13 +960,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153928856#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153930362#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[2]/div2/p[3]/note[2]"
 		}
@@ -989,11 +977,11 @@
 		"rdf:value": "Cannelures. Rayures verticales en sillons à demi circulaires qu'on fait sur des colonnes."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -1029,10 +1017,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153945271",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153946878",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:39:45.271Z",
-	"dcterms:modified": "2022-10-09T19:39:46.878Z",
+	"dcterms:created": "2022-10-09T19:39:46.878Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -1042,7 +1029,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153945271#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153946878#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -1050,13 +1037,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153945271#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009153946878#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[2]/div2/p[4]/note"
 		}
@@ -1067,11 +1054,11 @@
 		"rdf:value": "Scintillant. Qui a un vif mouvement dans la lumière qu'il envoie."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -1107,10 +1094,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154110969",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154112795",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:41:10.969Z",
-	"dcterms:modified": "2022-10-09T19:41:12.795Z",
+	"dcterms:created": "2022-10-09T19:41:12.795Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -1120,7 +1106,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154110969#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154112795#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -1128,13 +1114,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154110969#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154112795#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[2]/div2/p[16]/note"
 		}
@@ -1145,11 +1131,11 @@
 		"rdf:value": "Strident. Qui produit un son aigre."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -1185,10 +1171,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154235174",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154236927",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:42:35.174Z",
-	"dcterms:modified": "2022-10-09T19:42:36.927Z",
+	"dcterms:created": "2022-10-09T19:42:36.927Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -1198,7 +1183,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154235174#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154236927#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -1206,13 +1191,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154235174#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154236927#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[3]/div2/p[3]/note"
 		}
@@ -1223,11 +1208,11 @@
 		"rdf:value": " Soubresaut. Saut subit, inattendu."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -1263,10 +1248,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154302339",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154303977",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:43:02.339Z",
-	"dcterms:modified": "2022-10-09T19:43:03.977Z",
+	"dcterms:created": "2022-10-09T19:43:03.977Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -1276,7 +1260,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154302339#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154303977#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -1284,13 +1268,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154302339#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154303977#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[3]/div2/p[4]/note"
 		}
@@ -1301,11 +1285,11 @@
 		"rdf:value": "Le vieux temps. Le temps antérieur au moins d'un siècle à l'époque \n                     actuelle."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -1341,10 +1325,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154327439",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154329076",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:43:27.439Z",
-	"dcterms:modified": "2022-10-09T19:43:29.076Z",
+	"dcterms:created": "2022-10-09T19:43:29.076Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -1354,7 +1337,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154327439#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154329076#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -1362,13 +1345,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154327439#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154329076#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[3]/div2/p[10]/note"
 		}
@@ -1379,11 +1362,11 @@
 		"rdf:value": "Sur le bout du doigt. Sans faire\n                     une faute."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -1419,10 +1402,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154353986",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154358210",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:43:53.986Z",
-	"dcterms:modified": "2022-10-09T19:43:58.210Z",
+	"dcterms:created": "2022-10-09T19:43:58.210Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -1432,7 +1414,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154353986#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154358210#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -1440,13 +1422,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154353986#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154358210#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[3]/div2/p[15]/note"
 		}
@@ -1457,11 +1439,11 @@
 		"rdf:value": "Maisonnée. Les habitants de la maison."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -1497,10 +1479,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154426254",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154427942",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:44:26.254Z",
-	"dcterms:modified": "2022-10-09T19:44:27.942Z",
+	"dcterms:created": "2022-10-09T19:44:27.942Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -1510,7 +1491,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154426254#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154427942#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -1518,13 +1499,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154426254#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154427942#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[3]/div2/p[16]/note"
 		}
@@ -1535,11 +1516,11 @@
 		"rdf:value": "Vaguement. Sans but bien déterminé, bien fixé."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -1575,10 +1556,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154442555",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154444193",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:44:42.555Z",
-	"dcterms:modified": "2022-10-09T19:44:44.193Z",
+	"dcterms:created": "2022-10-09T19:44:44.193Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -1588,7 +1568,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154442555#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154444193#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -1596,13 +1576,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154442555#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154444193#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[4]/head/note"
 		}
@@ -1613,11 +1593,11 @@
 		"rdf:value": "Caverne. Lieu en creux dans des rochers ou sur le flanc et l'intérieur d'une colline."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -1653,10 +1633,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154452320",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154453894",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:44:52.320Z",
-	"dcterms:modified": "2022-10-09T19:44:53.894Z",
+	"dcterms:created": "2022-10-09T19:44:53.894Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -1666,7 +1645,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154452320#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154453894#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -1674,13 +1653,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154452320#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154453894#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[4]/div2/p/note"
 		}
@@ -1691,11 +1670,11 @@
 		"rdf:value": "Store. Espèce de rideau qui se lève ou se baisse à l'aide d'un ressort."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -1731,10 +1710,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154502472",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154504060",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:45:02.472Z",
-	"dcterms:modified": "2022-10-09T19:45:04.060Z",
+	"dcterms:created": "2022-10-09T19:45:04.060Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -1744,7 +1722,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154502472#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154504060#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -1752,13 +1730,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154502472#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154504060#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[4]/div2/p/note[2]"
 		}
@@ -1769,11 +1747,11 @@
 		"rdf:value": "Tamisé. Dans ce sens : qui a été\n                     adouci, rendu moins vif."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -1809,10 +1787,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154512787",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154514392",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:45:12.787Z",
-	"dcterms:modified": "2022-10-09T19:45:14.392Z",
+	"dcterms:created": "2022-10-09T19:45:14.392Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -1822,7 +1799,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154512787#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154514392#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -1830,13 +1807,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154512787#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154514392#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[4]/div2/p/note[3]"
 		}
@@ -1847,11 +1824,11 @@
 		"rdf:value": "Reflet. Rayons lumineux renvoyés par une surface polie."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -1887,10 +1864,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154531087",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154532476",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:45:31.087Z",
-	"dcterms:modified": "2022-10-09T19:45:32.476Z",
+	"dcterms:created": "2022-10-09T19:45:32.476Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -1900,7 +1876,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154531087#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154532476#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -1908,13 +1884,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154531087#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154532476#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[4]/div2/p[5]/note"
 		}
@@ -1925,11 +1901,11 @@
 		"rdf:value": " Surplomber. Qui dépasse le support."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -1965,10 +1941,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154538537",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154540127",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:45:38.537Z",
-	"dcterms:modified": "2022-10-09T19:45:40.127Z",
+	"dcterms:created": "2022-10-09T19:45:40.127Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -1978,7 +1953,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154538537#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154540127#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -1986,13 +1961,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154538537#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154540127#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[4]/div2/p[5]/note[2]"
 		}
@@ -2003,11 +1978,11 @@
 		"rdf:value": " Clématite. Plante grimpante."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -2043,10 +2018,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154547220",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154548642",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:45:47.220Z",
-	"dcterms:modified": "2022-10-09T19:45:48.642Z",
+	"dcterms:created": "2022-10-09T19:45:48.642Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -2056,7 +2030,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154547220#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154548642#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -2064,13 +2038,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154547220#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154548642#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[4]/div2/p[5]/note[3]"
 		}
@@ -2081,11 +2055,11 @@
 		"rdf:value": " Raviné. Se dit d'un endroit creusé de sillons par l'eau des pluies. "
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -2121,10 +2095,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154554437",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154555709",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:45:54.437Z",
-	"dcterms:modified": "2022-10-09T19:45:55.709Z",
+	"dcterms:created": "2022-10-09T19:45:55.709Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -2134,7 +2107,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154554437#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154555709#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -2142,13 +2115,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154554437#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154555709#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[4]/div2/p[5]/note[4]"
 		}
@@ -2159,11 +2132,11 @@
 		"rdf:value": " Liane. Plante qui grimpe sur les arbres. "
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -2199,10 +2172,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154603954",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154605311",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:46:03.954Z",
-	"dcterms:modified": "2022-10-09T19:46:05.311Z",
+	"dcterms:created": "2022-10-09T19:46:05.311Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -2212,7 +2184,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154603954#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154605311#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -2220,13 +2192,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154603954#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154605311#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[4]/div2/p[6]/note"
 		}
@@ -2237,11 +2209,11 @@
 		"rdf:value": " Pépiement. Petit cri joyeux et répété, poussé par certains oiseaux. "
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -2277,10 +2249,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154621921",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154623342",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:46:21.921Z",
-	"dcterms:modified": "2022-10-09T19:46:23.342Z",
+	"dcterms:created": "2022-10-09T19:46:23.342Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -2290,7 +2261,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154621921#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154623342#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -2298,13 +2269,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154621921#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154623342#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[4]/div2/p[5]/note[5]"
 		}
@@ -2315,11 +2286,11 @@
 		"rdf:value": " Inextricable. Qui ne peut être démêlé."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -2355,10 +2326,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154641587",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154642910",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:46:41.587Z",
-	"dcterms:modified": "2022-10-09T19:46:42.910Z",
+	"dcterms:created": "2022-10-09T19:46:42.910Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -2368,7 +2338,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154641587#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154642910#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -2376,13 +2346,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154641587#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154642910#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[4]/div2/p[8]/note"
 		}
@@ -2393,11 +2363,11 @@
 		"rdf:value": " Epieu. Gros\n                  bâton à bout pointu et durci. "
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -2433,10 +2403,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154652218",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154653759",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:46:52.218Z",
-	"dcterms:modified": "2022-10-09T19:46:53.759Z",
+	"dcterms:created": "2022-10-09T19:46:53.759Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -2446,7 +2415,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154652218#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154653759#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -2454,13 +2423,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154652218#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154653759#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[4]/div2/p[8]/note[2]"
 		}
@@ -2471,11 +2440,11 @@
 		"rdf:value": " Baies. Fruits mous et charnus de certains arbustes. "
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -2511,10 +2480,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154706653",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154707942",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:47:06.653Z",
-	"dcterms:modified": "2022-10-09T19:47:07.942Z",
+	"dcterms:created": "2022-10-09T19:47:07.942Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -2524,7 +2492,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154706653#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154707942#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -2532,13 +2500,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154706653#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154707942#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[4]/div2/p[12]/note"
 		}
@@ -2549,11 +2517,11 @@
 		"rdf:value": " Aire. Espace non pavé entre les murs d'une maison."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -2589,10 +2557,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154736487",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154737910",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:47:36.487Z",
-	"dcterms:modified": "2022-10-09T19:47:37.910Z",
+	"dcterms:created": "2022-10-09T19:47:37.910Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -2602,7 +2569,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154736487#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154737910#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -2610,13 +2577,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154736487#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154737910#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[5]/div2/p/note"
 		}
@@ -2627,11 +2594,11 @@
 		"rdf:value": " Œil songeur. Manière de regarder d'une personne préoccupée. "
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -2667,10 +2634,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154747320",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154748559",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:47:47.320Z",
-	"dcterms:modified": "2022-10-09T19:47:48.559Z",
+	"dcterms:created": "2022-10-09T19:47:48.559Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -2680,7 +2646,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154747320#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154748559#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -2688,13 +2654,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154747320#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154748559#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[5]/div2/p[6]/note"
 		}
@@ -2705,11 +2671,11 @@
 		"rdf:value": " Netteté. Qualité de ce qui est sans souillure. "
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -2745,10 +2711,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154758370",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154759609",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:47:58.370Z",
-	"dcterms:modified": "2022-10-09T19:47:59.609Z",
+	"dcterms:created": "2022-10-09T19:47:59.609Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -2758,7 +2723,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154758370#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154759609#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -2766,13 +2731,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154758370#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154759609#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[5]/div2/p[10]/note"
 		}
@@ -2783,11 +2748,11 @@
 		"rdf:value": " Prélasser (se). Marcher avec un air de gravité\n                  orgueilleuse. "
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -2823,10 +2788,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154806220",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154807243",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:48:06.220Z",
-	"dcterms:modified": "2022-10-09T19:48:07.243Z",
+	"dcterms:created": "2022-10-09T19:48:07.243Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -2836,7 +2800,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154806220#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154807243#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -2844,13 +2808,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154806220#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154807243#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[5]/div2/p[10]/note[2]"
 		}
@@ -2861,11 +2825,11 @@
 		"rdf:value": " Escarbilles. Morceaux de charbon de terre de petite dimension. "
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -2901,10 +2865,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154817786",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154819192",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:48:17.786Z",
-	"dcterms:modified": "2022-10-09T19:48:19.192Z",
+	"dcterms:created": "2022-10-09T19:48:19.192Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -2914,7 +2877,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154817786#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154819192#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -2922,13 +2885,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154817786#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154819192#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[5]/div2/p[12]/note"
 		}
@@ -2939,11 +2902,11 @@
 		"rdf:value": " Gouverner. Donner la direction. "
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -2979,10 +2942,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154838153",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154839757",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:48:38.153Z",
-	"dcterms:modified": "2022-10-09T19:48:39.757Z",
+	"dcterms:created": "2022-10-09T19:48:39.757Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -2992,7 +2954,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154838153#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154839757#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -3000,13 +2962,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154838153#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154839757#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[5]/div2/p[13]/note"
 		}
@@ -3017,11 +2979,11 @@
 		"rdf:value": " Résolution. Disposition à faire une\n                  chose malgré les obstacles. "
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -3057,10 +3019,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154857270",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154858859",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:48:57.270Z",
-	"dcterms:modified": "2022-10-09T19:48:58.859Z",
+	"dcterms:created": "2022-10-09T19:48:58.859Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -3070,7 +3031,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154857270#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154858859#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -3078,13 +3039,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154857270#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154858859#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[6]/div2/p[2]/note"
 		}
@@ -3095,11 +3056,11 @@
 		"rdf:value": " Encombrement.\n                  Amas d'objets qui occupent une place qui n'est pas la leur. "
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -3135,10 +3096,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154906719",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154908159",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:49:06.719Z",
-	"dcterms:modified": "2022-10-09T19:49:08.159Z",
+	"dcterms:created": "2022-10-09T19:49:08.159Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -3148,7 +3108,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154906719#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154908159#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -3156,13 +3116,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154906719#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154908159#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[6]/div2/p[14]/note"
 		}
@@ -3173,11 +3133,11 @@
 		"rdf:value": " Savoir-faire. \n                     Qualité de celui qui réussit dans les travaux qu'il\n                     entreprend. "
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -3213,10 +3173,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154914737",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154916108",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:49:14.737Z",
-	"dcterms:modified": "2022-10-09T19:49:16.108Z",
+	"dcterms:created": "2022-10-09T19:49:16.108Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -3226,7 +3185,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154914737#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154916108#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -3234,13 +3193,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154914737#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154916108#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[6]/div2/p[18]/note"
 		}
@@ -3251,11 +3210,11 @@
 		"rdf:value": " Feindre. Paraître vouloir faire une chose, avec l'intention de ne pas l'exécuter. "
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -3291,10 +3250,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154936119",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154937558",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:49:36.119Z",
-	"dcterms:modified": "2022-10-09T19:49:37.558Z",
+	"dcterms:created": "2022-10-09T19:49:37.558Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -3304,7 +3262,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154936119#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154937558#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -3312,13 +3270,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154936119#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009154937558#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[7]/div2/p/note"
 		}
@@ -3329,11 +3287,11 @@
 		"rdf:value": " Héroïsme. Disposition à faire des actions utiles et désintéressées. "
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -3445,10 +3403,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155000543",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155002493",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:50:00.543Z",
-	"dcterms:modified": "2022-10-09T19:50:02.493Z",
+	"dcterms:created": "2022-10-09T19:50:02.493Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -3458,7 +3415,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155000543#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155002493#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -3466,13 +3423,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155000543#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155002493#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[7]/div2/p[2]/note"
 		}
@@ -3483,11 +3440,11 @@
 		"rdf:value": "\n                  Charles le Téméraire. Duc de Bourgogne, ambitieux, cruel,\n                  qui vécut au XVe siècle. "
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -3523,10 +3480,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155011353",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155012708",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:50:11.353Z",
-	"dcterms:modified": "2022-10-09T19:50:12.708Z",
+	"dcterms:created": "2022-10-09T19:50:12.708Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -3536,7 +3492,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155011353#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155012708#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -3544,13 +3500,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155011353#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155012708#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[7]/div2/p[2]/note[2]"
 		}
@@ -3561,11 +3517,11 @@
 		"rdf:value": " Étendard. Pièce d'étoffe suspendus \n                     à une lance et qui sert à rallier les soldats.\n                  "
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -3601,10 +3557,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155023769",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155025008",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:50:23.769Z",
-	"dcterms:modified": "2022-10-09T19:50:25.008Z",
+	"dcterms:created": "2022-10-09T19:50:25.008Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -3614,7 +3569,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155023769#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155025008#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -3622,13 +3577,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155023769#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155025008#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[7]/div2/p[4]/note"
 		}
@@ -3639,11 +3594,11 @@
 		"rdf:value": " Spontanément. Agir spontanément, c'est faire une\n                  chose sans que personne vous y\n                  excite. "
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -3679,10 +3634,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155031170",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155032725",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:50:31.170Z",
-	"dcterms:modified": "2022-10-09T19:50:32.725Z",
+	"dcterms:created": "2022-10-09T19:50:32.725Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -3692,7 +3646,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155031170#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155032725#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -3700,13 +3654,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155031170#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155032725#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[7]/div2/p[4]/note[2]"
 		}
@@ -3717,11 +3671,11 @@
 		"rdf:value": " Cheval emporté. Cheval \n                     furieux qui ne se soumet plus à l'action du frein.\n                  "
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -3757,10 +3711,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155038636",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155039956",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:50:38.636Z",
-	"dcterms:modified": "2022-10-09T19:50:39.956Z",
+	"dcterms:created": "2022-10-09T19:50:39.956Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -3770,7 +3723,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155038636#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155039956#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -3778,13 +3731,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155038636#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155039956#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[7]/div2/p[5]/note"
 		}
@@ -3795,11 +3748,11 @@
 		"rdf:value": " Effacé. Dans ce sens : qui ne cherche pas à être vu, remarqué. "
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -3835,10 +3788,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155051536",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155052858",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:50:51.536Z",
-	"dcterms:modified": "2022-10-09T19:50:52.858Z",
+	"dcterms:created": "2022-10-09T19:50:52.858Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -3848,7 +3800,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155051536#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155052858#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -3856,13 +3808,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155051536#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155052858#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[7]/div2/p[8]/note"
 		}
@@ -3873,11 +3825,11 @@
 		"rdf:value": " Balourd. Qui est grossier et maladroit. "
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -3913,10 +3865,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155117819",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155119025",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:51:17.819Z",
-	"dcterms:modified": "2022-10-09T19:51:19.025Z",
+	"dcterms:created": "2022-10-09T19:51:19.025Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -3926,7 +3877,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155117819#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155119025#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -3934,13 +3885,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155117819#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155119025#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[8]/div2/p[2]/note"
 		}
@@ -3951,11 +3902,11 @@
 		"rdf:value": " Ragoût. Mets assaisonné, composé de légumes et de viande découpée. "
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -3991,10 +3942,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155123604",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155124824",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:51:23.604Z",
-	"dcterms:modified": "2022-10-09T19:51:24.824Z",
+	"dcterms:created": "2022-10-09T19:51:24.824Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -4004,7 +3954,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155123604#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155124824#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -4012,13 +3962,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155123604#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155124824#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[8]/div2/p[2]/note[2]"
 		}
@@ -4029,11 +3979,11 @@
 		"rdf:value": " Clapoter.\n                  Un liquide clapote quand il fait du bruit par suite d'une légère agitation. "
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -4069,10 +4019,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155131222",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155132575",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:51:31.222Z",
-	"dcterms:modified": "2022-10-09T19:51:32.575Z",
+	"dcterms:created": "2022-10-09T19:51:32.575Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -4082,7 +4031,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155131222#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155132575#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -4090,13 +4039,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155131222#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155132575#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[8]/div2/p[7]/note"
 		}
@@ -4107,11 +4056,11 @@
 		"rdf:value": " Saveur. Qualité qu'on apprécie par le goût. "
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -4147,10 +4096,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155139352",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155140494",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:51:39.352Z",
-	"dcterms:modified": "2022-10-09T19:51:40.494Z",
+	"dcterms:created": "2022-10-09T19:51:40.494Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -4160,7 +4108,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155139352#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155140494#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -4168,13 +4116,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155139352#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155140494#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[8]/div2/p[9]/note"
 		}
@@ -4185,11 +4133,11 @@
 		"rdf:value": " Aromate. Substance à odeur forte dont on parfume les mets. "
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -4225,10 +4173,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155149137",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155150391",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:51:49.137Z",
-	"dcterms:modified": "2022-10-09T19:51:50.391Z",
+	"dcterms:created": "2022-10-09T19:51:50.391Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -4238,7 +4185,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155149137#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155150391#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -4246,13 +4193,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155149137#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155150391#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[8]/div2/p[13]/note"
 		}
@@ -4263,11 +4210,11 @@
 		"rdf:value": "Réconfortant. Qui fortifie. "
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -4303,10 +4250,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155158289",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155201623",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:51:58.289Z",
-	"dcterms:modified": "2022-10-09T19:52:01.623Z",
+	"dcterms:created": "2022-10-09T19:52:01.623Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -4316,7 +4262,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155158289#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155201623#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -4324,13 +4270,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155158289#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155201623#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[8]/div2/p[14]/note"
 		}
@@ -4341,11 +4287,11 @@
 		"rdf:value": " Rasséréné. Qui n'a plus ni\n                  crainte ni chagrin. "
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -4381,10 +4327,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155222793",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155224167",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:52:22.793Z",
-	"dcterms:modified": "2022-10-09T19:52:24.167Z",
+	"dcterms:created": "2022-10-09T19:52:24.167Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -4394,7 +4339,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155222793#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155224167#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -4402,13 +4347,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155222793#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155224167#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[9]/div2/p[2]/note"
 		}
@@ -4419,11 +4364,11 @@
 		"rdf:value": " Anniversaire. Époque ou cérémonie que ramène le souvenir d'un événement arrivé à pareil jour. "
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -4459,10 +4404,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155234043",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155235682",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:52:34.043Z",
-	"dcterms:modified": "2022-10-09T19:52:35.682Z",
+	"dcterms:created": "2022-10-09T19:52:35.682Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -4472,7 +4416,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155234043#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155235682#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -4480,13 +4424,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155234043#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155235682#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[9]/div2/p[8]/note"
 		}
@@ -4497,11 +4441,11 @@
 		"rdf:value": " Stérilité d'esprit. Etat d'une\n                     personne incapable de tirer parti de ce qu’elle sait. "
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -4537,10 +4481,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155243343",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155244848",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:52:43.343Z",
-	"dcterms:modified": "2022-10-09T19:52:44.848Z",
+	"dcterms:created": "2022-10-09T19:52:44.848Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -4550,7 +4493,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155243343#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155244848#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -4558,13 +4501,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155243343#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155244848#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[9]/div2/p[15]/note"
 		}
@@ -4575,11 +4518,11 @@
 		"rdf:value": " Almanach. Petit livre \n                  ou calendrier qui contient la liste des jours de\n                  l'année avec des prédictions relatives au temps. "
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -4615,10 +4558,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155253661",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155254731",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:52:53.661Z",
-	"dcterms:modified": "2022-10-09T19:52:54.731Z",
+	"dcterms:created": "2022-10-09T19:52:54.731Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -4628,7 +4570,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155253661#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155254731#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -4636,13 +4578,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155253661#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155254731#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[9]/div2/p[20]/note"
 		}
@@ -4653,11 +4595,11 @@
 		"rdf:value": " Bibliothèque. Lieu ou meuble dans lequel on réunit beaucoup de livres.\n               "
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -4693,10 +4635,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155303358",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155304813",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:53:03.358Z",
-	"dcterms:modified": "2022-10-09T19:53:04.813Z",
+	"dcterms:created": "2022-10-09T19:53:04.813Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -4706,7 +4647,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155303358#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155304813#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -4714,13 +4655,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155303358#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155304813#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[9]/div2/p[24]/note"
 		}
@@ -4731,11 +4672,11 @@
 		"rdf:value": " Réfléchi. Le contraire d'étourdi. "
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -4771,10 +4712,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155328727",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155329997",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:53:28.727Z",
-	"dcterms:modified": "2022-10-09T19:53:29.997Z",
+	"dcterms:created": "2022-10-09T19:53:29.997Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -4784,7 +4724,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155328727#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155329997#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -4792,13 +4732,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155328727#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155329997#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[10]/div2/p[2]/note"
 		}
@@ -4809,11 +4749,11 @@
 		"rdf:value": "Indienne. Étoffes de coton d'une prix peu élevé."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -4849,10 +4789,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155336691",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155338063",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:53:36.691Z",
-	"dcterms:modified": "2022-10-09T19:53:38.063Z",
+	"dcterms:created": "2022-10-09T19:53:38.063Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -4862,7 +4801,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155336691#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155338063#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -4870,13 +4809,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155336691#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155338063#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[10]/div2/p[2]/note[2]"
 		}
@@ -4887,11 +4826,11 @@
 		"rdf:value": "Cotonnade. Étoffes de coton d'une prix peu élevé."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -4927,10 +4866,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155345323",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155346813",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:53:45.323Z",
-	"dcterms:modified": "2022-10-09T19:53:46.813Z",
+	"dcterms:created": "2022-10-09T19:53:46.813Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -4940,7 +4878,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155345323#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155346813#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -4948,13 +4886,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155345323#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155346813#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[10]/div2/p[3]/note"
 		}
@@ -4965,11 +4903,11 @@
 		"rdf:value": "Sentir la main. S'apercevoir qu'on est \n                  dirigé, guidé."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -5005,10 +4943,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155353958",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155355947",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:53:53.958Z",
-	"dcterms:modified": "2022-10-09T19:53:55.947Z",
+	"dcterms:created": "2022-10-09T19:53:55.947Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -5018,7 +4955,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155353958#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155355947#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -5026,13 +4963,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155353958#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155355947#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[10]/div2/p[4]/note"
 		}
@@ -5043,11 +4980,11 @@
 		"rdf:value": "École d'agriculture. Établissement où l'on forme les jeunes gens à\n                     la culture intelligente."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -5083,10 +5020,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155404809",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155405947",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:54:04.809Z",
-	"dcterms:modified": "2022-10-09T19:54:05.947Z",
+	"dcterms:created": "2022-10-09T19:54:05.947Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -5096,7 +5032,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155404809#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155405947#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -5104,13 +5040,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155404809#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155405947#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[10]/div2/p[6]/note"
 		}
@@ -5121,11 +5057,11 @@
 		"rdf:value": "Contrebande. Faire entrer ou passer des marchandises sans payer les droits ; ici, agir en \n                     cachant ce qu'on fait."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -5161,10 +5097,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155412842",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155414213",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:54:12.842Z",
-	"dcterms:modified": "2022-10-09T19:54:14.213Z",
+	"dcterms:created": "2022-10-09T19:54:14.213Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -5174,7 +5109,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155412842#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155414213#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -5182,13 +5117,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155412842#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155414213#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[10]/div2/p[6]/note[2]"
 		}
@@ -5199,11 +5134,11 @@
 		"rdf:value": "Appeaux. Plèges tendus aux oiseaux."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -5239,10 +5174,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155420857",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155422164",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:54:20.857Z",
-	"dcterms:modified": "2022-10-09T19:54:22.164Z",
+	"dcterms:created": "2022-10-09T19:54:22.164Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -5252,7 +5186,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155420857#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155422164#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -5260,13 +5194,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155420857#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155422164#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[10]/div2/p[6]/note[3]"
 		}
@@ -5277,11 +5211,11 @@
 		"rdf:value": "Imaginations (des). Actes, projets bizarres contraires à ce qui est naturel."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -5317,10 +5251,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155442808",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155444480",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:54:42.808Z",
-	"dcterms:modified": "2022-10-09T19:54:44.480Z",
+	"dcterms:created": "2022-10-09T19:54:44.480Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -5330,7 +5263,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155442808#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155444480#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -5338,13 +5271,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155442808#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155444480#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[10]/div2/p[7]/note"
 		}
@@ -5355,11 +5288,11 @@
 		"rdf:value": "Tatouer. Tracer des dessins sur la peau au moyen des piqûres."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -5395,10 +5328,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155453259",
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155454446",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-09T19:54:53.259Z",
-	"dcterms:modified": "2022-10-09T19:54:54.446Z",
+	"dcterms:created": "2022-10-09T19:54:54.446Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -5408,7 +5340,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155453259#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155454446#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
@@ -5416,13 +5348,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.0.1"
+			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155453259#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221009155454446#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1[10]/div2/p[13]/note"
 		}
@@ -5433,11 +5365,88 @@
 		"rdf:value": "Rébellion. Résistance faite les armes à la main."
 	},
 	"as:generator": {
-		"@id": "https://31283590-review-35-custom-aczym0.leaf-vre.org",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.0.1"
+		"schema:softwareVersion": "2.2.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221018152523914",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-10-18T19:25:23.914Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221018152523914#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.2.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch001-010.xml?note_annotation_20221018152523914#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1[2]/div2/p[12]/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": "Falaise. \n                  Ville de Normandie."
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.2.0"
 	}
 }]]>
         </rdf:Description>
@@ -5463,7 +5472,8 @@
                   épluchures. </p>
                <note> NOTA. — 1° Les mots suivis d'un astérisque sont expliqués à la fin du volume, et, pour faciliter les recherches, ont été 
                   classés lecture par lecture et non suivant l'ordre
-                  alphabétique. 2° Nous avons fait suivre chacun des récits de questionnaires sur divers sujets se 
+                  alphabétique.</note> 
+				  <note>2° Nous avons fait suivre chacun des récits de questionnaires sur divers sujets se 
                   rapportant au texte qui précède, et qui peuvent donner lieu à de nouveaux
                   exercices soit oraux, soit écrits. </note>
                <fw type="footer"> SUZETTE (Maîtresse). <fw type="sig">1</fw> </fw>
