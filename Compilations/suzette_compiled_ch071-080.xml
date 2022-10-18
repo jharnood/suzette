@@ -841,6 +841,240 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch071-080.xml?note_annotation_20221018120601344",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-10-18T16:06:01.344Z",
+	"dcterms:modified": "2022-10-18T16:06:04.951Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch071-080.xml?note_annotation_20221018120601344#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch071-080.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.2.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch071-080.xml?note_annotation_20221018120601344#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1[3]/div2/p[4]/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": "Annihiler. Réduire à\n                  rien."
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.2.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch071-080.xml?note_annotation_20221018120624562",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-10-18T16:06:24.562Z",
+	"dcterms:modified": "2022-10-18T16:06:28.255Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch071-080.xml?note_annotation_20221018120624562#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch071-080.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.2.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch071-080.xml?note_annotation_20221018120624562#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1[3]/div2/p[5]/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": "Dégingandé. Se dit d'une personne dont la contenance et la\n                     démarche sont mal assurées."
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.2.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch071-080.xml?note_annotation_20221018120644944",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-10-18T16:06:44.944Z",
+	"dcterms:modified": "2022-10-18T16:06:48.439Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch071-080.xml?note_annotation_20221018120644944#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch071-080.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.2.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch071-080.xml?note_annotation_20221018120644944#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1[4]/div2/p/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": " Vagabond. Qui erre par les chemins sans but déterminé."
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.2.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><profileDesc>
          <langUsage>
             <language ident="fr">French</language>
@@ -1116,7 +1350,7 @@
                <fw>252 SUZETTE.</fw>
                <p>L'enfant devint le grand <persName type="historique">Franklin</persName> ; la petite étincelle est devenue la grande électricité*<note type="annotation">Electricité. Cause, force inconnue qui produit la foudre.</note> avec ses nombreuses
                   applications qui ont déjà changé et changeront encore plus la face de la terre.</p>
-               <p>La foudre, la terrible force destructrice devant laquelle les premiers hommes, terrifiés, se prosternaient, l'homme d'aujourd'hui s'en empare, l'annihile*<note type="annotaiton">Annihiler. Réduire à
+               <p>La foudre, la terrible force destructrice devant laquelle les premiers hommes, terrifiés, se prosternaient, l'homme d'aujourd'hui s'en empare, l'annihile*<note type="annotation">Annihiler. Réduire à
                   rien.</note> par le paratonnerre de <persName type="historique">Franklin</persName> ou la maitrise, lui fait porter sa parole et ses commandements jusqu'au bout de l'uni-<figure>
                      <caption> Le paratonnerre. La lige d'un paratonnerre varie de trois à cinq metres; elle est terminée en haut par une pointe de platine. Une barre en métal, servant de conducteur,
                         est soudce à la tige et descend, en suivant le toit et les murs de l'édifice, soit dans un puits, soit dans un trou profond. Un paratonnerre en mauvais état peut amener des
@@ -1127,7 +1361,7 @@
                         et ce feu, connu des navires, les guide au milieu de l'obscurité.</caption>
                   </figure> vers, comme il s'en éclaire contre la nuit ; et quelles autres merveilles n'en tirera-t-il pas demain !</p>
                <p>— Qui, dit <persName type="fictif" key="sylvain">Sylvain</persName>, nous sommes loin des feux allumés sur les montagnes pour les communications que les hommes avaient à se faire. Nous sommes loin aussi de ces machines de bois à
-                  longs bras, qui, de clocher en clocher, d'un bout à l'autre de la France, se faisaient des gestes dégingandés*<note type="annotaiton">Dégingandé. Se dit d'une personne dont la contenance et la
+                  longs bras, qui, de clocher en clocher, d'un bout à l'autre de la France, se faisaient des gestes dégingandés*<note type="annotation">Dégingandé. Se dit d'une personne dont la contenance et la
                      démarche sont mal assurées.</note>.</p>
                <p>M. <persName type="fictif" key="pascal">Pascal</persName>, qui, malgré son petit désastre de la veille, n'engendrait pas la mélancolie et trouvait généralement <pb type="page" n="253"/>
                   <fw>LA DÉPÈCHE. 253</fw> dans son excellente mémoire quelque bonne chose à répondre, se mit à chanter :</p>
@@ -1255,7 +1489,7 @@
             <fw>RÉCONCILIATION. 255</fw>
             <div2 type="récit">
                <head>74. — Réconciliation. (Élève, p. 156.)</head>
-               <p>Si le père tue le veau gras pour célébrer le retour du fils vagabond*<note type="annotaiton"> Vagabond. Qui erre par les chemins sans but déterminé.</note> qu'il croyait perdu et qui est retrouvé,
+               <p>Si le père tue le veau gras pour célébrer le retour du fils vagabond*<note type="annotation"> Vagabond. Qui erre par les chemins sans but déterminé.</note> qu'il croyait perdu et qui est retrouvé,
                   que fera la mère ? M. <persName type="fictif" key="pascal">Pascal</persName> le savait certainement, car à l'arrivée d'une mère attendue, il courut impétueusement à elle et se jeta dans ses bras ouverts. Elle l'y retint en
                   pleurant :</p>
                <p>— Malheureux enfant ! malheureux enfant ! que de larmes tu as fait couler ! Ah ! j'en serais morte !</p>
