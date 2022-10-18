@@ -168,11 +168,20 @@ byline {
     margin-bottom: 0.5em;
 }
 
+/*  Adding text for Légende (caption) before caption text */
+caption:before {
+    content: "Légende: ";
+    font-style: italic;
+}
+
+/* indenting caption text */
 caption {
     display: block;
-    font-size: small;
+/*  font-size: small; */
     font-style: italic;
     color: gray;
+    margin-left:  2em;
+    margin-right: 2em;
 }
 category {
     display: block;
