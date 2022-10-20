@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/CSS/suzette_cwrc.css"?>
-<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/suzette/master/out/suzette-NewCustom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -64,7 +61,241 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <profileDesc>
+      <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch051-060.xml?note_annotation_20221020094531050",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-10-20T13:45:31.050Z",
+	"dcterms:modified": "2022-10-20T13:45:35.138Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch051-060.xml?note_annotation_20221020094531050#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch051-060.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.2.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch051-060.xml?note_annotation_20221020094531050#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2/p[2]/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": " Buée. Vapeur blanchâtre très légère.\n               "
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.2.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch051-060.xml?note_annotation_20221020094552051",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-10-20T13:45:52.051Z",
+	"dcterms:modified": "2022-10-20T13:45:57.901Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch051-060.xml?note_annotation_20221020094552051#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch051-060.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.2.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch051-060.xml?note_annotation_20221020094552051#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2/p[3]/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": " Manne. Ici, nourriture, qu'on a seulement la peine de recueillir. "
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.2.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch051-060.xml?note_annotation_20221020094604549",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-10-20T13:46:04.549Z",
+	"dcterms:modified": "2022-10-20T13:46:06.812Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch051-060.xml?note_annotation_20221020094604549#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch051-060.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.2.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch051-060.xml?note_annotation_20221020094604549#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/head/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": " Gui. Plante qui croit sur divers arbres, tels que pommiers, peupliers. "
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.2.0"
+	}
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData><profileDesc>
          <langUsage>
             <language ident="fr">French</language>
             <language ident="en">English</language>
@@ -76,35 +307,30 @@
          <div1 type="chapitre" xml:lang="fr" n="ch051">
             <head>51. — Au gui*<note type="annotation"> Gui. Plante qui croit sur divers arbres, tels que pommiers, peupliers. </note> l'an neuf ! (Élève, p. 111.)</head>
             <div2 type="récit">
-               <p>La maison était en grande tenue de bas en haut, jusqu'à la girouette toute neuve, en forme de moulin à vent, l'œuvre de <persName type="fictif" key="françois"
-                  >François</persName>. Ce jour de premier de l'an, elle indiquait le nord dune façon fort décidée.</p>
+               <p>La maison était en grande tenue de bas en haut, jusqu'à la girouette toute neuve, en forme de moulin à vent, l'œuvre de <persName type="fictif" key="françois">François</persName>. Ce jour de premier de l'an, elle indiquait le nord dune façon fort décidée.</p>
                <p>L'air, très froid, semblait fait d'invisibles aiguilles ; le givre habillait de blanc les arbres du jardin, à peine voilé d'une buée*<note type="annotation"> Buée. Vapeur blanchâtre très légère.
                </note> légère.</p>
                <p>D'un des arbres, un petit rouge-gorge depuis un moment avançait sa jolie tête, guettant de ses yeux perlés, à droite, à gauche, devant, derrière. Il prit bientôt son vol jusqu à
-                  la fenêtre, sachant bien que la <pb type="page" n="178" />
+                  la fenêtre, sachant bien que la <pb type="page" n="178"/>
                   <fw>178 SUZETTE.</fw> manne*<note type="annotation"> Manne. Ici, nourriture, qu'on a seulement la peine de recueillir. </note>, si rare aux oiseaux par ce temps d'hiver, se trouvait là assez
                   souvent. C'était le premier invité. </p>
-               <p>Presque aussitôt la porte s'ouvrit, et la face de <persName type="fictif" key="françois">François</persName>, suivie de celle de <persName type="fictif" key="charlot"
-                  >Charlot</persName>, se montra. Toutes deux luisaient de bon savonnage au-dessus d'une belle cravate cerise en nœud à coques. Les chemises bien blanches, les vestes et les
+               <p>Presque aussitôt la porte s'ouvrit, et la face de <persName type="fictif" key="françois">François</persName>, suivie de celle de <persName type="fictif" key="charlot">Charlot</persName>, se montra. Toutes deux luisaient de bon savonnage au-dessus d'une belle cravate cerise en nœud à coques. Les chemises bien blanches, les vestes et les
                   pantalons parfaitement brossés, tout cela annonçait le grand gala*<note type="annotation"> Gala. Grand repas. </note>.</p>
                <p>Comme le petit oiseau de tout à l'heure, les deux frères regardèrent à droite, à gauche, puis encore à droite, puis encore à gauche, et enfin ils s'écrièrent :</p>
                <p>— Les voilà ! les voilà !</p>
                <figure>
                   <caption>Le givre est le brouillard qui se dépose sous forme de glace sur les végétaux, les toits des maisons, etc., lorsque l'air se refroidit suffisamment.</caption>
                </figure>
-               <p>D'un côté arrivaient bras dessus, bras dessous, M. et <persName type="fictif" key="mme_valon">Mme Valon</persName>, en compagnie de <persName type="fictif" key="m_valon"
-                  >monsieur Georges Valon</persName>, tout fier de sa première culotte qu'il étrennait, et de <persName type="fictif" key="lucie_valon">mademoiselle Lucie Valon</persName>,
+               <p>D'un côté arrivaient bras dessus, bras dessous, M. et <persName type="fictif" key="mme_valon">Mme Valon</persName>, en compagnie de <persName type="fictif" key="m_valon">monsieur Georges Valon</persName>, tout fier de sa première culotte qu'il étrennait, et de <persName type="fictif" key="lucie_valon">mademoiselle Lucie Valon</persName>,
                   une blondinette en capeline de tricot blanc de neige, semblable à un bouton de rose dans le duvet. Entre les enfants marchait la maman de toute la troupe, l'excellente
                   <persName type="fictif" key="mme_liénard">Mme Liénard</persName>.</p>
-               <p>En même temps, paraissaient sur la droite la voisine <persName type="fictif" key="ludivine">Ludivine</persName>, son fils <persName type="fictif" key="vincent"
-                  >Vincent</persName>, sa fille <persName type="fictif" key="lisa">Lisa</persName> et le vieux père <persName type="fictif" key="benoît">Benoît</persName>.</p>
+               <p>En même temps, paraissaient sur la droite la voisine <persName type="fictif" key="ludivine">Ludivine</persName>, son fils <persName type="fictif" key="vincent">Vincent</persName>, sa fille <persName type="fictif" key="lisa">Lisa</persName> et le vieux père <persName type="fictif" key="benoît">Benoît</persName>.</p>
                <p><persName type="fictif" key="m_dumay">M. Dumay</persName>, endimanché, tout rajeuni par un rasage de barbe soigné et par son linge blanc, les attend sur le seuil.</p>
                <p>— Mes amis, soyez les bienvenus ! bonne année à vous tous !</p>
                <p>Bonne année ! bonne année !</p>
                <p> On s'embrasse.</p>
-               <p> — Salut, ami <persName type="fictif" key="jacques">Jacques</persName> !.. Et <persName type="fictif" key="suzette">Suzette</persName> ? où est <persName type="fictif"
-                  key="suzette">Suzette</persName> ?</p>
-               <p>Allez la chercher par là d'où vient une si bonne, si <pb type="page" n="179" />
+               <p> — Salut, ami <persName type="fictif" key="jacques">Jacques</persName> !.. Et <persName type="fictif" key="suzette">Suzette</persName> ? où est <persName type="fictif" key="suzette">Suzette</persName> ?</p>
+               <p>Allez la chercher par là d'où vient une si bonne, si <pb type="page" n="179"/>
                   <fw>AU GUI L'AN NEUF ! 179</fw> accueillante odeur de bouillon savamment mené*<note type="annotation"> Mené. Dirigé, conduit. </note> et de viande rôtie !</p>
                <p>On se presse dans la jolie salle où, pour la circonstance, le couvert est mis. La table est en bois blanc, et cela se voit, car il n'y a pas de nappe. Mais une chanson le dit :
                   « On peut bien manger sans nappe », surtout si quelque main pleine de goût a suppléé*<note type="annotation"> Suppléer. Ajouter ce qui manque. </note> à ce petit luxe par un autre aussi joli,
@@ -144,7 +370,7 @@
                   <div4 type="questions">
                      <list>
                         <item>— Rappelez brièvement ce que vous devez à vos parents.</item>
-                        <item>—En quelles occasions leur exprime-l-on particulièrement son affec- <pb type="page" n="180" />
+                        <item>—En quelles occasions leur exprime-l-on particulièrement son affec- <pb type="page" n="180"/>
                            <fw>180 SUZETTE.</fw> tion, sa reconnaissance ? </item>
                         <item>— Que préparerez -vous, que présenterez vous alors à votre père, à votre mère, à vos frères, à vos sœurs, aux grands parents? </item>
                         <item> — Pourquoi aimez-vous le premier jour de l'année ? </item>
@@ -194,7 +420,7 @@
                         <item>— LE GUI. </item>
                         <item>—Décrire le gui.</item>
                         <item>— Où croît -il ?</item>
-                        <pb type="page" n="181" />
+                        <pb type="page" n="181"/>
                         <fw>A TABLE. 181</fw>
                         <item>— Où sont fixées ses racines ? </item>
                         <item>— Où prend-il sa nourriture ? </item>
@@ -237,7 +463,7 @@
             </div2>
          </div1>
          <div1 type="chapitre" xml:lang="fr" n="ch052">
-            <pb type="page" n="187" />
+            <pb type="page" n="187"/>
             <head>52. — A table. (Élève, p. 114.)</head>
             <div2 type="récit">
                <p>Quel bouillon ! ah ! c'est du vrai bouillon de bourgeois ! s'écria, devant la soupe, <persName type="fictif" key="ludivine">Ludivine</persName>, en faisant claquer sa langue.
@@ -247,7 +473,7 @@
                   ingrédients*<note type="annotation">Ingrédients. Choses qui entrent dans la composition d'un mets.</note> ordinaires de viande, de légumes et de sel; mais qu'elle veillait à n'amener que
                   lentement l'ébullition*<note type="annotation">Ebullition. Action de bouillir.</note>, puis à la maintenir égale jusqu'au bout.</p>
                <fw type="footer">SUZETTE (Maîtresse). <fw type="sig">11</fw></fw>
-               <pb type="page" n="182" />
+               <pb type="page" n="182"/>
                <fw>182 SUZETTE.</fw>
                <p><persName type="fictif" key="lisa">Lisa</persName>, en fait d'attention au pot-au-feu, ou à quoi que ce soit au monde, ressemblait beaucoup à une <figure>
                   <caption>Les marais salants. L'eau de mer, en s'évaporant dans les marais salants, marais artificiels où on la fait venir, laisse au fond le sel dont elle était chargée. Le
@@ -261,14 +487,12 @@
                   <caption>Le persil, plante potagère, sert en cuisine pour donner du goût à certains plats.</caption>
                </figure>
                <p>Après la soupe vint le bouilli, couronné de persil, flanqué*<note type="annotation">Flanquer. Placer à côté, entourer.</note> de légumes joliment arrangés tout autour.</p>
-               <p>Le vieux père <persName type="fictif" key="benoît">Benoît</persName> mangeait à fond comme tout bon paysan à la fête, mais il ne louait pas. <persName type="fictif"
-                  key="vincent">Vincent</persName>
-                  <pb type="page" n="183" />
+               <p>Le vieux père <persName type="fictif" key="benoît">Benoît</persName> mangeait à fond comme tout bon paysan à la fête, mais il ne louait pas. <persName type="fictif" key="vincent">Vincent</persName>
+                  <pb type="page" n="183"/>
                   <fw>A TABLE. 183 </fw> riait au plat ; <persName type="fictif" key="ludivine">Ludivine</persName> aussi était contente et, après avoir bu un coup de bière, elle exprima sa
                   satisfaction : </p>
                <p>— Oui, c'est à croire que l'incendie de votre maison, en grillant ici bien des choses, a grillé également votre mauvais sort*<note type="annotation">Sort. Mat dû à des influences malfaisantes,
-                  d'après les gens ignorants.</note> ; car, depuis, tout vous est prospère, les semailles, les récoltes, la basse-cour, et les samedis au marché de la ville. <persName
-                     type="fictif" key="françois">François</persName> lui-même n'attrape plus de mauvais coups, et se passe de mon onguent.</p>
+                  d'après les gens ignorants.</note> ; car, depuis, tout vous est prospère, les semailles, les récoltes, la basse-cour, et les samedis au marché de la ville. <persName type="fictif" key="françois">François</persName> lui-même n'attrape plus de mauvais coups, et se passe de mon onguent.</p>
                <p>— Ne parlez pas d'onguent ! s'écria <persName type="fictif" key="françois">François</persName>, vous m'empècheriez de dîner.</p>
             </div2>
             <div2 type="questionnaire">
@@ -280,8 +504,7 @@
                   <item>— A quelles gens ressemblait-elle ? </item>
                   <item>— Quels sont les travers de ces gens ? </item>
                   <item>— Comment le bouilli fut-il servi ? </item>
-                  <item>— Comment se comportaient le père <persName type="fictif" key="benoît">Benoît</persName>, <persName type="fictif" key="vincent">Vincent</persName> et <persName
-                     type="fictif" key="ludivine">Ludivine</persName> ? </item>
+                  <item>— Comment se comportaient le père <persName type="fictif" key="benoît">Benoît</persName>, <persName type="fictif" key="vincent">Vincent</persName> et <persName type="fictif" key="ludivine">Ludivine</persName> ? </item>
                   <item>— En quels termes <persName type="fictif" key="ludivine">Ludivine</persName> exprima-t-elle la satisfaction qu'elle éprouvait ? </item>
                   <item>— Comment <persName type="fictif" key="françois">François</persName> accueillit-il l'allusion à un certain onguent ?</item>
                </list>
@@ -314,7 +537,7 @@
                         ou les personnes à qui elle aura été confiée, elle observera la démarche, la tenue des dames bien élevées et leur façon de s'exprimer. Elle considérera l'arrangement
                         intérieur des maisons où elle sera introduite pour en faire son profit, les monuments pour former son goût, les merveilles de la nature pour reconnaître la sagesse, la
                         prévoyance et la bonté de leur auteur.</p>
-                     <pb type="page" n="184" />
+                     <pb type="page" n="184"/>
                      <fw>184 SUZETTE.</fw>
                      <p><term>Une étourdie</term> considère les objets à la hâte, allant de l'un à l'autre sans réflexion, sans but, sans s'intéresser à rien, sinon à des futilités qui excitent une gaîté de
                         mauvais goût et des saillies ridicules. Elle parle à tort et à travers, quitte à froisser les personnes les plus considérables, ou à s'exposer à devenir la risée de
@@ -374,7 +597,7 @@
                   <div4 type="réponses">
                      <p><term>Le persil</term> est une plante potagère aromatique employée dans la cuisine comme assaisonnement. Elle est bisannuelle et porte des feuilles très découpées; on la sème au
                         printemps, et trois mois après on commence à la cueillir. Il y a diverses sortes de persil, que l'on distingue à la forme des feuilles ; la variété frisée est la plus
-                        estimée. <pb type="page" n="185" />
+                        estimée. <pb type="page" n="185"/>
                         <fw>AU DESSERT. 185 </fw> Cette plante entre dans la confection de la plupart des sauces accompagnant les plats de viande.</p>
                   </div4>
                </div3>
@@ -405,16 +628,14 @@
          <div1 type="chapitre" xml:lang="fr" n="ch053">
             <head>53. — Au dessert. (Élève, p. 116.)</head>
             <div2 type="récit">
-               <p>Rien n'avait pu tirer de l'esprit de <persName type="fictif" key="ludivine">Ludivine</persName> que la guérison du nez de <persName type="fictif" key="françois"
-                  >François</persName> n'eût été l'effet de cet onguent, à l'odeur effroyable. Rien non plus ne par vint à lui mettre en tête qu'il n'existe pas de sort, bon ou mauvais.
+               <p>Rien n'avait pu tirer de l'esprit de <persName type="fictif" key="ludivine">Ludivine</persName> que la guérison du nez de <persName type="fictif" key="françois">François</persName> n'eût été l'effet de cet onguent, à l'odeur effroyable. Rien non plus ne par vint à lui mettre en tête qu'il n'existe pas de sort, bon ou mauvais.
                   <persName type="fictif" key="mme_valon">Mme Valon</persName> lui dit en vain que le travail, le courage, l'honnêteté, la bonté, font surtout notre destinée*<note type="annotation">Destinée.
-                     Ce mot est pris ici dans le sens de ce qu'est la vie.</note> ; elle abandonna l'inutile discours à l'apparition du rôti porté par <persName type="fictif" key="suzette"
-                        >Suzette</persName>. Ce rôti était un morceau de filet de porc, mais si doré, si joli, si odorant, si appétissant, que l'eau en venait à la bouche. Et dès que les morceaux
+                     Ce mot est pris ici dans le sens de ce qu'est la vie.</note> ; elle abandonna l'inutile discours à l'apparition du rôti porté par <persName type="fictif" key="suzette">Suzette</persName>. Ce rôti était un morceau de filet de porc, mais si doré, si joli, si odorant, si appétissant, que l'eau en venait à la bouche. Et dès que les morceaux
                   furent au bout des fourchettes, on félicita la cuisinière. <figure>
                      <caption> Le porc est un des animaux les plus utiles pour l'alimentation. Les soies du porc servent à confectionner des brosses fines et des pinceaux.</caption>
                   </figure> — N'est-ce pas, monsieur <persName type="fictif" key="benoît">Benoît</persName>, demanda <persName type="fictif" key="mme_valon">Mme Valon</persName>, que voilà un
                   rôti joli ment préparé ? Aussi y a-t-on mis du temps et du soin. </p>
-               <pb type="page" n="186" />
+               <pb type="page" n="186"/>
                <p>
                   <fw>186 SUZETTE.</fw> — Beaucoup trop ! beaucoup trop ! répondit le père <persName type="fictif" key="benoît">Benoît</persName>. Voulez-vous que je vous dise ? je trouve qu'à
                   cette heure on fait bien des embarras pour rôtir un morceau de cochon. — Des embarras ! dit <persName type="fictif" key="mme_valon">Mme Valon</persName> ; mais on en faisait
@@ -474,7 +695,7 @@
                   </div4>
                   <div4 type="réponses">
                      <p>Les <term>soies</term> de porc ou de sanglier servent à la fabrication des brosses. Cet ustensile, employé pour le nettoyage des vêtements et des chaussures, se compose de deux
-                        parties : la <term>patte</term> et les <term>soies</term>. La patte est <pb type="page" n="187" />
+                        parties : la <term>patte</term> et les <term>soies</term>. La patte est <pb type="page" n="187"/>
                         <fw>PETITS COCHONS DE LAIT. 187</fw> une plaque de bois ou d'os percée de trous par lesquels on enfile de petits paquets de soies reliés les uns aux autres par des fils
                         de laiton. Le poil est égalisé ensuite pour former la surface avec laquelle on brosse. </p>
                      <p>Il y a des brosses de diverses sortes : brosses à habits, brosses à chapeaux, brosses à dents, à meubles, etc. Celles qui sont destinées à des usages délicats sont
@@ -514,12 +735,11 @@
          </div1>
          <div1 type="chapitre" xml:lang="fr" n="ch054">
             <head>54. — Petits cochons de lait. (Élève, p. 117.)</head>
-            <pb type="page" n="187" />
+            <pb type="page" n="187"/>
             <div2 type="récit">
                <p>Un jour, dans les vieux temps, le porcher <persName type="fictif">Ho-ti</persName>, étant allé au bois ramasser la glandée*<note type="annotation">Glandée. Les glands tombés sur le sol.</note>, laissa la garde de la maison à son
-                  fils <persName type="fictif">Bo-ba</persName>, un grand dadais, dont le pre- <pb type="page" n="188" />
-                  <fw>188 SUZETTE.</fw> mier soin fut de mettre le feu à une botte de paille, grâce à laquelle l'habitation flamba en un clin d'œil. — Ici, M. <persName type="fictif"
-                     key="françois">François</persName> baissa la tête. — L'étable à côté flamba aussi. Il s'y trouvait juste en ce moment toute une portée*<note type="annotation">Portée. L'ensemble des petits
+                  fils <persName type="fictif">Bo-ba</persName>, un grand dadais, dont le pre- <pb type="page" n="188"/>
+                  <fw>188 SUZETTE.</fw> mier soin fut de mettre le feu à une botte de paille, grâce à laquelle l'habitation flamba en un clin d'œil. — Ici, M. <persName type="fictif" key="françois">François</persName> baissa la tête. — L'étable à côté flamba aussi. Il s'y trouvait juste en ce moment toute une portée*<note type="annotation">Portée. L'ensemble des petits
                         d'une truie.</note> de petits cochons de lait*<note type="annotation">Cochon de lait. Cochon qui tette encore sa mère.</note> nouveau-nés. Leur maman, heureusement pour elle, faisait en
                   ce moment une promenade matinale aux environs. </p>
                <p><persName type="fictif">Bo-ba</persName> se désola, non pour la maison qui ne se composait que de quelques branches de bois mort, mais pour les pauvres petits cochons qui gémissaient en grillant. Quand ces
@@ -536,7 +756,7 @@
                <p>Oh ! père, le cochon de lait rôti, que c'est bon ! que c'est bon !</p>
                <p>Enfin le père entendit. Cessant de bâtonner, il tâta le morceau, lécha et mangea à son tour tout son content, après avoir gracieusement invité monsieur son fils à se remettre au
                   festin un moment interrompu.</p>
-               <pb type="page" n="189" />
+               <pb type="page" n="189"/>
                <fw>PETITS COCHONS DE LAIT. 189</fw>
                <p>Le soir même, ils avaient, du bois de quelques fagots, reconstruit leur hutte, l'étable aussi, où rentra la mère des pauvres victimes.</p>
                <p>Et après chaque portée de petits cochons de lait, la hutte, l'étable flambaient à plaisir ; on incendiait et on se régalait entre père et fils.</p>
@@ -583,7 +803,7 @@
                         <item>— Quelle différence y a-t-il entre manger de bon appétit et se montrer gourmand ?</item>
                         <item>— Comment se trahissent à table les enfants gourmands ?</item>
                         <item>— A quelles tentations <fw type="footer"><fw type="sig">11.</fw></fw>
-                           <pb type="page" n="190" />
+                           <pb type="page" n="190"/>
                            <fw>190 SUZETTE.</fw> expose la gourmandise ?</item>
                         <item> — Inconvénients de ce vice pour la santé.</item>
                         <item>Exemples.</item>
@@ -626,7 +846,7 @@
                         vous aurez enlevé les fibres et que vous coupez en dés, puis prenez 3 litres de sang, 1/2 litre de crème, du persil haché fin, du poivre, du sel, des épices, et le tout
                         bien mêlé, entonnez-le dans les boyaux que l'on a préalablement soufflés. Ficelez vos bouts de boudin, de la longueur que vous voudrez ; piquez-les avec une épingle,
                         ce qui les empèche de crever en cuisant ; puis coulez ces boudins dans de l'eau bouillante et laissez-y-les jusqu'à ce qu'en les piquant, il ne sorte plus de sang.</p>
-                     <p>SAUCISSES. — Hachez le plus fin possible des quantités égales de <pb type="page" n="191" />
+                     <p>SAUCISSES. — Hachez le plus fin possible des quantités égales de <pb type="page" n="191"/>
                         <fw>LES EXPLORATEURS. 191</fw> viande de porc et de lard ; assaisonnez de sel, de poivre et d'épices ; ployez de petits tas de cette chair dans de la toilette de porc
                         frais en leur donnant une forme plate ou oblongue, et faites-les cuire sur le gril à un feu modéré.</p>
                      <p>MANIÈRE DE SALER LA VIANDE DE PORC. — Coupez la viande du porc par morceaux carrés que l'on met dans de la saumure (1) où ils doivent baigner entièrement ; on fait
@@ -666,7 +886,7 @@
                <p>Deux garçons parurent sur le seuil, et l'un des deux, qui semblait pourtant le plus jeune, prit la parole pour demander la permission de se reposer un moment avec son compagnon
                   ; car ils venaient de loin et ils allaient <note>(1) La saumure est composée avec de l'eau où l'on a fait dissoudre du sel par petites quantités, après y avoir mis d'avance un
                      œuf. On la verse dans le saloir quand elle est froide.</note>
-                  <pb type="page" n="192" />
+                  <pb type="page" n="192"/>
                   <fw>192 SUZETTE.</fw> loin ! Le froid piquait ; cette maison étant la première du village et d'air très avenant, ils avaient pensé qu'elle ne refuserait pas d'accueillir des
                   marcheurs fatigués.</p>
                <p>Cela fut dit avec une politesse assurée*<note type="annotation">Politesse assurée. Qui indique une certaine confiance en soi.</note>, un accent qui ne sentaient pas du tout le village.
@@ -687,7 +907,7 @@
                <p> — Oui, nous sommes des explorateurs.</p>
                <p>— Des... ?</p>
                <p>— Des explorateurs.</p>
-               <p>Il avait les yeux vifs, le nez en trompette comme <pb type="page" n="193" />
+               <p>Il avait les yeux vifs, le nez en trompette comme <pb type="page" n="193"/>
                   <fw>LES EXPLORATEURS. 193</fw>
                   <persName type="fictif" key="françois">François</persName>. <persName type="fictif" key="m_dumay">M. Dumay</persName> le constata en ce moment à la clarté de la lampe qui
                   donnait en plein sur ce jeune visage ; mais cela ne lui apprit pas du tout ce que c'était que des explorateurs. A <placeName type="fictif">Fragicourt</placeName>, on voyait
@@ -734,7 +954,7 @@
                   </div4>
                   <div4 type="réponses">
                      <p> <l>« Franchis le seuil du pied, ô voyageur ! sois le bienvenu dans ce pays ; pose ton bâton près de cette muraille.</l>
-                     <l>« Prends place au plus haut de la table, car il convient d'honorer</l> <pb type="page" n="194" />
+                     <l>« Prends place au plus haut de la table, car il convient d'honorer</l> <pb type="page" n="194"/>
                         <fw>194 SUZETTE.</fw> 
                       <l>son hôte. Dispose de tout ; rafraîchis-toi après les fatigues de la journée.</l>
                      <l>« Si quelque vengeance inique te chasse de ta patrie, demeure sous mon toit comme un ami qui m'est cher.</l>
@@ -786,22 +1006,18 @@
                         et au sud, des produits qui rivalisent avec les bons crus de <placeName>France</placeName>.</p>
                      <p>Le climat de l'<placeName>Afrique</placeName> est extrêmement chaud ; il est fort malsain sur les côtes des régions de l'équateur, ce qui les rend presque inhabitables
                         pour les Européens.</p>
-                     <pb type="page" n="195" />
+                     <pb type="page" n="195"/>
                      <fw>QUI SONT-ILS ? 195</fw>
                      <p>On connaît peu l'intérieur de l'<placeName>Afrique</placeName>; depuis trente ans seulement, d'intrépides voyageurs ont pénétré dans cette région où ils ont trouvé des
-                        contrées fertiles, des lacs immenses, de grands fleuves et de hautes montagnes. Parmi ces explorateurs, nous citerons les Français <persName type="historique"
-                           >Caillié</persName>, <persName type="historique">Mage</persName>, <persName type="historique">Duveyrier</persName>, <persName type="historique">Lejean</persName>,
-                        <persName type="historique">Soleillet</persName>, et les étrangers <persName type="historique">Livingstone</persName>, <persName type="historique"
-                           >Burton</persName>, <persName type="historique">Speke</persName>, <persName type="historique">Grant</persName>, <persName type="historique">Baker</persName>,
-                        <persName type="historique">Overweg</persName>, <persName type="historique">Richardson</persName>, <persName type="historique">Barth</persName>, <persName
-                           type="historique">Nachtigall</persName>, l'illustre <persName type="historique">Stanley</persName>, <persName type="historique">Cameron</persName> et <persName
-                              type="historique">Serpa-Pinto</persName>.</p>
+                        contrées fertiles, des lacs immenses, de grands fleuves et de hautes montagnes. Parmi ces explorateurs, nous citerons les Français <persName type="historique">Caillié</persName>, <persName type="historique">Mage</persName>, <persName type="historique">Duveyrier</persName>, <persName type="historique">Lejean</persName>,
+                        <persName type="historique">Soleillet</persName>, et les étrangers <persName type="historique">Livingstone</persName>, <persName type="historique">Burton</persName>, <persName type="historique">Speke</persName>, <persName type="historique">Grant</persName>, <persName type="historique">Baker</persName>,
+                        <persName type="historique">Overweg</persName>, <persName type="historique">Richardson</persName>, <persName type="historique">Barth</persName>, <persName type="historique">Nachtigall</persName>, l'illustre <persName type="historique">Stanley</persName>, <persName type="historique">Cameron</persName> et <persName type="historique">Serpa-Pinto</persName>.</p>
                   </div4>
                </div3>
             </div2>
          </div1>
          <div1 type="chapitre" xml:lang="fr" n="ch056">
-            <pb type="page" n="195" />
+            <pb type="page" n="195"/>
             <head>56. — Qui sont-ils ? (Élève, p. 121.)</head>
             <div2 type="récit">
                <p><persName type="fictif" key="jacques">Jacques</persName>, qui avait regardé <persName type="fictif" key="suzette">Suzette</persName> dont les yeux souriaient finement à ces
@@ -818,7 +1034,7 @@
                         d'Hudson</placeName></geogFeat>. </caption>
                </figure> et moi, de traverser <geogFeat type="mer"><placeName>la mer d'Hudson</placeName></geogFeat>, de gagner <placeName>la région des Lacs</placeName>, de visiter surtout ceux du
                   <geogFeat type="lac"><placeName>Grand-Ours</placeName></geogFeat>
-                  <pb type="page" n="196" />
+                  <pb type="page" n="196"/>
                   <fw>196 SUZETTE.</fw> et de <geogFeat type="lac"><placeName>l'Esclave</placeName></geogFeat>, sans oublier le <geogFeat><placeName>Niagara</placeName></geogFeat>. On aura affaire certainement aux Hurons*, aux Pawnies* et même aux
                   Esquimaux* : il s'agit d'éclairer la topographie*<note type="annotation">Topographie. Description détaillée d'un lieu, d'un canton particulier.</note>, l'anthropologie*<note type="annotation">Anthropologie.
                      Histoire naturelle de l'homme.</note>.</p>
@@ -839,7 +1055,7 @@
                </figure>
                <p>Alors elle mit deux couverts et posa sur la table les restes de la fête.</p>
                <p>— Réconfortez-vous là, Messieurs, dit le père.</p>
-               <pb type="page" n="197" />
+               <pb type="page" n="197"/>
                <fw>QUI SONT-ILS ? 197</fw>
                <p>Cette fois, ce fut le muet qui répondit. Il était un peu pâle de faim, et la vue des plats lui déliait sans doute la langue : </p>
                <p>— Monsieur, nous sommes entrés chez vous au bon air hospitalier de votre maison ; nous ne nous étions pas trompés ; merci !</p>
@@ -882,8 +1098,7 @@
                      <p>L'hiver, le tableau est encore plus surprenant ; alors ces masses d'eaux roulantes se prennent par l'effet des grands froids ; elles coulent invisibles, mais toujours
                         grondantes, sous une enveloppe de glace qui ne fondra qu'aux premiers souffles du printemps.</p>
                      <p>Le bruit de la cataracte est si puissant qu'on l'entend, pendant la nuit, à plus de 60 kilomètres de distance ; il ressemble aux roulements du tonnerre, et se prolonge
-                        sans fin à travers les plaines et les vallées de cette gracieuse et fertile région de l'<placeName>Amérique</placeName>. (D'après <persName type="historique"
-                           >SIMONIN</persName>.)</p>
+                        sans fin à travers les plaines et les vallées de cette gracieuse et fertile région de l'<placeName>Amérique</placeName>. (D'après <persName type="historique">SIMONIN</persName>.)</p>
                   </div4>
                </div3>
                <div3 type="géographie">
@@ -896,15 +1111,14 @@
                            <geogFeat type="mer"><placeName>Manche</placeName></geogFeat> à <placeName>New-York</placeName> par l'<geogFeat type="océan"><placeName>Atlantique</placeName></geogFeat>.</item>
                      </list>
                   </div4>
-                  <pb type="page" n="198" />
+                  <pb type="page" n="198"/>
                   <fw>198 SUZETTE.</fw>
                   <div4 type="réponses">
                      <p>L''<geogFeat type="fleuve"><placeName><term>Escaut</term></placeName></geogFeat> est un petit fleuve qui prend sa source en <placeName>France</placeName> dans le département de l'<placeName>Aisne</placeName> ; il
                         arrose <placeName>Cambrai</placeName>, <placeName>Valenciennes</placeName>, pénètre en <placeName>Belgique</placeName>, y traverse <placeName>Tournai</placeName>,
                         <placeName>Gand</placeName>, <placeName>Anvers</placeName> et se jette dans la <geogFeat type="mer"><placeName>mer du Nord</placeName></geogFeat> après un parcours de 430 kilomètres.</p>
                      <p><placeName><term>Anvers</term></placeName> (130,000 hab.) est la ville la plus commerçante de la <placeName>Belgique</placeName> ; l''<geogFeat type="fleuve"><placeName>Escaut</placeName></geogFeat>, qui mesure 600
-                        mètres de largeur, y forme un port magnifique où plus de 10, 000 navires entrent chaque année. C'est aussi une grande place d'armes. Sous la domination de <persName
-                           type="historique">Charles-Quint</persName>, elle était la cité la plus riche de l'<placeName>Europe</placeName> ; on y remarque une splendide cathédrale ornée de
+                        mètres de largeur, y forme un port magnifique où plus de 10, 000 navires entrent chaque année. C'est aussi une grande place d'armes. Sous la domination de <persName type="historique">Charles-Quint</persName>, elle était la cité la plus riche de l'<placeName>Europe</placeName> ; on y remarque une splendide cathédrale ornée de
                         remarquables peintures par <persName type="historique">Rubens</persName> (1577-1640) et <persName type="historique">Van Dyck</persName> (1599-1641).</p>
                   </div4>
                </div3>
@@ -977,10 +1191,9 @@
                   Soudain un craquement formidable, une clameur désespérée des passagers en détresse !... puis, plus rien ! Le vaisseau a sombré*<note type="annotation">Sombrer. Disparaitre sous les
                      flots.</note>, corps et biens !... Nos parents étaient là !... Comment,le lendemain, au point du jour, nous trouvâmes-nous, mon camarade et moi, flottant à califourchon
                   sur un débris de mât, les deux seuls survivants de l'épouvantable désastre... ! comment, dans notre malheur, ce débris de mât nous porta-t-il sains et saufs sur la côte de
-                  <placeName>Zanzibar</placeName>, ne me le demandez pas, <pb type="page" n="200" />
+                  <placeName>Zanzibar</placeName>, ne me le demandez pas, <pb type="page" n="200"/>
                   <fw>200 SUZETTE.</fw> je n'en sais rien ! Mais les journaux en ont parlé.</p>
-               <p>Il paraissait très ému ; on se regarda. Qu'y avait-il de vrai dans cet étrange discours ? <persName type="fictif" key="m_dumay">M. Dumay</persName> dit tout bas à <persName
-                  type="fictif" key="jacques">Jacques</persName> : — Pour moi, je n'y crois guère ; mais qu'importe ? écoutons l'histoire, si elle est intéressante.</p>
+               <p>Il paraissait très ému ; on se regarda. Qu'y avait-il de vrai dans cet étrange discours ? <persName type="fictif" key="m_dumay">M. Dumay</persName> dit tout bas à <persName type="fictif" key="jacques">Jacques</persName> : — Pour moi, je n'y crois guère ; mais qu'importe ? écoutons l'histoire, si elle est intéressante.</p>
                <p>Et comme les deux voyageurs venaient de se remettre à manger silencieusement, il leur dit :</p>
                <figure>
                   <caption> Le vaisseau désemparé, ballotté, va, vient, à gauche, à droite, à l'aventure. </caption>
@@ -1022,7 +1235,7 @@
                         et de la lâcheté dans le cœur.</p>
                      <p>En général, les enfants mentent soit par crainte du châtiment, soit par amour-propre, rarement avec l'intention de nuire. Ils oublient que tôt ou tard la vérité se
                         découvre, et que le châtiment et la honte qu'ils voulaient éviter retombent sur eux augmentés du mépris que tout menteur inspire.</p>
-                     <pb type="page" n="201" />
+                     <pb type="page" n="201"/>
                      <fw>UN MARCHÉ D'ESCLAVES. 201</fw>
                      <p>Il n'est jamais permis de mentir. Lorsqu'on a commis un acte blâmable, ce qu'il convient de faire, c'est d'avouer sa faute : on sera puni certainement, mais aussi quel
                         fardeau de moins sur la conscience ! D'ailleurs, la personne qui a reçu l'aveu estimera le coupable en raison de sa franchise et peut-être sera-t-elle mieux disposée à
@@ -1074,11 +1287,11 @@
             </div2>
          </div1>
          <div1 type="chapitre" xml:lang="fr" n="ch058">
-            <pb type="page" n="201" />
+            <pb type="page" n="201"/>
             <head>58. — Un marché d'esclaves. (Élève, p. 125.) </head>
             <div2 type="récit">
                <p>Il prit cependant le temps de donner quelques bons coups de fourchette ; puis, sans plus faire attendre : </p>
-               <pb type="page" n="202" />
+               <pb type="page" n="202"/>
                <fw>202 SUZETTE.</fw>
                <p>— Nous voilà donc à <placeName>Zanzibar</placeName>, à peu près mourants. Mais la douceur du climat, les oranges, les citrons, <figure>
                   <caption> Orange. Citron. Les orangers et les citronniers sont deux arbres extrêmement précieux dont le bois est employé en tabletterie. Les feuilles d'oranger infusées
@@ -1096,7 +1309,7 @@
                      papier.</caption>
                </figure>
                <p><persName type="fictif" key="sylvain">Sylvain</persName>, qui regardait son camarade avec admiration, répondit doucement :</p>
-               <pb type="page" n="203" />
+               <pb type="page" n="203"/>
                <fw>UN MARCHÉ D'ESCLAVES. 203</fw>
                <p>— Oui, <persName type="fictif" key="pascal">Pascal</persName>.</p>
                <p>Et <persName type="fictif" key="pascal">Pascal</persName> reprit :</p>
@@ -1116,7 +1329,7 @@
                <p>— Il fallait au moins prévenir la gendarmerie, ajouta <persName type="fictif" key="charlot">Charlot</persName>.</p>
                <p>M. <persName type="fictif" key="pascal">Pascal</persName> se mit à rire, puis répondit :</p>
             </div2>
-            <pb type="page" n="204" />
+            <pb type="page" n="204"/>
             <fw>204 SUZETTE.</fw>
             <div2 type="questionnaire">
                <head>Questionnaire.</head>
@@ -1184,7 +1397,7 @@
                         <item>— En quoi consiste la liberté ? </item>
                         <item>— Qui en sont privés ? </item>
                         <item>— Qu'est-ce qu'un esclave ? </item>
-                        <item>— Comment certains peuples se procurent-ils <pb type="page" n="205" />
+                        <item>— Comment certains peuples se procurent-ils <pb type="page" n="205"/>
                            <fw>UN MARCHÉ D'ESCLAVES. 205</fw> des esclaves ?</item>
                         <item>— Détails sur la traite.</item>
                         <item>— Comment et quand cet odieux trafic fut-il aboli ?</item>
@@ -1243,7 +1456,7 @@
                         l'écorce avec le doigt, et l'on obtient ainsi deux calottes demi-sphériques. Rien de plus facile que de séparer les tranches du fruit ; on les range ensuite sur le
                         pourtour d'une assiette au centre de laquelle on a mis du sucre en poudre. On fait alors circuler, et les personnes qui prennent successivement l'assiette saisissent
                         une tranche, la roulent dans le sucre et la mangent. <fw type="footer">SUZETTE (Maîtresse). <fw type="sig">12</fw></fw>
-                        <pb type="page" n="206" />
+                        <pb type="page" n="206"/>
                         <fw>206 SUZETTE.</fw> (Pour les usages du citron, voir la notice qui accompagne la gravure représentant ce fruit.)</p>
                   </div4>
                </div3>
@@ -1269,7 +1482,7 @@
                   un interprète ?</p>
                <p>— Ah ! oui, répondit <persName type="fictif" key="sylvain">Sylvain</persName>, nous avions un interprète.</p>
                <p>— Et puis, reprit <persName type="fictif" key="pascal">Pascal</persName>, quand on a vécu en <placeName>Algérie</placeName>, comme nous, on a toujours dans la poche assez
-                  d'arabe <pb type="page" n="207" />
+                  d'arabe <pb type="page" n="207"/>
                   <fw>M. PASCAL PARLE ARABE. 207</fw> pour se tirer d'affaire : Allah ! salamalec, macach, gourbi, douar, kouskoussou, kif-kif...</p>
                <p>Monsieur, demanda <persName type="fictif" key="suzette">Suzette</persName>, qu'avez-vous encore vu à <placeName>Zanzibar</placeName> et ailleurs ?</p>
                <p>— Oh ! tant de choses, Mademoiselle, qu'il vous faudrait une semaine ou deux de loisir pour les entendre.</p>
@@ -1324,7 +1537,7 @@
                   <div4 type="questions">
                      <list>
                         <item>— Qu'est-ce qu'une langue ?</item>
-                        <item>— En quoi est-il avanta- <pb type="page" n="208" />
+                        <item>— En quoi est-il avanta- <pb type="page" n="208"/>
                            <fw>208 SUZETTE.</fw> geux de connaitre une ou plusieurs langues étrangères ? </item>
                         <item>— Qu'est-ce qu'une langue vivante ? </item>
                         <item>— Qu'est-ce qu'une langue morte ? </item>
@@ -1361,7 +1574,7 @@
             </div2>
          </div1>
          <div1 type="chapitre" xml:lang="fr" n="ch060">
-            <pb type="page" n="208" />
+            <pb type="page" n="208"/>
             <head>60. — A travers les jungles. (Élève, p. 129.)</head>
             <div2 type="récit">
                <p>— Eh bien ! voici. Nous ne restâmes à <placeName>Zanzibar</placeName> que juste le temps de nous joindre à une
@@ -1369,7 +1582,7 @@
                   robe*<note type="annotation">Robe. Couleur du poil.</note> brune, blanche ou cendrée, avec leurs beaux yeux doux de gazelle*<note type="annotation">Gazelle. Quadrupède doux et gracieux des contrées
                      tropicales.</note>. Nous montions chacun le nôtre, assis entre les deux bosses, — on n'est pas là aussi <figure>
                         <caption>Les vovageurs s'assemblent en troupes pour traverser les déserts avec plus de sûreté et forment ce qu'on appelle une caravane.</caption>
-                     </figure> commodément que sur cette chaise, mais on s'y fait ; — et nous voilà partis avec une pacotille de calicot, <pb type="page" n="209" />
+                     </figure> commodément que sur cette chaise, mais on s'y fait ; — et nous voilà partis avec une pacotille de calicot, <pb type="page" n="209"/>
                   <fw>A TRAVERS LES JUNGLES. 209</fw> d'indienne, de perles, de verroteries*<note type="annotation">Verroteries. Menus objets fabriqués en verre, comme perles, bagues, etc.</note> que nous
                   devions échanger contre le blé, le maïs, le sorgho*<note type="annotation">Sorgho. Grande graminée dont nous utilisons les feuilles comme fourrage.</note>, la viande nécessaires à notre
                   subsistance. Des Arabes armés jusqu'aux dents montaient ou menaient les autres, chameaux. Et savez-vous ce qu'ils étaient ?</p>
@@ -1386,16 +1599,13 @@
                <p> — Juste ; mais nous ne le sûmes que longtemps après. Ils faisaient leurs dévotions, leurs ablutions*<note type="annotation">Ablution. Acte de se laver.</note>, s'humectant les pieds, les
                   mains, le front avec des manières à eux, en se tournant du côté de la <placeName>Mecque</placeName>, et cela plusieurs fois par jour : c'est ce qu'ils regardent comme leurs devoirs envers Dieu.</p>
                <p>— C'est une singulière façon d'entendre ces devoirs que de pratiquer la chasse aux hommes <figure>
-                  <caption>Les crocodiles, reptiles de grande taille, sont organisés pour vivre dans l'eau, où ils se meuvent avec une agilité extraordinaire. C'est en <placeName type="réel"
-                     >Afrique</placeName> qu'ils sont le plus nombreux. </caption>
+                  <caption>Les crocodiles, reptiles de grande taille, sont organisés pour vivre dans l'eau, où ils se meuvent avec une agilité extraordinaire. C'est en <placeName type="réel">Afrique</placeName> qu'ils sont le plus nombreux. </caption>
                </figure>
-                  <pb type="page" n="210" />
+                  <pb type="page" n="210"/>
                   <fw>210 SUZETTE.</fw> et, pour cela, de piller, brûler, massacrer ! dit <persName type="fictif" key="m_dumay">M. Dumay</persName>.</p>
                <p>— Voilà ce que j'essayai de leur faire comprendre, mais ils se fâchèrent. Sous un soleil de feu ou sous une lune de cristal, nous marchions à travers d'interminables halliers
                   de broussailles, de dattiers, de bambous, d'épines crochues. Il fallait se frayer un sentier à coups de hache. Ou bien c'était à travers des jungles, plaines bourbeuses
-                  couvertes de roseaux coupants comme rasoir. Oh ! oh ! <persName type="fictif" key="sylvain">Sylvain</persName>, attention ! — <persName type="fictif" key="sylvain"
-                     >Sylvain</persName> leva la tête : — Qu'est-ce que c'est là-bas que cette masse informe qui se montre dans la vase ? Un hippopotame !... <persName type="fictif"
-                        key="sylvain">Sylvain</persName>, attention ! — De nouveau <persName type="fictif" key="sylvain">Sylvain</persName> releva la tête : — Ici, à gauche, ce tronc d'arbre
+                  couvertes de roseaux coupants comme rasoir. Oh ! oh ! <persName type="fictif" key="sylvain">Sylvain</persName>, attention ! — <persName type="fictif" key="sylvain">Sylvain</persName> leva la tête : — Qu'est-ce que c'est là-bas que cette masse informe qui se montre dans la vase ? Un hippopotame !... <persName type="fictif" key="sylvain">Sylvain</persName>, attention ! — De nouveau <persName type="fictif" key="sylvain">Sylvain</persName> releva la tête : — Ici, à gauche, ce tronc d'arbre
                   rugueux*<note type="annotation">Rugueux. Dont la surface présente des aspérités.</note> couché parmi les roseaux ! Il a l'air de frémir, il remue ! c'est un crocodile !... Un, deux, dix,
                   vingt crocodiles, en voilà de tous côtés ! Filons !-ils vous goberaient une caravane comme un homme une sardine !... Et ces yeux flamboyants à travers les broussailles un tigre
                   ! Nous sommes <figure>
@@ -1436,7 +1646,7 @@
                   </div4>
                   <div4 type="réponses">
                      <p><term>Les chameaux</term> sont de grands animaux à tête petite et fortement arquée, portée sur un cou assez long qui forme une courbe gracieuse. Leur corps est remarquable par la
-                        bosse ou les deux bosses qu'il pré-<pb type="page" n="211" />
+                        bosse ou les deux bosses qu'il pré-<pb type="page" n="211"/>
                         <fw>A TRAVERS LES JUNGLES. 211</fw> sente sur le dos ; il est porté sur quatre longues jambes terminées par de larges pieds non enveloppés de corne, particularité à
                         laquelle cet animal doit de marcher facilement sur le sable des déserts.</p>
                      <p><persName type="historique">Buffon</persName> a dit que le chameau est le trésor de l'<placeName>Asie</placeName>. En effet, « il nourrit</p> <l>« les habitants de diverses contrées avec son lait et sa chair ; il les habille</l> <l>« de son poil
@@ -1491,7 +1701,7 @@
                         jungles que le tigre aime a s'établir ; dès que la faim se fait sentir, il se met en campagne, s'installe dans un fourré et attend une victime. Il la laisse approcher
                         et, lorsqu'il le juge à propos, il s'abat sur elle d'un bond prodigieux, la déchire et s'en repaît. Il s'attaque au bétail, aux hommes même ; on l'a vu, dans
                         l'<placeName>Hindoustan</placeName>, saisir des soldats dans leur camp, sous les yeux des sentinelles.</p>
-                     <p>La chasse du tigre se fait avec des éléphants dressés, sur lesquels <pb type="page" n="212" />
+                     <p>La chasse du tigre se fait avec des éléphants dressés, sur lesquels <pb type="page" n="212"/>
                         <fw>212 SUZETTE.</fw> prennent place les tireurs ; les éléphants entrent dans les jungles, les battent en tous sens et forcent le tigre à se montrer; les armes à feu
                         font alors leur office. (D'après <persName type="historique">L. FIGUIER</persName>.)</p>
                   </div4>
