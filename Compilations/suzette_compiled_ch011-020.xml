@@ -7257,7 +7257,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Compilations/suzette_compiled_ch011-020.xml?place_annotation_20221020092700036",
 	"type": "oa:Annotation",
 	"dcterms:created": "2022-10-20T13:27:00.036Z",
-	"dcterms:modified": "2022-10-20T13:27:00.036Z",
+	"dcterms:modified": "2022-10-20T13:27:34.455Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -7605,7 +7605,7 @@
                         substances dans de vastes chaudières en remuant de temps à autre. Le savon se forme et surnage en grumeaux ;
                         on l'enlève, on le lave et il ne reste plus qu'à l'introduire dans
                         des moules où, sous une forte pression, il prend les formes les plus variées. Le savon se fabrique principalement à 
-                        <placeName ref="http://www.wikidata.org/entity/Q90" key="Paris">Paris</placeName>, à <placeName>Rouen</placeName>, à <placeName>Nantes</placeName>,
+                        <placeName corresp="#suzpl0160" key="Paris" ref="http://www.wikidata.org/entity/Q90">Paris</placeName>, à <placeName>Rouen</placeName>, à <placeName>Nantes</placeName>,
                         à <placeName>Reims</placeName>, à <placeName>Marseille</placeName>. Dans cette dernière ville, on en produit
                         près de 100 millions de kilos par an.</p>
                      <p>Le <term>savon de toilette</term>, dur et transparent, est préparé avec de la graisse de rognons et de la soude.
