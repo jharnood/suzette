@@ -5,7 +5,7 @@
          xmlns:xlink="http://www.w3.org/1999/xlink"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2022-10-27T20:25:10Z. .
+Schema generated from ODD source 2022-11-03T14:56:26Z. .
 TEI Edition: Version 4.3.0. Last updated on
         31st August 2021, revision b4f72b1ff
 TEI Edition Location: https://www.tei-c.org/Vault/P5/Version 4.3.0/
@@ -135,7 +135,7 @@ TEI Edition Location: https://www.tei-c.org/Vault/P5/Version 4.3.0/
             </choice>
          </zeroOrMore>
       </element>
-      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e112796-constraint">
+      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e112632-constraint">
          <rule context="tei:content">
             <report test="descendant::*[not(namespace-uri(.) =               ('http://relaxng.org/ns/compatibility/annotations/1.0', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'http://relaxng.org/ns/structure/1.0', 'http://www.tei-c.org/ns/1.0'))]">content descendants must be in the
               namespaces
@@ -184,7 +184,7 @@ TEI Edition Location: https://www.tei-c.org/Vault/P5/Version 4.3.0/
             </choice>
          </zeroOrMore>
       </element>
-      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e114018-constraint">
+      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e113854-constraint">
          <rule context="tei:datatype">
             <report test="descendant::*[not(namespace-uri(.) =               ('http://relaxng.org/ns/structure/1.0', 'http://www.tei-c.org/ns/1.0'))]">datatype descendants must be in the
               namespaces
@@ -4165,25 +4165,21 @@ Suggested values include: 1] volume (volume); 2] issue; 3] page (page); 4] line;
    <define name="tei_model.div1Like">
       <choice>
          <ref name="tei_div1"/>
-         <ref name="tei_ingredient"/>
       </choice>
    </define>
    <define name="tei_model.div2Like">
       <choice>
          <ref name="tei_div2"/>
-         <ref name="tei_ingredient"/>
       </choice>
    </define>
    <define name="tei_model.div3Like">
       <choice>
          <ref name="tei_div3"/>
-         <ref name="tei_ingredient"/>
       </choice>
    </define>
    <define name="tei_model.div4Like">
       <choice>
          <ref name="tei_div4"/>
-         <ref name="tei_ingredient"/>
       </choice>
    </define>
    <define name="tei_model.div5Like">
@@ -14361,78 +14357,8 @@ Sample values include: 1] atBirth; 2] atDeath; 3] dependent; 4] inherited; 5] in
          <ref name="tei_att.datable.attributes"/>
          <ref name="tei_att.editLike.attributes"/>
          <ref name="tei_att.global.attributes"/>
-         <ref name="tei_att.personal.attribute.full"/>
-         <ref name="tei_att.personal.attribute.sort"/>
-         <ref name="tei_att.naming.attribute.role"/>
-         <ref name="tei_att.naming.attribute.nymRef"/>
-         <ref name="tei_att.canonical.attribute.ref"/>
-         <optional>
-            <attribute name="key">
-               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">provides an externally-defined means of identifying the entity (or entities) being named, using a coded value of some kind.</a:documentation>
-               <choice>
-                  <value>économie_domestique</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Économie Domestique</a:documentation>
-                  <value>industrie</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Industrie</a:documentation>
-                  <value>sciences_naturelles</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Sciences Naturelles</a:documentation>
-                  <value>sciences_physiques</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Notions Relatives aux Sciences Physiques</a:documentation>
-               </choice>
-            </attribute>
-         </optional>
-         <optional>
-            <attribute name="type">
-               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">characterizes the element in some sense, using any convenient classification scheme or typology.</a:documentation>
-               <choice>
-                  <value>animaux</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Animaux</a:documentation>
-                  <value>constructions</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Constructions</a:documentation>
-                  <value>minéraux</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Minéraux</a:documentation>
-                  <value>végétaux</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Végétaux</a:documentation>
-                  <value>matières_objets_fabriques</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Matières et objets fabriqués</a:documentation>
-                  <value>machines_appareils</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Machines, appareils, ustensiles, vases</a:documentation>
-                  <value>outils</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Outils</a:documentation>
-                  <value>etoffes_habillement</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Étoffes, habillement</a:documentation>
-                  <value>divers_industrie</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Divers (Industrie)</a:documentation>
-               </choice>
-            </attribute>
-         </optional>
-         <optional>
-            <attribute name="subtype">
-               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(subtype) provides a sub-categorization of the element, if needed</a:documentation>
-               <choice>
-                  <value>arbres_non_cultivés</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">1° Arbres Non Cultivés</a:documentation>
-                  <value>herbes_plantes_sauvages</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">2° Herbes ou Plantes Sauvages</a:documentation>
-                  <value>arbres_cultivés</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">3° Arbres Cultivés</a:documentation>
-                  <value>arbustes_cultivés</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">4° Arbustes Cultivés</a:documentation>
-                  <value>céréales</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">5° Céréales</a:documentation>
-                  <value>legumes_racines</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">6° Légumes, Racines, etc.</a:documentation>
-                  <value>divers_végétaux</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">7° Divers (Vegetaux)</a:documentation>
-                  <value>homme</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">1° L'Homme</a:documentation>
-                  <value>animaux_domestiques</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">2° Animaux Domestiques</a:documentation>
-                  <value>animaux_sauvages</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">3° Animaux Sauvages</a:documentation>
-               </choice>
-            </attribute>
-         </optional>
+         <ref name="tei_att.personal.attributes"/>
+         <ref name="tei_att.typed.attributes"/>
          <empty/>
       </element>
    </define>
@@ -19215,36 +19141,6 @@ Suggested values include: 1] schematron (ISO Schematron)</a:documentation>
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">indicates the presence of an empty node within a content model [22. Documentation Elements]</a:documentation>
          <empty/>
          <ref name="tei_att.global.attributes"/>
-         <empty/>
-      </element>
-   </define>
-   <define name="tei_ingredient">
-      <element name="ingredient">
-         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">The ingredient element is used to describe the components of recipes both explicit and implicit</a:documentation>
-         <empty/>
-         <ref name="tei_att.canonical.attributes"/>
-         <ref name="tei_att.global.attributes"/>
-         <ref name="tei_att.naming.attributes"/>
-         <ref name="tei_att.typed.attribute.subtype"/>
-         <optional>
-            <attribute name="type">
-               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">characterizes the element in some sense, using any convenient classification scheme or typology.</a:documentation>
-               <choice>
-                  <value>meat</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>dairy</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>grain</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>fish</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>vegetable</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>fruit</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-               </choice>
-            </attribute>
-         </optional>
          <empty/>
       </element>
    </define>
