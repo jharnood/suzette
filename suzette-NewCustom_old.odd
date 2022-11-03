@@ -20,25 +20,25 @@
   </teiHeader>
   <text>
     <body>
-      <schemaSpec ident="suzette-NewCustom" start="TEI teiCorpus" targetLang="en" docLang="en" prefix="tei_">
+      <schemaSpec ident="suzette-NewCustom" start="TEI teiCorpus" targetLang="en" docLang="en">
         <!--removing prefix_tei-->
-        <moduleRef key="tei"/>
+        <moduleRef key="tei" />
         <!-- required -->
-        <moduleRef key="core"/>
-        <moduleRef key="analysis"/>
-        <moduleRef key="certainty"/>
-        <moduleRef key="corpus"/>
-        <moduleRef key="dictionaries"/>
-        <moduleRef key="drama"/>
-        <moduleRef key="figures"/>
-        <moduleRef key="header"/>
-        <moduleRef key="linking"/>
-        <moduleRef key="msdescription"/>
-        <moduleRef key="namesdates"/>
-        <moduleRef key="textcrit"/>
-        <moduleRef key="textstructure"/>
-        <moduleRef key="transcr"/>
-        <moduleRef key="tagdocs"/>
+        <moduleRef key="core" />
+        <moduleRef key="analysis" />
+        <moduleRef key="certainty" />
+        <moduleRef key="corpus" />
+        <moduleRef key="dictionaries" />
+        <moduleRef key="drama" />
+        <moduleRef key="figures" />
+        <moduleRef key="header" />
+        <moduleRef key="linking" />
+        <moduleRef key="msdescription" />
+        <moduleRef key="namesdates" />
+        <moduleRef key="textcrit" />
+        <moduleRef key="textstructure" />
+        <moduleRef key="transcr" />
+        <moduleRef key="tagdocs" />
         <!-- Customize DIV1 with @type chapitre -->
         <elementSpec ident="div1" mode="change">
           <attList>
@@ -77,22 +77,22 @@
           <attList>
             <attDef ident="type" mode="change">
               <valList type="closed" mode="change">
-                <valItem ident="morale" mode="add"/>
-                <valItem ident="instruction_civique" mode="add"/>
-                <valItem ident="civilité" mode="add"/>
-                <valItem ident="français" mode="add"/>
-                <valItem ident="composition" mode="add"/>
-                <valItem ident="histoire" mode="add"/>
-                <valItem ident="horticulture" mode="add"/>
-                <valItem ident="géographie" mode="add"/>
-                <valItem ident="sciences_naturelles" mode="add"/>
-                <valItem ident="sciences_physiques" mode="add"/>
-                <valItem ident="industrie" mode="add"/>
-                <valItem ident="économie_domestique" mode="add"/>
-                <valItem ident="hygiène" mode="add"/>
-                <valItem ident="agriculture" mode="add"/>
-                <valItem ident="calcul" mode="add"/>
-                <valItem ident="complexe" mode="add"/>
+                <valItem ident="morale" mode="add" />
+                <valItem ident="instruction_civique" mode="add" />
+                <valItem ident="civilité" mode="add" />
+                <valItem ident="français" mode="add" />
+                <valItem ident="composition" mode="add" />
+                <valItem ident="histoire" mode="add" />
+                <valItem ident="horticulture" mode="add" />
+                <valItem ident="géographie" mode="add" />
+                <valItem ident="sciences_naturelles" mode="add" />
+                <valItem ident="sciences_physiques" mode="add" />
+                <valItem ident="industrie" mode="add" />
+                <valItem ident="économie_domestique" mode="add" />
+                <valItem ident="hygiène" mode="add" />
+                <valItem ident="agriculture" mode="add" />
+                <valItem ident="calcul" mode="add" />
+                <valItem ident="complexe" mode="add" />
               </valList>
             </attDef>
           </attList>
@@ -346,46 +346,46 @@
       		  <attDef ident="rend" mode="delete"/>
       		  <attDef ident="style" mode="delete"/>
       		  <attDef ident="rendition" mode="delete"/>-->
-            <attDef ident="xml:space" mode="delete"/>
-            <attDef ident="xml:base" mode="delete"/>
-            <attDef ident="rendition" mode="delete"/>
-            <attDef ident="style" mode="delete"/>
-            <attDef ident="rend" mode="delete"/>
-            <attDef ident="corresp" mode="delete"/>
-            <attDef ident="synch" mode="delete"/>
-            <attDef ident="sameAs" mode="delete"/>
-            <attDef ident="copyOf" mode="delete"/>
-            <attDef ident="next" mode="delete"/>
-            <attDef ident="prev" mode="delete"/>
-            <attDef ident="exclude" mode="delete"/>
-            <attDef ident="select" mode="delete"/>
-            <attDef ident="facs" mode="delete"/>
-            <attDef ident="change" mode="delete"/>
-            <attDef ident="nymRef" mode="delete"/>
-            <attDef ident="sort" mode="delete"/>
-            <attDef ident="full" mode="delete"/>
-            <attDef ident="instant" mode="delete"/>
-            <attDef ident="evidence" mode="delete"/>
-            <attDef ident="datingMethod" mode="delete"/>
-            <attDef ident="datingPoint" mode="delete"/>
-            <attDef ident="to-custom" mode="delete"/>
-            <attDef ident="from-custom" mode="delete"/>
-            <attDef ident="notAfter-custom" mode="delete"/>
-            <attDef ident="notBefore-custom" mode="delete"/>
-            <attDef ident="when-custom" mode="delete"/>
-            <attDef ident="to-iso" mode="delete"/>
-            <attDef ident="from-iso" mode="delete"/>
-            <attDef ident="notAfter-iso" mode="delete"/>
-            <attDef ident="notBefore-iso" mode="delete"/>
-            <attDef ident="when-iso" mode="delete"/>
-            <attDef ident="to" mode="delete"/>
-            <attDef ident="from" mode="delete"/>
-            <attDef ident="notAfter" mode="delete"/>
-            <attDef ident="notBefore" mode="delete"/>
-            <attDef ident="when" mode="delete"/>
-            <attDef ident="period" mode="delete"/>
-            <attDef ident="calendar" mode="delete"/>
-            <attDef ident="source" mode="delete"/>
+            <attDef ident="xml:space" mode="delete" />
+            <attDef ident="xml:base" mode="delete" />
+            <attDef ident="rendition" mode="delete" />
+            <attDef ident="style" mode="delete" />
+            <attDef ident="rend" mode="delete" />
+            <attDef ident="corresp" mode="delete" />
+            <attDef ident="synch" mode="delete" />
+            <attDef ident="sameAs" mode="delete" />
+            <attDef ident="copyOf" mode="delete" />
+            <attDef ident="next" mode="delete" />
+            <attDef ident="prev" mode="delete" />
+            <attDef ident="exclude" mode="delete" />
+            <attDef ident="select" mode="delete" />
+            <attDef ident="facs" mode="delete" />
+            <attDef ident="change" mode="delete" />
+            <attDef ident="nymRef" mode="delete" />
+            <attDef ident="sort" mode="delete" />
+            <attDef ident="full" mode="delete" />
+            <attDef ident="instant" mode="delete" />
+            <attDef ident="evidence" mode="delete" />
+            <attDef ident="datingMethod" mode="delete" />
+            <attDef ident="datingPoint" mode="delete" />
+            <attDef ident="to-custom" mode="delete" />
+            <attDef ident="from-custom" mode="delete" />
+            <attDef ident="notAfter-custom" mode="delete" />
+            <attDef ident="notBefore-custom" mode="delete" />
+            <attDef ident="when-custom" mode="delete" />
+            <attDef ident="to-iso" mode="delete" />
+            <attDef ident="from-iso" mode="delete" />
+            <attDef ident="notAfter-iso" mode="delete" />
+            <attDef ident="notBefore-iso" mode="delete" />
+            <attDef ident="when-iso" mode="delete" />
+            <attDef ident="to" mode="delete" />
+            <attDef ident="from" mode="delete" />
+            <attDef ident="notAfter" mode="delete" />
+            <attDef ident="notBefore" mode="delete" />
+            <attDef ident="when" mode="delete" />
+            <attDef ident="period" mode="delete" />
+            <attDef ident="calendar" mode="delete" />
+            <attDef ident="source" mode="delete" />
           </attList>
         </elementSpec>
         <!-- ALL PLACE ATTRIBUTE VALUES -->
@@ -413,9 +413,9 @@
         <!-- div3: add  @subtype where type is geographie (list of places from classification) -->
         <elementSpec ident="div3" mode="change">
           <classes mode="change">
-            <memberOf key="att.datable" mode="delete"/>
-            <memberOf key="att.editLike" mode="delete"/>
-            <memberOf key="att.personal" mode="delete"/>
+            <memberOf key="att.datable" mode="delete" />
+            <memberOf key="att.editLike" mode="delete" />
+            <memberOf key="att.personal" mode="delete" />
           </classes>
           <attList>
             <attDef ident="subtype" mode="change">
@@ -1125,33 +1125,6 @@
             </attDef>
           </attList>
         </elementSpec>
-        
-        <!-- Creating the "INGREDIENT" element -->
-      <elementSpec ident="ingredient" mode="add" module="namesdates">
-        <desc versionDate="2022-10-27" xml:lang="en">The ingredient element is used to describe the components of recipes both explicit and implicit</desc>
-        <classes>
-          <memberOf key="att.canonical"/>
-          <memberOf key="att.global"/>
-          <memberOf key="att.naming"/>
-          <memberOf key="att.typed"/>
-          <memberOf key="model.div1Like"/>
-          <memberOf key="model.div2Like"/>
-          <memberOf key="model.div3Like"/>
-          <memberOf key="model.div4Like"/>
-        </classes>
-        <attList>
-          <attDef ident="type" mode="change">
-            <valList mode="add" type="closed">
-              <valItem ident="meat" mode="add"/>
-              <valItem ident="dairy" mode="add"/>
-              <valItem ident="grain" mode="add"/>
-              <valItem ident="fish" mode="add"/>
-              <valItem ident="vegetable" mode="add"/>
-              <valItem ident="fruit" mode="add"/>
-            </valList>
-          </attDef>
-        </attList>
-      </elementSpec>
       </schemaSpec>
     </body>
   </text>
