@@ -21,8 +21,8 @@
   <text>
     <body>
       <schemaSpec ident="suzette-NewCustom" start="TEI teiCorpus" targetLang="en" docLang="en">
-        <!--removing prefix_tei-->
-        <moduleRef key="tei" />
+        <!--removing prefix_tei
+        <moduleRef key="tei" />-->
         <!-- required -->
         <moduleRef key="core" />
         <moduleRef key="analysis" />
