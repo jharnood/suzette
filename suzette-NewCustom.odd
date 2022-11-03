@@ -112,8 +112,9 @@
             </attDef>
           </attList>
         </elementSpec>
+        
         <!-- objectName: @key to distinguish among categorical information -->
-        <elementSpec ident="objectName" mode="change">
+<!--        <elementSpec ident="objectName" mode="change">
           <attList>
             <attDef ident="key" mode="change">
               <valList mode="add" type="closed">
@@ -133,7 +134,7 @@
             </attDef>
           </attList>
         </elementSpec>
-        <!-- objectName: @type to distinguish among categorical information -->
+        <!-\- objectName: @type to distinguish among categorical information -\->
         <elementSpec ident="objectName" mode="change">
           <attList>
             <attDef ident="type" mode="change">
@@ -169,7 +170,7 @@
             </attDef>
           </attList>
         </elementSpec>
-        <!-- objectName: @subtype to distinguish among categorical information -->
+        <!-\- objectName: @subtype to distinguish among categorical information -\->
         <elementSpec ident="objectName" mode="change">
           <attList>
             <attDef ident="subtype" mode="change">
@@ -207,7 +208,7 @@
               </valList>
             </attDef>
           </attList>
-        </elementSpec>
+        </elementSpec>-->
         <!-- orgName: add @key -->
         <elementSpec ident="key">
           <attList>
@@ -1125,33 +1126,6 @@
             </attDef>
           </attList>
         </elementSpec>
-        
-        <!-- Creating the "INGREDIENT" element -->
-      <elementSpec ident="ingredient" mode="add" module="namesdates">
-        <desc versionDate="2022-10-27" xml:lang="en">The ingredient element is used to describe the components of recipes both explicit and implicit</desc>
-        <classes>
-          <memberOf key="att.canonical"/>
-          <memberOf key="att.global"/>
-          <memberOf key="att.naming"/>
-          <memberOf key="att.typed"/>
-          <memberOf key="model.div1Like"/>
-          <memberOf key="model.div2Like"/>
-          <memberOf key="model.div3Like"/>
-          <memberOf key="model.div4Like"/>
-        </classes>
-        <attList>
-          <attDef ident="type" mode="change">
-            <valList mode="add" type="closed">
-              <valItem ident="meat" mode="add"/>
-              <valItem ident="dairy" mode="add"/>
-              <valItem ident="grain" mode="add"/>
-              <valItem ident="fish" mode="add"/>
-              <valItem ident="vegetable" mode="add"/>
-              <valItem ident="fruit" mode="add"/>
-            </valList>
-          </attDef>
-        </attList>
-      </elementSpec>
       </schemaSpec>
     </body>
   </text>
