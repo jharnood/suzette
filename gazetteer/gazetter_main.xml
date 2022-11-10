@@ -71,8 +71,15 @@
       <listPlace>
          <place xml:id="suzpl0001">
             <placeName>Afrique</placeName>
+            <listEvent>
+               <head>Appears in chapters:</head>
+               <event ref="#">
+                  <label>Chapitre 001-010</label>
+               </event>
+            </listEvent>
+            <desc>L’Afrique est un continent qui couvre 6 % de la surface de la Terre et 20 % de la surface des terres émergées.</desc>            
             <location>
-               <geo/>
+               <geo>21.09375, 7.1881</geo>
             </location>
             <idno type="URI">https://www.wikidata.org/wiki/Q15</idno>
          </place>
@@ -80,8 +87,15 @@
       <listPlace>
          <place xml:id="suzpl0002" type="bloc">
             <placeName>Amérique du nord</placeName>
+            <listEvent>
+               <head>Appears in chapters:</head>
+               <event ref="#">
+                  <label>Chapitre 051-060</label>
+               </event>
+            </listEvent>
+            <desc>L’Amérique du Nord est un continent à part entière ou un sous-continent de l'Amérique suivant le découpage adopté pour les continents.</desc>
             <location>
-               <geo/>
+               <geo>47, -105</geo>
             </location>
             <idno type="URI">https://www.wikidata.org/wiki/Q49</idno>
          </place>
@@ -89,8 +103,9 @@
       <listPlace>
          <place xml:id="suzpl0003" type="bloc">
             <placeName>Amérique du sud</placeName>
+            <desc>L’Amérique du Sud est un sous-continent ou un continent et la partie méridionale de l'Amérique.</desc>
             <location>
-               <geo/>
+               <geo>-21, -59</geo>
             </location>
             <idno type="URI">https://www.wikidata.org/wiki/Q18</idno>
          </place>
@@ -98,8 +113,9 @@
       <listPlace>
          <place xml:id="suzpl0004" type="bloc">
             <placeName>Asie</placeName>
+            <desc>L'Asie est l'un des continents ou une partie des supercontinents Eurasie ou Afro-Eurasie de la Terre.</desc>
             <location>
-               <geo/>
+               <geo>43.681111, 87.331111</geo>
             </location>
             <idno type="URI">https://www.wikidata.org/wiki/Q48</idno>
          </place>

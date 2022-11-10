@@ -5,7 +5,7 @@
          xmlns:xlink="http://www.w3.org/1999/xlink"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2022-10-12T19:46:04Z. .
+Schema generated from ODD source 2022-11-03T16:18:07Z. .
 TEI Edition: Version 4.3.0. Last updated on
         31st August 2021, revision b4f72b1ff
 TEI Edition Location: https://www.tei-c.org/Vault/P5/Version 4.3.0/
@@ -135,7 +135,7 @@ TEI Edition Location: https://www.tei-c.org/Vault/P5/Version 4.3.0/
             </choice>
          </zeroOrMore>
       </element>
-      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e112796-constraint">
+      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e111564-constraint">
          <rule context="tei:content">
             <report test="descendant::*[not(namespace-uri(.) =               ('http://relaxng.org/ns/compatibility/annotations/1.0', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'http://relaxng.org/ns/structure/1.0', 'http://www.tei-c.org/ns/1.0'))]">content descendants must be in the
               namespaces
@@ -184,7 +184,7 @@ TEI Edition Location: https://www.tei-c.org/Vault/P5/Version 4.3.0/
             </choice>
          </zeroOrMore>
       </element>
-      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e114018-constraint">
+      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e112786-constraint">
          <rule context="tei:datatype">
             <report test="descendant::*[not(namespace-uri(.) =               ('http://relaxng.org/ns/structure/1.0', 'http://www.tei-c.org/ns/1.0'))]">datatype descendants must be in the
               namespaces
@@ -6592,57 +6592,10 @@ If @to is supplied on <name/>, @from must be supplied as well</report>
 The attributes @to and @from on <name/> may each contain only a single value</report>
             </rule>
          </pattern>
-         <ref name="att.global.attribute.xmlid"/>
-         <ref name="att.global.attribute.n"/>
-         <ref name="att.global.attribute.xmllang"/>
-         <ref name="att.global.attribute.xmlbase"/>
-         <ref name="att.global.attribute.xmlspace"/>
-         <ref name="att.global.rendition.attribute.rend"/>
-         <ref name="att.global.rendition.attribute.style"/>
-         <ref name="att.global.rendition.attribute.rendition"/>
-         <ref name="att.global.linking.attribute.corresp"/>
-         <ref name="att.global.linking.attribute.synch"/>
-         <ref name="att.global.linking.attribute.sameAs"/>
-         <ref name="att.global.linking.attribute.copyOf"/>
-         <ref name="att.global.linking.attribute.next"/>
-         <ref name="att.global.linking.attribute.prev"/>
-         <ref name="att.global.linking.attribute.exclude"/>
-         <ref name="att.global.linking.attribute.select"/>
-         <ref name="att.global.facs.attribute.facs"/>
-         <ref name="att.global.change.attribute.change"/>
-         <ref name="att.global.responsibility.attribute.cert"/>
-         <ref name="att.global.responsibility.attribute.resp"/>
-         <ref name="att.global.source.attribute.source"/>
+         <ref name="att.global.attributes"/>
          <ref name="att.interpLike.attribute.inst"/>
          <ref name="att.typed.attribute.subtype"/>
          <ref name="att.pointing.attributes"/>
-         <optional>
-            <attribute name="ana">
-               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(analysis) indicates one or more elements containing interpretations of the element on which the <code xmlns="http://www.w3.org/1999/xhtml">@ana</code> attribute appears.</a:documentation>
-               <list>
-                  <oneOrMore>
-                     <choice>
-                        <value>manières_de_table</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Manières de table</a:documentation>
-                        <value>nutrition</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Nutrition</a:documentation>
-                        <value>plat</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Plat</a:documentation>
-                        <value>produit</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Produit</a:documentation>
-                        <value>recette</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Recette</a:documentation>
-                        <value>repas</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Repas</a:documentation>
-                        <value>sens</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Sens</a:documentation>
-                        <value>technique</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Technique</a:documentation>
-                     </choice>
-                  </oneOrMore>
-               </list>
-            </attribute>
-         </optional>
          <optional>
             <attribute name="type">
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">indicates what kind of phenomenon is being noted in the passage.
@@ -12611,38 +12564,9 @@ Suggested values include: 1] paper; 2] parch (parchment); 3] mixed</a:documentat
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(bloc) contains the name of a geo-political unit consisting of two or more nation states or countries. [13.2.3. Place Names]</a:documentation>
          <ref name="macro.phraseSeq"/>
          <ref name="att.global.attributes"/>
-         <ref name="att.naming.attribute.role"/>
-         <ref name="att.naming.attribute.nymRef"/>
-         <ref name="att.canonical.attribute.key"/>
+         <ref name="att.naming.attributes"/>
          <ref name="att.typed.attributes"/>
          <ref name="att.datable.attributes"/>
-         <optional>
-            <attribute name="ref">
-               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(reference) provides an explicit means of locating a full definition or identity for the entity being named by means of one or more URIs.</a:documentation>
-               <list>
-                  <oneOrMore>
-                     <choice>
-                        <value>afrique</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Afrique</a:documentation>
-                        <value>amérique_nord</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Amérique du nord</a:documentation>
-                        <value>amérique_sud</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Amérique du sud</a:documentation>
-                        <value>asie</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Asie</a:documentation>
-                        <value>europe</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Europe</a:documentation>
-                        <value>océanie</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Océanie</a:documentation>
-                        <value>inde</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Inde</a:documentation>
-                        <value>indo_chine</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Indo-Chine</a:documentation>
-                     </choice>
-                  </oneOrMore>
-               </list>
-            </attribute>
-         </optional>
          <empty/>
       </element>
    </define>
@@ -12651,100 +12575,9 @@ Suggested values include: 1] paper; 2] parch (parchment); 3] mixed</a:documentat
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(country) contains the name of a geo-political unit, such as a nation, country, colony, or commonwealth, larger than or administratively superior to a region and smaller than a bloc. [13.2.3. Place Names]</a:documentation>
          <ref name="macro.phraseSeq"/>
          <ref name="att.global.attributes"/>
-         <ref name="att.naming.attribute.role"/>
-         <ref name="att.naming.attribute.nymRef"/>
-         <ref name="att.canonical.attribute.key"/>
-         <ref name="att.typed.attribute.subtype"/>
+         <ref name="att.naming.attributes"/>
+         <ref name="att.typed.attributes"/>
          <ref name="att.datable.attributes"/>
-         <optional>
-            <attribute name="ref">
-               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(reference) provides an explicit means of locating a full definition or identity for the entity being named by means of one or more URIs.</a:documentation>
-               <list>
-                  <oneOrMore>
-                     <choice>
-                        <value>états-unis</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">États-Unis</a:documentation>
-                        <value>angleterre</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Angleterre</a:documentation>
-                        <value>allemagne</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Allemagne</a:documentation>
-                        <value>chili</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Chili</a:documentation>
-                        <value>chine</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Chine</a:documentation>
-                        <value>espagne</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Espagne</a:documentation>
-                        <value>italie</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Italie</a:documentation>
-                        <value>france</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">France</a:documentation>
-                        <value>japon</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Japon</a:documentation>
-                        <value>turquie</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Turquie</a:documentation>
-                        <value>suéde</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Suéde</a:documentation>
-                        <value>australie</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Australie</a:documentation>
-                        <value>belgique</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Belgique</a:documentation>
-                        <value>algérie</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Algérie</a:documentation>
-                        <value>égypte</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Égypte</a:documentation>
-                        <value>mongolie</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Mongolie</a:documentation>
-                        <value>panama</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Panama</a:documentation>
-                        <value>indes</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Indes</a:documentation>
-                        <value>portugal</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Portugal</a:documentation>
-                        <value>corse</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Corse</a:documentation>
-                        <value>haïti</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Haïti</a:documentation>
-                        <value>cuba</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Cuba</a:documentation>
-                        <value>russie</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Russie</a:documentation>
-                        <value>malaisie</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Malaisie</a:documentation>
-                        <value>hollande</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Hollande</a:documentation>
-                        <value>angola</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Angola</a:documentation>
-                        <value>arabie_saoudite</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Arabie Saoudite</a:documentation>
-                        <value>indonésie</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Indonésie</a:documentation>
-                        <value>mali</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Mali</a:documentation>
-                        <value>gabon</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Gabon</a:documentation>
-                        <value>inde</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Inde</a:documentation>
-                        <value>maroc</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Maroc</a:documentation>
-                        <value>libye</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Libye</a:documentation>
-                        <value>pologne</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Pologne</a:documentation>
-                        <value>pérou</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Pérou</a:documentation>
-                     </choice>
-                  </oneOrMore>
-               </list>
-            </attribute>
-         </optional>
-         <optional>
-            <attribute name="type">
-               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">characterizes the element in some sense, using any convenient classification scheme or typology.</a:documentation>
-               <data type="token">
-                  <param name="pattern">[^\p{C}\p{Z}]+</param>
-               </data>
-            </attribute>
-         </optional>
          <empty/>
       </element>
    </define>
@@ -12753,61 +12586,9 @@ Suggested values include: 1] paper; 2] parch (parchment); 3] mixed</a:documentat
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(region) contains the name of an administrative unit such as a state, province, or county, larger than a settlement, but smaller than a country. [13.2.3. Place Names]</a:documentation>
          <ref name="macro.phraseSeq"/>
          <ref name="att.global.attributes"/>
-         <ref name="att.naming.attribute.role"/>
-         <ref name="att.naming.attribute.nymRef"/>
-         <ref name="att.canonical.attribute.key"/>
-         <ref name="att.typed.attribute.subtype"/>
+         <ref name="att.naming.attributes"/>
+         <ref name="att.typed.attributes"/>
          <ref name="att.datable.attributes"/>
-         <optional>
-            <attribute name="ref">
-               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(reference) provides an explicit means of locating a full definition or identity for the entity being named by means of one or more URIs.</a:documentation>
-               <list>
-                  <oneOrMore>
-                     <choice>
-                        <value>lombardie</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Lombardie</a:documentation>
-                        <value>andalousie</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Andalousie</a:documentation>
-                        <value>lucayes</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Lucayes</a:documentation>
-                        <value>flandres</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Flandres</a:documentation>
-                        <value>poitou</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Poitou</a:documentation>
-                        <value>aquitaine</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Aquitaine</a:documentation>
-                        <value>elbeuf</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Elbeuf</a:documentation>
-                        <value>sicile</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Sicile</a:documentation>
-                        <value>lorraine</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Lorraine</a:documentation>
-                        <value>franche-comté</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Franche-Comté</a:documentation>
-                        <value>béarn</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Béarn</a:documentation>
-                        <value>sicile</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Sicile</a:documentation>
-                     </choice>
-                  </oneOrMore>
-               </list>
-            </attribute>
-         </optional>
-         <optional>
-            <attribute name="type">
-               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">characterizes the element in some sense, using any convenient classification scheme or typology.</a:documentation>
-               <choice>
-                  <value>département</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Département</a:documentation>
-                  <value>province</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Province</a:documentation>
-                  <value>comté</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">comté</a:documentation>
-                  <value>état</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">état</a:documentation>
-               </choice>
-            </attribute>
-         </optional>
          <empty/>
       </element>
    </define>
@@ -12816,226 +12597,9 @@ Suggested values include: 1] paper; 2] parch (parchment); 3] mixed</a:documentat
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(settlement) contains the name of a settlement such as a city, town, or village identified as a single geo-political or administrative unit. [13.2.3. Place Names]</a:documentation>
          <ref name="macro.phraseSeq"/>
          <ref name="att.global.attributes"/>
-         <ref name="att.naming.attribute.role"/>
-         <ref name="att.naming.attribute.nymRef"/>
-         <ref name="att.canonical.attribute.key"/>
+         <ref name="att.naming.attributes"/>
          <ref name="att.typed.attributes"/>
          <ref name="att.datable.attributes"/>
-         <optional>
-            <attribute name="ref">
-               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(reference) provides an explicit means of locating a full definition or identity for the entity being named by means of one or more URIs.</a:documentation>
-               <list>
-                  <oneOrMore>
-                     <choice>
-                        <value>paris</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Paris</a:documentation>
-                        <value>arles</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Arles</a:documentation>
-                        <value>aix</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Aix</a:documentation>
-                        <value>louviers</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Louviers</a:documentation>
-                        <value>marseille</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Marseille</a:documentation>
-                        <value>toulouse</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Toulouse</a:documentation>
-                        <value>montalban</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Montalban</a:documentation>
-                        <value>pau</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Pau</a:documentation>
-                        <value>bourdeaux</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Bourdeaux</a:documentation>
-                        <value>sedan</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Sedan</a:documentation>
-                        <value>mazamet</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Mazamet</a:documentation>
-                        <value>castres</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Castres</a:documentation>
-                        <value>roubaix</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Roubaix</a:documentation>
-                        <value>tourcoing</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Tourcoing</a:documentation>
-                        <value>amiens</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Amiens</a:documentation>
-                        <value>troyes</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Troyes</a:documentation>
-                        <value>lodève</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Lodève</a:documentation>
-                        <value>reethel</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Rethel</a:documentation>
-                        <value>privas</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Privas</a:documentation>
-                        <value>carcassonne</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Carcassonne</a:documentation>
-                        <value>orléans</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Orléans</a:documentation>
-                        <value>tours</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Tours</a:documentation>
-                        <value>beauvais</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Beauvais</a:documentation>
-                        <value>aubusson</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Aubusson</a:documentation>
-                        <value>puteaux</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Puteaux</a:documentation>
-                        <value>rouen</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Rouen</a:documentation>
-                        <value>reims</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Reims</a:documentation>
-                        <value>chantilly</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Chantilly</a:documentation>
-                        <value>saint-omer</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Saint-Omer</a:documentation>
-                        <value>arras</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Arras</a:documentation>
-                        <value>armentières</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Armentières</a:documentation>
-                        <value>épinal</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Épinal</a:documentation>
-                        <value>moselle</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Moselle</a:documentation>
-                        <value>lavaur</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Lavaur</a:documentation>
-                        <value>grenoble</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Grenoble</a:documentation>
-                        <value>valence</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Valence</a:documentation>
-                        <value>le_puy</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Le Puy</a:documentation>
-                        <value>roanne</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Roanne</a:documentation>
-                        <value>laval</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Laval</a:documentation>
-                        <value>cholet</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Cholet</a:documentation>
-                        <value>le_mans</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Le Mans</a:documentation>
-                        <value>angers</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Angers</a:documentation>
-                        <value>condé-sur-noireau</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Condé-sur-Noireau</a:documentation>
-                        <value>flers</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Flers</a:documentation>
-                        <value>lisieux</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Lisieux</a:documentation>
-                        <value>bernay</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Bernay</a:documentation>
-                        <value>cambrai</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Cambrai</a:documentation>
-                        <value>péhing</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Péhing</a:documentation>
-                        <value>hankéou</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Hankéou</a:documentation>
-                        <value>nan-king</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Nan-king</a:documentation>
-                        <value>nan-tchang</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Nan-tchang</a:documentation>
-                        <value>soutchéou</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Soutchéou</a:documentation>
-                        <value>shang-haî</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Shang-haî</a:documentation>
-                        <value>canton</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Canton</a:documentation>
-                        <value>tien-tsin</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Tien-tsin</a:documentation>
-                        <value>montmorency</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Montmorency</a:documentation>
-                        <value>auxerre</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Auxerre</a:documentation>
-                        <value>palos</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Palos</a:documentation>
-                        <value>rambouillet</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Rambouillet</a:documentation>
-                        <value>rethel</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Rethel</a:documentation>
-                        <value>calvi</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Calvi</a:documentation>
-                        <value>san_salvador</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">San Salvador</a:documentation>
-                        <value>moscou</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Moscou</a:documentation>
-                        <value>smolensk</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Smolensk</a:documentation>
-                        <value>bruxelles</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Bruxelles</a:documentation>
-                        <value>milan</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Milan</a:documentation>
-                        <value>saint-quentin</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Saint-Quentin</a:documentation>
-                        <value>saint_denis</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Sant-Denis</a:documentation>
-                        <value>noyon</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Noyon</a:documentation>
-                        <value>nantes</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Nantes</a:documentation>
-                        <value>elbeuf</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Elbeuf</a:documentation>
-                        <value>lyon</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Lyon</a:documentation>
-                        <value>alençon</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Alençon</a:documentation>
-                        <value>valenciennes</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Valenciennes</a:documentation>
-                        <value>bayonne</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Bayonne</a:documentation>
-                        <value>châtellerault</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Châtellerault</a:documentation>
-                        <value>aix-la-chapelle</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Aix-la-Chapelle</a:documentation>
-                        <value>beaucaire</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Beaucaire</a:documentation>
-                        <value>provins</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Provins</a:documentation>
-                        <value>besançon</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Besançon</a:documentation>
-                        <value>montdidier</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Montdidier</a:documentation>
-                        <value>versailles</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Versailles</a:documentation>
-                        <value>benguéla</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Benguéla</a:documentation>
-                        <value>mecque</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Mecque</a:documentation>
-                        <value>tombouctou</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Tombouctou</a:documentation>
-                        <value>wieliczka</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Wieliczka</a:documentation>
-                        <value>bochnia</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Bochnia</a:documentation>
-                        <value>cracovie</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Cracovie</a:documentation>
-                        <value>château-salins</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Château-Salins</a:documentation>
-                        <value>dieuze</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Dieuze</a:documentation>
-                        <value>vic</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Vic</a:documentation>
-                        <value>lons-le-saunier</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Lons-le-Saunier</a:documentation>
-                        <value>salins</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Salins</a:documentation>
-                        <value>salies</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Salies</a:documentation>
-                        <value>strasbourg</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Strasbourg</a:documentation>
-                        <value>mayence</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Mayence</a:documentation>
-                        <value>meudon</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Meudon</a:documentation>
-                        <value>saint-cloud</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Saint-Cloud</a:documentation>
-                        <value>catelet</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Catelet</a:documentation>
-                        <value>câtelet</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Câtelet</a:documentation>
-                        <value>issy</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Issy</a:documentation>
-                        <value>alger</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Alger</a:documentation>
-                     </choice>
-                  </oneOrMore>
-               </list>
-            </attribute>
-         </optional>
          <empty/>
       </element>
    </define>
@@ -13082,77 +12646,9 @@ Suggested values include: 1] paper; 2] parch (parchment); 3] mixed</a:documentat
          <ref name="att.datable.attributes"/>
          <ref name="att.editLike.attributes"/>
          <ref name="att.global.attributes"/>
-         <ref name="att.naming.attribute.role"/>
-         <ref name="att.naming.attribute.nymRef"/>
-         <ref name="att.canonical.attribute.key"/>
-         <ref name="att.typed.attribute.subtype"/>
+         <ref name="att.naming.attributes"/>
+         <ref name="att.typed.attributes"/>
          <ref name="att.dimensions.attributes"/>
-         <optional>
-            <attribute name="ref">
-               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(reference) provides an explicit means of locating a full definition or identity for the entity being named by means of one or more URIs.</a:documentation>
-               <list>
-                  <oneOrMore>
-                     <choice>
-                        <value>sahara</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Sahara</a:documentation>
-                        <value>pô</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Pô</a:documentation>
-                        <value>atlantique</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Atlantique</a:documentation>
-                        <value>moye</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Moye</a:documentation>
-                        <value>atlantique</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Atlantique</a:documentation>
-                        <value>avre</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Avre</a:documentation>
-                        <value>bérésina</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Bérésina</a:documentation>
-                        <value>isthme_suez</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Isthme de Suez</a:documentation>
-                        <value>zambèze</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Zambèze</a:documentation>
-                        <value>sénégal</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Sénégal</a:documentation>
-                        <value>niger</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Niger</a:documentation>
-                     </choice>
-                  </oneOrMore>
-               </list>
-            </attribute>
-         </optional>
-         <optional>
-            <attribute name="type">
-               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">characterizes the element in some sense, using any convenient classification scheme or typology.</a:documentation>
-               <choice>
-                  <value>rivière</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Rivière</a:documentation>
-                  <value>désert</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Désert</a:documentation>
-                  <value>montagne</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Montagne</a:documentation>
-                  <value>fleuve</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Fleuve</a:documentation>
-                  <value>plaine</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Plaine</a:documentation>
-                  <value>forêt</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Forêt</a:documentation>
-                  <value>mer</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Mer</a:documentation>
-                  <value>océan</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Océan</a:documentation>
-                  <value>lac</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Lac</a:documentation>
-                  <value>étang</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Étang</a:documentation>
-                  <value>bois</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Bois</a:documentation>
-                  <value>rive</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Rive</a:documentation>
-                  <value>isthme</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Isthme</a:documentation>
-               </choice>
-            </attribute>
-         </optional>
          <empty/>
       </element>
    </define>
@@ -14357,14 +13853,10 @@ Sample values include: 1] atBirth; 2] atDeath; 3] dependent; 4] inherited; 5] in
          <ref name="att.datable.attributes"/>
          <ref name="att.editLike.attributes"/>
          <ref name="att.global.attributes"/>
-         <ref name="att.personal.attribute.full"/>
-         <ref name="att.personal.attribute.sort"/>
-         <ref name="att.naming.attribute.role"/>
-         <ref name="att.naming.attribute.nymRef"/>
-         <ref name="att.canonical.attribute.ref"/>
+         <ref name="att.personal.attributes"/>
          <optional>
-            <attribute name="key">
-               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">provides an externally-defined means of identifying the entity (or entities) being named, using a coded value of some kind.</a:documentation>
+            <attribute name="type">
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">characterizes the element in some sense, using any convenient classification scheme or typology.</a:documentation>
                <choice>
                   <value>économie_domestique</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Économie Domestique</a:documentation>
@@ -14374,31 +13866,6 @@ Sample values include: 1] atBirth; 2] atDeath; 3] dependent; 4] inherited; 5] in
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Sciences Naturelles</a:documentation>
                   <value>sciences_physiques</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Notions Relatives aux Sciences Physiques</a:documentation>
-               </choice>
-            </attribute>
-         </optional>
-         <optional>
-            <attribute name="type">
-               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">characterizes the element in some sense, using any convenient classification scheme or typology.</a:documentation>
-               <choice>
-                  <value>animaux</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Animaux</a:documentation>
-                  <value>constructions</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Constructions</a:documentation>
-                  <value>minéraux</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Minéraux</a:documentation>
-                  <value>végétaux</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Végétaux</a:documentation>
-                  <value>matières_objets_fabriques</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Matières et objets fabriqués</a:documentation>
-                  <value>machines_appareils</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Machines, appareils, ustensiles, vases</a:documentation>
-                  <value>outils</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Outils</a:documentation>
-                  <value>etoffes_habillement</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Étoffes, habillement</a:documentation>
-                  <value>divers_industrie</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Divers (Industrie)</a:documentation>
                </choice>
             </attribute>
          </optional>

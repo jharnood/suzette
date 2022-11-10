@@ -115,7 +115,7 @@
         <!-- objectName: @key to distinguish among categorical information -->
         <elementSpec ident="objectName" mode="change">
           <attList>
-            <attDef ident="key" mode="change">
+            <attDef ident="type" mode="change">
               <valList mode="add" type="closed">
                 <valItem ident="économie_domestique" mode="add">
                   <desc>Économie Domestique</desc>
@@ -134,7 +134,7 @@
           </attList>
         </elementSpec>
         <!-- objectName: @type to distinguish among categorical information -->
-        <elementSpec ident="objectName" mode="change">
+<!--        <elementSpec ident="objectName" mode="change">
           <attList>
             <attDef ident="type" mode="change">
               <valList mode="add" type="closed">
@@ -168,7 +168,7 @@
               </valList>
             </attDef>
           </attList>
-        </elementSpec>
+        </elementSpec>-->
         <!-- objectName: @subtype to distinguish among categorical information -->
         <elementSpec ident="objectName" mode="change">
           <attList>
@@ -208,8 +208,8 @@
             </attDef>
           </attList>
         </elementSpec>
-        <!-- orgName: add @key -->
-        <elementSpec ident="key">
+        <!-- orgName: add @key 
+        <elementSpec ident="orgName">
           <attList>
             <attDef ident="key" mode="change">
               <valList type="closed" mode="change">
@@ -225,7 +225,7 @@
               </valList>
             </attDef>
           </attList>
-        </elementSpec>
+        </elementSpec>-->
         <!-- persName: add  @type -->
         <elementSpec ident="persName" mode="change">
           <!--      	  <classes mode="change">
@@ -442,7 +442,7 @@
             </attDef>
           </attList>
         </elementSpec>
-        <!-- Add bloc @ref values -->
+<!--        <!-\- Add bloc @ref values -\->
         <elementSpec ident="bloc" mode="change">
           <attList>
             <attDef ident="ref" mode="change">
@@ -475,7 +475,7 @@
             </attDef>
           </attList>
         </elementSpec>
-        <!-- Add country @ref values -->
+        <!-\- Add country @ref values -\->
         <elementSpec ident="country" mode="change">
           <attList>
             <attDef ident="ref" mode="change">
@@ -596,7 +596,7 @@
             </attDef>
           </attList>
         </elementSpec>
-        <!-- Adding settlement @refs -->
+        <!-\- Adding settlement @refs -\->
         <elementSpec ident="settlement" mode="change">
           <attList>
             <attDef ident="ref" mode="change">
@@ -911,7 +911,7 @@
             </attDef>
           </attList>
         </elementSpec>
-        <!-- Add region @type values -->
+        <!-\- Add region @type values -\->
         <elementSpec ident="region" mode="change">
           <attList>
             <attDef ident="type" mode="change">
@@ -932,7 +932,7 @@
             </attDef>
           </attList>
         </elementSpec>
-        <!-- Add region @ref values -->
+        <!-\- Add region @ref values -\->
         <elementSpec ident="region" mode="change">
           <attList>
             <attDef ident="ref" mode="change">
@@ -977,7 +977,7 @@
             </attDef>
           </attList>
         </elementSpec>
-        <!-- Add geogFeat @type values  -->
+        <!-\- Add geogFeat @type values  -\->
         <elementSpec ident="geogFeat" mode="change">
           <attList>
             <attDef ident="type" mode="change">
@@ -1062,7 +1062,7 @@
             </attDef>
           </attList>
         </elementSpec>
-        <!-- Customize span @ana to reference thematic components of the book -->
+        <!-\- Customize span @ana to reference thematic components of the book -\->
         <elementSpec ident="span" mode="change">
           <attList>
             <attDef ident="ana" mode="change">
@@ -1094,7 +1094,7 @@
               </valList>
             </attDef>
           </attList>
-        </elementSpec>
+        </elementSpec>-->
         <!-- Customize FIGURE to include @type illustration or sujets -->
         <elementSpec ident="figure" mode="change">
           <attList>
