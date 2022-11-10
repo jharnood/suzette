@@ -34,7 +34,8 @@
         <xsl:apply-templates/>
         <xsl:text> </xsl:text>
     </xsl:template>
-    
+
+<!-- This hides all text within headers and forme words -->
     <xsl:template match="tei:head | tei:fw"/>
 
 <!-- 'tokenize' removes punctuation; remove the tokenize function if you want punctuation in text -->
