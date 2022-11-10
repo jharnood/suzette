@@ -29,19 +29,17 @@
 
     
     <xsl:template match="tei:teiHeader"/>
+
+    <!-- This hides the student récit section that wouldn't have affected teacher lesson plans -->
+    <xsl:template match="tei:div2[@type='récit']"/>
     
     <xsl:template match="*">
-        <xsl:apply-templates/>s
+        <xsl:apply-templates/>
         <xsl:text> </xsl:text>
     </xsl:template>
-    
-    <!-- This hides all text within headers and forme words -->    
+
+<!-- This hides all text within headers and forme words -->
     <xsl:template match="tei:head | tei:fw"/>
-    
-    
-    <!-- This hides all of the text that pertains only to the teacher edition so that only the raw text that students saw is shown -->
-    <xsl:template match="tei:div4[@type='réponses']"/>
-    
 
 <!-- 'tokenize' removes punctuation; remove the tokenize function if you want punctuation in text -->
     <xsl:template match="text()">
