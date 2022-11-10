@@ -21,8 +21,8 @@
   <text>
     <body>
       <schemaSpec ident="suzette-NewCustom" start="TEI teiCorpus" targetLang="en" docLang="en">
-        <!--removing prefix_tei
-        <moduleRef key="tei" />-->
+        <!--removing prefix_tei-->
+        <moduleRef key="tei" />
         <!-- required -->
         <moduleRef key="core" />
         <moduleRef key="analysis" />
@@ -115,7 +115,7 @@
         <!-- objectName: @key to distinguish among categorical information -->
         <elementSpec ident="objectName" mode="change">
           <attList>
-            <attDef ident="key" mode="change">
+            <attDef ident="type" mode="change">
               <valList mode="add" type="closed">
                 <valItem ident="économie_domestique" mode="add">
                   <desc>Économie Domestique</desc>
@@ -134,7 +134,7 @@
           </attList>
         </elementSpec>
         <!-- objectName: @type to distinguish among categorical information -->
-        <elementSpec ident="objectName" mode="change">
+<!--        <elementSpec ident="objectName" mode="change">
           <attList>
             <attDef ident="type" mode="change">
               <valList mode="add" type="closed">
@@ -168,7 +168,7 @@
               </valList>
             </attDef>
           </attList>
-        </elementSpec>
+        </elementSpec>-->
         <!-- objectName: @subtype to distinguish among categorical information -->
         <elementSpec ident="objectName" mode="change">
           <attList>
@@ -208,8 +208,8 @@
             </attDef>
           </attList>
         </elementSpec>
-        <!-- orgName: add @key -->
-        <elementSpec ident="key">
+        <!-- orgName: add @key 
+        <elementSpec ident="orgName">
           <attList>
             <attDef ident="key" mode="change">
               <valList type="closed" mode="change">
@@ -225,7 +225,7 @@
               </valList>
             </attDef>
           </attList>
-        </elementSpec>
+        </elementSpec>-->
         <!-- persName: add  @type -->
         <elementSpec ident="persName" mode="change">
           <!--      	  <classes mode="change">
