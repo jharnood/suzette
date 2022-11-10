@@ -112,120 +112,7 @@
             </attDef>
           </attList>
         </elementSpec>
-        <!-- objectName: @key to distinguish among categorical information -->
-        <elementSpec ident="objectName" mode="change">
-          <attList>
-            <attDef ident="type" mode="change">
-              <valList mode="add" type="closed">
-                <valItem ident="économie_domestique" mode="add">
-                  <desc>Économie Domestique</desc>
-                </valItem>
-                <valItem ident="industrie" mode="add">
-                  <desc>Industrie</desc>
-                </valItem>
-                <valItem ident="sciences_naturelles" mode="add">
-                  <desc>Sciences Naturelles</desc>
-                </valItem>
-                <valItem ident="sciences_physiques" mode="add">
-                  <desc>Notions Relatives aux Sciences Physiques</desc>
-                </valItem>
-              </valList>
-            </attDef>
-          </attList>
-        </elementSpec>
-        <!-- objectName: @type to distinguish among categorical information -->
-<!--        <elementSpec ident="objectName" mode="change">
-          <attList>
-            <attDef ident="type" mode="change">
-              <valList mode="add" type="closed">
-                <valItem ident="animaux" mode="add">
-                  <desc>Animaux</desc>
-                </valItem>
-                <valItem ident="constructions">
-                  <desc>Constructions</desc>
-                </valItem>
-                <valItem ident="minéraux" mode="add">
-                  <desc>Minéraux</desc>
-                </valItem>
-                <valItem ident="végétaux" mode="add">
-                  <desc>Végétaux</desc>
-                </valItem>
-                <valItem ident="matières_objets_fabriques" mode="add">
-                  <desc>Matières et objets fabriqués</desc>
-                </valItem>
-                <valItem ident="machines_appareils" mode="add">
-                  <desc>Machines, appareils, ustensiles, vases</desc>
-                </valItem>
-                <valItem ident="outils" mode="add">
-                  <desc>Outils</desc>
-                </valItem>
-                <valItem ident="etoffes_habillement" mode="add">
-                  <desc>Étoffes, habillement</desc>
-                </valItem>
-                <valItem ident="divers_industrie" mode="add">
-                  <desc>Divers (Industrie)</desc>
-                </valItem>
-              </valList>
-            </attDef>
-          </attList>
-        </elementSpec>-->
-        <!-- objectName: @subtype to distinguish among categorical information -->
-        <elementSpec ident="objectName" mode="change">
-          <attList>
-            <attDef ident="subtype" mode="change">
-              <valList mode="add" type="closed">
-                <valItem ident="arbres_non_cultivés" mode="add">
-                  <desc>1° Arbres Non Cultivés</desc>
-                </valItem>
-                <valItem ident="herbes_plantes_sauvages" mode="add">
-                  <desc>2° Herbes ou Plantes Sauvages</desc>
-                </valItem>
-                <valItem ident="arbres_cultivés" mode="add">
-                  <desc>3° Arbres Cultivés</desc>
-                </valItem>
-                <valItem ident="arbustes_cultivés" mode="add">
-                  <desc>4° Arbustes Cultivés</desc>
-                </valItem>
-                <valItem ident="céréales" mode="add">
-                  <desc>5° Céréales</desc>
-                </valItem>
-                <valItem ident="legumes_racines" mode="add">
-                  <desc>6° Légumes, Racines, etc.</desc>
-                </valItem>
-                <valItem ident="divers_végétaux" mode="add">
-                  <desc>7° Divers (Vegetaux)</desc>
-                </valItem>
-                <valItem ident="homme" mode="add">
-                  <desc>1° L'Homme</desc>
-                </valItem>
-                <valItem ident="animaux_domestiques" mode="add">
-                  <desc>2° Animaux Domestiques</desc>
-                </valItem>
-                <valItem ident="animaux_sauvages" mode="add">
-                  <desc>3° Animaux Sauvages</desc>
-                </valItem>
-              </valList>
-            </attDef>
-          </attList>
-        </elementSpec>
-        <!-- orgName: add @key 
-        <elementSpec ident="orgName">
-          <attList>
-            <attDef ident="key" mode="change">
-              <valList type="closed" mode="change">
-                <valItem ident="famille_dumay" mode="add">
-                  <desc>famille Dumay</desc>
-                </valItem>
-                <valItem ident="famille_richard" mode="add">
-                  <desc>famille Richard</desc>
-                </valItem>
-                <valItem ident="famille_valon" mode="add">
-                  <desc>famille Valon</desc>
-                </valItem>
-              </valList>
-            </attDef>
-          </attList>
-        </elementSpec>-->
+
         <!-- persName: add  @type -->
         <elementSpec ident="persName" mode="change">
           <!--      	  <classes mode="change">
@@ -388,6 +275,7 @@
             <attDef ident="source" mode="delete" />
           </attList>
         </elementSpec>
+        
         <!-- ALL PLACE ATTRIBUTE VALUES -->
         <!-- placeName: @type (real or fictif) -->
         <elementSpec ident="placeName" mode="change">
